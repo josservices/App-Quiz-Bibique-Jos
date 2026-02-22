@@ -1,0 +1,1817 @@
+[
+  {
+    "id": "galates-N-001",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:2",
+    "verseText": "Voir Galates 1:2.",
+    "question": "À qui Paul adresse-t-il sa salutation au début de l’épître ?",
+    "choices": [
+      "Aux Églises de la Galatie",
+      "À l’Église qui est à Corinthe",
+      "Aux saints qui sont à Éphèse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:2 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-002",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:3",
+    "verseText": "Voir Galates 1:3.",
+    "question": "Selon la salutation, de qui viennent « la grâce et la paix » ?",
+    "choices": [
+      "De Dieu le Père et de notre Seigneur Jésus Christ",
+      "De Paul et de tous les frères qui sont avec lui",
+      "Des Églises de la Galatie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:3 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-003",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:4",
+    "verseText": "Voir Galates 1:4.",
+    "question": "Pourquoi Jésus Christ « s’est donné lui-même pour nos péchés » ?",
+    "choices": [
+      "Afin de nous arracher du présent siècle mauvais",
+      "Afin de nous rendre parfaits selon la chair",
+      "Afin d’établir la circoncision parmi les païens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:4 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-004",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:6",
+    "verseText": "Voir Galates 1:6.",
+    "question": "Quel sentiment Paul exprime-t-il en voyant les Galates se détourner si promptement ?",
+    "choices": [
+      "Je m’étonne",
+      "Je me réjouis",
+      "Je me glorifie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:6 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-005",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:7",
+    "verseText": "Voir Galates 1:7.",
+    "question": "Que veulent faire « des gens » qui troublent les Galates ?",
+    "choices": [
+      "Renverser l’Évangile de Christ",
+      "Affermir l’Évangile de Christ",
+      "Multiplier les œuvres de la foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:7 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-006",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:8",
+    "verseText": "Voir Galates 1:8.",
+    "question": "Quel verdict Paul prononce-t-il sur quelqu’un (même un ange du ciel) annonçant un autre Évangile ?",
+    "choices": [
+      "Qu’il soit anathème",
+      "Qu’il soit béni",
+      "Qu’il soit excusé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:8 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-007",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:9",
+    "verseText": "Voir Galates 1:9.",
+    "question": "Que répète Paul au sujet de celui qui annonce un autre Évangile que celui reçu ?",
+    "choices": [
+      "Qu’il soit anathème",
+      "Qu’il soit instruit plus exactement",
+      "Qu’il soit accueilli comme un frère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:9 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-008",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:10",
+    "verseText": "Voir Galates 1:10.",
+    "question": "Quel serait le résultat si Paul plaisait encore aux hommes ?",
+    "choices": [
+      "Il ne serait pas serviteur de Christ",
+      "Il serait justifié par la loi",
+      "Il serait fils d’Abraham selon la chair"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:10 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-009",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:11",
+    "verseText": "Voir Galates 1:11.",
+    "question": "Comment Paul qualifie-t-il l’Évangile annoncé par lui quant à son origine ?",
+    "choices": [
+      "Il n’est pas de l’homme",
+      "Il est une tradition de ses pères",
+      "Il vient des plus considérés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:11 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-010",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:12",
+    "verseText": "Voir Galates 1:12.",
+    "question": "Par quoi Paul a-t-il reçu ou appris l’Évangile qu’il annonce ?",
+    "choices": [
+      "Par une révélation de Jésus Christ",
+      "Par l’enseignement d’un homme",
+      "Par la loi donnée au Sinaï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:12 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-011",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:13",
+    "verseText": "Voir Galates 1:13.",
+    "question": "Dans quelle sphère Paul décrit-il sa conduite d’autrefois ?",
+    "choices": [
+      "Dans le judaïsme",
+      "Dans l’idolâtrie des nations",
+      "Dans le service du temple de Diane"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:13 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-012",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:13",
+    "verseText": "Voir Galates 1:13.",
+    "question": "Qu’a-t-il fait « à outrance » contre l’Église de Dieu ?",
+    "choices": [
+      "Il la persécutait",
+      "Il la protégeait",
+      "Il l’édifiait"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:13 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-013",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:14",
+    "verseText": "Voir Galates 1:14.",
+    "question": "Quel trait Paul met-il en avant concernant son rapport aux traditions ?",
+    "choices": [
+      "Un zèle excessif pour les traditions de mes pères",
+      "Un mépris constant des traditions de mes pères",
+      "Une ignorance des traditions de mes pères"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:14 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-014",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:15",
+    "verseText": "Voir Galates 1:15.",
+    "question": "Dès quand Paul dit-il avoir été « mis à part » ?",
+    "choices": [
+      "Dès le sein de ma mère",
+      "Dès mon arrivée à Jérusalem",
+      "Dès ma première visite à Antioche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:15 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-015",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:16",
+    "verseText": "Voir Galates 1:16.",
+    "question": "Pour quel but Dieu a-t-il révélé son Fils « en » Paul ?",
+    "choices": [
+      "Afin que je l’annonçasse parmi les païens",
+      "Afin que je l’annonce seulement aux Juifs",
+      "Afin que je rétablisse les jours, les mois, les temps et les années"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:16 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-016",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:16",
+    "verseText": "Voir Galates 1:16.",
+    "question": "Après cette révélation, que Paul dit-il ne pas avoir consulté ?",
+    "choices": [
+      "Ni la chair ni le sang",
+      "Les scribes et les pharisiens",
+      "Les tuteurs et les administrateurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:16 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-017",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:17",
+    "verseText": "Voir Galates 1:17.",
+    "question": "Où Paul partit-il au lieu de monter vers ceux qui furent apôtres avant lui ?",
+    "choices": [
+      "Pour l’Arabie",
+      "Pour la Macédoine",
+      "Pour Rome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:17 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-018",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:17",
+    "verseText": "Voir Galates 1:17.",
+    "question": "Quel lieu Paul mentionne-t-il dans le passage suivant, après l’Arabie ?",
+    "choices": [
+      "Damas",
+      "Césarée",
+      "Béthanie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:17 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-019",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:18",
+    "verseText": "Voir Galates 1:18.",
+    "question": "Après combien de temps Paul monta-t-il à Jérusalem pour faire la connaissance de Céphas ?",
+    "choices": [
+      "Trois ans après",
+      "Quatorze ans après",
+      "Sept ans après"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:18 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-020",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:18",
+    "verseText": "Voir Galates 1:18.",
+    "question": "Combien de jours Paul resta-t-il avec Céphas ?",
+    "choices": [
+      "Quinze jours",
+      "Dix jours",
+      "Quarante jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:18 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-021",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:19",
+    "verseText": "Voir Galates 1:19.",
+    "question": "Quel autre apôtre Paul dit-il avoir vu à Jérusalem lors de cette visite ?",
+    "choices": [
+      "Jacques, le frère du Seigneur",
+      "Jean, le fils de Zébédée",
+      "André, le frère de Simon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:19 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-022",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:21",
+    "verseText": "Voir Galates 1:21.",
+    "question": "Dans quelles régions Paul dit-il être allé dans le passage suivant ?",
+    "choices": [
+      "Dans la Syrie et la Cilicie",
+      "Dans l’Achaïe et l’Attique",
+      "Dans la Crète et Chypre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:21 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-023",
+    "book": "Galates",
+    "chapter": 1,
+    "verseRef": "Galates 1:23",
+    "verseText": "Voir Galates 1:23.",
+    "question": "Quelle rumeur circulait sur Paul parmi les Églises de Judée en Christ ?",
+    "choices": [
+      "Celui qui autrefois nous persécutait annonce maintenant la foi",
+      "Celui qui autrefois nous enseignait condamne maintenant la foi",
+      "Celui qui autrefois nous nourrissait renverse maintenant la foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 1:23 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-024",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:1",
+    "verseText": "Voir Galates 2:1.",
+    "question": "Quel compagnon Paul mentionne-t-il lorsqu’il remonte à Jérusalem quatorze ans après ?",
+    "choices": [
+      "Barnabas",
+      "Silas",
+      "Timothée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:1 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-025",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:1",
+    "verseText": "Voir Galates 2:1.",
+    "question": "Qui Paul dit-il avoir pris aussi avec lui lors de cette montée ?",
+    "choices": [
+      "Tite",
+      "Marc",
+      "Apollos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:1 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-026",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:2",
+    "verseText": "Voir Galates 2:2.",
+    "question": "Pour quelle raison Paul dit-il être monté à Jérusalem cette fois-là ?",
+    "choices": [
+      "D’après une révélation",
+      "À cause d’une famine",
+      "Pour fuir une persécution à Damas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:2 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-027",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:2",
+    "verseText": "Voir Galates 2:2.",
+    "question": "À qui Paul exposa-t-il « en particulier » l’Évangile qu’il prêche parmi les païens ?",
+    "choices": [
+      "À ceux qui sont les plus considérés",
+      "À ceux qui sont les plus jeunes",
+      "À ceux qui sont hors de l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:2 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-028",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:3",
+    "verseText": "Voir Galates 2:3.",
+    "question": "Quel fait Paul souligne-t-il à propos de Tite, qui était Grec ?",
+    "choices": [
+      "Il ne fut pas même contraint de se faire circoncire",
+      "Il fut immédiatement établi docteur de la loi",
+      "Il fut envoyé en Arabie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:3 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-029",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:4",
+    "verseText": "Voir Galates 2:4.",
+    "question": "Comment Paul qualifie-t-il ceux qui s’introduisirent pour épier la liberté des croyants ?",
+    "choices": [
+      "De faux frères",
+      "De serviteurs fidèles",
+      "De tuteurs légitimes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:4 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-030",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:4",
+    "verseText": "Voir Galates 2:4.",
+    "question": "Quel était l’objectif de ces « faux frères » selon Paul ?",
+    "choices": [
+      "Nous asservir",
+      "Nous affranchir",
+      "Nous fortifier dans la foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:4 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-031",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:5",
+    "verseText": "Voir Galates 2:5.",
+    "question": "Quelle attitude Paul affirme-t-il avoir eue envers eux ?",
+    "choices": [
+      "Nous ne leur cédâmes pas un instant",
+      "Nous les suivîmes pendant un temps",
+      "Nous les consultâmes longuement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:5 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-032",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:5",
+    "verseText": "Voir Galates 2:5.",
+    "question": "Quel but Paul associe-t-il à cette résistance ?",
+    "choices": [
+      "Afin que la vérité de l’Évangile soit maintenue parmi vous",
+      "Afin que la loi soit confirmée parmi vous",
+      "Afin que la chair triomphe parmi vous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:5 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-033",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:6",
+    "verseText": "Voir Galates 2:6.",
+    "question": "Quel point Paul affirme-t-il à propos des plus considérés concernant sa mission ?",
+    "choices": [
+      "Ils ne m’imposèrent rien",
+      "Ils m’imposèrent la circoncision",
+      "Ils m’imposèrent l’observation des temps et des années"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:6 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-034",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:10",
+    "verseText": "Voir Galates 2:10.",
+    "question": "Que demandèrent-ils seulement à Paul et à ses compagnons ?",
+    "choices": [
+      "De se souvenir des pauvres",
+      "De bâtir un autel à Jérusalem",
+      "De publier une nouvelle loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:10 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-035",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:11",
+    "verseText": "Voir Galates 2:11.",
+    "question": "Pourquoi Paul résista-t-il à Céphas « en face » ?",
+    "choices": [
+      "Parce qu’il était répréhensible",
+      "Parce qu’il refusait d’aller en Arabie",
+      "Parce qu’il niait avoir connu Jésus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:11 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-036",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:12",
+    "verseText": "Voir Galates 2:12.",
+    "question": "Avec qui Céphas mangeait-il avant l’arrivée de certains venant de Jacques ?",
+    "choices": [
+      "Avec les païens",
+      "Avec les pharisiens",
+      "Avec les chefs de la synagogue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:12 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-037",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:12",
+    "verseText": "Voir Galates 2:12.",
+    "question": "Que fit Céphas lorsqu’ils furent arrivés ?",
+    "choices": [
+      "Il se retira et se tint à l’écart",
+      "Il demeura fermement avec les païens",
+      "Il monta aussitôt au Sinaï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:12 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-038",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:12",
+    "verseText": "Voir Galates 2:12.",
+    "question": "Quel motif de crainte Paul attribue-t-il à Céphas ?",
+    "choices": [
+      "Il craignait ceux de la circoncision",
+      "Il craignait les jours et les mois",
+      "Il craignait les tuteurs et les administrateurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:12 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-039",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:13",
+    "verseText": "Voir Galates 2:13.",
+    "question": "Quel autre personnage Paul cite-t-il comme ayant été entraîné par la dissimulation ?",
+    "choices": [
+      "Barnabas",
+      "Tite",
+      "Timothée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:13 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-040",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:14",
+    "verseText": "Voir Galates 2:14.",
+    "question": "Comment Paul décrit-il la conduite de ces personnes vis-à-vis de l’Évangile ?",
+    "choices": [
+      "Ils ne marchaient pas droit selon la vérité de l’Évangile",
+      "Ils couraient bien selon la loi",
+      "Ils achevaient par la chair ce qui avait commencé par la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:14 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-041",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:16",
+    "verseText": "Voir Galates 2:16.",
+    "question": "Quel principe Paul affirme-t-il sur la justification ?",
+    "choices": [
+      "L’homme n’est pas justifié par les œuvres de la loi, mais par la foi en Jésus Christ",
+      "L’homme est justifié par l’observation des jours et des mois",
+      "L’homme est justifié par la circoncision seule"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:16 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-042",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:16",
+    "verseText": "Voir Galates 2:16.",
+    "question": "Que dit Paul des « œuvres de la loi » quant à la justification ?",
+    "choices": [
+      "Nul ne sera justifié par elles",
+      "Tous seront justifiés par elles",
+      "Quelques-uns seront justifiés par elles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:16 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-043",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:17",
+    "verseText": "Voir Galates 2:17.",
+    "question": "Quelle question Paul pose-t-il à propos de Christ si, cherchant à être justifiés en lui, on était aussi trouvés pécheurs ?",
+    "choices": [
+      "Christ serait-il donc un ministre du péché ?",
+      "Christ serait-il donc un ministre de la loi ?",
+      "Christ serait-il donc un ministre des rudiments du monde ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:17 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-044",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:18",
+    "verseText": "Voir Galates 2:18.",
+    "question": "Que dit Paul sur ce qu’il avait détruit, s’il le rebâtit ?",
+    "choices": [
+      "Il se constitue lui-même un transgresseur",
+      "Il devient un apôtre plus considéré",
+      "Il devient héritier par la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:18 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-045",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:19",
+    "verseText": "Voir Galates 2:19.",
+    "question": "Par quel moyen Paul dit-il être mort à la loi ?",
+    "choices": [
+      "Par la loi",
+      "Par la circoncision",
+      "Par les traditions de ses pères"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:19 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-046",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:20",
+    "verseText": "Voir Galates 2:20.",
+    "question": "Comment Paul exprime-t-il son union avec Christ concernant la crucifixion ?",
+    "choices": [
+      "J’ai été crucifié avec Christ",
+      "J’ai été couronné avec Christ",
+      "J’ai été élevé avec Christ au Sinaï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:20 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-047",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:20",
+    "verseText": "Voir Galates 2:20.",
+    "question": "Qui Paul dit-il vivre en lui ?",
+    "choices": [
+      "Christ",
+      "Barnabas",
+      "Jacques"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:20 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-048",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:20",
+    "verseText": "Voir Galates 2:20.",
+    "question": "Dans quoi Paul dit-il vivre « maintenant dans la chair » ?",
+    "choices": [
+      "Dans la foi au Fils de Dieu",
+      "Dans les œuvres de la loi",
+      "Dans l’observation des temps et des années"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:20 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-049",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:21",
+    "verseText": "Voir Galates 2:21.",
+    "question": "Que Paul refuse-t-il de rejeter ?",
+    "choices": [
+      "La grâce de Dieu",
+      "La promesse faite à Abraham",
+      "La liberté en Christ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:21 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-050",
+    "book": "Galates",
+    "chapter": 2,
+    "verseRef": "Galates 2:21",
+    "verseText": "Voir Galates 2:21.",
+    "question": "Que conclut Paul si la justice s’obtient par la loi ?",
+    "choices": [
+      "Christ est donc mort en vain",
+      "La foi est donc annulée",
+      "L’Esprit est donc inutile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 2:21 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-051",
+    "book": "Galates",
+    "chapter": 3,
+    "verseRef": "Galates 3:1",
+    "verseText": "Voir Galates 3:1.",
+    "question": "Comment Paul interpelle-t-il les destinataires au début du chapitre 3 ?",
+    "choices": [
+      "O Galates, dépourvus de sens !",
+      "O Galates, pleins de sagesse !",
+      "O Galates, enfants obéissants !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 3:1 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-052",
+    "book": "Galates",
+    "chapter": 3,
+    "verseRef": "Galates 3:1",
+    "verseText": "Voir Galates 3:1.",
+    "question": "Quel fait Paul rappelle-t-il au sujet de Jésus Christ aux yeux des Galates ?",
+    "choices": [
+      "Il a été peint comme crucifié",
+      "Il a été proclamé roi de Césarée",
+      "Il a été établi juge de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 3:1 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-053",
+    "book": "Galates",
+    "chapter": 3,
+    "verseRef": "Galates 3:2",
+    "verseText": "Voir Galates 3:2.",
+    "question": "Que veut apprendre Paul des Galates au sujet de la réception de l’Esprit ?",
+    "choices": [
+      "Par les œuvres de la loi ou par la prédication de la foi",
+      "Par les sacrifices ou par les jeûnes",
+      "Par les traditions ou par les coutumes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 3:2 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-054",
+    "book": "Galates",
+    "chapter": 3,
+    "verseRef": "Galates 3:3",
+    "verseText": "Voir Galates 3:3.",
+    "question": "Quelle opposition Paul formule-t-il entre commencer et finir ?",
+    "choices": [
+      "Commencé par l’Esprit, finir par la chair",
+      "Commencé par la loi, finir par l’Esprit",
+      "Commencé par les rudiments, finir par la circoncision"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 3:3 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-055",
+    "book": "Galates",
+    "chapter": 3,
+    "verseRef": "Galates 3:6",
+    "verseText": "Voir Galates 3:6.",
+    "question": "Quel exemple Paul cite-t-il pour montrer l’imputation à justice ?",
+    "choices": [
+      "Abraham crut à Dieu",
+      "Moïse vit le buisson ardent",
+      "David vainquit Goliath"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 3:6 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-056",
+    "book": "Galates",
+    "chapter": 3,
+    "verseRef": "Galates 3:7",
+    "verseText": "Voir Galates 3:7.",
+    "question": "Qui Paul appelle « fils d’Abraham » ?",
+    "choices": [
+      "Ceux qui ont la foi",
+      "Ceux qui observent les jours",
+      "Ceux qui possèdent la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 3:7 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-057",
+    "book": "Galates",
+    "chapter": 3,
+    "verseRef": "Galates 3:8",
+    "verseText": "Voir Galates 3:8.",
+    "question": "Que l’Écriture a-t-elle annoncé d’avance à Abraham concernant les nations ?",
+    "choices": [
+      "Toutes les nations seront bénies en toi",
+      "Toutes les nations seront jugées par toi",
+      "Toutes les nations te serviront"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 3:8 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-058",
+    "book": "Galates",
+    "chapter": 3,
+    "verseRef": "Galates 3:9",
+    "verseText": "Voir Galates 3:9.",
+    "question": "Avec qui Paul dit-il que ceux qui croient sont bénis ?",
+    "choices": [
+      "Avec Abraham le croyant",
+      "Avec Céphas le considéré",
+      "Avec Barnabas le consolateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 3:9 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-059",
+    "book": "Galates",
+    "chapter": 3,
+    "verseRef": "Galates 3:10",
+    "verseText": "Voir Galates 3:10.",
+    "question": "Sous quoi sont « tous ceux qui s’attachent aux œuvres de la loi » ?",
+    "choices": [
+      "Sous la malédiction",
+      "Sous la liberté",
+      "Sous l’adoption"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 3:10 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-060",
+    "book": "Galates",
+    "chapter": 3,
+    "verseRef": "Galates 3:11",
+    "verseText": "Voir Galates 3:11.",
+    "question": "Quelle affirmation Paul cite-t-il pour montrer que nul n’est justifié devant Dieu par la loi ?",
+    "choices": [
+      "Le juste vivra par la foi",
+      "L’homme vivra par le pain",
+      "Le peuple vivra par les jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 3:11 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-061",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:5",
+    "verseText": "Voir Galates 5:5.",
+    "question": "Dans quoi les croyants attendent-ils l’espérance de la justice ?",
+    "choices": [
+      "Par l’Esprit",
+      "Par la loi",
+      "Par la chair"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:5 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-062",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:6",
+    "verseText": "Voir Galates 5:6.",
+    "question": "Qu’est-ce qui a de la valeur en Jésus Christ, selon Paul ?",
+    "choices": [
+      "La foi qui est agissante par la charité",
+      "La circoncision pratiquée avec rigueur",
+      "L’incirconcision observée fidèlement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:6 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-063",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:7",
+    "verseText": "Voir Galates 5:7.",
+    "question": "Quelle image Paul utilise-t-il pour décrire leur progression interrompue ?",
+    "choices": [
+      "Vous couriez bien",
+      "Vous bâtissiez bien",
+      "Vous combattiez bien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:7 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-064",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:8",
+    "verseText": "Voir Galates 5:8.",
+    "question": "Qu’est-ce qui a empêché les Galates d’obéir à la vérité ?",
+    "choices": [
+      "Une persuasion",
+      "Une révélation",
+      "Une prophétie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:8 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-065",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:8",
+    "verseText": "Voir Galates 5:8.",
+    "question": "De qui cette persuasion ne vient-elle pas ?",
+    "choices": [
+      "De celui qui vous appelle",
+      "De celui qui vous enseigne",
+      "De celui qui vous observe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:8 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-066",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:9",
+    "verseText": "Voir Galates 5:9.",
+    "question": "Quel effet Paul attribue-t-il à « un peu de levain » ?",
+    "choices": [
+      "Il fait lever toute la pâte",
+      "Il purifie toute la pâte",
+      "Il détruit toute la pâte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:9 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-067",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:10",
+    "verseText": "Voir Galates 5:10.",
+    "question": "Quelle confiance Paul dit-il avoir au sujet des Galates ?",
+    "choices": [
+      "Vous ne penserez pas autrement",
+      "Vous retournerez à Jérusalem",
+      "Vous pratiquerez les traditions des pères"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:10 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-068",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:10",
+    "verseText": "Voir Galates 5:10.",
+    "question": "Que portera celui qui trouble les Galates ?",
+    "choices": [
+      "Le jugement",
+      "La couronne",
+      "L’excuse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:10 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-069",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:11",
+    "verseText": "Voir Galates 5:11.",
+    "question": "Quel point Paul évoque-t-il pour montrer qu’il n’annonce pas « encore » la circoncision ?",
+    "choices": [
+      "Il est encore persécuté",
+      "Il est honoré par tous",
+      "Il est établi juge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:11 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-070",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:11",
+    "verseText": "Voir Galates 5:11.",
+    "question": "Si Paul prêchait encore la circoncision, que serait-il arrivé au scandale de la croix ?",
+    "choices": [
+      "Il aurait disparu",
+      "Il aurait augmenté",
+      "Il aurait été incompris"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:11 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-071",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:12",
+    "verseText": "Voir Galates 5:12.",
+    "question": "Quel souhait Paul exprime-t-il à propos de ceux qui troublent les Galates ?",
+    "choices": [
+      "Qu’ils se retranchassent eux-mêmes",
+      "Qu’ils soient établis anciens",
+      "Qu’ils soient envoyés aux païens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:12 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-072",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:13",
+    "verseText": "Voir Galates 5:13.",
+    "question": "À quoi les Galates ont-ils été appelés ?",
+    "choices": [
+      "À la liberté",
+      "À la servitude",
+      "À la crainte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:13 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-073",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:13",
+    "verseText": "Voir Galates 5:13.",
+    "question": "Comment la liberté ne doit-elle pas être utilisée ?",
+    "choices": [
+      "Comme une occasion de vivre selon la chair",
+      "Comme un moyen d’abolir la foi",
+      "Comme un prétexte pour juger les faibles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:13 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-074",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:13",
+    "verseText": "Voir Galates 5:13.",
+    "question": "Quelle exhortation suit l’avertissement sur la liberté ?",
+    "choices": [
+      "Servez-vous par la charité les uns les autres",
+      "Imitez les anges les uns et les autres",
+      "Craignez les jours et les mois les uns et les autres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:13 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-075",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:14",
+    "verseText": "Voir Galates 5:14.",
+    "question": "Par quelle formule Paul résume-t-il toute la loi ?",
+    "choices": [
+      "Tu aimeras ton prochain comme toi-même",
+      "Tu offriras des sacrifices chaque jour",
+      "Tu observeras des temps et des années"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:14 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-076",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:15",
+    "verseText": "Voir Galates 5:15.",
+    "question": "Quel danger Paul signale-t-il si les Galates se mordent et se dévorent ?",
+    "choices": [
+      "Se détruire les uns les autres",
+      "Se justifier les uns les autres",
+      "S’élever les uns les autres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:15 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-077",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:16",
+    "verseText": "Voir Galates 5:16.",
+    "question": "Quel ordre Paul donne-t-il concernant la conduite quotidienne ?",
+    "choices": [
+      "Marchez selon l’Esprit",
+      "Marchez selon la loi",
+      "Marchez selon la chair"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:16 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-078",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:16",
+    "verseText": "Voir Galates 5:16.",
+    "question": "Quel résultat est promis à ceux qui marchent selon l’Esprit ?",
+    "choices": [
+      "Ils n’accompliront pas les désirs de la chair",
+      "Ils accompliront les œuvres de la loi",
+      "Ils craindront les rudiments du monde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:16 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-079",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:17",
+    "verseText": "Voir Galates 5:17.",
+    "question": "Que dit Paul de la chair par rapport à l’Esprit ?",
+    "choices": [
+      "La chair a des désirs contraires à ceux de l’Esprit",
+      "La chair confirme les désirs de l’Esprit",
+      "La chair ignore totalement l’Esprit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:17 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-080",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:17",
+    "verseText": "Voir Galates 5:17.",
+    "question": "Que produit cette opposition entre chair et Esprit selon Paul ?",
+    "choices": [
+      "Vous ne faites point les choses que vous voudriez",
+      "Vous faites toujours les choses que vous voudriez",
+      "Vous observez parfaitement les temps"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:17 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-081",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:18",
+    "verseText": "Voir Galates 5:18.",
+    "question": "Si vous êtes conduits par l’Esprit, que dit Paul au sujet de votre relation à la loi ?",
+    "choices": [
+      "Vous n’êtes point sous la loi",
+      "Vous êtes sous la loi",
+      "Vous êtes sous la malédiction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:18 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-082",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:19",
+    "verseText": "Voir Galates 5:19.",
+    "question": "Parmi les œuvres de la chair, quel terme figure dans la liste de Paul ?",
+    "choices": [
+      "Impudicité",
+      "Patience",
+      "Douceur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:19 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-083",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:20",
+    "verseText": "Voir Galates 5:20.",
+    "question": "Quel autre terme Paul cite-t-il parmi les œuvres de la chair ?",
+    "choices": [
+      "Idolâtrie",
+      "Tempérance",
+      "Paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:20 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-084",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:20",
+    "verseText": "Voir Galates 5:20.",
+    "question": "Quel mot Paul associe-t-il aux œuvres de la chair dans la même énumération ?",
+    "choices": [
+      "Ennemités",
+      "Bonté",
+      "Fidélité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:20 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-085",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:21",
+    "verseText": "Voir Galates 5:21.",
+    "question": "Quel comportement Paul inclut-il encore dans les œuvres de la chair ?",
+    "choices": [
+      "Ivrognerie",
+      "Joie",
+      "Modestie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:21 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-086",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:21",
+    "verseText": "Voir Galates 5:21.",
+    "question": "Que déclare Paul au sujet de ceux qui commettent de telles choses ?",
+    "choices": [
+      "Ils n’hériteront point le royaume de Dieu",
+      "Ils seront justifiés par la loi",
+      "Ils recevront l’adoption par leurs œuvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:21 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-087",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:22",
+    "verseText": "Voir Galates 5:22.",
+    "question": "Quel élément fait partie du fruit de l’Esprit selon Paul ?",
+    "choices": [
+      "Charité",
+      "Haine",
+      "Discorde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:22 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-088",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:22",
+    "verseText": "Voir Galates 5:22.",
+    "question": "Quel autre élément du fruit de l’Esprit est cité ?",
+    "choices": [
+      "Paix",
+      "Jalousies",
+      "Hérésies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:22 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-089",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:22",
+    "verseText": "Voir Galates 5:22.",
+    "question": "Quel trait du fruit de l’Esprit Paul mentionne-t-il aussi ?",
+    "choices": [
+      "Longanimité",
+      "Meurtres",
+      "Dissensions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:22 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-090",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:23",
+    "verseText": "Voir Galates 5:23.",
+    "question": "Quel terme Paul donne-t-il encore dans le fruit de l’Esprit ?",
+    "choices": [
+      "Tempérance",
+      "Impureté",
+      "Querelles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:23 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-091",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:23",
+    "verseText": "Voir Galates 5:23.",
+    "question": "Que dit Paul à propos de la loi face à de telles choses ?",
+    "choices": [
+      "Il n’y a point de loi contre elles",
+      "Il y a une loi contre elles",
+      "La loi les condamne toutes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:23 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-092",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:24",
+    "verseText": "Voir Galates 5:24.",
+    "question": "Que dit Paul de ceux qui sont à Jésus Christ à l’égard de la chair ?",
+    "choices": [
+      "Ils ont crucifié la chair avec ses passions et ses désirs",
+      "Ils ont exalté la chair avec ses passions et ses désirs",
+      "Ils ont ignoré la chair sans lutte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:24 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-093",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:25",
+    "verseText": "Voir Galates 5:25.",
+    "question": "Si nous vivons par l’Esprit, quelle cohérence Paul demande-t-il ?",
+    "choices": [
+      "Marchons aussi selon l’Esprit",
+      "Retournons aussi sous la loi",
+      "Observons aussi les temps"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:25 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-094",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:26",
+    "verseText": "Voir Galates 5:26.",
+    "question": "Quelle attitude Paul interdit-il à la communauté ?",
+    "choices": [
+      "Ne cherchons pas une vaine gloire",
+      "Ne cherchons pas la charité",
+      "Ne cherchons pas la paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:26 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-095",
+    "book": "Galates",
+    "chapter": 5,
+    "verseRef": "Galates 5:26",
+    "verseText": "Voir Galates 5:26.",
+    "question": "Quels comportements Paul associe-t-il à la vaine gloire ?",
+    "choices": [
+      "En nous provoquant les uns les autres, en nous portant envie les uns aux autres",
+      "En nous servant les uns les autres, en nous supportant les uns les autres",
+      "En nous instruisant les uns les autres, en nous encourageant les uns les autres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:26 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-096",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:1",
+    "verseText": "Voir Galates 6:1.",
+    "question": "Si quelqu’un vient à être surpris en quelque faute, que doivent faire « vous qui êtes spirituels » ?",
+    "choices": [
+      "Le redresser avec un esprit de douceur",
+      "Le condamner sans délai",
+      "L’exclure sans appel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:1 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-097",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:1",
+    "verseText": "Voir Galates 6:1.",
+    "question": "À quoi chacun doit-il prendre garde en redressant un autre ?",
+    "choices": [
+      "À lui-même, de peur qu’il ne soit aussi tenté",
+      "À ses œuvres, afin d’être justifié",
+      "À son rang, afin d’être honoré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:1 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-098",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:2",
+    "verseText": "Voir Galates 6:2.",
+    "question": "Quel commandement réciproque Paul donne-t-il concernant les charges ?",
+    "choices": [
+      "Portez les fardeaux les uns des autres",
+      "Multipliez les reproches les uns des autres",
+      "Comptez les fautes les uns des autres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:2 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-099",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:2",
+    "verseText": "Voir Galates 6:2.",
+    "question": "En portant les fardeaux les uns des autres, quelle chose est accomplie ?",
+    "choices": [
+      "La loi de Christ",
+      "La loi de Moïse",
+      "La tradition des pères"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:2 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-100",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:3",
+    "verseText": "Voir Galates 6:3.",
+    "question": "Quel danger Paul signale-t-il à celui qui se croit quelque chose en n’étant rien ?",
+    "choices": [
+      "Il s’abuse lui-même",
+      "Il devient parfait",
+      "Il est justifié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:3 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-101",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:4",
+    "verseText": "Voir Galates 6:4.",
+    "question": "Que doit faire chacun pour éprouver ce qui le regarde ?",
+    "choices": [
+      "Examiner ses propres œuvres",
+      "Examiner les œuvres des autres",
+      "Examiner les jours et les mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:4 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-102",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:4",
+    "verseText": "Voir Galates 6:4.",
+    "question": "Quel type de gloire Paul indique-t-il alors possible ?",
+    "choices": [
+      "Se glorifier par rapport à lui seul, et non par rapport à autrui",
+      "Se glorifier par rapport à autrui, et non par rapport à lui seul",
+      "Se glorifier dans la circoncision, et non dans la foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:4 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-103",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:5",
+    "verseText": "Voir Galates 6:5.",
+    "question": "Que devra porter chacun, selon Paul ?",
+    "choices": [
+      "Son propre fardeau",
+      "Le fardeau du médiateur",
+      "Le fardeau des anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:5 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-104",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:6",
+    "verseText": "Voir Galates 6:6.",
+    "question": "Quel partage Paul demande-t-il entre l’instruit et celui qui l’instruit ?",
+    "choices": [
+      "Que celui à qui l’on enseigne la parole fasse part de tous ses biens à celui qui l’enseigne",
+      "Que celui qui enseigne donne tout à celui qui apprend",
+      "Que chacun garde ses biens pour lui seul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:6 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-105",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:7",
+    "verseText": "Voir Galates 6:7.",
+    "question": "Quelle mise en garde Paul donne-t-il sur la possibilité d’être trompé ?",
+    "choices": [
+      "Ne vous y trompez pas",
+      "Ne vous y habituez pas",
+      "Ne vous y opposez pas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:7 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-106",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:7",
+    "verseText": "Voir Galates 6:7.",
+    "question": "Que dit Paul de Dieu dans la phrase de Galates 6:7 ?",
+    "choices": [
+      "On ne se moque pas de Dieu",
+      "On peut convaincre Dieu",
+      "On peut changer Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:7 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-107",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:7",
+    "verseText": "Voir Galates 6:7.",
+    "question": "Quel principe de rétribution Paul énonce-t-il ?",
+    "choices": [
+      "Ce qu’un homme aura semé, il le moissonnera aussi",
+      "Ce qu’un homme aura promis, il l’oubliera aussi",
+      "Ce qu’un homme aura vu, il le répétera aussi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:7 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-108",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:8",
+    "verseText": "Voir Galates 6:8.",
+    "question": "Celui qui sème pour sa chair moissonnera quoi ?",
+    "choices": [
+      "La corruption",
+      "La justice",
+      "La liberté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:8 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-109",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:8",
+    "verseText": "Voir Galates 6:8.",
+    "question": "Celui qui sème pour l’Esprit moissonnera quoi ?",
+    "choices": [
+      "La vie éternelle",
+      "La servitude",
+      "La malédiction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:8 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-110",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:9",
+    "verseText": "Voir Galates 6:9.",
+    "question": "Quelle attitude Paul recommande-t-il face au découragement dans le bien ?",
+    "choices": [
+      "Ne nous lassons pas de faire le bien",
+      "Ne nous pressons pas de faire le bien",
+      "Ne cherchons pas à faire le bien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:9 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-111",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:9",
+    "verseText": "Voir Galates 6:9.",
+    "question": "À quel moment Paul promet-il une moisson pour ceux qui persévèrent ?",
+    "choices": [
+      "Au temps convenable",
+      "À la fin de l’année",
+      "Après quatorze ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:9 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-112",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:9",
+    "verseText": "Voir Galates 6:9.",
+    "question": "Sous quelle condition ne doivent-ils pas se relâcher ?",
+    "choices": [
+      "Si nous ne nous relâchons pas",
+      "Si nous observons les jours",
+      "Si nous pratiquons la circoncision"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:9 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-113",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:10",
+    "verseText": "Voir Galates 6:10.",
+    "question": "Quelle opportunité Paul demande-t-il de saisir envers tous ?",
+    "choices": [
+      "Faisons du bien à tous",
+      "Exigeons tout de tous",
+      "Craignons tout de tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:10 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-114",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:10",
+    "verseText": "Voir Galates 6:10.",
+    "question": "Vers qui Paul souligne-t-il une priorité dans la bienfaisance ?",
+    "choices": [
+      "Les frères en la foi",
+      "Les soldats de Rome",
+      "Les sages du monde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:10 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-115",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:11",
+    "verseText": "Voir Galates 6:11.",
+    "question": "Comment Paul attire-t-il l’attention sur son écriture dans la conclusion ?",
+    "choices": [
+      "Voyez avec quelles grandes lettres je vous ai écrit de ma propre main",
+      "Voyez avec quelles paroles secrètes je vous ai parlé par un ange",
+      "Voyez avec quels signes je vous ai envoyé par un médiateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:11 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-116",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:12",
+    "verseText": "Voir Galates 6:12.",
+    "question": "Quel est le motif de ceux qui veulent obliger à la circoncision, selon Paul ?",
+    "choices": [
+      "Se faire bien voir selon la chair",
+      "Être conduits par l’Esprit",
+      "Porter les fardeaux des autres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:12 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-117",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:12",
+    "verseText": "Voir Galates 6:12.",
+    "question": "Quelle conséquence cherchent-ils à éviter en agissant ainsi ?",
+    "choices": [
+      "Être persécutés pour la croix de Christ",
+      "Être bénis avec Abraham le croyant",
+      "Être séparés de Christ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:12 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-118",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:13",
+    "verseText": "Voir Galates 6:13.",
+    "question": "Que dit Paul de ceux qui se font circoncire concernant la loi ?",
+    "choices": [
+      "Ils ne la gardent pas eux-mêmes",
+      "Ils la gardent parfaitement eux-mêmes",
+      "Ils l’ignorent totalement eux-mêmes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:13 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-119",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:13",
+    "verseText": "Voir Galates 6:13.",
+    "question": "Pourquoi veulent-ils que les Galates soient circoncis, selon Paul ?",
+    "choices": [
+      "Afin de se glorifier dans votre chair",
+      "Afin de se glorifier dans la foi",
+      "Afin de se glorifier dans l’Esprit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:13 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-120",
+    "book": "Galates",
+    "chapter": 6,
+    "verseRef": "Galates 6:14",
+    "verseText": "Voir Galates 6:14.",
+    "question": "En quoi Paul refuse-t-il de se glorifier, sinon en une chose ?",
+    "choices": [
+      "En la croix de notre Seigneur Jésus Christ",
+      "En la circoncision de la chair",
+      "En la sagesse des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 6:14 (LSG 1910)."
+  },
+  {
+    "id": "galates-N-121",
+    "book": "Galates",
+    "chapter": 4,
+    "verseRef": "Galates 4:1",
+    "verseText": "Voir Galates 4:1.",
+    "question": "Dans le livre de Galates, quelle référence correspond au premier verset du chapitre 4 ?",
+    "choices": [
+      "Galates 4:1",
+      "Galates 5:1",
+      "Galates 4:2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 4:1 (LSG 1910)."
+  }
+]

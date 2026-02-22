@@ -1,0 +1,1962 @@
+[
+  {
+    "id": "1RO-D-001",
+    "book": "1 Rois",
+    "chapter": 2,
+    "verseRef": "1 Rois 2:35",
+    "verseText": "Voir 1 Rois 2:35.",
+    "question": "Quel nom porte le chef de l’armée de David que Salomon remplaça pour lui confier l’armée ?",
+    "choices": [
+      "« Joab, fils de Tseruja »",
+      "« Abner, fils de Ner »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 2:35 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-002",
+    "book": "1 Rois",
+    "chapter": 2,
+    "verseRef": "1 Rois 2:36-37",
+    "verseText": "Voir 1 Rois 2:36-37.",
+    "question": "Quelle limite Salomon imposa-t-il à Schimeï avant sa chute ?",
+    "choices": [
+      "« Bâtis-toi une maison à Jérusalem… tu n’en sortiras point pour aller çà et là »",
+      "« Va-t-en dans le pays des Philistins, et n’en reviens jamais »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 2:36-37 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-003",
+    "book": "1 Rois",
+    "chapter": 1,
+    "verseRef": "1 Rois 1:33",
+    "verseText": "Voir 1 Rois 1:33.",
+    "question": "Quel endroit Salomon choisit-il explicitement pour l’onction (lieu) ?",
+    "choices": [
+      "« Guihon »",
+      "« Hébron »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 1:33 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-004",
+    "book": "1 Rois",
+    "chapter": 1,
+    "verseRef": "1 Rois 1:39",
+    "verseText": "Voir 1 Rois 1:39.",
+    "question": "Quelle expression décrit l’huile utilisée pour oindre Salomon ?",
+    "choices": [
+      "« la corne d’huile »",
+      "« le vase d’huile »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 1:39 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-005",
+    "book": "1 Rois",
+    "chapter": 3,
+    "verseRef": "1 Rois 3:12",
+    "verseText": "Voir 1 Rois 3:12.",
+    "question": "Quel détail montre que l’Éternel répondit favorablement à la demande de Salomon ?",
+    "choices": [
+      "« Je te donnerai… un cœur sage et intelligent »",
+      "« Je te donnerai… la force d’un guerrier »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 3:12 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-006",
+    "book": "1 Rois",
+    "chapter": 3,
+    "verseRef": "1 Rois 3:26",
+    "verseText": "Voir 1 Rois 3:26.",
+    "question": "Dans le jugement des deux femmes, quelle parole révèle la vraie mère ?",
+    "choices": [
+      "« Donnez-lui l’enfant vivant, et ne le faites point mourir »",
+      "« Coupez l’enfant en deux, et donnez-en la moitié à l’une »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 3:26 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-007",
+    "book": "1 Rois",
+    "chapter": 4,
+    "verseRef": "1 Rois 4:6",
+    "verseText": "Voir 1 Rois 4:6.",
+    "question": "Quel homme est nommé « préposé sur les impôts » dans la liste des chefs de Salomon ?",
+    "choices": [
+      "« Adoniram »",
+      "« Éliab »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 4:6 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-008",
+    "book": "1 Rois",
+    "chapter": 4,
+    "verseRef": "1 Rois 4:21",
+    "verseText": "Voir 1 Rois 4:21.",
+    "question": "Quelle formule décrit l’étendue du règne de Salomon ?",
+    "choices": [
+      "« depuis le fleuve jusqu’au pays des Philistins et jusqu’à la frontière d’Égypte »",
+      "« depuis Dan jusqu’à Béerschéba, et jusqu’à l’Euphrate »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 4:21 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-009",
+    "book": "1 Rois",
+    "chapter": 5,
+    "verseRef": "1 Rois 5:15",
+    "verseText": "Voir 1 Rois 5:15.",
+    "question": "Combien d’hommes portaient les fardeaux pour l’ouvrage (corvée) ?",
+    "choices": [
+      "« soixante-dix mille »",
+      "« trente mille »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 5:15 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-010",
+    "book": "1 Rois",
+    "chapter": 5,
+    "verseRef": "1 Rois 5:15",
+    "verseText": "Voir 1 Rois 5:15.",
+    "question": "Combien étaient les tailleurs de pierres dans les montagnes ?",
+    "choices": [
+      "« quatre-vingt mille »",
+      "« soixante-dix mille »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 5:15 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-011",
+    "book": "1 Rois",
+    "chapter": 5,
+    "verseRef": "1 Rois 5:16",
+    "verseText": "Voir 1 Rois 5:16.",
+    "question": "Combien de surveillants Salomon avait-il sur l’ouvrage ?",
+    "choices": [
+      "« trois mille trois cents »",
+      "« trois mille »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 5:16 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-012",
+    "book": "1 Rois",
+    "chapter": 6,
+    "verseRef": "1 Rois 6:1",
+    "verseText": "Voir 1 Rois 6:1.",
+    "question": "Dans quelle année du règne de Salomon commença-t-on à bâtir la maison de l’Éternel ?",
+    "choices": [
+      "« la quatrième année »",
+      "« la septième année »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 6:1 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-013",
+    "book": "1 Rois",
+    "chapter": 6,
+    "verseRef": "1 Rois 6:1",
+    "verseText": "Voir 1 Rois 6:1.",
+    "question": "Quel mois est mentionné au commencement de la construction ?",
+    "choices": [
+      "« le mois de Ziv »",
+      "« le mois d’Éthanim »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 6:1 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-014",
+    "book": "1 Rois",
+    "chapter": 6,
+    "verseRef": "1 Rois 6:15",
+    "verseText": "Voir 1 Rois 6:15.",
+    "question": "Quel bois est nommé pour le revêtement intérieur (parois/sol) ?",
+    "choices": [
+      "« le bois de cèdre »",
+      "« le bois d’olivier »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 6:15 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-015",
+    "book": "1 Rois",
+    "chapter": 8,
+    "verseRef": "1 Rois 8:9",
+    "verseText": "Voir 1 Rois 8:9.",
+    "question": "Quel élément était dans l’arche au moment de l’introduction dans le temple ?",
+    "choices": [
+      "« les deux tables de pierre »",
+      "« la verge d’Aaron »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 8:9 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-016",
+    "book": "1 Rois",
+    "chapter": 8,
+    "verseRef": "1 Rois 8:9",
+    "verseText": "Voir 1 Rois 8:9.",
+    "question": "Où Moïse mit-il ces tables (selon le rappel du texte) ?",
+    "choices": [
+      "« à Horeb »",
+      "« à Sinaï »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 8:9 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-017",
+    "book": "1 Rois",
+    "chapter": 8,
+    "verseRef": "1 Rois 8:66",
+    "verseText": "Voir 1 Rois 8:66.",
+    "question": "Quel jour Salomon renvoya-t-il le peuple après la fête (formule du texte) ?",
+    "choices": [
+      "« le vingt-troisième jour du septième mois »",
+      "« le premier jour du septième mois »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 8:66 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-018",
+    "book": "1 Rois",
+    "chapter": 9,
+    "verseRef": "1 Rois 9:4",
+    "verseText": "Voir 1 Rois 9:4.",
+    "question": "Quelle condition est posée à Salomon concernant sa conduite ?",
+    "choices": [
+      "« Si tu marches devant moi… dans l’intégrité de ton cœur »",
+      "« Si tu multiplies les chevaux et l’or »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 9:4 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-019",
+    "book": "1 Rois",
+    "chapter": 9,
+    "verseRef": "1 Rois 9:7",
+    "verseText": "Voir 1 Rois 9:7.",
+    "question": "Quelle conséquence est annoncée si Israël se détourne ?",
+    "choices": [
+      "« J’exterminerai Israël de dessus la face du pays »",
+      "« Je disperserai Israël dans le désert seulement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 9:7 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-020",
+    "book": "1 Rois",
+    "chapter": 9,
+    "verseRef": "1 Rois 9:14",
+    "verseText": "Voir 1 Rois 9:14.",
+    "question": "Combien de talents d’or Hiram donna-t-il au roi (selon le texte) ?",
+    "choices": [
+      "« cent vingt talents d’or »",
+      "« six cent soixante-six talents d’or »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 9:14 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-021",
+    "book": "1 Rois",
+    "chapter": 9,
+    "verseRef": "1 Rois 9:13",
+    "verseText": "Voir 1 Rois 9:13.",
+    "question": "Comment Hiram appela-t-il les villes que Salomon lui donna, faute d’agrément ?",
+    "choices": [
+      "« pays de Cabul »",
+      "« pays d’Ofir »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 9:13 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-022",
+    "book": "1 Rois",
+    "chapter": 3,
+    "verseRef": "1 Rois 3:4",
+    "verseText": "Voir 1 Rois 3:4.",
+    "question": "Quel haut lieu Salomon utilisa pour sacrifier au début, selon l’énoncé exact ?",
+    "choices": [
+      "« Gabaon »",
+      "« Béthel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 3:4 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-023",
+    "book": "1 Rois",
+    "chapter": 10,
+    "verseRef": "1 Rois 10:14",
+    "verseText": "Voir 1 Rois 10:14.",
+    "question": "Quelle quantité d’or est indiquée comme arrivant chaque année à Salomon ?",
+    "choices": [
+      "« six cent soixante-six talents d’or »",
+      "« cent vingt talents d’or »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 10:14 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-024",
+    "book": "1 Rois",
+    "chapter": 10,
+    "verseRef": "1 Rois 10:19",
+    "verseText": "Voir 1 Rois 10:19.",
+    "question": "Sur quoi étaient les marches menant au trône de Salomon ?",
+    "choices": [
+      "« six degrés »",
+      "« douze degrés »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 10:19 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-025",
+    "book": "1 Rois",
+    "chapter": 10,
+    "verseRef": "1 Rois 10:21",
+    "verseText": "Voir 1 Rois 10:21.",
+    "question": "Quel détail est donné sur les vaisseaux du roi à l’époque de Salomon ?",
+    "choices": [
+      "« Tous les vaisseaux dont le roi Salomon se servait étaient d’or »",
+      "« Tous les vaisseaux… étaient d’argent »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 10:21 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-026",
+    "book": "1 Rois",
+    "chapter": 10,
+    "verseRef": "1 Rois 10:21",
+    "verseText": "Voir 1 Rois 10:21.",
+    "question": "Quelle remarque le texte fait-il sur l’argent du temps de Salomon ?",
+    "choices": [
+      "« l’argent n’était pas considéré pour rien »",
+      "« l’argent était plus précieux que l’or »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 10:21 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-027",
+    "book": "1 Rois",
+    "chapter": 11,
+    "verseRef": "1 Rois 11:23",
+    "verseText": "Voir 1 Rois 11:23.",
+    "question": "Quel adversaire syrien est nommé contre Salomon ?",
+    "choices": [
+      "« Retsin, fils d’Éliada »",
+      "« Ben-Hadad, fils de Tabrimmon »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 11:23 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-028",
+    "book": "1 Rois",
+    "chapter": 11,
+    "verseRef": "1 Rois 11:26",
+    "verseText": "Voir 1 Rois 11:26.",
+    "question": "D’où Jéroboam était-il originaire (ville) ?",
+    "choices": [
+      "« Tseréda »",
+      "« Jizreel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 11:26 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-029",
+    "book": "1 Rois",
+    "chapter": 11,
+    "verseRef": "1 Rois 11:26",
+    "verseText": "Voir 1 Rois 11:26.",
+    "question": "Quel nom est donné à la mère de Jéroboam ?",
+    "choices": [
+      "« Tserua »",
+      "« Naama »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 11:26 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-030",
+    "book": "1 Rois",
+    "chapter": 11,
+    "verseRef": "1 Rois 11:30",
+    "verseText": "Voir 1 Rois 11:30.",
+    "question": "Quel geste symbolique Achija fit-il à son vêtement ?",
+    "choices": [
+      "« il le déchira en douze morceaux »",
+      "« il le brûla devant Jéroboam »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 11:30 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-031",
+    "book": "1 Rois",
+    "chapter": 11,
+    "verseRef": "1 Rois 11:31",
+    "verseText": "Voir 1 Rois 11:31.",
+    "question": "Combien de morceaux Achija ordonna-t-il à Jéroboam de prendre ?",
+    "choices": [
+      "« dix »",
+      "« deux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 11:31 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-032",
+    "book": "1 Rois",
+    "chapter": 11,
+    "verseRef": "1 Rois 11:40",
+    "verseText": "Voir 1 Rois 11:40.",
+    "question": "Quel roi d’Égypte est nommé comme refuge de Jéroboam ?",
+    "choices": [
+      "« Schischak, roi d’Égypte »",
+      "« Néco, roi d’Égypte »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 11:40 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-033",
+    "book": "1 Rois",
+    "chapter": 12,
+    "verseRef": "1 Rois 12:29",
+    "verseText": "Voir 1 Rois 12:29.",
+    "question": "Dans quel lieu Jéroboam établit-il un veau d’or parmi les deux ?",
+    "choices": [
+      "« Béthel »",
+      "« Jérusalem »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 12:29 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-034",
+    "book": "1 Rois",
+    "chapter": 12,
+    "verseRef": "1 Rois 12:29",
+    "verseText": "Voir 1 Rois 12:29.",
+    "question": "Quel est l’autre lieu où Jéroboam plaça un veau d’or ?",
+    "choices": [
+      "« Dan »",
+      "« Samarie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 12:29 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-035",
+    "book": "1 Rois",
+    "chapter": 12,
+    "verseRef": "1 Rois 12:28",
+    "verseText": "Voir 1 Rois 12:28.",
+    "question": "Quelle parole résume l’offre de Jéroboam au peuple ?",
+    "choices": [
+      "« C’est assez monté à Jérusalem; Israël! Voici ton dieu, qui t’a fait sortir du pays d’Égypte. »",
+      "« Voici l’arche de l’alliance, qui vous sauvera. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 12:28 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-036",
+    "book": "1 Rois",
+    "chapter": 12,
+    "verseRef": "1 Rois 12:32",
+    "verseText": "Voir 1 Rois 12:32.",
+    "question": "Quel jour Jéroboam institua-t-il comme fête (mois et jour) ?",
+    "choices": [
+      "« le quinzième jour du huitième mois »",
+      "« le quinzième jour du septième mois »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 12:32 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-037",
+    "book": "1 Rois",
+    "chapter": 13,
+    "verseRef": "1 Rois 13:4",
+    "verseText": "Voir 1 Rois 13:4.",
+    "question": "Quel signe frappa la main de Jéroboam quand il voulut saisir l’homme de Dieu ?",
+    "choices": [
+      "« sa main… resta sèche »",
+      "« sa main… fut brisée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 13:4 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-038",
+    "book": "1 Rois",
+    "chapter": 13,
+    "verseRef": "1 Rois 13:5",
+    "verseText": "Voir 1 Rois 13:5.",
+    "question": "Quel signe toucha l’autel à Béthel (résultat immédiat) ?",
+    "choices": [
+      "« l’autel se fendit, et la cendre se répandit »",
+      "« l’autel fut renversé par le vent »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 13:5 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-039",
+    "book": "1 Rois",
+    "chapter": 13,
+    "verseRef": "1 Rois 13:9",
+    "verseText": "Voir 1 Rois 13:9.",
+    "question": "Quel ordre l’homme de Dieu avait-il reçu concernant son retour ?",
+    "choices": [
+      "« Tu ne repasseras pas par le chemin par lequel tu es allé »",
+      "« Tu retourneras par la mer »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 13:9 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-040",
+    "book": "1 Rois",
+    "chapter": 13,
+    "verseRef": "1 Rois 13:24",
+    "verseText": "Voir 1 Rois 13:24.",
+    "question": "Quel animal tua l’homme de Dieu, selon le récit ?",
+    "choices": [
+      "« un lion »",
+      "« un ours »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 13:24 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-041",
+    "book": "1 Rois",
+    "chapter": 13,
+    "verseRef": "1 Rois 13:28",
+    "verseText": "Voir 1 Rois 13:28.",
+    "question": "Quel détail étonnant est donné sur le lion après la mort de l’homme de Dieu ?",
+    "choices": [
+      "« le lion ne mangea pas le cadavre »",
+      "« le lion emporta le cadavre »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 13:28 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-042",
+    "book": "1 Rois",
+    "chapter": 14,
+    "verseRef": "1 Rois 14:1",
+    "verseText": "Voir 1 Rois 14:1.",
+    "question": "Quel nom porte le fils de Jéroboam qui tomba malade ?",
+    "choices": [
+      "« Abija »",
+      "« Nadab »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 14:1 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-043",
+    "book": "1 Rois",
+    "chapter": 14,
+    "verseRef": "1 Rois 14:3",
+    "verseText": "Voir 1 Rois 14:3.",
+    "question": "Que devait apporter la femme de Jéroboam en allant voir le prophète (liste du texte) ?",
+    "choices": [
+      "« dix pains, des gâteaux, et un vase de miel »",
+      "« de l’or, de l’encens, et des aromates »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 14:3 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-044",
+    "book": "1 Rois",
+    "chapter": 14,
+    "verseRef": "1 Rois 14:4",
+    "verseText": "Voir 1 Rois 14:4.",
+    "question": "Quel prophète, devenu vieux, ne voyait plus (selon l’énoncé) ?",
+    "choices": [
+      "« Achija »",
+      "« Élie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 14:4 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-045",
+    "book": "1 Rois",
+    "chapter": 14,
+    "verseRef": "1 Rois 14:12",
+    "verseText": "Voir 1 Rois 14:12.",
+    "question": "Quel signe annonça la mort d’Abija au moment même où sa mère entrerait en ville ?",
+    "choices": [
+      "« dès que tes pieds entreront dans la ville, l’enfant mourra »",
+      "« dès que tu verras l’autel, l’enfant mourra »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 14:12 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-046",
+    "book": "1 Rois",
+    "chapter": 14,
+    "verseRef": "1 Rois 14:21",
+    "verseText": "Voir 1 Rois 14:21.",
+    "question": "Quel est le nom de la mère de Roboam ?",
+    "choices": [
+      "« Naama, l’Ammonite »",
+      "« Bath Schéba »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 14:21 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-047",
+    "book": "1 Rois",
+    "chapter": 14,
+    "verseRef": "1 Rois 14:25",
+    "verseText": "Voir 1 Rois 14:25.",
+    "question": "Quel roi d’Égypte monta contre Jérusalem sous Roboam ?",
+    "choices": [
+      "« Schischak »",
+      "« Pharaon »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 14:25 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-048",
+    "book": "1 Rois",
+    "chapter": 14,
+    "verseRef": "1 Rois 14:27",
+    "verseText": "Voir 1 Rois 14:27.",
+    "question": "Combien de boucliers d’or Roboam fit-il remplacer par des boucliers d’airain ?",
+    "choices": [
+      "« deux cents boucliers »",
+      "« trois cents boucliers »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 14:27 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-049",
+    "book": "1 Rois",
+    "chapter": 14,
+    "verseRef": "1 Rois 14:27",
+    "verseText": "Voir 1 Rois 14:27.",
+    "question": "Combien de petits boucliers d’or furent remplacés par des boucliers d’airain ?",
+    "choices": [
+      "« trois cents boucliers »",
+      "« deux cents boucliers »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 14:27 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-050",
+    "book": "1 Rois",
+    "chapter": 15,
+    "verseRef": "1 Rois 15:27",
+    "verseText": "Voir 1 Rois 15:27.",
+    "question": "Quel roi d’Israël conspira contre Nadab et le fit mourir à Guibbethon ?",
+    "choices": [
+      "« Baescha »",
+      "« Zimri »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 15:27 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-051",
+    "book": "1 Rois",
+    "chapter": 16,
+    "verseRef": "1 Rois 16:1-2",
+    "verseText": "Voir 1 Rois 16:1-2.",
+    "question": "Quel prophète reprit Baescha en disant qu’il avait marché « dans la voie de Jéroboam » ?",
+    "choices": [
+      "« Jéhu, fils de Hanani »",
+      "« Achija de Silo »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 16:1-2 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-052",
+    "book": "1 Rois",
+    "chapter": 16,
+    "verseRef": "1 Rois 16:15",
+    "verseText": "Voir 1 Rois 16:15.",
+    "question": "Combien de jours Zimri régna-t-il à Thirtsa ?",
+    "choices": [
+      "« sept jours »",
+      "« quarante jours »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 16:15 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-053",
+    "book": "1 Rois",
+    "chapter": 16,
+    "verseRef": "1 Rois 16:24",
+    "verseText": "Voir 1 Rois 16:24.",
+    "question": "Quelle ville Omri acheta-t-il pour y bâtir sa capitale ?",
+    "choices": [
+      "« Samarie »",
+      "« Thirtsa »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 16:24 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-054",
+    "book": "1 Rois",
+    "chapter": 16,
+    "verseRef": "1 Rois 16:24",
+    "verseText": "Voir 1 Rois 16:24.",
+    "question": "À quel prix Omri acheta-t-il la montagne de Samarie ?",
+    "choices": [
+      "« deux talents d’argent »",
+      "« dix talents d’or »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 16:24 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-055",
+    "book": "1 Rois",
+    "chapter": 16,
+    "verseRef": "1 Rois 16:30",
+    "verseText": "Voir 1 Rois 16:30.",
+    "question": "Quel roi « fit ce qui est mal aux yeux de l’Éternel, plus que tous ceux qui avaient été avant lui » ?",
+    "choices": [
+      "« Achab »",
+      "« Asa »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 16:30 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-056",
+    "book": "1 Rois",
+    "chapter": 16,
+    "verseRef": "1 Rois 16:31",
+    "verseText": "Voir 1 Rois 16:31.",
+    "question": "Quelle femme Achab prit-il pour femme, nommée explicitement ?",
+    "choices": [
+      "« Jézabel, fille d’Ethbaal, roi des Sidoniens »",
+      "« Athalie, fille d’Omri »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 16:31 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-057",
+    "book": "1 Rois",
+    "chapter": 17,
+    "verseRef": "1 Rois 17:1",
+    "verseText": "Voir 1 Rois 17:1.",
+    "question": "Quel prophète annonça : « Il n’y aura ces années-ci ni rosée ni pluie, sinon à ma parole » ?",
+    "choices": [
+      "« Élie, le Thischbite »",
+      "« Élisée, fils de Schaphath »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 17:1 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-058",
+    "book": "1 Rois",
+    "chapter": 17,
+    "verseRef": "1 Rois 17:3",
+    "verseText": "Voir 1 Rois 17:3.",
+    "question": "Où l’Éternel envoya-t-il Élie se cacher au début de la sécheresse ?",
+    "choices": [
+      "« près du torrent de Kerith, qui est en face du Jourdain »",
+      "« au désert de Sin »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 17:3 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-059",
+    "book": "1 Rois",
+    "chapter": 17,
+    "verseRef": "1 Rois 17:9",
+    "verseText": "Voir 1 Rois 17:9.",
+    "question": "De quelle ville était la veuve auprès de qui Élie fut envoyé ?",
+    "choices": [
+      "« Sarepta, qui appartient à Sidon »",
+      "« Sunem, qui appartient à Issacar »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 17:9 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-060",
+    "book": "1 Rois",
+    "chapter": 17,
+    "verseRef": "1 Rois 17:16",
+    "verseText": "Voir 1 Rois 17:16.",
+    "question": "Quel miracle arriva à la farine et à l’huile chez la veuve (formule du texte) ?",
+    "choices": [
+      "« La farine qui était dans le pot ne manqua point, et l’huile qui était dans la cruche ne diminua point »",
+      "« Le blé remplit les greniers, et le vin déborda »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 17:16 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-061",
+    "book": "1 Rois",
+    "chapter": 17,
+    "verseRef": "1 Rois 17:17",
+    "verseText": "Voir 1 Rois 17:17.",
+    "question": "Dans la maladie du fils de la veuve, quel détail indique la gravité extrême ?",
+    "choices": [
+      "« il ne resta plus en lui de respiration »",
+      "« il resta sans voix »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 17:17 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-062",
+    "book": "1 Rois",
+    "chapter": 17,
+    "verseRef": "1 Rois 17:19",
+    "verseText": "Voir 1 Rois 17:19.",
+    "question": "Où Élie couche-t-il l’enfant après l’avoir monté ?",
+    "choices": [
+      "« sur son lit »",
+      "« sur l’autel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 17:19 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-063",
+    "book": "1 Rois",
+    "chapter": 17,
+    "verseRef": "1 Rois 17:23",
+    "verseText": "Voir 1 Rois 17:23.",
+    "question": "Quelle phrase Élie dit-il en remettant l’enfant vivant à sa mère ?",
+    "choices": [
+      "« Regarde, ton fils est vivant »",
+      "« Que la paix soit sur toi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 17:23 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-064",
+    "book": "1 Rois",
+    "chapter": 17,
+    "verseRef": "1 Rois 17:24",
+    "verseText": "Voir 1 Rois 17:24.",
+    "question": "Quelle confession finale la veuve fait-elle sur la parole d’Élie ?",
+    "choices": [
+      "« la parole de l'Éternel dans ta bouche est vérité »",
+      "« tu es plus grand que tous les prophètes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 17:24 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-065",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:1",
+    "verseText": "Voir 1 Rois 18:1.",
+    "question": "Dans quelle « année » la parole de l’Éternel ordonne-t-elle à Élie d’aller vers Achab ?",
+    "choices": [
+      "« dans la troisième année »",
+      "« dans la septième année »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:1 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-066",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:3",
+    "verseText": "Voir 1 Rois 18:3.",
+    "question": "Quel détail précise la piété d’Abdias ?",
+    "choices": [
+      "« Abdias craignait beaucoup l'Éternel »",
+      "« Abdias était sacrificateur à Béthel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:3 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-067",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:4",
+    "verseText": "Voir 1 Rois 18:4.",
+    "question": "Comment Abdias répartit-il les prophètes cachés ?",
+    "choices": [
+      "« cinquante dans une caverne, et cinquante dans une caverne »",
+      "« vingt-cinq dans quatre cavernes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:4 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-068",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:5",
+    "verseText": "Voir 1 Rois 18:5.",
+    "question": "Que dit Achab à Abdias au sujet des eaux et de l’herbe ?",
+    "choices": [
+      "« Peut-être trouverons-nous de l'herbe, et nous conserverons la vie à nos chevaux et à nos mulets »",
+      "« Peut-être trouverons-nous du blé pour les soldats »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:5 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-069",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:9",
+    "verseText": "Voir 1 Rois 18:9.",
+    "question": "Quelle question Abdias pose-t-il, craignant pour sa vie, avant d’aller vers Achab ?",
+    "choices": [
+      "« Quel péché ton serviteur a-t-il commis, pour que tu livres ton serviteur entre les mains d'Achab? »",
+      "« Pourquoi l’Éternel ne parle-t-il plus? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:9 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-070",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:17",
+    "verseText": "Voir 1 Rois 18:17.",
+    "question": "Quelle accusation Achab lance-t-il à Élie en le voyant ?",
+    "choices": [
+      "« Est-ce toi qui jettes le trouble en Israël? »",
+      "« Est-ce toi qui voles l’or d’Israël? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:17 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-071",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:18",
+    "verseText": "Voir 1 Rois 18:18.",
+    "question": "Comment Élie répond-il à cette accusation ?",
+    "choices": [
+      "« Je n'ai point troublé Israël; c'est toi, au contraire »",
+      "« C’est le peuple qui a troublé Israël »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:18 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-072",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:19",
+    "verseText": "Voir 1 Rois 18:19.",
+    "question": "Quel nombre est donné pour les prophètes d’Astarté (qui mangent à la table de Jézabel) ?",
+    "choices": [
+      "« quatre cents »",
+      "« quatre cent cinquante »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:19 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-073",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:22",
+    "verseText": "Voir 1 Rois 18:22.",
+    "question": "Quelle phrase Élie dit-il sur sa propre situation prophétique ?",
+    "choices": [
+      "« Je suis resté seul des prophètes de l'Éternel »",
+      "« Nous sommes nombreux, prophètes de l’Éternel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:22 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-074",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:25",
+    "verseText": "Voir 1 Rois 18:25.",
+    "question": "Quel arrangement Élie propose-t-il pour les deux taureaux ?",
+    "choices": [
+      "« vous choisirez pour vous l'un des taureaux »",
+      "« nous prendrons ensemble le même taureau »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:25 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-075",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:29",
+    "verseText": "Voir 1 Rois 18:29.",
+    "question": "Qu’est-ce que Baal ne fait pas, malgré les cris ?",
+    "choices": [
+      "« il n'y eut ni voix, ni réponse, ni signe d'attention »",
+      "« il envoya un feu du ciel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:29 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-076",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:31",
+    "verseText": "Voir 1 Rois 18:31.",
+    "question": "Quel nombre de pierres Élie prend-il pour rebâtir l’autel ?",
+    "choices": [
+      "« douze pierres, d'après le nombre des tribus des fils de Jacob »",
+      "« dix pierres, d'après le nombre des tribus d’Israël »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:31 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-077",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:35",
+    "verseText": "Voir 1 Rois 18:35.",
+    "question": "Quelle mesure d’arrosage est décrite par la répétition et le résultat ?",
+    "choices": [
+      "« l'eau coula autour de l'autel, et l'on remplit aussi d'eau le fossé »",
+      "« l’eau disparut aussitôt dans la terre sèche »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:35 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-078",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:36",
+    "verseText": "Voir 1 Rois 18:36.",
+    "question": "Dans sa prière, comment Élie se présente-t-il ?",
+    "choices": [
+      "« que je suis ton serviteur »",
+      "« que je suis roi sur Israël »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:36 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-079",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:37",
+    "verseText": "Voir 1 Rois 18:37.",
+    "question": "Quel but Élie donne-t-il pour la réponse de Dieu devant le peuple ?",
+    "choices": [
+      "« afin que ce peuple reconnaisse que c'est toi, Éternel, qui es Dieu »",
+      "« afin que le peuple demande un roi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:37 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-080",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:41",
+    "verseText": "Voir 1 Rois 18:41.",
+    "question": "Après la mise à mort des prophètes de Baal, que dit Élie à Achab de faire ?",
+    "choices": [
+      "« Monte, mange et bois »",
+      "« Descends, fuis à Samarie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:41 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-081",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:42",
+    "verseText": "Voir 1 Rois 18:42.",
+    "question": "Où Élie monte-t-il pendant qu’il prie pour la pluie ?",
+    "choices": [
+      "« au sommet du Carmel »",
+      "« au sommet d’Horeb »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:42 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-082",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:43",
+    "verseText": "Voir 1 Rois 18:43.",
+    "question": "Combien de fois Élie dit-il à son serviteur : « Remonte » ?",
+    "choices": [
+      "« sept fois »",
+      "« trois fois »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:43 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-083",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:44",
+    "verseText": "Voir 1 Rois 18:44.",
+    "question": "Qu’ordonne Élie à Achab dès l’apparition du petit nuage ?",
+    "choices": [
+      "« Attelle ton char et descends, afin que la pluie ne t'arrête pas »",
+      "« Reste ici jusqu’à demain »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:44 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-084",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:45",
+    "verseText": "Voir 1 Rois 18:45.",
+    "question": "Dans quel état devient le ciel avant la forte pluie ?",
+    "choices": [
+      "« le ciel s'obscurcit par les nuages, et le vent s'établit »",
+      "« le ciel devint clair et sans nuage »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:45 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-085",
+    "book": "1 Rois",
+    "chapter": 18,
+    "verseRef": "1 Rois 18:46",
+    "verseText": "Voir 1 Rois 18:46.",
+    "question": "Quelle expression encadre la course d’Élie devant Achab ?",
+    "choices": [
+      "« la main de l'Éternel fut sur Élie »",
+      "« la main d’Achab fut sur Élie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:46 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-086",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:2",
+    "verseText": "Voir 1 Rois 19:2.",
+    "question": "Comment Jézabel formule-t-elle son serment de vengeance ?",
+    "choices": [
+      "« Que les dieux me traitent dans toute leur rigueur »",
+      "« Que l’Éternel me bénisse »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:2 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-087",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:3",
+    "verseText": "Voir 1 Rois 19:3.",
+    "question": "Quel lieu Élie laisse-t-il son serviteur avant d’aller plus loin ?",
+    "choices": [
+      "« à Beer Schéba »",
+      "« à Samarie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:3 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-088",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:5",
+    "verseText": "Voir 1 Rois 19:5.",
+    "question": "Sous le genêt, quel état décrit l’intervention de l’ange ?",
+    "choices": [
+      "« Et voici, un ange le toucha »",
+      "« Et voici, un prophète le frappa »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:5 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-089",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:5-7",
+    "verseText": "Voir 1 Rois 19:5-7.",
+    "question": "Quel ordre l’ange donne-t-il à Élie (répété) ?",
+    "choices": [
+      "« Lève-toi, mange »",
+      "« Lève-toi, combats »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:5-7 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-090",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:7",
+    "verseText": "Voir 1 Rois 19:7.",
+    "question": "Quel argument l’ange donne-t-il pour que Élie mange encore ?",
+    "choices": [
+      "« car le chemin est trop long pour toi »",
+      "« car le peuple t’attend au Carmel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:7 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-091",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:10",
+    "verseText": "Voir 1 Rois 19:10.",
+    "question": "À Horeb, quel reproche Élie fait-il à Israël (résumé exact) ?",
+    "choices": [
+      "« les enfants d'Israël ont abandonné ton alliance… ils ont tué tes prophètes »",
+      "« les enfants d’Israël ont manqué de pain »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:10 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-092",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:11",
+    "verseText": "Voir 1 Rois 19:11.",
+    "question": "Quel ordre Dieu donne-t-il à Élie avant le passage de l’Éternel ?",
+    "choices": [
+      "« Sors, et tiens-toi dans la montagne devant l'Éternel! »",
+      "« Reste caché dans la caverne »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:11 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-093",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:11-12",
+    "verseText": "Voir 1 Rois 19:11-12.",
+    "question": "Dans quoi l’Éternel n’est-il pas, selon la triple mention ?",
+    "choices": [
+      "« l'Éternel n'était pas dans le vent… dans le tremblement de terre… dans le feu »",
+      "« l’Éternel n’était pas dans l’eau »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:11-12 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-094",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:13",
+    "verseText": "Voir 1 Rois 19:13.",
+    "question": "Après le « murmure doux et léger », que fait Élie avec son visage ?",
+    "choices": [
+      "« il s'enveloppa le visage de son manteau »",
+      "« il se couvrit le visage de poussière »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:13 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-095",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:15",
+    "verseText": "Voir 1 Rois 19:15.",
+    "question": "Quel ordre de mission est donné concernant Damas ?",
+    "choices": [
+      "« Va, reprends ton chemin par le désert jusqu'à Damas »",
+      "« Va, descends vers Samarie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:15 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-096",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:16",
+    "verseText": "Voir 1 Rois 19:16.",
+    "question": "Quel lieu d’origine est donné pour Élisée ?",
+    "choices": [
+      "« d'Abel Mehola »",
+      "« de Jizreel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:16 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-097",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:19",
+    "verseText": "Voir 1 Rois 19:19.",
+    "question": "Quelle tâche Élisée accomplissait-il au moment où Élie le trouva ?",
+    "choices": [
+      "« il labourait »",
+      "« il gardait des brebis »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:19 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-098",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:19",
+    "verseText": "Voir 1 Rois 19:19.",
+    "question": "Quel détail de l’attelage d’Élisée est donné ?",
+    "choices": [
+      "« douze paires de boeufs »",
+      "« dix paires de boeufs »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:19 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-099",
+    "book": "1 Rois",
+    "chapter": 19,
+    "verseRef": "1 Rois 19:19",
+    "verseText": "Voir 1 Rois 19:19.",
+    "question": "Quel geste d’appel Élie fait-il envers Élisée ?",
+    "choices": [
+      "« il jeta sur lui son manteau »",
+      "« il lui donna une épée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:19 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-100",
+    "book": "1 Rois",
+    "chapter": 20,
+    "verseRef": "1 Rois 20:1",
+    "verseText": "Voir 1 Rois 20:1.",
+    "question": "Dans l’attaque syrienne, quelle ville est assiégée ?",
+    "choices": [
+      "« Samarie »",
+      "« Jérusalem »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 20:1 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-101",
+    "book": "1 Rois",
+    "chapter": 20,
+    "verseRef": "1 Rois 20:6",
+    "verseText": "Voir 1 Rois 20:6.",
+    "question": "Quel contenu du second message syrien aggrave l’exigence ?",
+    "choices": [
+      "« j'enverrai demain… mes serviteurs… ils fouilleront ta maison… et ils prendront et emporteront tout ce qui sera précieux à tes yeux »",
+      "« je prendrai seulement ton argent »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 20:6 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-102",
+    "book": "1 Rois",
+    "chapter": 20,
+    "verseRef": "1 Rois 20:8",
+    "verseText": "Voir 1 Rois 20:8.",
+    "question": "Quelle formule les anciens donnent-ils à Achab pour refuser ?",
+    "choices": [
+      "« N'écoute pas, et ne consens pas »",
+      "« Écoute et consens »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 20:8 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-103",
+    "book": "1 Rois",
+    "chapter": 20,
+    "verseRef": "1 Rois 20:10",
+    "verseText": "Voir 1 Rois 20:10.",
+    "question": "Quel signe de mépris Ben Hadad profère-t-il (menace de poussière) ?",
+    "choices": [
+      "« Que les dieux me traitent dans toute leur rigueur, si la poussière de Samarie suffit pour remplir le creux de la main de tout le peuple qui me suit! »",
+      "« Que la pluie manque pour toujours en Israël! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 20:10 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-104",
+    "book": "1 Rois",
+    "chapter": 20,
+    "verseRef": "1 Rois 20:11",
+    "verseText": "Voir 1 Rois 20:11.",
+    "question": "Quelle réplique proverbiale Achab répond-il à cette menace ?",
+    "choices": [
+      "« Que celui qui met l'armure ne se glorifie pas comme celui qui la quitte! »",
+      "« Mieux vaut fuir que combattre »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 20:11 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-105",
+    "book": "1 Rois",
+    "chapter": 20,
+    "verseRef": "1 Rois 20:15",
+    "verseText": "Voir 1 Rois 20:15.",
+    "question": "Quel groupe est compté après les 232 serviteurs, dans l’armée d’Israël ?",
+    "choices": [
+      "« tout le peuple, tous les enfants d'Israël, au nombre de sept mille »",
+      "« tout le peuple… au nombre de douze mille »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 20:15 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-106",
+    "book": "1 Rois",
+    "chapter": 20,
+    "verseRef": "1 Rois 20:26",
+    "verseText": "Voir 1 Rois 20:26.",
+    "question": "Quel lieu est nommé pour la seconde confrontation avec la Syrie ?",
+    "choices": [
+      "« Aphek »",
+      "« Dan »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 20:26 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-107",
+    "book": "1 Rois",
+    "chapter": 20,
+    "verseRef": "1 Rois 20:27",
+    "verseText": "Voir 1 Rois 20:27.",
+    "question": "Quel contraste est fait entre Israël et les Syriens avant la bataille ?",
+    "choices": [
+      "« les enfants d'Israël campaient en face d'eux, comme deux petits troupeaux de chèvres; et les Syriens remplissaient le pays »",
+      "« Israël remplissait le pays et les Syriens étaient peu nombreux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 20:27 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-108",
+    "book": "1 Rois",
+    "chapter": 20,
+    "verseRef": "1 Rois 20:28",
+    "verseText": "Voir 1 Rois 20:28.",
+    "question": "Quel but Dieu déclare-t-il en livrant les Syriens ?",
+    "choices": [
+      "« et vous saurez que je suis l'Éternel »",
+      "« et vous serez rois sur toutes les nations »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 20:28 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-109",
+    "book": "1 Rois",
+    "chapter": 20,
+    "verseRef": "1 Rois 20:30",
+    "verseText": "Voir 1 Rois 20:30.",
+    "question": "Dans la fuite à Aphek, où Ben Hadad se cache-t-il ?",
+    "choices": [
+      "« dans une chambre retirée »",
+      "« dans le temple de Baal »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 20:30 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-110",
+    "book": "1 Rois",
+    "chapter": 20,
+    "verseRef": "1 Rois 20:32",
+    "verseText": "Voir 1 Rois 20:32.",
+    "question": "Quel mot Achab prononce-t-il en parlant de Ben Hadad avant de l’épargner ?",
+    "choices": [
+      "« Est-il encore vivant? C'est mon frère »",
+      "« Qu’il meure, mon ennemi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 20:32 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-111",
+    "book": "1 Rois",
+    "chapter": 20,
+    "verseRef": "1 Rois 20:42",
+    "verseText": "Voir 1 Rois 20:42.",
+    "question": "Quel jugement un prophète annonce-t-il à Achab pour avoir laissé échapper Ben Hadad ?",
+    "choices": [
+      "« ta vie répondra de sa vie, et ton peuple de son peuple »",
+      "« tu vivras longtemps et en paix »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 20:42 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-112",
+    "book": "1 Rois",
+    "chapter": 21,
+    "verseRef": "1 Rois 21:1",
+    "verseText": "Voir 1 Rois 21:1.",
+    "question": "Dans l’affaire Naboth, où se trouve la vigne ?",
+    "choices": [
+      "« à Jizreel, à côté du palais d'Achab, roi de Samarie »",
+      "« à Samarie, près de la porte de la ville »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 21:1 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-113",
+    "book": "1 Rois",
+    "chapter": 21,
+    "verseRef": "1 Rois 21:2",
+    "verseText": "Voir 1 Rois 21:2.",
+    "question": "Quelle offre Achab propose-t-il en alternative à Naboth ?",
+    "choices": [
+      "« une vigne meilleure… ou… la valeur en argent »",
+      "« un palais et des chevaux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 21:2 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-114",
+    "book": "1 Rois",
+    "chapter": 21,
+    "verseRef": "1 Rois 21:4",
+    "verseText": "Voir 1 Rois 21:4.",
+    "question": "Quel détail montre l’humeur d’Achab après le refus ?",
+    "choices": [
+      "« il se coucha sur son lit, détourna son visage, et ne mangea rien »",
+      "« il sortit et se réjouit »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 21:4 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-115",
+    "book": "1 Rois",
+    "chapter": 21,
+    "verseRef": "1 Rois 21:7",
+    "verseText": "Voir 1 Rois 21:7.",
+    "question": "Quelle question Jézabel pose-t-elle à Achab au sujet de son autorité ?",
+    "choices": [
+      "« Est-ce bien toi maintenant qui exerces la royauté sur Israël? »",
+      "« Est-ce bien toi qui juges la loi de Moïse? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 21:7 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-116",
+    "book": "1 Rois",
+    "chapter": 21,
+    "verseRef": "1 Rois 21:8",
+    "verseText": "Voir 1 Rois 21:8.",
+    "question": "Quel acte Jézabel fait-elle avec le nom d’Achab ?",
+    "choices": [
+      "« elle écrivit des lettres au nom d'Achab, et les scella de son sceau »",
+      "« elle fit un serment au nom d’Achab »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 21:8 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-117",
+    "book": "1 Rois",
+    "chapter": 21,
+    "verseRef": "1 Rois 21:9",
+    "verseText": "Voir 1 Rois 21:9.",
+    "question": "Que demande la lettre de proclamer publiquement ?",
+    "choices": [
+      "« un jeûne »",
+      "« une fête »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 21:9 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-118",
+    "book": "1 Rois",
+    "chapter": 21,
+    "verseRef": "1 Rois 21:10",
+    "verseText": "Voir 1 Rois 21:10.",
+    "question": "Quelle accusation est mise dans la bouche de « deux méchants hommes » contre Naboth ?",
+    "choices": [
+      "« Tu as maudit Dieu et le roi! »",
+      "« Tu as volé l’or du temple! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 21:10 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-119",
+    "book": "1 Rois",
+    "chapter": 21,
+    "verseRef": "1 Rois 21:13",
+    "verseText": "Voir 1 Rois 21:13.",
+    "question": "Quel lieu Naboth est-il emmené pour être exécuté ?",
+    "choices": [
+      "« hors de la ville »",
+      "« dans le palais »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 21:13 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-120",
+    "book": "1 Rois",
+    "chapter": 21,
+    "verseRef": "1 Rois 21:19",
+    "verseText": "Voir 1 Rois 21:19.",
+    "question": "Quelle parole Élie adresse-t-il à Achab au sujet du meurtre et de la prise ?",
+    "choices": [
+      "« N'as-tu pas assassiné, et pris possession? »",
+      "« N’as-tu pas menti, et fui? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 21:19 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-121",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:10",
+    "verseText": "Voir 1 Rois 22:10.",
+    "question": "Où les deux rois étaient-ils assis quand les prophètes prophétisaient ?",
+    "choices": [
+      "« dans la place à l'entrée de la porte de Samarie »",
+      "dans le temple de l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:10 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-122",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:31",
+    "verseText": "Voir 1 Rois 22:31.",
+    "question": "Quel ordre le roi de Syrie donna-t-il aux chefs des chars ?",
+    "choices": [
+      "« Vous n'attaquerez ni petits ni grands, mais vous attaquerez seulement le roi d'Israël »",
+      "« Vous attaquerez seulement Josaphat, roi de Juda »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:31 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-123",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:32",
+    "verseText": "Voir 1 Rois 22:32.",
+    "question": "Pourquoi les chefs des chars se dirigèrent-ils vers Josaphat ?",
+    "choices": [
+      "« Certainement, c'est le roi d'Israël »",
+      "« Certainement, c’est Michée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:32 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-124",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:32",
+    "verseText": "Voir 1 Rois 22:32.",
+    "question": "Quelle action de Josaphat est mentionnée quand il est attaqué ?",
+    "choices": [
+      "« Josaphat poussa un cri »",
+      "« Josaphat tomba mort »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:32 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-125",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:33",
+    "verseText": "Voir 1 Rois 22:33.",
+    "question": "Pourquoi les chefs des chars s’éloignèrent-ils de Josaphat ?",
+    "choices": [
+      "« voyant que ce n'était pas le roi d'Israël »",
+      "voyant qu’il était désarmé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:33 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-126",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:34",
+    "verseText": "Voir 1 Rois 22:34.",
+    "question": "Quelle expression décrit le tir qui frappa le roi d’Israël ?",
+    "choices": [
+      "« un homme tira de son arc au hasard »",
+      "un homme tira de son arc volontairement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:34 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-127",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:34",
+    "verseText": "Voir 1 Rois 22:34.",
+    "question": "Que dit le roi d’Israël au conducteur du char après avoir été frappé ?",
+    "choices": [
+      "« Tourne, et fais-moi sortir du champ de bataille, car je suis blessé »",
+      "« Avance, et frappe les Syriens »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:34 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-128",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:35",
+    "verseText": "Voir 1 Rois 22:35.",
+    "question": "Comment le texte décrit-il l’évolution du combat ce jour-là ?",
+    "choices": [
+      "« Le combat devint acharné ce jour-là »",
+      "« Le combat s’arrêta aussitôt »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:35 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-129",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:35",
+    "verseText": "Voir 1 Rois 22:35.",
+    "question": "Où le sang de la blessure coula-t-il ?",
+    "choices": [
+      "« dans l'intérieur du char »",
+      "sur l’autel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:35 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-130",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:36",
+    "verseText": "Voir 1 Rois 22:36.",
+    "question": "Quel cri passa par tout le camp au coucher du soleil ?",
+    "choices": [
+      "« Chacun à sa ville et chacun dans son pays! »",
+      "« Retournez à Samarie pour le jeûne! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:36 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-131",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:37",
+    "verseText": "Voir 1 Rois 22:37.",
+    "question": "Où enterra-t-on le roi après sa mort ?",
+    "choices": [
+      "« on enterra le roi à Samarie »",
+      "on enterra le roi à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:37 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-132",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:38",
+    "verseText": "Voir 1 Rois 22:38.",
+    "question": "Où lava-t-on le char, et que firent les chiens ?",
+    "choices": [
+      "« à l'étang de Samarie, les chiens léchèrent le sang d'Achab »",
+      "au torrent de Kison, les chiens disparurent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:38 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-133",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:38",
+    "verseText": "Voir 1 Rois 22:38.",
+    "question": "Quel autre détail est ajouté à propos de l’étang de Samarie ?",
+    "choices": [
+      "« les prostituées s'y baignèrent »",
+      "les sacrificateurs y prièrent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:38 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-134",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:39",
+    "verseText": "Voir 1 Rois 22:39.",
+    "question": "Quelle construction d’Achab est citée parmi “le reste des actions” ?",
+    "choices": [
+      "« la maison d'ivoire qu'il construisit »",
+      "la maison de cèdre qu’il construisit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:39 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-135",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:40",
+    "verseText": "Voir 1 Rois 22:40.",
+    "question": "Comment le texte résume-t-il la mort d’Achab ?",
+    "choices": [
+      "« Achab se coucha avec ses pères »",
+      "Achab se repentit et vécut longtemps"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:40 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-136",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:47",
+    "verseText": "Voir 1 Rois 22:47.",
+    "question": "Quel fait de réforme morale est attribué à Josaphat ?",
+    "choices": [
+      "« Il ôta du pays le reste des prostitués, qui s'y trouvaient encore depuis le temps d'Asa, son père »",
+      "Il établit des veaux d’or à Dan et à Béthel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:47 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-137",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:48",
+    "verseText": "Voir 1 Rois 22:48.",
+    "question": "Quelle situation politique est mentionnée en Édom ?",
+    "choices": [
+      "« Il n'y avait point de roi en Édom: c'était un intendant qui gouvernait »",
+      "Il y avait un roi puissant en Édom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:48 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-138",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:49",
+    "verseText": "Voir 1 Rois 22:49.",
+    "question": "Quel projet maritime Josaphat entreprit-il et quel résultat arriva-t-il ?",
+    "choices": [
+      "« Josaphat construisit des navires de Tarsis… mais il n'y alla point, parce que les navires se brisèrent à Etsjon Guéber »",
+      "Josaphat construisit des navires… et revint avec l’or d’Ophir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:49 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-139",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:50",
+    "verseText": "Voir 1 Rois 22:50.",
+    "question": "Qui proposa une coopération maritime à Josaphat, et quelle fut la réponse ?",
+    "choices": [
+      "« Achazia, fils d'Achab… Et Josaphat ne voulut pas »",
+      "Ben Hadad… et Josaphat accepta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:50 (LSG 1910)."
+  },
+  {
+    "id": "1RO-D-140",
+    "book": "1 Rois",
+    "chapter": 22,
+    "verseRef": "1 Rois 22:52",
+    "verseText": "Voir 1 Rois 22:52.",
+    "question": "Quel roi d’Israël commence à régner à la fin du chapitre, et combien de temps ?",
+    "choices": [
+      "« Achazia, fils d'Achab… Il régna deux ans sur Israël »",
+      "Jéhu, fils de Nimschi… Il régna quarante ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 22:52 (LSG 1910)."
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "2jean-D-001",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:1",
+    "verseText": "Voir 2 Jean 1:1.",
+    "question": "Quel titre l’auteur s’attribue-t-il dans l’ouverture ?",
+    "choices": [
+      "L’ancien",
+      "L’apôtre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:1 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-002",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:1",
+    "verseText": "Voir 2 Jean 1:1.",
+    "question": "Quel terme qualifie la destinataire dans l’adresse ?",
+    "choices": [
+      "L’élue",
+      "La bien-aimée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:1 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-003",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:1",
+    "verseText": "Voir 2 Jean 1:1.",
+    "question": "À quel groupe l’adresse associe-t-elle la destinataire ?",
+    "choices": [
+      "À ses enfants",
+      "À ses serviteurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:1 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-004",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:1",
+    "verseText": "Voir 2 Jean 1:1.",
+    "question": "Par quel mot l’auteur qualifie-t-il son amour envers eux ?",
+    "choices": [
+      "En vérité",
+      "En puissance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:1 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-005",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:1",
+    "verseText": "Voir 2 Jean 1:1.",
+    "question": "Qui est inclus parmi ceux qui les aiment, selon la formulation ?",
+    "choices": [
+      "Tous ceux qui ont connu la vérité",
+      "Tous ceux qui observent la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:1 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-006",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:2",
+    "verseText": "Voir 2 Jean 1:2.",
+    "question": "Quelle idée relie l’amour exprimé à une cause durable ?",
+    "choices": [
+      "La vérité qui demeure en nous",
+      "La coutume transmise par les pères"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:2 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-007",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:2",
+    "verseText": "Voir 2 Jean 1:2.",
+    "question": "Où la vérité est-elle dite demeurer ?",
+    "choices": [
+      "En nous",
+      "Avec eux seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:2 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-008",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:2",
+    "verseText": "Voir 2 Jean 1:2.",
+    "question": "Pour quelle durée la vérité est-elle dite être avec nous ?",
+    "choices": [
+      "Pour l’éternité",
+      "Pour un temps"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:2 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-009",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:3",
+    "verseText": "Voir 2 Jean 1:3.",
+    "question": "Parmi ces trois dons, lequel figure au milieu dans l’ordre donné ?",
+    "choices": [
+      "La miséricorde",
+      "La paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-010",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:3",
+    "verseText": "Voir 2 Jean 1:3.",
+    "question": "De qui proviennent les dons souhaités en premier lieu, avant la mention de Jésus-Christ ?",
+    "choices": [
+      "De Dieu le Père",
+      "De l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-011",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:3",
+    "verseText": "Voir 2 Jean 1:3.",
+    "question": "Quel titre est associé à Jésus-Christ dans la bénédiction ?",
+    "choices": [
+      "Le Fils du Père",
+      "Le Fils de David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-012",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:3",
+    "verseText": "Voir 2 Jean 1:3.",
+    "question": "Dans quels deux cadres les dons sont-ils souhaités ensemble ?",
+    "choices": [
+      "Dans la vérité et la charité",
+      "Dans la loi et les œuvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-013",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:4",
+    "verseText": "Voir 2 Jean 1:4.",
+    "question": "Quelle expression exacte introduit la joie de l’auteur concernant les enfants ?",
+    "choices": [
+      "J’ai été fort réjoui",
+      "J’ai été grandement surpris"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:4 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-014",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:4",
+    "verseText": "Voir 2 Jean 1:4.",
+    "question": "Quel verbe exprime l’action des enfants par rapport à la vérité ?",
+    "choices": [
+      "Marchent",
+      "Disputent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:4 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-015",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:4",
+    "verseText": "Voir 2 Jean 1:4.",
+    "question": "Selon quelle norme ces enfants marchent-ils dans la vérité ?",
+    "choices": [
+      "Selon le commandement que nous avons reçu du Père",
+      "Selon l’exemple des anciens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:4 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-016",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:5",
+    "verseText": "Voir 2 Jean 1:5.",
+    "question": "Comment l’auteur précise-t-il la nature de ce qu’il écrit à la destinataire ?",
+    "choices": [
+      "Non comme te prescrivant un commandement nouveau",
+      "Comme te révélant un mystère caché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:5 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-017",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:5",
+    "verseText": "Voir 2 Jean 1:5.",
+    "question": "Quel repère temporel qualifie le commandement rappelé ?",
+    "choices": [
+      "Dès le commencement",
+      "Depuis peu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:5 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-018",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:5",
+    "verseText": "Voir 2 Jean 1:5.",
+    "question": "Quelle formulation résume la demande principale adressée à la destinataire ?",
+    "choices": [
+      "Que nous nous aimions les uns les autres",
+      "Que vous fassiez pénitence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:5 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-019",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:6",
+    "verseText": "Voir 2 Jean 1:6.",
+    "question": "Selon le texte, à quoi « l’amour consiste »-t-il concrètement ?",
+    "choices": [
+      "À marcher selon ses commandements",
+      "À multiplier les paroles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-020",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:6",
+    "verseText": "Voir 2 Jean 1:6.",
+    "question": "Quel mot relie explicitement l’amour à une marche ?",
+    "choices": [
+      "Marcher",
+      "Sacrifier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-021",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:6",
+    "verseText": "Voir 2 Jean 1:6.",
+    "question": "Quel est l’objet de la marche demandée aux destinataires ?",
+    "choices": [
+      "Le commandement",
+      "La tradition"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-022",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:6",
+    "verseText": "Voir 2 Jean 1:6.",
+    "question": "Comment le commandement est-il présenté quant à son ancienneté dans leur apprentissage ?",
+    "choices": [
+      "Comme vous l’avez appris dès le commencement",
+      "Comme vous l’avez découvert récemment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-023",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:7",
+    "verseText": "Voir 2 Jean 1:7.",
+    "question": "Quelle réalité déclenche l’avertissement au sujet des dangers ?",
+    "choices": [
+      "Plusieurs séducteurs sont entrés dans le monde",
+      "Plusieurs guerres ont éclaté au loin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:7 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-024",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:7",
+    "verseText": "Voir 2 Jean 1:7.",
+    "question": "Quel point doctrinal ces séducteurs ne confessent-ils pas ?",
+    "choices": [
+      "Jésus-Christ venu en chair",
+      "Jésus-Christ monté au ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:7 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-025",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:7",
+    "verseText": "Voir 2 Jean 1:7.",
+    "question": "Quel double qualificatif est donné à celui qui ne confesse pas ce point ?",
+    "choices": [
+      "Le séducteur et l’antéchrist",
+      "Le faible et le timide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:7 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-026",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:8",
+    "verseText": "Voir 2 Jean 1:8.",
+    "question": "Sur quoi porte l’ordre de vigilance avant toute conséquence évoquée ?",
+    "choices": [
+      "Sur vous-mêmes",
+      "Sur les autorités"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-027",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:8",
+    "verseText": "Voir 2 Jean 1:8.",
+    "question": "Quelle perte est spécifiquement mentionnée comme danger possible ?",
+    "choices": [
+      "Le fruit de votre travail",
+      "L’honneur devant les hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-028",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:8",
+    "verseText": "Voir 2 Jean 1:8.",
+    "question": "Quelle issue positive est posée comme objectif à la vigilance ?",
+    "choices": [
+      "Recevoir une pleine récompense",
+      "Recevoir une puissance visible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-029",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:9",
+    "verseText": "Voir 2 Jean 1:9.",
+    "question": "Quel comportement est décrit par l’expression « va plus loin » ?",
+    "choices": [
+      "Ne demeure pas dans la doctrine de Christ",
+      "Multiplie les prières dans le secret"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-030",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:9",
+    "verseText": "Voir 2 Jean 1:9.",
+    "question": "Quel est l’état spirituel de celui qui ne demeure pas dans la doctrine de Christ ?",
+    "choices": [
+      "Il n’a point Dieu",
+      "Il a Dieu pleinement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-031",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:9",
+    "verseText": "Voir 2 Jean 1:9.",
+    "question": "Quelle conséquence est associée à celui qui demeure dans la doctrine ?",
+    "choices": [
+      "Il a le Père et le Fils",
+      "Il a le monde et ses richesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-032",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:10",
+    "verseText": "Voir 2 Jean 1:10.",
+    "question": "Dans quel cas l’auteur ordonne-t-il de ne pas accueillir une personne ?",
+    "choices": [
+      "Si quelqu’un vient à vous et n’apporte pas cette doctrine",
+      "Si quelqu’un vient à vous sans argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-033",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:10",
+    "verseText": "Voir 2 Jean 1:10.",
+    "question": "Quel lieu est explicitement interdit pour l’accueil de celui qui n’apporte pas la doctrine ?",
+    "choices": [
+      "Votre maison",
+      "Votre ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-034",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:10",
+    "verseText": "Voir 2 Jean 1:10.",
+    "question": "Quelle parole précise est interdite envers celui qui n’apporte pas la doctrine ?",
+    "choices": [
+      "Salut !",
+      "Merci !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-035",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:11",
+    "verseText": "Voir 2 Jean 1:11.",
+    "question": "Que devient celui qui dit la parole interdite, selon la conséquence formulée ?",
+    "choices": [
+      "Participant à ses mauvaises œuvres",
+      "Témoin de sa conversion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:11 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-036",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:11",
+    "verseText": "Voir 2 Jean 1:11.",
+    "question": "À quoi l’auteur dit-il participer en adressant ce salut à la mauvaise personne ?",
+    "choices": [
+      "À ses mauvaises œuvres",
+      "À sa pleine récompense"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:11 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-037",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:12",
+    "verseText": "Voir 2 Jean 1:12.",
+    "question": "Quelle quantité de choses l’auteur dit-il avoir à communiquer ?",
+    "choices": [
+      "Beaucoup de choses",
+      "Très peu de choses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-038",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:12",
+    "verseText": "Voir 2 Jean 1:12.",
+    "question": "Quels deux moyens d’écriture l’auteur mentionne-t-il explicitement ?",
+    "choices": [
+      "Papier et encre",
+      "Tables et burin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-039",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:12",
+    "verseText": "Voir 2 Jean 1:12.",
+    "question": "Quelle préférence l’auteur exprime-t-il plutôt que d’écrire par ces moyens ?",
+    "choices": [
+      "Espérer aller chez vous",
+      "Envoyer un autre ancien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-040",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:12",
+    "verseText": "Voir 2 Jean 1:12.",
+    "question": "Quelle expression décrit la manière de parler souhaitée lors de la rencontre ?",
+    "choices": [
+      "De bouche à bouche",
+      "De cœur à cœur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-041",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:12",
+    "verseText": "Voir 2 Jean 1:12.",
+    "question": "Quel résultat est recherché par cette rencontre directe ?",
+    "choices": [
+      "Que notre joie soit parfaite",
+      "Que notre force soit reconnue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-042",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:13",
+    "verseText": "Voir 2 Jean 1:13.",
+    "question": "Qui envoie des salutations à la fin de la lettre ?",
+    "choices": [
+      "Les enfants de ta sœur l’élue",
+      "Les anciens de votre région"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:13 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-043",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:13",
+    "verseText": "Voir 2 Jean 1:13.",
+    "question": "Quelle relation familiale est explicitement indiquée pour la personne associée aux salutations ?",
+    "choices": [
+      "Ta sœur",
+      "Ton épouse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:13 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-044",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:13",
+    "verseText": "Voir 2 Jean 1:13.",
+    "question": "Quel qualificatif accompagne la mention de la sœur dans la salutation finale ?",
+    "choices": [
+      "L’élue",
+      "La prophétesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:13 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-045",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:2",
+    "verseText": "Voir 2 Jean 1:2.",
+    "question": "Parmi ces deux formulations, laquelle correspond à la cause donnée pour l’amour commun ?",
+    "choices": [
+      "À cause de la vérité qui demeure en nous",
+      "À cause des œuvres que vous accomplissez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:2 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-046",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:5",
+    "verseText": "Voir 2 Jean 1:5.",
+    "question": "Parmi ces deux expressions, laquelle est utilisée pour décrire l’ancienneté du commandement ?",
+    "choices": [
+      "Dès le commencement",
+      "Depuis la captivité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:5 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-047",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:7",
+    "verseText": "Voir 2 Jean 1:7.",
+    "question": "Quelle articulation logique lie la présence des séducteurs à leur caractérisation ?",
+    "choices": [
+      "« Car » celui-là est le séducteur et l’antéchrist",
+      "« Donc » celui-là est le plus grand"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:7 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-048",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:7",
+    "verseText": "Voir 2 Jean 1:7.",
+    "question": "Quel endroit est mentionné comme le lieu d’entrée des séducteurs ?",
+    "choices": [
+      "Le monde",
+      "La maison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:7 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-049",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:8",
+    "verseText": "Voir 2 Jean 1:8.",
+    "question": "Quelle formule de vigilance introduit l’avertissement avant de parler du fruit du travail ?",
+    "choices": [
+      "Prenez garde à vous-mêmes",
+      "Souvenez-vous des anciens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-050",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:8",
+    "verseText": "Voir 2 Jean 1:8.",
+    "question": "Quelle expression est employée pour parler du résultat complet recherché concernant la récompense ?",
+    "choices": [
+      "Une pleine récompense",
+      "Une petite récompense"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-051",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:9",
+    "verseText": "Voir 2 Jean 1:9.",
+    "question": "Quelle notion est opposée implicitement au fait de « demeurer » ?",
+    "choices": [
+      "Aller plus loin",
+      "Se taire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-052",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:9",
+    "verseText": "Voir 2 Jean 1:9.",
+    "question": "Dans quel domaine doit-on demeurer pour « avoir le Père et le Fils » ?",
+    "choices": [
+      "Dans la doctrine",
+      "Dans les cérémonies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-053",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:10",
+    "verseText": "Voir 2 Jean 1:10.",
+    "question": "Quel est le critère exact pour refuser de recevoir quelqu’un chez soi ?",
+    "choices": [
+      "Il n’apporte pas cette doctrine",
+      "Il n’a pas de recommandation écrite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-054",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:11",
+    "verseText": "Voir 2 Jean 1:11.",
+    "question": "Quelle conséquence est attribuée à l’acte de dire le salut interdit ?",
+    "choices": [
+      "Participer aux mauvaises œuvres",
+      "Être séparé du monde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:11 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-055",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:12",
+    "verseText": "Voir 2 Jean 1:12.",
+    "question": "Quel contraste l’auteur établit-il entre écrire et parler ?",
+    "choices": [
+      "Ne pas écrire avec papier et encre, mais parler de bouche à bouche",
+      "Ne pas parler, mais écrire longuement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-056",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:12",
+    "verseText": "Voir 2 Jean 1:12.",
+    "question": "Quel pronom montre que la joie recherchée est partagée par l’auteur avec d’autres ?",
+    "choices": [
+      "Notre",
+      "Mon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-057",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:5",
+    "verseText": "Voir 2 Jean 1:5.",
+    "question": "À qui l’auteur s’adresse-t-il en utilisant « je te prie » ?",
+    "choices": [
+      "À Kyria",
+      "À Timothée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:5 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-058",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:6",
+    "verseText": "Voir 2 Jean 1:6.",
+    "question": "Quel mot relie explicitement l’amour à l’obéissance dans la définition donnée ?",
+    "choices": [
+      "Commandements",
+      "Promesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-059",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:10",
+    "verseText": "Voir 2 Jean 1:10.",
+    "question": "Quel groupe exact est mentionné comme destinataire de l’interdiction de recevoir ?",
+    "choices": [
+      "Ceux à qui quelqu’un vient",
+      "Les magistrats de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2jean-D-060",
+    "book": "2 Jean",
+    "chapter": 1,
+    "verseRef": "2 Jean 1:11",
+    "verseText": "Voir 2 Jean 1:11.",
+    "question": "Quelle formule résume le risque de complicité dénoncé à propos du salut donné ?",
+    "choices": [
+      "Participer à ses mauvaises œuvres",
+      "Approuver ses bonnes intentions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Jean 1:11 (LSG 1910)."
+  }
+]

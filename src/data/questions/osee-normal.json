@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "osee-N-001",
+    "book": "Osée",
+    "chapter": 1,
+    "verseRef": "Osée 1:1",
+    "verseText": "Voir Osée 1:1.",
+    "question": "Quel est le nom du père d’Osée mentionné au début du livre ?",
+    "choices": [
+      "Beéri",
+      "Diblaïm",
+      "Joas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 1:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-002",
+    "book": "Osée",
+    "chapter": 1,
+    "verseRef": "Osée 1:2",
+    "verseText": "Voir Osée 1:2.",
+    "question": "Quelle mission étrange l’Éternel donne-t-il à Osée au commencement ?",
+    "choices": [
+      "Prendre une femme prostituée et des enfants de prostitution",
+      "Bâtir un autel sur le Carmel",
+      "Fuir en Égypte avec sa famille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 1:2 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-003",
+    "book": "Osée",
+    "chapter": 1,
+    "verseRef": "Osée 1:3",
+    "verseText": "Voir Osée 1:3.",
+    "question": "Quel est le nom de la femme qu’Osée prend pour épouse ?",
+    "choices": [
+      "Gomer",
+      "Ruchama",
+      "Adma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 1:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-004",
+    "book": "Osée",
+    "chapter": 1,
+    "verseRef": "Osée 1:4",
+    "verseText": "Voir Osée 1:4.",
+    "question": "Quel nom l’Éternel ordonne-t-il de donner au premier fils d’Osée ?",
+    "choices": [
+      "Jizreel",
+      "Lo-Ammi",
+      "Beth-Aven"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 1:4 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-005",
+    "book": "Osée",
+    "chapter": 1,
+    "verseRef": "Osée 1:5",
+    "verseText": "Voir Osée 1:5.",
+    "question": "Selon la parole de l’Éternel, que brisera-t-il “dans la vallée de Jizreel” ?",
+    "choices": [
+      "L’arc d’Israël",
+      "Les portes de Jérusalem",
+      "La maison de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 1:5 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-006",
+    "book": "Osée",
+    "chapter": 1,
+    "verseRef": "Osée 1:6",
+    "verseText": "Voir Osée 1:6.",
+    "question": "Quel nom reçoit la fille d’Osée, indiquant l’absence de pitié ?",
+    "choices": [
+      "Lo-Ruchama",
+      "Ruchama",
+      "Ammi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 1:6 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-007",
+    "book": "Osée",
+    "chapter": 1,
+    "verseRef": "Osée 1:7",
+    "verseText": "Voir Osée 1:7.",
+    "question": "Par quels moyens l’Éternel dit-il qu’il ne sauvera PAS Juda ?",
+    "choices": [
+      "Ni par l’arc, ni par l’épée, ni par les combats",
+      "Ni par la prière, ni par le jeûne, ni par l’huile",
+      "Ni par les prophètes, ni par les songes, ni par les visions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 1:7 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-008",
+    "book": "Osée",
+    "chapter": 1,
+    "verseRef": "Osée 1:8-9",
+    "verseText": "Voir Osée 1:8-9.",
+    "question": "Quel nom reçoit le fils né après le sevrage de Lo-Ruchama ?",
+    "choices": [
+      "Lo-Ammi",
+      "Jizreel",
+      "Éphraïm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 1:8-9 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-009",
+    "book": "Osée",
+    "chapter": 2,
+    "verseRef": "Osée 2:1",
+    "verseText": "Voir Osée 2:1.",
+    "question": "Quelle promesse inverse la parole “Vous n’êtes pas mon peuple” ?",
+    "choices": [
+      "“Fils du Dieu vivant !”",
+      "“Serviteurs du roi !”",
+      "“Enfants du désert !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 2:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-010",
+    "book": "Osée",
+    "chapter": 2,
+    "verseRef": "Osée 2:3",
+    "verseText": "Voir Osée 2:3.",
+    "question": "Que doivent dire les enfants à leurs frères, selon l’ordre du texte ?",
+    "choices": [
+      "Ammi !",
+      "Lo-Ammi !",
+      "Guilgal !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 2:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-011",
+    "book": "Osée",
+    "chapter": 2,
+    "verseRef": "Osée 2:3",
+    "verseText": "Voir Osée 2:3.",
+    "question": "Que doivent dire les enfants à leurs sœurs, selon l’ordre du texte ?",
+    "choices": [
+      "Ruchama !",
+      "Lo-Ruchama !",
+      "Tseboïm !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 2:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-012",
+    "book": "Osée",
+    "chapter": 2,
+    "verseRef": "Osée 2:4",
+    "verseText": "Voir Osée 2:4.",
+    "question": "Quel appel est lancé contre “votre mère” dans le texte ?",
+    "choices": [
+      "“Plaidez, plaidez contre votre mère”",
+      "“Bénissez, bénissez votre mère”",
+      "“Cachez, cachez votre mère”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 2:4 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-013",
+    "book": "Osée",
+    "chapter": 2,
+    "verseRef": "Osée 2:7",
+    "verseText": "Voir Osée 2:7.",
+    "question": "Quels “amants” la mère dit-elle suivre, selon sa déclaration ?",
+    "choices": [
+      "Ceux qui lui donnent son pain et son eau, sa laine et son lin, son huile et sa boisson",
+      "Ceux qui lui donnent des chars et des épées, des chevaux et des cavaliers",
+      "Ceux qui lui donnent des visions et des songes, des signes et des prodiges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 2:7 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-014",
+    "book": "Osée",
+    "chapter": 2,
+    "verseRef": "Osée 2:8",
+    "verseText": "Voir Osée 2:8.",
+    "question": "Avec quoi l’Éternel dit-il qu’il fermera le chemin d’Israël ?",
+    "choices": [
+      "Des épines",
+      "Des pierres précieuses",
+      "Des flèches"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 2:8 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-015",
+    "book": "Osée",
+    "chapter": 2,
+    "verseRef": "Osée 2:22",
+    "verseText": "Voir Osée 2:22.",
+    "question": "Que reconnaîtra Israël quand l’Éternel sera “son fiancé par la fidélité” ?",
+    "choices": [
+      "L’Éternel",
+      "Jéroboam",
+      "Baal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 2:22 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-016",
+    "book": "Osée",
+    "chapter": 2,
+    "verseRef": "Osée 2:19",
+    "verseText": "Voir Osée 2:19.",
+    "question": "Quel nom l’Éternel promet-il d’ôter de la bouche d’Israël ?",
+    "choices": [
+      "Les noms des Baals",
+      "Le nom de David",
+      "Le nom de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 2:19 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-017",
+    "book": "Osée",
+    "chapter": 2,
+    "verseRef": "Osée 2:17",
+    "verseText": "Voir Osée 2:17.",
+    "question": "Quelle vallée est donnée comme “une porte d’espérance” ?",
+    "choices": [
+      "La vallée d’Acor",
+      "La vallée de Jizreel",
+      "La vallée d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 2:17 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-018",
+    "book": "Osée",
+    "chapter": 2,
+    "verseRef": "Osée 2:18",
+    "verseText": "Voir Osée 2:18.",
+    "question": "Quel nouveau titre Israël donnera-t-il à l’Éternel “en ce jour-là” ?",
+    "choices": [
+      "Mon mari !",
+      "Mon maître !",
+      "Mon roi !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 2:18 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-019",
+    "book": "Osée",
+    "chapter": 3,
+    "verseRef": "Osée 3:2",
+    "verseText": "Voir Osée 3:2.",
+    "question": "À quel prix Osée dit-il avoir acheté la femme demandée par l’Éternel ?",
+    "choices": [
+      "Quinze sicles d’argent, un homer d’orge et un léthec d’orge",
+      "Trente sicles d’argent, un homer de blé et un léthec d’huile",
+      "Dix sicles d’or, un homer d’orge et un léthec de froment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 3:2 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-020",
+    "book": "Osée",
+    "chapter": 3,
+    "verseRef": "Osée 3:3",
+    "verseText": "Voir Osée 3:3.",
+    "question": "Après cette acquisition, quelle consigne Osée donne-t-il à la femme ?",
+    "choices": [
+      "“Reste longtemps pour moi… et je serai de même envers toi”",
+      "“Pars loin de moi… et je t’oublierai”",
+      "“Va vers mes ennemis… et tu seras libre”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 3:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-021",
+    "book": "Osée",
+    "chapter": 3,
+    "verseRef": "Osée 3:4",
+    "verseText": "Voir Osée 3:4.",
+    "question": "Selon Osée, de quoi Israël restera-t-il longtemps “sans” (liste commencée) ?",
+    "choices": [
+      "Sans roi, sans chef, sans sacrifice",
+      "Sans pain, sans eau, sans huile",
+      "Sans terre, sans ville, sans maison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 3:4 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-022",
+    "book": "Osée",
+    "chapter": 3,
+    "verseRef": "Osée 3:5",
+    "verseText": "Voir Osée 3:5.",
+    "question": "Quel roi Israël cherchera-t-il après son retour, avec l’Éternel ?",
+    "choices": [
+      "David, leur roi",
+      "Jéroboam, leur roi",
+      "Achaz, leur roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 3:5 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-023",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:1",
+    "verseText": "Voir Osée 4:1.",
+    "question": "Quel “procès” l’Éternel a-t-il avec les habitants du pays ?",
+    "choices": [
+      "Il n’y a point de vérité, point de miséricorde, point de connaissance de Dieu",
+      "Il n’y a point de temple, point d’arche, point de sacrificateur",
+      "Il n’y a point de roi, point de chef, point de prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 4:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-024",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:2",
+    "verseText": "Voir Osée 4:2.",
+    "question": "Quels actes sont cités ensemble comme signes de corruption ?",
+    "choices": [
+      "Assassinats, vols et adultères",
+      "Jeûnes, prières et offrandes",
+      "Moissons, vendanges et fêtes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 4:2 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-025",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:3",
+    "verseText": "Voir Osée 4:3.",
+    "question": "Qu’arrivera-t-il même aux poissons de la mer, selon l’annonce ?",
+    "choices": [
+      "Ils disparaîtront",
+      "Ils se multiplieront",
+      "Ils seront consacrés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 4:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-026",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:6",
+    "verseText": "Voir Osée 4:6.",
+    "question": "Quelle phrase célèbre commence par “Mon peuple est détruit…” ?",
+    "choices": [
+      "“Mon peuple est détruit, parce qu’il lui manque la connaissance”",
+      "“Mon peuple est sauvé, parce qu’il a des sacrifices”",
+      "“Mon peuple est puissant, parce qu’il a des chevaux”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 4:6 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-027",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:11",
+    "verseText": "Voir Osée 4:11.",
+    "question": "Selon Osée, qu’est-ce qui “fait perdre le sens” ?",
+    "choices": [
+      "La prostitution, le vin et le moût",
+      "La guerre, l’épée et l’arc",
+      "L’or, l’argent et le lin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 4:11 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-028",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:12",
+    "verseText": "Voir Osée 4:12.",
+    "question": "Que consulte le peuple, au lieu de consulter Dieu ?",
+    "choices": [
+      "Son bois",
+      "Son autel",
+      "Son encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 4:12 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-029",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:13",
+    "verseText": "Voir Osée 4:13.",
+    "question": "Sur quels lieux le peuple sacrifie-t-il, selon le texte ?",
+    "choices": [
+      "Sur le sommet des montagnes",
+      "Au bord du Jourdain",
+      "Dans la vallée d’Acor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 4:13 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-030",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:15",
+    "verseText": "Voir Osée 4:15.",
+    "question": "À quels deux lieux Israël ne doit-il pas aller, selon l’avertissement ?",
+    "choices": [
+      "Guilgal et Beth-Aven",
+      "Béthel et Jéricho",
+      "Samarie et Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 4:15 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-031",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:16",
+    "verseText": "Voir Osée 4:16.",
+    "question": "À quoi Israël est-il comparé quand il se révolte ?",
+    "choices": [
+      "Une génisse indomptable",
+      "Un lion rugissant",
+      "Un aigle du désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 4:16 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-032",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:17",
+    "verseText": "Voir Osée 4:17.",
+    "question": "Qui est déclaré “attaché aux idoles” ?",
+    "choices": [
+      "Éphraïm",
+      "Juda",
+      "David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 4:17 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-033",
+    "book": "Osée",
+    "chapter": 5,
+    "verseRef": "Osée 5:3",
+    "verseText": "Voir Osée 5:3.",
+    "question": "Que dit le texte au sujet d’Éphraïm : “Je connais Éphraïm…” ?",
+    "choices": [
+      "“Et Israël ne m’est point caché”",
+      "“Et Juda ne m’est point caché”",
+      "“Et l’Égypte ne m’est point cachée”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 5:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-034",
+    "book": "Osée",
+    "chapter": 5,
+    "verseRef": "Osée 5:4",
+    "verseText": "Voir Osée 5:4.",
+    "question": "Quelle attitude interne empêche le retour à Dieu ?",
+    "choices": [
+      "“L’esprit de prostitution est au milieu d’eux”",
+      "“L’esprit de paix est sur eux”",
+      "“L’esprit de sagesse les garde”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 5:4 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-035",
+    "book": "Osée",
+    "chapter": 5,
+    "verseRef": "Osée 5:5",
+    "verseText": "Voir Osée 5:5.",
+    "question": "Quelle phrase décrit l’orgueil d’Israël ?",
+    "choices": [
+      "“L’orgueil d’Israël témoigne contre lui”",
+      "“L’orgueil d’Israël le justifie”",
+      "“L’orgueil d’Israël le sanctifie”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 5:5 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-036",
+    "book": "Osée",
+    "chapter": 6,
+    "verseRef": "Osée 6:1",
+    "verseText": "Voir Osée 6:1.",
+    "question": "Quel appel résume la direction de Dieu dans Osée 6 ?",
+    "choices": [
+      "“Venez, retournons à l’Éternel”",
+      "“Allez, fuyez vers l’Assyrie”",
+      "“Restez, attendez le jugement”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 6:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-037",
+    "book": "Osée",
+    "chapter": 7,
+    "verseRef": "Osée 7:4",
+    "verseText": "Voir Osée 7:4.",
+    "question": "Dans Osée 7, quelle image exprime l’état du peuple dans la passion ?",
+    "choices": [
+      "Un four chauffé par le boulanger",
+      "Une vigne plantée au désert",
+      "Une lampe d’or dans le temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 7:4 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-038",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:1",
+    "verseText": "Voir Osée 8:1.",
+    "question": "Dans Osée 8, à cause de quoi l’ennemi vient-il “comme un aigle” ?",
+    "choices": [
+      "“Ils ont transgressé mon alliance, et ils ont péché contre ma loi”",
+      "“Ils ont multiplié les sacrifices et les fêtes”",
+      "“Ils ont réparé les murs et les portes”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-039",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:4",
+    "verseText": "Voir Osée 8:4.",
+    "question": "Quel objet Israël a-t-il fait “avec l’argent et l’or”, selon Osée 8 ?",
+    "choices": [
+      "Des idoles",
+      "Des trompettes",
+      "Des autels d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:4 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-040",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:1",
+    "verseText": "Voir Osée 9:1.",
+    "question": "Quel avertissement est donné à propos de la joie “comme les peuples” ?",
+    "choices": [
+      "Israël ne doit pas se livrer à la joie et à l’allégresse comme les peuples",
+      "Israël doit se réjouir plus que les peuples",
+      "Israël doit imiter les peuples en tout"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-041",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:3",
+    "verseText": "Voir Osée 9:3.",
+    "question": "Selon Osée 9, où Éphraïm retournera-t-il ?",
+    "choices": [
+      "En Égypte",
+      "À Béthel",
+      "À Guilgal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-042",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:3",
+    "verseText": "Voir Osée 9:3.",
+    "question": "Selon Osée 9, en quel pays mangeront-ils des aliments impurs ?",
+    "choices": [
+      "En Assyrie",
+      "En Juda",
+      "En Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-043",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:10",
+    "verseText": "Voir Osée 9:10.",
+    "question": "Quelle comparaison décrit Israël au temps de la bénédiction passée ?",
+    "choices": [
+      "“Comme des raisins dans le désert”",
+      "“Comme des pierres dans la mer”",
+      "“Comme du sable dans un four”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:10 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-044",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:1",
+    "verseText": "Voir Osée 10:1.",
+    "question": "Dans Osée 10, à quoi Israël est-il comparé pour sa fécondité détournée ?",
+    "choices": [
+      "Une vigne luxuriante",
+      "Un agneau sans tache",
+      "Un cèdre du Liban"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-045",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:12",
+    "verseText": "Voir Osée 10:12.",
+    "question": "Que recommande le texte : “Semez…” pour récolter quoi ?",
+    "choices": [
+      "“Semez selon la justice, moissonnez selon la miséricorde”",
+      "“Semez selon la guerre, moissonnez selon l’épée”",
+      "“Semez selon l’or, moissonnez selon l’argent”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:12 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-046",
+    "book": "Osée",
+    "chapter": 11,
+    "verseRef": "Osée 11:1",
+    "verseText": "Voir Osée 11:1.",
+    "question": "Dans Osée 11, que dit Dieu : “Quand Israël était jeune…” ?",
+    "choices": [
+      "“Je l’aimai, et j’appelai mon fils hors d’Égypte”",
+      "“Je le haïs, et je l’envoyai en Assyrie”",
+      "“Je l’oubliai, et je le livrai à Guilgal”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 11:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-047",
+    "book": "Osée",
+    "chapter": 11,
+    "verseRef": "Osée 11:8",
+    "verseText": "Voir Osée 11:8.",
+    "question": "Dans Osée 11, quelles deux villes sont citées comme exemples terribles ?",
+    "choices": [
+      "Adma et Tseboïm",
+      "Guilgal et Beth-Aven",
+      "Juda et Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 11:8 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-048",
+    "book": "Osée",
+    "chapter": 11,
+    "verseRef": "Osée 11:9",
+    "verseText": "Voir Osée 11:9.",
+    "question": "Dans Osée 11, comment Dieu décrit-il son identité ?",
+    "choices": [
+      "“Je suis Dieu, et non pas un homme”",
+      "“Je suis un homme, et non pas Dieu”",
+      "“Je suis un ange, et non pas Dieu”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 11:9 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-049",
+    "book": "Osée",
+    "chapter": 12,
+    "verseRef": "Osée 12:2",
+    "verseText": "Voir Osée 12:2.",
+    "question": "Dans Osée 12, de quoi Éphraïm “se repaît”-il ?",
+    "choices": [
+      "De vent",
+      "De miel",
+      "De blé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 12:2 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-050",
+    "book": "Osée",
+    "chapter": 12,
+    "verseRef": "Osée 12:2",
+    "verseText": "Voir Osée 12:2.",
+    "question": "Dans Osée 12, quel vent poursuit-il ?",
+    "choices": [
+      "Le vent d’orient",
+      "Le vent du nord",
+      "Le vent de mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 12:2 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-051",
+    "book": "Osée",
+    "chapter": 12,
+    "verseRef": "Osée 12:5",
+    "verseText": "Voir Osée 12:5.",
+    "question": "Dans Osée 12, où Jacob “avait trouvé” Dieu ?",
+    "choices": [
+      "À Béthel",
+      "À Jizreel",
+      "À Beth-Aven"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 12:5 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-052",
+    "book": "Osée",
+    "chapter": 12,
+    "verseRef": "Osée 12:6",
+    "verseText": "Voir Osée 12:6.",
+    "question": "Quel titre est donné à l’Éternel en Osée 12 ?",
+    "choices": [
+      "“Le Dieu des armées”",
+      "“Le Dieu des collines”",
+      "“Le Dieu des moissons”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 12:6 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-053",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:1",
+    "verseText": "Voir Osée 13:1.",
+    "question": "Dans Osée 13, par quoi Éphraïm “se rendit coupable” ?",
+    "choices": [
+      "Par Baal",
+      "Par David",
+      "Par Moïse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-054",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:2",
+    "verseText": "Voir Osée 13:2.",
+    "question": "Dans Osée 13, quelle image décrit leur idolâtrie artisanale ?",
+    "choices": [
+      "“Ils baisent des veaux”",
+      "“Ils brûlent des tentes”",
+      "“Ils plantent des vignes”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:2 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-055",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:4",
+    "verseText": "Voir Osée 13:4.",
+    "question": "Dans Osée 13, comment Dieu se présente-t-il “dès le pays d’Égypte” ?",
+    "choices": [
+      "“Je suis l’Éternel, ton Dieu, dès le pays d’Égypte”",
+      "“Je suis Jéroboam, ton roi, dès le pays d’Égypte”",
+      "“Je suis Baal, ton maître, dès le pays d’Égypte”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:4 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-056",
+    "book": "Osée",
+    "chapter": 14,
+    "verseRef": "Osée 14:2",
+    "verseText": "Voir Osée 14:2.",
+    "question": "Dans Osée 14, quel appel résume le début du dernier chapitre ?",
+    "choices": [
+      "“Israël, reviens à l’Éternel, ton Dieu”",
+      "“Israël, pars en Assyrie, ton refuge”",
+      "“Israël, cherche Beth-Aven, ton secours”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 14:2 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-057",
+    "book": "Osée",
+    "chapter": 14,
+    "verseRef": "Osée 14:3",
+    "verseText": "Voir Osée 14:3.",
+    "question": "Dans Osée 14, que doit apporter le peuple en revenant ?",
+    "choices": [
+      "Des paroles",
+      "Des épées",
+      "Des chevaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 14:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-058",
+    "book": "Osée",
+    "chapter": 14,
+    "verseRef": "Osée 14:4",
+    "verseText": "Voir Osée 14:4.",
+    "question": "Dans Osée 14, quelle déclaration est faite sur les chevaux ?",
+    "choices": [
+      "“Nous ne monterons plus sur des chevaux”",
+      "“Nous compterons sur les chevaux”",
+      "“Les chevaux nous sauveront”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 14:4 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-059",
+    "book": "Osée",
+    "chapter": 14,
+    "verseRef": "Osée 14:4",
+    "verseText": "Voir Osée 14:4.",
+    "question": "Dans Osée 14, quelle confession remplace les idoles ?",
+    "choices": [
+      "“Nous ne dirons plus à l’ouvrage de nos mains : Notre Dieu !”",
+      "“Nous dirons à l’ouvrage de nos mains : Notre force !”",
+      "“Nous dirons à l’ouvrage de nos mains : Notre roi !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 14:4 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-060",
+    "book": "Osée",
+    "chapter": 14,
+    "verseRef": "Osée 14:6",
+    "verseText": "Voir Osée 14:6.",
+    "question": "Dans Osée 14, à quoi Dieu compare-t-il sa bénédiction sur Israël (image végétale) ?",
+    "choices": [
+      "“Je serai comme la rosée pour Israël”",
+      "“Je serai comme le désert pour Israël”",
+      "“Je serai comme la guerre pour Israël”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 14:6 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-061",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:7",
+    "verseText": "Voir Osée 4:7.",
+    "question": "Quelle menace l’Éternel annonce-t-il contre ceux qui “mangent les péchés” de son peuple ?",
+    "choices": [
+      "Ils seront rassasiés pour toujours",
+      "Ils tomberont avec leur gloire",
+      "Ils recevront la couronne de Juda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Osée 4:7 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-062",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:9",
+    "verseText": "Voir Osée 4:9.",
+    "question": "Quel principe de justice est proclamé : “On traitera le peuple…” ?",
+    "choices": [
+      "Selon sa richesse",
+      "Comme le sacrificateur",
+      "Comme le roi d’Assyrie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Osée 4:9 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-063",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:10",
+    "verseText": "Voir Osée 4:10.",
+    "question": "Quelle conséquence est annoncée : “Ils mangeront, et…” ?",
+    "choices": [
+      "Ils seront rassasiés",
+      "Ils ne seront pas rassasiés",
+      "Ils deviendront puissants"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Osée 4:10 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-064",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:14",
+    "verseText": "Voir Osée 4:14.",
+    "question": "Selon le texte, pourquoi les filles du peuple se prostituent-elles ?",
+    "choices": [
+      "Parce que les chefs les y forcent",
+      "Parce que les pères se retirent avec des prostituées",
+      "Parce que Juda les entraîne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Osée 4:14 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-065",
+    "book": "Osée",
+    "chapter": 4,
+    "verseRef": "Osée 4:15-5",
+    "verseText": "Voir Osée 4:15-5.",
+    "question": "Quel jugement est prononcé : “L’Éternel a avec Juda…” ?",
+    "choices": [
+      "Une alliance d’or",
+      "Un procès",
+      "Une moisson de paix"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Osée 4:15-5 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-066",
+    "book": "Osée",
+    "chapter": 5,
+    "verseRef": "Osée 5:1",
+    "verseText": "Voir Osée 5:1.",
+    "question": "Quelle image de piège est utilisée contre les chefs et les sacrificateurs ?",
+    "choices": [
+      "Un filet étendu sur le Thabor",
+      "Un glaive sur le Jourdain",
+      "Une muraille autour de Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 5:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-067",
+    "book": "Osée",
+    "chapter": 5,
+    "verseRef": "Osée 5:1",
+    "verseText": "Voir Osée 5:1.",
+    "question": "Où les chefs ont-ils “tendu le filet”, selon l’accusation ?",
+    "choices": [
+      "Sur le Thabor",
+      "À Jérusalem",
+      "À Guilgal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 5:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-068",
+    "book": "Osée",
+    "chapter": 5,
+    "verseRef": "Osée 5:1",
+    "verseText": "Voir Osée 5:1.",
+    "question": "Quel lieu est aussi cité comme piège : “un rets…” ?",
+    "choices": [
+      "Mitspa",
+      "Béthel",
+      "Jizreel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 5:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-069",
+    "book": "Osée",
+    "chapter": 5,
+    "verseRef": "Osée 5:15",
+    "verseText": "Voir Osée 5:15.",
+    "question": "Quelle décision divine est annoncée : “Je m’en irai…” ?",
+    "choices": [
+      "Je demeurerai au milieu d’eux",
+      "Je retournerai dans ma demeure",
+      "Je descendrai en Égypte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Osée 5:15 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-070",
+    "book": "Osée",
+    "chapter": 5,
+    "verseRef": "Osée 5:15",
+    "verseText": "Voir Osée 5:15.",
+    "question": "Pour quelle raison l’Éternel dit-il qu’il se retirera ?",
+    "choices": [
+      "Jusqu’à ce qu’ils se reconnaissent coupables et cherchent sa face",
+      "Jusqu’à ce qu’ils bâtissent un nouveau temple",
+      "Jusqu’à ce qu’ils fassent alliance avec Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 5:15 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-071",
+    "book": "Osée",
+    "chapter": 6,
+    "verseRef": "Osée 6:4",
+    "verseText": "Voir Osée 6:4.",
+    "question": "Quelle expression décrit la fidélité d’Israël comparée à quelque chose de passager ?",
+    "choices": [
+      "Comme la rosée du matin",
+      "Comme la mer Rouge",
+      "Comme le cèdre du Liban"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 6:4 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-072",
+    "book": "Osée",
+    "chapter": 6,
+    "verseRef": "Osée 6:6",
+    "verseText": "Voir Osée 6:6.",
+    "question": "Que préfère l’Éternel plutôt que les sacrifices, selon Osée 6 ?",
+    "choices": [
+      "La miséricorde et la connaissance de Dieu",
+      "L’or et l’encens",
+      "Les holocaustes et les fêtes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 6:6 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-073",
+    "book": "Osée",
+    "chapter": 6,
+    "verseRef": "Osée 6:7",
+    "verseText": "Voir Osée 6:7.",
+    "question": "Quelle comparaison est donnée : “Mais ils ont, comme…” transgressé l’alliance ?",
+    "choices": [
+      "Adam",
+      "David",
+      "Moïse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 6:7 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-074",
+    "book": "Osée",
+    "chapter": 6,
+    "verseRef": "Osée 6:8",
+    "verseText": "Voir Osée 6:8.",
+    "question": "Quelle ville est appelée “une ville de malfaiteurs” ?",
+    "choices": [
+      "Galaad",
+      "Samarie",
+      "Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 6:8 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-075",
+    "book": "Osée",
+    "chapter": 6,
+    "verseRef": "Osée 6:8",
+    "verseText": "Voir Osée 6:8.",
+    "question": "Selon le texte, qu’est Galaad “toute remplie” ?",
+    "choices": [
+      "De traces de sang",
+      "De fleurs et de vignes",
+      "De tablettes de loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 6:8 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-076",
+    "book": "Osée",
+    "chapter": 6,
+    "verseRef": "Osée 6:9",
+    "verseText": "Voir Osée 6:9.",
+    "question": "Quel groupe est comparé à des voleurs postés en embuscade ?",
+    "choices": [
+      "Les sacrificateurs",
+      "Les prophètes",
+      "Les juges de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 6:9 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-077",
+    "book": "Osée",
+    "chapter": 6,
+    "verseRef": "Osée 6:9",
+    "verseText": "Voir Osée 6:9.",
+    "question": "Quel acte horrible est mentionné : “Ils commettent…” ?",
+    "choices": [
+      "Le crime",
+      "La justice",
+      "La miséricorde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 6:9 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-078",
+    "book": "Osée",
+    "chapter": 6,
+    "verseRef": "Osée 6:10",
+    "verseText": "Voir Osée 6:10.",
+    "question": "Quelle accusation est portée contre la maison d’Israël : “J’y ai vu…” ?",
+    "choices": [
+      "Une chose horrible",
+      "Un nouveau réveil",
+      "Une grande sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 6:10 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-079",
+    "book": "Osée",
+    "chapter": 6,
+    "verseRef": "Osée 6:10",
+    "verseText": "Voir Osée 6:10.",
+    "question": "Quelle faute est citée : “Éphraïm se prostitue…” et quoi arrive à Israël ?",
+    "choices": [
+      "Israël se souille",
+      "Israël s’élève",
+      "Israël se fortifie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 6:10 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-080",
+    "book": "Osée",
+    "chapter": 7,
+    "verseRef": "Osée 7:1",
+    "verseText": "Voir Osée 7:1.",
+    "question": "À quel moment Dieu dit-il vouloir guérir Israël, mais découvre une iniquité ?",
+    "choices": [
+      "Quand je voulais guérir Israël",
+      "Quand Israël voulait jeûner",
+      "Quand Juda offrait des holocaustes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 7:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-081",
+    "book": "Osée",
+    "chapter": 7,
+    "verseRef": "Osée 7:2",
+    "verseText": "Voir Osée 7:2.",
+    "question": "Quel est le principal problème intérieur : “Ils ne se disent pas…” ?",
+    "choices": [
+      "Que l’Éternel ne voit pas",
+      "Qu’ils pourraient fuir",
+      "Que Dieu se souvient de toute leur méchanceté"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Osée 7:2 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-082",
+    "book": "Osée",
+    "chapter": 7,
+    "verseRef": "Osée 7:8",
+    "verseText": "Voir Osée 7:8.",
+    "question": "Quel terme décrit Israël au chapitre 7 : “Éphraïm est…” ?",
+    "choices": [
+      "Un gâteau qui n’a pas été retourné",
+      "Un pain sans levain consacré",
+      "Une gerbe d’orge bénie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 7:8 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-083",
+    "book": "Osée",
+    "chapter": 7,
+    "verseRef": "Osée 7:9",
+    "verseText": "Voir Osée 7:9.",
+    "question": "Selon Osée 7, que font “des étrangers” à la force d’Éphraïm ?",
+    "choices": [
+      "Ils la dévorent",
+      "Ils la multiplient",
+      "Ils la sanctifient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 7:9 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-084",
+    "book": "Osée",
+    "chapter": 7,
+    "verseRef": "Osée 7:9",
+    "verseText": "Voir Osée 7:9.",
+    "question": "Quelle image montre le vieillissement sans discernement d’Éphraïm ?",
+    "choices": [
+      "Des cheveux blancs sont répandus sur lui, et il n’y prend point garde",
+      "Il devient comme un cèdre, et il s’en réjouit",
+      "Il brille comme l’or, et il le sait"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 7:9 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-085",
+    "book": "Osée",
+    "chapter": 7,
+    "verseRef": "Osée 7:11",
+    "verseText": "Voir Osée 7:11.",
+    "question": "À quoi Éphraïm est-il comparé pour son manque d’intelligence ?",
+    "choices": [
+      "Une colombe stupide, sans intelligence",
+      "Un aigle puissant, sans peur",
+      "Un lion courageux, sans faiblesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 7:11 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-086",
+    "book": "Osée",
+    "chapter": 7,
+    "verseRef": "Osée 7:11",
+    "verseText": "Voir Osée 7:11.",
+    "question": "Vers quels deux pays Israël se tourne-t-il au lieu de revenir à Dieu ?",
+    "choices": [
+      "L’Égypte et l’Assyrie",
+      "Moab et Édom",
+      "Tyr et Sidon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 7:11 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-087",
+    "book": "Osée",
+    "chapter": 7,
+    "verseRef": "Osée 7:12",
+    "verseText": "Voir Osée 7:12.",
+    "question": "Quel jugement Dieu annonce-t-il : “J’étendrai sur eux…” ?",
+    "choices": [
+      "Mon filet",
+      "Mon épée",
+      "Mon huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 7:12 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-088",
+    "book": "Osée",
+    "chapter": 7,
+    "verseRef": "Osée 7:14",
+    "verseText": "Voir Osée 7:14.",
+    "question": "Pourquoi le peuple pousse-t-il des cris sur son lit, selon Osée 7 ?",
+    "choices": [
+      "Parce qu’il cherche Dieu en vérité",
+      "Parce qu’il gémit pour le blé et le moût",
+      "Parce qu’il prie pour la justice"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Osée 7:14 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-089",
+    "book": "Osée",
+    "chapter": 7,
+    "verseRef": "Osée 7:16",
+    "verseText": "Voir Osée 7:16.",
+    "question": "Quel mot décrit leur attitude : “Ils reviennent, mais…” ?",
+    "choices": [
+      "Pas au Très-Haut",
+      "À Beth-Aven",
+      "Au temple de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 7:16 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-090",
+    "book": "Osée",
+    "chapter": 7,
+    "verseRef": "Osée 7:16",
+    "verseText": "Voir Osée 7:16.",
+    "question": "À quoi sont-ils comparés : “comme…” ?",
+    "choices": [
+      "Un arc trompeur",
+      "Une épée brillante",
+      "Une tour forte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 7:16 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-091",
+    "book": "Osée",
+    "chapter": 7,
+    "verseRef": "Osée 7:13",
+    "verseText": "Voir Osée 7:13.",
+    "question": "Quelle plainte se trouve en Osée 8 : “Malheur à eux ! Car…” ?",
+    "choices": [
+      "Ils se sont enfuis loin de moi",
+      "Ils ont bâti des murailles pour Juda",
+      "Ils ont quitté l’Assyrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 7:13 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-092",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:2",
+    "verseText": "Voir Osée 8:2.",
+    "question": "Quel cri est prononcé : “Mon Dieu, nous…” ?",
+    "choices": [
+      "Nous te craignons !",
+      "Nous te connaissons, Israël !",
+      "Nous t’offrons de l’or !"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Osée 8:2 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-093",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:3",
+    "verseText": "Voir Osée 8:3.",
+    "question": "Quel mal est reproché : “Israël a rejeté…” ?",
+    "choices": [
+      "Le bien",
+      "Le sacrifice",
+      "Le prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-094",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:5",
+    "verseText": "Voir Osée 8:5.",
+    "question": "Quel animal symbolique est associé à Samarie au chapitre 8 ?",
+    "choices": [
+      "Le veau de Samarie",
+      "Le lion de Samarie",
+      "L’agneau de Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:5 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-095",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:5",
+    "verseText": "Voir Osée 8:5.",
+    "question": "Que dit l’Éternel à propos du veau de Samarie : “Mon indignation…” ?",
+    "choices": [
+      "S’enflamme contre eux",
+      "Se calme sur eux",
+      "Les bénit pour toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:5 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-096",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:7",
+    "verseText": "Voir Osée 8:7.",
+    "question": "Quelle promesse de résultat suit : “Ils ont semé du vent…” ?",
+    "choices": [
+      "Ils moissonneront la paix",
+      "Ils moissonneront la tempête",
+      "Ils moissonneront l’abondance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Osée 8:7 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-097",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:7",
+    "verseText": "Voir Osée 8:7.",
+    "question": "Quel détail agricole est ajouté : “il n’y a point…” ?",
+    "choices": [
+      "D’épi",
+      "De pressoir",
+      "De grenier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:7 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-098",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:7",
+    "verseText": "Voir Osée 8:7.",
+    "question": "Que ferait l’épi, s’il y en avait, selon Osée 8 ?",
+    "choices": [
+      "Il donnerait de la farine pour Israël",
+      "Il ne donnerait pas de farine",
+      "Il remplirait les aires"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Osée 8:7 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-099",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:8",
+    "verseText": "Voir Osée 8:8.",
+    "question": "Quel sort est annoncé : “Israël est…” parmi les nations ?",
+    "choices": [
+      "Brisé",
+      "Honoré",
+      "Couronné"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:8 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-100",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:8",
+    "verseText": "Voir Osée 8:8.",
+    "question": "À quoi Israël est-il comparé dans ce même passage ?",
+    "choices": [
+      "Un vase qui n’a pas de prix",
+      "Une couronne d’or",
+      "Un temple saint"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:8 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-101",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:9",
+    "verseText": "Voir Osée 8:9.",
+    "question": "Quelle description est donnée : “Ils sont allés vers…” comme un animal ?",
+    "choices": [
+      "L’Assyrie, comme un âne sauvage qui se tient à l’écart",
+      "L’Égypte, comme un lion rugissant",
+      "Juda, comme une brebis fidèle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:9 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-102",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:9",
+    "verseText": "Voir Osée 8:9.",
+    "question": "Quel acte est reproché à Éphraïm au chapitre 8 ?",
+    "choices": [
+      "Il a fait des présents",
+      "Il a détruit les idoles",
+      "Il a bâti un autel à l’Éternel seul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:9 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-103",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:12",
+    "verseText": "Voir Osée 8:12.",
+    "question": "Que dit l’Éternel sur “les préceptes” écrits pour Israël ?",
+    "choices": [
+      "Ils ont été regardés comme une chose étrangère",
+      "Ils ont été reçus comme un trésor",
+      "Ils ont été gravés sur leurs cœurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:12 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-104",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:13",
+    "verseText": "Voir Osée 8:13.",
+    "question": "Que fera l’Éternel “maintenant” au sujet de leurs iniquités ?",
+    "choices": [
+      "Il se souviendra de leurs iniquités et punira leurs péchés",
+      "Il oubliera leurs iniquités pour toujours",
+      "Il les couvrira par une couronne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:13 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-105",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:13",
+    "verseText": "Voir Osée 8:13.",
+    "question": "Où est-il dit qu’ils retourneront, en conséquence ?",
+    "choices": [
+      "En Égypte",
+      "À Jérusalem",
+      "À Jizreel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:13 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-106",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:14",
+    "verseText": "Voir Osée 8:14.",
+    "question": "Quelle faute résume la fin d’Osée 8 ?",
+    "choices": [
+      "Israël a oublié celui qui l’a fait",
+      "Israël a honoré la loi",
+      "Israël a aimé la justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:14 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-107",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:14",
+    "verseText": "Voir Osée 8:14.",
+    "question": "Quel peuple a “bâti des palais”, selon le reproche ?",
+    "choices": [
+      "Juda",
+      "Éphraïm",
+      "Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:14 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-108",
+    "book": "Osée",
+    "chapter": 8,
+    "verseRef": "Osée 8:14",
+    "verseText": "Voir Osée 8:14.",
+    "question": "Que promet Dieu d’envoyer sur les villes de Juda ?",
+    "choices": [
+      "Un feu qui dévorera ses palais",
+      "Une pluie de bénédictions",
+      "Une armée d’anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 8:14 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-109",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:3",
+    "verseText": "Voir Osée 9:3.",
+    "question": "Quelle conséquence du châtiment est donnée : “Ils ne resteront…” ?",
+    "choices": [
+      "Pas dans le pays de l’Éternel",
+      "Pas dans le pays d’Égypte",
+      "Pas dans le pays de Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-110",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:6",
+    "verseText": "Voir Osée 9:6.",
+    "question": "Que fera Israël “en Égypte” selon Osée 9 ?",
+    "choices": [
+      "L’Égypte les recueillera",
+      "L’Égypte les couronnera",
+      "L’Égypte les enverra à Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:6 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-111",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:6",
+    "verseText": "Voir Osée 9:6.",
+    "question": "Quel lieu est nommé comme lieu d’ensevelissement ?",
+    "choices": [
+      "Moph",
+      "Beth-Aven",
+      "Thabor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:6 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-112",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:6",
+    "verseText": "Voir Osée 9:6.",
+    "question": "Qu’est-ce qui possédera leurs objets précieux d’argent ?",
+    "choices": [
+      "Des ronces",
+      "Des chênes",
+      "Des roses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:6 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-113",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:6",
+    "verseText": "Voir Osée 9:6.",
+    "question": "Quel végétal envahira leurs tentes, selon le même verset ?",
+    "choices": [
+      "Les épines",
+      "Les vignes",
+      "Les palmiers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:6 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-114",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:7",
+    "verseText": "Voir Osée 9:7.",
+    "question": "Comment le prophète est-il traité “à cause de la grandeur de tes iniquités” ?",
+    "choices": [
+      "Il est honoré par tout le peuple",
+      "Il est regardé comme un insensé",
+      "Il est proclamé roi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Osée 9:7 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-115",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:8",
+    "verseText": "Voir Osée 9:8.",
+    "question": "Quel rôle est donné au prophète, malgré l’hostilité ?",
+    "choices": [
+      "Une sentinelle d’Éphraïm auprès de mon Dieu",
+      "Un chef militaire de Juda",
+      "Un marchand de Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:8 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-116",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:9",
+    "verseText": "Voir Osée 9:9.",
+    "question": "À quel épisode de corruption Israël est-il comparé ?",
+    "choices": [
+      "Aux jours de Guibea",
+      "Aux jours de Jéricho",
+      "Aux jours de Jizreel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:9 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-117",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:11",
+    "verseText": "Voir Osée 9:11.",
+    "question": "Quel jugement est annoncé : “Il n’y aura plus de naissance…” ?",
+    "choices": [
+      "Ni d’enfantement, ni de grossesse, ni de conception",
+      "Ni de récolte, ni de pluie, ni de moût",
+      "Ni de roi, ni de chef, ni de sacrifice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:11 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-118",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:14",
+    "verseText": "Voir Osée 9:14.",
+    "question": "Quel cri de douleur est prononcé : “Donne-leur, Éternel !…” ?",
+    "choices": [
+      "Donne-leur un sein qui avorte et des mamelles desséchées",
+      "Donne-leur des palais et des trésors",
+      "Donne-leur des chars et des chevaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:14 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-119",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:15",
+    "verseText": "Voir Osée 9:15.",
+    "question": "Où l’Éternel dit-il avoir “pris en haine” Israël, selon Osée 9 ?",
+    "choices": [
+      "À Guilgal",
+      "À Béthel",
+      "À Moph"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:15 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-120",
+    "book": "Osée",
+    "chapter": 9,
+    "verseRef": "Osée 9:15",
+    "verseText": "Voir Osée 9:15.",
+    "question": "Quelle conséquence est annoncée : “Je les chasserai…” ?",
+    "choices": [
+      "De ma maison",
+      "De leur pays",
+      "De l’Assyrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 9:15 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-121",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:2",
+    "verseText": "Voir Osée 10:2.",
+    "question": "Quel reproche Dieu adresse-t-il à Israël au sujet de son cœur, malgré la multiplication des autels ?",
+    "choices": [
+      "Leur cœur est partagé",
+      "Leur cœur est pur",
+      "Leur cœur est humble"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:2 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-122",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:2",
+    "verseText": "Voir Osée 10:2.",
+    "question": "Qu’annonce le texte au sujet des autels, après la condamnation du cœur partagé ?",
+    "choices": [
+      "Il renversera leurs autels et brisera leurs statues",
+      "Il consacrera leurs autels et bénira leurs statues",
+      "Il transportera leurs autels à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:2 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-123",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:3",
+    "verseText": "Voir Osée 10:3.",
+    "question": "Quelle déclaration de peur le peuple prononce-t-il quand viendra le jugement ?",
+    "choices": [
+      "“Nous n’avons point de roi”",
+      "“Nous avons un roi puissant”",
+      "“Nous sommes sans ennemis”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-124",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:3",
+    "verseText": "Voir Osée 10:3.",
+    "question": "Selon la question du peuple, que feraient-ils “avec un roi” si eux-mêmes ne craignent pas l’Éternel ?",
+    "choices": [
+      "Rien",
+      "Tout",
+      "Une alliance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-125",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:4",
+    "verseText": "Voir Osée 10:4.",
+    "question": "Quelle image décrit les discours mensongers et les serments trompeurs ?",
+    "choices": [
+      "“Le jugement germe comme une plante vénéneuse dans les sillons des champs”",
+      "“Le jugement coule comme une rivière pure sur la ville”",
+      "“Le jugement brille comme l’or sur l’autel”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:4 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-126",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:5",
+    "verseText": "Voir Osée 10:5.",
+    "question": "De quoi le peuple de Samarie tremble-t-il à cause du veau ?",
+    "choices": [
+      "Des habitants de Beth-Aven",
+      "Des habitants de Juda",
+      "Des habitants d’Édom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:5 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-127",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:5",
+    "verseText": "Voir Osée 10:5.",
+    "question": "Quel groupe est dit “mener deuil” sur ce veau, selon le texte ?",
+    "choices": [
+      "Ses prêtres",
+      "Ses prophètes",
+      "Ses rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:5 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-128",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:5",
+    "verseText": "Voir Osée 10:5.",
+    "question": "Quel sentiment est attribué au peuple au sujet de la gloire du veau, “parce qu’elle disparaîtra” ?",
+    "choices": [
+      "Il se lamentera",
+      "Il se réjouira",
+      "Il s’endormira"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:5 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-129",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:6",
+    "verseText": "Voir Osée 10:6.",
+    "question": "Où le veau est-il emporté pour être présenté “en don” ?",
+    "choices": [
+      "En Assyrie, au roi Jareb",
+      "En Égypte, à Pharaon",
+      "À Juda, à Ézéchias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:6 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-130",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:6",
+    "verseText": "Voir Osée 10:6.",
+    "question": "Quelle honte particulière est annoncée pour Éphraïm dans ce même passage ?",
+    "choices": [
+      "Éphraïm recevra la honte",
+      "Éphraïm recevra l’honneur",
+      "Éphraïm recevra la couronne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:6 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-131",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:7",
+    "verseText": "Voir Osée 10:7.",
+    "question": "Que deviendra le roi de Samarie, selon l’image donnée ?",
+    "choices": [
+      "“Comme de l’écume à la surface des eaux”",
+      "“Comme une montagne au milieu de la mer”",
+      "“Comme un cèdre sur le Liban”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:7 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-132",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:8",
+    "verseText": "Voir Osée 10:8.",
+    "question": "Comment sont décrits les hauts lieux de l’iniquité (Beth-Aven) ?",
+    "choices": [
+      "Ils seront détruits",
+      "Ils seront agrandis",
+      "Ils seront consacrés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:8 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-133",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:8",
+    "verseText": "Voir Osée 10:8.",
+    "question": "Qu’est-ce qui montera sur leurs autels, après la destruction annoncée ?",
+    "choices": [
+      "L’épine et la ronce",
+      "Le blé et le moût",
+      "L’encens et l’huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:8 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-134",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:8",
+    "verseText": "Voir Osée 10:8.",
+    "question": "Quelle demande désespérée les habitants adresseront-ils aux montagnes et aux collines ?",
+    "choices": [
+      "“Couvrez-nous !” et “Tombez sur nous !”",
+      "“Bénissez-nous !” et “Gardez-nous !”",
+      "“Élevez-nous !” et “Couronnez-nous !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:8 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-135",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:9",
+    "verseText": "Voir Osée 10:9.",
+    "question": "Depuis quels jours Israël est-il accusé d’avoir péché dans Osée 10 ?",
+    "choices": [
+      "Depuis les jours de Guibea",
+      "Depuis les jours de Jizreel",
+      "Depuis les jours de Moph"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:9 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-136",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:11",
+    "verseText": "Voir Osée 10:11.",
+    "question": "Quelle image décrit Éphraïm au travail, sous le jugement annoncé ?",
+    "choices": [
+      "“Éphraïm est une génisse dressée, et qui aime à fouler le grain”",
+      "“Éphraïm est un lionceau qui garde la porte”",
+      "“Éphraïm est un aigle qui vole au désert”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:11 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-137",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:11",
+    "verseText": "Voir Osée 10:11.",
+    "question": "Quelle action Dieu annonce-t-il sur “le cou gracieux” d’Éphraïm ?",
+    "choices": [
+      "“Je mettrai le joug sur son cou gracieux”",
+      "“Je couronnerai son cou gracieux”",
+      "“Je parfumerai son cou gracieux”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:11 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-138",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:12",
+    "verseText": "Voir Osée 10:12.",
+    "question": "Quel ordre agricole est donné pour préparer la recherche de l’Éternel ?",
+    "choices": [
+      "“Défrichez-vous un champ nouveau”",
+      "“Fermez vos portes de bronze”",
+      "“Bâtissez des tours fortes”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:12 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-139",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:13",
+    "verseText": "Voir Osée 10:13.",
+    "question": "Quelle reproche suit l’ordre de semer selon la justice ?",
+    "choices": [
+      "“Vous avez labouré le mal”",
+      "“Vous avez semé la justice”",
+      "“Vous avez moissonné la paix”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:13 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-140",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:13",
+    "verseText": "Voir Osée 10:13.",
+    "question": "Qu’ont-ils mangé en conséquence de leur conduite, selon Osée 10 ?",
+    "choices": [
+      "“Le fruit du mensonge”",
+      "“Le pain de vérité”",
+      "“Le vin de fidélité”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:13 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-141",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:13",
+    "verseText": "Voir Osée 10:13.",
+    "question": "De quoi Israël s’est-il confié à tort, selon Osée 10 ?",
+    "choices": [
+      "À sa voie et au grand nombre de ses héros",
+      "À la miséricorde et à la vérité",
+      "À la connaissance de Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:13 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-142",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:14",
+    "verseText": "Voir Osée 10:14.",
+    "question": "À quel événement violent est comparée une destruction à venir : “Comme Schalman…” ?",
+    "choices": [
+      "Ravagea Beth-Arbel au jour du combat",
+      "Ravagea Samarie au jour de la fête",
+      "Ravagea Jérusalem au jour du sabbat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:14 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-143",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:14",
+    "verseText": "Voir Osée 10:14.",
+    "question": "Quel détail terrible accompagne cet exemple de Schalman ?",
+    "choices": [
+      "“La mère fut écrasée avec les enfants”",
+      "“Le roi fut couronné avec les chefs”",
+      "“Le prophète fut honoré avec les prêtres”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:14 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-144",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:15",
+    "verseText": "Voir Osée 10:15.",
+    "question": "Quel moment est annoncé pour la fin du roi d’Israël ?",
+    "choices": [
+      "“Au point du jour”",
+      "“Au coucher du soleil”",
+      "“À la nouvelle lune”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:15 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-145",
+    "book": "Osée",
+    "chapter": 10,
+    "verseRef": "Osée 10:15",
+    "verseText": "Voir Osée 10:15.",
+    "question": "Quelle raison de fond est donnée : “C’est là ce que vous attirera…” ?",
+    "choices": [
+      "“Béthel, à cause de votre extrême méchanceté”",
+      "“Jizreel, à cause de votre justice”",
+      "“Juda, à cause de votre fidélité”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 10:15 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-146",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:1",
+    "verseText": "Voir Osée 13:1.",
+    "question": "Quelle expression décrit l’attitude de Dieu envers Éphraïm “quand il parlait” ?",
+    "choices": [
+      "“Il faisait trembler”",
+      "“Il bénissait”",
+      "“Il se taisait”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:1 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-147",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:2",
+    "verseText": "Voir Osée 13:2.",
+    "question": "Dans Osée 13, comment le texte décrit-il les idoles fabriquées ?",
+    "choices": [
+      "“Une œuvre d’artisans, en argent”",
+      "“Une œuvre de prophètes, en or”",
+      "“Une œuvre de rois, en bronze”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:2 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-148",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:2",
+    "verseText": "Voir Osée 13:2.",
+    "question": "Quelle expression précise est citée comme parole des idolâtres envers les sacrifices ?",
+    "choices": [
+      "“Ceux-là offrent des sacrifices humains !”",
+      "“Ceux-là offrent des sacrifices de louange !”",
+      "“Ceux-là offrent des sacrifices de justice !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:2 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-149",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:3",
+    "verseText": "Voir Osée 13:3.",
+    "question": "À quelles images éphémères Israël est-il comparé dans Osée 13 ?",
+    "choices": [
+      "“La nuée du matin” et “la rosée qui bientôt se dissipe”",
+      "“Le roc du désert” et “le cèdre du Liban”",
+      "“Le fleuve du midi” et “la source éternelle”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-150",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:3",
+    "verseText": "Voir Osée 13:3.",
+    "question": "Quelle autre image complète ces comparaisons : “Comme…” ?",
+    "choices": [
+      "“La balle emportée hors de l’aire par le tourbillon”",
+      "“Le grain accumulé dans le grenier”",
+      "“La farine versée dans le vase”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:3 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-151",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:4",
+    "verseText": "Voir Osée 13:4.",
+    "question": "Que dit Dieu au sujet d’un autre Dieu que lui ?",
+    "choices": [
+      "“Tu ne dois pas connaître d’autre Dieu que moi”",
+      "“Tu peux connaître d’autres dieux que moi”",
+      "“Tu dois connaître d’abord Baal, puis moi”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:4 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-152",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:9",
+    "verseText": "Voir Osée 13:9.",
+    "question": "Quelle accusation est faite sur l’aide d’Israël ?",
+    "choices": [
+      "“Ta ruine, ô Israël, vient de ce que tu as été contre moi, contre celui qui pouvait te secourir”",
+      "“Ta ruine, ô Israël, vient de ce que tu as été pour moi, avec celui qui pouvait te secourir”",
+      "“Ta ruine, ô Israël, vient de ce que tu as été contre Juda, contre celui qui pouvait te juger”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:9 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-153",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:10",
+    "verseText": "Voir Osée 13:10.",
+    "question": "Que dit Dieu au sujet du roi et des chefs qu’Israël réclame ?",
+    "choices": [
+      "“Où donc est ton roi ?… Où sont tes chefs ?”",
+      "“Voici ton roi !… Voici tes chefs !”",
+      "“Ton roi est éternel !… Tes chefs sont fidèles !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:10 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-154",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:11",
+    "verseText": "Voir Osée 13:11.",
+    "question": "Quelle formule explique l’origine du roi donné à Israël ?",
+    "choices": [
+      "“Je t’ai donné un roi dans ma colère, je te l’ôterai dans ma fureur”",
+      "“Je t’ai donné un roi dans ma paix, je te le garderai dans ma bonté”",
+      "“Je t’ai donné un roi dans ta justice, je te le rendrai dans ta force”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:11 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-155",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:12",
+    "verseText": "Voir Osée 13:12.",
+    "question": "Comment est décrite l’iniquité d’Éphraïm, au chapitre 13 ?",
+    "choices": [
+      "“Liée”",
+      "“Effacée”",
+      "“Couronnée”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:12 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-156",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:12",
+    "verseText": "Voir Osée 13:12.",
+    "question": "Comment est dit son péché ?",
+    "choices": [
+      "“Gardé en réserve”",
+      "“Pardonné aussitôt”",
+      "“Oublié pour toujours”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:12 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-157",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:13",
+    "verseText": "Voir Osée 13:13.",
+    "question": "Quelle image douloureuse est utilisée pour annoncer la détresse qui vient ?",
+    "choices": [
+      "“Les douleurs de celle qui enfante viendront pour lui”",
+      "“La joie de la vendange viendra pour lui”",
+      "“La paix du sabbat viendra pour lui”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:13 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-158",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:13",
+    "verseText": "Voir Osée 13:13.",
+    "question": "Quelle faute est reprochée au “fils” dans cette image de naissance ?",
+    "choices": [
+      "“Il n’est pas un fils sage : car, au terme voulu, il ne sort pas du sein maternel”",
+      "“Il est un fils sage : car, au terme voulu, il sort du sein maternel”",
+      "“Il est un fils fort : car il bâtit une tour au terme voulu”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:13 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-159",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:14",
+    "verseText": "Voir Osée 13:14.",
+    "question": "Quelle question poétique sur la mort est formulée par l’Éternel ?",
+    "choices": [
+      "“Ô mort, où est ta peste ? Séjour des morts, où est ta destruction ?”",
+      "“Ô mort, où est ta couronne ? Séjour des morts, où est ta paix ?”",
+      "“Ô mort, où est ta force ? Séjour des morts, où est ta joie ?”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:14 (LSG 1910)."
+  },
+  {
+    "id": "osee-N-160",
+    "book": "Osée",
+    "chapter": 13,
+    "verseRef": "Osée 13:14",
+    "verseText": "Voir Osée 13:14.",
+    "question": "Que dit Dieu au sujet de la compassion après cette question ?",
+    "choices": [
+      "“Mais le repentir se dérobe à mes regards”",
+      "“Mais la compassion remplit mes regards”",
+      "“Mais la paix demeure à mes regards”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 13:14 (LSG 1910)."
+  }
+]

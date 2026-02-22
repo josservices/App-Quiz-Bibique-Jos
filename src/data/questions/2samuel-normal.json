@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "2SA-N-001",
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verseRef": "2 Samuel 1:1-2",
+    "verseText": "Voir 2 Samuel 1:1-2.",
+    "question": "Où David apprend-il la mort de Saül ?",
+    "choices": [
+      "À Hébron",
+      "À Tsiklag",
+      "À Jérusalem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 1:1-2 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-002",
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verseRef": "2 Samuel 1:5",
+    "verseText": "Voir 2 Samuel 1:5.",
+    "question": "Quelle demande David fait-il au jeune homme qui annonce la mort de Saül ?",
+    "choices": [
+      "“Comment sais-tu qu’il est mort ?”",
+      "“Qui t’a envoyé ?”",
+      "“Où est son épée ?”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 1:5 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-003",
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verseRef": "2 Samuel 1:8",
+    "verseText": "Voir 2 Samuel 1:8.",
+    "question": "Quelle était l’origine du jeune homme qui se présente à David avec la nouvelle ?",
+    "choices": [
+      "Philistin",
+      "Amalécite",
+      "Jébusien"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-004",
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verseRef": "2 Samuel 1:10",
+    "verseText": "Voir 2 Samuel 1:10.",
+    "question": "Quel objet le messager apporte-t-il à David, venant de Saül ?",
+    "choices": [
+      "Son bouclier",
+      "Son anneau et son bracelet",
+      "Son manteau royal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-005",
+    "book": "2 Samuel",
+    "chapter": 1,
+    "verseRef": "2 Samuel 1:11-12",
+    "verseText": "Voir 2 Samuel 1:11-12.",
+    "question": "Comment David réagit-il à la mort de Saül et de Jonathan ?",
+    "choices": [
+      "Il organise immédiatement une fête",
+      "Il déchire ses vêtements et pleure",
+      "Il ordonne une poursuite contre les Philistins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 1:11-12 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-006",
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verseRef": "2 Samuel 2:1",
+    "verseText": "Voir 2 Samuel 2:1.",
+    "question": "Quelle ville David reçoit-il l’ordre de rejoindre, selon l’Éternel ?",
+    "choices": [
+      "Hébron",
+      "Bethléhem",
+      "Gabaon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 2:1 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-007",
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verseRef": "2 Samuel 2:4",
+    "verseText": "Voir 2 Samuel 2:4.",
+    "question": "Où David est-il oint roi sur la maison de Juda ?",
+    "choices": [
+      "À Guilgal",
+      "À Hébron",
+      "À Mahanaïm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 2:4 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-008",
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verseRef": "2 Samuel 2:8-9",
+    "verseText": "Voir 2 Samuel 2:8-9.",
+    "question": "Quel homme est établi roi sur Israël (les autres tribus) après Saül ?",
+    "choices": [
+      "Ischboscheth",
+      "Abner",
+      "Achitophel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 2:8-9 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-009",
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verseRef": "2 Samuel 2:8",
+    "verseText": "Voir 2 Samuel 2:8.",
+    "question": "Qui est le chef de l’armée d’Ischboscheth ?",
+    "choices": [
+      "Joab",
+      "Abner",
+      "Asaël"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 2:8 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-010",
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verseRef": "2 Samuel 2:14",
+    "verseText": "Voir 2 Samuel 2:14.",
+    "question": "Quelle proposition Abner fait-il à Joab avant le combat ?",
+    "choices": [
+      "“Que les jeunes gens se lèvent et combattent devant nous !”",
+      "“Partageons le pays en deux !”",
+      "“Rendons l’arche à Israël !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 2:14 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-011",
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verseRef": "2 Samuel 2:18-19",
+    "verseText": "Voir 2 Samuel 2:18-19.",
+    "question": "Qui poursuit Abner avec acharnement lors du combat ?",
+    "choices": [
+      "Abisaï",
+      "Asaël",
+      "Urie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 2:18-19 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-012",
+    "book": "2 Samuel",
+    "chapter": 2,
+    "verseRef": "2 Samuel 2:23",
+    "verseText": "Voir 2 Samuel 2:23.",
+    "question": "Comment Abner tue-t-il Asaël ?",
+    "choices": [
+      "Par l’épée",
+      "Avec la hampe de sa lance (par derrière)",
+      "En le frappant d’une pierre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 2:23 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-013",
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verseRef": "2 Samuel 3:1",
+    "verseText": "Voir 2 Samuel 3:1.",
+    "question": "Quelle conséquence est mentionnée concernant la durée de la guerre entre les maisons ?",
+    "choices": [
+      "La maison de Saül devient plus forte",
+      "La maison de David devient de plus en plus forte",
+      "Les deux maisons s’affaiblissent pareillement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 3:1 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-014",
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verseRef": "2 Samuel 3:7",
+    "verseText": "Voir 2 Samuel 3:7.",
+    "question": "Comment s’appelle la femme dont Abner est accusé de s’être approché ?",
+    "choices": [
+      "Mical",
+      "Ritspa",
+      "Bath-Schéba"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 3:7 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-015",
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verseRef": "2 Samuel 3:10",
+    "verseText": "Voir 2 Samuel 3:10.",
+    "question": "Abner promet de faire passer le royaume à David : de quelle tribu à quelle tribu ?",
+    "choices": [
+      "De Juda à Benjamin",
+      "De Dan à Beer-Schéba",
+      "De Ruben à Gad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 3:10 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-016",
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verseRef": "2 Samuel 3:13-14",
+    "verseText": "Voir 2 Samuel 3:13-14.",
+    "question": "Quelle épouse David réclame-t-il avant tout, dans les négociations ?",
+    "choices": [
+      "Abigail",
+      "Mical",
+      "Tamar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 3:13-14 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-017",
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verseRef": "2 Samuel 3:15-16",
+    "verseText": "Voir 2 Samuel 3:15-16.",
+    "question": "Qui rend Mical à David ?",
+    "choices": [
+      "Ischboscheth",
+      "Abner",
+      "Joab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 3:15-16 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-018",
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verseRef": "2 Samuel 3:27",
+    "verseText": "Voir 2 Samuel 3:27.",
+    "question": "Où Joab fait-il revenir Abner pour le tuer ?",
+    "choices": [
+      "À la porte d’Hébron",
+      "Au temple de Gabaon",
+      "Au palais de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 3:27 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-019",
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verseRef": "2 Samuel 3:30",
+    "verseText": "Voir 2 Samuel 3:30.",
+    "question": "Pourquoi Joab tue-t-il Abner (motif principal dans le récit) ?",
+    "choices": [
+      "Pour venger Asaël",
+      "Parce qu’Abner a insulté David",
+      "Pour prendre la couronne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 3:30 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-020",
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verseRef": "2 Samuel 3:33",
+    "verseText": "Voir 2 Samuel 3:33.",
+    "question": "Quelle expression David prononce-t-il concernant Abner ?",
+    "choices": [
+      "“Abner est mort comme meurt un insensé !”",
+      "“Abner est mort comme un Philistin !”",
+      "“Abner est mort comme un roi !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 3:33 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-021",
+    "book": "2 Samuel",
+    "chapter": 4,
+    "verseRef": "2 Samuel 4:1",
+    "verseText": "Voir 2 Samuel 4:1.",
+    "question": "Après la mort d’Abner, que deviennent les mains d’Ischboscheth ?",
+    "choices": [
+      "“Ses mains se fortifièrent”",
+      "“Ses mains se relâchèrent”",
+      "“Ses mains se levèrent vers l’Éternel”"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 4:1 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-022",
+    "book": "2 Samuel",
+    "chapter": 4,
+    "verseRef": "2 Samuel 4:2",
+    "verseText": "Voir 2 Samuel 4:2.",
+    "question": "Qui assassine Ischboscheth ?",
+    "choices": [
+      "Recab et Baana",
+      "Huschai et Achitophel",
+      "Nadab et Abihu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 4:2 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-023",
+    "book": "2 Samuel",
+    "chapter": 4,
+    "verseRef": "2 Samuel 4:8",
+    "verseText": "Voir 2 Samuel 4:8.",
+    "question": "Quel détail les assassins apportent-ils à David ?",
+    "choices": [
+      "La couronne",
+      "La tête d’Ischboscheth",
+      "Son sceptre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 4:8 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-024",
+    "book": "2 Samuel",
+    "chapter": 4,
+    "verseRef": "2 Samuel 4:12",
+    "verseText": "Voir 2 Samuel 4:12.",
+    "question": "Comment David punit-il les assassins d’Ischboscheth ?",
+    "choices": [
+      "Il les exile",
+      "Il les fait mourir",
+      "Il les emprisonne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 4:12 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-025",
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verseRef": "2 Samuel 5:3",
+    "verseText": "Voir 2 Samuel 5:3.",
+    "question": "Où David est-il oint roi sur tout Israël ?",
+    "choices": [
+      "À Hébron",
+      "À Sichem",
+      "À Guilgal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 5:3 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-026",
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verseRef": "2 Samuel 5:6-7",
+    "verseText": "Voir 2 Samuel 5:6-7.",
+    "question": "Quelle ville David prend-il aux Jébusiens ?",
+    "choices": [
+      "Jéricho",
+      "Jérusalem (Sion)",
+      "Samarie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 5:6-7 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-027",
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verseRef": "2 Samuel 5:11",
+    "verseText": "Voir 2 Samuel 5:11.",
+    "question": "Quel roi envoie des ouvriers et du bois de cèdre à David ?",
+    "choices": [
+      "Hiram, roi de Tyr",
+      "Neco, roi d’Égypte",
+      "Nabuchodonosor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 5:11 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-028",
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verseRef": "2 Samuel 5:10",
+    "verseText": "Voir 2 Samuel 5:10.",
+    "question": "Quelle affirmation est dite sur la grandeur de David ?",
+    "choices": [
+      "“David fut vieux et rassasié de jours”",
+      "“David allait en grandissant, et l’Éternel… était avec lui”",
+      "“David ne pécha plus jamais”"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 5:10 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-029",
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verseRef": "2 Samuel 5:20",
+    "verseText": "Voir 2 Samuel 5:20.",
+    "question": "Quel nom est donné au lieu après la victoire sur les Philistins, car David dit : “L’Éternel a dispersé…” ?",
+    "choices": [
+      "Beer-Schéba",
+      "Baal-Peratsim",
+      "Beth-El"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 5:20 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-030",
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verseRef": "2 Samuel 5:23",
+    "verseText": "Voir 2 Samuel 5:23.",
+    "question": "Dans quel contexte l’Éternel dit-il : “Tu n’iras pas ; tourne-les par derrière” ?",
+    "choices": [
+      "Contre Ammon",
+      "Contre les Philistins",
+      "Contre Édom"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 5:23 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-031",
+    "book": "2 Samuel",
+    "chapter": 6,
+    "verseRef": "2 Samuel 6:3",
+    "verseText": "Voir 2 Samuel 6:3.",
+    "question": "Que fait David lorsqu’il veut faire monter l’arche de Dieu ?",
+    "choices": [
+      "Il la met sur un char neuf",
+      "Il la fait porter sur les épaules",
+      "Il l’envoie d’abord à Guilgal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 6:3 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-032",
+    "book": "2 Samuel",
+    "chapter": 6,
+    "verseRef": "2 Samuel 6:6-7",
+    "verseText": "Voir 2 Samuel 6:6-7.",
+    "question": "Quel homme est frappé par Dieu pour avoir touché l’arche ?",
+    "choices": [
+      "Uzza",
+      "Abinadab",
+      "Obed-Édom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 6:6-7 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-033",
+    "book": "2 Samuel",
+    "chapter": 6,
+    "verseRef": "2 Samuel 6:10-11",
+    "verseText": "Voir 2 Samuel 6:10-11.",
+    "question": "Où l’arche reste-t-elle trois mois après l’incident d’Uzza ?",
+    "choices": [
+      "Chez Obed-Édom de Gath",
+      "Chez Saül à Guibea",
+      "Chez Samuel à Rama"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 6:10-11 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-034",
+    "book": "2 Samuel",
+    "chapter": 6,
+    "verseRef": "2 Samuel 6:16",
+    "verseText": "Voir 2 Samuel 6:16.",
+    "question": "Comment Michal réagit-elle en voyant David danser devant l’Éternel ?",
+    "choices": [
+      "Elle se réjouit et chante",
+      "Elle le méprise dans son cœur",
+      "Elle apporte des sacrifices"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 6:16 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-035",
+    "book": "2 Samuel",
+    "chapter": 6,
+    "verseRef": "2 Samuel 6:23",
+    "verseText": "Voir 2 Samuel 6:23.",
+    "question": "Quel est le résultat final mentionné concernant Michal ?",
+    "choices": [
+      "Elle devient reine-mère",
+      "Elle n’eut point d’enfants jusqu’au jour de sa mort",
+      "Elle part vivre à Hébron"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 6:23 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-036",
+    "book": "2 Samuel",
+    "chapter": 7,
+    "verseRef": "2 Samuel 7:4-5",
+    "verseText": "Voir 2 Samuel 7:4-5.",
+    "question": "Quel prophète transmet à David la promesse d’une “maison” durable ?",
+    "choices": [
+      "Gad",
+      "Nathan",
+      "Élie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 7:4-5 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-037",
+    "book": "2 Samuel",
+    "chapter": 7,
+    "verseRef": "2 Samuel 7:2",
+    "verseText": "Voir 2 Samuel 7:2.",
+    "question": "Que veut construire David au départ ?",
+    "choices": [
+      "Une muraille",
+      "Une maison (temple) pour l’arche",
+      "Une tour de garde"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 7:2 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-038",
+    "book": "2 Samuel",
+    "chapter": 8,
+    "verseRef": "2 Samuel 8:1",
+    "verseText": "Voir 2 Samuel 8:1.",
+    "question": "Quel peuple David vainc et dont il prend “les rênes de la métropole” ?",
+    "choices": [
+      "Les Moabites",
+      "Les Philistins",
+      "Les Syriens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 8:1 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-039",
+    "book": "2 Samuel",
+    "chapter": 8,
+    "verseRef": "2 Samuel 8:15",
+    "verseText": "Voir 2 Samuel 8:15.",
+    "question": "Quel jugement David rend-il régulièrement sur Israël ?",
+    "choices": [
+      "Il jugeait le peuple, rendant justice et droit",
+      "Il refusait de juger",
+      "Il ne jugeait que Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 8:15 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-040",
+    "book": "2 Samuel",
+    "chapter": 9,
+    "verseRef": "2 Samuel 9:1",
+    "verseText": "Voir 2 Samuel 9:1.",
+    "question": "Qui David cherche-t-il à honorer “par bonté” à cause de Jonathan ?",
+    "choices": [
+      "Mephiboscheth",
+      "Absalom",
+      "Adonija"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 9:1 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-041",
+    "book": "2 Samuel",
+    "chapter": 9,
+    "verseRef": "2 Samuel 9:3",
+    "verseText": "Voir 2 Samuel 9:3.",
+    "question": "Quelle infirmité est mentionnée concernant Mephiboscheth ?",
+    "choices": [
+      "Aveugle",
+      "Boiteux des deux pieds",
+      "Muet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 9:3 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-042",
+    "book": "2 Samuel",
+    "chapter": 10,
+    "verseRef": "2 Samuel 10:7",
+    "verseText": "Voir 2 Samuel 10:7.",
+    "question": "À la guerre contre Ammon, quel chef d’armée conduit Israël ?",
+    "choices": [
+      "Joab",
+      "Abner",
+      "Saül"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 10:7 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-043",
+    "book": "2 Samuel",
+    "chapter": 10,
+    "verseRef": "2 Samuel 10:1-2",
+    "verseText": "Voir 2 Samuel 10:1-2.",
+    "question": "Quel roi ammonite meurt et est remplacé par son fils, déclenchant l’épisode des messagers humiliés ?",
+    "choices": [
+      "Nachasch, remplacé par Hanun",
+      "Saül, remplacé par Jonathan",
+      "Achab, remplacé par Joram"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 10:1-2 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-044",
+    "book": "2 Samuel",
+    "chapter": 10,
+    "verseRef": "2 Samuel 10:4",
+    "verseText": "Voir 2 Samuel 10:4.",
+    "question": "Quelle humiliation les serviteurs de David subissent-ils ?",
+    "choices": [
+      "On leur rase la moitié de la barbe et on coupe leurs vêtements jusqu’aux hanches",
+      "On les emprisonne quarante jours",
+      "On leur arrache les sandales"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 10:4 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-045",
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verseRef": "2 Samuel 11:1-2",
+    "verseText": "Voir 2 Samuel 11:1-2.",
+    "question": "Quand David reste à Jérusalem et aperçoit une femme qui se baigne, quelle saison est indiquée ?",
+    "choices": [
+      "“Au temps où les rois partent pour la guerre”",
+      "“Au jour des expiations”",
+      "“Pendant la récolte des figues”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 11:1-2 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-046",
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verseRef": "2 Samuel 11:3",
+    "verseText": "Voir 2 Samuel 11:3.",
+    "question": "Comment s’appelle la femme que David voit se baigner ?",
+    "choices": [
+      "Abigaïl",
+      "Bath-Schéba",
+      "Mical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 11:3 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-047",
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verseRef": "2 Samuel 11:3",
+    "verseText": "Voir 2 Samuel 11:3.",
+    "question": "Qui est le mari de Bath-Schéba ?",
+    "choices": [
+      "Urie, le Héthien",
+      "Joab, le chef de l’armée",
+      "Achitophel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 11:3 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-048",
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verseRef": "2 Samuel 12:1-7",
+    "verseText": "Voir 2 Samuel 12:1-7.",
+    "question": "Quel prophète confronte David par une parabole de brebis ?",
+    "choices": [
+      "Nathan",
+      "Samuel",
+      "Ésaïe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 12:1-7 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-049",
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verseRef": "2 Samuel 12:10",
+    "verseText": "Voir 2 Samuel 12:10.",
+    "question": "Quelle sentence Nathan annonce-t-il : “L’épée…” ?",
+    "choices": [
+      "“L’épée ne s’éloignera jamais de ta maison”",
+      "“L’épée t’épargnera toujours”",
+      "“L’épée ne touchera pas ta descendance”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 12:10 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-050",
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verseRef": "2 Samuel 12:14-18",
+    "verseText": "Voir 2 Samuel 12:14-18.",
+    "question": "Quel enfant meurt à la suite du péché de David, selon l’annonce de Nathan ?",
+    "choices": [
+      "Le fils né de Bath-Schéba",
+      "Absalom",
+      "Amnon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 12:14-18 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-051",
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verseRef": "2 Samuel 12:24-25",
+    "verseText": "Voir 2 Samuel 12:24-25.",
+    "question": "Quel fils naît ensuite et est aimé de l’Éternel selon le récit ?",
+    "choices": [
+      "Salomon",
+      "Adonija",
+      "Absalom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 12:24-25 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-052",
+    "book": "2 Samuel",
+    "chapter": 13,
+    "verseRef": "2 Samuel 13:14",
+    "verseText": "Voir 2 Samuel 13:14.",
+    "question": "Quel acte criminel d’Amnon déclenche ensuite une chaîne de drames familiaux ?",
+    "choices": [
+      "Il tue son frère",
+      "Il fait violence à Tamar",
+      "Il renverse David"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 13:14 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-053",
+    "book": "2 Samuel",
+    "chapter": 13,
+    "verseRef": "2 Samuel 13:28-29",
+    "verseText": "Voir 2 Samuel 13:28-29.",
+    "question": "Qui venge Tamar en faisant tuer Amnon ?",
+    "choices": [
+      "Absalom",
+      "Joab",
+      "Salomon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 13:28-29 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-054",
+    "book": "2 Samuel",
+    "chapter": 13,
+    "verseRef": "2 Samuel 13:37-38",
+    "verseText": "Voir 2 Samuel 13:37-38.",
+    "question": "Où Absalom s’enfuit-il après la mort d’Amnon ?",
+    "choices": [
+      "Chez Talmaï, roi de Gueschur",
+      "En Égypte",
+      "À Ninive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 13:37-38 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-055",
+    "book": "2 Samuel",
+    "chapter": 14,
+    "verseRef": "2 Samuel 14:25-26",
+    "verseText": "Voir 2 Samuel 14:25-26.",
+    "question": "Quel signe physique Absalom se met-il à exhiber (détail marquant) ?",
+    "choices": [
+      "Sa couronne d’or",
+      "Sa chevelure très lourde",
+      "Un manteau d’écarlate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 14:25-26 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-056",
+    "book": "2 Samuel",
+    "chapter": 15,
+    "verseRef": "2 Samuel 15:2-6",
+    "verseText": "Voir 2 Samuel 15:2-6.",
+    "question": "Comment Absalom gagne-t-il le cœur des hommes d’Israël ?",
+    "choices": [
+      "Par la guerre contre les Philistins",
+      "En se plaçant à la porte et en flattant les plaignants",
+      "En distribuant du pain du ciel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 15:2-6 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-057",
+    "book": "2 Samuel",
+    "chapter": 15,
+    "verseRef": "2 Samuel 15:10",
+    "verseText": "Voir 2 Samuel 15:10.",
+    "question": "Où Absalom se fait-il proclamer roi pendant la révolte ?",
+    "choices": [
+      "À Hébron",
+      "À Rama",
+      "À Nob"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 15:10 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-058",
+    "book": "2 Samuel",
+    "chapter": 15,
+    "verseRef": "2 Samuel 15:32-34",
+    "verseText": "Voir 2 Samuel 15:32-34.",
+    "question": "Qui David laisse-t-il à Jérusalem pour contrecarrer Achitophel ?",
+    "choices": [
+      "Tsadok",
+      "Huschaï l’Arkien",
+      "Abiathar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 15:32-34 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-059",
+    "book": "2 Samuel",
+    "chapter": 16,
+    "verseRef": "2 Samuel 16:5-6",
+    "verseText": "Voir 2 Samuel 16:5-6.",
+    "question": "Qui maudit David en lui jetant des pierres lorsqu’il s’enfuit ?",
+    "choices": [
+      "Shimei, fils de Guéra",
+      "Doëg l’Édomite",
+      "Nabal le Carmélite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 16:5-6 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-060",
+    "book": "2 Samuel",
+    "chapter": 18,
+    "verseRef": "2 Samuel 18:14-15",
+    "verseText": "Voir 2 Samuel 18:14-15.",
+    "question": "Comment meurt Absalom, finalement ?",
+    "choices": [
+      "Il est tué par Joab",
+      "Il meurt de maladie",
+      "Il se noie dans le Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 18:14-15 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-061",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:5",
+    "verseText": "Voir 2 Samuel 19:5.",
+    "question": "Que reproche Joab à David à cause de ses larmes ?",
+    "choices": [
+      "« Tu méprises aujourd’hui la loi de l’Éternel »",
+      "« Tu couvres aujourd’hui de confusion la face de tous tes serviteurs »",
+      "« Tu réjouis aujourd’hui tes ennemis »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 19:5 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-062",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:7",
+    "verseText": "Voir 2 Samuel 19:7.",
+    "question": "Quel ordre Joab donne-t-il à David pour parler à ses hommes ?",
+    "choices": [
+      "« Lève-toi donc, sors, et parle au coeur de tes serviteurs ! »",
+      "« Va dans la maison de l’Éternel et sacrifie »",
+      "« Cache-toi jusqu’au matin »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:7 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-063",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:8",
+    "verseText": "Voir 2 Samuel 19:8.",
+    "question": "Où David s’assied-il quand il se relève ?",
+    "choices": [
+      "À la porte",
+      "Sur le toit du palais",
+      "À l’autel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:8 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-064",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:11",
+    "verseText": "Voir 2 Samuel 19:11.",
+    "question": "Que demande David aux anciens de Juda concernant son retour ?",
+    "choices": [
+      "« Pourquoi seriez-vous les derniers à ramener le roi dans sa maison ? »",
+      "« Pourquoi m’avez-vous oint sans consulter Israël ? »",
+      "« Pourquoi n’avez-vous pas défendu Absalom ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:11 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-065",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:13",
+    "verseText": "Voir 2 Samuel 19:13.",
+    "question": "Quelle promesse David fait-il à Amasa ?",
+    "choices": [
+      "« …si tu ne deviens pas devant moi pour toujours chef de l’armée à la place de Joab ! »",
+      "« …si tu ne deviens pas devant moi sacrificateur ! »",
+      "« …si tu ne deviens pas devant moi juge à Hébron ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:13 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-066",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:16",
+    "verseText": "Voir 2 Samuel 19:16.",
+    "question": "Qui descend avec ceux de Juda pour rencontrer David ?",
+    "choices": [
+      "Schimeï, fils de Guéra",
+      "Scheja, secrétaire",
+      "Schéba, fils de Bicri"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:16 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-067",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:19",
+    "verseText": "Voir 2 Samuel 19:19.",
+    "question": "Que demande Schimeï au roi au sujet de sa faute ?",
+    "choices": [
+      "« Que mon seigneur ne tienne pas compte de mon iniquité… »",
+      "« Donne-moi la moitié du royaume… »",
+      "« Fais-moi chef de l’armée… »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:19 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-068",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:21",
+    "verseText": "Voir 2 Samuel 19:21.",
+    "question": "Que propose Abischaï au sujet de Schimeï ?",
+    "choices": [
+      "Le bénir",
+      "Le mettre à mort",
+      "L’exiler"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 19:21 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-069",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:22",
+    "verseText": "Voir 2 Samuel 19:22.",
+    "question": "Comment David qualifie-t-il les fils de Tseruja ce jour-là ?",
+    "choices": [
+      "« …vous montrez-vous aujourd’hui mes adversaires ? »",
+      "« …vous êtes aujourd’hui mes sauveurs »",
+      "« …vous êtes aujourd’hui mes juges »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:22 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-070",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:23",
+    "verseText": "Voir 2 Samuel 19:23.",
+    "question": "Quelle parole David adresse-t-il à Schimeï ?",
+    "choices": [
+      "« Tu ne mourras point ! »",
+      "« Tu mourras demain ! »",
+      "« Tu seras mis en prison ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:23 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-071",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:24",
+    "verseText": "Voir 2 Samuel 19:24.",
+    "question": "Quel détail de négligence est signalé chez Mephiboscheth ?",
+    "choices": [
+      "« Il n’avait point soigné ses pieds, ni fait sa barbe, ni lavé ses vêtements »",
+      "« Il n’avait point mangé de pain pendant sept jours »",
+      "« Il n’avait point quitté Hébron »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:24 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-072",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:29",
+    "verseText": "Voir 2 Samuel 19:29.",
+    "question": "Quelle parole David dit-il à Mephiboscheth pour couper court ?",
+    "choices": [
+      "« À quoi bon toutes tes paroles ? »",
+      "« Tu as menti et tu mourras »",
+      "« Je te chasse de ma table »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:29 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-073",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:30",
+    "verseText": "Voir 2 Samuel 19:30.",
+    "question": "Que déclare Mephiboscheth à propos des terres, après la décision du roi ?",
+    "choices": [
+      "« Qu’il prenne même le tout… »",
+      "« Qu’il prenne seulement la moitié… »",
+      "« Qu’il ne prenne rien… »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:30 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-074",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:31-37",
+    "verseText": "Voir 2 Samuel 19:31-37.",
+    "question": "Quel homme très âgé accompagne le roi puis refuse Jérusalem ?",
+    "choices": [
+      "Barzillaï, le Galaadite",
+      "Abischaï, fils de Tseruja",
+      "Benaja, fils de Jehojada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:31-37 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-075",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:32",
+    "verseText": "Voir 2 Samuel 19:32.",
+    "question": "Quel âge Barzillaï déclare-t-il avoir ?",
+    "choices": [
+      "Soixante-dix ans",
+      "Quatre-vingts ans",
+      "Quatre-vingt-dix ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 19:32 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-076",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:37",
+    "verseText": "Voir 2 Samuel 19:37.",
+    "question": "Quel nom Barzillaï propose-t-il au roi à sa place ?",
+    "choices": [
+      "Kimham",
+      "Mephiboscheth",
+      "Tsiba"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:37 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-077",
+    "book": "2 Samuel",
+    "chapter": 19,
+    "verseRef": "2 Samuel 19:41",
+    "verseText": "Voir 2 Samuel 19:41.",
+    "question": "Après le retour, sur quoi les hommes d’Israël se querellent-ils avec Juda ?",
+    "choices": [
+      "Qui a fait passer le Jourdain au roi et à sa maison",
+      "Qui doit porter l’arche",
+      "Qui doit être sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 19:41 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-078",
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verseRef": "2 Samuel 20:1",
+    "verseText": "Voir 2 Samuel 20:1.",
+    "question": "Comment s’appelle “un méchant homme” qui déclenche une nouvelle révolte ?",
+    "choices": [
+      "Schéba, fils de Bicri",
+      "Scheja, secrétaire",
+      "Schimeï, fils de Guéra"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 20:1 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-079",
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verseRef": "2 Samuel 20:1",
+    "verseText": "Voir 2 Samuel 20:1.",
+    "question": "Quelle phrase Schéba crie-t-il pour diviser Israël ?",
+    "choices": [
+      "« Point de part pour nous avec David… Chacun à sa tente, Israël ! »",
+      "« David est juste… suivons-le tous ! »",
+      "« Que Juda serve Israël ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 20:1 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-080",
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verseRef": "2 Samuel 20:3",
+    "verseText": "Voir 2 Samuel 20:3.",
+    "question": "Que fait David des dix concubines laissées pour garder la maison ?",
+    "choices": [
+      "Il les renvoie en Juda",
+      "Il les met séquestrées, pourvoit à leur entretien, mais n’alla point vers elles",
+      "Il les marie à des officiers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 20:3 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-081",
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verseRef": "2 Samuel 20:4",
+    "verseText": "Voir 2 Samuel 20:4.",
+    "question": "Quel délai David fixe-t-il à Amasa ?",
+    "choices": [
+      "« Dans trois jours… »",
+      "« Dans sept jours… »",
+      "« Dans quarante jours… »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 20:4 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-082",
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verseRef": "2 Samuel 20:6",
+    "verseText": "Voir 2 Samuel 20:6.",
+    "question": "Qui David envoie-t-il finalement à cause du retard d’Amasa ?",
+    "choices": [
+      "Abischaï",
+      "Nathan",
+      "Tsadok"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 20:6 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-083",
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verseRef": "2 Samuel 20:8",
+    "verseText": "Voir 2 Samuel 20:8.",
+    "question": "Où Joab rencontre-t-il Amasa avant de le tuer ?",
+    "choices": [
+      "« Près de la grande pierre qui est à Gabaon »",
+      "À Hébron",
+      "À Bethléhem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 20:8 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-084",
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verseRef": "2 Samuel 20:9",
+    "verseText": "Voir 2 Samuel 20:9.",
+    "question": "Quelle parole Joab dit-il à Amasa juste avant l’attaque ?",
+    "choices": [
+      "« Te portes-tu bien, mon frère ? »",
+      "« Tu es maudit à jamais ! »",
+      "« Donne-moi tes terres ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 20:9 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-085",
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verseRef": "2 Samuel 20:14",
+    "verseText": "Voir 2 Samuel 20:14.",
+    "question": "Où Schéba se réfugie-t-il quand il est poursuivi ?",
+    "choices": [
+      "Abel Beth Maaca",
+      "Beer-Schéba",
+      "Roguelim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 20:14 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-086",
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verseRef": "2 Samuel 20:16",
+    "verseText": "Voir 2 Samuel 20:16.",
+    "question": "Qui négocie avec Joab depuis la ville assiégée ?",
+    "choices": [
+      "Une femme sage",
+      "Un prophète",
+      "Un chef des Kéréthiens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 20:16 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-087",
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verseRef": "2 Samuel 20:21",
+    "verseText": "Voir 2 Samuel 20:21.",
+    "question": "Quelle promesse Joab fait-il si on lui livre Schéba ?",
+    "choices": [
+      "« Je me retirerai de la ville »",
+      "« Je détruirai toute la ville »",
+      "« Je prendrai le trône »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 20:21 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-088",
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verseRef": "2 Samuel 20:22",
+    "verseText": "Voir 2 Samuel 20:22.",
+    "question": "Comment la ville se délivre-t-elle de Schéba ?",
+    "choices": [
+      "On l’exile",
+      "On coupe sa tête et on la jette à Joab",
+      "On le cache dans le temple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 20:22 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-089",
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verseRef": "2 Samuel 20:23",
+    "verseText": "Voir 2 Samuel 20:23.",
+    "question": "Qui “commandait toute l’armée d’Israël” ?",
+    "choices": [
+      "Joab",
+      "Amasa",
+      "Abner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 20:23 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-090",
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verseRef": "2 Samuel 20:25",
+    "verseText": "Voir 2 Samuel 20:25.",
+    "question": "Qui est nommé “secrétaire” dans la liste des officiers ?",
+    "choices": [
+      "Scheja",
+      "Schéba",
+      "Schimeï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 20:25 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-091",
+    "book": "2 Samuel",
+    "chapter": 21,
+    "verseRef": "2 Samuel 21:1",
+    "verseText": "Voir 2 Samuel 21:1.",
+    "question": "Combien d’années dure la famine au temps de David ?",
+    "choices": [
+      "Trois années",
+      "Sept années",
+      "Une année"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 21:1 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-092",
+    "book": "2 Samuel",
+    "chapter": 21,
+    "verseRef": "2 Samuel 21:1",
+    "verseText": "Voir 2 Samuel 21:1.",
+    "question": "Quelle cause est donnée à cette famine ?",
+    "choices": [
+      "« À cause de Saül et de sa maison sanguinaire »",
+      "À cause des Philistins",
+      "À cause d’un incendie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 21:1 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-093",
+    "book": "2 Samuel",
+    "chapter": 21,
+    "verseRef": "2 Samuel 21:6",
+    "verseText": "Voir 2 Samuel 21:6.",
+    "question": "Que demandent les Gabaonites pour l’expiation ?",
+    "choices": [
+      "De l’argent et de l’or",
+      "Sept hommes des fils de Saül, pour les pendre devant l’Éternel",
+      "La couronne de David"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 21:6 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-094",
+    "book": "2 Samuel",
+    "chapter": 21,
+    "verseRef": "2 Samuel 21:7",
+    "verseText": "Voir 2 Samuel 21:7.",
+    "question": "Qui David épargne-t-il à cause du serment avec Jonathan ?",
+    "choices": [
+      "Mephiboscheth, fils de Jonathan",
+      "Schimeï, fils de Guéra",
+      "Schéba, fils de Bicri"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 21:7 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-095",
+    "book": "2 Samuel",
+    "chapter": 21,
+    "verseRef": "2 Samuel 21:10",
+    "verseText": "Voir 2 Samuel 21:10.",
+    "question": "Que fait Ritspa, fille d’Aja, auprès des corps ?",
+    "choices": [
+      "« …elle étendit un sac sur le rocher… »",
+      "Elle bâtit un autel",
+      "Elle quitte le pays"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 21:10 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-096",
+    "book": "2 Samuel",
+    "chapter": 21,
+    "verseRef": "2 Samuel 21:14",
+    "verseText": "Voir 2 Samuel 21:14.",
+    "question": "Quel effet final est mentionné après l’enterrement et l’expiation ?",
+    "choices": [
+      "« Dieu fut apaisé envers le pays »",
+      "Le roi fut renversé",
+      "La famine augmente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 21:14 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-097",
+    "book": "2 Samuel",
+    "chapter": 21,
+    "verseRef": "2 Samuel 21:17",
+    "verseText": "Voir 2 Samuel 21:17.",
+    "question": "Quel homme secourt David et tue le Philistin quand David est fatigué ?",
+    "choices": [
+      "Abischaï, fils de Tseruja",
+      "Joab",
+      "Kimham"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 21:17 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-098",
+    "book": "2 Samuel",
+    "chapter": 21,
+    "verseRef": "2 Samuel 21:17",
+    "verseText": "Voir 2 Samuel 21:17.",
+    "question": "Quelle décision les gens de David prennent-ils ensuite ?",
+    "choices": [
+      "« Tu ne sortiras plus avec nous pour combattre… »",
+      "« Tu combattras seul désormais… »",
+      "« Tu iras en exil… »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 21:17 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-099",
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verseRef": "2 Samuel 22:2",
+    "verseText": "Voir 2 Samuel 22:2.",
+    "question": "Comment commence la proclamation de David sur l’Éternel dans son cantique ?",
+    "choices": [
+      "« L’Éternel est mon rocher, ma forteresse, mon libérateur »",
+      "« L’Éternel est ma vigne et mon pain »",
+      "« L’Éternel est mon juge et mon feu »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 22:2 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-100",
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verseRef": "2 Samuel 22:31",
+    "verseText": "Voir 2 Samuel 22:31.",
+    "question": "Quelle phrase décrit la perfection de la voie de Dieu ?",
+    "choices": [
+      "« La voie de Dieu est parfaite »",
+      "« La voie de Dieu est obscure »",
+      "« La voie de Dieu est changeante »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 22:31 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-101",
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verseRef": "2 Samuel 22:31",
+    "verseText": "Voir 2 Samuel 22:31.",
+    "question": "Comment est qualifiée la parole de l’Éternel dans ce verset ?",
+    "choices": [
+      "« Sa parole est éprouvée »",
+      "« Sa parole est oubliée »",
+      "« Sa parole est nouvelle chaque jour »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 22:31 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-102",
+    "book": "2 Samuel",
+    "chapter": 22,
+    "verseRef": "2 Samuel 22:30",
+    "verseText": "Voir 2 Samuel 22:30.",
+    "question": "Quelle déclaration David fait-il sur l’aide divine dans l’assaut ?",
+    "choices": [
+      "« Par toi je me précipite sur une troupe… »",
+      "« Par toi je me cache… »",
+      "« Par toi je fuis… »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 22:30 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-103",
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verseRef": "2 Samuel 23:4",
+    "verseText": "Voir 2 Samuel 23:4.",
+    "question": "Dans les dernières paroles, à quoi est comparé le juste qui règne ?",
+    "choices": [
+      "« Comme la lumière du matin quand le soleil brille… »",
+      "Comme une nuit sans lune",
+      "Comme un vent de sable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 23:4 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-104",
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verseRef": "2 Samuel 23:5",
+    "verseText": "Voir 2 Samuel 23:5.",
+    "question": "Que dit David sur l’alliance que Dieu a faite avec lui ?",
+    "choices": [
+      "« Il a fait avec moi une alliance éternelle… »",
+      "« Il a brisé l’alliance… »",
+      "« Il attend que je la mérite… »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 23:5 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-105",
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verseRef": "2 Samuel 23:8",
+    "verseText": "Voir 2 Samuel 23:8.",
+    "question": "Quel exploit est attribué à Joscheb-Basschébeth ?",
+    "choices": [
+      "« Il brandit sa lance sur huit cents hommes, qu’il fit périr en une seule fois »",
+      "Il tua Goliath",
+      "Il brûla une armée entière"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 23:8 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-106",
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verseRef": "2 Samuel 23:10",
+    "verseText": "Voir 2 Samuel 23:10.",
+    "question": "Quel détail est donné sur Éléazar pendant le combat ?",
+    "choices": [
+      "« Sa main resta attachée à l’épée »",
+      "Son épée se brisa",
+      "Il perdit la vue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 23:10 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-107",
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verseRef": "2 Samuel 23:10",
+    "verseText": "Voir 2 Samuel 23:10.",
+    "question": "Quelle délivrance est attribuée à l’Éternel ce jour-là ?",
+    "choices": [
+      "« L’Éternel opéra une grande délivrance »",
+      "L’Éternel envoya la grêle",
+      "L’Éternel fit tomber le feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 23:10 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-108",
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verseRef": "2 Samuel 23:15",
+    "verseText": "Voir 2 Samuel 23:15.",
+    "question": "Quelle demande David exprime-t-il à propos de Bethléhem ?",
+    "choices": [
+      "« Qui me fera boire de l’eau du puits de Bethléhem… ? »",
+      "« Qui me donnera du pain de Bethléhem… ? »",
+      "« Qui me donnera un cheval… ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 23:15 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-109",
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verseRef": "2 Samuel 23:16",
+    "verseText": "Voir 2 Samuel 23:16.",
+    "question": "Que fait David de l’eau rapportée par les trois hommes ?",
+    "choices": [
+      "Il la boit",
+      "« Il la répandit devant l’Éternel »",
+      "Il la garde"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Samuel 23:16 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-110",
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verseRef": "2 Samuel 23:17",
+    "verseText": "Voir 2 Samuel 23:17.",
+    "question": "Quelle exclamation David prononce-t-il pour refuser de la boire ?",
+    "choices": [
+      "« Loin de moi, ô Éternel ! de faire cela ! »",
+      "« J’ai soif, donnez-la-moi ! »",
+      "« Elle est impure, jetez-la ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 23:17 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-111",
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verseRef": "2 Samuel 23:20",
+    "verseText": "Voir 2 Samuel 23:20.",
+    "question": "Quel exploit de Benaja est mentionné “un jour de neige” ?",
+    "choices": [
+      "« Il descendit… et tua un lion… au milieu d’une citerne, un jour de neige »",
+      "Il tua un lion sur une montagne",
+      "Il tua deux ours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 23:20 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-112",
+    "book": "2 Samuel",
+    "chapter": 23,
+    "verseRef": "2 Samuel 23:23",
+    "verseText": "Voir 2 Samuel 23:23.",
+    "question": "Que reçoit Benaja comme reconnaissance dans l’entourage royal ?",
+    "choices": [
+      "« David l’admit dans son conseil »",
+      "David le chassa",
+      "David l’exila"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 23:23 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-113",
+    "book": "2 Samuel",
+    "chapter": 24,
+    "verseRef": "2 Samuel 24:1",
+    "verseText": "Voir 2 Samuel 24:1.",
+    "question": "Quel événement déclenche le récit du dénombrement ?",
+    "choices": [
+      "« La colère de l’Éternel s’enflamma de nouveau contre Israël »",
+      "La joie de l’Éternel éclata",
+      "Un traité de paix avec Tyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 24:1 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-114",
+    "book": "2 Samuel",
+    "chapter": 24,
+    "verseRef": "2 Samuel 24:10",
+    "verseText": "Voir 2 Samuel 24:10.",
+    "question": "Que ressent David après le dénombrement ?",
+    "choices": [
+      "« David sentit battre son coeur »",
+      "David se réjouit",
+      "David oublia sa faute"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 24:10 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-115",
+    "book": "2 Samuel",
+    "chapter": 24,
+    "verseRef": "2 Samuel 24:10",
+    "verseText": "Voir 2 Samuel 24:10.",
+    "question": "Quelle confession David adresse-t-il à l’Éternel ?",
+    "choices": [
+      "« J’ai commis un grand péché en faisant cela ! »",
+      "« J’ai agi avec sagesse ! »",
+      "« Je n’ai rien fait de mal ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 24:10 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-116",
+    "book": "2 Samuel",
+    "chapter": 24,
+    "verseRef": "2 Samuel 24:13",
+    "verseText": "Voir 2 Samuel 24:13.",
+    "question": "Quels “trois fléaux” Gad propose-t-il à David ?",
+    "choices": [
+      "« sept années de famine… trois mois de fuite… trois jours de peste »",
+      "trois jours de famine, sept mois de fuite, un jour de peste",
+      "une année de peste, trois mois de famine, sept jours de fuite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 24:13 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-117",
+    "book": "2 Samuel",
+    "chapter": 24,
+    "verseRef": "2 Samuel 24:14",
+    "verseText": "Voir 2 Samuel 24:14.",
+    "question": "Quelle parole David dit-il en choisissant ?",
+    "choices": [
+      "« …tombons entre les mains de l’Éternel… mais que je ne tombe pas entre les mains des hommes ! »",
+      "« Tombons entre les mains des hommes ! »",
+      "« Choisissons la famine ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 24:14 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-118",
+    "book": "2 Samuel",
+    "chapter": 24,
+    "verseRef": "2 Samuel 24:16",
+    "verseText": "Voir 2 Samuel 24:16.",
+    "question": "Où l’ange de l’Éternel est-il lorsqu’il est arrêté ?",
+    "choices": [
+      "« près de l’aire d’Aravna, le Jébusien »",
+      "près de la porte d’Hébron",
+      "près du puits de Bethléhem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 24:16 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-119",
+    "book": "2 Samuel",
+    "chapter": 24,
+    "verseRef": "2 Samuel 24:18",
+    "verseText": "Voir 2 Samuel 24:18.",
+    "question": "Quel ordre Gad donne-t-il à David ?",
+    "choices": [
+      "« Monte, élève un autel à l’Éternel dans l’aire d’Aravna, le Jébusien »",
+      "« Descends et cache-toi »",
+      "« Va en exil »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 24:18 (LSG 1910)."
+  },
+  {
+    "id": "2SA-N-120",
+    "book": "2 Samuel",
+    "chapter": 24,
+    "verseRef": "2 Samuel 24:24",
+    "verseText": "Voir 2 Samuel 24:24.",
+    "question": "Quelle phrase David prononce-t-il en refusant d’offrir gratuitement ?",
+    "choices": [
+      "« …je n’offrirai point à l’Éternel, mon Dieu, des holocaustes qui ne me coûtent rien »",
+      "« Je n’offrirai que ce qui est gratuit »",
+      "« Je n’offrirai plus jamais »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 24:24 (LSG 1910)."
+  }
+]

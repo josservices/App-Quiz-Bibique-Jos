@@ -1,0 +1,2928 @@
+[
+  {
+    "id": "esaie-D-001",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:18",
+    "verseText": "Voir Ésaïe 1:18.",
+    "question": "Que dit l’Éternel : « Si vos péchés sont comme le cramoisi… » ?",
+    "choices": [
+      "« Ils deviendront blancs comme la neige »",
+      "« Ils deviendront rouges comme l’écarlate »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:18 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-002",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:18",
+    "verseText": "Voir Ésaïe 1:18.",
+    "question": "Dans la même phrase, que sont-ils comparés quand ils deviennent très rouges ?",
+    "choices": [
+      "À la pourpre",
+      "À la laine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Ésaïe 1:18 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-003",
+    "book": "Ésaïe",
+    "chapter": 2,
+    "verseRef": "Ésaïe 2:3",
+    "verseText": "Voir Ésaïe 2:3.",
+    "question": "Dans Ésaïe 2, que viennent chercher les peuples au mont de l’Éternel ?",
+    "choices": [
+      "« La loi »",
+      "« Les richesses »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 2:3 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-004",
+    "book": "Ésaïe",
+    "chapter": 6,
+    "verseRef": "Ésaïe 6:2-3",
+    "verseText": "Voir Ésaïe 6:2-3.",
+    "question": "Dans la vision du chapitre 6, qui crie « Saint, saint, saint » ?",
+    "choices": [
+      "Les séraphins",
+      "Les chérubins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 6:2-3 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-005",
+    "book": "Ésaïe",
+    "chapter": 6,
+    "verseRef": "Ésaïe 6:6",
+    "verseText": "Voir Ésaïe 6:6.",
+    "question": "Que tient le séraphin pour toucher la bouche d’Ésaïe ?",
+    "choices": [
+      "Un charbon ardent",
+      "Une lampe d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 6:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-006",
+    "book": "Ésaïe",
+    "chapter": 6,
+    "verseRef": "Ésaïe 6:1",
+    "verseText": "Voir Ésaïe 6:1.",
+    "question": "À quel roi la vision du temple est-elle rattachée ?",
+    "choices": [
+      "À la mort du roi Ozias",
+      "À la naissance du roi Achaz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 6:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-007",
+    "book": "Ésaïe",
+    "chapter": 7,
+    "verseRef": "Ésaïe 7:14",
+    "verseText": "Voir Ésaïe 7:14.",
+    "question": "Quel est le nom donné à l’enfant du signe de la vierge ?",
+    "choices": [
+      "Emmanuel",
+      "Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 7:14 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-008",
+    "book": "Ésaïe",
+    "chapter": 9,
+    "verseRef": "Ésaïe 9:5",
+    "verseText": "Voir Ésaïe 9:5.",
+    "question": "Dans Ésaïe 9, quel titre est réellement cité parmi ceux de l’enfant ?",
+    "choices": [
+      "« Père éternel »",
+      "« Prince des sacrifices »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 9:5 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-009",
+    "book": "Ésaïe",
+    "chapter": 11,
+    "verseRef": "Ésaïe 11:1",
+    "verseText": "Voir Ésaïe 11:1.",
+    "question": "Dans Ésaïe 11, de qui sort le « rejeton » ?",
+    "choices": [
+      "D’Isaï",
+      "De Saül"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 11:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-010",
+    "book": "Ésaïe",
+    "chapter": 11,
+    "verseRef": "Ésaïe 11:6",
+    "verseText": "Voir Ésaïe 11:6.",
+    "question": "Dans Ésaïe 11, qui habite avec l’agneau ?",
+    "choices": [
+      "Le loup",
+      "Le renard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 11:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-011",
+    "book": "Ésaïe",
+    "chapter": 12,
+    "verseRef": "Ésaïe 12:6",
+    "verseText": "Voir Ésaïe 12:6.",
+    "question": "Dans Ésaïe 12, qui est proclamé « grand au milieu de toi » ?",
+    "choices": [
+      "Le Saint d’Israël",
+      "Le roi d’Assyrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 12:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-012",
+    "book": "Ésaïe",
+    "chapter": 26,
+    "verseRef": "Ésaïe 26:3",
+    "verseText": "Voir Ésaïe 26:3.",
+    "question": "Dans Ésaïe 26, quelle paix est promise à celui dont l’esprit s’appuie sur Dieu ?",
+    "choices": [
+      "« Une paix parfaite »",
+      "« Une paix incertaine »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 26:3 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-013",
+    "book": "Ésaïe",
+    "chapter": 28,
+    "verseRef": "Ésaïe 28:16",
+    "verseText": "Voir Ésaïe 28:16.",
+    "question": "Dans Ésaïe 28, quelle pierre est mentionnée en Sion ?",
+    "choices": [
+      "« Une pierre d’angle précieuse »",
+      "« Une pierre de ruine seulement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 28:16 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-014",
+    "book": "Ésaïe",
+    "chapter": 35,
+    "verseRef": "Ésaïe 35:6",
+    "verseText": "Voir Ésaïe 35:6.",
+    "question": "Dans Ésaïe 35, que font les boiteux ?",
+    "choices": [
+      "Ils sautent comme un cerf",
+      "Ils rampent comme un serpent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 35:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-015",
+    "book": "Ésaïe",
+    "chapter": 37,
+    "verseRef": "Ésaïe 37:14-15",
+    "verseText": "Voir Ésaïe 37:14-15.",
+    "question": "Dans Ésaïe 37, quel roi étend la lettre et prie ?",
+    "choices": [
+      "Ézéchias",
+      "Éliakim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 37:14-15 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-016",
+    "book": "Ésaïe",
+    "chapter": 38,
+    "verseRef": "Ésaïe 38:7-8",
+    "verseText": "Voir Ésaïe 38:7-8.",
+    "question": "Dans Ésaïe 38, quel phénomène sert de signe à Ézéchias ?",
+    "choices": [
+      "L’ombre recule sur les degrés",
+      "Le soleil s’éteint trois jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 38:7-8 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-017",
+    "book": "Ésaïe",
+    "chapter": 39,
+    "verseRef": "Ésaïe 39:2",
+    "verseText": "Voir Ésaïe 39:2.",
+    "question": "Dans Ésaïe 39, qu’exhibe Ézéchias aux envoyés babyloniens ?",
+    "choices": [
+      "Tout ce qui se trouvait dans ses trésors",
+      "Seulement les portes du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 39:2 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-018",
+    "book": "Ésaïe",
+    "chapter": 40,
+    "verseRef": "Ésaïe 40:1-2",
+    "verseText": "Voir Ésaïe 40:1-2.",
+    "question": "« Consolez, consolez mon peuple » est suivi de quel cadre ?",
+    "choices": [
+      "« Parlez au coeur de Jérusalem »",
+      "« Parlez au coeur de Babylone »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 40:1-2 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-019",
+    "book": "Ésaïe",
+    "chapter": 40,
+    "verseRef": "Ésaïe 40:6",
+    "verseText": "Voir Ésaïe 40:6.",
+    "question": "Dans Ésaïe 40, que dit le texte : « Toute chair est… » ?",
+    "choices": [
+      "De l’herbe",
+      "De la pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 40:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-020",
+    "book": "Ésaïe",
+    "chapter": 40,
+    "verseRef": "Ésaïe 40:8",
+    "verseText": "Voir Ésaïe 40:8.",
+    "question": "Dans Ésaïe 40, qu’est-ce qui demeure éternellement ?",
+    "choices": [
+      "La parole de notre Dieu",
+      "La force des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 40:8 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-021",
+    "book": "Ésaïe",
+    "chapter": 40,
+    "verseRef": "Ésaïe 40:31",
+    "verseText": "Voir Ésaïe 40:31.",
+    "question": "Dans Ésaïe 40, que reçoivent ceux qui se confient en l’Éternel ?",
+    "choices": [
+      "Des ailes comme les aigles",
+      "Des chars comme les rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 40:31 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-022",
+    "book": "Ésaïe",
+    "chapter": 41,
+    "verseRef": "Ésaïe 41:10",
+    "verseText": "Voir Ésaïe 41:10.",
+    "question": "Dans Ésaïe 41, l’encouragement « Ne crains rien » est rattaché à quel motif ?",
+    "choices": [
+      "« Car je suis avec toi »",
+      "« Car tu es fort »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 41:10 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-023",
+    "book": "Ésaïe",
+    "chapter": 43,
+    "verseRef": "Ésaïe 43:2",
+    "verseText": "Voir Ésaïe 43:2.",
+    "question": "Dans Ésaïe 43, que dit Dieu à propos des eaux et du feu ?",
+    "choices": [
+      "« Je serai avec toi »",
+      "« Tu disparaîtras »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 43:2 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-024",
+    "book": "Ésaïe",
+    "chapter": 43,
+    "verseRef": "Ésaïe 43:25",
+    "verseText": "Voir Ésaïe 43:25.",
+    "question": "Dans Ésaïe 43, Dieu affirme : « C’est moi, moi qui… »",
+    "choices": [
+      "Efface tes transgressions",
+      "Compte tes fautes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 43:25 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-025",
+    "book": "Ésaïe",
+    "chapter": 44,
+    "verseRef": "Ésaïe 44:28",
+    "verseText": "Voir Ésaïe 44:28.",
+    "question": "Dans Ésaïe 44, quel roi est nommé explicitement ?",
+    "choices": [
+      "Cyrus",
+      "Salmanasar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 44:28 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-026",
+    "book": "Ésaïe",
+    "chapter": 45,
+    "verseRef": "Ésaïe 45:1",
+    "verseText": "Voir Ésaïe 45:1.",
+    "question": "Dans Ésaïe 45, quel titre Dieu donne-t-il à Cyrus ?",
+    "choices": [
+      "« Mon oint »",
+      "« Mon prophète »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 45:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-027",
+    "book": "Ésaïe",
+    "chapter": 49,
+    "verseRef": "Ésaïe 49:6",
+    "verseText": "Voir Ésaïe 49:6.",
+    "question": "Dans Ésaïe 49, quel rôle est attribué au serviteur ?",
+    "choices": [
+      "« La lumière des nations »",
+      "« La ruine des nations »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 49:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-028",
+    "book": "Ésaïe",
+    "chapter": 50,
+    "verseRef": "Ésaïe 50:6",
+    "verseText": "Voir Ésaïe 50:6.",
+    "question": "Dans Ésaïe 50, le serviteur dit-il qu’il a dérobé son visage ?",
+    "choices": [
+      "Non, il ne l’a pas dérobé",
+      "Oui, il l’a dérobé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 50:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-029",
+    "book": "Ésaïe",
+    "chapter": 52,
+    "verseRef": "Ésaïe 52:7",
+    "verseText": "Voir Ésaïe 52:7.",
+    "question": "Dans Ésaïe 52, que proclame le messager sur les montagnes ?",
+    "choices": [
+      "« Ton Dieu règne »",
+      "« Ton roi tombe »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 52:7 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-030",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:3",
+    "verseText": "Voir Ésaïe 53:3.",
+    "question": "Dans Ésaïe 53, le serviteur est-il décrit comme « méprisé » ?",
+    "choices": [
+      "Oui, « méprisé et abandonné des hommes »",
+      "Non, « honoré et recherché des hommes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:3 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-031",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:4",
+    "verseText": "Voir Ésaïe 53:4.",
+    "question": "Dans Ésaïe 53, qu’est-ce qui est dit : « Il a porté… » ?",
+    "choices": [
+      "Nos souffrances",
+      "Nos couronnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:4 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-032",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:5",
+    "verseText": "Voir Ésaïe 53:5.",
+    "question": "Dans Ésaïe 53, qu’est-ce qui nous donne la paix ?",
+    "choices": [
+      "Le châtiment qui nous donne la paix",
+      "Notre propre justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:5 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-033",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:5",
+    "verseText": "Voir Ésaïe 53:5.",
+    "question": "Dans Ésaïe 53, par quoi sommes-nous guéris ?",
+    "choices": [
+      "Par ses meurtrissures",
+      "Par nos efforts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:5 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-034",
+    "book": "Ésaïe",
+    "chapter": 55,
+    "verseRef": "Ésaïe 55:1",
+    "verseText": "Voir Ésaïe 55:1.",
+    "question": "Dans Ésaïe 55, l’invitation « Vous tous qui avez soif » dit de venir où ?",
+    "choices": [
+      "Aux eaux",
+      "Aux montagnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 55:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-035",
+    "book": "Ésaïe",
+    "chapter": 55,
+    "verseRef": "Ésaïe 55:7",
+    "verseText": "Voir Ésaïe 55:7.",
+    "question": "Dans Ésaïe 55, les impies doivent-ils garder leur voie ?",
+    "choices": [
+      "Non, ils doivent l’abandonner",
+      "Oui, ils doivent la renforcer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 55:7 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-036",
+    "book": "Ésaïe",
+    "chapter": 55,
+    "verseRef": "Ésaïe 55:10-11",
+    "verseText": "Voir Ésaïe 55:10-11.",
+    "question": "Dans Ésaïe 55, la parole de Dieu est comparée à quoi qui descend des cieux ?",
+    "choices": [
+      "À la pluie et à la neige",
+      "À la foudre et au tonnerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 55:10-11 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-037",
+    "book": "Ésaïe",
+    "chapter": 56,
+    "verseRef": "Ésaïe 56:7",
+    "verseText": "Voir Ésaïe 56:7.",
+    "question": "Dans Ésaïe 56, la maison de Dieu est appelée :",
+    "choices": [
+      "« Une maison de prière pour tous les peuples »",
+      "« Une maison d’impôt pour tous les peuples »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 56:7 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-038",
+    "book": "Ésaïe",
+    "chapter": 57,
+    "verseRef": "Ésaïe 57:15",
+    "verseText": "Voir Ésaïe 57:15.",
+    "question": "Dans Ésaïe 57, Dieu habite aussi avec quel type d’homme ?",
+    "choices": [
+      "L’homme contrit et humilié",
+      "L’homme orgueilleux et violent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 57:15 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-039",
+    "book": "Ésaïe",
+    "chapter": 58,
+    "verseRef": "Ésaïe 58:7",
+    "verseText": "Voir Ésaïe 58:7.",
+    "question": "Dans Ésaïe 58, que doit-on faire envers l’affamé ?",
+    "choices": [
+      "Lui donner ton pain",
+      "Le renvoyer loin de toi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 58:7 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-040",
+    "book": "Ésaïe",
+    "chapter": 59,
+    "verseRef": "Ésaïe 59:1",
+    "verseText": "Voir Ésaïe 59:1.",
+    "question": "Dans Ésaïe 59, est-il dit que la main de l’Éternel est trop courte pour sauver ?",
+    "choices": [
+      "Non, elle n’est pas trop courte pour sauver",
+      "Oui, elle est trop courte pour sauver"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 59:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-041",
+    "book": "Ésaïe",
+    "chapter": 60,
+    "verseRef": "Ésaïe 60:1",
+    "verseText": "Voir Ésaïe 60:1.",
+    "question": "Dans Ésaïe 60, quel ordre est donné à Sion ?",
+    "choices": [
+      "« Lève-toi, sois éclairée »",
+      "« Assieds-toi, sois oubliée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 60:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-042",
+    "book": "Ésaïe",
+    "chapter": 61,
+    "verseRef": "Ésaïe 61:1",
+    "verseText": "Voir Ésaïe 61:1.",
+    "question": "Dans Ésaïe 61, qu’est-ce qui est proclamé aux captifs ?",
+    "choices": [
+      "La délivrance",
+      "La condamnation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 61:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-043",
+    "book": "Ésaïe",
+    "chapter": 63,
+    "verseRef": "Ésaïe 63:7",
+    "verseText": "Voir Ésaïe 63:7.",
+    "question": "Dans Ésaïe 63, que rappelle le prophète ?",
+    "choices": [
+      "Toutes les grâces de l’Éternel",
+      "Toutes les défaites d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 63:7 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-044",
+    "book": "Ésaïe",
+    "chapter": 66,
+    "verseRef": "Ésaïe 66:22",
+    "verseText": "Voir Ésaïe 66:22.",
+    "question": "Dans Ésaïe 66, les « nouveaux cieux et la nouvelle terre » font quoi ?",
+    "choices": [
+      "Ils subsistent devant l’Éternel",
+      "Ils disparaissent aussitôt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 66:22 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-045",
+    "book": "Ésaïe",
+    "chapter": 5,
+    "verseRef": "Ésaïe 5:2",
+    "verseText": "Voir Ésaïe 5:2.",
+    "question": "Dans Ésaïe 5, la vigne donne quoi au lieu de bons raisins ?",
+    "choices": [
+      "Des raisins sauvages",
+      "Des raisins d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 5:2 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-046",
+    "book": "Ésaïe",
+    "chapter": 2,
+    "verseRef": "Ésaïe 2:4",
+    "verseText": "Voir Ésaïe 2:4.",
+    "question": "Dans Ésaïe 2, les épées deviennent :",
+    "choices": [
+      "Des socs",
+      "Des couronnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 2:4 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-047",
+    "book": "Ésaïe",
+    "chapter": 2,
+    "verseRef": "Ésaïe 2:4",
+    "verseText": "Voir Ésaïe 2:4.",
+    "question": "Dans Ésaïe 2, les lances deviennent :",
+    "choices": [
+      "Des serpes",
+      "Des sceptres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 2:4 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-048",
+    "book": "Ésaïe",
+    "chapter": 35,
+    "verseRef": "Ésaïe 35:5",
+    "verseText": "Voir Ésaïe 35:5.",
+    "question": "Dans Ésaïe 35, que devient la situation des aveugles ?",
+    "choices": [
+      "Leurs yeux s’ouvrent",
+      "Leurs yeux se ferment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 35:5 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-049",
+    "book": "Ésaïe",
+    "chapter": 41,
+    "verseRef": "Ésaïe 41:10",
+    "verseText": "Voir Ésaïe 41:10.",
+    "question": "Dans Ésaïe 41, que dit Dieu : « Je te fortifie… » est suivi de quoi ?",
+    "choices": [
+      "« Je viens à ton secours »",
+      "« Je t’abandonne »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 41:10 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-050",
+    "book": "Ésaïe",
+    "chapter": 43,
+    "verseRef": "Ésaïe 43:2",
+    "verseText": "Voir Ésaïe 43:2.",
+    "question": "Dans Ésaïe 43, Dieu dit-il : « Quand tu passeras dans les eaux… » ?",
+    "choices": [
+      "« Je serai avec toi »",
+      "« Tu seras seul »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 43:2 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-051",
+    "book": "Ésaïe",
+    "chapter": 52,
+    "verseRef": "Ésaïe 52:7",
+    "verseText": "Voir Ésaïe 52:7.",
+    "question": "Dans Ésaïe 52, le messager annonce :",
+    "choices": [
+      "« La paix »",
+      "« La famine »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 52:7 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-052",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:2",
+    "verseText": "Voir Ésaïe 53:2.",
+    "question": "Dans Ésaïe 53, le serviteur « n’avait rien… » de quoi ?",
+    "choices": [
+      "Pour attirer nos regards",
+      "Pour effrayer nos ennemis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:2 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-053",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:6",
+    "verseText": "Voir Ésaïe 53:6.",
+    "question": "Dans Ésaïe 53, « nous étions tous errants comme… »",
+    "choices": [
+      "Des brebis",
+      "Des lions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-054",
+    "book": "Ésaïe",
+    "chapter": 55,
+    "verseRef": "Ésaïe 55:11",
+    "verseText": "Voir Ésaïe 55:11.",
+    "question": "Dans Ésaïe 55, Dieu dit-il que sa parole retourne à lui sans effet ?",
+    "choices": [
+      "Non, elle ne retourne pas à lui sans effet",
+      "Oui, elle retourne à lui sans effet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 55:11 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-055",
+    "book": "Ésaïe",
+    "chapter": 58,
+    "verseRef": "Ésaïe 58:6",
+    "verseText": "Voir Ésaïe 58:6.",
+    "question": "Dans Ésaïe 58, Dieu parle-t-il d’« attacher les liens de la méchanceté » ?",
+    "choices": [
+      "Oui, comme un jeûne qu’il approuve",
+      "Non, comme une chose interdite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 58:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-056",
+    "book": "Ésaïe",
+    "chapter": 59,
+    "verseRef": "Ésaïe 59:1",
+    "verseText": "Voir Ésaïe 59:1.",
+    "question": "Dans Ésaïe 59, quel organe est cité avec l’oreille : « Son oreille n’est pas… » ?",
+    "choices": [
+      "Trop dure pour entendre",
+      "Trop faible pour parler"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 59:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-057",
+    "book": "Ésaïe",
+    "chapter": 60,
+    "verseRef": "Ésaïe 60:1-2",
+    "verseText": "Voir Ésaïe 60:1-2.",
+    "question": "Dans Ésaïe 60, la gloire de l’Éternel « se lève » sur qui ?",
+    "choices": [
+      "Sur toi",
+      "Sur tes ennemis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 60:1-2 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-058",
+    "book": "Ésaïe",
+    "chapter": 61,
+    "verseRef": "Ésaïe 61:1",
+    "verseText": "Voir Ésaïe 61:1.",
+    "question": "Dans Ésaïe 61, le messager est-il « oint » pour annoncer une bonne nouvelle ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 61:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-059",
+    "book": "Ésaïe",
+    "chapter": 63,
+    "verseRef": "Ésaïe 63:16",
+    "verseText": "Voir Ésaïe 63:16.",
+    "question": "Dans Ésaïe 63, qui est mentionné comme « notre père » dans le contexte du souvenir ?",
+    "choices": [
+      "Abraham",
+      "Saül"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 63:16 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-060",
+    "book": "Ésaïe",
+    "chapter": 66,
+    "verseRef": "Ésaïe 66:5",
+    "verseText": "Voir Ésaïe 66:5.",
+    "question": "Dans Ésaïe 66, que dit Dieu au sujet de « ceux qui tremblent à sa parole » ?",
+    "choices": [
+      "Ils sont visés dans un contraste avec les moqueurs",
+      "Ils sont ignorés totalement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 66:5 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-061",
+    "book": "Ésaïe",
+    "chapter": 8,
+    "verseRef": "Ésaïe 8:3",
+    "verseText": "Voir Ésaïe 8:3.",
+    "question": "Quel nom prophétique Ésaïe donne-t-il à un fils comme signe immédiat ?",
+    "choices": [
+      "Maher-Schalal-Chasch-Baz",
+      "Schear-Jaschub"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 8:3 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-062",
+    "book": "Ésaïe",
+    "chapter": 8,
+    "verseRef": "Ésaïe 8:10",
+    "verseText": "Voir Ésaïe 8:10.",
+    "question": "Quel contraste conclut l’avertissement : « Tenez conseil… » ?",
+    "choices": [
+      "« Il sera anéanti… car Dieu est avec nous »",
+      "« Il sera approuvé… car Dieu s’est retiré »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 8:10 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-063",
+    "book": "Ésaïe",
+    "chapter": 8,
+    "verseRef": "Ésaïe 8:20",
+    "verseText": "Voir Ésaïe 8:20.",
+    "question": "Quel principe tranche la question des consultations occultes ?",
+    "choices": [
+      "« À la loi et au témoignage ! »",
+      "« Aux rêves et aux présages ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 8:20 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-064",
+    "book": "Ésaïe",
+    "chapter": 8,
+    "verseRef": "Ésaïe 8:13",
+    "verseText": "Voir Ésaïe 8:13.",
+    "question": "Qui doit être sanctifié comme objet de crainte légitime ?",
+    "choices": [
+      "L’Éternel des armées",
+      "Le roi d’Assyrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 8:13 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-065",
+    "book": "Ésaïe",
+    "chapter": 8,
+    "verseRef": "Ésaïe 8:14",
+    "verseText": "Voir Ésaïe 8:14.",
+    "question": "Quelle image est donnée : il devient « une pierre… » pour beaucoup ?",
+    "choices": [
+      "D’achoppement",
+      "De victoire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 8:14 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-066",
+    "book": "Ésaïe",
+    "chapter": 5,
+    "verseRef": "Ésaïe 5:20",
+    "verseText": "Voir Ésaïe 5:20.",
+    "question": "Quel « malheur » vise ceux qui inversent les valeurs morales ?",
+    "choices": [
+      "Ceux qui appellent le mal bien",
+      "Ceux qui appellent le bien mal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 5:20 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-067",
+    "book": "Ésaïe",
+    "chapter": 5,
+    "verseRef": "Ésaïe 5:8",
+    "verseText": "Voir Ésaïe 5:8.",
+    "question": "Quelle faute sociale est dénoncée : « joindre maison à maison » ?",
+    "choices": [
+      "Faire place à l’avidité jusqu’à rester seul",
+      "Construire pour loger l’étranger"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 5:8 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-068",
+    "book": "Ésaïe",
+    "chapter": 5,
+    "verseRef": "Ésaïe 5:13",
+    "verseText": "Voir Ésaïe 5:13.",
+    "question": "Quelle sanction suit le manque de connaissance du peuple ?",
+    "choices": [
+      "Il est mené en captivité",
+      "Il reçoit un trône"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 5:13 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-069",
+    "book": "Ésaïe",
+    "chapter": 5,
+    "verseRef": "Ésaïe 5:26",
+    "verseText": "Voir Ésaïe 5:26.",
+    "question": "Quel geste appelle des nations lointaines pour le jugement ?",
+    "choices": [
+      "Un sifflement",
+      "Un chant doux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 5:26 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-070",
+    "book": "Ésaïe",
+    "chapter": 44,
+    "verseRef": "Ésaïe 44:9",
+    "verseText": "Voir Ésaïe 44:9.",
+    "question": "Qu’est-ce que Dieu dit des idoles et de ceux qui les font ?",
+    "choices": [
+      "« Ils ne savent rien »",
+      "« Ils savent tout »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 44:9 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-071",
+    "book": "Ésaïe",
+    "chapter": 44,
+    "verseRef": "Ésaïe 44:17",
+    "verseText": "Voir Ésaïe 44:17.",
+    "question": "Quel aveu implicite condamne l’homme idolâtre ?",
+    "choices": [
+      "Il se prosterne devant ce qu’il a fait",
+      "Il se prosterne devant ce qu’il n’a jamais vu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 44:17 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-072",
+    "book": "Ésaïe",
+    "chapter": 44,
+    "verseRef": "Ésaïe 44:6",
+    "verseText": "Voir Ésaïe 44:6.",
+    "question": "Quel titre Dieu revendique : « Je suis… » ?",
+    "choices": [
+      "Le premier et le dernier",
+      "Le dernier seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 44:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-073",
+    "book": "Ésaïe",
+    "chapter": 52,
+    "verseRef": "Ésaïe 52:1",
+    "verseText": "Voir Ésaïe 52:1.",
+    "question": "Quel appel exact est adressé à Jérusalem : « Réveille-toi… » ?",
+    "choices": [
+      "« Revêts-toi de ta parure, Sion »",
+      "« Déchire tes vêtements, Sion »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 52:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-074",
+    "book": "Ésaïe",
+    "chapter": 52,
+    "verseRef": "Ésaïe 52:2",
+    "verseText": "Voir Ésaïe 52:2.",
+    "question": "Quel ordre suit : « Lève-toi… » ?",
+    "choices": [
+      "« Secoue de toi la poussière »",
+      "« Couvre-toi de poussière »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 52:2 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-075",
+    "book": "Ésaïe",
+    "chapter": 52,
+    "verseRef": "Ésaïe 52:13",
+    "verseText": "Voir Ésaïe 52:13.",
+    "question": "Quelle progression d’élévation décrit le serviteur ?",
+    "choices": [
+      "Il s’élèvera, il s’élèvera bien haut, il sera très haut",
+      "Il tombera, il tombera bien bas, il sera très bas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 52:13 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-076",
+    "book": "Ésaïe",
+    "chapter": 52,
+    "verseRef": "Ésaïe 52:14",
+    "verseText": "Voir Ésaïe 52:14.",
+    "question": "Quelle cause d’étonnement est mentionnée au sujet de son apparence ?",
+    "choices": [
+      "Son aspect défiguré plus que celui d’aucun homme",
+      "Sa beauté supérieure à celle de tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 52:14 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-077",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:2",
+    "verseText": "Voir Ésaïe 53:2.",
+    "question": "Comment le serviteur est-il décrit quant à son attrait extérieur ?",
+    "choices": [
+      "« Il n’avait ni beauté, ni éclat pour attirer nos regards »",
+      "« Il avait beauté et éclat pour attirer nos regards »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:2 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-078",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:4",
+    "verseText": "Voir Ésaïe 53:4.",
+    "question": "Quelle erreur humaine est avouée au sujet de sa souffrance ?",
+    "choices": [
+      "Nous l’avons cru frappé de Dieu",
+      "Nous l’avons cru couronné de Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:4 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-079",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:6",
+    "verseText": "Voir Ésaïe 53:6.",
+    "question": "Quelle comparaison résume l’égarement universel ?",
+    "choices": [
+      "« Nous étions tous errants comme des brebis »",
+      "« Nous étions tous errants comme des lions »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-080",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:6",
+    "verseText": "Voir Ésaïe 53:6.",
+    "question": "Quelle affirmation précise exprime l’imputation des fautes ?",
+    "choices": [
+      "L’Éternel a fait retomber sur lui l’iniquité de nous tous",
+      "L’Éternel a oublié l’iniquité de nous tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-081",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:7",
+    "verseText": "Voir Ésaïe 53:7.",
+    "question": "Quelle attitude du serviteur est répétée comme preuve de patience ?",
+    "choices": [
+      "Il n’ouvre point la bouche",
+      "Il crie contre les hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:7 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-082",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:7",
+    "verseText": "Voir Ésaïe 53:7.",
+    "question": "Quelle image complète « agneau mené à la boucherie » ?",
+    "choices": [
+      "« une brebis muette devant ceux qui la tondent »",
+      "« un lion muet devant ceux qui l’attaquent »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:7 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-083",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:9",
+    "verseText": "Voir Ésaïe 53:9.",
+    "question": "Quel détail de sépulture est donné malgré son innocence ?",
+    "choices": [
+      "Son sépulcre a été mis parmi les méchants, son tombeau avec le riche",
+      "Son sépulcre a été mis parmi les justes, son tombeau avec les rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:9 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-084",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:9",
+    "verseText": "Voir Ésaïe 53:9.",
+    "question": "Quel motif d’innocence est explicitement formulé ?",
+    "choices": [
+      "« Il n’y avait point de fraude dans sa bouche »",
+      "« Il n’y avait point de peur dans son coeur »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:9 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-085",
+    "book": "Ésaïe",
+    "chapter": 53,
+    "verseRef": "Ésaïe 53:10",
+    "verseText": "Voir Ésaïe 53:10.",
+    "question": "Quel résultat suit : « Après avoir livré sa vie en sacrifice pour le péché » ?",
+    "choices": [
+      "Il verra une postérité",
+      "Il ne verra rien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 53:10 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-086",
+    "book": "Ésaïe",
+    "chapter": 54,
+    "verseRef": "Ésaïe 54:1",
+    "verseText": "Voir Ésaïe 54:1.",
+    "question": "Quel contraste est ordonné à la femme stérile ?",
+    "choices": [
+      "Crie de joie, car tes fils seront plus nombreux",
+      "Pleure en silence, car tes fils seront moins nombreux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 54:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-087",
+    "book": "Ésaïe",
+    "chapter": 54,
+    "verseRef": "Ésaïe 54:17",
+    "verseText": "Voir Ésaïe 54:17.",
+    "question": "Quelle promesse protège contre les armes ?",
+    "choices": [
+      "« Toute arme forgée contre toi sera sans effet »",
+      "« Toute arme forgée contre toi réussira »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 54:17 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-088",
+    "book": "Ésaïe",
+    "chapter": 54,
+    "verseRef": "Ésaïe 54:17",
+    "verseText": "Voir Ésaïe 54:17.",
+    "question": "Quelle sentence vise les accusations verbales en justice ?",
+    "choices": [
+      "Tu condamneras toute langue qui s’élève contre toi",
+      "Tu approuveras toute langue qui s’élève contre toi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 54:17 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-089",
+    "book": "Ésaïe",
+    "chapter": 55,
+    "verseRef": "Ésaïe 55:8",
+    "verseText": "Voir Ésaïe 55:8.",
+    "question": "Quelle phrase marque la différence entre Dieu et l’homme ?",
+    "choices": [
+      "« Mes pensées ne sont pas vos pensées »",
+      "« Mes pensées sont vos pensées »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 55:8 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-090",
+    "book": "Ésaïe",
+    "chapter": 55,
+    "verseRef": "Ésaïe 55:9",
+    "verseText": "Voir Ésaïe 55:9.",
+    "question": "Quelle comparaison exprime l’élévation des voies de Dieu ?",
+    "choices": [
+      "Comme les cieux au-dessus de la terre",
+      "Comme la terre au-dessus des cieux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 55:9 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-091",
+    "book": "Ésaïe",
+    "chapter": 55,
+    "verseRef": "Ésaïe 55:11",
+    "verseText": "Voir Ésaïe 55:11.",
+    "question": "Quel effet la parole de Dieu ne manque-t-elle pas d’accomplir ?",
+    "choices": [
+      "Elle fait ce que Dieu veut",
+      "Elle échoue toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 55:11 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-092",
+    "book": "Ésaïe",
+    "chapter": 55,
+    "verseRef": "Ésaïe 55:13",
+    "verseText": "Voir Ésaïe 55:13.",
+    "question": "Quel signe de restauration remplace l’épine ?",
+    "choices": [
+      "Le cyprès",
+      "La ronce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 55:13 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-093",
+    "book": "Ésaïe",
+    "chapter": 55,
+    "verseRef": "Ésaïe 55:13",
+    "verseText": "Voir Ésaïe 55:13.",
+    "question": "Quel signe de restauration remplace la ronce ?",
+    "choices": [
+      "Le myrte",
+      "L’épine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 55:13 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-094",
+    "book": "Ésaïe",
+    "chapter": 56,
+    "verseRef": "Ésaïe 56:10",
+    "verseText": "Voir Ésaïe 56:10.",
+    "question": "Quel reproche humilie les gardiens infidèles ?",
+    "choices": [
+      "« Des chiens muets, incapables d’aboyer »",
+      "« Des chiens vigilants, prompts à défendre »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 56:10 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-095",
+    "book": "Ésaïe",
+    "chapter": 56,
+    "verseRef": "Ésaïe 56:11",
+    "verseText": "Voir Ésaïe 56:11.",
+    "question": "Quel défaut moral est attribué aux bergers ?",
+    "choices": [
+      "Ils ne peuvent comprendre",
+      "Ils comprennent tout"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 56:11 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-096",
+    "book": "Ésaïe",
+    "chapter": 62,
+    "verseRef": "Ésaïe 62:1",
+    "verseText": "Voir Ésaïe 62:1.",
+    "question": "Quel engagement du prophète refuse le silence ?",
+    "choices": [
+      "Ne pas se taire jusqu’à l’établissement de Jérusalem",
+      "Se taire jusqu’à la chute de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 62:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-097",
+    "book": "Ésaïe",
+    "chapter": 62,
+    "verseRef": "Ésaïe 62:4",
+    "verseText": "Voir Ésaïe 62:4.",
+    "question": "Quel nouveau nom exprime la faveur de Dieu ?",
+    "choices": [
+      "« Mon plaisir en elle »",
+      "« La délaissée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 62:4 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-098",
+    "book": "Ésaïe",
+    "chapter": 62,
+    "verseRef": "Ésaïe 62:4",
+    "verseText": "Voir Ésaïe 62:4.",
+    "question": "Quel nom exprime la restauration du pays ?",
+    "choices": [
+      "« Épousée »",
+      "« Désolée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 62:4 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-099",
+    "book": "Ésaïe",
+    "chapter": 63,
+    "verseRef": "Ésaïe 63:4",
+    "verseText": "Voir Ésaïe 63:4.",
+    "question": "Quel « jour » est gardé dans le coeur de Dieu ?",
+    "choices": [
+      "Le jour de la vengeance",
+      "Le jour de l’oubli"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 63:4 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-100",
+    "book": "Ésaïe",
+    "chapter": 63,
+    "verseRef": "Ésaïe 63:3",
+    "verseText": "Voir Ésaïe 63:3.",
+    "question": "Quelle action symbolique décrit la colère de Dieu envers les peuples ?",
+    "choices": [
+      "Il les a foulés dans sa colère",
+      "Il les a couronnés dans sa joie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 63:3 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-101",
+    "book": "Ésaïe",
+    "chapter": 63,
+    "verseRef": "Ésaïe 63:16",
+    "verseText": "Voir Ésaïe 63:16.",
+    "question": "Quelle phrase surprenante apparaît : « Abraham ne nous… »",
+    "choices": [
+      "Connaît pas",
+      "Regarde pas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 63:16 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-102",
+    "book": "Ésaïe",
+    "chapter": 63,
+    "verseRef": "Ésaïe 63:16",
+    "verseText": "Voir Ésaïe 63:16.",
+    "question": "Quel titre est utilisé dans : « Ô Éternel ! tu es notre père… » ?",
+    "choices": [
+      "Notre libérateur",
+      "Notre accusateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 63:16 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-103",
+    "book": "Ésaïe",
+    "chapter": 63,
+    "verseRef": "Ésaïe 63:17",
+    "verseText": "Voir Ésaïe 63:17.",
+    "question": "Quel reproche explique l’endurcissement du coeur ?",
+    "choices": [
+      "« Pourquoi nous laisses-tu errer loin de tes voies ? »",
+      "« Pourquoi nous donnes-tu une paix sans fin ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 63:17 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-104",
+    "book": "Ésaïe",
+    "chapter": 58,
+    "verseRef": "Ésaïe 58:7",
+    "verseText": "Voir Ésaïe 58:7.",
+    "question": "Quelle exigence concrète concerne celui qui est nu ?",
+    "choices": [
+      "Le couvrir",
+      "Le repousser"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 58:7 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-105",
+    "book": "Ésaïe",
+    "chapter": 58,
+    "verseRef": "Ésaïe 58:7",
+    "verseText": "Voir Ésaïe 58:7.",
+    "question": "Quel interdit complète l’éthique : « ne pas se détourner… » ?",
+    "choices": [
+      "De son semblable",
+      "De son champ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 58:7 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-106",
+    "book": "Ésaïe",
+    "chapter": 58,
+    "verseRef": "Ésaïe 58:8",
+    "verseText": "Voir Ésaïe 58:8.",
+    "question": "Quel effet suit le partage envers l’affamé ?",
+    "choices": [
+      "Ta lumière se lèvera comme l’aurore",
+      "Ta lumière s’éteindra comme la cendre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 58:8 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-107",
+    "book": "Ésaïe",
+    "chapter": 58,
+    "verseRef": "Ésaïe 58:8",
+    "verseText": "Voir Ésaïe 58:8.",
+    "question": "Quel détail sur la guérison est promis ?",
+    "choices": [
+      "Elle germera promptement",
+      "Elle disparaîtra lentement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 58:8 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-108",
+    "book": "Ésaïe",
+    "chapter": 58,
+    "verseRef": "Ésaïe 58:8",
+    "verseText": "Voir Ésaïe 58:8.",
+    "question": "Quelle protection est appelée « arrière-garde » ?",
+    "choices": [
+      "La gloire de l’Éternel",
+      "La force de l’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 58:8 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-109",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:15",
+    "verseText": "Voir Ésaïe 1:15.",
+    "question": "Quelle raison est donnée quand Dieu refuse d’écouter des prières hypocrites ?",
+    "choices": [
+      "« Vos mains sont pleines de sang »",
+      "« Vos maisons sont petites »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:15 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-110",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:16",
+    "verseText": "Voir Ésaïe 1:16.",
+    "question": "Quel appel résume une purification morale ?",
+    "choices": [
+      "« Lavez-vous, purifiez-vous »",
+      "« Cachez-vous, taisez-vous »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:16 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-111",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:19",
+    "verseText": "Voir Ésaïe 1:19.",
+    "question": "Quelle promesse suit l’obéissance ?",
+    "choices": [
+      "Manger les meilleures productions du pays",
+      "Perdre les meilleures productions du pays"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:19 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-112",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:20",
+    "verseText": "Voir Ésaïe 1:20.",
+    "question": "Quelle menace suit la révolte ?",
+    "choices": [
+      "Être dévorés par l’épée",
+      "Être guéris par l’huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:20 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-113",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:21",
+    "verseText": "Voir Ésaïe 1:21.",
+    "question": "Quel ancien titre de Jérusalem est rappelé avec douleur ?",
+    "choices": [
+      "La cité fidèle",
+      "La cité païenne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:21 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-114",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:23",
+    "verseText": "Voir Ésaïe 1:23.",
+    "question": "Quel portrait est fait des princes ?",
+    "choices": [
+      "Rebelles et compagnons de voleurs",
+      "Fidèles et amis des pauvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:23 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-115",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:26",
+    "verseText": "Voir Ésaïe 1:26.",
+    "question": "Quel engagement de restauration vise les juges ?",
+    "choices": [
+      "Les rendre comme auparavant",
+      "Les abolir pour toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:26 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-116",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:26",
+    "verseText": "Voir Ésaïe 1:26.",
+    "question": "Quel nom futur est promis à Jérusalem restaurée ?",
+    "choices": [
+      "Ville de justice",
+      "Ville d’idoles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:26 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-117",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:26",
+    "verseText": "Voir Ésaïe 1:26.",
+    "question": "Quel autre titre est promis à la ville ?",
+    "choices": [
+      "Cité fidèle",
+      "Cité trompeuse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:26 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-118",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:29",
+    "verseText": "Voir Ésaïe 1:29.",
+    "question": "Quelle conséquence frappe ceux qui se confient dans les térébinthes ?",
+    "choices": [
+      "Ils seront confus",
+      "Ils seront glorifiés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:29 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-119",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:29",
+    "verseText": "Voir Ésaïe 1:29.",
+    "question": "Quel sort touche ceux qui choisissent des jardins idolâtres ?",
+    "choices": [
+      "Ils rougiront",
+      "Ils triompheront"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:29 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-120",
+    "book": "Ésaïe",
+    "chapter": 1,
+    "verseRef": "Ésaïe 1:31",
+    "verseText": "Voir Ésaïe 1:31.",
+    "question": "Quelle image conclut : le fort devient quoi, et son oeuvre quoi ?",
+    "choices": [
+      "Le fort devient de l’étoupe, et son oeuvre une étincelle",
+      "Le fort devient un rocher, et son oeuvre une rivière"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:31 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-121",
+    "book": "Ésaïe",
+    "chapter": 2,
+    "verseRef": "Ésaïe 2:10",
+    "verseText": "Voir Ésaïe 2:10.",
+    "question": "Quel appel à la crainte est suivi de l’ordre de se cacher « dans la poussière » ?",
+    "choices": [
+      "Se cacher par crainte de l’Éternel et de sa majesté",
+      "Se cacher par crainte des hommes et de leurs armes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 2:10 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-122",
+    "book": "Ésaïe",
+    "chapter": 2,
+    "verseRef": "Ésaïe 2:12",
+    "verseText": "Voir Ésaïe 2:12.",
+    "question": "Quel jugement vise « tout ce qui est haut et élevé » ?",
+    "choices": [
+      "Il sera abaissé",
+      "Il sera encore élevé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 2:12 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-123",
+    "book": "Ésaïe",
+    "chapter": 2,
+    "verseRef": "Ésaïe 2:20",
+    "verseText": "Voir Ésaïe 2:20.",
+    "question": "Quand l’homme jette ses idoles, il les jette aux… ?",
+    "choices": [
+      "Rats et chauves-souris",
+      "Loups et renards"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 2:20 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-124",
+    "book": "Ésaïe",
+    "chapter": 3,
+    "verseRef": "Ésaïe 3:1",
+    "verseText": "Voir Ésaïe 3:1.",
+    "question": "Quel « appui » est explicitement retranché ?",
+    "choices": [
+      "L’appui du pain et l’appui de l’eau",
+      "L’appui du vin et l’appui de l’huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 3:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-125",
+    "book": "Ésaïe",
+    "chapter": 3,
+    "verseRef": "Ésaïe 3:5",
+    "verseText": "Voir Ésaïe 3:5.",
+    "question": "Quel renversement social est décrit : « l’enfant… » ?",
+    "choices": [
+      "S’élève contre le vieillard",
+      "Honore le vieillard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 3:5 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-126",
+    "book": "Ésaïe",
+    "chapter": 3,
+    "verseRef": "Ésaïe 3:15",
+    "verseText": "Voir Ésaïe 3:15.",
+    "question": "Quel reproche exact vise les chefs : « Vous… » ?",
+    "choices": [
+      "« Vous écrasez mon peuple »",
+      "« Vous élevez mon peuple »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 3:15 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-127",
+    "book": "Ésaïe",
+    "chapter": 4,
+    "verseRef": "Ésaïe 4:4",
+    "verseText": "Voir Ésaïe 4:4.",
+    "question": "Par quel « esprit » le sang de Jérusalem est-il lavé ?",
+    "choices": [
+      "Par l’esprit de justice et par l’esprit de destruction",
+      "Par l’esprit de richesse et par l’esprit de victoire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 4:4 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-128",
+    "book": "Ésaïe",
+    "chapter": 4,
+    "verseRef": "Ésaïe 4:5",
+    "verseText": "Voir Ésaïe 4:5.",
+    "question": "Quel signe lumineux apparaît « la nuit » sur Sion ?",
+    "choices": [
+      "Un éclat de feu flamboyant",
+      "Une obscurité sans lumière"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 4:5 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-129",
+    "book": "Ésaïe",
+    "chapter": 5,
+    "verseRef": "Ésaïe 5:11",
+    "verseText": "Voir Ésaïe 5:11.",
+    "question": "Quelle faute est dénoncée : « se lever dès le matin pour courir après… » ?",
+    "choices": [
+      "Les boissons enivrantes",
+      "Les sacrifices"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 5:11 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-130",
+    "book": "Ésaïe",
+    "chapter": 5,
+    "verseRef": "Ésaïe 5:23",
+    "verseText": "Voir Ésaïe 5:23.",
+    "question": "Quel crime judiciaire est dénoncé pour « un présent » ?",
+    "choices": [
+      "Justifier le méchant et enlever au juste son droit",
+      "Justifier le juste et enlever au méchant sa force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 5:23 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-131",
+    "book": "Ésaïe",
+    "chapter": 5,
+    "verseRef": "Ésaïe 5:27",
+    "verseText": "Voir Ésaïe 5:27.",
+    "question": "Quel signe montre l’absence d’épuisement : « Aucun n’est… » ?",
+    "choices": [
+      "Fatigué ni chancelant",
+      "Muet ni aveugle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 5:27 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-132",
+    "book": "Ésaïe",
+    "chapter": 8,
+    "verseRef": "Ésaïe 8:22",
+    "verseText": "Voir Ésaïe 8:22.",
+    "question": "Qu’est-ce qui obscurcit la lumière dans la détresse finale décrite ?",
+    "choices": [
+      "La lumière est obscurcie par les nuées",
+      "La lumière est multipliée par les étoiles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 8:22 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-133",
+    "book": "Ésaïe",
+    "chapter": 9,
+    "verseRef": "Ésaïe 9:1",
+    "verseText": "Voir Ésaïe 9:1.",
+    "question": "Quelle formule décrit la grande révélation au peuple dans les ténèbres ?",
+    "choices": [
+      "Il a vu une grande lumière",
+      "Il a trouvé une grande épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 9:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-134",
+    "book": "Ésaïe",
+    "chapter": 11,
+    "verseRef": "Ésaïe 11:7",
+    "verseText": "Voir Ésaïe 11:7.",
+    "question": "Dans la paix annoncée, le lion mange comme le boeuf quoi ?",
+    "choices": [
+      "De la paille",
+      "Du froment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 11:7 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-135",
+    "book": "Ésaïe",
+    "chapter": 11,
+    "verseRef": "Ésaïe 11:11",
+    "verseText": "Voir Ésaïe 11:11.",
+    "question": "Quel nom géographique figure dans la liste : « Pathros… » ?",
+    "choices": [
+      "Pathros",
+      "Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 11:11 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-136",
+    "book": "Ésaïe",
+    "chapter": 14,
+    "verseRef": "Ésaïe 14:5",
+    "verseText": "Voir Ésaïe 14:5.",
+    "question": "Quelle expression annonce la chute de l’oppresseur : « L’Éternel brisera… » ?",
+    "choices": [
+      "La verge de celui qui frappait",
+      "La main de celui qui bénissait"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 14:5 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-137",
+    "book": "Ésaïe",
+    "chapter": 13,
+    "verseRef": "Ésaïe 13:19",
+    "verseText": "Voir Ésaïe 13:19.",
+    "question": "Quelle ville est dite : « la gloire des royaumes » mais destinée à être renversée ?",
+    "choices": [
+      "Babylone",
+      "Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 13:19 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-138",
+    "book": "Ésaïe",
+    "chapter": 18,
+    "verseRef": "Ésaïe 18:1",
+    "verseText": "Voir Ésaïe 18:1.",
+    "question": "Quelle contrée est appelée « la terre où retentit le bruit des ailes » ?",
+    "choices": [
+      "L’Éthiopie",
+      "L’Arabie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 18:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-139",
+    "book": "Ésaïe",
+    "chapter": 19,
+    "verseRef": "Ésaïe 19:5",
+    "verseText": "Voir Ésaïe 19:5.",
+    "question": "Quelle affirmation frappe l’Égypte : « Les eaux de la mer… » ?",
+    "choices": [
+      "Tariront",
+      "Déborderont"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 19:5 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-140",
+    "book": "Ésaïe",
+    "chapter": 19,
+    "verseRef": "Ésaïe 19:16",
+    "verseText": "Voir Ésaïe 19:16.",
+    "question": "Quel renversement est dit : « l’Égypte sera… » ?",
+    "choices": [
+      "Comme des femmes",
+      "Comme des rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 19:16 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-141",
+    "book": "Ésaïe",
+    "chapter": 19,
+    "verseRef": "Ésaïe 19:25",
+    "verseText": "Voir Ésaïe 19:25.",
+    "question": "Quelle bénédiction associe l’Égypte, l’Assyrie et Israël ?",
+    "choices": [
+      "« Béni soit l’Égypte, mon peuple… et Israël, mon héritage »",
+      "« Maudit soit l’Égypte… et Israël rejeté »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 19:25 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-142",
+    "book": "Ésaïe",
+    "chapter": 20,
+    "verseRef": "Ésaïe 20:2-3",
+    "verseText": "Voir Ésaïe 20:2-3.",
+    "question": "Quel signe corporel Ésaïe reçoit-il comme message ?",
+    "choices": [
+      "Marcher nu et déchaussé",
+      "Rester voilé et couronné"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 20:2-3 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-143",
+    "book": "Ésaïe",
+    "chapter": 22,
+    "verseRef": "Ésaïe 22:1",
+    "verseText": "Voir Ésaïe 22:1.",
+    "question": "Quel lieu est appelé « la vallée de la vision » ?",
+    "choices": [
+      "Jérusalem",
+      "Damas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 22:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-144",
+    "book": "Ésaïe",
+    "chapter": 22,
+    "verseRef": "Ésaïe 22:19",
+    "verseText": "Voir Ésaïe 22:19.",
+    "question": "Quel homme est déposé : « J’ôterai de sa place… » ?",
+    "choices": [
+      "Schebna",
+      "Éliakim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 22:19 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-145",
+    "book": "Ésaïe",
+    "chapter": 22,
+    "verseRef": "Ésaïe 22:22",
+    "verseText": "Voir Ésaïe 22:22.",
+    "question": "Quelle « clef » est mise sur l’épaule d’Éliakim ?",
+    "choices": [
+      "La clef de la maison de David",
+      "La clef de la maison d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 22:22 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-146",
+    "book": "Ésaïe",
+    "chapter": 23,
+    "verseRef": "Ésaïe 23:15",
+    "verseText": "Voir Ésaïe 23:15.",
+    "question": "Combien de temps Tyr est-elle dite « oubliée » ?",
+    "choices": [
+      "Soixante-dix ans",
+      "Trente ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 23:15 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-147",
+    "book": "Ésaïe",
+    "chapter": 37,
+    "verseRef": "Ésaïe 37:31",
+    "verseText": "Voir Ésaïe 37:31.",
+    "question": "Quel signe de survie est promis au reste : « racines en bas… » et quoi en haut ?",
+    "choices": [
+      "Des fruits",
+      "Des armes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 37:31 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-148",
+    "book": "Ésaïe",
+    "chapter": 37,
+    "verseRef": "Ésaïe 37:35",
+    "verseText": "Voir Ésaïe 37:35.",
+    "question": "Quel motif de protection est donné : « Je protégerai cette ville pour… » ?",
+    "choices": [
+      "La sauver",
+      "La détruire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 37:35 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-149",
+    "book": "Ésaïe",
+    "chapter": 43,
+    "verseRef": "Ésaïe 43:1",
+    "verseText": "Voir Ésaïe 43:1.",
+    "question": "Quelle phrase exprime l’appropriation divine : « Je t’ai appelé par ton nom… » ?",
+    "choices": [
+      "« Tu es à moi »",
+      "« Tu es à eux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 43:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-150",
+    "book": "Ésaïe",
+    "chapter": 43,
+    "verseRef": "Ésaïe 43:22",
+    "verseText": "Voir Ésaïe 43:22.",
+    "question": "Quel reproche est dit : « Tu ne m’as pas invoqué… » ?",
+    "choices": [
+      "Ô Jacob",
+      "Ô Édom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 43:22 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-151",
+    "book": "Ésaïe",
+    "chapter": 43,
+    "verseRef": "Ésaïe 43:18",
+    "verseText": "Voir Ésaïe 43:18.",
+    "question": "Quel ordre de mémoire est donné : « Ne pensez plus aux… » ?",
+    "choices": [
+      "Premiers événements",
+      "Nouveaux événements"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 43:18 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-152",
+    "book": "Ésaïe",
+    "chapter": 43,
+    "verseRef": "Ésaïe 43:19",
+    "verseText": "Voir Ésaïe 43:19.",
+    "question": "Quel acte créateur est annoncé : « Voici, je vais faire… » ?",
+    "choices": [
+      "Une chose nouvelle",
+      "Une chose ancienne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 43:19 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-153",
+    "book": "Ésaïe",
+    "chapter": 44,
+    "verseRef": "Ésaïe 44:20",
+    "verseText": "Voir Ésaïe 44:20.",
+    "question": "De quoi l’idolâtre « se repaît-il » ?",
+    "choices": [
+      "De cendre",
+      "De miel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 44:20 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-154",
+    "book": "Ésaïe",
+    "chapter": 44,
+    "verseRef": "Ésaïe 44:8",
+    "verseText": "Voir Ésaïe 44:8.",
+    "question": "Quelle question ferme la porte à toute rivalité divine ?",
+    "choices": [
+      "« Y a-t-il un autre Dieu que moi ? »",
+      "« Y a-t-il un autre roi que moi ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 44:8 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-155",
+    "book": "Ésaïe",
+    "chapter": 48,
+    "verseRef": "Ésaïe 48:20",
+    "verseText": "Voir Ésaïe 48:20.",
+    "question": "Quel appel à l’exil est donné : « Sortez de… » ?",
+    "choices": [
+      "Babylone",
+      "Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 48:20 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-156",
+    "book": "Ésaïe",
+    "chapter": 46,
+    "verseRef": "Ésaïe 46:1-4",
+    "verseText": "Voir Ésaïe 46:1-4.",
+    "question": "Quel contraste essentiel oppose Dieu et les idoles ?",
+    "choices": [
+      "Dieu porte, les idoles sont portées",
+      "Dieu est porté, les idoles portent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 46:1-4 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-157",
+    "book": "Ésaïe",
+    "chapter": 46,
+    "verseRef": "Ésaïe 46:4",
+    "verseText": "Voir Ésaïe 46:4.",
+    "question": "Quel engagement de Dieu sur la durée est formulé : « Jusqu’à votre vieillesse… » ?",
+    "choices": [
+      "« Je serai le même, je vous porterai »",
+      "« Je changerai, je vous délaisserai »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 46:4 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-158",
+    "book": "Ésaïe",
+    "chapter": 47,
+    "verseRef": "Ésaïe 47:1",
+    "verseText": "Voir Ésaïe 47:1.",
+    "question": "Quel ordre humiliant est donné à Babylone : « Descends et assieds-toi… » ?",
+    "choices": [
+      "Dans la poussière",
+      "Sur un trône"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 47:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-159",
+    "book": "Ésaïe",
+    "chapter": 47,
+    "verseRef": "Ésaïe 47:5",
+    "verseText": "Voir Ésaïe 47:5.",
+    "question": "Quel titre est attribué à Babylone : « Je suis… » et il est dit dans le passage suivant : « tu n’es plus appelée… » ?",
+    "choices": [
+      "« la maîtresse des royaumes »",
+      "« la servante des tribus »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 47:5 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-160",
+    "book": "Ésaïe",
+    "chapter": 47,
+    "verseRef": "Ésaïe 47:7",
+    "verseText": "Voir Ésaïe 47:7.",
+    "question": "Quel reproche explique l’aveuglement : « Tu n’as point pensé… » ?",
+    "choices": [
+      "À la fin",
+      "À la paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 47:7 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-161",
+    "book": "Ésaïe",
+    "chapter": 51,
+    "verseRef": "Ésaïe 51:9",
+    "verseText": "Voir Ésaïe 51:9.",
+    "question": "Quel cri est adressé au « bras de l’Éternel » ?",
+    "choices": [
+      "« Réveille-toi, réveille-toi, revêts-toi de force »",
+      "« Endors-toi, endors-toi, cache-toi de honte »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 51:9 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-162",
+    "book": "Ésaïe",
+    "chapter": 51,
+    "verseRef": "Ésaïe 51:3",
+    "verseText": "Voir Ésaïe 51:3.",
+    "question": "Quelle promesse de consolation est donnée à Sion ?",
+    "choices": [
+      "Joie et allégresse s’y trouveront",
+      "Deuil et tristesse s’y multiplient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 51:3 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-163",
+    "book": "Ésaïe",
+    "chapter": 51,
+    "verseRef": "Ésaïe 51:17",
+    "verseText": "Voir Ésaïe 51:17.",
+    "question": "Quelle coupe Jérusalem a-t-elle bue ?",
+    "choices": [
+      "La coupe de sa colère",
+      "La coupe de sa joie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 51:17 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-164",
+    "book": "Ésaïe",
+    "chapter": 51,
+    "verseRef": "Ésaïe 51:6",
+    "verseText": "Voir Ésaïe 51:6.",
+    "question": "Quelle promesse est faite : « Ma justice… » ?",
+    "choices": [
+      "Ne sera point abolie",
+      "S’éteindra bientôt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 51:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-165",
+    "book": "Ésaïe",
+    "chapter": 66,
+    "verseRef": "Ésaïe 66:3",
+    "verseText": "Voir Ésaïe 66:3.",
+    "question": "Quel parallèle choquant est donné : « tuer un boeuf comme… » ?",
+    "choices": [
+      "Tuer un homme",
+      "Tuer un agneau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 66:3 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-166",
+    "book": "Ésaïe",
+    "chapter": 66,
+    "verseRef": "Ésaïe 66:4",
+    "verseText": "Voir Ésaïe 66:4.",
+    "question": "Quelle plainte divine résume le refus d’écoute : « J’ai appelé, et… » ?",
+    "choices": [
+      "Personne n’a répondu",
+      "Tous ont répondu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 66:4 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-167",
+    "book": "Ésaïe",
+    "chapter": 66,
+    "verseRef": "Ésaïe 66:7",
+    "verseText": "Voir Ésaïe 66:7.",
+    "question": "Quel fait saisissant est annoncé avant les douleurs ?",
+    "choices": [
+      "Elle a enfanté",
+      "Elle a péri"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 66:7 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-168",
+    "book": "Ésaïe",
+    "chapter": 66,
+    "verseRef": "Ésaïe 66:8",
+    "verseText": "Voir Ésaïe 66:8.",
+    "question": "Quelle question montre l’instantanéité : « un pays est-il enfanté… » ?",
+    "choices": [
+      "En un seul jour",
+      "En une seule année"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 66:8 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-169",
+    "book": "Ésaïe",
+    "chapter": 66,
+    "verseRef": "Ésaïe 66:13",
+    "verseText": "Voir Ésaïe 66:13.",
+    "question": "Quel type de consolation est promis : « Comme un homme que sa mère console… » ?",
+    "choices": [
+      "Dieu consolera son peuple",
+      "Dieu oubliera son peuple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 66:13 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-170",
+    "book": "Ésaïe",
+    "chapter": 66,
+    "verseRef": "Ésaïe 66:22",
+    "verseText": "Voir Ésaïe 66:22.",
+    "question": "Que dit Dieu de sa création finale : « les nouveaux cieux… » ?",
+    "choices": [
+      "Ils subsisteront devant lui",
+      "Ils disparaîtront devant lui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 66:22 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-171",
+    "book": "Ésaïe",
+    "chapter": 43,
+    "verseRef": "Ésaïe 43:24",
+    "verseText": "Voir Ésaïe 43:24.",
+    "question": "Quel reproche vise le peuple : « vous me fatiguez… » avec quoi ?",
+    "choices": [
+      "Vos iniquités",
+      "Vos louanges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 43:24 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-172",
+    "book": "Ésaïe",
+    "chapter": 2,
+    "verseRef": "Ésaïe 2:11",
+    "verseText": "Voir Ésaïe 2:11.",
+    "question": "Quel avertissement est donné contre l’orgueil : « L’homme au regard hautain… » ?",
+    "choices": [
+      "Sera abaissé",
+      "Sera exalté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 2:11 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-173",
+    "book": "Ésaïe",
+    "chapter": 8,
+    "verseRef": "Ésaïe 8:13",
+    "verseText": "Voir Ésaïe 8:13.",
+    "question": "Quel nom de Dieu est associé à l’ordre : « Sanctifiez… » ?",
+    "choices": [
+      "L’Éternel des armées",
+      "Les dieux des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 8:13 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-174",
+    "book": "Ésaïe",
+    "chapter": 28,
+    "verseRef": "Ésaïe 28:15",
+    "verseText": "Voir Ésaïe 28:15.",
+    "question": "Quel refuge est condamné : « vous dites : Nous avons fait… » avec la mort ?",
+    "choices": [
+      "Une alliance",
+      "Une guerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 28:15 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-175",
+    "book": "Ésaïe",
+    "chapter": 28,
+    "verseRef": "Ésaïe 28:16",
+    "verseText": "Voir Ésaïe 28:16.",
+    "question": "Quelle promesse de fondation vraie répond à ce faux refuge ?",
+    "choices": [
+      "Une pierre éprouvée, une pierre angulaire précieuse",
+      "Une épée éprouvée, une armée invincible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 28:16 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-176",
+    "book": "Ésaïe",
+    "chapter": 28,
+    "verseRef": "Ésaïe 28:16",
+    "verseText": "Voir Ésaïe 28:16.",
+    "question": "Quel principe est donné : « Celui qui croit… » fera quoi ?",
+    "choices": [
+      "Ne se hâtera pas",
+      "S’enfuira vite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 28:16 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-177",
+    "book": "Ésaïe",
+    "chapter": 47,
+    "verseRef": "Ésaïe 47:12-15",
+    "verseText": "Voir Ésaïe 47:12-15.",
+    "question": "Quelle annonce condamne la magie de Babylone : « tes enchantements… » feront quoi ?",
+    "choices": [
+      "Ne pourront te sauver",
+      "Te sauveront sûrement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 47:12-15 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-178",
+    "book": "Ésaïe",
+    "chapter": 46,
+    "verseRef": "Ésaïe 46:9",
+    "verseText": "Voir Ésaïe 46:9.",
+    "question": "Quel contraste est proclamé : « Je suis Dieu… » et « il n’y en a point… » ?",
+    "choices": [
+      "D’autre",
+      "De meilleur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 46:9 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-179",
+    "book": "Ésaïe",
+    "chapter": 48,
+    "verseRef": "Ésaïe 48:20",
+    "verseText": "Voir Ésaïe 48:20.",
+    "question": "Quel ordre de proclamation accompagne la sortie de Babylone ?",
+    "choices": [
+      "Publiez-le, faites-le savoir jusqu’au bout de la terre",
+      "Cachez-le, ne le dites pas aux nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 48:20 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-180",
+    "book": "Ésaïe",
+    "chapter": 66,
+    "verseRef": "Ésaïe 66:24",
+    "verseText": "Voir Ésaïe 66:24.",
+    "question": "Quel jugement final résume la fin des rebelles : « leur ver… » et « leur feu… » ?",
+    "choices": [
+      "« leur ver ne mourra point, et leur feu ne s’éteindra point »",
+      "« leur ver mourra vite, et leur feu s’éteindra tôt »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 66:24 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-181",
+    "book": "Ésaïe",
+    "chapter": 10,
+    "verseRef": "Ésaïe 10:1",
+    "verseText": "Voir Ésaïe 10:1.",
+    "question": "Quel jugement vise les législateurs iniques ?",
+    "choices": [
+      "« Malheur à ceux qui prononcent des ordonnances iniques »",
+      "« Heureux ceux qui prononcent des ordonnances iniques »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 10:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-182",
+    "book": "Ésaïe",
+    "chapter": 10,
+    "verseRef": "Ésaïe 10:2",
+    "verseText": "Voir Ésaïe 10:2.",
+    "question": "Selon l’accusation, à qui enlève-t-on la justice par ces décrets ?",
+    "choices": [
+      "Aux pauvres de mon peuple",
+      "Aux rois des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 10:2 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-183",
+    "book": "Ésaïe",
+    "chapter": 10,
+    "verseRef": "Ésaïe 10:27",
+    "verseText": "Voir Ésaïe 10:27.",
+    "question": "Quel événement met fin au joug de l’oppresseur ?",
+    "choices": [
+      "« Le joug sera brisé »",
+      "« Le joug sera consacré »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 10:27 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-184",
+    "book": "Ésaïe",
+    "chapter": 26,
+    "verseRef": "Ésaïe 26:20",
+    "verseText": "Voir Ésaïe 26:20.",
+    "question": "En temps d’indignation, quel geste est ordonné comme protection ?",
+    "choices": [
+      "« Entre dans tes chambres, et ferme tes portes derrière toi »",
+      "« Sors sur les places, et crie sans cesse »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 26:20 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-185",
+    "book": "Ésaïe",
+    "chapter": 25,
+    "verseRef": "Ésaïe 25:8",
+    "verseText": "Voir Ésaïe 25:8.",
+    "question": "Quelle réalité Dieu « anéantit » selon la promesse ?",
+    "choices": [
+      "« La mort pour toujours »",
+      "« La paix pour toujours »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 25:8 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-186",
+    "book": "Ésaïe",
+    "chapter": 29,
+    "verseRef": "Ésaïe 29:13",
+    "verseText": "Voir Ésaïe 29:13.",
+    "question": "Quelle formule dénonce un culte sans coeur ?",
+    "choices": [
+      "« Ce peuple m’honore des lèvres »",
+      "« Ce peuple m’honore de tout son coeur »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 29:13 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-187",
+    "book": "Ésaïe",
+    "chapter": 32,
+    "verseRef": "Ésaïe 32:17",
+    "verseText": "Voir Ésaïe 32:17.",
+    "question": "Quel fruit la justice produit-elle explicitement ?",
+    "choices": [
+      "« La paix »",
+      "« La confusion »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 32:17 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-188",
+    "book": "Ésaïe",
+    "chapter": 33,
+    "verseRef": "Ésaïe 33:22",
+    "verseText": "Voir Ésaïe 33:22.",
+    "question": "Quel ensemble de titres est attribué à l’Éternel dans une même phrase ?",
+    "choices": [
+      "« Notre juge, notre législateur, notre roi »",
+      "« Notre marchand, notre soldat, notre chef »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 33:22 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-189",
+    "book": "Ésaïe",
+    "chapter": 31,
+    "verseRef": "Ésaïe 31:1",
+    "verseText": "Voir Ésaïe 31:1.",
+    "question": "Quelle attitude est condamnée : chercher du secours où ?",
+    "choices": [
+      "En Égypte",
+      "En Sion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 31:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-190",
+    "book": "Ésaïe",
+    "chapter": 45,
+    "verseRef": "Ésaïe 45:15",
+    "verseText": "Voir Ésaïe 45:15.",
+    "question": "Quel paradoxe est affirmé sur Dieu ?",
+    "choices": [
+      "« Tu es un Dieu qui te caches »",
+      "« Tu es un Dieu qui te contredis »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 45:15 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-191",
+    "book": "Ésaïe",
+    "chapter": 45,
+    "verseRef": "Ésaïe 45:9",
+    "verseText": "Voir Ésaïe 45:9.",
+    "question": "Quelle admonestation vise l’orgueil du créé envers le Créateur ?",
+    "choices": [
+      "« Malheur à celui qui conteste avec son Créateur »",
+      "« Heureux celui qui conteste avec son Créateur »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 45:9 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-192",
+    "book": "Ésaïe",
+    "chapter": 45,
+    "verseRef": "Ésaïe 45:9",
+    "verseText": "Voir Ésaïe 45:9.",
+    "question": "Dans l’image du potier, quelle réplique insolente est citée ?",
+    "choices": [
+      "« Que fais-tu ? »",
+      "« Que vaux-tu ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 45:9 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-193",
+    "book": "Ésaïe",
+    "chapter": 65,
+    "verseRef": "Ésaïe 65:24",
+    "verseText": "Voir Ésaïe 65:24.",
+    "question": "Quelle promesse de Dieu est formulée : « Avant qu’ils m’invoquent… » ?",
+    "choices": [
+      "« Je répondrai »",
+      "« Je condamnerai »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 65:24 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-194",
+    "book": "Ésaïe",
+    "chapter": 65,
+    "verseRef": "Ésaïe 65:5",
+    "verseText": "Voir Ésaïe 65:5.",
+    "question": "Quel propos orgueilleux est cité chez certains hypocrites ?",
+    "choices": [
+      "« Touche-moi ! car je suis saint ! »",
+      "« Touche-moi ! car je suis faible ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 65:5 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-195",
+    "book": "Ésaïe",
+    "chapter": 64,
+    "verseRef": "Ésaïe 64:8",
+    "verseText": "Voir Ésaïe 64:8.",
+    "question": "Quel lien familial est affirmé : « Tu es notre… » et Dieu notre « potier » ?",
+    "choices": [
+      "Père",
+      "Ennemi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 64:8 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-196",
+    "book": "Ésaïe",
+    "chapter": 45,
+    "verseRef": "Ésaïe 45:19",
+    "verseText": "Voir Ésaïe 45:19.",
+    "question": "Quelle affirmation réfute la recherche « en vain » ?",
+    "choices": [
+      "« Je n’ai point dit… : Cherchez-moi en vain ! »",
+      "« J’ai dit… : Cherchez-moi en vain ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 45:19 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-197",
+    "book": "Ésaïe",
+    "chapter": 24,
+    "verseRef": "Ésaïe 24:1",
+    "verseText": "Voir Ésaïe 24:1.",
+    "question": "Dans Ésaïe 24, que fait l’Éternel à la terre au début de l’oracle ?",
+    "choices": [
+      "« Il la dévaste et la rend déserte »",
+      "« Il la fortifie et la remplit »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 24:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-198",
+    "book": "Ésaïe",
+    "chapter": 55,
+    "verseRef": "Ésaïe 55:6",
+    "verseText": "Voir Ésaïe 55:6.",
+    "question": "Quel appel est donné concernant la recherche de Dieu ?",
+    "choices": [
+      "« Cherchez l’Éternel pendant qu’il se laisse trouver »",
+      "« Cherchez l’Éternel après qu’il s’est retiré »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 55:6 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-199",
+    "book": "Ésaïe",
+    "chapter": 55,
+    "verseRef": "Ésaïe 55:9",
+    "verseText": "Voir Ésaïe 55:9.",
+    "question": "Quel niveau de comparaison est donné pour les voies de Dieu ?",
+    "choices": [
+      "« Comme les cieux sont élevés au-dessus de la terre »",
+      "« Comme la terre est élevée au-dessus des cieux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 55:9 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-200",
+    "book": "Ésaïe",
+    "chapter": 65,
+    "verseRef": "Ésaïe 65:24",
+    "verseText": "Voir Ésaïe 65:24.",
+    "question": "Quel acte de Dieu est assuré avant même la prière ?",
+    "choices": [
+      "Répondre",
+      "Oublier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 65:24 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-201",
+    "book": "Ésaïe",
+    "chapter": 15,
+    "verseRef": "Ésaïe 15:1",
+    "verseText": "Voir Ésaïe 15:1.",
+    "question": "Dans le livre d'Ésaïe, quelle référence correspond au premier verset du chapitre 15 ?",
+    "choices": [
+      "Ésaïe 15:1",
+      "Ésaïe 16:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 15:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-202",
+    "book": "Ésaïe",
+    "chapter": 16,
+    "verseRef": "Ésaïe 16:1",
+    "verseText": "Voir Ésaïe 16:1.",
+    "question": "Dans le livre d'Ésaïe, quelle référence correspond au premier verset du chapitre 16 ?",
+    "choices": [
+      "Ésaïe 16:1",
+      "Ésaïe 17:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 16:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-203",
+    "book": "Ésaïe",
+    "chapter": 17,
+    "verseRef": "Ésaïe 17:1",
+    "verseText": "Voir Ésaïe 17:1.",
+    "question": "Dans le livre d'Ésaïe, quelle référence correspond au premier verset du chapitre 17 ?",
+    "choices": [
+      "Ésaïe 17:1",
+      "Ésaïe 18:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 17:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-204",
+    "book": "Ésaïe",
+    "chapter": 21,
+    "verseRef": "Ésaïe 21:1",
+    "verseText": "Voir Ésaïe 21:1.",
+    "question": "Dans le livre d'Ésaïe, quelle référence correspond au premier verset du chapitre 21 ?",
+    "choices": [
+      "Ésaïe 21:1",
+      "Ésaïe 22:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 21:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-205",
+    "book": "Ésaïe",
+    "chapter": 27,
+    "verseRef": "Ésaïe 27:1",
+    "verseText": "Voir Ésaïe 27:1.",
+    "question": "Dans le livre d'Ésaïe, quelle référence correspond au premier verset du chapitre 27 ?",
+    "choices": [
+      "Ésaïe 27:1",
+      "Ésaïe 28:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 27:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-206",
+    "book": "Ésaïe",
+    "chapter": 30,
+    "verseRef": "Ésaïe 30:1",
+    "verseText": "Voir Ésaïe 30:1.",
+    "question": "Dans le livre d'Ésaïe, quelle référence correspond au premier verset du chapitre 30 ?",
+    "choices": [
+      "Ésaïe 30:1",
+      "Ésaïe 31:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 30:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-207",
+    "book": "Ésaïe",
+    "chapter": 34,
+    "verseRef": "Ésaïe 34:1",
+    "verseText": "Voir Ésaïe 34:1.",
+    "question": "Dans le livre d'Ésaïe, quelle référence correspond au premier verset du chapitre 34 ?",
+    "choices": [
+      "Ésaïe 34:1",
+      "Ésaïe 35:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 34:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-208",
+    "book": "Ésaïe",
+    "chapter": 36,
+    "verseRef": "Ésaïe 36:1",
+    "verseText": "Voir Ésaïe 36:1.",
+    "question": "Dans le livre d'Ésaïe, quelle référence correspond au premier verset du chapitre 36 ?",
+    "choices": [
+      "Ésaïe 36:1",
+      "Ésaïe 37:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 36:1 (LSG 1910)."
+  },
+  {
+    "id": "esaie-D-209",
+    "book": "Ésaïe",
+    "chapter": 42,
+    "verseRef": "Ésaïe 42:1",
+    "verseText": "Voir Ésaïe 42:1.",
+    "question": "Dans le livre d'Ésaïe, quelle référence correspond au premier verset du chapitre 42 ?",
+    "choices": [
+      "Ésaïe 42:1",
+      "Ésaïe 43:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 42:1 (LSG 1910)."
+  }
+]

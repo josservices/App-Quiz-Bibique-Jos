@@ -1,0 +1,902 @@
+[
+  {
+    "id": "abdias-N-001",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:1",
+    "verseText": "Voir Abdias 1:1.",
+    "question": "Sur quel peuple porte la parole annoncée par Abdias ?",
+    "choices": [
+      "Moab",
+      "Édom",
+      "Ammon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:1 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-002",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:1",
+    "verseText": "Voir Abdias 1:1.",
+    "question": "Qui a été envoyé parmi les nations selon la prophétie ?",
+    "choices": [
+      "Un roi",
+      "Un messager",
+      "Un prêtre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:1 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-003",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:1",
+    "verseText": "Voir Abdias 1:1.",
+    "question": "Quel appel est lancé aux nations contre Édom ?",
+    "choices": [
+      "« Faites alliance avec Édom »",
+      "« Levez-vous, marchons contre Édom pour lui faire la guerre »",
+      "« Fuyez loin d’Édom »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:1 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-004",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:2",
+    "verseText": "Voir Abdias 1:2.",
+    "question": "Que dit l’Éternel qu’il rendra Édom parmi les nations ?",
+    "choices": [
+      "Grand",
+      "Petit",
+      "Invincible"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:2 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-005",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:2",
+    "verseText": "Voir Abdias 1:2.",
+    "question": "De quoi Édom sera-t-il l’objet ?",
+    "choices": [
+      "Du plus grand mépris",
+      "D’une grande bénédiction",
+      "D’une longue paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:2 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-006",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:3",
+    "verseText": "Voir Abdias 1:3.",
+    "question": "Qu’est-ce qui a égaré Édom selon le texte ?",
+    "choices": [
+      "La peur de la famine",
+      "L’orgueil de son cœur",
+      "La force de ses ennemis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:3 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-007",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:3",
+    "verseText": "Voir Abdias 1:3.",
+    "question": "Où Édom est-il décrit comme habitant ?",
+    "choices": [
+      "Dans les vallées fertiles",
+      "Dans le creux des rochers",
+      "Au bord d’un grand fleuve"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:3 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-008",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:3",
+    "verseText": "Voir Abdias 1:3.",
+    "question": "Où Édom “s’assied-il” selon l’expression du verset ?",
+    "choices": [
+      "Sur les hauteurs",
+      "Sous les arbres",
+      "Dans les plaines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:3 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-009",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:3",
+    "verseText": "Voir Abdias 1:3.",
+    "question": "Quelle question Édom dit-il en lui-même ?",
+    "choices": [
+      "« Qui me donnera du pain ? »",
+      "« Qui me précipitera jusqu’à terre ? »",
+      "« Qui me vengera ? »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:3 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-010",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:3-4",
+    "verseText": "Voir Abdias 1:3-4.",
+    "question": "Jusqu’où l’Éternel dit-il pouvoir précipiter Édom même s’il s’élève ?",
+    "choices": [
+      "Dans la mer",
+      "Jusqu’à terre",
+      "Dans le désert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:3-4 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-011",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:4",
+    "verseText": "Voir Abdias 1:4.",
+    "question": "À quoi est comparée la hauteur du “nid” dans l’image du verset ?",
+    "choices": [
+      "Au cèdre",
+      "À l’aigle",
+      "Au lion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:4 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-012",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:4",
+    "verseText": "Voir Abdias 1:4.",
+    "question": "Même si Édom place son nid “parmi” quoi, l’Éternel le précipitera ?",
+    "choices": [
+      "Les montagnes",
+      "Les étoiles",
+      "Les mers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:4 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-013",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:5",
+    "verseText": "Voir Abdias 1:5.",
+    "question": "Qui est mentionné comme venant “de nuit” dans l’exemple du texte ?",
+    "choices": [
+      "Des voleurs, des pillards",
+      "Des prophètes, des sages",
+      "Des rois, des juges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:5 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-014",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:5",
+    "verseText": "Voir Abdias 1:5.",
+    "question": "Les vendangeurs laissent-ils “rien à grappiller” selon la question du verset ?",
+    "choices": [
+      "Oui, toujours",
+      "Non, ils ne laissent rien à grappiller",
+      "Le texte ne parle pas de vendangeurs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:5 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-015",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:6",
+    "verseText": "Voir Abdias 1:6.",
+    "question": "Qui est nommé lorsque le texte s’écrie : « Ah ! comme … est fouillé ! » ?",
+    "choices": [
+      "Jacob",
+      "Ésaü",
+      "Joseph"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:6 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-016",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:6",
+    "verseText": "Voir Abdias 1:6.",
+    "question": "Que devient-il des “trésors” d’Ésaü dans le verset ?",
+    "choices": [
+      "Ils sont cachés",
+      "Ils sont découverts",
+      "Ils sont brûlés"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:6 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-017",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:7",
+    "verseText": "Voir Abdias 1:7.",
+    "question": "Jusqu’où les alliés d’Édom l’ont-ils chassé ?",
+    "choices": [
+      "Jusqu’à la mer",
+      "Jusqu’à la frontière",
+      "Jusqu’à Jérusalem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:7 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-018",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:7",
+    "verseText": "Voir Abdias 1:7.",
+    "question": "Que font “tes amis” selon le texte ?",
+    "choices": [
+      "Ils t’ont fortifié",
+      "Ils t’ont joué, t’ont dominé",
+      "Ils t’ont consacré roi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:7 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-019",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:7",
+    "verseText": "Voir Abdias 1:7.",
+    "question": "Qui a dressé des pièges à Édom selon le verset ?",
+    "choices": [
+      "Ceux qui mangeaient ton pain",
+      "Ceux qui buvaient ton eau",
+      "Ceux qui portaient ton bouclier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:7 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-020",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:7",
+    "verseText": "Voir Abdias 1:7.",
+    "question": "Qu’est-ce qu’Édom “n’a pas su” faire à propos des pièges ?",
+    "choices": [
+      "S’en apercevoir",
+      "Les détruire",
+      "Les dénoncer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:7 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-021",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:8",
+    "verseText": "Voir Abdias 1:8.",
+    "question": "Que l’Éternel dit-il faire disparaître d’Édom “en ce jour” ?",
+    "choices": [
+      "Les guerriers",
+      "Les sages",
+      "Les troupeaux"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:8 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-022",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:8",
+    "verseText": "Voir Abdias 1:8.",
+    "question": "De quelle montagne l’Éternel dit-il faire disparaître “l’intelligence” ?",
+    "choices": [
+      "De la montagne de Sion",
+      "De la montagne d’Ésaü",
+      "De la montagne de Samarie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:8 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-023",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:9",
+    "verseText": "Voir Abdias 1:9.",
+    "question": "Quel nom est donné aux guerriers d’Édom dans l’adresse du texte ?",
+    "choices": [
+      "Ô Théman",
+      "Ô Sarepta",
+      "Ô Sepharad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:9 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-024",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:9",
+    "verseText": "Voir Abdias 1:9.",
+    "question": "Dans quel état seront les guerriers de Théman ?",
+    "choices": [
+      "Dans l’épouvante",
+      "Dans la joie",
+      "Dans l’abondance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:9 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-025",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:9",
+    "verseText": "Voir Abdias 1:9.",
+    "question": "Pourquoi ceux de la montagne d’Ésaü périront-ils ?",
+    "choices": [
+      "Dans le carnage",
+      "Dans la famine",
+      "Dans l’exil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:9 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-026",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:10",
+    "verseText": "Voir Abdias 1:10.",
+    "question": "Contre qui Édom a-t-il exercé sa violence ?",
+    "choices": [
+      "Son frère Jacob",
+      "Le roi de Juda",
+      "Les Philistins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:10 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-027",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:10",
+    "verseText": "Voir Abdias 1:10.",
+    "question": "De quoi Édom sera-t-il couvert à cause de cette violence ?",
+    "choices": [
+      "De richesses",
+      "De honte",
+      "De gloire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:10 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-028",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:10",
+    "verseText": "Voir Abdias 1:10.",
+    "question": "Que sera Édom “pour toujours” selon le verset ?",
+    "choices": [
+      "Couronné",
+      "Exterminé",
+      "Épargné"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:10 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-029",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:11",
+    "verseText": "Voir Abdias 1:11.",
+    "question": "Le jour où des étrangers emmenaient captive quelle chose ?",
+    "choices": [
+      "Son trésor",
+      "Son armée",
+      "Son roi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:11 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-030",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:11",
+    "verseText": "Voir Abdias 1:11.",
+    "question": "Où des étrangers entraient-ils ?",
+    "choices": [
+      "Dans ses palais",
+      "Dans ses portes",
+      "Dans ses champs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:11 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-031",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:11",
+    "verseText": "Voir Abdias 1:11.",
+    "question": "Sur quelle ville les étrangers jetaient-ils le sort ?",
+    "choices": [
+      "Samarie",
+      "Jérusalem",
+      "Béthel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:11 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-032",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:11",
+    "verseText": "Voir Abdias 1:11.",
+    "question": "Comment Édom est-il décrit “ce jour-là” face à ces étrangers ?",
+    "choices": [
+      "Comme l’un d’eux",
+      "Comme un libérateur",
+      "Comme un juge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:11 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-033",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:12",
+    "verseText": "Voir Abdias 1:12.",
+    "question": "Que ne doit pas faire Édom au jour du malheur de son frère ?",
+    "choices": [
+      "Se repentir",
+      "Se réjouir sur les enfants de Juda",
+      "Envoyer du pain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:12 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-034",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:12",
+    "verseText": "Voir Abdias 1:12.",
+    "question": "Que dit le texte à propos de la “grande bouche” ?",
+    "choices": [
+      "« Ouvre une grande bouche »",
+      "« N’ouvre pas une grande bouche »",
+      "« Ferme tes portes »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:12 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-035",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:13",
+    "verseText": "Voir Abdias 1:13.",
+    "question": "Que ne doit pas faire Édom au jour de la ruine du peuple de Dieu ?",
+    "choices": [
+      "Entrer dans les portes de mon peuple",
+      "Prier à Sion",
+      "Chercher les sages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:13 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-036",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:13",
+    "verseText": "Voir Abdias 1:13.",
+    "question": "Que ne doit pas faire Édom “sur ses richesses” ?",
+    "choices": [
+      "Les bénir",
+      "Porter la main",
+      "Les cacher"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:13 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-037",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:14",
+    "verseText": "Voir Abdias 1:14.",
+    "question": "Où Édom ne doit-il pas se tenir pour exterminer les fuyards ?",
+    "choices": [
+      "Au carrefour",
+      "À la porte du temple",
+      "Sur la montagne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:14 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-038",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:14",
+    "verseText": "Voir Abdias 1:14.",
+    "question": "Que ne doit-il pas faire aux “réchappés” ?",
+    "choices": [
+      "Les couronner",
+      "Les livrer",
+      "Les enseigner"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:14 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-039",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:15",
+    "verseText": "Voir Abdias 1:15.",
+    "question": "Le “jour de l’Éternel” est décrit comme proche pour qui ?",
+    "choices": [
+      "Pour Juda seulement",
+      "Pour toutes les nations",
+      "Pour Édom seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:15 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-040",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:15",
+    "verseText": "Voir Abdias 1:15.",
+    "question": "« Il te sera fait comme tu as fait » s’adresse à quel peuple dans le contexte ?",
+    "choices": [
+      "Édom",
+      "Israël",
+      "Philistie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:15 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-041",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:15",
+    "verseText": "Voir Abdias 1:15.",
+    "question": "Où les œuvres retomberont-elles selon le texte ?",
+    "choices": [
+      "Sur ta tête",
+      "Sur ta maison",
+      "Sur tes champs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:15 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-042",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:16",
+    "verseText": "Voir Abdias 1:16.",
+    "question": "Où le texte dit-il : « comme vous avez bu » ?",
+    "choices": [
+      "Sur ma montagne sainte",
+      "Sur le Jourdain",
+      "Dans le désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:16 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-043",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:16",
+    "verseText": "Voir Abdias 1:16.",
+    "question": "Que feront toutes les nations “sans cesse” ?",
+    "choices": [
+      "Elles dormiront",
+      "Elles boiront",
+      "Elles bâtiront"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:16 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-044",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:16",
+    "verseText": "Voir Abdias 1:16.",
+    "question": "Après “elles boiront”, que dit encore le verset ?",
+    "choices": [
+      "Elles se tairont",
+      "Elles avaleront",
+      "Elles se repentiront"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:16 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-045",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:16",
+    "verseText": "Voir Abdias 1:16.",
+    "question": "À quoi les nations seront-elles comparées à la fin du verset 16 ?",
+    "choices": [
+      "Comme si elles n’avaient jamais été",
+      "Comme des rois puissants",
+      "Comme des montagnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:16 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-046",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:17",
+    "verseText": "Voir Abdias 1:17.",
+    "question": "Où le salut sera-t-il selon la prophétie ?",
+    "choices": [
+      "Sur la montagne de Sion",
+      "Sur la montagne d’Ésaü",
+      "Sur le pays des Philistins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:17 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-047",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:17",
+    "verseText": "Voir Abdias 1:17.",
+    "question": "Que sera la montagne de Sion selon le texte ?",
+    "choices": [
+      "Dévastée",
+      "Sainte",
+      "Muette"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:17 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-048",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:17",
+    "verseText": "Voir Abdias 1:17.",
+    "question": "Que reprendra la maison de Jacob ?",
+    "choices": [
+      "Ses possessions",
+      "Ses idoles",
+      "Ses palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:17 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-049",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:18",
+    "verseText": "Voir Abdias 1:18.",
+    "question": "À quoi la maison de Jacob est-elle comparée ?",
+    "choices": [
+      "À un feu",
+      "À de l’eau",
+      "À de l’argile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:18 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-050",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:18",
+    "verseText": "Voir Abdias 1:18.",
+    "question": "À quoi la maison de Joseph est-elle comparée ?",
+    "choices": [
+      "À une épée",
+      "À une flamme",
+      "À une pierre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:18 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-051",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:18",
+    "verseText": "Voir Abdias 1:18.",
+    "question": "À quoi la maison d’Ésaü est-elle comparée ?",
+    "choices": [
+      "À du chaume",
+      "À de l’or",
+      "À du cèdre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:18 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-052",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:18",
+    "verseText": "Voir Abdias 1:18.",
+    "question": "Que fera-t-il de la maison d’Ésaü, selon l’annonce ?",
+    "choices": [
+      "Elle s’élèvera",
+      "Elle sera consumée",
+      "Elle sera couronnée"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:18 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-053",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:18",
+    "verseText": "Voir Abdias 1:18.",
+    "question": "Que restera-t-il de la maison d’Ésaü ?",
+    "choices": [
+      "Beaucoup",
+      "Rien",
+      "Une partie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Abdias 1:18 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-054",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:19",
+    "verseText": "Voir Abdias 1:19.",
+    "question": "Qui posséderont la montagne d’Ésaü ?",
+    "choices": [
+      "Ceux du midi",
+      "Ceux de Sepharad",
+      "Ceux de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:19 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-055",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:19",
+    "verseText": "Voir Abdias 1:19.",
+    "question": "Qui posséderont le pays des Philistins ?",
+    "choices": [
+      "Ceux de la plaine",
+      "Ceux du midi",
+      "Ceux de Théman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:19 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-056",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:19",
+    "verseText": "Voir Abdias 1:19.",
+    "question": "Quels territoires sont mentionnés comme possessions (au v19) ?",
+    "choices": [
+      "Éphraïm et Samarie",
+      "Moab et Ammon",
+      "Égypte et Assyrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:19 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-057",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:19",
+    "verseText": "Voir Abdias 1:19.",
+    "question": "Quel territoire Benjamin possédera-t-il ?",
+    "choices": [
+      "Galaad",
+      "Sarepta",
+      "Botsra"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:19 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-058",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:20",
+    "verseText": "Voir Abdias 1:20.",
+    "question": "Jusqu’où les captifs des enfants d’Israël posséderont-ils le pays des Cananéens ?",
+    "choices": [
+      "Jusqu’à Sarepta",
+      "Jusqu’à Jéricho",
+      "Jusqu’à Théman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:20 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-059",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:20",
+    "verseText": "Voir Abdias 1:20.",
+    "question": "Où sont les captifs de Jérusalem mentionnés au verset 20 ?",
+    "choices": [
+      "À Sepharad",
+      "À Samarie",
+      "À Édom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:20 (LSG 1910)."
+  },
+  {
+    "id": "abdias-N-060",
+    "book": "Abdias",
+    "chapter": 1,
+    "verseRef": "Abdias 1:21",
+    "verseText": "Voir Abdias 1:21.",
+    "question": "Qui montera sur la montagne de Sion pour juger la montagne d’Ésaü ?",
+    "choices": [
+      "Des libérateurs",
+      "Des prêtres étrangers",
+      "Des marchands"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:21 (LSG 1910)."
+  }
+]

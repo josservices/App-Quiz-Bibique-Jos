@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "daniel-D-001",
+    "book": "Daniel",
+    "chapter": 1,
+    "verseRef": "Daniel 1:3",
+    "verseText": "Voir Daniel 1:3.",
+    "question": "Quel roi donne l’ordre d’amener à Babylone des jeunes gens d’Israël « de race royale et de famille noble » ?",
+    "choices": [
+      "Nebucadnetsar",
+      "Darius"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 1:3 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-002",
+    "book": "Daniel",
+    "chapter": 1,
+    "verseRef": "Daniel 1:7",
+    "verseText": "Voir Daniel 1:7.",
+    "question": "Quel nom chaldéen est attribué à Hanania ?",
+    "choices": [
+      "Schadrac",
+      "Abed-Nego"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 1:7 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-003",
+    "book": "Daniel",
+    "chapter": 1,
+    "verseRef": "Daniel 1:7",
+    "verseText": "Voir Daniel 1:7.",
+    "question": "Quel nom chaldéen est attribué à Mischaël ?",
+    "choices": [
+      "Méschac",
+      "Schadrac"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 1:7 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-004",
+    "book": "Daniel",
+    "chapter": 1,
+    "verseRef": "Daniel 1:7",
+    "verseText": "Voir Daniel 1:7.",
+    "question": "Quel nom chaldéen est attribué à Azaria ?",
+    "choices": [
+      "Abed-Nego",
+      "Méschac"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 1:7 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-005",
+    "book": "Daniel",
+    "chapter": 1,
+    "verseRef": "Daniel 1:5",
+    "verseText": "Voir Daniel 1:5.",
+    "question": "Quelle durée est fixée pour l’instruction des jeunes gens avant qu’ils se présentent au roi ?",
+    "choices": [
+      "Trois ans",
+      "Sept ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 1:5 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-006",
+    "book": "Daniel",
+    "chapter": 1,
+    "verseRef": "Daniel 1:10",
+    "verseText": "Voir Daniel 1:10.",
+    "question": "Quel chef craint que Daniel paraisse « plus abattu » que les jeunes gens de son âge ?",
+    "choices": [
+      "Le chef des eunuques",
+      "Le chef des gardes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 1:10 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-007",
+    "book": "Daniel",
+    "chapter": 1,
+    "verseRef": "Daniel 1:21",
+    "verseText": "Voir Daniel 1:21.",
+    "question": "Au terme de quelle période Daniel est-il encore mentionné au service du royaume ?",
+    "choices": [
+      "Jusqu’à la première année du roi Cyrus",
+      "Jusqu’à la dixième année de Darius"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 1:21 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-008",
+    "book": "Daniel",
+    "chapter": 2,
+    "verseRef": "Daniel 2:2",
+    "verseText": "Voir Daniel 2:2.",
+    "question": "À quelle catégorie les sages incapables sont-ils associés quand le roi réclame le songe et son explication ?",
+    "choices": [
+      "Magiciens, astrologues, enchanteurs, Chaldéens",
+      "Sacrificateurs, chantres, portiers, lévites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 2:2 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-009",
+    "book": "Daniel",
+    "chapter": 2,
+    "verseRef": "Daniel 2:11",
+    "verseText": "Voir Daniel 2:11.",
+    "question": "Quelle affirmation les Chaldéens font-ils sur l’exigence du roi ?",
+    "choices": [
+      "« La chose que le roi demande est difficile »",
+      "« La chose que le roi demande est facile »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 2:11 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-010",
+    "book": "Daniel",
+    "chapter": 2,
+    "verseRef": "Daniel 2:14",
+    "verseText": "Voir Daniel 2:14.",
+    "question": "Qui est envoyé pour faire périr les sages de Babylone après la colère du roi ?",
+    "choices": [
+      "Arjoc, chef des gardes du corps du roi",
+      "Achimélec, sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 2:14 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-011",
+    "book": "Daniel",
+    "chapter": 2,
+    "verseRef": "Daniel 2:20",
+    "verseText": "Voir Daniel 2:20.",
+    "question": "Quelle expression Daniel emploie-t-il pour bénir Dieu après la révélation du mystère ?",
+    "choices": [
+      "« Béni soit le nom de Dieu, d’éternité en éternité ! »",
+      "« Béni soit le roi, à jamais ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 2:20 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-012",
+    "book": "Daniel",
+    "chapter": 2,
+    "verseRef": "Daniel 2:34",
+    "verseText": "Voir Daniel 2:34.",
+    "question": "Quel élément précis manque à la statue : la pierre est « détachée » comment ?",
+    "choices": [
+      "Sans le secours d’aucune main",
+      "Par la main d’un prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 2:34 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-013",
+    "book": "Daniel",
+    "chapter": 2,
+    "verseRef": "Daniel 2:33",
+    "verseText": "Voir Daniel 2:33.",
+    "question": "Dans le songe, de quoi sont faits les pieds de la statue ?",
+    "choices": [
+      "En partie de fer et en partie d’argile",
+      "En partie d’or et en partie d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 2:33 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-014",
+    "book": "Daniel",
+    "chapter": 2,
+    "verseRef": "Daniel 2:39",
+    "verseText": "Voir Daniel 2:39.",
+    "question": "Dans l’interprétation, quel royaume est comparé à l’airain qui domine sur toute la terre ?",
+    "choices": [
+      "Un troisième royaume",
+      "Un premier royaume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 2:39 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-015",
+    "book": "Daniel",
+    "chapter": 2,
+    "verseRef": "Daniel 2:47",
+    "verseText": "Voir Daniel 2:47.",
+    "question": "Quel geste le roi fait-il en reconnaissant la supériorité du Dieu de Daniel ?",
+    "choices": [
+      "Il dit : « Votre Dieu est le Dieu des dieux… »",
+      "Il dit : « Vos dieux sont faibles »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 2:47 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-016",
+    "book": "Daniel",
+    "chapter": 3,
+    "verseRef": "Daniel 3:5",
+    "verseText": "Voir Daniel 3:5.",
+    "question": "Dans la liste d’instruments au signal, lequel est explicitement cité ?",
+    "choices": [
+      "La harpe",
+      "La trompette de corne de bélier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 3:5 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-017",
+    "book": "Daniel",
+    "chapter": 3,
+    "verseRef": "Daniel 3:12",
+    "verseText": "Voir Daniel 3:12.",
+    "question": "Quelle accusation est portée contre les trois hommes avant leur jugement ?",
+    "choices": [
+      "Ils ne servent pas les dieux du roi et n’adorent pas la statue",
+      "Ils blasphèment contre le temple de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 3:12 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-018",
+    "book": "Daniel",
+    "chapter": 3,
+    "verseRef": "Daniel 3:18",
+    "verseText": "Voir Daniel 3:18.",
+    "question": "À quelle phrase exacte ils résument leur refus ?",
+    "choices": [
+      "« Nous ne servirons pas tes dieux, et nous n’adorerons pas la statue d’or que tu as élevée »",
+      "« Nous partirons au désert »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 3:18 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-019",
+    "book": "Daniel",
+    "chapter": 3,
+    "verseRef": "Daniel 3:27",
+    "verseText": "Voir Daniel 3:27.",
+    "question": "Que remarque-t-on sur leurs vêtements après la délivrance ?",
+    "choices": [
+      "L’odeur du feu ne les a pas atteints",
+      "Ils sont devenus blancs comme neige"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 3:27 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-020",
+    "book": "Daniel",
+    "chapter": 3,
+    "verseRef": "Daniel 3:29",
+    "verseText": "Voir Daniel 3:29.",
+    "question": "Dans l’édit du roi après le miracle, quelle sanction menace celui qui parlera mal du Dieu de ces hommes ?",
+    "choices": [
+      "Être mis en pièces et sa maison réduite en un monceau d’immondices",
+      "Être exilé hors de Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 3:29 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-021",
+    "book": "Daniel",
+    "chapter": 4,
+    "verseRef": "Daniel 4:11",
+    "verseText": "Voir Daniel 4:11.",
+    "question": "Dans le songe de l’arbre, jusqu’où sa cime s’élève-t-elle ?",
+    "choices": [
+      "Jusqu’aux cieux",
+      "Jusqu’aux montagnes de Médie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 4:11 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-022",
+    "book": "Daniel",
+    "chapter": 4,
+    "verseRef": "Daniel 4:31",
+    "verseText": "Voir Daniel 4:31.",
+    "question": "À quel moment l’accomplissement du jugement tombe-t-il sur Nebucadnetsar ?",
+    "choices": [
+      "Quand la parole était encore dans la bouche du roi",
+      "Après un an de jeûne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 4:31 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-023",
+    "book": "Daniel",
+    "chapter": 4,
+    "verseRef": "Daniel 4:32-33",
+    "verseText": "Voir Daniel 4:32-33.",
+    "question": "Quelle nourriture lui est donnée lorsqu’il est humilié ?",
+    "choices": [
+      "De l’herbe comme aux bœufs",
+      "Du pain sec seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 4:32-33 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-024",
+    "book": "Daniel",
+    "chapter": 5,
+    "verseRef": "Daniel 5:25",
+    "verseText": "Voir Daniel 5:25.",
+    "question": "Dans la scène du festin, qu’est-ce qui est écrit sur la muraille ?",
+    "choices": [
+      "« MENE, MENE, TEKEL, UPHARSIN »",
+      "« Jérusalem sera rebâtie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 5:25 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-025",
+    "book": "Daniel",
+    "chapter": 5,
+    "verseRef": "Daniel 5:16",
+    "verseText": "Voir Daniel 5:16.",
+    "question": "Quelle récompense est promise à celui qui lira et expliquera l’écriture ?",
+    "choices": [
+      "Pourpre, collier d’or, et troisième rang dans le royaume",
+      "Une couronne et une armée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 5:16 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-026",
+    "book": "Daniel",
+    "chapter": 5,
+    "verseRef": "Daniel 5:18",
+    "verseText": "Voir Daniel 5:18.",
+    "question": "Quel détail Daniel rappelle-t-il au roi au sujet de Nebucadnetsar ?",
+    "choices": [
+      "Le Dieu Très-Haut lui avait donné la royauté, la grandeur, la gloire et la majesté",
+      "Il avait été prophète en Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 5:18 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-027",
+    "book": "Daniel",
+    "chapter": 5,
+    "verseRef": "Daniel 5:23",
+    "verseText": "Voir Daniel 5:23.",
+    "question": "Quel péché précis Daniel reproche-t-il à Belschatsar pendant le festin ?",
+    "choices": [
+      "Il s’est élevé contre le Seigneur des cieux et a loué des dieux d’or et d’argent",
+      "Il a abandonné l’armée en guerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 5:23 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-028",
+    "book": "Daniel",
+    "chapter": 5,
+    "verseRef": "Daniel 5:29",
+    "verseText": "Voir Daniel 5:29.",
+    "question": "Après l’interprétation, quel acte immédiat Belschatsar ordonne-t-il pour Daniel ?",
+    "choices": [
+      "Le revêtir de pourpre et lui mettre un collier d’or",
+      "Le renvoyer à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 5:29 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-029",
+    "book": "Daniel",
+    "chapter": 5,
+    "verseRef": "Daniel 5:31",
+    "verseText": "Voir Daniel 5:31.",
+    "question": "À quel âge Darius, le Mède, reçoit-il le royaume ?",
+    "choices": [
+      "Âgé d’environ soixante-deux ans",
+      "Âgé d’environ trente ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 5:31 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-030",
+    "book": "Daniel",
+    "chapter": 6,
+    "verseRef": "Daniel 6:1",
+    "verseText": "Voir Daniel 6:1.",
+    "question": "Combien de satrapes Darius établit-il sur le royaume ?",
+    "choices": [
+      "Cent vingt",
+      "Soixante-dix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 6:1 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-031",
+    "book": "Daniel",
+    "chapter": 6,
+    "verseRef": "Daniel 6:5",
+    "verseText": "Voir Daniel 6:5.",
+    "question": "Quel motif les adversaires admettent-ils pour pouvoir accuser Daniel ?",
+    "choices": [
+      "Ils ne trouveront aucun prétexte, à moins qu’il ne se rapporte à la loi de son Dieu",
+      "Ils trouveront des dettes impayées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 6:5 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-032",
+    "book": "Daniel",
+    "chapter": 6,
+    "verseRef": "Daniel 6:7",
+    "verseText": "Voir Daniel 6:7.",
+    "question": "Quel interdit exact l’édit fixe-t-il pour trente jours ?",
+    "choices": [
+      "Adresser une requête à aucun dieu ni à aucun homme, excepté au roi",
+      "Vendre ou acheter au marché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 6:7 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-033",
+    "book": "Daniel",
+    "chapter": 6,
+    "verseRef": "Daniel 6:16",
+    "verseText": "Voir Daniel 6:16.",
+    "question": "Quelle expression décrit la fidélité de Daniel au Dieu d’Israël dans la bouche du roi ?",
+    "choices": [
+      "« que tu sers avec persévérance »",
+      "« que tu sers par crainte »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 6:16 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-034",
+    "book": "Daniel",
+    "chapter": 6,
+    "verseRef": "Daniel 6:19",
+    "verseText": "Voir Daniel 6:19.",
+    "question": "Quel geste le roi accomplit-il au matin avant d’aller à la fosse ?",
+    "choices": [
+      "Il se lève au point du jour et va en hâte vers la fosse aux lions",
+      "Il convoque d’abord les satrapes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 6:19 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-035",
+    "book": "Daniel",
+    "chapter": 6,
+    "verseRef": "Daniel 6:21",
+    "verseText": "Voir Daniel 6:21.",
+    "question": "Que répond Daniel quand le roi l’appelle de la fosse ?",
+    "choices": [
+      "« Ô roi, vis éternellement ! »",
+      "« Je suis innocent, et je partirai »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 6:21 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-036",
+    "book": "Daniel",
+    "chapter": 6,
+    "verseRef": "Daniel 6:22",
+    "verseText": "Voir Daniel 6:22.",
+    "question": "Sur quel motif Daniel affirme-t-il n’avoir subi aucun mal ?",
+    "choices": [
+      "Parce qu’il a été trouvé innocent devant Dieu, et aussi envers le roi",
+      "Parce que la fosse était vide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 6:22 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-037",
+    "book": "Daniel",
+    "chapter": 7,
+    "verseRef": "Daniel 7:4",
+    "verseText": "Voir Daniel 7:4.",
+    "question": "Dans la vision du chapitre 7, quelle transformation arrive au premier animal ?",
+    "choices": [
+      "Ses ailes sont arrachées, il est enlevé de terre, mis debout comme un homme, et un cœur d’homme lui est donné",
+      "Il reçoit une couronne d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 7:4 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-038",
+    "book": "Daniel",
+    "chapter": 7,
+    "verseRef": "Daniel 7:5",
+    "verseText": "Voir Daniel 7:5.",
+    "question": "Dans la vision, quel animal est décrit comme ressemblant à un ours ?",
+    "choices": [
+      "Le second",
+      "Le quatrième"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 7:5 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-039",
+    "book": "Daniel",
+    "chapter": 7,
+    "verseRef": "Daniel 7:7",
+    "verseText": "Voir Daniel 7:7.",
+    "question": "Quel détail est donné sur le quatrième animal concernant ses cornes ?",
+    "choices": [
+      "Il avait dix cornes",
+      "Il avait deux cornes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 7:7 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-040",
+    "book": "Daniel",
+    "chapter": 7,
+    "verseRef": "Daniel 7:9",
+    "verseText": "Voir Daniel 7:9.",
+    "question": "Quelle scène judiciaire est mentionnée avant le jugement dans la vision ?",
+    "choices": [
+      "Des trônes furent placés, et l’Ancien des jours s’assit",
+      "Un autel fut dressé à Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 7:9 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-041",
+    "book": "Daniel",
+    "chapter": 7,
+    "verseRef": "Daniel 7:9",
+    "verseText": "Voir Daniel 7:9.",
+    "question": "Quel attribut vestimentaire de l’Ancien des jours est précisé ?",
+    "choices": [
+      "Son vêtement était blanc comme la neige",
+      "Son vêtement était de pourpre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 7:9 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-042",
+    "book": "Daniel",
+    "chapter": 7,
+    "verseRef": "Daniel 7:14",
+    "verseText": "Voir Daniel 7:14.",
+    "question": "À propos de « quelqu’un de semblable à un fils de l’homme », que reçoit-il ?",
+    "choices": [
+      "La domination, la gloire et le règne",
+      "Une épée et un cheval"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 7:14 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-043",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:4",
+    "verseText": "Voir Daniel 8:4.",
+    "question": "Dans la vision du bélier et du bouc, de quel côté le bélier pousse-t-il ?",
+    "choices": [
+      "Vers l’occident, vers le septentrion, et vers le midi",
+      "Vers l’orient seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:4 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-044",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:5",
+    "verseText": "Voir Daniel 8:5.",
+    "question": "Quel détail distingue le bouc dans la vision ?",
+    "choices": [
+      "Il avait une grande corne entre les yeux",
+      "Il avait trois cornes sur la tête"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:5 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-045",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:8",
+    "verseText": "Voir Daniel 8:8.",
+    "question": "Dans cette vision, que devient la grande corne du bouc quand il est puissant ?",
+    "choices": [
+      "Elle se brise, et quatre grandes cornes s’élèvent à sa place",
+      "Elle devient d’or pur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:8 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-046",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:13",
+    "verseText": "Voir Daniel 8:13.",
+    "question": "Quelle question est posée au sujet de la durée de la vision ?",
+    "choices": [
+      "« En combien de temps s’accomplira la vision… ? »",
+      "« Qui reconstruira Jérusalem ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:13 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-047",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:14",
+    "verseText": "Voir Daniel 8:14.",
+    "question": "Quelle durée est donnée en réponse pour « le sacrifice perpétuel » et « le sanctuaire » ?",
+    "choices": [
+      "Deux mille trois cents soirs et matins",
+      "Mille deux cents soirs et matins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:14 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-048",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:2",
+    "verseText": "Voir Daniel 9:2.",
+    "question": "Au début du chapitre 9, Daniel comprend les années par quel moyen ?",
+    "choices": [
+      "Par les livres",
+      "Par un rêve du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:2 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-049",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:2",
+    "verseText": "Voir Daniel 9:2.",
+    "question": "Quel nombre d’années Daniel comprend-il pour les ruines de Jérusalem ?",
+    "choices": [
+      "Soixante-dix ans",
+      "Quarante ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:2 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-050",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:21",
+    "verseText": "Voir Daniel 9:21.",
+    "question": "Quel ange est nommé comme venant vers Daniel « au moment de l’offrande du soir » ?",
+    "choices": [
+      "Gabriel",
+      "Michel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:21 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-051",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:24",
+    "verseText": "Voir Daniel 9:24.",
+    "question": "Selon la parole donnée à Daniel, combien de « semaines » sont fixées sur son peuple et sur la ville sainte ?",
+    "choices": [
+      "Soixante-dix semaines",
+      "Soixante-deux semaines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:24 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-052",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:24",
+    "verseText": "Voir Daniel 9:24.",
+    "question": "Quel acte est mentionné parmi les objectifs des « soixante-dix semaines » ?",
+    "choices": [
+      "Mettre fin au péché",
+      "Bâtir un palais à Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:24 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-053",
+    "book": "Daniel",
+    "chapter": 10,
+    "verseRef": "Daniel 10:6",
+    "verseText": "Voir Daniel 10:6.",
+    "question": "Dans la vision du chapitre 10, comment est décrit le visage de l’homme vu par Daniel ?",
+    "choices": [
+      "Comme l’aspect de l’éclair",
+      "Comme la poussière du désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 10:6 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-054",
+    "book": "Daniel",
+    "chapter": 10,
+    "verseRef": "Daniel 10:7",
+    "verseText": "Voir Daniel 10:7.",
+    "question": "Quel effet immédiat la vision produit-elle sur les compagnons de Daniel ?",
+    "choices": [
+      "Une grande frayeur les saisit, et ils prennent la fuite",
+      "Ils se prosternent et chantent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 10:7 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-055",
+    "book": "Daniel",
+    "chapter": 10,
+    "verseRef": "Daniel 10:13",
+    "verseText": "Voir Daniel 10:13.",
+    "question": "Dans l’échange spirituel du chapitre 10, quel « chef » résiste à l’envoyé pendant vingt et un jours ?",
+    "choices": [
+      "Le chef du royaume de Perse",
+      "Le chef du royaume d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 10:13 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-056",
+    "book": "Daniel",
+    "chapter": 10,
+    "verseRef": "Daniel 10:13",
+    "verseText": "Voir Daniel 10:13.",
+    "question": "Qui vient aider l’envoyé selon le texte ?",
+    "choices": [
+      "Michel, l’un des principaux chefs",
+      "Élie, le prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 10:13 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-057",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:1",
+    "verseText": "Voir Daniel 11:1.",
+    "question": "Au début du chapitre 11, de quel roi est-il dit : « la première année de Darius, le Mède » ?",
+    "choices": [
+      "Darius, le Mède",
+      "Cyrus, le Perse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:1 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-058",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:1",
+    "verseText": "Voir Daniel 12:1.",
+    "question": "Dans le chapitre 12, quel peuple est nommé comme se levant pour les fils du peuple de Daniel ?",
+    "choices": [
+      "Michel",
+      "Gabriel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:1 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-059",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:2",
+    "verseText": "Voir Daniel 12:2.",
+    "question": "Quel contraste est annoncé entre deux groupes au chapitre 12 ?",
+    "choices": [
+      "Plusieurs de ceux qui dorment se réveilleront, les uns pour la vie éternelle, les autres pour l’opprobre",
+      "Tous se réveilleront pour la même récompense"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:2 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-060",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:3",
+    "verseText": "Voir Daniel 12:3.",
+    "question": "Selon Daniel 12, que feront « ceux qui auront enseigné la justice à la multitude » ?",
+    "choices": [
+      "Ils brilleront comme les étoiles, à toujours et à perpétuité",
+      "Ils recevront des couronnes terrestres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:3 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-061",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:2",
+    "verseText": "Voir Daniel 8:2.",
+    "question": "Dans Daniel 8, où Daniel dit-il qu’il se trouvait au moment de la vision ?",
+    "choices": [
+      "À Suse, dans la province d’Élam",
+      "À Babylone, dans la plaine de Dura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:2 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-062",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:2",
+    "verseText": "Voir Daniel 8:2.",
+    "question": "Près de quel cours d’eau Daniel se voit-il dans la vision du chapitre 8 ?",
+    "choices": [
+      "Près du fleuve d’Ulaï",
+      "Près du fleuve Kébar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:2 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-063",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:2",
+    "verseText": "Voir Daniel 8:2.",
+    "question": "Quelle position Daniel précise-t-il dans la vision du chapitre 8 ?",
+    "choices": [
+      "Il était près du fleuve d’Ulaï",
+      "Il était sur la montagne de Sion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:2 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-064",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:16",
+    "verseText": "Voir Daniel 8:16.",
+    "question": "Quel personnage Daniel entend-il appeler par son nom pour expliquer la vision ?",
+    "choices": [
+      "Gabriel",
+      "Michel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:16 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-065",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:17",
+    "verseText": "Voir Daniel 8:17.",
+    "question": "Quel effet la venue de Gabriel produit-elle sur Daniel ?",
+    "choices": [
+      "Il est effrayé et tombe sur sa face",
+      "Il se met à rire et à parler fort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:17 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-066",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:17",
+    "verseText": "Voir Daniel 8:17.",
+    "question": "Que dit Gabriel au sujet du temps visé par la vision ?",
+    "choices": [
+      "Elle concerne le temps de la fin",
+      "Elle concerne les premiers jours de Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:17 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-067",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:18",
+    "verseText": "Voir Daniel 8:18.",
+    "question": "Quand Gabriel parle, quelle réaction physique Daniel mentionne-t-il ?",
+    "choices": [
+      "Il tombe évanoui, la face contre terre",
+      "Il saute de joie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:18 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-068",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:18",
+    "verseText": "Voir Daniel 8:18.",
+    "question": "Quel geste Gabriel fait-il ensuite pour Daniel ?",
+    "choices": [
+      "Il le touche et le fait tenir debout",
+      "Il lui donne un sceptre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:18 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-069",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:19",
+    "verseText": "Voir Daniel 8:19.",
+    "question": "Dans Daniel 8:19, Gabriel annonce qu’il fera connaître quoi à Daniel ?",
+    "choices": [
+      "Ce qui arrivera au terme de la colère",
+      "Les noms des satrapes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:19 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-070",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:19",
+    "verseText": "Voir Daniel 8:19.",
+    "question": "Comment le texte qualifie-t-il le temps final annoncé ?",
+    "choices": [
+      "« car il y a un temps marqué pour la fin »",
+      "« car nul ne sait la fin »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:19 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-071",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:20",
+    "verseText": "Voir Daniel 8:20.",
+    "question": "Dans l’explication, que représente « le bélier avec des cornes » ?",
+    "choices": [
+      "Les rois de Médie et de Perse",
+      "Les rois de Babylone et d’Assyrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:20 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-072",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:21",
+    "verseText": "Voir Daniel 8:21.",
+    "question": "Dans l’explication, que représente « le bouc » ?",
+    "choices": [
+      "Le roi de Javan",
+      "Le roi de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:21 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-073",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:21",
+    "verseText": "Voir Daniel 8:21.",
+    "question": "Comment est décrite « la grande corne entre ses yeux » ?",
+    "choices": [
+      "C’est le premier roi",
+      "C’est le dernier roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:21 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-074",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:22",
+    "verseText": "Voir Daniel 8:22.",
+    "question": "Que signifie la corne brisée remplacée par quatre cornes ?",
+    "choices": [
+      "Quatre royaumes s’élèveront de cette nation, mais sans avoir autant de force",
+      "Quatre prophètes s’élèveront à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:22 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-075",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:23",
+    "verseText": "Voir Daniel 8:23.",
+    "question": "À quel moment, selon Daniel 8:23, un roi s’élèvera-t-il ?",
+    "choices": [
+      "Quand les transgresseurs seront à leur comble",
+      "Quand les moissons seront terminées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:23 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-076",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:23",
+    "verseText": "Voir Daniel 8:23.",
+    "question": "Comment ce roi est-il décrit en Daniel 8:23 ?",
+    "choices": [
+      "Insolent et artificieux",
+      "Doux et généreux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:23 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-077",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:24",
+    "verseText": "Voir Daniel 8:24.",
+    "question": "Selon Daniel 8:24, d’où vient la puissance de ce roi ?",
+    "choices": [
+      "Elle sera puissante, mais non par sa propre force",
+      "Elle vient de sa sagesse seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:24 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-078",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:25",
+    "verseText": "Voir Daniel 8:25.",
+    "question": "Que fera-t-il « réussir » selon Daniel 8:25 ?",
+    "choices": [
+      "La fraude dans sa main",
+      "La paix dans tout le pays"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:25 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-079",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:25",
+    "verseText": "Voir Daniel 8:25.",
+    "question": "Contre qui se lèvera-t-il « avec succès » selon Daniel 8:25 ?",
+    "choices": [
+      "Contre le chef des chefs",
+      "Contre les rois de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:25 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-080",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:25",
+    "verseText": "Voir Daniel 8:25.",
+    "question": "Comment sera-t-il brisé selon la fin de Daniel 8:25 ?",
+    "choices": [
+      "Sans l’effort d’aucune main",
+      "Par une épée humaine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:25 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-081",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:26",
+    "verseText": "Voir Daniel 8:26.",
+    "question": "Comment est qualifiée la vision « du soir et du matin » ?",
+    "choices": [
+      "Elle est véritable",
+      "Elle est fausse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:26 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-082",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:26",
+    "verseText": "Voir Daniel 8:26.",
+    "question": "Que doit faire Daniel concernant cette vision selon l’ordre reçu ?",
+    "choices": [
+      "Tenir la vision secrète, car elle se rapporte à des temps éloignés",
+      "La publier immédiatement à Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:26 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-083",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:27",
+    "verseText": "Voir Daniel 8:27.",
+    "question": "Que devient Daniel juste après ces paroles ?",
+    "choices": [
+      "Il est épuisé et malade pendant quelques jours",
+      "Il est couronné roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:27 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-084",
+    "book": "Daniel",
+    "chapter": 8,
+    "verseRef": "Daniel 8:27",
+    "verseText": "Voir Daniel 8:27.",
+    "question": "Quelle précision Daniel ajoute-t-il sur la vision à la fin du chapitre 8 ?",
+    "choices": [
+      "Il était étonné de la vision, et personne n’en eut connaissance",
+      "Il l’a racontée à tous les satrapes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 8:27 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-085",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:1",
+    "verseText": "Voir Daniel 9:1.",
+    "question": "Au début du chapitre 9, comment Darius est-il décrit ?",
+    "choices": [
+      "Fils d’Assuérus, de la race des Mèdes",
+      "Fils de Saül, de la race des Hébreux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:1 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-086",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:3",
+    "verseText": "Voir Daniel 9:3.",
+    "question": "Quel est le motif de Daniel en tournant sa face vers le Seigneur ?",
+    "choices": [
+      "Lui adresser la prière et les supplications",
+      "Obtenir un poste au palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:3 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-087",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:3",
+    "verseText": "Voir Daniel 9:3.",
+    "question": "Quels signes d’humiliation Daniel associe-t-il à sa prière ?",
+    "choices": [
+      "Le jeûne, le sac et la cendre",
+      "Le parfum et l’encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:3 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-088",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:4",
+    "verseText": "Voir Daniel 9:4.",
+    "question": "Quel titre Daniel donne-t-il à Dieu en Daniel 9:4 ?",
+    "choices": [
+      "Le Dieu grand et redoutable",
+      "Le Dieu des montagnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:4 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-089",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:6",
+    "verseText": "Voir Daniel 9:6.",
+    "question": "Quelle confession Daniel fait-il concernant l’écoute des prophètes ?",
+    "choices": [
+      "« Nous n’avons pas écouté tes serviteurs, les prophètes »",
+      "« Nous avons toujours suivi les prophètes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:6 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-090",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:6",
+    "verseText": "Voir Daniel 9:6.",
+    "question": "À qui Daniel dit-il que les prophètes ont parlé ?",
+    "choices": [
+      "À nos rois, à nos chefs, à nos pères, et à tout le peuple du pays",
+      "Uniquement aux étrangers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:6 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-091",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:7",
+    "verseText": "Voir Daniel 9:7.",
+    "question": "Quel contraste Daniel établit-il au verset 7 ?",
+    "choices": [
+      "À toi la justice, à nous la confusion de face",
+      "À nous la justice, à toi la confusion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:7 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-092",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:9",
+    "verseText": "Voir Daniel 9:9.",
+    "question": "Quel motif Daniel invoque-t-il pour demander le pardon ?",
+    "choices": [
+      "Les compassions et les pardons sont à l’Éternel, notre Dieu",
+      "La force de l’armée de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:9 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-093",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:11",
+    "verseText": "Voir Daniel 9:11.",
+    "question": "Quel événement Daniel relie-t-il explicitement à « la loi de Moïse » ?",
+    "choices": [
+      "Les malédictions écrites dans la loi ont été répandues sur nous",
+      "Les bénédictions ont été multipliées sans fin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:11 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-094",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:14",
+    "verseText": "Voir Daniel 9:14.",
+    "question": "Quel verbe décrit l’action de Dieu sur la calamité selon Daniel 9:14 ?",
+    "choices": [
+      "L’Éternel a veillé sur cette calamité et l’a fait venir sur nous",
+      "L’Éternel a oublié cette calamité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:14 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-095",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:14",
+    "verseText": "Voir Daniel 9:14.",
+    "question": "Quelle expression Daniel utilise-t-il pour parler de Dieu, malgré la calamité ?",
+    "choices": [
+      "« Car l’Éternel, notre Dieu, est juste dans toutes les œuvres qu’il fait »",
+      "« Car Dieu est changeant »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:14 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-096",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:15",
+    "verseText": "Voir Daniel 9:15.",
+    "question": "Daniel rappelle une délivrance passée : de quel pays Dieu a-t-il fait sortir son peuple « par sa main puissante » ?",
+    "choices": [
+      "Du pays d’Égypte",
+      "Du pays d’Assyrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:15 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-097",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:16",
+    "verseText": "Voir Daniel 9:16.",
+    "question": "Quel lieu Daniel appelle-t-il « ta montagne sainte » ?",
+    "choices": [
+      "Jérusalem",
+      "Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:16 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-098",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:16",
+    "verseText": "Voir Daniel 9:16.",
+    "question": "Selon Daniel, pourquoi Jérusalem et le peuple sont-ils dans l’opprobre ?",
+    "choices": [
+      "À cause de nos péchés et des iniquités de nos pères",
+      "À cause des richesses du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:16 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-099",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:16",
+    "verseText": "Voir Daniel 9:16.",
+    "question": "Que demande Daniel à Dieu au sujet de sa colère ?",
+    "choices": [
+      "Qu’elle se détourne de Jérusalem, ta ville, ta montagne sainte",
+      "Qu’elle augmente contre les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:16 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-100",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:18",
+    "verseText": "Voir Daniel 9:18.",
+    "question": "Quel argument Daniel donne-t-il pour appuyer sa supplication ?",
+    "choices": [
+      "Ce n’est pas à cause de notre justice que nous présentons nos supplications, mais à cause de tes grandes compassions",
+      "Parce que le peuple est nombreux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:18 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-101",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:19",
+    "verseText": "Voir Daniel 9:19.",
+    "question": "Quelle formule Daniel répète-t-il pour supplier Dieu d’agir vite ?",
+    "choices": [
+      "« Ne tarde pas »",
+      "« Attends encore »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:19 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-102",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:19",
+    "verseText": "Voir Daniel 9:19.",
+    "question": "Sur quoi Daniel dit-il que le nom de Dieu est invoqué ?",
+    "choices": [
+      "Sur ta ville et sur ton peuple",
+      "Sur le fleuve et la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:19 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-103",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:21",
+    "verseText": "Voir Daniel 9:21.",
+    "question": "Pendant que Daniel parle encore, qui vient à lui « d’un vol rapide » ?",
+    "choices": [
+      "Gabriel",
+      "Michel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:21 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-104",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:21",
+    "verseText": "Voir Daniel 9:21.",
+    "question": "À quel moment précis Gabriel touche-t-il Daniel ?",
+    "choices": [
+      "Au moment de l’offrande du soir",
+      "Au milieu de la nuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:21 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-105",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:23",
+    "verseText": "Voir Daniel 9:23.",
+    "question": "Quelle phrase Gabriel prononce-t-il sur Daniel au début de son message ?",
+    "choices": [
+      "« Car tu es un bien-aimé »",
+      "« Car tu es un rebelle »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:23 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-106",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:23",
+    "verseText": "Voir Daniel 9:23.",
+    "question": "Que dit Gabriel concernant la prière : qu’est-il sorti dès le commencement des supplications ?",
+    "choices": [
+      "La parole est sortie",
+      "Le silence est sorti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:23 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-107",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:24",
+    "verseText": "Voir Daniel 9:24.",
+    "question": "Quelle durée totale est « fixée » selon Daniel 9:24 ?",
+    "choices": [
+      "Soixante-dix semaines",
+      "Dix semaines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:24 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-108",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:24",
+    "verseText": "Voir Daniel 9:24.",
+    "question": "Parmi les objectifs cités, quel élément est explicitement mentionné ?",
+    "choices": [
+      "Amener la justice éternelle",
+      "Amener la richesse éternelle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:24 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-109",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:24",
+    "verseText": "Voir Daniel 9:24.",
+    "question": "Quel autre objectif est cité dans Daniel 9:24 ?",
+    "choices": [
+      "Sceller la vision et le prophète",
+      "Sceller les portes de Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:24 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-110",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:24",
+    "verseText": "Voir Daniel 9:24.",
+    "question": "Quel dernier objectif est cité dans Daniel 9:24 ?",
+    "choices": [
+      "Oindre le Saint des saints",
+      "Oindre le roi de Perse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:24 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-111",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:26",
+    "verseText": "Voir Daniel 9:26.",
+    "question": "Après « soixante-deux semaines », que dit le texte au sujet d’un oint ?",
+    "choices": [
+      "Un oint sera retranché, et il n’aura pas de successeur",
+      "Un oint règnera sur Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:26 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-112",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:26",
+    "verseText": "Voir Daniel 9:26.",
+    "question": "Qui détruira la ville et le sanctuaire selon Daniel 9:26 ?",
+    "choices": [
+      "Le peuple d’un chef qui viendra",
+      "Les satrapes de Médie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:26 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-113",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:26",
+    "verseText": "Voir Daniel 9:26.",
+    "question": "Comment est décrite la fin dans Daniel 9:26 ?",
+    "choices": [
+      "Elle viendra comme par une inondation",
+      "Elle viendra comme par une brise légère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:26 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-114",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:26",
+    "verseText": "Voir Daniel 9:26.",
+    "question": "Jusqu’à quand des dévastations sont-elles décrétées ?",
+    "choices": [
+      "Jusqu’au terme de la guerre",
+      "Jusqu’à la fin des récoltes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:26 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-115",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:27",
+    "verseText": "Voir Daniel 9:27.",
+    "question": "Que fera « il » avec plusieurs pendant une semaine ?",
+    "choices": [
+      "Il fera une solide alliance",
+      "Il fera une guerre maritime"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:27 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-116",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:27",
+    "verseText": "Voir Daniel 9:27.",
+    "question": "Que fera-t-il cesser au milieu de la semaine ?",
+    "choices": [
+      "Le sacrifice et l’offrande",
+      "Les festins du palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:27 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-117",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:27",
+    "verseText": "Voir Daniel 9:27.",
+    "question": "Quelle expression décrit ce qui est sur « l’aile des abominations » ?",
+    "choices": [
+      "Le dévastateur",
+      "Le restaurateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:27 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-118",
+    "book": "Daniel",
+    "chapter": 9,
+    "verseRef": "Daniel 9:27",
+    "verseText": "Voir Daniel 9:27.",
+    "question": "Jusqu’à quand la désolation est-elle versée sur le dévastateur ?",
+    "choices": [
+      "Jusqu’à l’anéantissement et ce qui a été résolu",
+      "Jusqu’à la paix des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 9:27 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-119",
+    "book": "Daniel",
+    "chapter": 10,
+    "verseRef": "Daniel 10:5",
+    "verseText": "Voir Daniel 10:5.",
+    "question": "Dans Daniel 10, comment l’homme est-il vêtu dans la vision ?",
+    "choices": [
+      "Il est vêtu de lin",
+      "Il est vêtu de pourpre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 10:5 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-120",
+    "book": "Daniel",
+    "chapter": 10,
+    "verseRef": "Daniel 10:5",
+    "verseText": "Voir Daniel 10:5.",
+    "question": "Quel objet d’or est mentionné sur ses reins ?",
+    "choices": [
+      "Une ceinture d’or d’Uphaz",
+      "Un collier d’or de Suse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 10:5 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-121",
+    "book": "Daniel",
+    "chapter": 10,
+    "verseRef": "Daniel 10:20",
+    "verseText": "Voir Daniel 10:20.",
+    "question": "Dans Daniel 10:20, quel motif l’envoyé donne-t-il pour « retourner combattre » ?",
+    "choices": [
+      "Il retourne combattre le chef de Perse",
+      "Il retourne combattre le chef d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 10:20 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-122",
+    "book": "Daniel",
+    "chapter": 10,
+    "verseRef": "Daniel 10:20",
+    "verseText": "Voir Daniel 10:20.",
+    "question": "Quel « autre chef » est annoncé comme venant après le conflit contre la Perse ?",
+    "choices": [
+      "Le chef de Javan",
+      "Le chef de Médie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 10:20 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-123",
+    "book": "Daniel",
+    "chapter": 10,
+    "verseRef": "Daniel 10:21",
+    "verseText": "Voir Daniel 10:21.",
+    "question": "Dans Daniel 10:21, comment l’envoyé désigne-t-il Michel ?",
+    "choices": [
+      "Michel, votre chef",
+      "Michel, roi des Chaldéens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 10:21 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-124",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:2",
+    "verseText": "Voir Daniel 11:2.",
+    "question": "En Daniel 11:2, combien de rois s’élèveront encore en Perse ?",
+    "choices": [
+      "Trois",
+      "Quatre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:2 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-125",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:2",
+    "verseText": "Voir Daniel 11:2.",
+    "question": "En Daniel 11:2, quelle particularité est attribuée au quatrième roi ?",
+    "choices": [
+      "Plus riche que tous, il excitera tout contre le royaume de Javan",
+      "Plus pauvre que tous, il servira le royaume de Javan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:2 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-126",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:4",
+    "verseText": "Voir Daniel 11:4.",
+    "question": "En Daniel 11:4, vers quoi le royaume sera-t-il partagé quand il sera brisé ?",
+    "choices": [
+      "Vers les quatre vents des cieux",
+      "Vers les deux mers seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:4 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-127",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:4",
+    "verseText": "Voir Daniel 11:4.",
+    "question": "En Daniel 11:4, le royaume partagé est-il donné à la postérité du roi puissant ?",
+    "choices": [
+      "Non, il ne sera pas pour sa postérité",
+      "Oui, il reste à sa postérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:4 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-128",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:6",
+    "verseText": "Voir Daniel 11:6.",
+    "question": "En Daniel 11:6, quel lien est formé entre le midi et le septentrion « au bout de quelques années » ?",
+    "choices": [
+      "La fille du roi du midi viendra au roi du septentrion pour faire un accord",
+      "Le roi du midi viendra seul offrir un tribut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:6 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-129",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:6",
+    "verseText": "Voir Daniel 11:6.",
+    "question": "En Daniel 11:6, que dit le texte : conservera-t-elle la force du bras ?",
+    "choices": [
+      "Non, elle ne conservera pas la force du bras",
+      "Oui, elle conservera la force du bras"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:6 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-130",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:7",
+    "verseText": "Voir Daniel 11:7.",
+    "question": "En Daniel 11:7, que fait le « rameau » sorti de ses racines ?",
+    "choices": [
+      "Il vient à l’armée, entre dans la forteresse du roi du septentrion, et agit avec puissance",
+      "Il se rend sans combat et disparaît"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:7 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-131",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:8",
+    "verseText": "Voir Daniel 11:8.",
+    "question": "En Daniel 11:8, quels objets sont explicitement emportés en Égypte ?",
+    "choices": [
+      "Leurs dieux, leurs images de fonte, et leurs ustensiles précieux d’argent et d’or",
+      "Des pierres ordinaires et du bois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:8 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-132",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:11",
+    "verseText": "Voir Daniel 11:11.",
+    "question": "En Daniel 11:11, quelle émotion domine le roi du midi ?",
+    "choices": [
+      "Une grande rage",
+      "Une grande douceur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:11 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-133",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:12",
+    "verseText": "Voir Daniel 11:12.",
+    "question": "En Daniel 11:12, que dit le texte du roi du midi après avoir abattu des milliers ?",
+    "choices": [
+      "Il ne triomphe pas",
+      "Il triomphe définitivement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:12 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-134",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:14",
+    "verseText": "Voir Daniel 11:14.",
+    "question": "En Daniel 11:14, que doit-il arriver aux « violents d’entre ton peuple » ?",
+    "choices": [
+      "Ils succombent",
+      "Ils règnent à jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:14 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-135",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:15",
+    "verseText": "Voir Daniel 11:15.",
+    "question": "En Daniel 11:15, quel acte militaire est mentionné ?",
+    "choices": [
+      "Il dressera des terrasses et prendra une ville forte",
+      "Il détruira la mer et les îles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:15 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-136",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:16",
+    "verseText": "Voir Daniel 11:16.",
+    "question": "En Daniel 11:16, que dit le texte sur la résistance face à celui qui vient ?",
+    "choices": [
+      "Personne ne lui résistera",
+      "Tout le monde lui résistera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:16 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-137",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:17",
+    "verseText": "Voir Daniel 11:17.",
+    "question": "En Daniel 11:17, quel moyen est utilisé pour « perdre le royaume » ?",
+    "choices": [
+      "Il donnera une fille aux femmes",
+      "Il donnera une armée aux prêtres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:17 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-138",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:17",
+    "verseText": "Voir Daniel 11:17.",
+    "question": "En Daniel 11:17, quel résultat est annoncé concernant cette fille ?",
+    "choices": [
+      "Elle ne tiendra pas, et ne sera pas pour lui",
+      "Elle tiendra, et sera pour lui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:17 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-139",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:18",
+    "verseText": "Voir Daniel 11:18.",
+    "question": "En Daniel 11:18, quelle action d’un « chef » est mentionnée contre lui ?",
+    "choices": [
+      "Un chef fera cesser son opprobre et fera retomber sur lui l’opprobre",
+      "Un chef le couronnera de gloire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:18 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-140",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:19",
+    "verseText": "Voir Daniel 11:19.",
+    "question": "En Daniel 11:19, quel sort final est décrit ?",
+    "choices": [
+      "Il chancelle, tombe, et on ne le trouve plus",
+      "Il monte au ciel et demeure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:19 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-141",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:20",
+    "verseText": "Voir Daniel 11:20.",
+    "question": "En Daniel 11:20, quel type de dirigeant se lève à sa place ?",
+    "choices": [
+      "Un exacteur",
+      "Un prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:20 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-142",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:20",
+    "verseText": "Voir Daniel 11:20.",
+    "question": "En Daniel 11:20, comment cet exacteur est-il brisé ?",
+    "choices": [
+      "En peu de jours, sans colère et sans bataille",
+      "Par une grande bataille et une colère publique"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:20 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-143",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:21",
+    "verseText": "Voir Daniel 11:21.",
+    "question": "En Daniel 11:21, comment est qualifié celui qui succède ?",
+    "choices": [
+      "Un homme méprisé, à qui l’on n’avait pas remis l’honneur de la royauté",
+      "Un roi honoré par tous dès le début"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:21 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-144",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:21",
+    "verseText": "Voir Daniel 11:21.",
+    "question": "En Daniel 11:21, par quel moyen s’empare-t-il de la royauté ?",
+    "choices": [
+      "Par des flatteries",
+      "Par un vote du peuple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:21 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-145",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:22",
+    "verseText": "Voir Daniel 11:22.",
+    "question": "En Daniel 11:22, quel personnage est brisé avec l’armée submergée ?",
+    "choices": [
+      "Le prince de l’alliance",
+      "Le chef du royaume de Médie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:22 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-146",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:23",
+    "verseText": "Voir Daniel 11:23.",
+    "question": "En Daniel 11:23, quelle méthode est décrite après l’alliance ?",
+    "choices": [
+      "Il agira avec tromperie et deviendra puissant avec peu de monde",
+      "Il renoncera au pouvoir et se retirera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:23 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-147",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:24",
+    "verseText": "Voir Daniel 11:24.",
+    "question": "En Daniel 11:24, que distribue-t-il à ceux qui l’entourent ?",
+    "choices": [
+      "Butin, dépouilles et richesses",
+      "Sac et cendre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:24 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-148",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:25",
+    "verseText": "Voir Daniel 11:25.",
+    "question": "En Daniel 11:25, contre qui se lève-t-il avec une grande armée ?",
+    "choices": [
+      "Contre le roi du midi",
+      "Contre le roi de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:25 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-149",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:26",
+    "verseText": "Voir Daniel 11:26.",
+    "question": "En Daniel 11:26, qui brise le roi du midi de l’intérieur ?",
+    "choices": [
+      "Ceux qui mangeront les mets de sa table",
+      "Ceux qui garderont les portes de sa ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:26 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-150",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:27",
+    "verseText": "Voir Daniel 11:27.",
+    "question": "En Daniel 11:27, que font les deux rois « à la même table » ?",
+    "choices": [
+      "Ils diront des mensonges",
+      "Ils publieront la vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:27 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-151",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:27",
+    "verseText": "Voir Daniel 11:27.",
+    "question": "En Daniel 11:27, pourquoi leurs projets ne réussissent-ils pas pleinement ?",
+    "choices": [
+      "Parce que la fin n’arrivera qu’au temps marqué",
+      "Parce que la mer les empêche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:27 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-152",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:28",
+    "verseText": "Voir Daniel 11:28.",
+    "question": "En Daniel 11:28, contre quoi le cœur du roi est-il tourné en retournant dans son pays ?",
+    "choices": [
+      "Contre la sainte alliance",
+      "Contre les îles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:28 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-153",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:30",
+    "verseText": "Voir Daniel 11:30.",
+    "question": "En Daniel 11:30, quel effet subit-il lors de son retour contre le midi ?",
+    "choices": [
+      "Il sera humilié",
+      "Il sera exalté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:30 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-154",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:31",
+    "verseText": "Voir Daniel 11:31.",
+    "question": "En Daniel 11:31, que font les forces envoyées par lui au sanctuaire ?",
+    "choices": [
+      "Elles profanent le sanctuaire, la forteresse",
+      "Elles restaurent le sanctuaire, la forteresse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:31 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-155",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:31",
+    "verseText": "Voir Daniel 11:31.",
+    "question": "En Daniel 11:31, quel acte religieux est supprimé ?",
+    "choices": [
+      "Le sacrifice perpétuel",
+      "La lecture des livres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:31 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-156",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:31",
+    "verseText": "Voir Daniel 11:31.",
+    "question": "En Daniel 11:31, qu’est-ce qui est établi ensuite ?",
+    "choices": [
+      "L’abomination du dévastateur",
+      "Une arche nouvelle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:31 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-157",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:32",
+    "verseText": "Voir Daniel 11:32.",
+    "question": "En Daniel 11:32, par quoi sont corrompus ceux qui violent l’alliance ?",
+    "choices": [
+      "Par des flatteries",
+      "Par des famines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:32 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-158",
+    "book": "Daniel",
+    "chapter": 11,
+    "verseRef": "Daniel 11:32",
+    "verseText": "Voir Daniel 11:32.",
+    "question": "En Daniel 11:32, que feront ceux du peuple qui connaîtront leur Dieu ?",
+    "choices": [
+      "Ils agiront avec fermeté et feront des exploits",
+      "Ils renieront leur Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 11:32 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-159",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:1",
+    "verseText": "Voir Daniel 12:1.",
+    "question": "En Daniel 12:1, quel événement accompagne le relèvement de Michel ?",
+    "choices": [
+      "Un temps de détresse tel qu’il n’y en a point eu",
+      "Un temps de fête tel qu’il n’y en a point eu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:1 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-160",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:1",
+    "verseText": "Voir Daniel 12:1.",
+    "question": "En Daniel 12:1, qui doit être délivré au milieu de ce temps ?",
+    "choices": [
+      "Quiconque sera trouvé écrit dans le livre",
+      "Quiconque possède de l’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:1 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-161",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:4",
+    "verseText": "Voir Daniel 12:4.",
+    "question": "En Daniel 12:4, quel ordre est donné à Daniel concernant les paroles ?",
+    "choices": [
+      "Tiens secrètes ces paroles, et scelle le livre jusqu’au temps de la fin",
+      "Publie ces paroles, et ouvre le livre immédiatement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:4 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-162",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:4",
+    "verseText": "Voir Daniel 12:4.",
+    "question": "En Daniel 12:4, quel mouvement humain est annoncé pour ce temps ?",
+    "choices": [
+      "Plusieurs courront çà et là, et la connaissance augmentera",
+      "Tous resteront immobiles, et la connaissance diminuera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:4 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-163",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:5",
+    "verseText": "Voir Daniel 12:5.",
+    "question": "En Daniel 12:5, combien d’autres personnages Daniel voit-il encore près du fleuve ?",
+    "choices": [
+      "Deux autres",
+      "Trois autres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:5 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-164",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:5",
+    "verseText": "Voir Daniel 12:5.",
+    "question": "En Daniel 12:5, où se tiennent-ils ?",
+    "choices": [
+      "L’un en deçà du bord du fleuve, et l’autre au delà du bord du fleuve",
+      "Tous deux au milieu de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:5 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-165",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:6",
+    "verseText": "Voir Daniel 12:6.",
+    "question": "En Daniel 12:6, à qui la question « Quand sera la fin de ces prodiges ? » est-elle adressée ?",
+    "choices": [
+      "À l’homme vêtu de lin, qui était au-dessus des eaux du fleuve",
+      "Au roi du midi, qui était sur son trône"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:6 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-166",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:7",
+    "verseText": "Voir Daniel 12:7.",
+    "question": "En Daniel 12:7, que l’homme vêtu de lin lève-t-il pour jurer ?",
+    "choices": [
+      "Sa main droite et sa main gauche vers les cieux",
+      "Son épée et son bouclier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:7 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-167",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:7",
+    "verseText": "Voir Daniel 12:7.",
+    "question": "En Daniel 12:7, par qui jure-t-il ?",
+    "choices": [
+      "Par celui qui vit éternellement",
+      "Par le roi de Perse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:7 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-168",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:7",
+    "verseText": "Voir Daniel 12:7.",
+    "question": "En Daniel 12:7, quelle durée est annoncée pour l’achèvement de ces choses ?",
+    "choices": [
+      "Un temps, des temps, et la moitié d’un temps",
+      "Deux temps, et un temps entier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:7 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-169",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:7",
+    "verseText": "Voir Daniel 12:7.",
+    "question": "En Daniel 12:7, quand toutes ces choses seront-elles achevées ?",
+    "choices": [
+      "Quand la force du peuple saint sera entièrement brisée",
+      "Quand le peuple saint deviendra plus fort que tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:7 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-170",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:8",
+    "verseText": "Voir Daniel 12:8.",
+    "question": "En Daniel 12:8, quelle réaction Daniel exprime-t-il face à ces paroles ?",
+    "choices": [
+      "Il entendit, mais il ne comprit pas",
+      "Il comprit tout immédiatement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:8 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-171",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:9",
+    "verseText": "Voir Daniel 12:9.",
+    "question": "En Daniel 12:9, que répond-on à Daniel sur la compréhension immédiate ?",
+    "choices": [
+      "Les paroles seront tenues secrètes et scellées jusqu’au temps de la fin",
+      "Les paroles doivent être criées dans les rues dès maintenant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:9 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-172",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:10",
+    "verseText": "Voir Daniel 12:10.",
+    "question": "En Daniel 12:10, quel processus est annoncé pour « beaucoup » ?",
+    "choices": [
+      "Ils seront purifiés, blanchis et éprouvés",
+      "Ils seront enrichis, élevés et couronnés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:10 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-173",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:10",
+    "verseText": "Voir Daniel 12:10.",
+    "question": "En Daniel 12:10, comment sont décrits « les méchants » face à l’intelligence ?",
+    "choices": [
+      "Aucun des méchants ne comprendra",
+      "Tous les méchants comprendront"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:10 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-174",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:10",
+    "verseText": "Voir Daniel 12:10.",
+    "question": "En Daniel 12:10, qui comprendra selon le texte ?",
+    "choices": [
+      "Ceux qui auront de l’intelligence",
+      "Ceux qui auront de l’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:10 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-175",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:11",
+    "verseText": "Voir Daniel 12:11.",
+    "question": "En Daniel 12:11, depuis quel point de départ les jours sont-ils comptés ?",
+    "choices": [
+      "Depuis le temps où cessera le sacrifice perpétuel et où sera dressée l’abomination du dévastateur",
+      "Depuis le jour où Daniel arrive à Suse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:11 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-176",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:11",
+    "verseText": "Voir Daniel 12:11.",
+    "question": "En Daniel 12:11, combien de jours sont indiqués ?",
+    "choices": [
+      "Mille deux cent quatre-vingt-dix jours",
+      "Deux mille trois cents jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:11 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-177",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:12",
+    "verseText": "Voir Daniel 12:12.",
+    "question": "En Daniel 12:12, quel nombre de jours est associé à la bénédiction ?",
+    "choices": [
+      "Mille trois cent trente-cinq jours",
+      "Mille deux cent soixante jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:12 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-178",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:13",
+    "verseText": "Voir Daniel 12:13.",
+    "question": "En Daniel 12:13, quel ordre final est donné à Daniel ?",
+    "choices": [
+      "Va, car tu te reposeras",
+      "Va, car tu règneras sur Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:13 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-179",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:13",
+    "verseText": "Voir Daniel 12:13.",
+    "question": "En Daniel 12:13, quelle promesse est liée à « la fin des jours » ?",
+    "choices": [
+      "Tu te lèveras pour ton héritage",
+      "Tu seras oublié à jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:13 (LSG 1910)."
+  },
+  {
+    "id": "daniel-D-180",
+    "book": "Daniel",
+    "chapter": 12,
+    "verseRef": "Daniel 12:13",
+    "verseText": "Voir Daniel 12:13.",
+    "question": "En Daniel 12:13, la promesse finale concerne-t-elle une action immédiate ou future ?",
+    "choices": [
+      "Future : « à la fin des jours »",
+      "Immédiate : « aujourd’hui même »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 12:13 (LSG 1910)."
+  }
+]

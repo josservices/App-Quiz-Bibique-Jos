@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "jonas-D-001",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:1",
+    "verseText": "Voir Jonas 1:1.",
+    "question": "Jonas est présenté comme fils de quel homme ?",
+    "choices": [
+      "Amitthaï",
+      "Amatsia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:1 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-002",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:2",
+    "verseText": "Voir Jonas 1:2.",
+    "question": "L’ordre divin à Jonas inclut-il l’expression « la grande ville » au sujet de Ninive ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:2 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-003",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:3",
+    "verseText": "Voir Jonas 1:3.",
+    "question": "Jonas fuit-il « loin de la face de l’Éternel » en se dirigeant vers Tarsis ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:3 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-004",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:3",
+    "verseText": "Voir Jonas 1:3.",
+    "question": "Le texte dit-il que Jonas « descendit à Japho » avant de trouver un navire ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:3 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-005",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:3",
+    "verseText": "Voir Jonas 1:3.",
+    "question": "Jonas « paya le prix du transport » avant de s’embarquer : est-ce exact ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:3 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-006",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:4",
+    "verseText": "Voir Jonas 1:4.",
+    "question": "L’Éternel fit-il souffler « un vent d’orient » au début de la tempête du chapitre 1 ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Jonas 1:4 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-007",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:4",
+    "verseText": "Voir Jonas 1:4.",
+    "question": "Le navire « menaçait de faire naufrage » : cette formule est-elle dans le récit ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:4 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-008",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:5",
+    "verseText": "Voir Jonas 1:5.",
+    "question": "Les mariniers crient-ils « chacun à son dieu » avant de jeter la cargaison ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:5 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-009",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:5",
+    "verseText": "Voir Jonas 1:5.",
+    "question": "Jonas est-il décrit comme « profondément endormi » dans le fond du navire ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:5 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-010",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:6",
+    "verseText": "Voir Jonas 1:6.",
+    "question": "Le pilote dit-il à Jonas : « Lève-toi, invoque ton Dieu! » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:6 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-011",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:7",
+    "verseText": "Voir Jonas 1:7.",
+    "question": "Les mariniers tirent-ils au sort pour savoir « à cause de qui » le malheur arrive ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:7 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-012",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:7",
+    "verseText": "Voir Jonas 1:7.",
+    "question": "Le sort tombe-t-il sur Jonas ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:7 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-013",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:8",
+    "verseText": "Voir Jonas 1:8.",
+    "question": "Les hommes demandent-ils à Jonas : « Quel est ton pays, et de quel peuple es-tu ? »",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:8 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-014",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:9",
+    "verseText": "Voir Jonas 1:9.",
+    "question": "Jonas répond-il : « Je suis Hébreu » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:9 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-015",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:9",
+    "verseText": "Voir Jonas 1:9.",
+    "question": "Jonas dit-il craindre « l’Éternel, le Dieu des cieux » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:9 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-016",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:9",
+    "verseText": "Voir Jonas 1:9.",
+    "question": "Jonas affirme-t-il que l’Éternel « a fait la mer et la terre » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:9 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-017",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:10",
+    "verseText": "Voir Jonas 1:10.",
+    "question": "Les hommes furent-ils saisis d’une grande crainte parce que Jonas leur déclara sa fuite ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:10 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-018",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:10",
+    "verseText": "Voir Jonas 1:10.",
+    "question": "Le texte rapporte-t-il la question : « Pourquoi as-tu fait cela ? »",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:10 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-019",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:11",
+    "verseText": "Voir Jonas 1:11.",
+    "question": "La mer devient-elle « de plus en plus orageuse » avant qu’ils interrogent Jonas ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:11 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-020",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:12",
+    "verseText": "Voir Jonas 1:12.",
+    "question": "Jonas propose-t-il explicitement : « Prenez-moi, et jetez-moi dans la mer » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:12 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-021",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:12",
+    "verseText": "Voir Jonas 1:12.",
+    "question": "Jonas dit-il : « Je sais que c’est moi qui attire sur vous cette grande tempête » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:12 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-022",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:13",
+    "verseText": "Voir Jonas 1:13.",
+    "question": "Les mariniers tentent-ils d’abord de gagner la terre en ramant ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:13 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-023",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:13",
+    "verseText": "Voir Jonas 1:13.",
+    "question": "Le texte dit-il que « la mer s’agitait toujours plus contre eux » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:13 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-024",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:14",
+    "verseText": "Voir Jonas 1:14.",
+    "question": "Avant de jeter Jonas, les hommes prient-ils l’Éternel de ne pas les faire périr à cause de la vie de cet homme ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:14 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-025",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:14",
+    "verseText": "Voir Jonas 1:14.",
+    "question": "Disent-ils aussi : « Car toi, Éternel, tu fais ce que tu veux » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:14 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-026",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:15",
+    "verseText": "Voir Jonas 1:15.",
+    "question": "Après que Jonas est jeté, « la fureur de la mer s’apaisa » : est-ce exact ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:15 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-027",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:16",
+    "verseText": "Voir Jonas 1:16.",
+    "question": "Les hommes offrirent-ils un sacrifice à l’Éternel et firent-ils des vœux après l’accalmie ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:16 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-028",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:17",
+    "verseText": "Voir Jonas 1:17.",
+    "question": "Est-il écrit que l’Éternel fit venir « un grand poisson » pour engloutir Jonas ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:17 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-029",
+    "book": "Jonas",
+    "chapter": 1,
+    "verseRef": "Jonas 1:17",
+    "verseText": "Voir Jonas 1:17.",
+    "question": "Jonas fut-il dans le ventre du poisson « trois jours et trois nuits » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:17 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-030",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:1",
+    "verseText": "Voir Jonas 2:1.",
+    "question": "Jonas prie-t-il « l’Éternel, son Dieu » dans le ventre du poisson ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:1 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-031",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:2",
+    "verseText": "Voir Jonas 2:2.",
+    "question": "Jonas dit-il : « Dans ma détresse, j’ai invoqué l’Éternel, et il m’a exaucé » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:2 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-032",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:2",
+    "verseText": "Voir Jonas 2:2.",
+    "question": "Jonas parle-t-il du « sein du séjour des morts » dans sa prière ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:2 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-033",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:3",
+    "verseText": "Voir Jonas 2:3.",
+    "question": "Le texte contient-il l’expression « dans l’abîme, dans le cœur de la mer » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:3 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-034",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:3",
+    "verseText": "Voir Jonas 2:3.",
+    "question": "Jonas déclare-t-il : « Toutes tes vagues et tous tes flots ont passé sur moi » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:3 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-035",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:4",
+    "verseText": "Voir Jonas 2:4.",
+    "question": "Jonas dit-il : « Je suis chassé loin de ton regard » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:4 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-036",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:4",
+    "verseText": "Voir Jonas 2:4.",
+    "question": "Jonas ajoute-t-il : « Mais je verrai encore ton saint temple » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:4 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-037",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:5",
+    "verseText": "Voir Jonas 2:5.",
+    "question": "Jonas dit-il que « les roseaux ont entouré sa tête » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:5 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-038",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:6",
+    "verseText": "Voir Jonas 2:6.",
+    "question": "Jonas affirme-t-il être descendu « jusqu’aux racines des montagnes » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:6 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-039",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:6",
+    "verseText": "Voir Jonas 2:6.",
+    "question": "La prière mentionne-t-elle : « Les barres de la terre m’enfermaient pour toujours » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:6 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-040",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:6",
+    "verseText": "Voir Jonas 2:6.",
+    "question": "Jonas dit-il : « Mais tu m’as fait remonter vivant de la fosse » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:6 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-041",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:7",
+    "verseText": "Voir Jonas 2:7.",
+    "question": "Jonas précise-t-il : « Quand mon âme était abattue… je me suis souvenu de l’Éternel » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:7 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-042",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:7",
+    "verseText": "Voir Jonas 2:7.",
+    "question": "Jonas dit-il que sa prière est parvenue « dans ton saint temple » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:7 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-043",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:8",
+    "verseText": "Voir Jonas 2:8.",
+    "question": "La prière contient-elle : « Ceux qui s’attachent à de vaines idoles éloignent d’eux la miséricorde » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:8 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-044",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:9",
+    "verseText": "Voir Jonas 2:9.",
+    "question": "Jonas promet-il : « Je t’offrirai des sacrifices avec un cri d’actions de grâces » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:9 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-045",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:9",
+    "verseText": "Voir Jonas 2:9.",
+    "question": "Jonas dit-il : « J’accomplirai les vœux que j’ai faits » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:9 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-046",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:9",
+    "verseText": "Voir Jonas 2:9.",
+    "question": "La formule « Le salut vient de l’Éternel » figure-t-elle dans Jonas ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:9 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-047",
+    "book": "Jonas",
+    "chapter": 2,
+    "verseRef": "Jonas 2:10",
+    "verseText": "Voir Jonas 2:10.",
+    "question": "L’Éternel parla-t-il au poisson, et le poisson vomit-il Jonas sur la terre ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:10 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-048",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:1",
+    "verseText": "Voir Jonas 3:1.",
+    "question": "La parole de l’Éternel fut-elle adressée à Jonas « une seconde fois » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:1 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-049",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:2",
+    "verseText": "Voir Jonas 3:2.",
+    "question": "L’ordre est-il : « proclames-y la publication que je t’ordonne » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:2 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-050",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:3",
+    "verseText": "Voir Jonas 3:3.",
+    "question": "Ninive est-elle décrite comme « une très grande ville, de trois jours de marche » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:3 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-051",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:4",
+    "verseText": "Voir Jonas 3:4.",
+    "question": "Jonas fit-il d’abord dans la ville « une journée de marche » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:4 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-052",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:4",
+    "verseText": "Voir Jonas 3:4.",
+    "question": "Jonas proclame-t-il : « Encore quarante jours, et Ninive est détruite! » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:4 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-053",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:5",
+    "verseText": "Voir Jonas 3:5.",
+    "question": "Les gens de Ninive crurent-ils à Dieu et publièrent-ils un jeûne ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:5 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-054",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:5",
+    "verseText": "Voir Jonas 3:5.",
+    "question": "Le texte précise-t-il : « depuis les plus grands jusqu’aux plus petits » au sujet du sac ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:5 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-055",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:6",
+    "verseText": "Voir Jonas 3:6.",
+    "question": "Le roi de Ninive se couvrit-il d’un sac et s’assit-il sur la cendre ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:6 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-056",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:7",
+    "verseText": "Voir Jonas 3:7.",
+    "question": "Est-il décrété que les hommes et les bêtes ne doivent ni manger ni boire ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:7 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-057",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:8",
+    "verseText": "Voir Jonas 3:8.",
+    "question": "Le décret exige-t-il qu’on crie à Dieu « avec force » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:8 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-058",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:8",
+    "verseText": "Voir Jonas 3:8.",
+    "question": "Les habitants doivent-ils se détourner de « leur mauvaise voie » et de la violence de leurs mains ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:8 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-059",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:10",
+    "verseText": "Voir Jonas 3:10.",
+    "question": "Le texte dit-il : « Dieu se repentit du mal qu’il avait résolu de leur faire » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:10 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-060",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:1",
+    "verseText": "Voir Jonas 4:1.",
+    "question": "Au début du chapitre 4, est-il écrit : « Cela déplut fort à Jonas, et il fut irrité » ?",
+    "choices": [
+      "Oui",
+      "Non"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:1 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-061",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:6",
+    "verseText": "Voir Jonas 3:6.",
+    "question": "Quel geste le roi de Ninive fait-il immédiatement en apprenant la proclamation ?",
+    "choices": [
+      "Il se leva de son trône",
+      "Il déchira le voile du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:6 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-062",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:6",
+    "verseText": "Voir Jonas 3:6.",
+    "question": "Après s’être levé, que fait le roi de ses vêtements selon le texte ?",
+    "choices": [
+      "Il se dépouilla de son manteau",
+      "Il se dépouilla de sa couronne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:6 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-063",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:6",
+    "verseText": "Voir Jonas 3:6.",
+    "question": "Que met le roi de Ninive après s’être dépouillé ?",
+    "choices": [
+      "Un sac",
+      "Un vêtement de lin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:6 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-064",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:6",
+    "verseText": "Voir Jonas 3:6.",
+    "question": "Où le roi s’assied-il une fois couvert d’un sac ?",
+    "choices": [
+      "Sur la cendre",
+      "Sur un trône d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:6 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-065",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:7",
+    "verseText": "Voir Jonas 3:7.",
+    "question": "Par qui le décret est-il publié dans Ninive ?",
+    "choices": [
+      "Par le roi et ses grands",
+      "Par Jonas et les mariniers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:7 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-066",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:7",
+    "verseText": "Voir Jonas 3:7.",
+    "question": "Quelle interdiction concerne aussi les troupeaux, les bœufs et les brebis ?",
+    "choices": [
+      "Ne goûter à rien",
+      "Ne sortir de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:7 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-067",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:7",
+    "verseText": "Voir Jonas 3:7.",
+    "question": "Qu’est-il explicitement interdit aux animaux dans le décret ?",
+    "choices": [
+      "Paître",
+      "Boire de l’eau"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Jonas 3:7 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-068",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:8",
+    "verseText": "Voir Jonas 3:8.",
+    "question": "De quoi hommes et bêtes doivent-ils être recouverts selon l’ordonnance ?",
+    "choices": [
+      "De sacs",
+      "De poussière"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:8 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-069",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:8",
+    "verseText": "Voir Jonas 3:8.",
+    "question": "Quelle intensité d’appel à Dieu est exigée dans le décret ?",
+    "choices": [
+      "Crier à Dieu avec force",
+      "Murmurer à Dieu doucement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:8 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-070",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:8",
+    "verseText": "Voir Jonas 3:8.",
+    "question": "Quel changement moral est demandé à chacun selon le texte ?",
+    "choices": [
+      "Se détourner de sa mauvaise voie",
+      "Se détourner de sa maison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:8 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-071",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:8",
+    "verseText": "Voir Jonas 3:8.",
+    "question": "Quelle réalité doit être abandonnée « dans leurs mains » ?",
+    "choices": [
+      "La violence",
+      "La paresse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:8 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-072",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:9",
+    "verseText": "Voir Jonas 3:9.",
+    "question": "Quelle formulation exprime l’espoir incertain face au jugement ?",
+    "choices": [
+      "« Qui sait si Dieu ne reviendra pas et ne se repentira pas »",
+      "« Qui sait si la mer ne s’apaisera pas »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:9 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-073",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:9",
+    "verseText": "Voir Jonas 3:9.",
+    "question": "De quoi Dieu doit-il se détourner pour que le peuple ne périsse pas ?",
+    "choices": [
+      "De sa colère ardente",
+      "De son alliance ancienne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:9 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-074",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:10",
+    "verseText": "Voir Jonas 3:10.",
+    "question": "Que regarde Dieu chez les habitants avant d’épargner Ninive ?",
+    "choices": [
+      "Leurs œuvres",
+      "Leurs richesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:10 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-075",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:10",
+    "verseText": "Voir Jonas 3:10.",
+    "question": "Quel tournant concret est mentionné dans leurs œuvres ?",
+    "choices": [
+      "Ils se détournèrent de leur mauvaise voie",
+      "Ils bâtirent une muraille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:10 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-076",
+    "book": "Jonas",
+    "chapter": 3,
+    "verseRef": "Jonas 3:10",
+    "verseText": "Voir Jonas 3:10.",
+    "question": "De quoi Dieu se repent-il envers Ninive, selon l’expression du texte ?",
+    "choices": [
+      "Du mal qu’il avait résolu de leur faire",
+      "Du bien qu’il avait promis de leur donner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:10 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-077",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:1",
+    "verseText": "Voir Jonas 4:1.",
+    "question": "Quelle émotion de Jonas est décrite juste après l’épargne de Ninive ?",
+    "choices": [
+      "Il fut irrité",
+      "Il fut rassasié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:1 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-078",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:2",
+    "verseText": "Voir Jonas 4:2.",
+    "question": "Quel qualificatif Jonas attribue-t-il à Dieu dans sa prière au chapitre 4 ?",
+    "choices": [
+      "Compatissant et miséricordieux",
+      "Cruel et changeant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:2 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-079",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:2",
+    "verseText": "Voir Jonas 4:2.",
+    "question": "Quelle qualité de Dieu Jonas associe-t-il à la patience ?",
+    "choices": [
+      "Lent à la colère",
+      "Prompt à frapper"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:2 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-080",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:2",
+    "verseText": "Voir Jonas 4:2.",
+    "question": "Quelle richesse morale Jonas mentionne-t-il chez Dieu ?",
+    "choices": [
+      "Riche en bonté",
+      "Riche en vengeance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:2 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-081",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:2",
+    "verseText": "Voir Jonas 4:2.",
+    "question": "Quelle action de Dieu envers le mal Jonas énonce-t-il explicitement ?",
+    "choices": [
+      "Il se repent du mal",
+      "Il confirme toujours le mal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:2 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-082",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:3",
+    "verseText": "Voir Jonas 4:3.",
+    "question": "Quelle demande extrême Jonas adresse-t-il à l’Éternel ?",
+    "choices": [
+      "Prends-moi la vie",
+      "Donne-moi un royaume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:3 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-083",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:3",
+    "verseText": "Voir Jonas 4:3.",
+    "question": "Pourquoi Jonas présente-t-il sa mort comme préférable ?",
+    "choices": [
+      "La mort m’est préférable à la vie",
+      "La vie m’est préférable à la mort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:3 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-084",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:4",
+    "verseText": "Voir Jonas 4:4.",
+    "question": "Quelle question l’Éternel adresse-t-il à Jonas au sujet de son irritation ?",
+    "choices": [
+      "Fais-tu bien de t’irriter ?",
+      "Fais-tu bien de te réjouir ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:4 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-085",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:5",
+    "verseText": "Voir Jonas 4:5.",
+    "question": "Où Jonas se place-t-il pour observer l’issue de la ville ?",
+    "choices": [
+      "À l’orient de la ville",
+      "Au nord de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:5 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-086",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:5",
+    "verseText": "Voir Jonas 4:5.",
+    "question": "Quel abri Jonas fabrique-t-il pour s’asseoir à l’ombre ?",
+    "choices": [
+      "Une cabane",
+      "Une tente de lin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:5 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-087",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:6",
+    "verseText": "Voir Jonas 4:6.",
+    "question": "Quel végétal Dieu fait-il croître au-dessus de Jonas ?",
+    "choices": [
+      "Un ricin",
+      "Un palmier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:6 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-088",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:6",
+    "verseText": "Voir Jonas 4:6.",
+    "question": "Quelle fonction précise le ricin devait-il remplir pour Jonas ?",
+    "choices": [
+      "Donner de l’ombre à sa tête",
+      "Lui ouvrir la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:6 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-089",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:6",
+    "verseText": "Voir Jonas 4:6.",
+    "question": "Quelle conséquence intérieure le ricin produit-il chez Jonas ?",
+    "choices": [
+      "Jonas éprouva une grande joie",
+      "Jonas éprouva une grande honte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:6 (LSG 1910)."
+  },
+  {
+    "id": "jonas-D-090",
+    "book": "Jonas",
+    "chapter": 4,
+    "verseRef": "Jonas 4:7",
+    "verseText": "Voir Jonas 4:7.",
+    "question": "Quel instrument Dieu prépare-t-il dès l’aurore pour frapper le ricin ?",
+    "choices": [
+      "Un ver",
+      "Un serpent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 4:7 (LSG 1910)."
+  }
+]

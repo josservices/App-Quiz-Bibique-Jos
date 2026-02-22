@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "1corinthiens-N-001",
+    "book": "1 Corinthiens",
+    "chapter": 1,
+    "verseRef": "1 Corinthiens 1:1",
+    "verseText": "Voir 1 Corinthiens 1:1.",
+    "question": "Qui Paul associe-t-il à son salut initial en tête de lettre ?",
+    "choices": [
+      "Timothée",
+      "Sosthène",
+      "Barnabas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 1:1 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-002",
+    "book": "1 Corinthiens",
+    "chapter": 1,
+    "verseRef": "1 Corinthiens 1:3",
+    "verseText": "Voir 1 Corinthiens 1:3.",
+    "question": "À qui Paul souhaite-t-il que “la grâce et la paix” soient données ?",
+    "choices": [
+      "De la part de Dieu notre Père et du Seigneur Jésus-Christ",
+      "De la part des anciens de Jérusalem",
+      "De la part des anges du ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 1:3 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-003",
+    "book": "1 Corinthiens",
+    "chapter": 1,
+    "verseRef": "1 Corinthiens 1:11",
+    "verseText": "Voir 1 Corinthiens 1:11.",
+    "question": "Selon Paul, d’où viennent les disputes signalées à Corinthe ?",
+    "choices": [
+      "Des gens de Chloé",
+      "Des gens de Philippe",
+      "Des gens de Timothée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 1:11 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-004",
+    "book": "1 Corinthiens",
+    "chapter": 1,
+    "verseRef": "1 Corinthiens 1:14",
+    "verseText": "Voir 1 Corinthiens 1:14.",
+    "question": "Quel nom Paul mentionne-t-il comme exception parmi ceux qu’il a baptisés à Corinthe ?",
+    "choices": [
+      "Crispus",
+      "Épaphrodite",
+      "Tite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 1:14 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-005",
+    "book": "1 Corinthiens",
+    "chapter": 1,
+    "verseRef": "1 Corinthiens 1:17",
+    "verseText": "Voir 1 Corinthiens 1:17.",
+    "question": "Que dit Paul que Christ ne l’a pas envoyé faire “premièrement” ?",
+    "choices": [
+      "Baptiser",
+      "Guérir",
+      "Juger"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 1:17 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-006",
+    "book": "1 Corinthiens",
+    "chapter": 2,
+    "verseRef": "1 Corinthiens 2:10",
+    "verseText": "Voir 1 Corinthiens 2:10.",
+    "question": "Selon Paul, comment les choses de Dieu ont-elles été révélées aux croyants ?",
+    "choices": [
+      "Par l’Esprit",
+      "Par les astres",
+      "Par la sagesse des Grecs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 2:10 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-007",
+    "book": "1 Corinthiens",
+    "chapter": 2,
+    "verseRef": "1 Corinthiens 2:14",
+    "verseText": "Voir 1 Corinthiens 2:14.",
+    "question": "Quel qualificatif Paul donne-t-il à l’homme qui ne reçoit pas les choses de l’Esprit de Dieu ?",
+    "choices": [
+      "CharneI",
+      "Spirituel",
+      "Naturel"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : 1 Corinthiens 2:14 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-008",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:1",
+    "verseText": "Voir 1 Corinthiens 3:1.",
+    "question": "Comment Paul décrit-il son langage auprès des Corinthiens au début ?",
+    "choices": [
+      "Comme à des hommes spirituels",
+      "Comme à des hommes charnels",
+      "Comme à des hommes parfaits"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 3:1 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-009",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:6",
+    "verseText": "Voir 1 Corinthiens 3:6.",
+    "question": "Quelle image Paul emploie-t-il pour décrire son action et celle d’Apollos ?",
+    "choices": [
+      "J’ai planté, Apollos a arrosé",
+      "J’ai bâti, Apollos a détruit",
+      "J’ai jugé, Apollos a condamné"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:6 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-010",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:7",
+    "verseText": "Voir 1 Corinthiens 3:7.",
+    "question": "Selon Paul, qui donne l’accroissement ?",
+    "choices": [
+      "Dieu",
+      "L’homme",
+      "La loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:7 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-011",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:16",
+    "verseText": "Voir 1 Corinthiens 3:16.",
+    "question": "Qu’est-ce que Paul appelle “le temple de Dieu” dans son avertissement ?",
+    "choices": [
+      "Le corps des croyants",
+      "Les tables de la loi",
+      "Le mont Sinaï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:16 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-012",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:1",
+    "verseText": "Voir 1 Corinthiens 4:1.",
+    "question": "Comment Paul demande-t-il qu’on regarde les apôtres ?",
+    "choices": [
+      "Comme des serviteurs de Christ et des dispensateurs des mystères de Dieu",
+      "Comme des princes des nations",
+      "Comme des juges des royaumes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 4:1 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-013",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:17",
+    "verseText": "Voir 1 Corinthiens 4:17.",
+    "question": "Dans quel but Paul dit-il avoir envoyé Timothée ?",
+    "choices": [
+      "Pour rappeler ses voies en Christ",
+      "Pour lever une offrande à Jérusalem",
+      "Pour annoncer un nouveau baptême"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 4:17 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-014",
+    "book": "1 Corinthiens",
+    "chapter": 5,
+    "verseRef": "1 Corinthiens 5:1",
+    "verseText": "Voir 1 Corinthiens 5:1.",
+    "question": "Quel cas Paul condamne-t-il comme absent même chez les païens ?",
+    "choices": [
+      "Quelqu’un a la femme de son père",
+      "Quelqu’un mange de la viande",
+      "Quelqu’un parle en langues"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 5:1 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-015",
+    "book": "1 Corinthiens",
+    "chapter": 5,
+    "verseRef": "1 Corinthiens 5:7",
+    "verseText": "Voir 1 Corinthiens 5:7.",
+    "question": "Quelle action Paul ordonne-t-il à l’Église envers “le vieux levain” ?",
+    "choices": [
+      "Ôter le vieux levain",
+      "Garder le vieux levain",
+      "Vendre le vieux levain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 5:7 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-016",
+    "book": "1 Corinthiens",
+    "chapter": 6,
+    "verseRef": "1 Corinthiens 6:7",
+    "verseText": "Voir 1 Corinthiens 6:7.",
+    "question": "Dans quel domaine Paul reproche-t-il aux Corinthiens d’aller devant les tribunaux ?",
+    "choices": [
+      "Les différends",
+      "Les prières",
+      "Les guérisons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 6:7 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-017",
+    "book": "1 Corinthiens",
+    "chapter": 6,
+    "verseRef": "1 Corinthiens 6:19",
+    "verseText": "Voir 1 Corinthiens 6:19.",
+    "question": "Que dit Paul au sujet du corps du croyant ?",
+    "choices": [
+      "Il est le temple du Saint-Esprit",
+      "Il est sans valeur",
+      "Il est destiné à disparaître sans résurrection"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 6:19 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-018",
+    "book": "1 Corinthiens",
+    "chapter": 6,
+    "verseRef": "1 Corinthiens 6:18",
+    "verseText": "Voir 1 Corinthiens 6:18.",
+    "question": "Quelle raison Paul donne-t-il pour fuir l’impudicité ?",
+    "choices": [
+      "Tout autre péché est hors du corps, mais l’impudique pèche contre son propre corps",
+      "Parce que les aliments souillent l’âme",
+      "Parce que les anges accusent jour et nuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 6:18 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-019",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:1",
+    "verseText": "Voir 1 Corinthiens 7:1.",
+    "question": "Quel principe Paul pose-t-il au sujet de “ce que vous m’avez écrit” sur les relations ?",
+    "choices": [
+      "Il est bon pour l’homme de ne pas toucher de femme",
+      "Il est obligatoire de se marier",
+      "Il est interdit de se marier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:1 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-020",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:14",
+    "verseText": "Voir 1 Corinthiens 7:14.",
+    "question": "Que dit Paul au sujet du conjoint non-croyant dans le mariage ?",
+    "choices": [
+      "Il est sanctifié par le conjoint croyant",
+      "Il doit être chassé immédiatement",
+      "Il est automatiquement excommunié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:14 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-021",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:20",
+    "verseText": "Voir 1 Corinthiens 7:20.",
+    "question": "Quel conseil Paul donne-t-il concernant l’état où chacun a été appelé ?",
+    "choices": [
+      "Que chacun demeure dans l’état où il était lorsqu’il a été appelé",
+      "Que chacun change de condition sans délai",
+      "Que chacun quitte son métier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:20 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-022",
+    "book": "1 Corinthiens",
+    "chapter": 8,
+    "verseRef": "1 Corinthiens 8:1",
+    "verseText": "Voir 1 Corinthiens 8:1.",
+    "question": "Selon Paul, que produit “la science” lorsqu’elle est seule ?",
+    "choices": [
+      "Elle enfle",
+      "Elle sanctifie",
+      "Elle justifie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 8:1 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-023",
+    "book": "1 Corinthiens",
+    "chapter": 9,
+    "verseRef": "1 Corinthiens 9:2",
+    "verseText": "Voir 1 Corinthiens 9:2.",
+    "question": "Quel argument Paul donne-t-il pour montrer qu’il est apôtre ?",
+    "choices": [
+      "Vous êtes le sceau de mon apostolat dans le Seigneur",
+      "J’ai été élevé à Rome",
+      "J’ai reçu la loi au désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 9:2 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-024",
+    "book": "1 Corinthiens",
+    "chapter": 9,
+    "verseRef": "1 Corinthiens 9:27",
+    "verseText": "Voir 1 Corinthiens 9:27.",
+    "question": "Quelle expression Paul utilise-t-il à propos de sa discipline personnelle ?",
+    "choices": [
+      "Je traite durement mon corps et je le tiens assujetti",
+      "Je laisse mon corps se reposer toujours",
+      "Je ne combats jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 9:27 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-025",
+    "book": "1 Corinthiens",
+    "chapter": 10,
+    "verseRef": "1 Corinthiens 10:2",
+    "verseText": "Voir 1 Corinthiens 10:2.",
+    "question": "Quelle réalité Paul rappelle-t-il au sujet des Israélites “sous la nuée” ?",
+    "choices": [
+      "Tous ont été baptisés en Moïse",
+      "Tous ont été rois en Égypte",
+      "Tous ont été prophètes à Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 10:2 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-026",
+    "book": "1 Corinthiens",
+    "chapter": 10,
+    "verseRef": "1 Corinthiens 10:4",
+    "verseText": "Voir 1 Corinthiens 10:4.",
+    "question": "Selon Paul, que signifie le “roc” qui suivait Israël ?",
+    "choices": [
+      "Ce roc était Christ",
+      "Ce roc était Moïse",
+      "Ce roc était Aaron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 10:4 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-027",
+    "book": "1 Corinthiens",
+    "chapter": 10,
+    "verseRef": "1 Corinthiens 10:13",
+    "verseText": "Voir 1 Corinthiens 10:13.",
+    "question": "Quelle issue Paul affirme-t-il que Dieu prépare dans la tentation ?",
+    "choices": [
+      "Un moyen d’en sortir",
+      "Une condamnation certaine",
+      "Une tentation supérieure à vos forces"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 10:13 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-028",
+    "book": "1 Corinthiens",
+    "chapter": 10,
+    "verseRef": "1 Corinthiens 10:14",
+    "verseText": "Voir 1 Corinthiens 10:14.",
+    "question": "Quel ordre direct Paul donne-t-il au sujet de l’idolâtrie ?",
+    "choices": [
+      "Fuyez l’idolâtrie",
+      "Étudiez l’idolâtrie",
+      "Imitez l’idolâtrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 10:14 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-029",
+    "book": "1 Corinthiens",
+    "chapter": 10,
+    "verseRef": "1 Corinthiens 10:31",
+    "verseText": "Voir 1 Corinthiens 10:31.",
+    "question": "Quel but Paul donne-t-il comme règle de conduite générale ?",
+    "choices": [
+      "Faites tout pour la gloire de Dieu",
+      "Faites tout pour votre renommée",
+      "Faites tout pour gagner les débats"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 10:31 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-030",
+    "book": "1 Corinthiens",
+    "chapter": 11,
+    "verseRef": "1 Corinthiens 11:1",
+    "verseText": "Voir 1 Corinthiens 11:1.",
+    "question": "Quelle instruction Paul donne-t-il pour sa propre imitation ?",
+    "choices": [
+      "Soyez mes imitateurs, comme je le suis de Christ",
+      "Soyez mes imitateurs, comme je le suis de César",
+      "Soyez mes imitateurs, comme je le suis de Moïse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 11:1 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-031",
+    "book": "1 Corinthiens",
+    "chapter": 11,
+    "verseRef": "1 Corinthiens 11:29",
+    "verseText": "Voir 1 Corinthiens 11:29.",
+    "question": "Quel motif Paul invoque-t-il lorsqu’il parle de la “table du Seigneur” ?",
+    "choices": [
+      "Faire la différence entre le corps",
+      "Abolir la mémoire du Seigneur",
+      "Remplacer la coupe par l’eau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 11:29 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-032",
+    "book": "1 Corinthiens",
+    "chapter": 11,
+    "verseRef": "1 Corinthiens 11:26",
+    "verseText": "Voir 1 Corinthiens 11:26.",
+    "question": "Que dit Paul que l’on annonce en prenant le pain et la coupe ?",
+    "choices": [
+      "La mort du Seigneur, jusqu’à ce qu’il vienne",
+      "La naissance du Seigneur, jusqu’à ce qu’il revienne",
+      "La loi du Seigneur, jusqu’à la fin du monde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 11:26 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-033",
+    "book": "1 Corinthiens",
+    "chapter": 12,
+    "verseRef": "1 Corinthiens 12:4",
+    "verseText": "Voir 1 Corinthiens 12:4.",
+    "question": "D’après Paul, d’où viennent les diverses manifestations spirituelles ?",
+    "choices": [
+      "Du même Esprit",
+      "Des traditions humaines",
+      "Des anges déchus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 12:4 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-034",
+    "book": "1 Corinthiens",
+    "chapter": 12,
+    "verseRef": "1 Corinthiens 12:12",
+    "verseText": "Voir 1 Corinthiens 12:12.",
+    "question": "Quel exemple Paul utilise-t-il pour expliquer l’unité et la diversité dans l’Église ?",
+    "choices": [
+      "Le corps et ses membres",
+      "Le désert et la mer",
+      "La tour et ses pierres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 12:12 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-035",
+    "book": "1 Corinthiens",
+    "chapter": 12,
+    "verseRef": "1 Corinthiens 12:31",
+    "verseText": "Voir 1 Corinthiens 12:31.",
+    "question": "Que dit Paul au sujet du “meilleur” chemin après les dons ?",
+    "choices": [
+      "Je vais vous montrer une voie par excellence",
+      "Je vais vous montrer un rite secret",
+      "Je vais vous montrer une sagesse des Grecs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 12:31 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-036",
+    "book": "1 Corinthiens",
+    "chapter": 13,
+    "verseRef": "1 Corinthiens 13:1",
+    "verseText": "Voir 1 Corinthiens 13:1.",
+    "question": "Sans quoi, même parler les langues des hommes et des anges ne sert-il à rien selon Paul ?",
+    "choices": [
+      "La charité",
+      "La force",
+      "L’éloquence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 13:1 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-037",
+    "book": "1 Corinthiens",
+    "chapter": 13,
+    "verseRef": "1 Corinthiens 13:6",
+    "verseText": "Voir 1 Corinthiens 13:6.",
+    "question": "Comment Paul décrit-il la charité face au mal ?",
+    "choices": [
+      "Elle ne se réjouit pas de l’injustice, mais elle se réjouit de la vérité",
+      "Elle se réjouit de l’injustice, mais elle hait la vérité",
+      "Elle ne distingue ni injustice ni vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 13:6 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-038",
+    "book": "1 Corinthiens",
+    "chapter": 13,
+    "verseRef": "1 Corinthiens 13:8",
+    "verseText": "Voir 1 Corinthiens 13:8.",
+    "question": "Quelle affirmation Paul fait-il sur la durée de la charité ?",
+    "choices": [
+      "La charité ne périt jamais",
+      "La charité cesse à la mort",
+      "La charité dépend des dons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 13:8 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-039",
+    "book": "1 Corinthiens",
+    "chapter": 14,
+    "verseRef": "1 Corinthiens 14:1",
+    "verseText": "Voir 1 Corinthiens 14:1.",
+    "question": "Selon Paul, que doit rechercher celui qui aspire aux dons spirituels ?",
+    "choices": [
+      "Celui de prophétie",
+      "Celui de silence",
+      "Celui de richesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 14:1 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-040",
+    "book": "1 Corinthiens",
+    "chapter": 14,
+    "verseRef": "1 Corinthiens 14:3",
+    "verseText": "Voir 1 Corinthiens 14:3.",
+    "question": "Quel objectif Paul donne-t-il à la prophétie dans l’assemblée ?",
+    "choices": [
+      "L’édification, l’exhortation et la consolation",
+      "L’exhibition et la confusion",
+      "La condamnation et la moquerie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 14:3 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-041",
+    "book": "1 Corinthiens",
+    "chapter": 14,
+    "verseRef": "1 Corinthiens 14:33",
+    "verseText": "Voir 1 Corinthiens 14:33.",
+    "question": "Quel principe Paul pose-t-il au sujet de Dieu dans l’ordre du culte ?",
+    "choices": [
+      "Dieu n’est pas un Dieu de désordre, mais de paix",
+      "Dieu est un Dieu d’hésitation",
+      "Dieu est un Dieu de silence absolu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 14:33 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-042",
+    "book": "1 Corinthiens",
+    "chapter": 14,
+    "verseRef": "1 Corinthiens 14:40",
+    "verseText": "Voir 1 Corinthiens 14:40.",
+    "question": "Par quelle formule Paul conclut-il sa recommandation sur l’ordre ?",
+    "choices": [
+      "Que tout se fasse avec bienséance et avec ordre",
+      "Que tout se fasse selon les habitudes du monde",
+      "Que tout se fasse en secret"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 14:40 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-043",
+    "book": "1 Corinthiens",
+    "chapter": 15,
+    "verseRef": "1 Corinthiens 15:2",
+    "verseText": "Voir 1 Corinthiens 15:2.",
+    "question": "Quel évangile Paul rappelle-t-il comme ayant été annoncé et reçu ?",
+    "choices": [
+      "Celui par lequel vous êtes sauvés, si vous le retenez tel que je vous l’ai annoncé",
+      "Celui qui annule la résurrection",
+      "Celui qui supprime la croix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 15:2 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-044",
+    "book": "1 Corinthiens",
+    "chapter": 15,
+    "verseRef": "1 Corinthiens 15:4",
+    "verseText": "Voir 1 Corinthiens 15:4.",
+    "question": "Quel fait Paul place-t-il au cœur de l’annonce apostolique concernant Christ ?",
+    "choices": [
+      "Il est ressuscité le troisième jour, selon les Écritures",
+      "Il a régné à Rome dix ans",
+      "Il a aboli les prophètes d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 15:4 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-045",
+    "book": "1 Corinthiens",
+    "chapter": 15,
+    "verseRef": "1 Corinthiens 15:6",
+    "verseText": "Voir 1 Corinthiens 15:6.",
+    "question": "À qui Paul dit-il que Christ est apparu ensuite “à plus de cinq cents frères” ?",
+    "choices": [
+      "À plus de cinq cents frères à la fois",
+      "À plus de cinq cents pharisiens",
+      "À plus de cinq cents soldats"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 15:6 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-046",
+    "book": "1 Corinthiens",
+    "chapter": 15,
+    "verseRef": "1 Corinthiens 15:20",
+    "verseText": "Voir 1 Corinthiens 15:20.",
+    "question": "Quel titre Paul donne-t-il à Christ en lien avec la résurrection ?",
+    "choices": [
+      "Les prémices de ceux qui sont morts",
+      "Le dernier prophète d’Israël",
+      "Le premier ange du ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 15:20 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-047",
+    "book": "1 Corinthiens",
+    "chapter": 15,
+    "verseRef": "1 Corinthiens 15:52",
+    "verseText": "Voir 1 Corinthiens 15:52.",
+    "question": "Comment Paul décrit-il la transformation finale des vivants et des morts ?",
+    "choices": [
+      "En un instant, en un clin d’œil, à la dernière trompette",
+      "En plusieurs années, par effort humain",
+      "En secret, sans changement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 15:52 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-048",
+    "book": "1 Corinthiens",
+    "chapter": 15,
+    "verseRef": "1 Corinthiens 15:55",
+    "verseText": "Voir 1 Corinthiens 15:55.",
+    "question": "Quelle proclamation Paul lance-t-il face à la mort ?",
+    "choices": [
+      "Ô mort, où est ta victoire ? Ô mort, où est ton aiguillon ?",
+      "Ô mort, tu es invincible",
+      "Ô mort, tu n’existes pas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 15:55 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-049",
+    "book": "1 Corinthiens",
+    "chapter": 15,
+    "verseRef": "1 Corinthiens 15:58",
+    "verseText": "Voir 1 Corinthiens 15:58.",
+    "question": "Quel encouragement Paul donne-t-il à propos du travail dans le Seigneur ?",
+    "choices": [
+      "Votre travail n’est pas vain dans le Seigneur",
+      "Votre travail est toujours inutile",
+      "Votre travail dépend des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 15:58 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-050",
+    "book": "1 Corinthiens",
+    "chapter": 16,
+    "verseRef": "1 Corinthiens 16:2",
+    "verseText": "Voir 1 Corinthiens 16:2.",
+    "question": "Quel principe Paul donne-t-il pour la collecte en faveur des saints ?",
+    "choices": [
+      "Que chacun de vous, le premier jour de la semaine, mette à part chez lui ce qu’il pourra",
+      "Que chacun attende une seule grande collecte annuelle",
+      "Que seul le responsable donne pour tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 16:2 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-051",
+    "book": "1 Corinthiens",
+    "chapter": 16,
+    "verseRef": "1 Corinthiens 16:3",
+    "verseText": "Voir 1 Corinthiens 16:3.",
+    "question": "Quel nom Paul cite-t-il comme destinataire possible pour porter les dons à Jérusalem ?",
+    "choices": [
+      "Ceux que vous aurez approuvés par des lettres",
+      "Les soldats romains",
+      "Les prophètes de Baal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 16:3 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-052",
+    "book": "1 Corinthiens",
+    "chapter": 16,
+    "verseRef": "1 Corinthiens 16:9",
+    "verseText": "Voir 1 Corinthiens 16:9.",
+    "question": "Que dit Paul au sujet d’Éphèse dans ses projets ?",
+    "choices": [
+      "Une porte grande et d’un accès efficace m’y est ouverte, et les adversaires sont nombreux",
+      "La ville est fermée à jamais",
+      "Je n’y trouverai aucun adversaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 16:9 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-053",
+    "book": "1 Corinthiens",
+    "chapter": 16,
+    "verseRef": "1 Corinthiens 16:13",
+    "verseText": "Voir 1 Corinthiens 16:13.",
+    "question": "Quel ordre bref Paul donne-t-il concernant la vigilance et la fermeté ?",
+    "choices": [
+      "Veillez, demeurez fermes dans la foi",
+      "Doutez, changez de foi",
+      "Dormez, abandonnez la foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 16:13 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-054",
+    "book": "1 Corinthiens",
+    "chapter": 8,
+    "verseRef": "1 Corinthiens 8:13",
+    "verseText": "Voir 1 Corinthiens 8:13.",
+    "question": "Par quelle formule Paul résume-t-il la règle de conduite envers les faibles au sujet des aliments ?",
+    "choices": [
+      "Si un aliment scandalise mon frère, je ne mangerai jamais de viande",
+      "Si un aliment plaît à tous, je mangerai toujours",
+      "Si un aliment est rare, je l’exigerai"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 8:13 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-055",
+    "book": "1 Corinthiens",
+    "chapter": 1,
+    "verseRef": "1 Corinthiens 1:18",
+    "verseText": "Voir 1 Corinthiens 1:18.",
+    "question": "Quel contraste Paul établit-il entre “la sagesse” et “la croix” pour certains auditeurs ?",
+    "choices": [
+      "La prédication de la croix est une folie pour ceux qui périssent",
+      "La prédication de la croix est inutile pour les sauvés",
+      "La prédication de la croix est une tradition humaine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 1:18 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-056",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:11",
+    "verseText": "Voir 1 Corinthiens 3:11.",
+    "question": "Que dit Paul au sujet du fondement de l’édifice spirituel ?",
+    "choices": [
+      "Nul ne peut poser un autre fondement que celui qui a été posé, savoir Jésus-Christ",
+      "Le fondement peut être la sagesse humaine",
+      "Le fondement est la tradition des anciens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:11 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-057",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:15",
+    "verseText": "Voir 1 Corinthiens 3:15.",
+    "question": "Quelle expression Paul utilise-t-il pour décrire le salut “comme au travers du feu” ?",
+    "choices": [
+      "Il sera sauvé, mais comme au travers du feu",
+      "Il sera condamné, même s’il a bâti",
+      "Il sera récompensé sans épreuve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:15 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-058",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:21",
+    "verseText": "Voir 1 Corinthiens 3:21.",
+    "question": "Quelle attitude Paul condamne-t-il lorsqu’on se glorifie d’un homme ?",
+    "choices": [
+      "Que personne donc ne mette sa gloire dans des hommes",
+      "Qu’on se glorifie seulement des chefs",
+      "Qu’on se glorifie des plus forts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:21 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-059",
+    "book": "1 Corinthiens",
+    "chapter": 6,
+    "verseRef": "1 Corinthiens 6:18",
+    "verseText": "Voir 1 Corinthiens 6:18.",
+    "question": "Quel appel Paul lance-t-il au sujet de la fuite d’une pratique précise “contre le corps” ?",
+    "choices": [
+      "Fuyez l’impudicité",
+      "Fuyez le travail",
+      "Fuyez la prière"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 6:18 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-060",
+    "book": "1 Corinthiens",
+    "chapter": 16,
+    "verseRef": "1 Corinthiens 16:14",
+    "verseText": "Voir 1 Corinthiens 16:14.",
+    "question": "Comment Paul conclut-il son exhortation sur l’amour en actes concrets ?",
+    "choices": [
+      "Que tout ce que vous faites se fasse avec charité",
+      "Que tout ce que vous faites se fasse avec crainte des hommes",
+      "Que tout ce que vous faites se fasse en secret"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 16:14 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-061",
+    "book": "1 Corinthiens",
+    "chapter": 1,
+    "verseRef": "1 Corinthiens 1:26",
+    "verseText": "Voir 1 Corinthiens 1:26.",
+    "question": "Quelle observation Paul fait-il sur ceux qui ont été appelés parmi les Corinthiens ?",
+    "choices": [
+      "Il y a parmi vous beaucoup de sages selon la chair, beaucoup de puissants, beaucoup de nobles",
+      "Il n’y a parmi vous ni sage selon la chair, ni puissant, ni noble",
+      "Il n’y a parmi vous pas beaucoup de sages selon la chair, ni beaucoup de puissants, ni beaucoup de nobles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : 1 Corinthiens 1:26 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-062",
+    "book": "1 Corinthiens",
+    "chapter": 1,
+    "verseRef": "1 Corinthiens 1:27",
+    "verseText": "Voir 1 Corinthiens 1:27.",
+    "question": "Par quelle expression Paul définit-il l’action de Dieu envers les sages ?",
+    "choices": [
+      "Il a honoré la sagesse de ce monde",
+      "Il a convaincu les sages par des signes",
+      "Il a confondu la sagesse des sages"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : 1 Corinthiens 1:27 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-063",
+    "book": "1 Corinthiens",
+    "chapter": 2,
+    "verseRef": "1 Corinthiens 2:1",
+    "verseText": "Voir 1 Corinthiens 2:1.",
+    "question": "Comment Paul présente-t-il son arrivée auprès des Corinthiens ?",
+    "choices": [
+      "Avec une supériorité de langage ou de sagesse",
+      "Avec une supériorité de langage et de sagesse",
+      "Sans supériorité de langage ou de sagesse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : 1 Corinthiens 2:1 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-064",
+    "book": "1 Corinthiens",
+    "chapter": 2,
+    "verseRef": "1 Corinthiens 2:1",
+    "verseText": "Voir 1 Corinthiens 2:1.",
+    "question": "Quelle chose Paul dit-il ne pas avoir eu à proclamer chez eux ?",
+    "choices": [
+      "Le témoignage de Dieu",
+      "Les mystères de Dieu",
+      "Les oracles d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 2:1 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-065",
+    "book": "1 Corinthiens",
+    "chapter": 2,
+    "verseRef": "1 Corinthiens 2:8",
+    "verseText": "Voir 1 Corinthiens 2:8.",
+    "question": "Quel rôle Paul attribue-t-il aux “chefs de ce siècle” face à la sagesse de Dieu ?",
+    "choices": [
+      "Ils l’ont comprise et ont crucifié le Seigneur de gloire",
+      "Ils ne l’ont pas connue; s’ils l’avaient connue, ils n’auraient pas crucifié le Seigneur de gloire",
+      "Ils l’ont connue, mais l’ont cachée par prudence"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 2:8 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-066",
+    "book": "1 Corinthiens",
+    "chapter": 2,
+    "verseRef": "1 Corinthiens 2:9",
+    "verseText": "Voir 1 Corinthiens 2:9.",
+    "question": "Quelle phrase Paul emploie-t-il pour décrire l’incompréhensible des choses préparées par Dieu ?",
+    "choices": [
+      "Ce que l’œil n’a point vu, ce que l’oreille n’a point entendu, et ce qui n’est point monté au cœur de l’homme",
+      "Ce que les anges ont écrit et ce que les hommes ont répété",
+      "Ce que les sages ont découvert et ce que les puissants ont gardé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 2:9 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-067",
+    "book": "1 Corinthiens",
+    "chapter": 2,
+    "verseRef": "1 Corinthiens 2:10",
+    "verseText": "Voir 1 Corinthiens 2:10.",
+    "question": "Selon Paul, que fait l’Esprit “même” au sujet des profondeurs ?",
+    "choices": [
+      "Il les ignore pour préserver la paix",
+      "Il sonde tout, même les profondeurs de Dieu",
+      "Il les remplace par la tradition"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 2:10 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-068",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:3-4",
+    "verseText": "Voir 1 Corinthiens 3:3-4.",
+    "question": "Quelle attitude Paul condamne-t-il quand les uns disent “Moi, je suis de Paul” ?",
+    "choices": [
+      "Une marche selon l’homme",
+      "Une marche selon l’Esprit",
+      "Une marche selon les anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:3-4 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-069",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:5",
+    "verseText": "Voir 1 Corinthiens 3:5.",
+    "question": "Quelle question Paul pose-t-il pour relativiser Paul et Apollos ?",
+    "choices": [
+      "Qui donc est Paul, et qui est Apollos ?",
+      "Qui donc est Pierre, et qui est Jean ?",
+      "Qui donc est Moïse, et qui est Aaron ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:5 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-070",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:10",
+    "verseText": "Voir 1 Corinthiens 3:10.",
+    "question": "Quel avertissement Paul donne-t-il sur la manière de bâtir ?",
+    "choices": [
+      "Que chacun prenne garde à la manière dont il bâtit",
+      "Que chacun bâtisse selon sa propre sagesse",
+      "Que chacun bâtisse seulement avec l’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:10 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-071",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:12",
+    "verseText": "Voir 1 Corinthiens 3:12.",
+    "question": "Quel matériau Paul cite-t-il comme exemple pouvant être éprouvé par le feu ?",
+    "choices": [
+      "Bois, foin, chaume",
+      "Argile, sable, paille",
+      "Fer, bronze, pierre brute"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:12 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-072",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:14",
+    "verseText": "Voir 1 Corinthiens 3:14.",
+    "question": "Quelle promesse Paul donne-t-il à celui dont l’œuvre demeure après l’épreuve ?",
+    "choices": [
+      "Il recevra une récompense",
+      "Il recevra une condamnation",
+      "Il perdra le salut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:14 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-073",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:18",
+    "verseText": "Voir 1 Corinthiens 3:18.",
+    "question": "Quel principe Paul énonce-t-il sur la sagesse face à ce monde ?",
+    "choices": [
+      "Que celui qui veut être sage devienne fou, afin de devenir sage",
+      "Que celui qui veut être sage imite les Grecs",
+      "Que celui qui veut être sage évite toute doctrine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:18 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-074",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:19",
+    "verseText": "Voir 1 Corinthiens 3:19.",
+    "question": "Quel texte Paul cite-t-il pour montrer que Dieu prend les sages à leur propre ruse ?",
+    "choices": [
+      "Il prend les sages dans leur ruse",
+      "Il élève les sages par leur ruse",
+      "Il absout les sages malgré leur ruse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:19 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-075",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:5",
+    "verseText": "Voir 1 Corinthiens 4:5.",
+    "question": "Quelle formule Paul utilise-t-il pour limiter les jugements prématurés ?",
+    "choices": [
+      "Ne jugez de rien avant le temps",
+      "Jugez tout maintenant sans réserve",
+      "Ne jugez que les petits péchés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 4:5 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-076",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:5",
+    "verseText": "Voir 1 Corinthiens 4:5.",
+    "question": "Que dit Paul que le Seigneur fera au moment opportun concernant les conseils des cœurs ?",
+    "choices": [
+      "Il mettra en lumière les choses cachées des ténèbres et il manifestera les desseins des cœurs",
+      "Il oubliera les choses cachées",
+      "Il confondra les cœurs sans rien manifester"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 4:5 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-077",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:6",
+    "verseText": "Voir 1 Corinthiens 4:6.",
+    "question": "Quelle mise en garde Paul donne-t-il avec l’expression “au delà de ce qui est écrit” ?",
+    "choices": [
+      "Ne pas aller au delà de ce qui est écrit",
+      "Aller au delà de ce qui est écrit",
+      "Remplacer ce qui est écrit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 4:6 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-078",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:7",
+    "verseText": "Voir 1 Corinthiens 4:7.",
+    "question": "Quelle question Paul pose-t-il pour briser la vantardise personnelle ?",
+    "choices": [
+      "Qu’as-tu que tu n’aies reçu ?",
+      "Qu’as-tu que tu n’aies acheté ?",
+      "Qu’as-tu que tu n’aies volé ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 4:7 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-079",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:11",
+    "verseText": "Voir 1 Corinthiens 4:11.",
+    "question": "Comment Paul décrit-t-il les apôtres “jusqu’à cette heure” ?",
+    "choices": [
+      "Rassasiés, honorés, puissants",
+      "Affamés, assoiffés, nus, battus, errants",
+      "Forts, riches, élevés"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 4:11 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-080",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:13",
+    "verseText": "Voir 1 Corinthiens 4:13.",
+    "question": "Quel terme Paul emploie-t-il pour parler de ce que les apôtres sont devenus aux yeux du monde ?",
+    "choices": [
+      "Les prémices du monde",
+      "Les balayures du monde",
+      "Les maîtres du monde"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 4:13 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-081",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:14",
+    "verseText": "Voir 1 Corinthiens 4:14.",
+    "question": "Quel motif Paul donne-t-il pour son avertissement aux Corinthiens ?",
+    "choices": [
+      "Pour vous couvrir de honte",
+      "Pour vous avertir comme mes enfants bien-aimés",
+      "Pour vous exclure sans retour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 4:14 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-082",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:19",
+    "verseText": "Voir 1 Corinthiens 4:19.",
+    "question": "Que demande Paul concernant son arrivée et les “enflés” ?",
+    "choices": [
+      "Connaître leurs discours seulement",
+      "Connaître leur puissance",
+      "Connaître leurs richesses"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 4:19 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-083",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:21",
+    "verseText": "Voir 1 Corinthiens 4:21.",
+    "question": "Dans quelle disposition Paul offre-t-il deux options de venue ?",
+    "choices": [
+      "Avec une verge, ou avec amour et un esprit de douceur",
+      "Avec force et menaces",
+      "Avec silence et retrait"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 4:21 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-084",
+    "book": "1 Corinthiens",
+    "chapter": 5,
+    "verseRef": "1 Corinthiens 5:11",
+    "verseText": "Voir 1 Corinthiens 5:11.",
+    "question": "Quelle consigne Paul donne-t-il sur la fréquentation d’un “frère” qui pratique certains péchés ?",
+    "choices": [
+      "Ne pas avoir de relations avec lui, ne pas même manger avec lui",
+      "Le saluer et manger avec lui",
+      "Le placer comme chef de repas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 5:11 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-085",
+    "book": "1 Corinthiens",
+    "chapter": 5,
+    "verseRef": "1 Corinthiens 5:11",
+    "verseText": "Voir 1 Corinthiens 5:11.",
+    "question": "Quel péché Paul place-t-il dans sa liste avec “cupide” et “ivrogne” ?",
+    "choices": [
+      "Ravisseur",
+      "Nazaréen",
+      "Lévite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 5:11 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-086",
+    "book": "1 Corinthiens",
+    "chapter": 5,
+    "verseRef": "1 Corinthiens 5:12",
+    "verseText": "Voir 1 Corinthiens 5:12.",
+    "question": "Quelle distinction Paul fait-il entre juger “ceux du dedans” et “ceux du dehors” ?",
+    "choices": [
+      "Vous jugez ceux du dehors",
+      "Vous jugez ceux du dedans",
+      "Vous ne jugez ni dedans ni dehors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 5:12 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-087",
+    "book": "1 Corinthiens",
+    "chapter": 5,
+    "verseRef": "1 Corinthiens 5:13",
+    "verseText": "Voir 1 Corinthiens 5:13.",
+    "question": "Quel ordre final Paul donne-t-il concernant le méchant ?",
+    "choices": [
+      "Ôtez le méchant du milieu de vous",
+      "Cachez le méchant du milieu de vous",
+      "Honorez le méchant du milieu de vous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 5:13 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-088",
+    "book": "1 Corinthiens",
+    "chapter": 6,
+    "verseRef": "1 Corinthiens 6:7",
+    "verseText": "Voir 1 Corinthiens 6:7.",
+    "question": "Quel terme Paul emploie-t-il pour qualifier une telle situation de procès entre frères ?",
+    "choices": [
+      "Un défaut chez vous",
+      "Une gloire pour vous",
+      "Une sagesse pour vous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 6:7 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-089",
+    "book": "1 Corinthiens",
+    "chapter": 6,
+    "verseRef": "1 Corinthiens 6:7",
+    "verseText": "Voir 1 Corinthiens 6:7.",
+    "question": "Quelle alternative Paul présente-t-il au lieu d’“aller en justice” ?",
+    "choices": [
+      "Pourquoi ne souffrez-vous pas plutôt quelque injustice ?",
+      "Pourquoi ne triomphez-vous pas par la force ?",
+      "Pourquoi ne réclamez-vous pas plus d’argent ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 6:7 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-090",
+    "book": "1 Corinthiens",
+    "chapter": 6,
+    "verseRef": "1 Corinthiens 6:9",
+    "verseText": "Voir 1 Corinthiens 6:9.",
+    "question": "Qui Paul déclare-t-il incapable d’hériter le royaume de Dieu dans une liste d’exemples ?",
+    "choices": [
+      "Les injustes",
+      "Les pauvres",
+      "Les ignorants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 6:9 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-091",
+    "book": "1 Corinthiens",
+    "chapter": 6,
+    "verseRef": "1 Corinthiens 6:11",
+    "verseText": "Voir 1 Corinthiens 6:11.",
+    "question": "Comment Paul décrit-t-il la transformation des croyants après cette liste ?",
+    "choices": [
+      "Vous avez été lavés, sanctifiés, justifiés",
+      "Vous avez été condamnés, rejetés, oubliés",
+      "Vous avez été vendus, dispersés, détruits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 6:11 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-092",
+    "book": "1 Corinthiens",
+    "chapter": 6,
+    "verseRef": "1 Corinthiens 6:12",
+    "verseText": "Voir 1 Corinthiens 6:12.",
+    "question": "Quelle réponse Paul donne-t-il à l’idée “tout m’est permis” ?",
+    "choices": [
+      "Mais tout n’est pas utile",
+      "Donc tout est bon",
+      "Donc tout est obligatoire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 6:12 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-093",
+    "book": "1 Corinthiens",
+    "chapter": 6,
+    "verseRef": "1 Corinthiens 6:12",
+    "verseText": "Voir 1 Corinthiens 6:12.",
+    "question": "Quelle phrase Paul emploie-t-il pour souligner la domination à éviter ?",
+    "choices": [
+      "Je ne me laisserai asservir par quoi que ce soit",
+      "Je me laisserai conduire par tout",
+      "Je me laisserai dominer par les hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 6:12 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-094",
+    "book": "1 Corinthiens",
+    "chapter": 6,
+    "verseRef": "1 Corinthiens 6:13",
+    "verseText": "Voir 1 Corinthiens 6:13.",
+    "question": "Quelle vérité Paul rappelle-t-il sur l’usage du corps ?",
+    "choices": [
+      "Le corps est pour l’impudicité",
+      "Le corps est pour le Seigneur",
+      "Le corps est pour les idoles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 6:13 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-095",
+    "book": "1 Corinthiens",
+    "chapter": 6,
+    "verseRef": "1 Corinthiens 6:14",
+    "verseText": "Voir 1 Corinthiens 6:14.",
+    "question": "Quel lien Paul établit-il entre le Seigneur et la résurrection du croyant ?",
+    "choices": [
+      "Dieu a ressuscité le Seigneur, et il nous ressuscitera aussi",
+      "Dieu a ressuscité le Seigneur, mais il ne ressuscite personne",
+      "Dieu n’a pas ressuscité le Seigneur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 6:14 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-096",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:5",
+    "verseText": "Voir 1 Corinthiens 7:5.",
+    "question": "Quelle instruction Paul donne-t-il aux époux concernant une privation temporaire ?",
+    "choices": [
+      "D’un commun accord, pour vaquer à la prière",
+      "Sans accord, pour se punir",
+      "Pour montrer sa supériorité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:5 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-097",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:5",
+    "verseText": "Voir 1 Corinthiens 7:5.",
+    "question": "Pour quelle raison Paul dit-il de se retrouver après une abstinence convenue ?",
+    "choices": [
+      "Afin que Satan ne vous tente pas par votre incontinence",
+      "Afin que les hommes vous admirent",
+      "Afin d’éviter toute prière"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:5 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-098",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:6",
+    "verseText": "Voir 1 Corinthiens 7:6.",
+    "question": "Comment Paul présente-t-il son conseil sur le célibat dans ce passage ?",
+    "choices": [
+      "Comme un commandement",
+      "Comme une permission, non un commandement",
+      "Comme une loi de Moïse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 7:6 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-099",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:7",
+    "verseText": "Voir 1 Corinthiens 7:7.",
+    "question": "Quel “don” Paul mentionne-t-il au sujet de la condition personnelle ?",
+    "choices": [
+      "Chacun tient de Dieu un don particulier",
+      "Chacun tient des hommes un don particulier",
+      "Chacun tient des anges un don particulier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:7 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-100",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:22",
+    "verseText": "Voir 1 Corinthiens 7:22.",
+    "question": "Quelle situation Paul envisage-t-il pour un esclave appelé dans le Seigneur ?",
+    "choices": [
+      "Il est l’affranchi du Seigneur",
+      "Il est séparé du Seigneur",
+      "Il n’a aucun lien avec le Seigneur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:22 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-101",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:22",
+    "verseText": "Voir 1 Corinthiens 7:22.",
+    "question": "Quel parallèle Paul fait-il pour l’homme libre appelé ?",
+    "choices": [
+      "Il est esclave de Christ",
+      "Il est maître de Christ",
+      "Il est sans Seigneur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:22 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-102",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:21",
+    "verseText": "Voir 1 Corinthiens 7:21.",
+    "question": "Quelle consigne Paul donne-t-il au sujet de l’achat de liberté ?",
+    "choices": [
+      "Si tu peux devenir libre, profites-en plutôt",
+      "Refuse toujours de devenir libre",
+      "Achète la liberté à tout prix sans réfléchir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:21 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-103",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:9",
+    "verseText": "Voir 1 Corinthiens 7:9.",
+    "question": "Quel conseil Paul donne-t-il sur le mariage face au danger d’incontinence ?",
+    "choices": [
+      "Qu’ils se marient; car il vaut mieux se marier que de brûler",
+      "Qu’ils s’abstiennent toujours, quoi qu’il arrive",
+      "Qu’ils se séparent tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:9 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-104",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:29",
+    "verseText": "Voir 1 Corinthiens 7:29.",
+    "question": "Que dit Paul sur le temps présent et l’attitude envers les choses ?",
+    "choices": [
+      "Le temps est court",
+      "Le temps est long",
+      "Le temps n’a aucun sens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:29 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-105",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:30",
+    "verseText": "Voir 1 Corinthiens 7:30.",
+    "question": "Quelle attitude Paul recommande-t-il envers les afflictions et les joies ?",
+    "choices": [
+      "Ceux qui pleurent comme ne pleurant pas, ceux qui se réjouissent comme ne se réjouissant pas",
+      "Pleurer sans cesse, se réjouir sans retenue",
+      "Ne jamais pleurer, ne jamais se réjouir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:30 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-106",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:31",
+    "verseText": "Voir 1 Corinthiens 7:31.",
+    "question": "Que dit Paul au sujet de “ceux qui usent du monde” ?",
+    "choices": [
+      "Comme n’en usant pas",
+      "Comme en usant sans limite",
+      "Comme en le gouvernant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:31 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-107",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:35",
+    "verseText": "Voir 1 Corinthiens 7:35.",
+    "question": "Quel but Paul donne-t-il à son conseil concernant les vierges ?",
+    "choices": [
+      "Pour votre bien, afin de vous porter à ce qui est honnête",
+      "Pour vous imposer un piège",
+      "Pour vous priver de tout service"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:35 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-108",
+    "book": "1 Corinthiens",
+    "chapter": 8,
+    "verseRef": "1 Corinthiens 8:5",
+    "verseText": "Voir 1 Corinthiens 8:5.",
+    "question": "Quelle observation Paul fait-il sur “ceux qu’on appelle des dieux” ?",
+    "choices": [
+      "Il y en a réellement beaucoup",
+      "Il y en a, soit dans le ciel, soit sur la terre",
+      "Il n’y en a aucun, nulle part"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 8:5 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-109",
+    "book": "1 Corinthiens",
+    "chapter": 8,
+    "verseRef": "1 Corinthiens 8:6",
+    "verseText": "Voir 1 Corinthiens 8:6.",
+    "question": "Quel credo Paul donne-t-il sur Dieu et Jésus-Christ ?",
+    "choices": [
+      "Un seul Dieu, le Père… et un seul Seigneur, Jésus-Christ",
+      "Deux dieux égaux et deux seigneurs",
+      "Un seul ange et un seul prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 8:6 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-110",
+    "book": "1 Corinthiens",
+    "chapter": 8,
+    "verseRef": "1 Corinthiens 8:10",
+    "verseText": "Voir 1 Corinthiens 8:10.",
+    "question": "Quelle conséquence Paul craint-il si l’on voit un croyant “à table dans un temple d’idoles” ?",
+    "choices": [
+      "La conscience du faible sera encouragée à manger des viandes sacrifiées",
+      "La conscience du faible deviendra immédiatement forte",
+      "La conscience du faible n’aura aucune réaction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 8:10 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-111",
+    "book": "1 Corinthiens",
+    "chapter": 8,
+    "verseRef": "1 Corinthiens 8:12",
+    "verseText": "Voir 1 Corinthiens 8:12.",
+    "question": "Quel drame spirituel Paul décrit-il si l’on blesse une conscience faible ?",
+    "choices": [
+      "Vous péchez contre Christ",
+      "Vous glorifiez Christ",
+      "Vous servez la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 8:12 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-112",
+    "book": "1 Corinthiens",
+    "chapter": 9,
+    "verseRef": "1 Corinthiens 9:1",
+    "verseText": "Voir 1 Corinthiens 9:1.",
+    "question": "Quelle question Paul pose-t-il pour affirmer sa liberté d’apôtre ?",
+    "choices": [
+      "Ne suis-je pas libre ?",
+      "Ne suis-je pas prophète ?",
+      "Ne suis-je pas prêtre ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 9:1 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-113",
+    "book": "1 Corinthiens",
+    "chapter": 9,
+    "verseRef": "1 Corinthiens 9:14",
+    "verseText": "Voir 1 Corinthiens 9:14.",
+    "question": "Quel argument Paul donne-t-il concernant “vivre de l’Évangile” ?",
+    "choices": [
+      "Ceux qui annoncent l’Évangile doivent vivre de l’Évangile",
+      "Ceux qui annoncent l’Évangile doivent vivre de la guerre",
+      "Ceux qui annoncent l’Évangile doivent vivre du commerce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 9:14 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-114",
+    "book": "1 Corinthiens",
+    "chapter": 9,
+    "verseRef": "1 Corinthiens 9:16",
+    "verseText": "Voir 1 Corinthiens 9:16.",
+    "question": "Quel motif Paul donne-t-il pour prêcher malgré tout ?",
+    "choices": [
+      "Malheur à moi si je n’annonce pas l’Évangile !",
+      "Honneur à moi si je me tais !",
+      "Paix à moi si je cesse !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 9:16 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-115",
+    "book": "1 Corinthiens",
+    "chapter": 9,
+    "verseRef": "1 Corinthiens 9:18",
+    "verseText": "Voir 1 Corinthiens 9:18.",
+    "question": "Quel “salaire” Paul dit-il chercher dans sa prédication ?",
+    "choices": [
+      "Annoncer l’Évangile sans frais",
+      "Recevoir des couronnes humaines",
+      "Être servi par tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 9:18 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-116",
+    "book": "1 Corinthiens",
+    "chapter": 9,
+    "verseRef": "1 Corinthiens 9:25",
+    "verseText": "Voir 1 Corinthiens 9:25.",
+    "question": "Quelle pratique Paul nomme-t-il comme exemple d’abstinence pour un but ?",
+    "choices": [
+      "Tous s’imposent toute espèce d’abstinences",
+      "Tous s’imposent toute espèce de richesses",
+      "Tous s’imposent toute espèce de querelles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 9:25 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-117",
+    "book": "1 Corinthiens",
+    "chapter": 10,
+    "verseRef": "1 Corinthiens 10:2",
+    "verseText": "Voir 1 Corinthiens 10:2.",
+    "question": "Que dit Paul sur le baptême d’Israël dans la nuée et la mer ?",
+    "choices": [
+      "Tous ont été baptisés en Moïse dans la nuée et dans la mer",
+      "Aucun n’a traversé la mer",
+      "Tous ont été baptisés en Aaron dans le désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 10:2 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-118",
+    "book": "1 Corinthiens",
+    "chapter": 10,
+    "verseRef": "1 Corinthiens 10:6",
+    "verseText": "Voir 1 Corinthiens 10:6.",
+    "question": "Quel but Paul attribue-t-il à ces événements “en figures” ?",
+    "choices": [
+      "Nous servir d’exemples",
+      "Nous donner des mythes",
+      "Nous détourner des Écritures"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 10:6 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-119",
+    "book": "1 Corinthiens",
+    "chapter": 10,
+    "verseRef": "1 Corinthiens 10:27",
+    "verseText": "Voir 1 Corinthiens 10:27.",
+    "question": "Quelle consigne Paul donne-t-il concernant une invitation à manger chez un non-croyant ?",
+    "choices": [
+      "Mangez de tout ce qu’on vous présente, sans vous enquérir de rien par motif de conscience",
+      "Refusez tout ce qu’on vous présente",
+      "Demandez d’abord l’origine de chaque aliment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 10:27 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-120",
+    "book": "1 Corinthiens",
+    "chapter": 10,
+    "verseRef": "1 Corinthiens 10:28",
+    "verseText": "Voir 1 Corinthiens 10:28.",
+    "question": "Quel principe Paul donne-t-il si quelqu’un signale “Ceci a été offert en sacrifice” ?",
+    "choices": [
+      "N’en mangez point, à cause de celui qui a donné l’avertissement",
+      "Mangez-en davantage pour montrer votre liberté",
+      "N’y prêtez aucune attention"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 10:28 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-121",
+    "book": "1 Corinthiens",
+    "chapter": 1,
+    "verseRef": "1 Corinthiens 1:8",
+    "verseText": "Voir 1 Corinthiens 1:8.",
+    "question": "Quel engagement Paul annonce-t-il concernant l’affermissement des croyants jusqu’à la fin ?",
+    "choices": [
+      "Ils seront repris sans cesse jusqu’à la fin",
+      "Ils seront affermis jusqu’à la fin, pour être irréprochables au jour du Seigneur Jésus-Christ",
+      "Ils seront affermis jusqu’à la fin, pour être honorés par le monde"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 1:8 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-122",
+    "book": "1 Corinthiens",
+    "chapter": 1,
+    "verseRef": "1 Corinthiens 1:9",
+    "verseText": "Voir 1 Corinthiens 1:9.",
+    "question": "Comment Paul qualifie-t-il Dieu en parlant de l’appel à la communion avec Jésus-Christ ?",
+    "choices": [
+      "Dieu est juste",
+      "Dieu est fidèle",
+      "Dieu est puissant"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 1:9 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-123",
+    "book": "1 Corinthiens",
+    "chapter": 1,
+    "verseRef": "1 Corinthiens 1:10",
+    "verseText": "Voir 1 Corinthiens 1:10.",
+    "question": "Quelle demande Paul formule-t-il pour mettre fin aux divisions dans l’assemblée ?",
+    "choices": [
+      "Qu’il n’y ait point de divisions parmi vous, et que vous soyez parfaitement unis dans un même esprit et dans un même sentiment",
+      "Qu’il y ait des divisions pour éprouver les cœurs",
+      "Qu’on tolère les divisions sans correction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 1:10 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-124",
+    "book": "1 Corinthiens",
+    "chapter": 2,
+    "verseRef": "1 Corinthiens 2:6-7",
+    "verseText": "Voir 1 Corinthiens 2:6-7.",
+    "question": "Comment Paul décrit-il la sagesse qu’il annonce “parmi les parfaits” ?",
+    "choices": [
+      "Une sagesse de ce siècle",
+      "Une sagesse des chefs de ce siècle",
+      "Une sagesse de Dieu, mystérieuse et cachée"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : 1 Corinthiens 2:6-7 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-125",
+    "book": "1 Corinthiens",
+    "chapter": 2,
+    "verseRef": "1 Corinthiens 2:12",
+    "verseText": "Voir 1 Corinthiens 2:12.",
+    "question": "Quel contraste Paul fait-il entre l’esprit reçu par les croyants et celui du monde ?",
+    "choices": [
+      "Nous avons reçu l’esprit du monde",
+      "Nous avons reçu l’Esprit qui vient de Dieu",
+      "Nous avons reçu l’esprit des nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 2:12 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-126",
+    "book": "1 Corinthiens",
+    "chapter": 2,
+    "verseRef": "1 Corinthiens 2:13",
+    "verseText": "Voir 1 Corinthiens 2:13.",
+    "question": "Comment Paul décrit-il sa manière d’exposer les choses spirituelles ?",
+    "choices": [
+      "Avec des discours persuasifs de la sagesse",
+      "Avec des paroles enseignées par l’Esprit",
+      "Avec les coutumes des anciens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 2:13 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-127",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:8",
+    "verseText": "Voir 1 Corinthiens 3:8.",
+    "question": "Quelle affirmation Paul fait-il sur celui qui plante et celui qui arrose ?",
+    "choices": [
+      "Celui qui plante est supérieur à celui qui arrose",
+      "Celui qui plante et celui qui arrose sont égaux",
+      "Celui qui arrose est supérieur à celui qui plante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 3:8 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-128",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:8",
+    "verseText": "Voir 1 Corinthiens 3:8.",
+    "question": "Quelle promesse Paul ajoute-t-il au sujet de la récompense des ouvriers ?",
+    "choices": [
+      "Chacun recevra sa récompense selon son zèle",
+      "Chacun recevra sa récompense selon son rang",
+      "Chacun recevra sa récompense selon son propre travail"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : 1 Corinthiens 3:8 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-129",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:9",
+    "verseText": "Voir 1 Corinthiens 3:9.",
+    "question": "Comment Paul définit-il les croyants dans l’image du champ et du bâtiment ?",
+    "choices": [
+      "Vous êtes l’armée de Dieu",
+      "Vous êtes le champ de Dieu, l’édifice de Dieu",
+      "Vous êtes la cour de Dieu, le tribunal de Dieu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 3:9 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-130",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:21-22",
+    "verseText": "Voir 1 Corinthiens 3:21-22.",
+    "question": "Quelle liste Paul donne-t-il pour montrer l’étendue de ce qui “vous appartient” en Christ ?",
+    "choices": [
+      "Paul, Apollos, Céphas, le monde, la vie, la mort, les choses présentes, les choses à venir",
+      "Pierre, Jacques, Jean, la mer, le ciel, les étoiles",
+      "La loi, les prophètes, les sacrifices, les jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 3:21-22 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-131",
+    "book": "1 Corinthiens",
+    "chapter": 3,
+    "verseRef": "1 Corinthiens 3:23",
+    "verseText": "Voir 1 Corinthiens 3:23.",
+    "question": "À qui Paul dit-il que les croyants appartiennent finalement ?",
+    "choices": [
+      "À la loi",
+      "À Christ",
+      "Au monde"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Corinthiens 3:23 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-132",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:9",
+    "verseText": "Voir 1 Corinthiens 4:9.",
+    "question": "Quelle image Paul utilise-t-il pour décrire la place des apôtres devant le monde ?",
+    "choices": [
+      "Dieu nous a fait paraître comme les derniers, comme des condamnés à mort",
+      "Dieu nous a fait paraître comme les premiers, comme des princes",
+      "Dieu nous a fait paraître comme des juges honorés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 4:9 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-133",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:9",
+    "verseText": "Voir 1 Corinthiens 4:9.",
+    "question": "À qui Paul dit-il que les apôtres ont été donnés en spectacle ?",
+    "choices": [
+      "Au monde, aux anges et aux hommes",
+      "Aux seuls croyants",
+      "Aux seuls Juifs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 4:9 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-134",
+    "book": "1 Corinthiens",
+    "chapter": 4,
+    "verseRef": "1 Corinthiens 4:14",
+    "verseText": "Voir 1 Corinthiens 4:14.",
+    "question": "Comment Paul demande-t-il d’accueillir ceux qui apportent la correction apostolique ?",
+    "choices": [
+      "Comme des ennemis",
+      "Comme des enfants à battre",
+      "Comme des enfants bien-aimés à avertir"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : 1 Corinthiens 4:14 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-135",
+    "book": "1 Corinthiens",
+    "chapter": 5,
+    "verseRef": "1 Corinthiens 5:2",
+    "verseText": "Voir 1 Corinthiens 5:2.",
+    "question": "Quelle attitude Paul reproche-t-il aux Corinthiens devant un péché grave ?",
+    "choices": [
+      "Vous vous êtes enflés d’orgueil, au lieu d’être dans l’affliction",
+      "Vous avez jeûné avec tristesse",
+      "Vous avez confessé publiquement vos fautes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 5:2 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-136",
+    "book": "1 Corinthiens",
+    "chapter": 5,
+    "verseRef": "1 Corinthiens 5:2",
+    "verseText": "Voir 1 Corinthiens 5:2.",
+    "question": "Quelle action Paul estime-t-il nécessaire “pour que celui qui a commis cet acte” soit traité correctement ?",
+    "choices": [
+      "Qu’il soit ôté du milieu de vous",
+      "Qu’il soit établi comme exemple",
+      "Qu’il soit envoyé comme messager"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 5:2 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-137",
+    "book": "1 Corinthiens",
+    "chapter": 5,
+    "verseRef": "1 Corinthiens 5:13",
+    "verseText": "Voir 1 Corinthiens 5:13.",
+    "question": "Quel principe Paul affirme-t-il à propos des personnes “du dehors” ?",
+    "choices": [
+      "Dieu juge ceux du dehors",
+      "L’Église juge ceux du dehors",
+      "Les apôtres jugent seulement ceux du dehors"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 5:13 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-138",
+    "book": "1 Corinthiens",
+    "chapter": 6,
+    "verseRef": "1 Corinthiens 6:17",
+    "verseText": "Voir 1 Corinthiens 6:17.",
+    "question": "Quel contraste Paul établit-il entre celui qui s’unit au Seigneur et l’union charnelle ?",
+    "choices": [
+      "Celui qui s’attache au Seigneur est avec lui un seul esprit",
+      "Celui qui s’attache au Seigneur est avec lui une seule chair",
+      "Celui qui s’attache au Seigneur n’a aucun lien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 6:17 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-139",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:23",
+    "verseText": "Voir 1 Corinthiens 7:23.",
+    "question": "Quelle mise en garde Paul donne-t-il aux croyants rachetés “à un grand prix” ?",
+    "choices": [
+      "Ne devenez pas esclaves des hommes",
+      "Ne devenez pas esclaves des anges",
+      "Ne devenez pas esclaves de la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:23 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-140",
+    "book": "1 Corinthiens",
+    "chapter": 7,
+    "verseRef": "1 Corinthiens 7:24",
+    "verseText": "Voir 1 Corinthiens 7:24.",
+    "question": "Où Paul recommande-t-il à chacun de demeurer, quelle que soit sa condition ?",
+    "choices": [
+      "Auprès de Dieu",
+      "Auprès du monde",
+      "Auprès des magistrats"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 7:24 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-141",
+    "book": "1 Corinthiens",
+    "chapter": 8,
+    "verseRef": "1 Corinthiens 8:8",
+    "verseText": "Voir 1 Corinthiens 8:8.",
+    "question": "Que dit Paul qu’un aliment ne fait pas, concernant notre relation à Dieu ?",
+    "choices": [
+      "Il ne nous rapproche pas de Dieu",
+      "Il nous condamne devant Dieu",
+      "Il nous justifie devant Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 8:8 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-142",
+    "book": "1 Corinthiens",
+    "chapter": 9,
+    "verseRef": "1 Corinthiens 9:5",
+    "verseText": "Voir 1 Corinthiens 9:5.",
+    "question": "Quels exemples Paul donne-t-il d’un droit apostolique lié à la vie familiale ?",
+    "choices": [
+      "Emmener un frère qui soit femme, comme les autres apôtres, les frères du Seigneur et Céphas",
+      "Interdire le mariage à tous les apôtres",
+      "Obliger tous les apôtres à demeurer seuls"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 9:5 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-143",
+    "book": "1 Corinthiens",
+    "chapter": 9,
+    "verseRef": "1 Corinthiens 9:7",
+    "verseText": "Voir 1 Corinthiens 9:7.",
+    "question": "Quel exemple Paul cite-t-il pour illustrer le droit de vivre du travail accompli ?",
+    "choices": [
+      "Le soldat qui ne sert pas à ses frais",
+      "Le juge qui ne reçoit jamais de salaire",
+      "Le marchand qui refuse tout profit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 9:7 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-144",
+    "book": "1 Corinthiens",
+    "chapter": 9,
+    "verseRef": "1 Corinthiens 9:7",
+    "verseText": "Voir 1 Corinthiens 9:7.",
+    "question": "Quel exemple Paul ajoute-t-il après celui du soldat ?",
+    "choices": [
+      "Celui qui plante une vigne et ne mange pas du fruit",
+      "Celui qui bâtit une maison et ne l’habite pas",
+      "Celui qui écrit un livre et ne le lit pas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 9:7 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-145",
+    "book": "1 Corinthiens",
+    "chapter": 9,
+    "verseRef": "1 Corinthiens 9:7",
+    "verseText": "Voir 1 Corinthiens 9:7.",
+    "question": "Quel exemple Paul ajoute-t-il concernant les troupeaux ?",
+    "choices": [
+      "Celui qui paît un troupeau et ne mange pas du lait du troupeau",
+      "Celui qui chasse et ne mange jamais",
+      "Celui qui pêche et ne boit jamais d’eau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 9:7 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-146",
+    "book": "1 Corinthiens",
+    "chapter": 14,
+    "verseRef": "1 Corinthiens 14:9",
+    "verseText": "Voir 1 Corinthiens 14:9.",
+    "question": "Quelle formule Paul emploie-t-il pour montrer l’importance de comprendre ce qui est dit dans l’assemblée ?",
+    "choices": [
+      "Si vous ne prononcez pas par la langue des paroles intelligibles, comment saura-t-on ce que vous dites ?",
+      "Si vous prononcez des paroles confuses, tout sera édifié",
+      "Si vous parlez bas, tous comprendront mieux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 14:9 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-147",
+    "book": "1 Corinthiens",
+    "chapter": 14,
+    "verseRef": "1 Corinthiens 14:4",
+    "verseText": "Voir 1 Corinthiens 14:4.",
+    "question": "Quel effet Paul attribue-t-il au parler en langue sur celui qui parle ?",
+    "choices": [
+      "Il s’édifie lui-même",
+      "Il édifie l’Église",
+      "Il édifie le monde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 14:4 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-148",
+    "book": "1 Corinthiens",
+    "chapter": 14,
+    "verseRef": "1 Corinthiens 14:13",
+    "verseText": "Voir 1 Corinthiens 14:13.",
+    "question": "Quel objectif Paul donne-t-il à celui qui parle en langue dans l’assemblée ?",
+    "choices": [
+      "Qu’il prie pour avoir le don d’interpréter",
+      "Qu’il évite toute prière",
+      "Qu’il cherche à être vu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 14:13 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-149",
+    "book": "1 Corinthiens",
+    "chapter": 14,
+    "verseRef": "1 Corinthiens 14:14",
+    "verseText": "Voir 1 Corinthiens 14:14.",
+    "question": "Quel constat Paul fait-il si quelqu’un prie en langue ?",
+    "choices": [
+      "Son esprit est en prière, mais son intelligence demeure stérile",
+      "Son intelligence est en prière, mais son esprit demeure stérile",
+      "Ni son esprit ni son intelligence ne prient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 14:14 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-150",
+    "book": "1 Corinthiens",
+    "chapter": 14,
+    "verseRef": "1 Corinthiens 14:19",
+    "verseText": "Voir 1 Corinthiens 14:19.",
+    "question": "Quelle préférence Paul exprime-t-il au sujet de son enseignement en assemblée ?",
+    "choices": [
+      "Dire cinq paroles avec son intelligence, afin d’instruire aussi les autres",
+      "Dire dix mille paroles en langue, afin d’étonner les autres",
+      "Ne dire aucune parole, afin de ne pas troubler"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 14:19 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-151",
+    "book": "1 Corinthiens",
+    "chapter": 14,
+    "verseRef": "1 Corinthiens 14:20",
+    "verseText": "Voir 1 Corinthiens 14:20.",
+    "question": "Quelle exhortation Paul donne-t-il concernant la maturité du jugement ?",
+    "choices": [
+      "Ne soyez pas des enfants sous le rapport du jugement; mais soyez des enfants quant à la malice, et des hommes faits quant au jugement",
+      "Soyez des enfants en jugement, et des hommes faits en malice",
+      "Soyez des hommes faits en malice, et des enfants en jugement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 14:20 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-152",
+    "book": "1 Corinthiens",
+    "chapter": 13,
+    "verseRef": "1 Corinthiens 13:2",
+    "verseText": "Voir 1 Corinthiens 13:2.",
+    "question": "Quelle parole Paul rapporte-t-il au sujet de la “foi” capable de déplacer ?",
+    "choices": [
+      "Une foi à transporter des montagnes",
+      "Une foi à multiplier l’or",
+      "Une foi à éviter toute souffrance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 13:2 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-153",
+    "book": "1 Corinthiens",
+    "chapter": 13,
+    "verseRef": "1 Corinthiens 13:2",
+    "verseText": "Voir 1 Corinthiens 13:2.",
+    "question": "Que dit Paul qu’il n’est pas, même s’il a cette foi extraordinaire, sans charité ?",
+    "choices": [
+      "Il n’est rien",
+      "Il est parfait",
+      "Il est au-dessus de tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 13:2 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-154",
+    "book": "1 Corinthiens",
+    "chapter": 13,
+    "verseRef": "1 Corinthiens 13:4",
+    "verseText": "Voir 1 Corinthiens 13:4.",
+    "question": "Quelle première qualité Paul attribue-t-il à la charité ?",
+    "choices": [
+      "Elle est patiente",
+      "Elle est violente",
+      "Elle est changeante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 13:4 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-155",
+    "book": "1 Corinthiens",
+    "chapter": 13,
+    "verseRef": "1 Corinthiens 13:4",
+    "verseText": "Voir 1 Corinthiens 13:4.",
+    "question": "Quelle seconde qualité Paul attribue-t-il à la charité, juste après la patience ?",
+    "choices": [
+      "Elle est bienveillante",
+      "Elle est orgueilleuse",
+      "Elle est soupçonneuse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 13:4 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-156",
+    "book": "1 Corinthiens",
+    "chapter": 13,
+    "verseRef": "1 Corinthiens 13:4",
+    "verseText": "Voir 1 Corinthiens 13:4.",
+    "question": "Quelle attitude Paul attribue-t-il à la charité face à l’envie ?",
+    "choices": [
+      "Elle n’est point envieuse",
+      "Elle est envieuse",
+      "Elle est jalouse de tout"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 13:4 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-157",
+    "book": "1 Corinthiens",
+    "chapter": 15,
+    "verseRef": "1 Corinthiens 15:15",
+    "verseText": "Voir 1 Corinthiens 15:15.",
+    "question": "Quel contraste Paul donne-t-il entre le Christ ressuscité et l’argument des “faux témoins” ?",
+    "choices": [
+      "Nous sommes même trouvés de faux témoins de Dieu",
+      "Nous sommes trouvés de vrais témoins du monde",
+      "Nous sommes trouvés sans aucun témoignage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 15:15 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-158",
+    "book": "1 Corinthiens",
+    "chapter": 15,
+    "verseRef": "1 Corinthiens 15:31",
+    "verseText": "Voir 1 Corinthiens 15:31.",
+    "question": "Quelle expression Paul utilise-t-il pour parler de son combat intérieur quotidien ?",
+    "choices": [
+      "Je meurs chaque jour",
+      "Je triomphe chaque jour sans lutte",
+      "Je dors chaque jour sans peine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 15:31 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-159",
+    "book": "1 Corinthiens",
+    "chapter": 15,
+    "verseRef": "1 Corinthiens 15:32",
+    "verseText": "Voir 1 Corinthiens 15:32.",
+    "question": "Quel exemple Paul donne-t-il pour dénoncer un combat inutile si les morts ne ressuscitent pas ?",
+    "choices": [
+      "Si c’est dans des vues humaines que j’ai combattu contre les bêtes à Éphèse",
+      "Si c’est dans des vues divines que j’ai régné à Rome",
+      "Si c’est dans des vues humaines que j’ai prêché en Judée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 15:32 (LSG 1910)."
+  },
+  {
+    "id": "1corinthiens-N-160",
+    "book": "1 Corinthiens",
+    "chapter": 15,
+    "verseRef": "1 Corinthiens 15:34",
+    "verseText": "Voir 1 Corinthiens 15:34.",
+    "question": "Quel avertissement Paul lance-t-il pour sortir d’un état de torpeur spirituelle ?",
+    "choices": [
+      "Revenez à vous-mêmes, comme il est convenable, et ne péchez point",
+      "Demeurez dans l’ignorance, comme il est permis",
+      "Revenez à vous-mêmes, et discutez sans fin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 15:34 (LSG 1910)."
+  }
+]

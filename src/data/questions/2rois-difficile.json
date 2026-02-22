@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "2RO-D-001",
+    "book": "2 Rois",
+    "chapter": 1,
+    "verseRef": "2 Rois 1:8",
+    "verseText": "Voir 2 Rois 1:8.",
+    "question": "Quelle précision est donnée sur le vêtement de l’homme que les messagers décrivent à Achazia ?",
+    "choices": [
+      "Il était un homme vêtu de poil et ayant une ceinture de cuir autour des reins",
+      "Il portait une tunique de lin et un turban de pourpre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-002",
+    "book": "2 Rois",
+    "chapter": 1,
+    "verseRef": "2 Rois 1:16",
+    "verseText": "Voir 2 Rois 1:16.",
+    "question": "Quel détail accompagne la parole d’Élie sur la mort d’Achazia ?",
+    "choices": [
+      "« Tu n’en descendras pas, car tu mourras. »",
+      "« Tu descendras et tu vivras longtemps. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 1:16 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-003",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:1",
+    "verseText": "Voir 2 Rois 2:1.",
+    "question": "Quelle ville est explicitement nommée comme point de départ quand l’Éternel allait enlever Élie ?",
+    "choices": [
+      "Guilgal",
+      "Sichem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 2:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-004",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:1-7",
+    "verseText": "Voir 2 Rois 2:1-7.",
+    "question": "Quel est l’ordre exact des lieux mentionnés avant l’enlèvement d’Élie (dans le récit) ?",
+    "choices": [
+      "Guilgal → Béthel → Jéricho → Jourdain",
+      "Jéricho → Béthel → Guilgal → Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 2:1-7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-005",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:2",
+    "verseText": "Voir 2 Rois 2:2.",
+    "question": "Quelle expression Élisée répète-t-il à Élie à plusieurs reprises ?",
+    "choices": [
+      "« L’Éternel est vivant et ton âme est vivante ! je ne te quitterai point. »",
+      "« Je te suivrai jusqu’à la mort, quoi qu’il arrive. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 2:2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-006",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:11",
+    "verseText": "Voir 2 Rois 2:11.",
+    "question": "Quel symbole céleste accompagne la séparation entre Élie et Élisée ?",
+    "choices": [
+      "Un char de feu avec des chevaux de feu",
+      "Une pluie de grêle et de feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 2:11 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-007",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:12",
+    "verseText": "Voir 2 Rois 2:12.",
+    "question": "Quel cri Élisée pousse-t-il en voyant Élie enlevé ?",
+    "choices": [
+      "« Mon père ! mon père ! char d’Israël et sa cavalerie ! »",
+      "« Ô Éternel, prends aussi ton serviteur ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 2:12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-008",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:16",
+    "verseText": "Voir 2 Rois 2:16.",
+    "question": "Que demandent les fils des prophètes à Élisée après l’enlèvement d’Élie ?",
+    "choices": [
+      "D’envoyer cinquante hommes pour chercher Élie",
+      "De couronner Élisée comme roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 2:16 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-009",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:20",
+    "verseText": "Voir 2 Rois 2:20.",
+    "question": "Quel détail est dit sur le plat utilisé pour le sel à Jéricho ?",
+    "choices": [
+      "Un plat neuf",
+      "Un plat d’airain ancien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 2:20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-010",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:23-24",
+    "verseText": "Voir 2 Rois 2:23-24.",
+    "question": "À quel endroit Élisée prononce-t-il la malédiction contre les jeunes gens ?",
+    "choices": [
+      "En montant par le chemin de Béthel",
+      "À l’entrée de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 2:23-24 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-011",
+    "book": "2 Rois",
+    "chapter": 3,
+    "verseRef": "2 Rois 3:13",
+    "verseText": "Voir 2 Rois 3:13.",
+    "question": "Quel reproche Élisée adresse-t-il au roi d’Israël lors de la crise contre Moab ?",
+    "choices": [
+      "D’aller vers les prophètes de son père et de sa mère",
+      "D’avoir fermé les portes du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 3:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-012",
+    "book": "2 Rois",
+    "chapter": 3,
+    "verseRef": "2 Rois 3:14",
+    "verseText": "Voir 2 Rois 3:14.",
+    "question": "Quelle condition Élisée mentionne-t-il qui l’empêche de considérer le roi d’Israël, sauf pour une raison ?",
+    "choices": [
+      "La présence de Josaphat, roi de Juda",
+      "La présence des prêtres de Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 3:14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-013",
+    "book": "2 Rois",
+    "chapter": 3,
+    "verseRef": "2 Rois 3:20",
+    "verseText": "Voir 2 Rois 3:20.",
+    "question": "Quel moment précis est associé à l’arrivée de l’eau dans la vallée ?",
+    "choices": [
+      "Au moment où l’on offre l’offrande",
+      "Au milieu de la nuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 3:20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-014",
+    "book": "2 Rois",
+    "chapter": 3,
+    "verseRef": "2 Rois 3:17",
+    "verseText": "Voir 2 Rois 3:17.",
+    "question": "Quelle clause accompagne l’ordre de creuser des fosses ?",
+    "choices": [
+      "« Vous ne verrez point de vent et vous ne verrez point de pluie. »",
+      "« Vous verrez la mer se fendre. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 3:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-015",
+    "book": "2 Rois",
+    "chapter": 4,
+    "verseRef": "2 Rois 4:4",
+    "verseText": "Voir 2 Rois 4:4.",
+    "question": "Que demande Élisée à la veuve avant le miracle de l’huile, en plus des vases vides ?",
+    "choices": [
+      "De fermer la porte sur elle et sur ses enfants",
+      "D’appeler les anciens de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 4:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-016",
+    "book": "2 Rois",
+    "chapter": 4,
+    "verseRef": "2 Rois 4:7",
+    "verseText": "Voir 2 Rois 4:7.",
+    "question": "Quel ordre exact Élisée donne-t-il concernant la vente de l’huile ?",
+    "choices": [
+      "« Va vendre l’huile, et paie ta dette; et tu vivras, toi et tes fils, de ce qui restera. »",
+      "« Garde l’huile et ne la vends point. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 4:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-017",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:1",
+    "verseText": "Voir 2 Rois 5:1.",
+    "question": "Quel titre est donné à Naaman au début du récit ?",
+    "choices": [
+      "Chef de l’armée du roi de Syrie",
+      "Grand prêtre des Syriens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-018",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:1",
+    "verseText": "Voir 2 Rois 5:1.",
+    "question": "Quel détail est précisé à propos de la délivrance accordée à la Syrie ?",
+    "choices": [
+      "L’Éternel avait accordé la délivrance à la Syrie par Naaman",
+      "La délivrance venait de l’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-019",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:10",
+    "verseText": "Voir 2 Rois 5:10.",
+    "question": "Quel message Élisée envoie-t-il à Naaman au lieu de sortir vers lui ?",
+    "choices": [
+      "« Va, et lave-toi sept fois dans le Jourdain… »",
+      "« Entre, et je prierai aussitôt pour toi. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:10 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-020",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:12",
+    "verseText": "Voir 2 Rois 5:12.",
+    "question": "Quels fleuves Naaman cite-t-il en protestant ?",
+    "choices": [
+      "Abana et Pharpar, fleuves de Damas",
+      "Tigre et Euphrate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-021",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:15",
+    "verseText": "Voir 2 Rois 5:15.",
+    "question": "Quelle expression Naaman déclare-t-il après sa guérison ?",
+    "choices": [
+      "« Voici, je reconnais qu’il n’y a point de Dieu sur toute la terre, si ce n’est en Israël. »",
+      "« Israël est plus fort que la Syrie. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:15 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-022",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:18",
+    "verseText": "Voir 2 Rois 5:18.",
+    "question": "Quelle requête Naaman formule-t-il concernant son service au temple de Rimmon ?",
+    "choices": [
+      "Que l’Éternel pardonne à ton serviteur quand il se prosternera dans la maison de Rimmon",
+      "D’être exempté de toute obligation envers son roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-023",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:22",
+    "verseText": "Voir 2 Rois 5:22.",
+    "question": "Quel mensonge Guéhazi dit-il à Naaman pour obtenir des présents ?",
+    "choices": [
+      "Deux jeunes gens des fils des prophètes sont arrivés",
+      "Le roi d’Israël réclame un tribut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:22 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-024",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:26",
+    "verseText": "Voir 2 Rois 5:26.",
+    "question": "Quel signe Élisée mentionne-t-il pour montrer qu’il savait la vérité sur Guéhazi ?",
+    "choices": [
+      "« Mon esprit n’était pas absent… »",
+      "« J’ai vu en songe ton voyage. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:26 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-025",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:5",
+    "verseText": "Voir 2 Rois 6:5.",
+    "question": "Quel objet est explicitement dit comme “emprunté” lors de la chute dans le Jourdain ?",
+    "choices": [
+      "Le fer (de la hache)",
+      "Le manteau d’Élisée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-026",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:15",
+    "verseText": "Voir 2 Rois 6:15.",
+    "question": "Comment le serviteur d’Élisée décrit-il la situation à Dothan ?",
+    "choices": [
+      "« Hélas, mon seigneur! comment ferons-nous? »",
+      "« Nous vaincrons facilement. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:15 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-027",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:17",
+    "verseText": "Voir 2 Rois 6:17.",
+    "question": "Que demande Élisée à l’Éternel pour son serviteur ?",
+    "choices": [
+      "D’ouvrir ses yeux",
+      "De lui donner de l’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-028",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:17",
+    "verseText": "Voir 2 Rois 6:17.",
+    "question": "Que voit alors le serviteur autour d’Élisée ?",
+    "choices": [
+      "La montagne pleine de chevaux et de chars de feu",
+      "Une mer de verre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-029",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:18",
+    "verseText": "Voir 2 Rois 6:18.",
+    "question": "Quelle prière Élisée fait-il contre les Syriens lorsqu’ils s’approchent ?",
+    "choices": [
+      "« Frappe, je te prie, cette nation d’aveuglement! »",
+      "« Fais tomber le feu du ciel! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-030",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:19-20",
+    "verseText": "Voir 2 Rois 6:19-20.",
+    "question": "Où Élisée conduit-il les Syriens frappés d’aveuglement ?",
+    "choices": [
+      "À Samarie",
+      "À Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:19-20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-031",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:22-23",
+    "verseText": "Voir 2 Rois 6:22-23.",
+    "question": "Quelle réaction Élisée impose-t-il au roi d’Israël concernant le sort des prisonniers syriens ?",
+    "choices": [
+      "Leur donner du pain et de l’eau, et les renvoyer",
+      "Les tuer tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:22-23 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-032",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:25",
+    "verseText": "Voir 2 Rois 6:25.",
+    "question": "Quelle formule extrême décrit la famine à Samarie ?",
+    "choices": [
+      "« Une tête d’âne… et le quart d’un kab de fiente de pigeon… »",
+      "« On ne trouva plus de blé dans tout le pays. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:25 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-033",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:31",
+    "verseText": "Voir 2 Rois 6:31.",
+    "question": "Quelle accusation le roi d’Israël profère-t-il contre Élisée dans sa colère ?",
+    "choices": [
+      "« Que Dieu me traite… si la tête d’Élisée… reste aujourd’hui sur lui! »",
+      "« Je détruirai le temple de l’Éternel. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:31 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-034",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:2",
+    "verseText": "Voir 2 Rois 7:2.",
+    "question": "Quel officier contredit la prophétie d’abondance annoncée par Élisée ?",
+    "choices": [
+      "Celui sur la main duquel le roi s’appuyait",
+      "Le chef des prêtres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 7:2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-035",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:2",
+    "verseText": "Voir 2 Rois 7:2.",
+    "question": "Quelle image cet officier utilise-t-il pour exprimer son incrédulité ?",
+    "choices": [
+      "« Quand l’Éternel ferait des fenêtres au ciel… »",
+      "« Quand la mer s’ouvrirait… »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 7:2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-036",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:2",
+    "verseText": "Voir 2 Rois 7:2.",
+    "question": "Quel sort atteint cet officier selon la parole d’Élisée ?",
+    "choices": [
+      "Il voit l’abondance mais n’en mange pas",
+      "Il devient roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 7:2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-037",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:3",
+    "verseText": "Voir 2 Rois 7:3.",
+    "question": "Où se tiennent les lépreux quand ils décident d’aller au camp des Syriens ?",
+    "choices": [
+      "À l’entrée de la porte",
+      "Sur la montagne de Carmel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 7:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-038",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:6",
+    "verseText": "Voir 2 Rois 7:6.",
+    "question": "Quelle précision est donnée sur le bruit qui effraie les Syriens ?",
+    "choices": [
+      "L’Éternel fit entendre un bruit de chars et de chevaux, un bruit d’une grande armée",
+      "Un tremblement de terre fit tomber les tentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 7:6 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-039",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:9",
+    "verseText": "Voir 2 Rois 7:9.",
+    "question": "Quel message les lépreux finissent-ils par dire à la maison du roi ?",
+    "choices": [
+      "« Ce jour est un jour de bonne nouvelle… »",
+      "« La ville est perdue pour toujours. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 7:9 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-040",
+    "book": "2 Rois",
+    "chapter": 12,
+    "verseRef": "2 Rois 12:3",
+    "verseText": "Voir 2 Rois 12:3.",
+    "question": "Quel roi de Juda est décrit comme ayant fait ce qui est droit, mais pas au point d’ôter les hauts lieux (formule répétée) ?",
+    "choices": [
+      "Plusieurs rois, car « les hauts lieux ne disparurent point »",
+      "Aucun roi de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 12:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-041",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:17",
+    "verseText": "Voir 2 Rois 11:17.",
+    "question": "Quel acte liturgique scelle l’alliance sous Jojada ?",
+    "choices": [
+      "Une alliance entre l’Éternel, le roi et le peuple",
+      "Une alliance entre Juda et l’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-042",
+    "book": "2 Rois",
+    "chapter": 12,
+    "verseRef": "2 Rois 12:18",
+    "verseText": "Voir 2 Rois 12:18.",
+    "question": "Quel objet Joas prend-il pour payer Hazaël afin qu’il s’éloigne ?",
+    "choices": [
+      "Toutes les choses consacrées et tout l’or qui se trouvait dans la maison de l’Éternel",
+      "Les tables de la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 12:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-043",
+    "book": "2 Rois",
+    "chapter": 12,
+    "verseRef": "2 Rois 12:20",
+    "verseText": "Voir 2 Rois 12:20.",
+    "question": "Quelle précision est donnée sur la mort de Joas ?",
+    "choices": [
+      "Ses serviteurs conspirèrent contre lui et le tuèrent",
+      "Il mourut au combat contre les Syriens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 12:20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-044",
+    "book": "2 Rois",
+    "chapter": 12,
+    "verseRef": "2 Rois 12:20",
+    "verseText": "Voir 2 Rois 12:20.",
+    "question": "Quel nom est donné au lieu où Joas est tué ?",
+    "choices": [
+      "Millo, sur la descente de Silla",
+      "La vallée du Cédron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 12:20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-045",
+    "book": "2 Rois",
+    "chapter": 13,
+    "verseRef": "2 Rois 13:14",
+    "verseText": "Voir 2 Rois 13:14.",
+    "question": "Quel roi d’Israël va chez Élisée pendant la maladie du prophète et pleure sur lui ?",
+    "choices": [
+      "Joas, roi d’Israël",
+      "Jéroboam, roi de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 13:14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-046",
+    "book": "2 Rois",
+    "chapter": 13,
+    "verseRef": "2 Rois 13:15-17",
+    "verseText": "Voir 2 Rois 13:15-17.",
+    "question": "Quel ordre Élisée donne-t-il avec les flèches, avant les coups au sol ?",
+    "choices": [
+      "« Prends l’arc et les flèches… ouvre la fenêtre à l’orient… tire! »",
+      "« Va au Jourdain et lave-toi. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 13:15-17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-047",
+    "book": "2 Rois",
+    "chapter": 13,
+    "verseRef": "2 Rois 13:17",
+    "verseText": "Voir 2 Rois 13:17.",
+    "question": "Quelle expression Élisée prononce-t-il après le tir de la flèche ?",
+    "choices": [
+      "« Flèche de délivrance de la part de l’Éternel… »",
+      "« Flèche de jugement sur Juda… »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 13:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-048",
+    "book": "2 Rois",
+    "chapter": 13,
+    "verseRef": "2 Rois 13:20-21",
+    "verseText": "Voir 2 Rois 13:20-21.",
+    "question": "Dans quel contexte le mort est-il jeté dans le sépulcre d’Élisée ?",
+    "choices": [
+      "À cause d’une troupe de Moabites",
+      "À cause d’une guerre contre l’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 13:20-21 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-049",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:7",
+    "verseText": "Voir 2 Rois 17:7.",
+    "question": "Quel motif de l’exil d’Israël est explicitement donné : qu’ont-ils fait ?",
+    "choices": [
+      "Ils péchèrent contre l’Éternel, servirent d’autres dieux",
+      "Ils bâtirent le temple à Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-050",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:24",
+    "verseText": "Voir 2 Rois 17:24.",
+    "question": "Quel roi d’Assyrie est mentionné comme ayant fait venir des peuples pour habiter Samarie ?",
+    "choices": [
+      "Le roi d’Assyrie (contexte du transport et remplacement)",
+      "Le roi de Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:24 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-051",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:26",
+    "verseText": "Voir 2 Rois 17:26.",
+    "question": "Quel avertissement est donné à ces peuples concernant les lions ?",
+    "choices": [
+      "Ils ne connaissent pas la manière de servir le Dieu du pays",
+      "Ils ne savent pas cultiver la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:26 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-052",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:4",
+    "verseText": "Voir 2 Rois 18:4.",
+    "question": "Quel acte majeur d’Ézéchias est lié au serpent d’airain ?",
+    "choices": [
+      "Il le mit en pièces; on l’appelait Nehuschtan",
+      "Il le plaça sur l’arche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-053",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:17-19",
+    "verseText": "Voir 2 Rois 18:17-19.",
+    "question": "Quel titre exact est donné aux envoyés assyriens qui parlent au peuple ?",
+    "choices": [
+      "Le Rab-Schaké",
+      "Le grand prêtre d’Assur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:17-19 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-054",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:26",
+    "verseText": "Voir 2 Rois 18:26.",
+    "question": "Dans quelle langue les envoyés d’Ézéchias demandent-ils au Rab-Schaké de parler ?",
+    "choices": [
+      "En araméen",
+      "En grec"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:26 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-055",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:27",
+    "verseText": "Voir 2 Rois 18:27.",
+    "question": "Que répond le Rab-Schaké sur la langue, voulant viser les hommes sur la muraille ?",
+    "choices": [
+      "Qu’il parle justement pour ceux qui sont assis sur la muraille",
+      "Qu’il ne parlera qu’au roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:27 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-056",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:36",
+    "verseText": "Voir 2 Rois 18:36.",
+    "question": "Quelle attitude le peuple adopte-t-il selon l’ordre du roi ?",
+    "choices": [
+      "Ils se turent et ne répondirent pas un mot",
+      "Ils jetèrent des pierres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:36 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-057",
+    "book": "2 Rois",
+    "chapter": 19,
+    "verseRef": "2 Rois 19:14",
+    "verseText": "Voir 2 Rois 19:14.",
+    "question": "Quelle action Ézéchias accomplit-il à la réception de la lettre de l’Assyrien ?",
+    "choices": [
+      "Il monte à la maison de l’Éternel, la déploie devant l’Éternel",
+      "Il l’envoie à l’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 19:14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-058",
+    "book": "2 Rois",
+    "chapter": 19,
+    "verseRef": "2 Rois 19:35",
+    "verseText": "Voir 2 Rois 19:35.",
+    "question": "Quel événement frappe l’armée assyrienne pendant la nuit ?",
+    "choices": [
+      "L’ange de l’Éternel frappa cent quatre-vingt-cinq mille hommes",
+      "Un incendie consuma toutes les tentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 19:35 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-059",
+    "book": "2 Rois",
+    "chapter": 19,
+    "verseRef": "2 Rois 19:37",
+    "verseText": "Voir 2 Rois 19:37.",
+    "question": "Comment meurt Sanchérib selon le récit ?",
+    "choices": [
+      "Ses fils le frappent avec l’épée dans la maison de Nisroc, son dieu",
+      "Il meurt de maladie à Ninive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 19:37 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-060",
+    "book": "2 Rois",
+    "chapter": 20,
+    "verseRef": "2 Rois 20:8",
+    "verseText": "Voir 2 Rois 20:8.",
+    "question": "Quel signe corporel Ézéchias demande-t-il pour confirmer sa guérison ?",
+    "choices": [
+      "« À quel signe connaîtrai-je… que je monterai à la maison de l’Éternel? »",
+      "« Donne-moi un signe sur les moissons. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 20:8 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-061",
+    "book": "2 Rois",
+    "chapter": 4,
+    "verseRef": "2 Rois 4:24",
+    "verseText": "Voir 2 Rois 4:24.",
+    "question": "Quel détail montre l’obéissance exacte du serviteur de la Sunamite lorsqu’il court vers le prophète ?",
+    "choices": [
+      "Elle dit : « Ne te relâche point dans ta course. »",
+      "Elle dit : « Arrête-toi à chaque village. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 4:24 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-062",
+    "book": "2 Rois",
+    "chapter": 4,
+    "verseRef": "2 Rois 4:29",
+    "verseText": "Voir 2 Rois 4:29.",
+    "question": "Quelle parole Élisée dit-il au serviteur à propos du bâton ?",
+    "choices": [
+      "« Mets mon bâton sur le visage de l’enfant. »",
+      "« Mets mon manteau sur l’enfant. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 4:29 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-063",
+    "book": "2 Rois",
+    "chapter": 4,
+    "verseRef": "2 Rois 4:43",
+    "verseText": "Voir 2 Rois 4:43.",
+    "question": "Quelle phrase revient dans la multiplication des pains pour cent hommes ?",
+    "choices": [
+      "« On mangera, et il en restera. »",
+      "« On mangera, et il n’en restera rien. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 4:43 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-064",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:11",
+    "verseText": "Voir 2 Rois 5:11.",
+    "question": "Quel geste Naaman attend-il d’Élisée avant d’être contrarié ?",
+    "choices": [
+      "Qu’il sorte vers lui, se présente, invoque l’Éternel, et agite sa main sur la place",
+      "Qu’il le fasse asseoir sur un trône"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:11 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-065",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:14",
+    "verseText": "Voir 2 Rois 5:14.",
+    "question": "Quelle précision est donnée sur l’état de Naaman après les sept immersions ?",
+    "choices": [
+      "Sa chair redevint comme la chair d’un jeune enfant",
+      "Sa chair devint comme du bronze"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-066",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:22",
+    "verseText": "Voir 2 Rois 5:22.",
+    "question": "Quel mensonge Guéhazi utilise-t-il pour justifier sa demande ?",
+    "choices": [
+      "« Mon maître m’envoie… »",
+      "« Le roi d’Israël l’ordonne. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:22 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-067",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:27",
+    "verseText": "Voir 2 Rois 5:27.",
+    "question": "Quel jugement Élisée prononce-t-il sur l’avenir de la lèpre de Guéhazi ?",
+    "choices": [
+      "« La lèpre de Naaman s’attachera à toi et à ta postérité pour toujours. »",
+      "« Tu seras guéri dans trois jours. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:27 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-068",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:18",
+    "verseText": "Voir 2 Rois 6:18.",
+    "question": "Quel aveuglement frappe les Syriens selon la prière d’Élisée ?",
+    "choices": [
+      "Un aveuglement envoyé par l’Éternel",
+      "Une surdité complète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-069",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:22",
+    "verseText": "Voir 2 Rois 6:22.",
+    "question": "Quel ordre Élisée donne-t-il au roi d’Israël au sujet des captifs ?",
+    "choices": [
+      "« Tu ne les frapperas point… mets devant eux du pain et de l’eau. »",
+      "« Qu’on les fasse mourir à l’épée. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:22 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-070",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:23",
+    "verseText": "Voir 2 Rois 6:23.",
+    "question": "Quelle conséquence suit le renvoi des Syriens après le repas ?",
+    "choices": [
+      "Les troupes de Syrie ne revinrent plus sur le territoire d’Israël",
+      "Les Syriens revinrent aussitôt assiéger Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:23 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-071",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:25",
+    "verseText": "Voir 2 Rois 6:25.",
+    "question": "Quel élément précis est vendu « quatre-vingts sicles d’argent » pendant la famine ?",
+    "choices": [
+      "Une tête d’âne",
+      "Un boisseau de froment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:25 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-072",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:25",
+    "verseText": "Voir 2 Rois 6:25.",
+    "question": "Quelle expression dramatique décrit le prix du « quart d’un kab » ?",
+    "choices": [
+      "« le quart d’un kab de fiente de pigeon »",
+      "« le quart d’un kab d’encens »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:25 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-073",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:31",
+    "verseText": "Voir 2 Rois 6:31.",
+    "question": "Quel serment le roi prononce-t-il contre Élisée ?",
+    "choices": [
+      "« Que Dieu me traite dans toute sa rigueur, si la tête d’Élisée… reste aujourd’hui sur lui! »",
+      "« Que Dieu bénisse Élisée pour toujours! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:31 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-074",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:7",
+    "verseText": "Voir 2 Rois 7:7.",
+    "question": "Quel détail décrit la fuite des Syriens au camp ?",
+    "choices": [
+      "Ils laissèrent tentes, chevaux et ânes",
+      "Ils brûlèrent leurs tentes avant de partir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 7:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-075",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:9",
+    "verseText": "Voir 2 Rois 7:9.",
+    "question": "Quel reproche moral les lépreux se font-ils avant d’avertir la ville ?",
+    "choices": [
+      "« Nous n’agissons pas bien. Ce jour est un jour de bonne nouvelle… »",
+      "« Nous sommes trop faibles pour parler. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 7:9 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-076",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:13",
+    "verseText": "Voir 2 Rois 7:13.",
+    "question": "Quel personnage le roi consulte-t-il pour vérifier la fuite syrienne ?",
+    "choices": [
+      "Un de ses serviteurs propose de prendre cinq chevaux restants",
+      "Un prophète de Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 7:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-077",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:2",
+    "verseText": "Voir 2 Rois 8:2.",
+    "question": "Quel détail exact est donné sur le retour de la Sunamite ?",
+    "choices": [
+      "Elle revint du pays des Philistins",
+      "Elle revint du pays de Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-078",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:5",
+    "verseText": "Voir 2 Rois 8:5.",
+    "question": "Quel signe révèle que Guéhazi raconte l’histoire au bon moment ?",
+    "choices": [
+      "Il parlait justement de l’enfant ressuscité quand la mère arrive",
+      "Il était en train de dormir quand elle arrive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-079",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:11-12",
+    "verseText": "Voir 2 Rois 8:11-12.",
+    "question": "Quelle réaction physique d’Élisée est mentionnée face à Hazaël ?",
+    "choices": [
+      "Il fixa son regard et pleura",
+      "Il se mit à rire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:11-12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-080",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:12",
+    "verseText": "Voir 2 Rois 8:12.",
+    "question": "Quelle prophétie précise Élisée au sujet des violences de Hazaël ?",
+    "choices": [
+      "Il mettra le feu à leurs forteresses, tuera leurs jeunes gens, écrasera leurs petits enfants, fendra le ventre à leurs femmes enceintes",
+      "Il leur donnera du pain et du vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-081",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:18",
+    "verseText": "Voir 2 Rois 8:18.",
+    "question": "Qui est précisément la femme de Joram, roi de Juda, selon le texte ?",
+    "choices": [
+      "Athalie, fille d’Achab",
+      "Dalila, fille des Philistins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-082",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:18",
+    "verseText": "Voir 2 Rois 8:18.",
+    "question": "Quel détail est mentionné au sujet de l’alliance entre Juda et la maison d’Achab ?",
+    "choices": [
+      "Joram marcha dans la voie des rois d’Israël",
+      "Joram marcha dans la voie de David seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-083",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:1",
+    "verseText": "Voir 2 Rois 11:1.",
+    "question": "Quel acte Athalie commet-elle en prenant le pouvoir ?",
+    "choices": [
+      "Elle fit périr toute la race royale",
+      "Elle délivra tous les prisonniers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-084",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:2",
+    "verseText": "Voir 2 Rois 11:2.",
+    "question": "Quel lien exact Joschéba a-t-elle avec Joas ?",
+    "choices": [
+      "Elle prit Joas, fils d’Achazia",
+      "Elle prit Joas, fils d’Élisée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-085",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:11",
+    "verseText": "Voir 2 Rois 11:11.",
+    "question": "Quel détail est dit sur la garde lors du couronnement de Joas ?",
+    "choices": [
+      "Ils entourèrent le roi, chacun les armes à la main",
+      "Ils sortirent tous sans armes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:11 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-086",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:15",
+    "verseText": "Voir 2 Rois 11:15.",
+    "question": "Quelle consigne Jojada donne-t-il concernant Athalie ?",
+    "choices": [
+      "Qu’on la fasse sortir des rangs, et qu’on tue par l’épée celui qui la suivra",
+      "Qu’on l’épargne et la couronne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:15 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-087",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:18",
+    "verseText": "Voir 2 Rois 11:18.",
+    "question": "Quel acte suit l’alliance sous Jojada ?",
+    "choices": [
+      "Tout le peuple du pays entra dans la maison de Baal et la démolit",
+      "Tout le peuple bâtit une nouvelle idole"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-088",
+    "book": "2 Rois",
+    "chapter": 12,
+    "verseRef": "2 Rois 12:9",
+    "verseText": "Voir 2 Rois 12:9.",
+    "question": "Quel détail est donné sur le coffre pour les offrandes ?",
+    "choices": [
+      "Le sacrificateur Jojada prit un coffre, y fit un trou dans le couvercle",
+      "On posa un sac de cuir sans ouverture"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 12:9 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-089",
+    "book": "2 Rois",
+    "chapter": 12,
+    "verseRef": "2 Rois 12:15",
+    "verseText": "Voir 2 Rois 12:15.",
+    "question": "Quel principe de gestion de l’argent est mentionné sous Joas ?",
+    "choices": [
+      "On ne demandait aucun compte aux hommes qui faisaient l’ouvrage",
+      "Chaque ouvrier était interrogé chaque jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 12:15 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-090",
+    "book": "2 Rois",
+    "chapter": 12,
+    "verseRef": "2 Rois 12:20",
+    "verseText": "Voir 2 Rois 12:20.",
+    "question": "Quel lieu exact est associé au meurtre de Joas ?",
+    "choices": [
+      "Millo, sur la descente de Silla",
+      "La porte de Jaffa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 12:20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-091",
+    "book": "2 Rois",
+    "chapter": 14,
+    "verseRef": "2 Rois 14:26",
+    "verseText": "Voir 2 Rois 14:26.",
+    "question": "Quel motif est donné pour la restauration territoriale sous Jéroboam ?",
+    "choices": [
+      "L’Éternel vit l’affliction très amère d’Israël",
+      "Israël méritait une récompense parfaite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 14:26 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-092",
+    "book": "2 Rois",
+    "chapter": 14,
+    "verseRef": "2 Rois 14:26",
+    "verseText": "Voir 2 Rois 14:26.",
+    "question": "Quelle expression décrit l’affliction du peuple (formule) ?",
+    "choices": [
+      "« Il n’y avait ni esclave ni homme libre… et personne pour secourir Israël »",
+      "« Tout le peuple était riche »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 14:26 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-093",
+    "book": "2 Rois",
+    "chapter": 15,
+    "verseRef": "2 Rois 15:1",
+    "verseText": "Voir 2 Rois 15:1.",
+    "question": "Quel nom est donné au roi lépreux de Juda dans ce chapitre ?",
+    "choices": [
+      "Azaria",
+      "Joachin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 15:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-094",
+    "book": "2 Rois",
+    "chapter": 15,
+    "verseRef": "2 Rois 15:5",
+    "verseText": "Voir 2 Rois 15:5.",
+    "question": "Quelle conséquence administrative est mentionnée sur Azaria ?",
+    "choices": [
+      "Jotham, fils du roi, était à la tête de la maison et jugeait le peuple du pays",
+      "Ésaïe fut roi à sa place"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 15:5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-095",
+    "book": "2 Rois",
+    "chapter": 15,
+    "verseRef": "2 Rois 15:10",
+    "verseText": "Voir 2 Rois 15:10.",
+    "question": "Quel roi est assassiné « devant le peuple » par un conspirateur dans la maison du roi ?",
+    "choices": [
+      "Zacharie",
+      "Ézéchias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 15:10 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-096",
+    "book": "2 Rois",
+    "chapter": 15,
+    "verseRef": "2 Rois 15:13",
+    "verseText": "Voir 2 Rois 15:13.",
+    "question": "Quel roi règne seulement « un mois » à Samarie ?",
+    "choices": [
+      "Sallum",
+      "Pul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 15:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-097",
+    "book": "2 Rois",
+    "chapter": 16,
+    "verseRef": "2 Rois 16:3",
+    "verseText": "Voir 2 Rois 16:3.",
+    "question": "Quelle pratique abominable est associée à Achaz ?",
+    "choices": [
+      "Il fit passer son fils par le feu",
+      "Il bâtit l’arche de Noé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 16:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-098",
+    "book": "2 Rois",
+    "chapter": 16,
+    "verseRef": "2 Rois 16:7",
+    "verseText": "Voir 2 Rois 16:7.",
+    "question": "Quelle formule Achaz adresse-t-il au roi d’Assyrie ?",
+    "choices": [
+      "« Je suis ton serviteur et ton fils »",
+      "« Je suis ton ennemi et ton juge »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 16:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-099",
+    "book": "2 Rois",
+    "chapter": 16,
+    "verseRef": "2 Rois 16:8",
+    "verseText": "Voir 2 Rois 16:8.",
+    "question": "Quelle action Achaz fait-il avec l’or et l’argent des maisons sacrées ?",
+    "choices": [
+      "Il les envoie en présent au roi d’Assyrie",
+      "Il les enterre dans le désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 16:8 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-100",
+    "book": "2 Rois",
+    "chapter": 16,
+    "verseRef": "2 Rois 16:11",
+    "verseText": "Voir 2 Rois 16:11.",
+    "question": "Quel nom du sacrificateur apparaît dans l’obéissance au plan de l’autel ?",
+    "choices": [
+      "Urie",
+      "Éléazar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 16:11 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-101",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:6",
+    "verseText": "Voir 2 Rois 17:6.",
+    "question": "Quel détail est mentionné sur l’Assyrien après la prise de Samarie ?",
+    "choices": [
+      "Il transporta Israël en Assyrie",
+      "Il couronna un roi à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:6 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-102",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:7",
+    "verseText": "Voir 2 Rois 17:7.",
+    "question": "Quelle cause théologique est donnée pour cette catastrophe nationale ?",
+    "choices": [
+      "Ils péchèrent contre l’Éternel, leur Dieu, et craignirent d’autres dieux",
+      "Ils furent trop faibles militairement seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-103",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:8",
+    "verseText": "Voir 2 Rois 17:8.",
+    "question": "Quelle pratique d’Israël est décrite comme imitation des nations ?",
+    "choices": [
+      "Ils suivirent les coutumes des nations que l’Éternel avait chassées",
+      "Ils suivirent seulement la loi de Moïse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:8 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-104",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:16",
+    "verseText": "Voir 2 Rois 17:16.",
+    "question": "Quel avertissement revient sur les statues et les images taillées ?",
+    "choices": [
+      "Ils se firent des statues, des images taillées, et adorèrent toute l’armée des cieux",
+      "Ils détruisirent toutes les idoles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:16 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-105",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:33",
+    "verseText": "Voir 2 Rois 17:33.",
+    "question": "Quel paradoxe est dit des peuples installés à Samarie ?",
+    "choices": [
+      "Ils craignaient l’Éternel et ils servirent leurs dieux",
+      "Ils ne servaient aucun dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:33 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-106",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:7",
+    "verseText": "Voir 2 Rois 18:7.",
+    "question": "Quel détail est donné sur Ézéchias face au roi d’Assyrie ?",
+    "choices": [
+      "Il se révolta contre le roi d’Assyrie et ne lui fut plus assujetti",
+      "Il devint serviteur de Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-107",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:17",
+    "verseText": "Voir 2 Rois 18:17.",
+    "question": "Quel lieu précis est mentionné lors de la rencontre avec le Rab-Schaké ?",
+    "choices": [
+      "L’aqueduc de l’étang supérieur, sur le chemin du champ du foulon",
+      "La porte des poissons, près du marché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-108",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:18",
+    "verseText": "Voir 2 Rois 18:18.",
+    "question": "Qui sont les trois représentants d’Ézéchias envoyés vers le Rab-Schaké ?",
+    "choices": [
+      "Éliakim, Schebna, Joach",
+      "Jonas, Amos, Michée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-109",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:27",
+    "verseText": "Voir 2 Rois 18:27.",
+    "question": "Quelle menace sociale le Rab-Schaké emploie-t-il grossièrement envers les hommes sur la muraille ?",
+    "choices": [
+      "Ils mangeront leurs excréments et boiront leur urine",
+      "Ils recevront des couronnes d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:27 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-110",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:37",
+    "verseText": "Voir 2 Rois 18:37.",
+    "question": "Quel ordre Ézéchias donne-t-il à ses envoyés après l’insulte ?",
+    "choices": [
+      "Ils déchirèrent leurs vêtements et vinrent rapporter à Ézéchias",
+      "Ils célébrèrent une fête"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:37 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-111",
+    "book": "2 Rois",
+    "chapter": 19,
+    "verseRef": "2 Rois 19:32",
+    "verseText": "Voir 2 Rois 19:32.",
+    "question": "Quelle parole d’Ésaïe vise directement l’Assyrien qui se glorifie ?",
+    "choices": [
+      "« Il ne tirera pas une flèche… il ne s’avancera pas devant elle avec un bouclier »",
+      "« Il entrera et règnera à jamais »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 19:32 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-112",
+    "book": "2 Rois",
+    "chapter": 19,
+    "verseRef": "2 Rois 19:29",
+    "verseText": "Voir 2 Rois 19:29.",
+    "question": "Quel signe agricole Ésaïe annonce-t-il à Ézéchias pour confirmer la délivrance ?",
+    "choices": [
+      "Cette année on mangera ce qui vient de soi-même, et la seconde année ce qui pousse de même; la troisième année vous sèmerez",
+      "Cette année vous ne mangerez rien du tout"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 19:29 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-113",
+    "book": "2 Rois",
+    "chapter": 19,
+    "verseRef": "2 Rois 19:36",
+    "verseText": "Voir 2 Rois 19:36.",
+    "question": "Où Sanchérib se retire-t-il après la frappe de l’ange ?",
+    "choices": [
+      "Il s’en retourna, partit et resta à Ninive",
+      "Il s’enfuit à Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 19:36 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-114",
+    "book": "2 Rois",
+    "chapter": 19,
+    "verseRef": "2 Rois 19:37",
+    "verseText": "Voir 2 Rois 19:37.",
+    "question": "Quel dieu est nommé dans l’assassinat de Sanchérib ?",
+    "choices": [
+      "Nisroc, son dieu",
+      "Baal-Zebub, dieu d’Ékron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 19:37 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-115",
+    "book": "2 Rois",
+    "chapter": 20,
+    "verseRef": "2 Rois 20:7",
+    "verseText": "Voir 2 Rois 20:7.",
+    "question": "Quel objet médical Ésaïe fait-il appliquer sur l’ulcère d’Ézéchias ?",
+    "choices": [
+      "Une masse de figues",
+      "Une poignée de sel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 20:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-116",
+    "book": "2 Rois",
+    "chapter": 20,
+    "verseRef": "2 Rois 20:11",
+    "verseText": "Voir 2 Rois 20:11.",
+    "question": "Quel cadran est mentionné dans le signe de l’ombre ?",
+    "choices": [
+      "Le cadran d’Achaz",
+      "Le cadran de David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 20:11 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-117",
+    "book": "2 Rois",
+    "chapter": 20,
+    "verseRef": "2 Rois 20:12",
+    "verseText": "Voir 2 Rois 20:12.",
+    "question": "Quel peuple envoie des lettres et un présent à Ézéchias après sa guérison ?",
+    "choices": [
+      "Merodac-Baladan, fils de Baladan, roi de Babylone",
+      "Hazaël, roi de Syrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 20:12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-118",
+    "book": "2 Rois",
+    "chapter": 20,
+    "verseRef": "2 Rois 20:18",
+    "verseText": "Voir 2 Rois 20:18.",
+    "question": "Quel détail Ésaïe annonce-t-il sur la descendance d’Ézéchias ?",
+    "choices": [
+      "On prendra de ses fils pour en faire des eunuques dans le palais du roi de Babylone",
+      "Ses fils deviendront rois en Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 20:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-119",
+    "book": "2 Rois",
+    "chapter": 20,
+    "verseRef": "2 Rois 20:19",
+    "verseText": "Voir 2 Rois 20:19.",
+    "question": "Quelle réponse Ézéchias donne-t-il à la parole sévère d’Ésaïe ?",
+    "choices": [
+      "« La parole de l’Éternel… est bonne »",
+      "« Je refuse cette parole »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 20:19 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-120",
+    "book": "2 Rois",
+    "chapter": 20,
+    "verseRef": "2 Rois 20:19",
+    "verseText": "Voir 2 Rois 20:19.",
+    "question": "Quel motif Ézéchias ajoute-t-il sur son temps ?",
+    "choices": [
+      "« N’y aura-t-il pas paix et sécurité pendant ma vie? »",
+      "« Je veux la guerre pendant ma vie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 20:19 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-121",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:7",
+    "verseText": "Voir 2 Rois 21:7.",
+    "question": "Quelle précision est donnée sur l’idole placée par Manassé dans la maison de l’Éternel ?",
+    "choices": [
+      "Il mit l’idole d’Astarté qu’il avait faite dans la maison",
+      "Il mit l’arche de l’alliance dans la maison de Baal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-122",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:16",
+    "verseText": "Voir 2 Rois 21:16.",
+    "question": "Quelle formule est employée pour décrire l’effusion de sang sous Manassé ?",
+    "choices": [
+      "Manassé répandit aussi beaucoup de sang innocent… jusqu’à remplir Jérusalem d’un bout à l’autre",
+      "Manassé ne versa aucun sang, mais fit seulement des autels"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:16 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-123",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:18",
+    "verseText": "Voir 2 Rois 21:18.",
+    "question": "Quel lieu d’ensevelissement est indiqué pour Manassé ?",
+    "choices": [
+      "Dans le jardin de sa maison, dans le jardin d’Uzza",
+      "Dans la caverne de Macpéla"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-124",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:21",
+    "verseText": "Voir 2 Rois 21:21.",
+    "question": "Quelle expression résume la conduite d’Amon ?",
+    "choices": [
+      "Il marcha dans toute la voie où avait marché son père",
+      "Il revint entièrement à l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:21 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-125",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:23",
+    "verseText": "Voir 2 Rois 21:23.",
+    "question": "Dans quel lieu Amon est-il tué selon le récit ?",
+    "choices": [
+      "Dans sa maison",
+      "À la porte de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:23 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-126",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:3",
+    "verseText": "Voir 2 Rois 22:3.",
+    "question": "Quel titre est donné à Schaphan dans l’épisode du livre retrouvé ?",
+    "choices": [
+      "Le secrétaire",
+      "Le chef des gardes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-127",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:8",
+    "verseText": "Voir 2 Rois 22:8.",
+    "question": "Quelle phrase précise accompagne la découverte du livre par Hilkija ?",
+    "choices": [
+      "« J’ai trouvé le livre de la loi dans la maison de l’Éternel. »",
+      "« J’ai trouvé l’épée de David dans la maison du roi. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:8 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-128",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:10",
+    "verseText": "Voir 2 Rois 22:10.",
+    "question": "Quel geste Schaphan fait-il avec le livre avant de parler au roi ?",
+    "choices": [
+      "Il le lut",
+      "Il l’enterra"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:10 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-129",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:12",
+    "verseText": "Voir 2 Rois 22:12.",
+    "question": "Quels hommes sont envoyés consulter l’Éternel après la réaction de Josias ?",
+    "choices": [
+      "Hilkija, Achikam, Acbor, Schaphan et Asaja",
+      "Éliakim, Schebna et Joach"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-130",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:14",
+    "verseText": "Voir 2 Rois 22:14.",
+    "question": "Quelle localisation précise est donnée pour Hulda ?",
+    "choices": [
+      "Elle habitait à Jérusalem, dans la seconde partie de la ville",
+      "Elle habitait à Hébron, près des champs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-131",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:17",
+    "verseText": "Voir 2 Rois 22:17.",
+    "question": "Quelle raison Hulda donne-t-elle pour le jugement annoncé ?",
+    "choices": [
+      "Ils m’ont abandonné et ont offert des parfums à d’autres dieux",
+      "Ils ont manqué d’eau dans le désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-132",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:20",
+    "verseText": "Voir 2 Rois 22:20.",
+    "question": "Qu’est-ce qui est promis à Josias concernant sa fin ?",
+    "choices": [
+      "Il sera recueilli dans son sépulcre en paix",
+      "Il mourra dans l’exil à Ninive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-133",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:3",
+    "verseText": "Voir 2 Rois 23:3.",
+    "question": "Où le roi se tient-il lors de l’alliance publique ?",
+    "choices": [
+      "Sur l’estrade",
+      "Sur l’autel de Baal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-134",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:4",
+    "verseText": "Voir 2 Rois 23:4.",
+    "question": "Quel lieu exact est cité pour la combustion des objets idolâtres avant l’envoi des cendres ?",
+    "choices": [
+      "Dans les champs du Cédron",
+      "Dans la plaine de Meguiddo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-135",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:16",
+    "verseText": "Voir 2 Rois 23:16.",
+    "question": "Quelle action Josias fait-il aux prêtres des hauts lieux à Béthel ?",
+    "choices": [
+      "Il brûla des ossements humains sur l’autel",
+      "Il les établit sacrificateurs dans le temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:16 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-136",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:25",
+    "verseText": "Voir 2 Rois 23:25.",
+    "question": "Quelle mention résume l’exemplarité de Josias ?",
+    "choices": [
+      "Il n’y eut point avant lui de roi qui, comme lui, revînt à l’Éternel de tout son cœur",
+      "Il n’y eut point avant lui de roi qui bâtît autant d’autels à Baal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:25 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-137",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:26",
+    "verseText": "Voir 2 Rois 23:26.",
+    "question": "Quelle limite au renouveau de Josias est exprimée malgré tout ?",
+    "choices": [
+      "L’Éternel ne revint pas de l’ardeur de sa grande colère, à cause des provocations de Manassé",
+      "L’Éternel oublia totalement les péchés passés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:26 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-138",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:29",
+    "verseText": "Voir 2 Rois 23:29.",
+    "question": "Quel roi est cité comme adversaire de Josias à Meguiddo ?",
+    "choices": [
+      "Pharaon Néco",
+      "Nébucadnetsar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:29 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-139",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:30",
+    "verseText": "Voir 2 Rois 23:30.",
+    "question": "Quelle action est faite au corps de Josias après sa mort ?",
+    "choices": [
+      "Ses serviteurs le transportèrent mort de Meguiddo à Jérusalem",
+      "Ses serviteurs l’enterrèrent à Dothan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:30 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-140",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:31",
+    "verseText": "Voir 2 Rois 23:31.",
+    "question": "Quel nom Joachaz portait-il dans le texte (son autre nom) ?",
+    "choices": [
+      "Schallum",
+      "Matthania"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:31 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-141",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:33",
+    "verseText": "Voir 2 Rois 23:33.",
+    "question": "Quel châtiment Néco impose-t-il au pays ?",
+    "choices": [
+      "Un tribut de cent talents d’argent et d’un talent d’or",
+      "Un tribut de dix talents d’argent seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:33 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-142",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:34",
+    "verseText": "Voir 2 Rois 23:34.",
+    "question": "Quel détail est donné sur le changement de nom d’Éliakim ?",
+    "choices": [
+      "Pharaon Néco changea le nom d’Éliakim en Jojakim",
+      "Pharaon Néco changea le nom de Jojakin en Éliakim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:34 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-143",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:35",
+    "verseText": "Voir 2 Rois 23:35.",
+    "question": "Quelle précision indique que Jojakim prélève l’argent “selon l’estimation” ?",
+    "choices": [
+      "Il mit l’argent et l’or à contribution sur le peuple du pays, sur chacun selon l’estimation",
+      "Il prit l’or uniquement dans le temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:35 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-144",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:2",
+    "verseText": "Voir 2 Rois 24:2.",
+    "question": "Quelles nations sont explicitement mentionnées parmi les bandes envoyées contre Juda ?",
+    "choices": [
+      "Chaldéens, Syriens, Moabites, fils d’Ammon",
+      "Égyptiens, Philistins, Amalécites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-145",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:3",
+    "verseText": "Voir 2 Rois 24:3.",
+    "question": "Quelle expression précise attribue la catastrophe à l’ordre divin ?",
+    "choices": [
+      "« Cela arriva sur l’ordre de l’Éternel »",
+      "« Cela arriva par hasard »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-146",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:4",
+    "verseText": "Voir 2 Rois 24:4.",
+    "question": "Quelle faute précise est rappelée au sujet de Manassé ?",
+    "choices": [
+      "À cause du sang innocent qu’il avait répandu",
+      "À cause d’un simple manque de prudence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-147",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:11-12",
+    "verseText": "Voir 2 Rois 24:11-12.",
+    "question": "Quel roi de Babylone est dit venir “en personne” lors de la reddition de Jojakin ?",
+    "choices": [
+      "Nébucadnetsar, roi de Babylone",
+      "Évil-Merodac, roi de Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:11-12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-148",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:13",
+    "verseText": "Voir 2 Rois 24:13.",
+    "question": "Quelle conséquence est formulée concernant les objets d’or du temple ?",
+    "choices": [
+      "Il mit en pièces tous les ustensiles d’or que Salomon avait faits",
+      "Il ajouta des ustensiles d’or nouveaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-149",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:14",
+    "verseText": "Voir 2 Rois 24:14.",
+    "question": "Quel groupe “ne resta” dans le pays après la déportation ?",
+    "choices": [
+      "Les plus pauvres du pays",
+      "Les charpentiers et les serruriers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-150",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:17",
+    "verseText": "Voir 2 Rois 24:17.",
+    "question": "Quel nom initial porte Sédécias avant d’être renommé ?",
+    "choices": [
+      "Matthania",
+      "Schaphan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-151",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:20",
+    "verseText": "Voir 2 Rois 24:20.",
+    "question": "Quelle cause spirituelle est donnée à la révolte de Sédécias et à la chute ?",
+    "choices": [
+      "La colère de l’Éternel était contre Jérusalem et contre Juda",
+      "La récolte avait été trop abondante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-152",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:1",
+    "verseText": "Voir 2 Rois 25:1.",
+    "question": "Quelle date exacte est donnée pour l’arrivée de l’armée babylonienne au siège ?",
+    "choices": [
+      "Le dixième jour du dixième mois, la neuvième année de Sédécias",
+      "Le premier jour du premier mois, la première année de Sédécias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-153",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:1",
+    "verseText": "Voir 2 Rois 25:1.",
+    "question": "Quelle œuvre militaire est mentionnée autour de la ville assiégée ?",
+    "choices": [
+      "Ils élevèrent des retranchements tout autour de la ville",
+      "Ils creusèrent un canal pour amener de l’eau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-154",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:3",
+    "verseText": "Voir 2 Rois 25:3.",
+    "question": "Quelle formulation résume l’état de la ville avant la brèche ?",
+    "choices": [
+      "La famine fut forte dans la ville, et il n’y eut point de pain pour le peuple du pays",
+      "Il y eut abondance de pain pendant tout le siège"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-155",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:4",
+    "verseText": "Voir 2 Rois 25:4.",
+    "question": "Quelle direction de fuite est indiquée pour Sédécias ?",
+    "choices": [
+      "Par le chemin de la plaine",
+      "Par le chemin de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-156",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:5",
+    "verseText": "Voir 2 Rois 25:5.",
+    "question": "Où l’armée babylonienne rejoint-elle et disperse-t-elle les troupes de Sédécias ?",
+    "choices": [
+      "Dans les plaines de Jéricho",
+      "À Meguiddo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-157",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:6",
+    "verseText": "Voir 2 Rois 25:6.",
+    "question": "Quel acte judiciaire le roi de Babylone fait-il à Ribla ?",
+    "choices": [
+      "Il prononça une sentence contre Sédécias",
+      "Il le couronna roi de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:6 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-158",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:7",
+    "verseText": "Voir 2 Rois 25:7.",
+    "question": "Quel enchaînement de châtiments est décrit contre Sédécias ?",
+    "choices": [
+      "On égorge ses fils, on lui crève les yeux, on le lie avec des chaînes d’airain",
+      "On l’exile sans jugement puis on le libère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-159",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:8-9",
+    "verseText": "Voir 2 Rois 25:8-9.",
+    "question": "Quelle date précise est donnée pour l’incendie du temple et des maisons ?",
+    "choices": [
+      "Le septième jour du cinquième mois, la dix-neuvième année de Nébucadnetsar",
+      "Le dixième jour du dixième mois, la neuvième année de Sédécias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:8-9 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-160",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:8",
+    "verseText": "Voir 2 Rois 25:8.",
+    "question": "Quel titre exact est donné à Nebuzaradan ?",
+    "choices": [
+      "Chef des gardes",
+      "Secrétaire du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:8 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-161",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:10",
+    "verseText": "Voir 2 Rois 25:10.",
+    "question": "Quelle destruction structurelle est mentionnée après l’incendie ?",
+    "choices": [
+      "Toute l’armée des Chaldéens renversa les murailles de Jérusalem tout autour",
+      "Les murailles furent renforcées et doublées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:10 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-162",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:12",
+    "verseText": "Voir 2 Rois 25:12.",
+    "question": "Qui est laissé dans le pays par le chef des gardes ?",
+    "choices": [
+      "Des pauvres du pays, comme vignerons et laboureurs",
+      "Les princes et les eunuques seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-163",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:13",
+    "verseText": "Voir 2 Rois 25:13.",
+    "question": "Quels objets métalliques du temple sont brisés et emportés ?",
+    "choices": [
+      "Les colonnes d’airain, les bases, et la mer d’airain",
+      "Les tables de pierre et l’arche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-164",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:18-20",
+    "verseText": "Voir 2 Rois 25:18-20.",
+    "question": "Où sont emmenés les principaux captifs sacerdotaux et militaires ?",
+    "choices": [
+      "À Ribla, vers le roi de Babylone",
+      "À Dothan, vers le roi de Syrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:18-20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-165",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:22",
+    "verseText": "Voir 2 Rois 25:22.",
+    "question": "Quel gouverneur est établi sur le reste du peuple au pays de Juda ?",
+    "choices": [
+      "Guedalia, fils d’Achikam",
+      "Jojada, fils de Jehojada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:22 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-166",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:23",
+    "verseText": "Voir 2 Rois 25:23.",
+    "question": "Où Guedalia demeure-t-il comme centre d’administration ?",
+    "choices": [
+      "À Mitspa",
+      "À Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:23 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-167",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:25",
+    "verseText": "Voir 2 Rois 25:25.",
+    "question": "Quel homme assassine Guedalia ?",
+    "choices": [
+      "Jischmaël, fils de Nethania",
+      "Schaphan, le secrétaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:25 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-168",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:25",
+    "verseText": "Voir 2 Rois 25:25.",
+    "question": "À quel moment cet assassinat a-t-il lieu ?",
+    "choices": [
+      "Le septième mois",
+      "Le premier mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:25 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-169",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:26",
+    "verseText": "Voir 2 Rois 25:26.",
+    "question": "Que craint le peuple après l’assassinat de Guedalia ?",
+    "choices": [
+      "Les Chaldéens",
+      "Les Philistins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:26 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-170",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:26",
+    "verseText": "Voir 2 Rois 25:26.",
+    "question": "Où le peuple s’enfuit-il alors ?",
+    "choices": [
+      "En Égypte",
+      "À Ninive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:26 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-171",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:27",
+    "verseText": "Voir 2 Rois 25:27.",
+    "question": "À quelle date Évil-Merodac relève-t-il la tête de Jojakin ?",
+    "choices": [
+      "La trente-septième année de la captivité de Jojakin",
+      "La première année de la captivité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:27 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-172",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:27",
+    "verseText": "Voir 2 Rois 25:27.",
+    "question": "Quel geste politique Évil-Merodac fait-il envers Jojakin ?",
+    "choices": [
+      "Il le fait sortir de prison",
+      "Il le renvoie mourir à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:27 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-173",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:28",
+    "verseText": "Voir 2 Rois 25:28.",
+    "question": "Quel traitement d’honneur est mentionné pour Jojakin parmi les rois ?",
+    "choices": [
+      "Il plaça son trône au-dessus du trône des rois qui étaient avec lui à Babylone",
+      "Il le fit asseoir à terre devant tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:28 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-174",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:29",
+    "verseText": "Voir 2 Rois 25:29.",
+    "question": "Quel changement quotidien est mentionné pour Jojakin ?",
+    "choices": [
+      "Il changea ses vêtements de prison",
+      "Il garda ses chaînes d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:29 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-175",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:30",
+    "verseText": "Voir 2 Rois 25:30.",
+    "question": "Quelle disposition alimentaire est accordée à Jojakin ?",
+    "choices": [
+      "Une portion continuelle lui fut donnée par le roi, chaque jour",
+      "Il ne reçut aucune portion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:30 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-176",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:30",
+    "verseText": "Voir 2 Rois 25:30.",
+    "question": "Quel est le cadre temporel de cette portion continuelle ?",
+    "choices": [
+      "Tous les jours de sa vie",
+      "Pendant sept jours seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:30 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-177",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:26",
+    "verseText": "Voir 2 Rois 21:26.",
+    "question": "Quel détail est donné sur l’inhumation d’Amon ?",
+    "choices": [
+      "On l’enterra dans son sépulcre, dans le jardin d’Uzza",
+      "On l’enterra à Meguiddo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:26 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-178",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:13",
+    "verseText": "Voir 2 Rois 22:13.",
+    "question": "Quel élément déclenche la consultation de l’Éternel sous Josias (raison explicite) ?",
+    "choices": [
+      "La grande colère de l’Éternel s’est enflammée parce que nos pères n’ont point écouté les paroles de ce livre",
+      "Une sécheresse de trois jours seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-179",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:19",
+    "verseText": "Voir 2 Rois 22:19.",
+    "question": "Quel acte de piété précis de Josias est mentionné dans la promesse de paix ?",
+    "choices": [
+      "Il s’est humilié devant l’Éternel, a déchiré ses vêtements et a pleuré",
+      "Il a construit un palais splendide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:19 (LSG 1910)."
+  },
+  {
+    "id": "2RO-D-180",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:21",
+    "verseText": "Voir 2 Rois 25:21.",
+    "question": "Quel contraste final conclut le livre concernant Juda ?",
+    "choices": [
+      "Juda fut transporté hors de son pays",
+      "Juda devint la première nation du monde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:21 (LSG 1910)."
+  }
+]

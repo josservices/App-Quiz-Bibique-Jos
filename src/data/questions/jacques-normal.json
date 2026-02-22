@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "jacques-N-001",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:1",
+    "verseText": "Voir Jacques 1:1.",
+    "question": "À qui Jacques adresse-t-il son salut au début de l’épître ?",
+    "choices": [
+      "Aux douze tribus qui sont dans la dispersion",
+      "Aux saints qui sont à Jérusalem",
+      "Aux frères qui sont à Antioche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:1 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-002",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:2",
+    "verseText": "Voir Jacques 1:2.",
+    "question": "Comment les frères doivent-ils considérer les diverses épreuves auxquelles ils peuvent être exposés ?",
+    "choices": [
+      "Comme un sujet de joie complète",
+      "Comme une honte publique",
+      "Comme une malédiction irrévocable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:2 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-003",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:3",
+    "verseText": "Voir Jacques 1:3.",
+    "question": "Que produit l’épreuve de la foi, selon Jacques ?",
+    "choices": [
+      "La patience",
+      "La crainte des hommes",
+      "La prospérité immédiate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:3 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-004",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:4",
+    "verseText": "Voir Jacques 1:4.",
+    "question": "Quel effet la patience doit-elle accomplir pour le croyant ?",
+    "choices": [
+      "Accomplir parfaitement son œuvre",
+      "Effacer toute mémoire",
+      "Multiplier les richesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:4 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-005",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:5",
+    "verseText": "Voir Jacques 1:5.",
+    "question": "Que doit faire celui qui manque de sagesse ?",
+    "choices": [
+      "La demander à Dieu",
+      "La garder pour lui",
+      "La chercher dans les disputes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:5 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-006",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:5",
+    "verseText": "Voir Jacques 1:5.",
+    "question": "Comment Dieu donne-t-il la sagesse à tous ?",
+    "choices": [
+      "Simplement et sans reproche",
+      "Avec hésitation et partialité",
+      "Après avoir exigé un prix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:5 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-007",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:6",
+    "verseText": "Voir Jacques 1:6.",
+    "question": "Avec quelle attitude faut-il demander à Dieu ?",
+    "choices": [
+      "Avec foi, sans douter",
+      "Avec colère, en accusant",
+      "Avec orgueil, en exigeant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:6 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-008",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:6",
+    "verseText": "Voir Jacques 1:6.",
+    "question": "À quoi est comparé celui qui doute ?",
+    "choices": [
+      "Au flot de la mer, agité par le vent",
+      "À une montagne inébranlable",
+      "À une lampe brillante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:6 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-009",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:8",
+    "verseText": "Voir Jacques 1:8.",
+    "question": "Quel portrait Jacques donne-t-il de l’homme qui doute ?",
+    "choices": [
+      "Un homme irrésolu, inconstant dans toutes ses voies",
+      "Un homme ferme, constant dans ses voies",
+      "Un homme silencieux, sans paroles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:8 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-010",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:9",
+    "verseText": "Voir Jacques 1:9.",
+    "question": "De quoi le frère de condition humble doit-il se glorifier ?",
+    "choices": [
+      "De son élévation",
+      "De sa puissance",
+      "De ses conquêtes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:9 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-011",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:10",
+    "verseText": "Voir Jacques 1:10.",
+    "question": "De quoi le riche doit-il se glorifier, au contraire ?",
+    "choices": [
+      "De son humiliation",
+      "De sa supériorité",
+      "De sa sécurité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:10 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-012",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:10",
+    "verseText": "Voir Jacques 1:10.",
+    "question": "À quoi Jacques compare-t-il le passage du riche ?",
+    "choices": [
+      "À la fleur de l’herbe",
+      "À l’or purifié",
+      "À une pierre taillée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:10 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-013",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:11",
+    "verseText": "Voir Jacques 1:11.",
+    "question": "Qu’arrive-t-il à l’herbe et à sa fleur quand le soleil se lève avec sa chaleur ardente ?",
+    "choices": [
+      "L’herbe est desséchée et la fleur est tombée",
+      "L’herbe devient plus verte et la fleur grandit",
+      "L’herbe disparaît sans laisser de trace de fleur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:11 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-014",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:11",
+    "verseText": "Voir Jacques 1:11.",
+    "question": "Quel sort attend le riche dans ses entreprises ?",
+    "choices": [
+      "Il se flétrira",
+      "Il triomphera toujours",
+      "Il n’aura aucune épreuve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:11 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-015",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:12",
+    "verseText": "Voir Jacques 1:12.",
+    "question": "Qu’obtient l’homme qui supporte patiemment la tentation après avoir été éprouvé ?",
+    "choices": [
+      "La couronne de vie",
+      "La couronne des rois",
+      "Le repos sans combat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:12 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-016",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:12",
+    "verseText": "Voir Jacques 1:12.",
+    "question": "À qui le Seigneur a-t-il promis la couronne de vie ?",
+    "choices": [
+      "À ceux qui l’aiment",
+      "À ceux qui s’exaltent",
+      "À ceux qui accumulent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:12 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-017",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:13",
+    "verseText": "Voir Jacques 1:13.",
+    "question": "Que ne doit pas dire celui qui est tenté ?",
+    "choices": [
+      "C’est Dieu qui me tente",
+      "Je suis attiré et amorcé",
+      "Je dois résister"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:13 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-018",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:14",
+    "verseText": "Voir Jacques 1:14.",
+    "question": "Par quoi chacun est-il tenté, selon Jacques ?",
+    "choices": [
+      "Par sa propre convoitise",
+      "Par la sagesse d’en haut",
+      "Par la paix recherchée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:14 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-019",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:15",
+    "verseText": "Voir Jacques 1:15.",
+    "question": "Qu’enfante la convoitise lorsqu’elle a conçu ?",
+    "choices": [
+      "Le péché",
+      "La justice",
+      "La patience"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:15 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-020",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:15",
+    "verseText": "Voir Jacques 1:15.",
+    "question": "Que produit le péché étant consommé ?",
+    "choices": [
+      "La mort",
+      "La liberté",
+      "La paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:15 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-021",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:16",
+    "verseText": "Voir Jacques 1:16.",
+    "question": "Quelle exhortation Jacques donne-t-il aux frères bien-aimés avant d’enseigner sur les dons ?",
+    "choices": [
+      "Ne vous y trompez pas",
+      "Ne vous plaignez pas",
+      "Ne vous taisez pas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:16 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-022",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:17",
+    "verseText": "Voir Jacques 1:17.",
+    "question": "D’où descendent toute grâce excellente et tout don parfait ?",
+    "choices": [
+      "D’en haut",
+      "Du désert",
+      "Des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-023",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:17",
+    "verseText": "Voir Jacques 1:17.",
+    "question": "De qui descendent ces dons parfaits ?",
+    "choices": [
+      "Du Père des lumières",
+      "Du prince de ce monde",
+      "Du juge des tribus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-024",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:17",
+    "verseText": "Voir Jacques 1:17.",
+    "question": "Qu’est-ce qui manque chez le Père des lumières ?",
+    "choices": [
+      "Ni changement ni ombre de variation",
+      "Ni parole ni souffle",
+      "Ni puissance ni règne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-025",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:18",
+    "verseText": "Voir Jacques 1:18.",
+    "question": "Par quoi Dieu nous a-t-il engendrés selon sa volonté ?",
+    "choices": [
+      "Par la parole de vérité",
+      "Par les œuvres de la loi",
+      "Par des songes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:18 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-026",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:18",
+    "verseText": "Voir Jacques 1:18.",
+    "question": "Que sommes-nous appelés à être « en quelque sorte » ?",
+    "choices": [
+      "Les prémices de ses créatures",
+      "Les maîtres des nations",
+      "Les juges des peuples"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:18 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-027",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:19",
+    "verseText": "Voir Jacques 1:19.",
+    "question": "Quelle triple attitude Jacques ordonne-t-il à tout homme ?",
+    "choices": [
+      "Prompt à écouter, lent à parler, lent à se mettre en colère",
+      "Prompt à parler, lent à écouter, prompt à se mettre en colère",
+      "Lent à écouter, prompt à juger, prompt à se vanter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:19 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-028",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:20",
+    "verseText": "Voir Jacques 1:20.",
+    "question": "Qu’est-ce que la colère de l’homme n’accomplit pas ?",
+    "choices": [
+      "La justice de Dieu",
+      "La parole de vérité",
+      "La couronne de vie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:20 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-029",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:21",
+    "verseText": "Voir Jacques 1:21.",
+    "question": "Que faut-il rejeter pour recevoir la parole avec douceur ?",
+    "choices": [
+      "Toute souillure et tout excès de malice",
+      "Toute patience et toute paix",
+      "Toute sagesse et tout zèle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:21 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-030",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:21",
+    "verseText": "Voir Jacques 1:21.",
+    "question": "Comment Jacques décrit-il la parole reçue qui peut sauver les âmes ?",
+    "choices": [
+      "La parole qui a été plantée en vous",
+      "La parole cachée au loin",
+      "La parole réservée aux anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:21 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-031",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:22",
+    "verseText": "Voir Jacques 1:22.",
+    "question": "Que faut-il faire au lieu de se borner à écouter ?",
+    "choices": [
+      "Mettre en pratique la parole",
+      "Se glorifier de ses pensées",
+      "S’enfermer dans le silence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:22 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-032",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:23",
+    "verseText": "Voir Jacques 1:23.",
+    "question": "À quoi ressemble celui qui écoute sans mettre en pratique ?",
+    "choices": [
+      "À un homme qui regarde dans un miroir son visage naturel",
+      "À un laboureur attendant les pluies",
+      "À un pilote dirigeant un navire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:23 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-033",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:24",
+    "verseText": "Voir Jacques 1:24.",
+    "question": "Que fait cet homme après s’être regardé ?",
+    "choices": [
+      "Il oublie aussitôt quel il était",
+      "Il retient parfaitement son visage",
+      "Il change de nom immédiatement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:24 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-034",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:25",
+    "verseText": "Voir Jacques 1:25.",
+    "question": "Dans quoi doit-on « plonger les regards » pour être heureux dans son activité ?",
+    "choices": [
+      "Dans la loi parfaite, la loi de la liberté",
+      "Dans les pensées orgueilleuses",
+      "Dans les voluptés et les délices"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:25 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-035",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:25",
+    "verseText": "Voir Jacques 1:25.",
+    "question": "Comment Jacques qualifie-t-il l’auditeur fidèle ?",
+    "choices": [
+      "N’étant pas un auditeur oublieux, mais se mettant à l’œuvre",
+      "N’étant pas jugé, mais jugeant la loi",
+      "N’étant pas tenté, mais tentant les autres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:25 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-036",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:26",
+    "verseText": "Voir Jacques 1:26.",
+    "question": "Que devient la religion de celui qui ne tient pas sa langue en bride ?",
+    "choices": [
+      "Elle est vaine",
+      "Elle est parfaite",
+      "Elle est cachée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:26 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-037",
+    "book": "Jacques",
+    "chapter": 1,
+    "verseRef": "Jacques 1:27",
+    "verseText": "Voir Jacques 1:27.",
+    "question": "En quoi consiste la religion pure et sans tache devant Dieu notre Père ?",
+    "choices": [
+      "Visiter les orphelins et les veuves dans leurs afflictions, et se préserver des souillures du monde",
+      "Multiplier les paroles dans l’assemblée, et rechercher les premières places",
+      "Accumuler des trésors, et jurer par le ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 1:27 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-038",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:1",
+    "verseText": "Voir Jacques 2:1.",
+    "question": "De quoi la foi en Jésus-Christ doit-elle être exempte ?",
+    "choices": [
+      "De toute acception de personnes",
+      "De toute bonne œuvre",
+      "De toute douceur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:1 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-039",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:2",
+    "verseText": "Voir Jacques 2:2.",
+    "question": "Quel objet est mentionné chez l’homme entrant dans l’assemblée avec un habit magnifique ?",
+    "choices": [
+      "Un anneau d’or",
+      "Une couronne de vie",
+      "Un gouvernail"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:2 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-040",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:3",
+    "verseText": "Voir Jacques 2:3.",
+    "question": "Où propose-t-on au pauvre de s’asseoir dans l’exemple de Jacques ?",
+    "choices": [
+      "Au-dessous de mon marchepied",
+      "À cette place d’honneur",
+      "Au milieu du trône"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:3 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-041",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:4",
+    "verseText": "Voir Jacques 2:4.",
+    "question": "Que reproche Jacques à ceux qui distinguent les personnes dans l’assemblée ?",
+    "choices": [
+      "Juger sous l’inspiration de pensées mauvaises",
+      "Chercher la paix",
+      "Se soumettre à Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:4 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-042",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:5",
+    "verseText": "Voir Jacques 2:5.",
+    "question": "Qui Dieu a-t-il choisi « aux yeux du monde » ?",
+    "choices": [
+      "Les pauvres",
+      "Les puissants",
+      "Les riches"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:5 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-043",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:5",
+    "verseText": "Voir Jacques 2:5.",
+    "question": "De quoi les pauvres sont-ils appelés à être riches ?",
+    "choices": [
+      "En la foi",
+      "En or et argent",
+      "En pensées orgueilleuses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:5 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-044",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:7",
+    "verseText": "Voir Jacques 2:7.",
+    "question": "Quelle expression Jacques utilise-t-il pour parler du nom que certains outragent ?",
+    "choices": [
+      "Le beau nom que vous portez",
+      "Le nom secret des anges",
+      "Le nom des derniers jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:7 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-045",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:8",
+    "verseText": "Voir Jacques 2:8.",
+    "question": "Comment Jacques nomme-t-il le commandement « Tu aimeras ton prochain comme toi-même » ?",
+    "choices": [
+      "La loi royale",
+      "La loi du carnage",
+      "La loi du silence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:8 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-046",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:9",
+    "verseText": "Voir Jacques 2:9.",
+    "question": "Que commet-on si l’on fait acception de personnes ?",
+    "choices": [
+      "Un péché",
+      "Une patience parfaite",
+      "Une sagesse d’en haut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:9 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-047",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:9",
+    "verseText": "Voir Jacques 2:9.",
+    "question": "Comment la loi qualifie-t-elle ceux qui font acception de personnes ?",
+    "choices": [
+      "Des transgresseurs",
+      "Des prémices",
+      "Des pilotes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:9 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-048",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:10",
+    "verseText": "Voir Jacques 2:10.",
+    "question": "Que devient celui qui observe toute la loi mais pèche contre un seul commandement ?",
+    "choices": [
+      "Coupable de tous",
+      "Juste par la foi seulement",
+      "Exempt de jugement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:10 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-049",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:11",
+    "verseText": "Voir Jacques 2:11.",
+    "question": "Quel contraste Jacques souligne-t-il avec « Tu ne commettras point d’adultère » et « Tu ne tueras point » ?",
+    "choices": [
+      "Pécher contre un point fait devenir transgresseur de la loi",
+      "Les deux commandements n’ont aucune valeur",
+      "L’un annule l’autre automatiquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:11 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-050",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:12",
+    "verseText": "Voir Jacques 2:12.",
+    "question": "Selon Jacques, comment doit-on parler et agir ?",
+    "choices": [
+      "Comme devant être jugés par une loi de liberté",
+      "Comme devant être admirés des hommes",
+      "Comme n’ayant aucun juge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:12 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-051",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:13",
+    "verseText": "Voir Jacques 2:13.",
+    "question": "De quoi Jacques dit-il qu’elle triomphe du jugement ?",
+    "choices": [
+      "La miséricorde",
+      "La colère",
+      "La richesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:13 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-052",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:14",
+    "verseText": "Voir Jacques 2:14.",
+    "question": "Que sert-il à quelqu’un de dire qu’il a la foi s’il n’a pas les œuvres ?",
+    "choices": [
+      "À quoi cela sert-il ?",
+      "Cela suffit pleinement",
+      "Cela rend parfait immédiatement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:14 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-053",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:16",
+    "verseText": "Voir Jacques 2:16.",
+    "question": "Quel ordre est donné à ceux qui renvoient un frère nu et affamé sans l’aider ?",
+    "choices": [
+      "Allez en paix, chauffez-vous et vous rassasiez !",
+      "Allez en silence, ne parlez plus !",
+      "Allez et jurez par la terre !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:16 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-054",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:17",
+    "verseText": "Voir Jacques 2:17.",
+    "question": "Comment Jacques qualifie-t-il la foi sans les œuvres ?",
+    "choices": [
+      "Morte en elle-même",
+      "Pure et sans tache",
+      "Pleine de bons fruits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-055",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:18",
+    "verseText": "Voir Jacques 2:18.",
+    "question": "Que répond Jacques à l’objection « Montre-moi ta foi » ?",
+    "choices": [
+      "Je te montrerai la foi par mes œuvres",
+      "Je te montrerai la foi par mes serments",
+      "Je te montrerai la foi par mes richesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:18 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-056",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:19",
+    "verseText": "Voir Jacques 2:19.",
+    "question": "Que font les démons en croyant qu’il y a un seul Dieu ?",
+    "choices": [
+      "Ils tremblent",
+      "Ils se glorifient",
+      "Ils s’affermissent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:19 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-057",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:20",
+    "verseText": "Voir Jacques 2:20.",
+    "question": "Comment Jacques appelle-t-il celui qui refuse d’admettre l’inutilité de la foi sans les œuvres ?",
+    "choices": [
+      "Ô homme vain",
+      "Ô homme patient",
+      "Ô homme sage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:20 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-058",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:21",
+    "verseText": "Voir Jacques 2:21.",
+    "question": "Quel acte d’Abraham est cité comme exemple d’œuvres ?",
+    "choices": [
+      "Offrir son fils Isaac sur l’autel",
+      "Construire un navire",
+      "Oindre les malades d’huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:21 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-059",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:23",
+    "verseText": "Voir Jacques 2:23.",
+    "question": "Quel titre est donné à Abraham après l’accomplissement de l’Écriture ?",
+    "choices": [
+      "Ami de Dieu",
+      "Seigneur des armées",
+      "Juge à la porte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:23 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-060",
+    "book": "Jacques",
+    "chapter": 2,
+    "verseRef": "Jacques 2:26",
+    "verseText": "Voir Jacques 2:26.",
+    "question": "Quelle image Jacques utilise-t-il pour conclure sur la foi sans les œuvres ?",
+    "choices": [
+      "Le corps sans âme est mort",
+      "La source donne deux eaux",
+      "Le laboureur attend les pluies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:26 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-061",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:6",
+    "verseText": "Voir Jacques 3:6.",
+    "question": "Quel effet la langue peut-elle produire sur « le cours de la vie » ?",
+    "choices": [
+      "Elle enflamme le cours de la vie",
+      "Elle raccourcit le cours de la vie",
+      "Elle apaise le cours de la vie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:6 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-062",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:6",
+    "verseText": "Voir Jacques 3:6.",
+    "question": "Par quoi la langue est-elle présentée comme étant enflammée ?",
+    "choices": [
+      "Par la géhenne",
+      "Par la loi royale",
+      "Par la parole de vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:6 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-063",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:7",
+    "verseText": "Voir Jacques 3:7.",
+    "question": "Quelles catégories d’êtres vivants sont citées comme domptées par la nature humaine ?",
+    "choices": [
+      "Bêtes, oiseaux, reptiles et animaux marins",
+      "Bêtes, poissons, vents et nuées",
+      "Oiseaux, anges, étoiles et mers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:7 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-064",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:8",
+    "verseText": "Voir Jacques 3:8.",
+    "question": "Quelle expression décrit la langue comme un mal difficile à maîtriser ?",
+    "choices": [
+      "Un mal qu’on ne peut réprimer",
+      "Un bien qu’on ne peut cacher",
+      "Un feu qu’on ne peut voir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:8 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-065",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:8",
+    "verseText": "Voir Jacques 3:8.",
+    "question": "De quoi la langue est-elle dite « pleine » dans une image de danger ?",
+    "choices": [
+      "D’un venin mortel",
+      "D’une sagesse parfaite",
+      "D’un zèle pacifique"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:8 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-066",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:9",
+    "verseText": "Voir Jacques 3:9.",
+    "question": "Quelle action négative concernant les hommes est dénoncée par l’usage de la langue ?",
+    "choices": [
+      "Maudire les hommes faits à l’image de Dieu",
+      "Oindre les hommes d’huile",
+      "Saluer les hommes avec douceur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:9 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-067",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:10",
+    "verseText": "Voir Jacques 3:10.",
+    "question": "Quelle incohérence Jacques déclare-t-il inacceptable à propos de la bouche ?",
+    "choices": [
+      "Faire sortir bénédiction et malédiction",
+      "Faire sortir silence et prière",
+      "Faire sortir patience et douceur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:10 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-068",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:11",
+    "verseText": "Voir Jacques 3:11.",
+    "question": "Quelle question Jacques pose-t-il au sujet d’une source ?",
+    "choices": [
+      "La source fait-elle jaillir par la même ouverture l’eau douce et l’eau amère ?",
+      "La source peut-elle se déplacer au désert ?",
+      "La source boit-elle les pluies de l’arrière-saison ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:11 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-069",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:12",
+    "verseText": "Voir Jacques 3:12.",
+    "question": "Quelle production est déclarée impossible pour un figuier ?",
+    "choices": [
+      "Des olives",
+      "Des raisins",
+      "Des épines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:12 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-070",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:12",
+    "verseText": "Voir Jacques 3:12.",
+    "question": "Quelle production est déclarée impossible pour une vigne ?",
+    "choices": [
+      "Des figues",
+      "Du froment",
+      "Des dattes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:12 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-071",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:12",
+    "verseText": "Voir Jacques 3:12.",
+    "question": "Quelle caractéristique est attribuée à l’eau salée dans un constat final ?",
+    "choices": [
+      "Elle ne peut pas produire de l’eau douce",
+      "Elle peut produire l’eau amère et l’eau douce",
+      "Elle devient douce par la prière"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:12 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-072",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:13",
+    "verseText": "Voir Jacques 3:13.",
+    "question": "Comment la sagesse doit-elle être montrée, selon Jacques ?",
+    "choices": [
+      "Par une bonne conduite avec la douceur de la sagesse",
+      "Par des discours abondants et des serments",
+      "Par des reproches constants et des menaces"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:13 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-073",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:14",
+    "verseText": "Voir Jacques 3:14.",
+    "question": "Quelle attitude est interdite quand on a « un zèle amer » ?",
+    "choices": [
+      "Ne vous glorifiez pas et ne mentez pas contre la vérité",
+      "Ne vous taisez pas et ne priez pas",
+      "Ne vous réjouissez pas et ne pardonnez pas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:14 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-074",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:15",
+    "verseText": "Voir Jacques 3:15.",
+    "question": "Quelle origine Jacques refuse-t-il à une sagesse marquée par la jalousie ?",
+    "choices": [
+      "Elle ne vient point d’en haut",
+      "Elle vient du Père des lumières",
+      "Elle vient de la loi de liberté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:15 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-075",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:16",
+    "verseText": "Voir Jacques 3:16.",
+    "question": "Quel résultat accompagne le « zèle amer » et « l’esprit de dispute » ?",
+    "choices": [
+      "Du désordre",
+      "Un repos parfait",
+      "La couronne de vie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:16 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-076",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:16",
+    "verseText": "Voir Jacques 3:16.",
+    "question": "Quelle conséquence générale s’ajoute au désordre dans ce même verset ?",
+    "choices": [
+      "Toutes sortes de mauvaises actions",
+      "Toutes sortes de bonnes œuvres",
+      "Toutes sortes de dons parfaits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:16 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-077",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:17",
+    "verseText": "Voir Jacques 3:17.",
+    "question": "Quel qualificatif vient immédiatement après « premièrement pure » pour la sagesse d’en haut ?",
+    "choices": [
+      "Pacifique",
+      "Terrible",
+      "Changeante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-078",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:17",
+    "verseText": "Voir Jacques 3:17.",
+    "question": "Quel trait de la sagesse d’en haut concerne sa manière de répondre aux autres ?",
+    "choices": [
+      "Modérée",
+      "Orgueilleuse",
+      "Violente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-079",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:17",
+    "verseText": "Voir Jacques 3:17.",
+    "question": "Quel trait de la sagesse d’en haut exprime sa disposition à se laisser convaincre ?",
+    "choices": [
+      "Conciliant",
+      "Inconstant",
+      "Rancunier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-080",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:17",
+    "verseText": "Voir Jacques 3:17.",
+    "question": "Quelle qualité de cœur est attribuée à la sagesse d’en haut envers autrui ?",
+    "choices": [
+      "Pleine de miséricorde",
+      "Pleine de crainte humaine",
+      "Pleine d’ambition personnelle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-081",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:17",
+    "verseText": "Voir Jacques 3:17.",
+    "question": "Quel produit intérieur accompagne cette sagesse, selon la même liste ?",
+    "choices": [
+      "De bons fruits",
+      "De grands discours",
+      "De riches vêtements"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-082",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:17",
+    "verseText": "Voir Jacques 3:17.",
+    "question": "Quelle expression indique l’absence de duplicité dans la sagesse d’en haut ?",
+    "choices": [
+      "Exempte de duplicité",
+      "Exempte de paroles",
+      "Exempte d’épreuves"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-083",
+    "book": "Jacques",
+    "chapter": 3,
+    "verseRef": "Jacques 3:17",
+    "verseText": "Voir Jacques 3:17.",
+    "question": "Quelle expression indique l’absence de feinte dans la sagesse d’en haut ?",
+    "choices": [
+      "Sans hypocrisie",
+      "Sans patience",
+      "Sans œuvre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-084",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:1",
+    "verseText": "Voir Jacques 4:1.",
+    "question": "Quelle question Jacques pose-t-il pour identifier la source des querelles ?",
+    "choices": [
+      "D’où viennent les luttes et d’où viennent les querelles parmi vous ?",
+      "D’où vient la couronne de vie parmi vous ?",
+      "D’où vient la loi royale parmi vous ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:1 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-085",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:1",
+    "verseText": "Voir Jacques 4:1.",
+    "question": "À quel endroit Jacques situe-t-il le conflit qui alimente les querelles ?",
+    "choices": [
+      "Dans vos membres",
+      "Dans vos vêtements",
+      "Dans vos trésors"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:1 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-086",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:2",
+    "verseText": "Voir Jacques 4:2.",
+    "question": "Quel verbe Jacques emploie-t-il pour décrire la convoitise qui n’aboutit pas ?",
+    "choices": [
+      "Vous convoitez et vous ne possédez pas",
+      "Vous semez et vous moissonnez",
+      "Vous écoutez et vous pratiquez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:2 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-087",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:2",
+    "verseText": "Voir Jacques 4:2.",
+    "question": "Quelle action vaine Jacques associe-t-il à ce manque ?",
+    "choices": [
+      "Vous êtes meurtriers et envieux, et vous ne pouvez pas obtenir",
+      "Vous êtes riches et joyeux, et vous obtenez tout",
+      "Vous êtes patients et doux, et vous triomphez toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:2 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-088",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:3",
+    "verseText": "Voir Jacques 4:3.",
+    "question": "Quelle cause Jacques donne-t-il à l’absence de réception quand on demande ?",
+    "choices": [
+      "Vous demandez mal",
+      "Vous demandez trop peu",
+      "Vous demandez en silence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:3 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-089",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:3",
+    "verseText": "Voir Jacques 4:3.",
+    "question": "Dans quel but mauvais certains demandent-ils ?",
+    "choices": [
+      "Pour satisfaire vos passions",
+      "Pour servir les pauvres",
+      "Pour rendre grâces"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:3 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-090",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:4",
+    "verseText": "Voir Jacques 4:4.",
+    "question": "Quel terme Jacques emploie-t-il pour désigner ceux qui choisissent l’amitié du monde contre Dieu ?",
+    "choices": [
+      "Adultères",
+      "Moissonneurs",
+      "Laboureurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:4 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-091",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:4",
+    "verseText": "Voir Jacques 4:4.",
+    "question": "Quel statut Jacques attribue-t-il à celui qui veut être ami du monde ?",
+    "choices": [
+      "Ennemi de Dieu",
+      "Ami de Dieu",
+      "Héritier du royaume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:4 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-092",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:6",
+    "verseText": "Voir Jacques 4:6.",
+    "question": "Quelle affirmation biblique est citée concernant l’orgueil et l’humilité ?",
+    "choices": [
+      "Dieu résiste aux orgueilleux, mais il fait grâce aux humbles",
+      "Dieu favorise les orgueilleux, mais il juge les humbles",
+      "Dieu ignore les orgueilleux, mais il oublie les humbles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:6 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-093",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:7",
+    "verseText": "Voir Jacques 4:7.",
+    "question": "Quelle réaction suit la résistance au diable ?",
+    "choices": [
+      "Il fuira loin de vous",
+      "Il s’approchera de vous",
+      "Il vous honorera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:7 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-094",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:8",
+    "verseText": "Voir Jacques 4:8.",
+    "question": "Quelle promesse est liée au fait de s’approcher de Dieu ?",
+    "choices": [
+      "Il s’approchera de vous",
+      "Il se détournera de vous",
+      "Il vous laissera sans réponse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:8 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-095",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:8",
+    "verseText": "Voir Jacques 4:8.",
+    "question": "Quelle action Jacques ordonne-t-il spécifiquement aux pécheurs ?",
+    "choices": [
+      "Nettoyez vos mains",
+      "Comptez vos richesses",
+      "Multipliez vos serments"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:8 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-096",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:8",
+    "verseText": "Voir Jacques 4:8.",
+    "question": "Quelle action Jacques ordonne-t-il spécifiquement aux hommes irrésolus ?",
+    "choices": [
+      "Purifiez vos cœurs",
+      "Élevez vos têtes",
+      "Changez vos vêtements"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:8 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-097",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:9",
+    "verseText": "Voir Jacques 4:9.",
+    "question": "Quel renversement Jacques ordonne-t-il au sujet du rire ?",
+    "choices": [
+      "Que votre rire se change en deuil",
+      "Que votre rire se change en force",
+      "Que votre rire se change en louange"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:9 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-098",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:9",
+    "verseText": "Voir Jacques 4:9.",
+    "question": "Quel renversement Jacques ordonne-t-il au sujet de la joie ?",
+    "choices": [
+      "Que votre joie se change en tristesse",
+      "Que votre joie se change en richesse",
+      "Que votre joie se change en honneur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:9 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-099",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:10",
+    "verseText": "Voir Jacques 4:10.",
+    "question": "Quel résultat est promis à ceux qui s’humilient devant le Seigneur ?",
+    "choices": [
+      "Il vous élèvera",
+      "Il vous oubliera",
+      "Il vous accusera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:10 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-100",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:11",
+    "verseText": "Voir Jacques 4:11.",
+    "question": "Quel acte envers un frère est associé à un jugement de la loi ?",
+    "choices": [
+      "Parler mal d’un frère",
+      "Visiter un frère malade",
+      "Saluer un frère en paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:11 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-101",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:12",
+    "verseText": "Voir Jacques 4:12.",
+    "question": "Quelle réalité Jacques rappelle-t-il à ceux qui jugent leur prochain ?",
+    "choices": [
+      "Il n’y a qu’un seul législateur et un seul juge",
+      "Il y a plusieurs législateurs dans chaque ville",
+      "Il n’y a aucun juge au-dessus des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:12 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-102",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:12",
+    "verseText": "Voir Jacques 4:12.",
+    "question": "Quelle question Jacques pose-t-il à celui qui juge le prochain ?",
+    "choices": [
+      "Qui es-tu, toi qui juges le prochain ?",
+      "Où es-tu, toi qui laboures la terre ?",
+      "Quand es-tu, toi qui demandes la sagesse ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:12 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-103",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:14",
+    "verseText": "Voir Jacques 4:14.",
+    "question": "Quelle expression décrit la nature de la vie humaine ?",
+    "choices": [
+      "Une vapeur qui paraît pour un peu de temps, et qui ensuite disparaît",
+      "Une flamme qui demeure à toujours",
+      "Un fleuve qui ne tarit jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:14 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-104",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:15",
+    "verseText": "Voir Jacques 4:15.",
+    "question": "Quelle formule doit remplacer la présomption sur l’avenir ?",
+    "choices": [
+      "Si Dieu le veut",
+      "Si les hommes le veulent",
+      "Si la mer le veut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:15 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-105",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:16",
+    "verseText": "Voir Jacques 4:16.",
+    "question": "Quelle faute Jacques attribue-t-il à la « gloriole » ?",
+    "choices": [
+      "Toute gloriole de ce genre est chose mauvaise",
+      "Toute gloriole de ce genre est sagesse d’en haut",
+      "Toute gloriole de ce genre est pure et pacifique"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:16 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-106",
+    "book": "Jacques",
+    "chapter": 4,
+    "verseRef": "Jacques 4:17",
+    "verseText": "Voir Jacques 4:17.",
+    "question": "Quelle définition Jacques donne-t-il du péché à propos du bien connu mais non accompli ?",
+    "choices": [
+      "Celui qui sait faire ce qui est bien et ne le fait pas, commet un péché",
+      "Celui qui sait parler et se tait, est parfait",
+      "Celui qui sait demander et doute, est innocent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 4:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-107",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:1",
+    "verseText": "Voir Jacques 5:1.",
+    "question": "Quel impératif est adressé aux riches menacés de malheurs ?",
+    "choices": [
+      "Pleurez et gémissez",
+      "Riez et chantez",
+      "Reposez-vous et dormez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:1 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-108",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:2",
+    "verseText": "Voir Jacques 5:2.",
+    "question": "Quel état Jacques attribue-t-il aux richesses amassées injustement ?",
+    "choices": [
+      "Elles sont pourries",
+      "Elles sont bénies",
+      "Elles sont invincibles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:2 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-109",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:2",
+    "verseText": "Voir Jacques 5:2.",
+    "question": "Quel sort est attribué aux vêtements accumulés ?",
+    "choices": [
+      "Ils sont rongés par les teignes",
+      "Ils sont blanchis par la pluie",
+      "Ils sont gardés pour les anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:2 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-110",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:3",
+    "verseText": "Voir Jacques 5:3.",
+    "question": "Quel effet la rouille de l’or et de l’argent produira-t-elle contre les coupables ?",
+    "choices": [
+      "Elle s’élèvera en témoignage",
+      "Elle deviendra un ornement",
+      "Elle effacera les fautes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:3 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-111",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:3",
+    "verseText": "Voir Jacques 5:3.",
+    "question": "Quelle image décrit l’action de cette rouille sur les corps ?",
+    "choices": [
+      "Elle dévorera vos chairs comme un feu",
+      "Elle rafraîchira vos forces comme une eau",
+      "Elle guérira vos membres comme une huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:3 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-112",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:4",
+    "verseText": "Voir Jacques 5:4.",
+    "question": "Quelle accusation est portée contre ceux qui retiennent la paie des ouvriers ?",
+    "choices": [
+      "Le salaire crie",
+      "Le salaire se tait",
+      "Le salaire réjouit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:4 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-113",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:4",
+    "verseText": "Voir Jacques 5:4.",
+    "question": "Jusqu’où montent les cris des moissonneurs opprimés ?",
+    "choices": [
+      "Jusqu’aux oreilles du Seigneur des armées",
+      "Jusqu’aux portes de la ville",
+      "Jusqu’aux rives de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:4 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-114",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:5",
+    "verseText": "Voir Jacques 5:5.",
+    "question": "Comment Jacques décrit-il la vie de luxe des coupables sur la terre ?",
+    "choices": [
+      "Vous avez vécu dans les voluptés et dans les délices",
+      "Vous avez vécu dans la sobriété et dans la prière",
+      "Vous avez vécu dans la pauvreté et dans le jeûne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:5 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-115",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:5",
+    "verseText": "Voir Jacques 5:5.",
+    "question": "Quel résultat est attribué au fait d’avoir rassasié les cœurs « au jour du carnage » ?",
+    "choices": [
+      "Vous avez rassasié vos cœurs",
+      "Vous avez purifié vos cœurs",
+      "Vous avez endurci vos cœurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:5 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-116",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:6",
+    "verseText": "Voir Jacques 5:6.",
+    "question": "Quelle action extrême contre le juste est dénoncée ?",
+    "choices": [
+      "Vous avez condamné, vous avez tué le juste",
+      "Vous avez honoré, vous avez élevé le juste",
+      "Vous avez secouru, vous avez guéri le juste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:6 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-117",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:6",
+    "verseText": "Voir Jacques 5:6.",
+    "question": "Quel détail est donné sur la réaction du juste face à cette violence ?",
+    "choices": [
+      "Il ne vous a pas résisté",
+      "Il vous a poursuivis",
+      "Il vous a vaincus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:6 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-118",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:7",
+    "verseText": "Voir Jacques 5:7.",
+    "question": "Quel modèle d’attente est proposé pour encourager la patience ?",
+    "choices": [
+      "Le laboureur",
+      "Le marchand",
+      "Le juge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:7 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-119",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:7",
+    "verseText": "Voir Jacques 5:7.",
+    "question": "Quel est « le précieux fruit » que le laboureur attend ?",
+    "choices": [
+      "Le précieux fruit de la terre",
+      "Le précieux fruit de la mer",
+      "Le précieux fruit du feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:7 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-120",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:13",
+    "verseText": "Voir Jacques 5:13.",
+    "question": "Que doit faire celui qui souffre, selon Jacques ?",
+    "choices": [
+      "Qu’il prie",
+      "Qu’il accuse",
+      "Qu’il se venge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:13 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-121",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:13",
+    "verseText": "Voir Jacques 5:13.",
+    "question": "Que doit faire celui qui est joyeux, selon Jacques ?",
+    "choices": [
+      "Qu’il chante des cantiques",
+      "Qu’il se taise",
+      "Qu’il jure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:13 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-122",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:14",
+    "verseText": "Voir Jacques 5:14.",
+    "question": "Qui doit-on appeler en cas de maladie ?",
+    "choices": [
+      "Les anciens de l’Eglise",
+      "Les juges de la ville",
+      "Les riches de l’assemblée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:14 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-123",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:14",
+    "verseText": "Voir Jacques 5:14.",
+    "question": "Que doivent faire les anciens au sujet du malade ?",
+    "choices": [
+      "Prier pour lui",
+      "Le condamner",
+      "Le chasser"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:14 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-124",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:14",
+    "verseText": "Voir Jacques 5:14.",
+    "question": "Avec quoi les anciens doivent-ils oindre le malade ?",
+    "choices": [
+      "D’huile",
+      "D’eau",
+      "De sel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:14 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-125",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:14",
+    "verseText": "Voir Jacques 5:14.",
+    "question": "Au nom de qui se fait l’onction ?",
+    "choices": [
+      "Au nom du Seigneur",
+      "Au nom des prophètes",
+      "Au nom des tribus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:14 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-126",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:15",
+    "verseText": "Voir Jacques 5:15.",
+    "question": "Quelle prière est mentionnée comme efficace pour sauver le malade ?",
+    "choices": [
+      "La prière de la foi",
+      "La prière du doute",
+      "La prière des hommes irrésolus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:15 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-127",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:15",
+    "verseText": "Voir Jacques 5:15.",
+    "question": "Quelle action le Seigneur accomplira envers le malade, selon Jacques ?",
+    "choices": [
+      "Le relèvera",
+      "Le condamnera",
+      "L’abandonnera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:15 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-128",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:15",
+    "verseText": "Voir Jacques 5:15.",
+    "question": "Quelle conséquence est promise si le malade a commis des péchés ?",
+    "choices": [
+      "Il lui sera pardonné",
+      "Il sera puni sans miséricorde",
+      "Il sera ignoré jusqu’au dernier jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:15 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-129",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:16",
+    "verseText": "Voir Jacques 5:16.",
+    "question": "Quel ordre est donné concernant les fautes entre croyants ?",
+    "choices": [
+      "Confessez donc vos péchés les uns aux autres",
+      "Cachez donc vos péchés les uns aux autres",
+      "Publiez donc vos péchés devant les tribunaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:16 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-130",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:16",
+    "verseText": "Voir Jacques 5:16.",
+    "question": "Dans quel but Jacques demande-t-il de prier les uns pour les autres ?",
+    "choices": [
+      "Afin que vous soyez guéris",
+      "Afin que vous soyez riches",
+      "Afin que vous soyez craints"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:16 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-131",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:16",
+    "verseText": "Voir Jacques 5:16.",
+    "question": "Quelle affirmation Jacques fait-il sur l’efficacité de la prière du juste ?",
+    "choices": [
+      "La prière fervente du juste a une grande efficace",
+      "La prière brève du juste est inutile",
+      "La prière secrète du juste est interdite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:16 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-132",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:17",
+    "verseText": "Voir Jacques 5:17.",
+    "question": "À quel prophète Jacques compare-t-il la prière à propos de la pluie ?",
+    "choices": [
+      "Elie",
+      "Esaïe",
+      "Jérémie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-133",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:17",
+    "verseText": "Voir Jacques 5:17.",
+    "question": "Quelle caractéristique humaine Jacques attribue-t-il à Elie ?",
+    "choices": [
+      "Un homme de la même nature que nous",
+      "Un homme d’une nature angélique",
+      "Un homme d’une nature inconnue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-134",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:17",
+    "verseText": "Voir Jacques 5:17.",
+    "question": "Combien de temps la pluie ne tomba-t-elle pas, selon l’exemple de la prière d’Elie ?",
+    "choices": [
+      "Trois ans et six mois",
+      "Deux ans et trois mois",
+      "Quarante jours et quarante nuits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:17 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-135",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:18",
+    "verseText": "Voir Jacques 5:18.",
+    "question": "Que se passa-t-il quand Elie pria de nouveau ?",
+    "choices": [
+      "Le ciel donna de la pluie",
+      "La mer se dessécha",
+      "La terre trembla"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:18 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-136",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:18",
+    "verseText": "Voir Jacques 5:18.",
+    "question": "Que produisit la terre après le retour de la pluie ?",
+    "choices": [
+      "Son fruit",
+      "Sa rouille",
+      "Sa teigne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:18 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-137",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:19",
+    "verseText": "Voir Jacques 5:19.",
+    "question": "Quelle situation Jacques décrit-il chez un frère avant l’intervention d’un autre ?",
+    "choices": [
+      "Il s’est égaré loin de la vérité",
+      "Il a dompté sa langue parfaitement",
+      "Il a reçu la couronne de vie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:19 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-138",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:20",
+    "verseText": "Voir Jacques 5:20.",
+    "question": "Quel résultat est obtenu quand quelqu’un ramène un pécheur de la voie où il s’était égaré ?",
+    "choices": [
+      "Il sauvera une âme de la mort",
+      "Il gagnera une place d’honneur",
+      "Il recevra l’or et l’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:20 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-139",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:20",
+    "verseText": "Voir Jacques 5:20.",
+    "question": "Quel effet supplémentaire accompagne le salut d’une âme, selon Jacques ?",
+    "choices": [
+      "Il couvrira une multitude de péchés",
+      "Il réveillera le désordre",
+      "Il renforcera l’esprit de dispute"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:20 (LSG 1910)."
+  },
+  {
+    "id": "jacques-N-140",
+    "book": "Jacques",
+    "chapter": 5,
+    "verseRef": "Jacques 5:13",
+    "verseText": "Voir Jacques 5:13.",
+    "question": "Quel acte demande Jacques à ceux qui souffrent avant d’aborder la question des cantiques ?",
+    "choices": [
+      "Prier",
+      "Se glorifier",
+      "Se venger"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 5:13 (LSG 1910)."
+  }
+]

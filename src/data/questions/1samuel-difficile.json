@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "1SA-D-001",
+    "book": "1 Samuel",
+    "chapter": 3,
+    "verseRef": "1 Samuel 3:1",
+    "verseText": "Voir 1 Samuel 3:1.",
+    "question": "Quelle expression précise décrit l’état spirituel à l’époque d’Éli : “La parole de l’Éternel…” ?",
+    "choices": [
+      "…était rare en ce temps-là, les visions n’étaient pas fréquentes",
+      "…était abondante en ce temps-là, les visions étaient continues"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 3:1 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-002",
+    "book": "1 Samuel",
+    "chapter": 3,
+    "verseRef": "1 Samuel 3:4-5",
+    "verseText": "Voir 1 Samuel 3:4-5.",
+    "question": "Quand Samuel entendit l’appel de Dieu, que répondit-il la première fois en allant vers Éli ?",
+    "choices": [
+      "« Me voici, car tu m’as appelé »",
+      "« Parle, Éternel, car ton serviteur écoute »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 3:4-5 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-003",
+    "book": "1 Samuel",
+    "chapter": 3,
+    "verseRef": "1 Samuel 3:14",
+    "verseText": "Voir 1 Samuel 3:14.",
+    "question": "Quel jugement est annoncé contre la maison d’Éli : “l’iniquité…” ?",
+    "choices": [
+      "…ne sera jamais expiée par sacrifice ni par offrande",
+      "…sera effacée par une grande offrande"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 3:14 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-004",
+    "book": "1 Samuel",
+    "chapter": 4,
+    "verseRef": "1 Samuel 4:18",
+    "verseText": "Voir 1 Samuel 4:18.",
+    "question": "Quel détail exact est donné sur la mort d’Éli au moment de la nouvelle ?",
+    "choices": [
+      "Il tomba de son siège en arrière, se rompit la nuque, et mourut, car il était vieux et pesant",
+      "Il mourut subitement au champ de bataille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 4:18 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-005",
+    "book": "1 Samuel",
+    "chapter": 4,
+    "verseRef": "1 Samuel 4:21-22",
+    "verseText": "Voir 1 Samuel 4:21-22.",
+    "question": "Le nom “I-Cabod” fut donné pour quelle raison explicitement formulée ?",
+    "choices": [
+      "« La gloire est bannie d’Israël, car l’arche de Dieu est prise »",
+      "« La gloire est revenue en Israël, car l’arche a été retrouvée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 4:21-22 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-006",
+    "book": "1 Samuel",
+    "chapter": 5,
+    "verseRef": "1 Samuel 5:1",
+    "verseText": "Voir 1 Samuel 5:1.",
+    "question": "Après la prise de l’arche, dans quelle ville les Philistins l’emmenèrent-ils d’abord selon le texte ?",
+    "choices": [
+      "Asdod",
+      "Gath"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 5:1 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-007",
+    "book": "1 Samuel",
+    "chapter": 5,
+    "verseRef": "1 Samuel 5:3-4",
+    "verseText": "Voir 1 Samuel 5:3-4.",
+    "question": "Quel signe frappa l’idole Dagon devant l’arche, puis son corps ensuite ?",
+    "choices": [
+      "Elle tomba face contre terre, puis la tête et les mains furent coupées sur le seuil",
+      "Elle resta debout intacte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 5:3-4 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-008",
+    "book": "1 Samuel",
+    "chapter": 6,
+    "verseRef": "1 Samuel 6:7-12",
+    "verseText": "Voir 1 Samuel 6:7-12.",
+    "question": "Quel test précis les Philistins utilisèrent-ils pour savoir si le mal venait de l’Éternel ?",
+    "choices": [
+      "Deux vaches allaitantes, attelées à un char neuf, prenant le chemin de Beth-Schémesch sans qu’on les guide",
+      "Un sacrifice humain au dieu Dagon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 6:7-12 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-009",
+    "book": "1 Samuel",
+    "chapter": 6,
+    "verseRef": "1 Samuel 6:19",
+    "verseText": "Voir 1 Samuel 6:19.",
+    "question": "À Beth-Schémesch, pourquoi l’Éternel frappa-t-il des hommes ?",
+    "choices": [
+      "Parce qu’ils regardèrent dans l’arche de l’Éternel",
+      "Parce qu’ils refusèrent d’offrir un holocauste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 6:19 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-010",
+    "book": "1 Samuel",
+    "chapter": 7,
+    "verseRef": "1 Samuel 7:1",
+    "verseText": "Voir 1 Samuel 7:1.",
+    "question": "Dans quelle maison l’arche demeura-t-elle, et qui fut consacré pour la garder ?",
+    "choices": [
+      "Chez Abinadab, et Éléazar fut consacré",
+      "Chez Saül, et Jonathan fut consacré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 7:1 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-011",
+    "book": "1 Samuel",
+    "chapter": 7,
+    "verseRef": "1 Samuel 7:3",
+    "verseText": "Voir 1 Samuel 7:3.",
+    "question": "Quel acte Samuel demanda-t-il comme preuve de repentance nationale ?",
+    "choices": [
+      "Ôter les dieux étrangers et les Astartés et diriger le cœur vers l’Éternel",
+      "Construire un temple immédiatement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 7:3 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-012",
+    "book": "1 Samuel",
+    "chapter": 7,
+    "verseRef": "1 Samuel 7:10",
+    "verseText": "Voir 1 Samuel 7:10.",
+    "question": "Quel épisode mentionne explicitement : “l’Éternel tonna ce jour-là avec éclat” ?",
+    "choices": [
+      "La bataille de Mitspa contre les Philistins",
+      "Le combat de David contre Goliath"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 7:10 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-013",
+    "book": "1 Samuel",
+    "chapter": 8,
+    "verseRef": "1 Samuel 8:11-12",
+    "verseText": "Voir 1 Samuel 8:11-12.",
+    "question": "Quand Samuel avertit Israël sur le “droit du roi”, quel groupe mentionne-t-il qu’il prendra pour sa guerre ?",
+    "choices": [
+      "Vos fils pour ses chars et sa cavalerie",
+      "Vos filles pour être prophétesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 8:11-12 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-014",
+    "book": "1 Samuel",
+    "chapter": 10,
+    "verseRef": "1 Samuel 10:2",
+    "verseText": "Voir 1 Samuel 10:2.",
+    "question": "Quel détail exact est donné sur le premier signe prophétique annoncé à Saül : près de quel tombeau ?",
+    "choices": [
+      "Près du sépulcre de Rachel, sur la frontière de Benjamin, à Tseltsach",
+      "Près du tombeau d’Abraham, à Hébron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 10:2 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-015",
+    "book": "1 Samuel",
+    "chapter": 10,
+    "verseRef": "1 Samuel 10:3-4",
+    "verseText": "Voir 1 Samuel 10:3-4.",
+    "question": "Quel objet Saül reçut-il avec “deux pains” dans les signes annoncés ?",
+    "choices": [
+      "Deux pains de la main de trois hommes montant à Béthel",
+      "Deux pains déposés au pied de l’arche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 10:3-4 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-016",
+    "book": "1 Samuel",
+    "chapter": 10,
+    "verseRef": "1 Samuel 10:27",
+    "verseText": "Voir 1 Samuel 10:27.",
+    "question": "Quelle phrase explique pourquoi certains méprisèrent Saül après son choix ?",
+    "choices": [
+      "« Comment celui-ci nous sauverait-il ? »",
+      "« Il est trop jeune pour régner »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 10:27 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-017",
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verseRef": "1 Samuel 11:13",
+    "verseText": "Voir 1 Samuel 11:13.",
+    "question": "Que dit Saül après la victoire de Jabès concernant ceux qui voulaient le faire mourir ?",
+    "choices": [
+      "« Personne ne sera mis à mort en ce jour »",
+      "« Qu’ils soient tous exécutés »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 11:13 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-018",
+    "book": "1 Samuel",
+    "chapter": 12,
+    "verseRef": "1 Samuel 12:25",
+    "verseText": "Voir 1 Samuel 12:25.",
+    "question": "Quel avertissement Samuel donne-t-il : si vous faites le mal, “vous périrez…” ?",
+    "choices": [
+      "Vous et votre roi",
+      "Seulement votre roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 12:25 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-019",
+    "book": "1 Samuel",
+    "chapter": 13,
+    "verseRef": "1 Samuel 13:13",
+    "verseText": "Voir 1 Samuel 13:13.",
+    "question": "À Guilgal, quelle raison Samuel donne-t-il au rejet de Saül après le sacrifice offert par Saül ?",
+    "choices": [
+      "« Tu as agi en insensé, tu n’as pas observé le commandement »",
+      "« Tu as trop prié »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 13:13 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-020",
+    "book": "1 Samuel",
+    "chapter": 13,
+    "verseRef": "1 Samuel 13:22",
+    "verseText": "Voir 1 Samuel 13:22.",
+    "question": "Quelle information décrit précisément la rareté des armes : “il ne se trouvait ni épée ni lance…” ?",
+    "choices": [
+      "…entre les mains de tout le peuple ; il s’en trouvait seulement chez Saül et Jonathan",
+      "…sauf chez les prêtres de Nob"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 13:22 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-021",
+    "book": "1 Samuel",
+    "chapter": 14,
+    "verseRef": "1 Samuel 14:14",
+    "verseText": "Voir 1 Samuel 14:14.",
+    "question": "Dans l’attaque de Jonathan, combien d’hommes tombèrent “dans un espace d’environ…” ?",
+    "choices": [
+      "Un demi-arpent de terre",
+      "Un arpent entier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 14:14 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-022",
+    "book": "1 Samuel",
+    "chapter": 14,
+    "verseRef": "1 Samuel 14:29",
+    "verseText": "Voir 1 Samuel 14:29.",
+    "question": "Quel détail exact Jonathan dit-il à propos du miel : “Voyez donc comme…” ?",
+    "choices": [
+      "« …mes yeux se sont éclaircis, parce que j’ai goûté un peu de ce miel »",
+      "« …mon bras s’est fortifié, parce que j’ai jeûné »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 14:29 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-023",
+    "book": "1 Samuel",
+    "chapter": 15,
+    "verseRef": "1 Samuel 15:33",
+    "verseText": "Voir 1 Samuel 15:33.",
+    "question": "Quel est l’argument de Samuel concernant Agag : “Comme ton épée…” ?",
+    "choices": [
+      "« …a privé des femmes de leurs enfants, ainsi ta mère sera privée d’enfant »",
+      "« …a défendu Israël, ainsi tu seras protégé »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 15:33 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-024",
+    "book": "1 Samuel",
+    "chapter": 16,
+    "verseRef": "1 Samuel 16:13",
+    "verseText": "Voir 1 Samuel 16:13.",
+    "question": "Quand Samuel oignit David, de quelle corne l’huile fut-elle prise ?",
+    "choices": [
+      "D’une corne d’huile",
+      "D’un vase d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 16:13 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-025",
+    "book": "1 Samuel",
+    "chapter": 16,
+    "verseRef": "1 Samuel 16:18",
+    "verseText": "Voir 1 Samuel 16:18.",
+    "question": "Comment David est-il décrit aux yeux de ceux qui le recommandent à Saül ?",
+    "choices": [
+      "« fort et vaillant homme, guerrier, parlant bien, et ayant une belle figure, et l’Éternel est avec lui »",
+      "« faible, silencieux, sans expérience »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 16:18 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-026",
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verseRef": "1 Samuel 17:7",
+    "verseText": "Voir 1 Samuel 17:7.",
+    "question": "Quel détail exact Goliath portait-il : “une lance dont le bois était…” ?",
+    "choices": [
+      "Comme l’ensouple des tisserands",
+      "Comme une branche d’olivier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 17:7 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-027",
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verseRef": "1 Samuel 17:26",
+    "verseText": "Voir 1 Samuel 17:26.",
+    "question": "Quel terme David utilise-t-il pour désigner Goliath : “ce Philistin…” ?",
+    "choices": [
+      "Incirconcis",
+      "Consacré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 17:26 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-028",
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verseRef": "1 Samuel 17:34-36",
+    "verseText": "Voir 1 Samuel 17:34-36.",
+    "question": "Quand David parle à Saül, quelle expérience cite-t-il avec les bêtes sauvages ?",
+    "choices": [
+      "Le lion et l’ours",
+      "Le loup et le léopard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 17:34-36 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-029",
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verseRef": "1 Samuel 17:39",
+    "verseText": "Voir 1 Samuel 17:39.",
+    "question": "Quel détail clé montre que David refusa l’armure de Saül ?",
+    "choices": [
+      "« Je ne puis pas marcher avec cela, car je n’y suis pas accoutumé »",
+      "« Je préfère l’or à l’airain »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 17:39 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-030",
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verseRef": "1 Samuel 17:54",
+    "verseText": "Voir 1 Samuel 17:54.",
+    "question": "Après la mort de Goliath, où David apporta-t-il sa tête ?",
+    "choices": [
+      "À Jérusalem",
+      "À Bethléhem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 17:54 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-031",
+    "book": "1 Samuel",
+    "chapter": 18,
+    "verseRef": "1 Samuel 18:10-11",
+    "verseText": "Voir 1 Samuel 18:10-11.",
+    "question": "Quel objet Saül lança-t-il contre David lorsque le mauvais esprit le tourmentait ?",
+    "choices": [
+      "Une lance",
+      "Une pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 18:10-11 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-032",
+    "book": "1 Samuel",
+    "chapter": 18,
+    "verseRef": "1 Samuel 18:1",
+    "verseText": "Voir 1 Samuel 18:1.",
+    "question": "Quelle précision est donnée sur l’amour de Jonathan ?",
+    "choices": [
+      "« Jonathan l’aima comme son âme »",
+      "« Jonathan l’aima comme un frère seulement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 18:1 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-033",
+    "book": "1 Samuel",
+    "chapter": 18,
+    "verseRef": "1 Samuel 18:19",
+    "verseText": "Voir 1 Samuel 18:19.",
+    "question": "Pourquoi Saül donna-t-il Mérob à un autre homme au lieu de David ?",
+    "choices": [
+      "Le temps arriva et elle fut donnée à Adriel, le Meholathite",
+      "David refusa de la prendre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 18:19 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-034",
+    "book": "1 Samuel",
+    "chapter": 18,
+    "verseRef": "1 Samuel 18:25",
+    "verseText": "Voir 1 Samuel 18:25.",
+    "question": "Quel est le motif avoué de Saül en demandant les prépuces des Philistins ?",
+    "choices": [
+      "Pour que David tombât entre les mains des Philistins",
+      "Pour bénir David publiquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 18:25 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-035",
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verseRef": "1 Samuel 20:5 ; 20:31",
+    "verseText": "Voir 1 Samuel 20:5 ; 20:31.",
+    "question": "Dans l’épisode du festin de la nouvelle lune, pourquoi David devait-il se cacher ?",
+    "choices": [
+      "Parce que Saül cherchait à le faire mourir",
+      "Parce que Samuel l’avait exilé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 20:5 ; 20:31 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-036",
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verseRef": "1 Samuel 20:20-22 ; 20:37",
+    "verseText": "Voir 1 Samuel 20:20-22 ; 20:37.",
+    "question": "Quel signe Jonathan donna-t-il avec les flèches pour avertir David du danger ?",
+    "choices": [
+      "« La flèche est en deçà de toi » / « au-delà de toi » (signe d’avertissement : au-delà)",
+      "« La flèche est dans ta main »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 20:20-22 ; 20:37 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-037",
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verseRef": "1 Samuel 20:41",
+    "verseText": "Voir 1 Samuel 20:41.",
+    "question": "Quel détail montre la séparation émouvante : qui pleura “beaucoup” ?",
+    "choices": [
+      "David pleura davantage",
+      "Jonathan pleura davantage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 20:41 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-038",
+    "book": "1 Samuel",
+    "chapter": 21,
+    "verseRef": "1 Samuel 21:1",
+    "verseText": "Voir 1 Samuel 21:1.",
+    "question": "Quel est le nom du sacrificateur à Nob qui parla à David ?",
+    "choices": [
+      "Achimélec",
+      "Abiathar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 21:1 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-039",
+    "book": "1 Samuel",
+    "chapter": 21,
+    "verseRef": "1 Samuel 21:4-5",
+    "verseText": "Voir 1 Samuel 21:4-5.",
+    "question": "Quel argument Achimélec donne-t-il sur la pureté des jeunes gens ?",
+    "choices": [
+      "Les femmes leur sont interdites depuis hier et avant-hier",
+      "Ils ont offert un sacrifice au matin même"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 21:4-5 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-040",
+    "book": "1 Samuel",
+    "chapter": 22,
+    "verseRef": "1 Samuel 22:18",
+    "verseText": "Voir 1 Samuel 22:18.",
+    "question": "Dans le massacre de Nob, combien de sacrificateurs furent tués ?",
+    "choices": [
+      "Quatre-vingt-cinq hommes portant l’éphod de lin",
+      "Soixante-dix hommes portant l’éphod d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 22:18 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-041",
+    "book": "1 Samuel",
+    "chapter": 22,
+    "verseRef": "1 Samuel 22:20-23",
+    "verseText": "Voir 1 Samuel 22:20-23.",
+    "question": "Qui échappa au massacre de Nob et rejoignit David ?",
+    "choices": [
+      "Abiathar, fils d’Achimélec",
+      "Éléazar, fils d’Abinadab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 22:20-23 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-042",
+    "book": "1 Samuel",
+    "chapter": 23,
+    "verseRef": "1 Samuel 23:12",
+    "verseText": "Voir 1 Samuel 23:12.",
+    "question": "Quel message l’Éternel donne-t-il à David sur la ville de Keïla ?",
+    "choices": [
+      "Les habitants livreront David à Saül",
+      "Les habitants couronneront David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 23:12 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-043",
+    "book": "1 Samuel",
+    "chapter": 23,
+    "verseRef": "1 Samuel 23:28",
+    "verseText": "Voir 1 Samuel 23:28.",
+    "question": "Quel nom est donné au lieu où Saül renonça à poursuivre David, parce qu’on l’appela ailleurs ?",
+    "choices": [
+      "Séla-Hammahlekoth",
+      "Ében-Ézer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 23:28 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-044",
+    "book": "1 Samuel",
+    "chapter": 24,
+    "verseRef": "1 Samuel 24:4-5",
+    "verseText": "Voir 1 Samuel 24:4-5.",
+    "question": "Quel geste de David dans la caverne montre sa retenue envers “l’oint de l’Éternel” ?",
+    "choices": [
+      "Il coupa le pan du manteau de Saül",
+      "Il prit la couronne de Saül"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 24:4-5 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-045",
+    "book": "1 Samuel",
+    "chapter": 24,
+    "verseRef": "1 Samuel 24:20",
+    "verseText": "Voir 1 Samuel 24:20.",
+    "question": "Quelle parole de Saül reconnaît l’avenir royal de David ?",
+    "choices": [
+      "« Je sais que tu régneras, et que la royauté d’Israël restera dans ta main »",
+      "« Tu n’auras jamais de part au trône »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 24:20 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-046",
+    "book": "1 Samuel",
+    "chapter": 25,
+    "verseRef": "1 Samuel 25:3",
+    "verseText": "Voir 1 Samuel 25:3.",
+    "question": "Dans l’épisode de Nabal, quel est le titre exact attribué à Abigaïl ?",
+    "choices": [
+      "« femme d’un bon sens et belle figure »",
+      "« femme orgueilleuse et dure »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 25:3 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-047",
+    "book": "1 Samuel",
+    "chapter": 25,
+    "verseRef": "1 Samuel 25:10",
+    "verseText": "Voir 1 Samuel 25:10.",
+    "question": "Quel détail Nabal dit-il méprisamment : “Qui est David ? et…” ?",
+    "choices": [
+      "« …qui est le fils d’Isaï ? »",
+      "« …qui est le fils de Saül ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 25:10 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-048",
+    "book": "1 Samuel",
+    "chapter": 25,
+    "verseRef": "1 Samuel 25:18",
+    "verseText": "Voir 1 Samuel 25:18.",
+    "question": "Quel don Abigaïl apporta-t-elle exactement parmi les provisions mentionnées ?",
+    "choices": [
+      "Deux cents pains (avec d’autres vivres)",
+      "Cent pains seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 25:18 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-049",
+    "book": "1 Samuel",
+    "chapter": 26,
+    "verseRef": "1 Samuel 26:11-12",
+    "verseText": "Voir 1 Samuel 26:11-12.",
+    "question": "Quel signe David prit-il la seconde fois dans le camp de Saül ?",
+    "choices": [
+      "La lance et la cruche d’eau à la tête de Saül",
+      "Le sceptre et la couronne à la tête de Saül"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 26:11-12 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-050",
+    "book": "1 Samuel",
+    "chapter": 26,
+    "verseRef": "1 Samuel 26:10",
+    "verseText": "Voir 1 Samuel 26:10.",
+    "question": "Quelle phrase David prononce-t-il sur Saül : “L’Éternel…” ?",
+    "choices": [
+      "« …le frappera, ou son jour viendra et il mourra, ou il descendra dans la bataille et il périra »",
+      "« …le bénira et il vivra longtemps »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 26:10 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-051",
+    "book": "1 Samuel",
+    "chapter": 27,
+    "verseRef": "1 Samuel 27:2",
+    "verseText": "Voir 1 Samuel 27:2.",
+    "question": "En allant chez les Philistins, chez quel roi David se réfugia-t-il ?",
+    "choices": [
+      "Akisch, roi de Gath",
+      "Églon, roi de Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 27:2 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-052",
+    "book": "1 Samuel",
+    "chapter": 27,
+    "verseRef": "1 Samuel 27:6",
+    "verseText": "Voir 1 Samuel 27:6.",
+    "question": "Quelle ville fut donnée à David par Akisch pour y demeurer ?",
+    "choices": [
+      "Tsiklag",
+      "Askalon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 27:6 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-053",
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verseRef": "1 Samuel 28:6",
+    "verseText": "Voir 1 Samuel 28:6.",
+    "question": "Quand Saül consulta l’Éternel et n’eut pas de réponse, quels moyens sont explicitement cités ?",
+    "choices": [
+      "Rêves, Urim, prophètes",
+      "Songes, encens, sacrifice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 28:6 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-054",
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verseRef": "1 Samuel 28:7",
+    "verseText": "Voir 1 Samuel 28:7.",
+    "question": "À En-Dor, quel rôle la femme exerçait-elle selon le texte ?",
+    "choices": [
+      "Elle évoquait les morts",
+      "Elle interprétait les songes au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 28:7 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-055",
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verseRef": "1 Samuel 28:20",
+    "verseText": "Voir 1 Samuel 28:20.",
+    "question": "Quel signe Saül manifesta-t-il après les paroles de l’apparition ?",
+    "choices": [
+      "Il tomba tout de son long par terre, saisi d’une grande crainte",
+      "Il se mit à courir vers la bataille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 28:20 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-056",
+    "book": "1 Samuel",
+    "chapter": 29,
+    "verseRef": "1 Samuel 29:4",
+    "verseText": "Voir 1 Samuel 29:4.",
+    "question": "Quand les chefs philistins refusèrent David à la bataille, quelle crainte exprimèrent-ils ?",
+    "choices": [
+      "Qu’il devienne un adversaire au milieu du combat",
+      "Qu’il soit trop faible pour combattre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 29:4 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-057",
+    "book": "1 Samuel",
+    "chapter": 30,
+    "verseRef": "1 Samuel 30:1-2",
+    "verseText": "Voir 1 Samuel 30:1-2.",
+    "question": "Quel événement frappa Tsiklag pendant l’absence de David ?",
+    "choices": [
+      "Les Amalécites brûlèrent la ville et emmenèrent les femmes captives",
+      "Les Philistins y bâtirent une forteresse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 30:1-2 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-058",
+    "book": "1 Samuel",
+    "chapter": 30,
+    "verseRef": "1 Samuel 30:7-8",
+    "verseText": "Voir 1 Samuel 30:7-8.",
+    "question": "Quel acte David fit-il avant de poursuivre les Amalécites ?",
+    "choices": [
+      "Il consulta l’Éternel par Abiathar avec l’éphod",
+      "Il consulta la femme d’En-Dor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 30:7-8 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-059",
+    "book": "1 Samuel",
+    "chapter": 30,
+    "verseRef": "1 Samuel 30:24-25",
+    "verseText": "Voir 1 Samuel 30:24-25.",
+    "question": "Quel principe David établit-il concernant le partage du butin ?",
+    "choices": [
+      "Celui qui garde les bagages aura la même part que celui qui descend à la bataille",
+      "Seuls les combattants recevront une part"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 30:24-25 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-060",
+    "book": "1 Samuel",
+    "chapter": 31,
+    "verseRef": "1 Samuel 31:4",
+    "verseText": "Voir 1 Samuel 31:4.",
+    "question": "Quelle fin précise est donnée pour Saül au mont Guilboa ?",
+    "choices": [
+      "Il tomba sur son épée après avoir été grièvement blessé",
+      "Il s’enfuit et vécut en exil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 31:4 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-061",
+    "book": "1 Samuel",
+    "chapter": 1,
+    "verseRef": "1 Samuel 1:13",
+    "verseText": "Voir 1 Samuel 1:13.",
+    "question": "Quelle femme priait “dans son cœur”, et seules ses lèvres remuaient ?",
+    "choices": [
+      "Anne",
+      "Peninna"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 1:13 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-062",
+    "book": "1 Samuel",
+    "chapter": 1,
+    "verseRef": "1 Samuel 1:11",
+    "verseText": "Voir 1 Samuel 1:11.",
+    "question": "Quel vœu exact Anne fit-elle concernant son enfant ?",
+    "choices": [
+      "« Je le donnerai à l’Éternel pour tous les jours de sa vie, et le rasoir ne passera point sur sa tête »",
+      "« Je le consacrerai seulement jusqu’à ses dix ans »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 1:11 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-063",
+    "book": "1 Samuel",
+    "chapter": 1,
+    "verseRef": "1 Samuel 1:24-25",
+    "verseText": "Voir 1 Samuel 1:24-25.",
+    "question": "Quand Anne apporta Samuel à la maison de l’Éternel, quel sacrifice mentionne-t-elle avoir offert ?",
+    "choices": [
+      "Un taureau",
+      "Un agneau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 1:24-25 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-064",
+    "book": "1 Samuel",
+    "chapter": 2,
+    "verseRef": "1 Samuel 2:21; 2:26",
+    "verseText": "Voir 1 Samuel 2:21; 2:26.",
+    "question": "Quel terme décrit Samuel enfant au service : “Samuel…” ?",
+    "choices": [
+      "…grandissait auprès de l’Éternel",
+      "…fuyait la présence de l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 2:21; 2:26 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-065",
+    "book": "1 Samuel",
+    "chapter": 2,
+    "verseRef": "1 Samuel 2:17",
+    "verseText": "Voir 1 Samuel 2:17.",
+    "question": "Quel signe confirma la corruption des fils d’Éli : “ils…” ?",
+    "choices": [
+      "…méprisaient les offrandes de l’Éternel",
+      "…honoraient les offrandes de l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 2:17 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-066",
+    "book": "1 Samuel",
+    "chapter": 2,
+    "verseRef": "1 Samuel 2:31",
+    "verseText": "Voir 1 Samuel 2:31.",
+    "question": "Quel jugement fut annoncé : “Je retrancherai…” ?",
+    "choices": [
+      "Ton bras et le bras de la maison de ton père",
+      "Ton nom seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 2:31 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-067",
+    "book": "1 Samuel",
+    "chapter": 2,
+    "verseRef": "1 Samuel 2:34",
+    "verseText": "Voir 1 Samuel 2:34.",
+    "question": "Quel signe devait arriver à Hophni et Phinées, le même jour ?",
+    "choices": [
+      "Ils mourraient tous deux le même jour",
+      "Ils deviendraient tous deux rois le même jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 2:34 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-068",
+    "book": "1 Samuel",
+    "chapter": 2,
+    "verseRef": "1 Samuel 2:18 (enfant, âge non précisé)",
+    "verseText": "Voir 1 Samuel 2:18 (enfant, âge non précisé).",
+    "question": "À quel âge Samuel commença-t-il à servir avec un éphod de lin ?",
+    "choices": [
+      "L’âge n’est pas indiqué, mais il servait étant enfant",
+      "À 30 ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 2:18 (enfant, âge non précisé) (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-069",
+    "book": "1 Samuel",
+    "chapter": 3,
+    "verseRef": "1 Samuel 3:19",
+    "verseText": "Voir 1 Samuel 3:19.",
+    "question": "Quelle parole l’Éternel disait-il accomplir concernant Samuel : “Il…” ?",
+    "choices": [
+      "…ne laissa tomber à terre aucune de ses paroles",
+      "…laissa tomber à terre plusieurs de ses paroles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 3:19 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-070",
+    "book": "1 Samuel",
+    "chapter": 12,
+    "verseRef": "1 Samuel 12:11",
+    "verseText": "Voir 1 Samuel 12:11.",
+    "question": "Dans l’annonce au peuple, quel nom est cité comme juge avant Samuel ?",
+    "choices": [
+      "Jérubbaal",
+      "Gédéon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 12:11 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-071",
+    "book": "1 Samuel",
+    "chapter": 13,
+    "verseRef": "1 Samuel 13:5",
+    "verseText": "Voir 1 Samuel 13:5.",
+    "question": "Quel détail exact décrit les Philistins lors de l’attaque : “trente mille…” ?",
+    "choices": [
+      "Chars",
+      "Cavaliers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 13:5 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-072",
+    "book": "1 Samuel",
+    "chapter": 13,
+    "verseRef": "1 Samuel 13:5",
+    "verseText": "Voir 1 Samuel 13:5.",
+    "question": "Quelle précision est donnée sur la multitude des Philistins : “nombreux…” ?",
+    "choices": [
+      "Comme le sable qui est sur le bord de la mer",
+      "Comme les étoiles du ciel (formule exacte ici)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 13:5 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-073",
+    "book": "1 Samuel",
+    "chapter": 13,
+    "verseRef": "1 Samuel 13:12",
+    "verseText": "Voir 1 Samuel 13:12.",
+    "question": "Quelle phrase Saül dit-il pour justifier son sacrifice sans Samuel ?",
+    "choices": [
+      "« Je me suis fait violence et j’ai offert l’holocauste »",
+      "« Samuel m’a ordonné d’offrir seul »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 13:12 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-074",
+    "book": "1 Samuel",
+    "chapter": 14,
+    "verseRef": "1 Samuel 14:3",
+    "verseText": "Voir 1 Samuel 14:3.",
+    "question": "Quel rôle exact Achija exerçait-il auprès de Saül ?",
+    "choices": [
+      "Sacrificateur, portant l’éphod",
+      "Chef des archers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 14:3 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-075",
+    "book": "1 Samuel",
+    "chapter": 14,
+    "verseRef": "1 Samuel 14:3",
+    "verseText": "Voir 1 Samuel 14:3.",
+    "question": "Quel lien familial est précisé : Achija était fils de… ?",
+    "choices": [
+      "Achithub, frère d’I-Cabod, fils de Phinées",
+      "Abinadab, père de David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 14:3 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-076",
+    "book": "1 Samuel",
+    "chapter": 14,
+    "verseRef": "1 Samuel 14:24",
+    "verseText": "Voir 1 Samuel 14:24.",
+    "question": "Quel détail exact est donné sur l’interdit de Saül : “Maudit soit l’homme qui mangera…” ?",
+    "choices": [
+      "Du pain avant le soir",
+      "De la viande avant le soir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 14:24 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-077",
+    "book": "1 Samuel",
+    "chapter": 14,
+    "verseRef": "1 Samuel 14:45",
+    "verseText": "Voir 1 Samuel 14:45.",
+    "question": "Quand Saül voulut tuer Jonathan, qui s’opposa en disant qu’il ne mourrait pas ?",
+    "choices": [
+      "Le peuple",
+      "Samuel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 14:45 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-078",
+    "book": "1 Samuel",
+    "chapter": 14,
+    "verseRef": "1 Samuel 14:45",
+    "verseText": "Voir 1 Samuel 14:45.",
+    "question": "Quel qualificatif est donné au combat : “une très grande…” ?",
+    "choices": [
+      "Délivrance en Israël",
+      "Défaite en Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 14:45 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-079",
+    "book": "1 Samuel",
+    "chapter": 15,
+    "verseRef": "1 Samuel 15:32",
+    "verseText": "Voir 1 Samuel 15:32.",
+    "question": "Quel détail exact décrit Agag lors de son arrivée devant Samuel ?",
+    "choices": [
+      "Il s’avança d’un air joyeux (ou : “avec assurance”) en disant que l’amertume de la mort était passée",
+      "Il s’avança en pleurant, demandant grâce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 15:32 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-080",
+    "book": "1 Samuel",
+    "chapter": 15,
+    "verseRef": "1 Samuel 15:15",
+    "verseText": "Voir 1 Samuel 15:15.",
+    "question": "Quel motif exact Saül donne-t-il pour épargner le meilleur du butin ?",
+    "choices": [
+      "Pour le sacrifier à l’Éternel à Guilgal",
+      "Pour se l’approprier sans sacrifice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 15:15 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-081",
+    "book": "1 Samuel",
+    "chapter": 13,
+    "verseRef": "1 Samuel 13:14",
+    "verseText": "Voir 1 Samuel 13:14.",
+    "question": "Quelle parole Samuel adresse-t-il à Saül : “L’Éternel…” ?",
+    "choices": [
+      "« …s’est choisi un homme selon son cœur »",
+      "« …t’accorde un royaume éternel malgré tout »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 13:14 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-082",
+    "book": "1 Samuel",
+    "chapter": 16,
+    "verseRef": "1 Samuel 16:1",
+    "verseText": "Voir 1 Samuel 16:1.",
+    "question": "Quand Samuel pleura Saül, quel ordre Dieu lui donna ?",
+    "choices": [
+      "« Remplis ta corne d’huile, et va; je t’enverrai chez Isaï »",
+      "« Va à Guilgal offrir un sacrifice »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 16:1 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-083",
+    "book": "1 Samuel",
+    "chapter": 16,
+    "verseRef": "1 Samuel 16:12",
+    "verseText": "Voir 1 Samuel 16:12.",
+    "question": "Quel détail sur David est mentionné avant son onction : “il était…” ?",
+    "choices": [
+      "Roux, avec de beaux yeux, et une belle figure",
+      "Aveugle, avec une démarche lente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 16:12 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-084",
+    "book": "1 Samuel",
+    "chapter": 16,
+    "verseRef": "1 Samuel 16:23",
+    "verseText": "Voir 1 Samuel 16:23.",
+    "question": "Quelle condition est donnée pour que le mauvais esprit se retire de Saül ?",
+    "choices": [
+      "Quand David jouait de sa main (de la harpe), Saül respirait plus à l’aise et se trouvait soulagé",
+      "Quand Saül jeûnait trois jours, il était guéri"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 16:23 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-085",
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verseRef": "1 Samuel 17:51",
+    "verseText": "Voir 1 Samuel 17:51.",
+    "question": "Quelle précision le texte donne-t-il sur l’épée utilisée pour décapiter Goliath ?",
+    "choices": [
+      "David prit l’épée de Goliath",
+      "David prit l’épée de Saül"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 17:51 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-086",
+    "book": "1 Samuel",
+    "chapter": 0,
+    "verseRef": "1 Samuel 17 (aucun père nommé)",
+    "verseText": "Voir 1 Samuel 17 (aucun père nommé).",
+    "question": "Quel est le nom du père de Goliath mentionné ?",
+    "choices": [
+      "Son père n’est pas nommé dans 1 Samuel 17",
+      "Il est nommé “Amalek”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 17 (aucun père nommé) (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-087",
+    "book": "1 Samuel",
+    "chapter": 18,
+    "verseRef": "1 Samuel 18:8",
+    "verseText": "Voir 1 Samuel 18:8.",
+    "question": "Quel effet le chant des femmes eut-il sur Saül : “Cela…” ?",
+    "choices": [
+      "Le mécontenta, et il fut irrité",
+      "Le réjouit et il bénit David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 18:8 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-088",
+    "book": "1 Samuel",
+    "chapter": 19,
+    "verseRef": "1 Samuel 19:9",
+    "verseText": "Voir 1 Samuel 19:9.",
+    "question": "Quel “mauvais esprit” est dit venir sur Saül ensuite ?",
+    "choices": [
+      "De la part de l’Éternel",
+      "De la part des Philistins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 19:9 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-089",
+    "book": "1 Samuel",
+    "chapter": 19,
+    "verseRef": "1 Samuel 19:13",
+    "verseText": "Voir 1 Samuel 19:13.",
+    "question": "Dans le plan de Mical, quel objet fut placé “au chevet” ?",
+    "choices": [
+      "Une peau de chèvre",
+      "Un vase d’huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 19:13 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-090",
+    "book": "1 Samuel",
+    "chapter": 19,
+    "verseRef": "1 Samuel 19:20",
+    "verseText": "Voir 1 Samuel 19:20.",
+    "question": "Quand Saül envoya des messagers à Naïoth, qu’arriva-t-il à ces messagers ?",
+    "choices": [
+      "Ils prophétisèrent",
+      "Ils moururent sur place"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 19:20 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-091",
+    "book": "1 Samuel",
+    "chapter": 19,
+    "verseRef": "1 Samuel 19:24",
+    "verseText": "Voir 1 Samuel 19:24.",
+    "question": "Quand Saül arriva lui-même, quelle scène est décrite sur ses vêtements ?",
+    "choices": [
+      "Il ôta ses vêtements et prophétisa, couché nu tout ce jour et toute la nuit",
+      "Il resta armé et silencieux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 19:24 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-092",
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verseRef": "1 Samuel 20:42",
+    "verseText": "Voir 1 Samuel 20:42.",
+    "question": "Quel serment Jonathan rappela-t-il à David dans leur alliance ?",
+    "choices": [
+      "Que l’Éternel serait entre eux et leur postérité à toujours",
+      "Que David deviendrait sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 20:42 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-093",
+    "book": "1 Samuel",
+    "chapter": 20,
+    "verseRef": "1 Samuel 20:30-33",
+    "verseText": "Voir 1 Samuel 20:30-33.",
+    "question": "Quel détail exact montre la colère de Saül au repas : “Il…” ?",
+    "choices": [
+      "Injura Jonathan et lui jeta une lance",
+      "Offrit un sacrifice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 20:30-33 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-094",
+    "book": "1 Samuel",
+    "chapter": 21,
+    "verseRef": "1 Samuel 21:6",
+    "verseText": "Voir 1 Samuel 21:6.",
+    "question": "Quel pain David reçut-il, et quel est le nom précis du pain ?",
+    "choices": [
+      "Les pains de proposition",
+      "Le pain de Pâque"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 21:6 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-095",
+    "book": "1 Samuel",
+    "chapter": 21,
+    "verseRef": "1 Samuel 21:7",
+    "verseText": "Voir 1 Samuel 21:7.",
+    "question": "Quel est le statut de Doëg dans la maison de Saül ?",
+    "choices": [
+      "Chef des bergers de Saül",
+      "Chef des scribes de Saül"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 21:7 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-096",
+    "book": "1 Samuel",
+    "chapter": 22,
+    "verseRef": "1 Samuel 22:13",
+    "verseText": "Voir 1 Samuel 22:13.",
+    "question": "Quel reproche Saül fait-il à Achimélec : “Pourquoi…” ?",
+    "choices": [
+      "« …avez-vous conspiré contre moi, toi et le fils d’Isaï ? »",
+      "« …as-tu refusé d’offrir un sacrifice ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 22:13 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-097",
+    "book": "1 Samuel",
+    "chapter": 22,
+    "verseRef": "1 Samuel 22:17",
+    "verseText": "Voir 1 Samuel 22:17.",
+    "question": "Quand Saül ordonna de tuer les sacrificateurs, qui refusa de porter la main sur eux ?",
+    "choices": [
+      "Ses serviteurs",
+      "Doëg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 22:17 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-098",
+    "book": "1 Samuel",
+    "chapter": 22,
+    "verseRef": "1 Samuel 22:18-19",
+    "verseText": "Voir 1 Samuel 22:18-19.",
+    "question": "Quel acte Doëg accomplit-il ensuite ?",
+    "choices": [
+      "Il frappa les sacrificateurs et tua aussi Nob",
+      "Il libéra les prisonniers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 22:18-19 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-099",
+    "book": "1 Samuel",
+    "chapter": 22,
+    "verseRef": "1 Samuel 22:23",
+    "verseText": "Voir 1 Samuel 22:23.",
+    "question": "Quel mot David dit-il à Abiathar : “Reste…” ?",
+    "choices": [
+      "« Reste avec moi, ne crains rien; car celui qui cherche ma vie cherche la tienne »",
+      "« Reste à Nob, je reviendrai »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 22:23 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-100",
+    "book": "1 Samuel",
+    "chapter": 23,
+    "verseRef": "1 Samuel 23:4",
+    "verseText": "Voir 1 Samuel 23:4.",
+    "question": "Quand David consulta l’Éternel au sujet de Keïla, quelle réponse reçut-il d’abord ?",
+    "choices": [
+      "« Descends, car je livre les Philistins entre tes mains »",
+      "« Ne descends pas, car tu périras »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 23:4 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-101",
+    "book": "1 Samuel",
+    "chapter": 23,
+    "verseRef": "1 Samuel 23:27",
+    "verseText": "Voir 1 Samuel 23:27.",
+    "question": "Quel détail explique comment David échappa dans le désert de Maon ?",
+    "choices": [
+      "Un messager vint dire à Saül : « Hâte-toi… les Philistins ont fait invasion »",
+      "Saül tomba malade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 23:27 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-102",
+    "book": "1 Samuel",
+    "chapter": 24,
+    "verseRef": "1 Samuel 24:5",
+    "verseText": "Voir 1 Samuel 24:5.",
+    "question": "Que fit David après avoir coupé le pan du manteau de Saül ?",
+    "choices": [
+      "Il eut le cœur qui lui battit",
+      "Il se réjouit bruyamment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 24:5 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-103",
+    "book": "1 Samuel",
+    "chapter": 24,
+    "verseRef": "1 Samuel 24:6",
+    "verseText": "Voir 1 Samuel 24:6.",
+    "question": "Quelle parole David prononce-t-il : “Je ne porterai…” ?",
+    "choices": [
+      "« …pas la main sur mon seigneur, car il est l’oint de l’Éternel »",
+      "« …pas la main sur les Philistins »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 24:6 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-104",
+    "book": "1 Samuel",
+    "chapter": 25,
+    "verseRef": "1 Samuel 25:1",
+    "verseText": "Voir 1 Samuel 25:1.",
+    "question": "Quel détail sur la mort de Samuel est donné ?",
+    "choices": [
+      "Tout Israël s’assembla, le pleura, et l’enterra dans sa maison à Rama",
+      "Il mourut au combat avec les Philistins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 25:1 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-105",
+    "book": "1 Samuel",
+    "chapter": 25,
+    "verseRef": "1 Samuel 25:36",
+    "verseText": "Voir 1 Samuel 25:36.",
+    "question": "Quel signe Nabal montra-t-il lors du festin avant que sa femme ne lui parle ?",
+    "choices": [
+      "Son cœur était joyeux en lui, et il était ivre",
+      "Il jeûnait et priait"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 25:36 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-106",
+    "book": "1 Samuel",
+    "chapter": 25,
+    "verseRef": "1 Samuel 25:37",
+    "verseText": "Voir 1 Samuel 25:37.",
+    "question": "Quelle fut la réaction de Nabal en apprenant les choses au matin ?",
+    "choices": [
+      "Son cœur devint comme une pierre",
+      "Il se repentit aussitôt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 25:37 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-107",
+    "book": "1 Samuel",
+    "chapter": 14,
+    "verseRef": "1 Samuel 14:49 (fils de Saül)",
+    "verseText": "Voir 1 Samuel 14:49 (fils de Saül).",
+    "question": "Quel est le lien de parenté de Saül avec Jonathan (selon le texte, évident) ?",
+    "choices": [
+      "Jonathan est le fils de Saül",
+      "Jonathan est l’oncle de Saül"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 14:49 (fils de Saül) (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-108",
+    "book": "1 Samuel",
+    "chapter": 26,
+    "verseRef": "1 Samuel 26:16",
+    "verseText": "Voir 1 Samuel 26:16.",
+    "question": "Quel reproche David adresse-t-il à Abner après l’épisode de la lance ?",
+    "choices": [
+      "« Tu es digne de mort, parce que tu n’as pas gardé ton maître, l’oint de l’Éternel »",
+      "« Tu es digne d’honneur, parce que tu as protégé le roi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 26:16 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-109",
+    "book": "1 Samuel",
+    "chapter": 26,
+    "verseRef": "1 Samuel 26:21",
+    "verseText": "Voir 1 Samuel 26:21.",
+    "question": "Quelle déclaration Saül fait-il à David : “J’ai…” ?",
+    "choices": [
+      "« J’ai péché; reviens, mon fils David »",
+      "« Je n’ai jamais eu tort »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 26:21 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-110",
+    "book": "1 Samuel",
+    "chapter": 26,
+    "verseRef": "1 Samuel 26:17",
+    "verseText": "Voir 1 Samuel 26:17.",
+    "question": "Quel détail sur Saül est donné quand il reconnaît David : “Il…” ?",
+    "choices": [
+      "Il dit : « Est-ce bien ta voix, mon fils David ? »",
+      "Il dit : « Où est Samuel ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 26:17 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-111",
+    "book": "1 Samuel",
+    "chapter": 27,
+    "verseRef": "1 Samuel 27:1",
+    "verseText": "Voir 1 Samuel 27:1.",
+    "question": "Quel jugement David prononce-t-il sur son propre avenir en restant sous Saül ?",
+    "choices": [
+      "« Un jour ou l’autre je périrai par la main de Saül »",
+      "« Je serai toujours en sécurité à Juda »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 27:1 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-112",
+    "book": "1 Samuel",
+    "chapter": 27,
+    "verseRef": "1 Samuel 27:10",
+    "verseText": "Voir 1 Samuel 27:10.",
+    "question": "Quel mensonge stratégique David dit-il à Akisch concernant ses raids ?",
+    "choices": [
+      "Il prétend avoir fait des incursions vers le midi de Juda, des Jerachmeélites et des Kéniens",
+      "Il prétend avoir attaqué Israël directement à Hébron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 27:10 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-113",
+    "book": "1 Samuel",
+    "chapter": 27,
+    "verseRef": "1 Samuel 27:12",
+    "verseText": "Voir 1 Samuel 27:12.",
+    "question": "Quelle raison Akisch donne-t-il pour faire confiance à David ?",
+    "choices": [
+      "« Il s’est rendu odieux à Israël… il sera mon serviteur à toujours »",
+      "« Il est prophète de l’Éternel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 27:12 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-114",
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verseRef": "1 Samuel 28:5",
+    "verseText": "Voir 1 Samuel 28:5.",
+    "question": "Quand Saül eut peur en voyant le camp des Philistins, que dit le texte de son cœur ?",
+    "choices": [
+      "Son cœur trembla beaucoup",
+      "Son cœur se fortifia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 28:5 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-115",
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verseRef": "1 Samuel 28:3",
+    "verseText": "Voir 1 Samuel 28:3.",
+    "question": "Quel détail montre que Saül s’était auparavant opposé à ces pratiques ?",
+    "choices": [
+      "Il avait ôté du pays ceux qui évoquent les morts et ceux qui prédisent l’avenir",
+      "Il avait construit une maison pour les devins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 28:3 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-116",
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verseRef": "1 Samuel 28:10",
+    "verseText": "Voir 1 Samuel 28:10.",
+    "question": "Quel serment Saül prononce-t-il à la femme d’En-Dor ?",
+    "choices": [
+      "« L’Éternel est vivant ! il ne t’arrivera point de mal pour cela »",
+      "« Tu mourras aujourd’hui »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 28:10 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-117",
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verseRef": "1 Samuel 28:13",
+    "verseText": "Voir 1 Samuel 28:13.",
+    "question": "Quelle description la femme donne-t-elle de ce qu’elle voit monter ?",
+    "choices": [
+      "« Je vois un dieu qui monte de la terre »",
+      "« Je vois un ange descendre du ciel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 28:13 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-118",
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verseRef": "1 Samuel 28:18",
+    "verseText": "Voir 1 Samuel 28:18.",
+    "question": "Dans le discours attribué à Samuel, quelle raison est donnée : “Parce que…” ?",
+    "choices": [
+      "« …tu n’as pas obéi à la voix de l’Éternel »",
+      "« …tu as trop combattu les Philistins »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 28:18 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-119",
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verseRef": "1 Samuel 28:24",
+    "verseText": "Voir 1 Samuel 28:24.",
+    "question": "Quel détail d’hospitalité la femme offrit-elle à Saül et à ses serviteurs ?",
+    "choices": [
+      "Un veau engraissé et du pain sans levain",
+      "Un agneau et du vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 28:24 (LSG 1910)."
+  },
+  {
+    "id": "1SA-D-120",
+    "book": "1 Samuel",
+    "chapter": 31,
+    "verseRef": "1 Samuel 31:11-13",
+    "verseText": "Voir 1 Samuel 31:11-13.",
+    "question": "Après la mort de Saül, que firent les hommes vaillants de Jabès en Galaad ?",
+    "choices": [
+      "Ils prirent les corps, les brûlèrent, puis enterrèrent les os sous un tamaris et jeûnèrent sept jours",
+      "Ils laissèrent les corps sur la muraille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 31:11-13 (LSG 1910)."
+  }
+]

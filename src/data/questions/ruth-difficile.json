@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "RUT-D-001",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:1",
+    "verseText": "Voir Ruth 1:1.",
+    "question": "Pourquoi le narrateur précise-t-il : « au temps où les juges jugeaient » au début du livre ?",
+    "choices": [
+      "Pour situer l’histoire dans une période précise d’Israël",
+      "Pour annoncer la monarchie déjà établie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:1 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-002",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:1",
+    "verseText": "Voir Ruth 1:1.",
+    "question": "Quel détail relie explicitement l’exil à Moab à une crise en Israël ?",
+    "choices": [
+      "Une famine dans le pays",
+      "Une guerre contre Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:1 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-003",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:2",
+    "verseText": "Voir Ruth 1:2.",
+    "question": "Quels noms forment le couple de départ mentionné avec leurs deux fils ?",
+    "choices": [
+      "Naomi et Élimélec",
+      "Ruth et Boaz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:2 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-004",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:3",
+    "verseText": "Voir Ruth 1:3.",
+    "question": "Quel événement rend Naomi veuve dans le récit ?",
+    "choices": [
+      "La mort d’Élimélec",
+      "Le divorce d’Élimélec"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:3 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-005",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:4-5, 1:16-17",
+    "verseText": "Voir Ruth 1:4-5, 1:16-17.",
+    "question": "Quel lien familial explique que Ruth soit avec Naomi à la fin du chapitre 1 ?",
+    "choices": [
+      "Ruth est la belle-fille de Naomi (veuve de Mahlon)",
+      "Ruth est la sœur de Naomi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:4-5, 1:16-17 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-006",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:16",
+    "verseText": "Voir Ruth 1:16.",
+    "question": "Quelle formule montre l’attachement irrévocable de Ruth à Naomi ?",
+    "choices": [
+      "« Où tu iras j’irai… ton peuple sera mon peuple, et ton Dieu sera mon Dieu »",
+      "« Je te donnerai du pain »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:16 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-007",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:13",
+    "verseText": "Voir Ruth 1:13.",
+    "question": "Quel détail prouve que Naomi interprète ses malheurs spirituellement ?",
+    "choices": [
+      "Elle dit : « La main de l’Éternel s’est étendue contre moi »",
+      "Elle dit : « Moab m’a ruinée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:13 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-008",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:20",
+    "verseText": "Voir Ruth 1:20.",
+    "question": "Que signifie le changement de nom demandé par Naomi ?",
+    "choices": [
+      "« Mara » exprime l’amertume",
+      "« Mara » exprime la joie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:20 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-009",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:22",
+    "verseText": "Voir Ruth 1:22.",
+    "question": "Quel repère agricole sert de “date” à l’arrivée à Bethléhem ?",
+    "choices": [
+      "Le commencement de la moisson des orges",
+      "La fin de la moisson des froments"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:22 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-010",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:3",
+    "verseText": "Voir Ruth 2:3.",
+    "question": "Quel élément du récit montre la providence dans l’accès de Ruth au champ de Boaz ?",
+    "choices": [
+      "« Elle se trouva par hasard dans la portion de champ appartenant à Boaz »",
+      "Boaz avait envoyé une invitation écrite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:3 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-011",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:1",
+    "verseText": "Voir Ruth 2:1.",
+    "question": "Quel lien exact unit Boaz à Élimélec selon Ruth 2 ?",
+    "choices": [
+      "Boaz est de la famille d’Élimélec",
+      "Boaz est le fils de Mahlon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:1 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-012",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:9",
+    "verseText": "Voir Ruth 2:9.",
+    "question": "Quelle parole de Boaz protège Ruth d’un danger implicite dans les champs ?",
+    "choices": [
+      "« J’ai défendu aux jeunes gens de te toucher »",
+      "« Tu dois payer une taxe »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:9 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-013",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:12",
+    "verseText": "Voir Ruth 2:12.",
+    "question": "Quelle déclaration de Boaz met en avant la foi de Ruth ?",
+    "choices": [
+      "« Tu es venue te réfugier sous les ailes de l’Éternel, le Dieu d’Israël »",
+      "« Tu es revenue pour l’or »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:12 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-014",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:18",
+    "verseText": "Voir Ruth 2:18.",
+    "question": "Quel geste montre que Ruth ne garde pas tout pour elle-même ?",
+    "choices": [
+      "Elle apporte à Naomi les restes de son repas",
+      "Elle cache l’orge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:18 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-015",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:20",
+    "verseText": "Voir Ruth 2:20.",
+    "question": "Quelle expression de Naomi associe Boaz au “droit de rachat” ?",
+    "choices": [
+      "« un de ceux qui ont sur nous droit de rachat »",
+      "« un prêtre de l’Éternel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:20 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-016",
+    "book": "Ruth",
+    "chapter": 3,
+    "verseRef": "Ruth 3:3",
+    "verseText": "Voir Ruth 3:3.",
+    "question": "Quelle consigne de Naomi à Ruth nécessite une grande discrétion ?",
+    "choices": [
+      "Ne pas se faire connaître avant que Boaz ait fini de manger et de boire",
+      "Aller crier à la porte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 3:3 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-017",
+    "book": "Ruth",
+    "chapter": 3,
+    "verseRef": "Ruth 3:7",
+    "verseText": "Voir Ruth 3:7.",
+    "question": "Quel détail indique l’endroit précis où Boaz dort ?",
+    "choices": [
+      "Au bout d’un tas de grain",
+      "Dans un palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 3:7 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-018",
+    "book": "Ruth",
+    "chapter": 3,
+    "verseRef": "Ruth 3:9",
+    "verseText": "Voir Ruth 3:9.",
+    "question": "Quelle parole de Ruth relie explicitement Boaz au rôle de proche-parent ?",
+    "choices": [
+      "« Car tu as sur moi droit de rachat »",
+      "« Car tu es juge »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 3:9 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-019",
+    "book": "Ruth",
+    "chapter": 3,
+    "verseRef": "Ruth 3:10",
+    "verseText": "Voir Ruth 3:10.",
+    "question": "Quel argument Boaz donne-t-il pour louer Ruth dans Ruth 3:10 ?",
+    "choices": [
+      "Elle n’est pas allée après les jeunes gens, pauvres ou riches",
+      "Elle a construit une maison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 3:10 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-020",
+    "book": "Ruth",
+    "chapter": 3,
+    "verseRef": "Ruth 3:11",
+    "verseText": "Voir Ruth 3:11.",
+    "question": "Quelle reconnaissance sociale de Ruth est mentionnée par Boaz ?",
+    "choices": [
+      "« toute la porte de mon peuple sait que tu es une femme vertueuse »",
+      "« tout Moab t’adore »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 3:11 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-021",
+    "book": "Ruth",
+    "chapter": 3,
+    "verseRef": "Ruth 3:12",
+    "verseText": "Voir Ruth 3:12.",
+    "question": "Quelle complication Boaz révèle-t-il dans la procédure de rachat ?",
+    "choices": [
+      "Il existe un autre qui a sur Ruth un droit plus proche",
+      "Le droit de rachat n’existe plus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 3:12 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-022",
+    "book": "Ruth",
+    "chapter": 3,
+    "verseRef": "Ruth 3:13",
+    "verseText": "Voir Ruth 3:13.",
+    "question": "Quelle solution Boaz propose-t-il pour respecter l’ordre légal ?",
+    "choices": [
+      "Donner la priorité à l’autre proche ; sinon Boaz rachètera",
+      "Partir en secret et se marier immédiatement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 3:13 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-023",
+    "book": "Ruth",
+    "chapter": 3,
+    "verseRef": "Ruth 3:14",
+    "verseText": "Voir Ruth 3:14.",
+    "question": "Quel détail montre que Boaz veut éviter les rumeurs ?",
+    "choices": [
+      "« Qu’on ne sache pas qu’une femme est venue à l’aire »",
+      "« Dis-le à toute la ville »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 3:14 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-024",
+    "book": "Ruth",
+    "chapter": 3,
+    "verseRef": "Ruth 3:15",
+    "verseText": "Voir Ruth 3:15.",
+    "question": "Quel don précis Boaz remet-il à Ruth avant son retour ?",
+    "choices": [
+      "Six mesures d’orge",
+      "Un agneau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 3:15 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-025",
+    "book": "Ruth",
+    "chapter": 3,
+    "verseRef": "Ruth 3:18",
+    "verseText": "Voir Ruth 3:18.",
+    "question": "Quelle phrase de Naomi montre sa confiance dans l’issue ?",
+    "choices": [
+      "« Cet homme ne se donnera point de repos qu’il n’ait terminé cette affaire aujourd’hui »",
+      "« Rien ne changera »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 3:18 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-026",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:1",
+    "verseText": "Voir Ruth 4:1.",
+    "question": "Où Boaz se rend-il pour traiter l’affaire officiellement ?",
+    "choices": [
+      "À la porte de la ville",
+      "Sur l’aire encore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:1 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-027",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:2",
+    "verseText": "Voir Ruth 4:2.",
+    "question": "Combien d’anciens Boaz prit-il comme témoins ?",
+    "choices": [
+      "Dix hommes",
+      "Deux hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:2 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-028",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:3",
+    "verseText": "Voir Ruth 4:3.",
+    "question": "Quel bien Naomi mettait-elle en vente selon Boaz ?",
+    "choices": [
+      "La portion de champ appartenant à Élimélec",
+      "Une maison à Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:3 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-029",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:4",
+    "verseText": "Voir Ruth 4:4.",
+    "question": "Au début, que répondit le plus proche parent à la proposition de racheter ?",
+    "choices": [
+      "« Je rachèterai »",
+      "« Je refuse déjà »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:4 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-030",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:6",
+    "verseText": "Voir Ruth 4:6.",
+    "question": "Pourquoi le plus proche parent refusa-t-il finalement ?",
+    "choices": [
+      "Il craignait de détériorer son héritage",
+      "Il n’avait pas de témoins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:6 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-031",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:5",
+    "verseText": "Voir Ruth 4:5.",
+    "question": "Quel élément Boaz ajoute-t-il à l’achat du champ ?",
+    "choices": [
+      "Prendre Ruth la Moabite pour femme afin de relever le nom du défunt",
+      "Donner une dîme au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:5 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-032",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:7-8",
+    "verseText": "Voir Ruth 4:7-8.",
+    "question": "Quel geste légal scelle la transaction selon la coutume ancienne ?",
+    "choices": [
+      "Ôter son soulier",
+      "Briser une lance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:7-8 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-033",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:8",
+    "verseText": "Voir Ruth 4:8.",
+    "question": "À qui l’homme donna-t-il son soulier ?",
+    "choices": [
+      "À Boaz",
+      "À Naomi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:8 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-034",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:9",
+    "verseText": "Voir Ruth 4:9.",
+    "question": "Que déclara Boaz devant les anciens et tout le peuple ?",
+    "choices": [
+      "Qu’ils étaient témoins de son acquisition de tout ce qui appartenait à Élimélec, Mahlon et Chiljon",
+      "Qu’il partait à Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:9 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-035",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:10",
+    "verseText": "Voir Ruth 4:10.",
+    "question": "Quelle épouse Boaz prit-il selon sa déclaration publique ?",
+    "choices": [
+      "Ruth la Moabite, femme de Mahlon",
+      "Orpa la Moabite, femme de Chiljon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:10 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-036",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:10",
+    "verseText": "Voir Ruth 4:10.",
+    "question": "Quel but Boaz annonce-t-il en prenant Ruth ?",
+    "choices": [
+      "Relever le nom du défunt dans son héritage",
+      "Prendre la royauté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:10 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-037",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:11",
+    "verseText": "Voir Ruth 4:11.",
+    "question": "Quelle bénédiction le peuple prononce-t-il en citant deux femmes d’Israël ?",
+    "choices": [
+      "Rachel et Léa",
+      "Sara et Rébecca"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:11 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-038",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:12",
+    "verseText": "Voir Ruth 4:12.",
+    "question": "Quel personnage est cité avec la maison que l’Éternel ferait à Boaz ?",
+    "choices": [
+      "Pérets, que Tamar enfanta à Juda",
+      "Moïse, que Jochebed enfanta à Amram"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:12 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-039",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:13",
+    "verseText": "Voir Ruth 4:13.",
+    "question": "Qui donna un fils à Ruth selon le texte ?",
+    "choices": [
+      "L’Éternel",
+      "Boaz seul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:13 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-040",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:15",
+    "verseText": "Voir Ruth 4:15.",
+    "question": "Comment les femmes de Bethléhem décrivent-elles la valeur de Ruth pour Naomi ?",
+    "choices": [
+      "« qui t’aime, et qui vaut mieux pour toi que sept fils »",
+      "« qui te donne de l’or »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:15 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-041",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:16",
+    "verseText": "Voir Ruth 4:16.",
+    "question": "Quel rôle Naomi prit-elle auprès de l’enfant ?",
+    "choices": [
+      "Elle le prit et fut sa garde",
+      "Elle l’envoya à Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:16 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-042",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:17",
+    "verseText": "Voir Ruth 4:17.",
+    "question": "Quel nom fut donné à l’enfant né de Ruth et Boaz ?",
+    "choices": [
+      "Obed",
+      "Saül"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:17 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-043",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:17",
+    "verseText": "Voir Ruth 4:17.",
+    "question": "Quelle relation Obed a-t-il avec Isaï ?",
+    "choices": [
+      "Il est le père d’Isaï",
+      "Il est le frère d’Isaï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:17 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-044",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:17",
+    "verseText": "Voir Ruth 4:17.",
+    "question": "Quelle relation Isaï a-t-il avec David selon la conclusion ?",
+    "choices": [
+      "Isaï est le père de David",
+      "Isaï est l’oncle de David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:17 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-045",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:18",
+    "verseText": "Voir Ruth 4:18.",
+    "question": "Quel ancêtre ouvre la généalogie finale ?",
+    "choices": [
+      "Pérets",
+      "Abraham"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:18 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-046",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:18",
+    "verseText": "Voir Ruth 4:18.",
+    "question": "Quel nom suit Pérets dans la liste généalogique ?",
+    "choices": [
+      "Hetsron",
+      "Nahor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:18 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-047",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:19",
+    "verseText": "Voir Ruth 4:19.",
+    "question": "Quel nom vient après Hetsron ?",
+    "choices": [
+      "Ram",
+      "Ruben"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:19 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-048",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:19",
+    "verseText": "Voir Ruth 4:19.",
+    "question": "Quel nom suit Ram ?",
+    "choices": [
+      "Amminadab",
+      "Abinadab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:19 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-049",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:20",
+    "verseText": "Voir Ruth 4:20.",
+    "question": "Quel nom suit Amminadab ?",
+    "choices": [
+      "Nachschon",
+      "Samson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:20 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-050",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:20",
+    "verseText": "Voir Ruth 4:20.",
+    "question": "Quel nom suit Nachschon ?",
+    "choices": [
+      "Salmon",
+      "Salomon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:20 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-051",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:21",
+    "verseText": "Voir Ruth 4:21.",
+    "question": "Quel nom suit Salmon ?",
+    "choices": [
+      "Boaz",
+      "Obed"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:21 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-052",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:21",
+    "verseText": "Voir Ruth 4:21.",
+    "question": "Quel nom suit Boaz ?",
+    "choices": [
+      "Obed",
+      "Isaï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:21 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-053",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:22",
+    "verseText": "Voir Ruth 4:22.",
+    "question": "Quel nom suit Obed ?",
+    "choices": [
+      "Isaï",
+      "David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:22 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-054",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:22",
+    "verseText": "Voir Ruth 4:22.",
+    "question": "Quel nom conclut la généalogie ?",
+    "choices": [
+      "David",
+      "Saül"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:22 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-055",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:9-10",
+    "verseText": "Voir Ruth 4:9-10.",
+    "question": "Quelle expression montre que Boaz agit devant des témoins officiels ?",
+    "choices": [
+      "« Vous êtes témoins aujourd’hui »",
+      "« Je le ferai demain »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:9-10 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-056",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:10",
+    "verseText": "Voir Ruth 4:10.",
+    "question": "Quel détail précise que Ruth était auparavant l’épouse de Mahlon ?",
+    "choices": [
+      "« Ruth la Moabite, femme de Mahlon »",
+      "« Ruth, fille de Naomi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:10 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-057",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:10",
+    "verseText": "Voir Ruth 4:10.",
+    "question": "Quel élément révèle la fonction du “rachat” liée au nom du défunt ?",
+    "choices": [
+      "« afin de relever le nom du défunt dans son héritage »",
+      "« afin d’augmenter l’or »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:10 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-058",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:14",
+    "verseText": "Voir Ruth 4:14.",
+    "question": "Quelle parole des femmes de la ville exprime la restauration de Naomi ?",
+    "choices": [
+      "« Béni soit l’Éternel, qui ne t’a pas laissé manquer aujourd’hui d’un homme qui ait droit de rachat »",
+      "« Béni soit Moab »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:14 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-059",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:17, 4:22",
+    "verseText": "Voir Ruth 4:17, 4:22.",
+    "question": "Quel résultat final relie l’histoire familiale à l’histoire nationale d’Israël ?",
+    "choices": [
+      "La mention de David en conclusion",
+      "La construction d’un temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:17, 4:22 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-060",
+    "book": "Ruth",
+    "chapter": 4,
+    "verseRef": "Ruth 4:15",
+    "verseText": "Voir Ruth 4:15.",
+    "question": "Quel verset relie explicitement Obed à Naomi (et non seulement à Ruth) dans la parole des femmes ?",
+    "choices": [
+      "« Il sera pour toi celui qui restaurera ton âme »",
+      "« Il sera roi sur Moab »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:15 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-061",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:20",
+    "verseText": "Voir Ruth 1:20.",
+    "question": "Quel passage précise que Naomi demanda explicitement un autre nom à cause de son état ?",
+    "choices": [
+      "« Ne m’appelez pas Naomi; appelez-moi Mara »",
+      "« Appelez-moi reine »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:20 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-062",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:20-21",
+    "verseText": "Voir Ruth 1:20-21.",
+    "question": "Quelle expression montre que Naomi attribue son malheur à un verdict divin ?",
+    "choices": [
+      "« Le Tout-Puissant m’a affligée »",
+      "« Les Moabites m’ont affligée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:20-21 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-063",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:6",
+    "verseText": "Voir Ruth 1:6.",
+    "question": "Quelle phrase relie directement le retour de Naomi à une action de l’Éternel en faveur d’Israël ?",
+    "choices": [
+      "« L’Éternel avait visité son peuple et lui avait donné du pain »",
+      "« Le roi avait envoyé du blé »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:6 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-064",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:4",
+    "verseText": "Voir Ruth 2:4.",
+    "question": "Selon Ruth 2:4, quelle forme de salutation réciproque mentionne explicitement le nom de l’Éternel ?",
+    "choices": [
+      "« L’Éternel soit avec vous ! » / « L’Éternel te bénisse ! »",
+      "« Bonjour » / « Bonne chance »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:4 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-065",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:7",
+    "verseText": "Voir Ruth 2:7.",
+    "question": "Dans Ruth 2:7, quel détail souligne l’ardeur au travail de Ruth ?",
+    "choices": [
+      "Elle est venue et est restée depuis le matin jusqu’à présent, ne s’étant reposée qu’un moment dans la maison",
+      "Elle n’a travaillé qu’une heure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:7 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-066",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:10",
+    "verseText": "Voir Ruth 2:10.",
+    "question": "Dans la réponse de Ruth à Boaz, quel terme exprime son statut social et ethnique ?",
+    "choices": [
+      "« Moi qui suis une étrangère »",
+      "« Moi qui suis une reine »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:10 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-067",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:12",
+    "verseText": "Voir Ruth 2:12.",
+    "question": "Quelle déclaration de Boaz fait de l’Éternel la source de la récompense de Ruth ?",
+    "choices": [
+      "« L’Éternel te rende ce que tu as fait, et que ta récompense soit entière de la part de l’Éternel »",
+      "« Je te donnerai de l’or »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:12 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-068",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:13",
+    "verseText": "Voir Ruth 2:13.",
+    "question": "Dans Ruth 2:13, quelle action de Boaz est présentée comme un réconfort moral ?",
+    "choices": [
+      "« Tu m’as consolée, et tu as parlé au cœur de ta servante »",
+      "« Tu m’as chassée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:13 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-069",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:14",
+    "verseText": "Voir Ruth 2:14.",
+    "question": "Quel détail de Ruth 2:14 indique que Ruth reçut plus que le simple glanage ?",
+    "choices": [
+      "Boaz lui donna du grain rôti, et elle mangea et se rassasia, et garda le reste",
+      "Boaz lui donna une maison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:14 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-070",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:20",
+    "verseText": "Voir Ruth 2:20.",
+    "question": "Quel passage montre que Naomi identifie Boaz comme lié à la fois à la parenté et au rachat ?",
+    "choices": [
+      "« Cet homme est un de nos proches parents, un de ceux qui ont sur nous droit de rachat »",
+      "« Cet homme est un prêtre »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:20 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-071",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:21",
+    "verseText": "Voir Ruth 1:21.",
+    "question": "Quelle expression de Ruth 1:21 emploie deux verbes forts pour décrire l’action divine perçue par Naomi ?",
+    "choices": [
+      "« L’Éternel m’a ramenée » et « l’Éternel m’a humiliée »",
+      "« L’Éternel m’a enrichie » et « l’Éternel m’a couronnée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:21 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-072",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:22",
+    "verseText": "Voir Ruth 1:22.",
+    "question": "Quel verset associe explicitement Naomi et Ruth par une apposition descriptive juste après le retour ?",
+    "choices": [
+      "« Naomi s’en retourna, et Ruth la Moabite, sa belle-fille, avec elle »",
+      "« Naomi s’en retourna seule »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:22 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-073",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:8",
+    "verseText": "Voir Ruth 2:8.",
+    "question": "Dans Ruth 2:8, quelles deux interdictions Boaz donne-t-il à Ruth ?",
+    "choices": [
+      "Ne pas aller glaner dans un autre champ, et ne pas s’éloigner d’ici",
+      "Ne pas parler, et ne pas manger"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:8 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-074",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:9",
+    "verseText": "Voir Ruth 2:9.",
+    "question": "Dans Ruth 2:9, quelles deux consignes Boaz donne-t-il qui assurent la subsistance et la sécurité de Ruth ?",
+    "choices": [
+      "Suivre les moissonneuses et boire à ce que les serviteurs auront puisé",
+      "Rester enfermée à la maison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:9 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-075",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:10",
+    "verseText": "Voir Ruth 2:10.",
+    "question": "Quel verset montre que Ruth se prosterne et pose une question sur la grâce reçue ?",
+    "choices": [
+      "Ruth 2:10",
+      "Ruth 4:10"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:10 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-076",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:11",
+    "verseText": "Voir Ruth 2:11.",
+    "question": "Quel détail dans Ruth 2:11 souligne le coût personnel de la fidélité de Ruth ?",
+    "choices": [
+      "Elle a quitté son père, sa mère et son pays natal",
+      "Elle a reçu une armée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:11 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-077",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:17",
+    "verseText": "Voir Ruth 1:17.",
+    "question": "Quelle phrase de Ruth 1:17 contient une formule d’imprécation solennelle ?",
+    "choices": [
+      "« Que l’Éternel me traite dans toute sa rigueur, si autre chose que la mort vient à me séparer de toi ! »",
+      "« Je te laisserai demain »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:17 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-078",
+    "book": "Ruth",
+    "chapter": 1,
+    "verseRef": "Ruth 1:21",
+    "verseText": "Voir Ruth 1:21.",
+    "question": "Quel verset relie l’état “vide” de Naomi à la notion d’un retour sous le regard de l’Éternel ?",
+    "choices": [
+      "« L’Éternel me ramène à vide »",
+      "« Moab me ramène à vide »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 1:21 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-079",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:18",
+    "verseText": "Voir Ruth 2:18.",
+    "question": "Dans Ruth 2:18, quel double mouvement est décrit après la journée de glanage ?",
+    "choices": [
+      "Elle porta ce qu’elle avait glané à la ville, et sa belle-mère vit ce qu’elle avait recueilli",
+      "Elle brûla l’orge et partit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:18 (LSG 1910)."
+  },
+  {
+    "id": "RUT-D-080",
+    "book": "Ruth",
+    "chapter": 2,
+    "verseRef": "Ruth 2:23",
+    "verseText": "Voir Ruth 2:23.",
+    "question": "Quel passage indique que Ruth glane non seulement pour elle-même, mais qu’elle demeure avec Naomi ?",
+    "choices": [
+      "« Et elle demeurait avec sa belle-mère »",
+      "« Et elle retourna à Moab »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 2:23 (LSG 1910)."
+  }
+]

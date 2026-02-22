@@ -1,0 +1,842 @@
+[
+  {
+    "id": "jude-D-001",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:1",
+    "verseText": "Voir Jude 1:1.",
+    "question": "Dans la salutation, Jude se dit-il « apôtre » ou « serviteur » de Jésus-Christ ?",
+    "choices": [
+      "Serviteur",
+      "Apôtre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:1 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-002",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:1",
+    "verseText": "Voir Jude 1:1.",
+    "question": "Dans l’adresse, les destinataires sont-ils dits « aimés en Dieu le Père » ou « aimés en Jésus-Christ » ?",
+    "choices": [
+      "Aimés en Dieu le Père",
+      "Aimés en Jésus-Christ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:1 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-003",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:1",
+    "verseText": "Voir Jude 1:1.",
+    "question": "Dans l’adresse, sont-ils « gardés pour Jésus-Christ » ou « gardés par Jésus-Christ » ?",
+    "choices": [
+      "Gardés pour Jésus-Christ",
+      "Gardés par Jésus-Christ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:1 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-004",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:2",
+    "verseText": "Voir Jude 1:2.",
+    "question": "Les trois éléments à multiplier sont-ils « miséricorde, paix et charité » ou « miséricorde, paix et foi » ?",
+    "choices": [
+      "Miséricorde, paix et charité",
+      "Miséricorde, paix et foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:2 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-005",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:3",
+    "verseText": "Voir Jude 1:3.",
+    "question": "Jude écrit-il d’abord au sujet du « salut commun » ou du « jugement du grand jour » ?",
+    "choices": [
+      "Du salut commun",
+      "Du jugement du grand jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:3 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-006",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:3",
+    "verseText": "Voir Jude 1:3.",
+    "question": "L’exhortation centrale porte-t-elle sur « combattre pour la foi » ou « se retirer des impies » ?",
+    "choices": [
+      "Combattre pour la foi",
+      "Se retirer des impies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:3 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-007",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:3",
+    "verseText": "Voir Jude 1:3.",
+    "question": "La foi a-t-elle été transmise « une fois pour toutes » ou « de génération en génération » ?",
+    "choices": [
+      "Une fois pour toutes",
+      "De génération en génération"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:3 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-008",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:4",
+    "verseText": "Voir Jude 1:4.",
+    "question": "Les hommes infiltrés sont-ils décrits comme « impies » ou « incrédules » dans la même phrase ?",
+    "choices": [
+      "Impies",
+      "Incrédules"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:4 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-009",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:4",
+    "verseText": "Voir Jude 1:4.",
+    "question": "Ces hommes changent-ils la grâce en « dissolution » ou en « autorité » ?",
+    "choices": [
+      "Dissolution",
+      "Autorité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:4 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-010",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:4",
+    "verseText": "Voir Jude 1:4.",
+    "question": "Ces impies renient-ils « notre seul maître et Seigneur Jésus-Christ » ou « Dieu seul, notre Sauveur » ?",
+    "choices": [
+      "Notre seul maître et Seigneur Jésus-Christ",
+      "Dieu seul, notre Sauveur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:4 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-011",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:4",
+    "verseText": "Voir Jude 1:4.",
+    "question": "La condamnation de ces hommes est-elle dite « écrite depuis longtemps » ou « réservée pour l’éternité » ?",
+    "choices": [
+      "Écrite depuis longtemps",
+      "Réservée pour l’éternité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:4 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-012",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:5",
+    "verseText": "Voir Jude 1:5.",
+    "question": "Après avoir sauvé le peuple, le Seigneur fait-il périr « les impies » ou « les incrédules » ?",
+    "choices": [
+      "Les incrédules",
+      "Les impies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:5 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-013",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:5",
+    "verseText": "Voir Jude 1:5.",
+    "question": "Le peuple est-il tiré du pays d’« Égypte » ou du pays de « Canaan » ?",
+    "choices": [
+      "Égypte",
+      "Canaan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:5 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-014",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:6",
+    "verseText": "Voir Jude 1:6.",
+    "question": "Les anges sont-ils réservés pour « le jugement du grand jour » ou pour « la vie éternelle » ?",
+    "choices": [
+      "Le jugement du grand jour",
+      "La vie éternelle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:6 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-015",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:6",
+    "verseText": "Voir Jude 1:6.",
+    "question": "Les anges sont-ils enchaînés éternellement « par les ténèbres » ou « par le feu » ?",
+    "choices": [
+      "Par les ténèbres",
+      "Par le feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:6 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-016",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:6",
+    "verseText": "Voir Jude 1:6.",
+    "question": "Ces anges n’ont pas gardé leur « dignité » ou leur « charité » ?",
+    "choices": [
+      "Dignité",
+      "Charité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:6 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-017",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:6",
+    "verseText": "Voir Jude 1:6.",
+    "question": "Ces anges ont-ils abandonné leur « propre demeure » ou leur « salut commun » ?",
+    "choices": [
+      "Leur propre demeure",
+      "Leur salut commun"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:6 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-018",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:7",
+    "verseText": "Voir Jude 1:7.",
+    "question": "Sodome et Gomorrhe sont-elles données en exemple en lien avec « l’impudicité » ou avec « l’allégresse » ?",
+    "choices": [
+      "L’impudicité",
+      "L’allégresse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:7 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-019",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:7",
+    "verseText": "Voir Jude 1:7.",
+    "question": "Les villes voisines se sont-elles livrées à des « vices contre nature » ou à des « paroles hautaines » ?",
+    "choices": [
+      "Des vices contre nature",
+      "Des paroles hautaines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:7 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-020",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:7",
+    "verseText": "Voir Jude 1:7.",
+    "question": "La peine mentionnée est-elle « un feu éternel » ou « l’obscurité des ténèbres » ?",
+    "choices": [
+      "Un feu éternel",
+      "L’obscurité des ténèbres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:7 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-021",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:8",
+    "verseText": "Voir Jude 1:8.",
+    "question": "Ces hommes sont-ils « entraînés par leurs rêveries » ou « poussés par les vents » ?",
+    "choices": [
+      "Entraînés par leurs rêveries",
+      "Poussés par les vents"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:8 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-022",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:8",
+    "verseText": "Voir Jude 1:8.",
+    "question": "Ils « souillent pareillement leur chair » ou « haïssent jusqu’à la tunique souillée » ?",
+    "choices": [
+      "Souillent pareillement leur chair",
+      "Haïssent jusqu’à la tunique souillée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:8 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-023",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:8",
+    "verseText": "Voir Jude 1:8.",
+    "question": "Ils méprisent « l’autorité » ou « la miséricorde » ?",
+    "choices": [
+      "L’autorité",
+      "La miséricorde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:8 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-024",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:8",
+    "verseText": "Voir Jude 1:8.",
+    "question": "Ils injurient « les gloires » ou « les saints » ?",
+    "choices": [
+      "Les gloires",
+      "Les saints"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:8 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-025",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:9",
+    "verseText": "Voir Jude 1:9.",
+    "question": "L’archange cité est-il « Michel » ou « Énoch » ?",
+    "choices": [
+      "Michel",
+      "Énoch"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:9 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-026",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:9",
+    "verseText": "Voir Jude 1:9.",
+    "question": "Le litige porte-t-il sur « le corps de Moïse » ou « la voie de Caïn » ?",
+    "choices": [
+      "Le corps de Moïse",
+      "La voie de Caïn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:9 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-027",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:9",
+    "verseText": "Voir Jude 1:9.",
+    "question": "Michel n’ose pas porter « un jugement injurieux » ou « une condamnation écrite » ?",
+    "choices": [
+      "Un jugement injurieux",
+      "Une condamnation écrite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:9 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-028",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:9",
+    "verseText": "Voir Jude 1:9.",
+    "question": "Michel dit-il « Que le Seigneur te réprime ! » ou « Que la paix te soit multipliée ! » ?",
+    "choices": [
+      "Que le Seigneur te réprime !",
+      "Que la paix te soit multipliée !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:9 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-029",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:10",
+    "verseText": "Voir Jude 1:10.",
+    "question": "Eux parlent injurieusement de « ce qu’ils ignorent » ou de « ce qu’ils savent naturellement » ?",
+    "choices": [
+      "De ce qu’ils ignorent",
+      "De ce qu’ils savent naturellement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:10 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-030",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:10",
+    "verseText": "Voir Jude 1:10.",
+    "question": "Ils se corrompent dans ce qu’ils savent naturellement « comme les brutes » ou « comme les apôtres » ?",
+    "choices": [
+      "Comme les brutes",
+      "Comme les apôtres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:10 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-031",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:11",
+    "verseText": "Voir Jude 1:11.",
+    "question": "Le « malheur à eux » mentionne-t-il « la voie de Caïn » ou « la voie de Moïse » ?",
+    "choices": [
+      "La voie de Caïn",
+      "La voie de Moïse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:11 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-032",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:11",
+    "verseText": "Voir Jude 1:11.",
+    "question": "Ils se jettent dans l’égarement de Balaam « pour un salaire » ou « par charité » ?",
+    "choices": [
+      "Pour un salaire",
+      "Par charité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:11 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-033",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:11",
+    "verseText": "Voir Jude 1:11.",
+    "question": "Ils se perdent par « la révolte de Coré » ou par « les saintes myriades » ?",
+    "choices": [
+      "La révolte de Coré",
+      "Les saintes myriades"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:11 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-034",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:12",
+    "verseText": "Voir Jude 1:12.",
+    "question": "Dans les agapes, Jude les appelle-t-il « des écueils » ou « des nuées » ?",
+    "choices": [
+      "Des écueils",
+      "Des nuées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:12 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-035",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:12",
+    "verseText": "Voir Jude 1:12.",
+    "question": "Leur bonne chère est-elle dite « impudemment » ou « irrépréhensiblement » ?",
+    "choices": [
+      "Impudemment",
+      "Irrépréhensiblement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:12 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-036",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:12",
+    "verseText": "Voir Jude 1:12.",
+    "question": "Ils se repaissent-ils « eux-mêmes » ou « les autres » ?",
+    "choices": [
+      "Eux-mêmes",
+      "Les autres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:12 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-037",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:12",
+    "verseText": "Voir Jude 1:12.",
+    "question": "Ils sont comparés à des nuées « sans eau » ou « sans fruits » ?",
+    "choices": [
+      "Sans eau",
+      "Sans fruits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:12 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-038",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:12",
+    "verseText": "Voir Jude 1:12.",
+    "question": "Les arbres sont-ils dits « d’automne sans fruits » ou « du printemps en fleurs » ?",
+    "choices": [
+      "D’automne sans fruits",
+      "Du printemps en fleurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:12 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-039",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:12",
+    "verseText": "Voir Jude 1:12.",
+    "question": "Les arbres sont-ils « deux fois morts, déracinés » ou « deux fois aimés, gardés » ?",
+    "choices": [
+      "Deux fois morts, déracinés",
+      "Deux fois aimés, gardés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:12 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-040",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:13",
+    "verseText": "Voir Jude 1:13.",
+    "question": "Les vagues rejettent-elles « l’écume de leurs impuretés » ou « l’eau de leur charité » ?",
+    "choices": [
+      "L’écume de leurs impuretés",
+      "L’eau de leur charité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:13 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-041",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:13",
+    "verseText": "Voir Jude 1:13.",
+    "question": "L’obscurité des ténèbres est-elle réservée « pour l’éternité » ou « pour un temps » ?",
+    "choices": [
+      "Pour l’éternité",
+      "Pour un temps"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:13 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-042",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:14",
+    "verseText": "Voir Jude 1:14.",
+    "question": "Jude dit-il « C’est aussi pour eux qu’Énoch a prophétisé » ou « qu’Énoch a contesté » ?",
+    "choices": [
+      "A prophétisé",
+      "A contesté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:14 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-043",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:14",
+    "verseText": "Voir Jude 1:14.",
+    "question": "Énoch est-il « le septième depuis Adam » ou « le septième depuis Moïse » ?",
+    "choices": [
+      "Le septième depuis Adam",
+      "Le septième depuis Moïse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:14 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-044",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:14",
+    "verseText": "Voir Jude 1:14.",
+    "question": "Le Seigneur est venu avec ses « saintes myriades » ou avec ses « anges enchaînés » ?",
+    "choices": [
+      "Ses saintes myriades",
+      "Ses anges enchaînés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:14 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-045",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:15",
+    "verseText": "Voir Jude 1:15.",
+    "question": "La prophétie annonce-t-elle un jugement « contre tous » ou « contre quelques-uns » ?",
+    "choices": [
+      "Contre tous",
+      "Contre quelques-uns"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:15 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-046",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:15",
+    "verseText": "Voir Jude 1:15.",
+    "question": "Jude parle-t-il des « actes d’impiété » ou des « actes de charité » des impies ?",
+    "choices": [
+      "Des actes d’impiété",
+      "Des actes de charité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:15 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-047",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:15",
+    "verseText": "Voir Jude 1:15.",
+    "question": "Les pécheurs impies ont proféré contre lui des paroles « injurieuses » ou « multipliées » ?",
+    "choices": [
+      "Injurieuses",
+      "Multipliées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:15 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-048",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:16",
+    "verseText": "Voir Jude 1:16.",
+    "question": "Ces gens « murmurent » et « se plaignent » ou « prient » et « s’édifient » ?",
+    "choices": [
+      "Murmurent et se plaignent",
+      "Prier et s’édifier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:16 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-049",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:16",
+    "verseText": "Voir Jude 1:16.",
+    "question": "Ils marchent selon leurs « convoitises » ou selon leur « très sainte foi » ?",
+    "choices": [
+      "Selon leurs convoitises",
+      "Selon leur très sainte foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:16 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-050",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:16",
+    "verseText": "Voir Jude 1:16.",
+    "question": "Ils admirent les personnes par motif « d’intérêt » ou par motif « de miséricorde » ?",
+    "choices": [
+      "D’intérêt",
+      "De miséricorde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:16 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-051",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:17",
+    "verseText": "Voir Jude 1:17.",
+    "question": "Les bien-aimés doivent-ils « se souvenir » ou « injurier » les choses annoncées d’avance ?",
+    "choices": [
+      "Se souvenir",
+      "Injurier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:17 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-052",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:17",
+    "verseText": "Voir Jude 1:17.",
+    "question": "Ces choses ont-elles été annoncées d’avance par « les apôtres » ou par « les gloires » ?",
+    "choices": [
+      "Les apôtres",
+      "Les gloires"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:17 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-053",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:18",
+    "verseText": "Voir Jude 1:18.",
+    "question": "Au dernier temps, est-il question de « moqueurs » ou de « saintes myriades » ?",
+    "choices": [
+      "Moqueurs",
+      "Saintes myriades"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:18 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-054",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:18",
+    "verseText": "Voir Jude 1:18.",
+    "question": "Ces moqueurs marchent selon leurs convoitises « impies » ou « saintes » ?",
+    "choices": [
+      "Impies",
+      "Saintes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:18 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-055",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:19",
+    "verseText": "Voir Jude 1:19.",
+    "question": "Ceux qui provoquent des divisions sont-ils dits « hommes sensuels » ou « hommes irrépréhensibles » ?",
+    "choices": [
+      "Hommes sensuels",
+      "Hommes irrépréhensibles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:19 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-056",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:19",
+    "verseText": "Voir Jude 1:19.",
+    "question": "Ces hommes sont-ils dits « n’ayant pas l’esprit » ou « priant par le Saint-Esprit » ?",
+    "choices": [
+      "N’ayant pas l’esprit",
+      "Priant par le Saint-Esprit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:19 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-057",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:20",
+    "verseText": "Voir Jude 1:20.",
+    "question": "Les bien-aimés doivent-ils s’édifier sur leur « très sainte foi » ou sur leur « propre demeure » ?",
+    "choices": [
+      "Leur très sainte foi",
+      "Leur propre demeure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:20 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-058",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:20",
+    "verseText": "Voir Jude 1:20.",
+    "question": "La prière demandée est-elle « par le Saint-Esprit » ou « par les ténèbres » ?",
+    "choices": [
+      "Par le Saint-Esprit",
+      "Par les ténèbres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:20 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-059",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:21",
+    "verseText": "Voir Jude 1:21.",
+    "question": "Ils doivent se maintenir dans l’amour de « Dieu » ou dans l’amour de « la dissolution » ?",
+    "choices": [
+      "Dieu",
+      "La dissolution"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:21 (LSG 1910)."
+  },
+  {
+    "id": "jude-D-060",
+    "book": "Jude",
+    "chapter": 1,
+    "verseRef": "Jude 1:21",
+    "verseText": "Voir Jude 1:21.",
+    "question": "Ils attendent la miséricorde de « notre Seigneur Jésus-Christ » ou de « l’archange Michel » ?",
+    "choices": [
+      "Notre Seigneur Jésus-Christ",
+      "L’archange Michel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:21 (LSG 1910)."
+  }
+]

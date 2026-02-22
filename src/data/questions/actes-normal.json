@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "actes-N-001",
+    "book": "Actes",
+    "chapter": 1,
+    "verseRef": "Actes 1:8",
+    "verseText": "Voir Actes 1:8.",
+    "question": "Quelle promesse Jésus rappelle-t-il juste avant son ascension, concernant ceux qui vont le suivre ?",
+    "choices": [
+      "Ils recevront une puissance, le Saint-Esprit survenant sur eux",
+      "Ils recevront des richesses, et n’auront plus de besoins",
+      "Ils recevront une couronne dès ce jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 1:8 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-002",
+    "book": "Actes",
+    "chapter": 1,
+    "verseRef": "Actes 1:13",
+    "verseText": "Voir Actes 1:13.",
+    "question": "Dans quel lieu les disciples retournent-ils après l’ascension de Jésus ?",
+    "choices": [
+      "À la chambre haute où ils avaient coutume de se tenir",
+      "Au temple, dans le lieu saint",
+      "À Césarée, chez Corneille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 1:13 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-003",
+    "book": "Actes",
+    "chapter": 1,
+    "verseRef": "Actes 1:21-22",
+    "verseText": "Voir Actes 1:21-22.",
+    "question": "Quel critère Pierre donne-t-il pour choisir celui qui doit être associé aux apôtres à la place de Judas ?",
+    "choices": [
+      "Avoir accompagné les apôtres depuis le baptême de Jean jusqu’à l’ascension",
+      "Être un lévite originaire de Jérusalem",
+      "Avoir été guéri par Jésus publiquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 1:21-22 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-004",
+    "book": "Actes",
+    "chapter": 2,
+    "verseRef": "Actes 2:3",
+    "verseText": "Voir Actes 2:3.",
+    "question": "Quel signe accompagne l’effusion du Saint-Esprit au jour de la Pentecôte ?",
+    "choices": [
+      "Des langues, semblables à des langues de feu, se posent sur chacun",
+      "Une obscurité couvre toute la ville",
+      "Un tremblement de terre renverse le temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 2:3 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-005",
+    "book": "Actes",
+    "chapter": 2,
+    "verseRef": "Actes 2:13",
+    "verseText": "Voir Actes 2:13.",
+    "question": "En entendant les disciples parler, quel jugement certains portent-ils ?",
+    "choices": [
+      "Ils sont pleins de vin doux",
+      "Ils blasphèment contre Moïse",
+      "Ils sont des anges descendus du ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 2:13 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-006",
+    "book": "Actes",
+    "chapter": 2,
+    "verseRef": "Actes 2:38",
+    "verseText": "Voir Actes 2:38.",
+    "question": "Selon Pierre, que faut-il faire pour recevoir le don du Saint-Esprit ?",
+    "choices": [
+      "Se repentir et être baptisé au nom de Jésus-Christ",
+      "Offrir un sacrifice selon la loi",
+      "Faire un vœu de naziréat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 2:38 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-007",
+    "book": "Actes",
+    "chapter": 2,
+    "verseRef": "Actes 2:41",
+    "verseText": "Voir Actes 2:41.",
+    "question": "Quel nombre approximatif de personnes s’ajoute aux disciples ce jour-là ?",
+    "choices": [
+      "Environ trois mille âmes",
+      "Environ cinq cents âmes",
+      "Environ dix mille âmes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 2:41 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-008",
+    "book": "Actes",
+    "chapter": 2,
+    "verseRef": "Actes 2:42",
+    "verseText": "Voir Actes 2:42.",
+    "question": "Qu’est-ce qui caractérise la vie commune des premiers croyants, selon le récit ?",
+    "choices": [
+      "Ils persévèrent dans l’enseignement des apôtres, la communion fraternelle, la fraction du pain et les prières",
+      "Ils se retirent au désert et gardent le silence",
+      "Ils ne se rassemblent qu’une fois l’an"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 2:42 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-009",
+    "book": "Actes",
+    "chapter": 3,
+    "verseRef": "Actes 3:2",
+    "verseText": "Voir Actes 3:2.",
+    "question": "Quel homme est guéri à la porte du temple appelée la Belle ?",
+    "choices": [
+      "Un boiteux de naissance",
+      "Un aveugle de naissance",
+      "Un sourd-muet de naissance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 3:2 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-010",
+    "book": "Actes",
+    "chapter": 3,
+    "verseRef": "Actes 3:6",
+    "verseText": "Voir Actes 3:6.",
+    "question": "Quelles paroles Pierre adresse-t-il à l’homme avant la guérison ?",
+    "choices": [
+      "Je n’ai ni argent, ni or; mais ce que j’ai, je te le donne",
+      "Sois purifié selon la loi de Moïse",
+      "Reçois la vue, car ta foi t’a sauvé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 3:6 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-011",
+    "book": "Actes",
+    "chapter": 3,
+    "verseRef": "Actes 3:8",
+    "verseText": "Voir Actes 3:8.",
+    "question": "Après la guérison, que fait l’homme dans le temple ?",
+    "choices": [
+      "Il marche, saute et loue Dieu",
+      "Il s’endort à cause de la fatigue",
+      "Il s’assoit et enseigne la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 3:8 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-012",
+    "book": "Actes",
+    "chapter": 3,
+    "verseRef": "Actes 3:19",
+    "verseText": "Voir Actes 3:19.",
+    "question": "Selon Pierre, pourquoi le peuple doit-il se repentir ?",
+    "choices": [
+      "Afin que leurs péchés soient effacés et que des temps de rafraîchissement viennent de la part du Seigneur",
+      "Afin d’obtenir une position d’honneur parmi les chefs",
+      "Afin d’éviter un impôt nouveau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 3:19 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-013",
+    "book": "Actes",
+    "chapter": 4,
+    "verseRef": "Actes 4:1-2",
+    "verseText": "Voir Actes 4:1-2.",
+    "question": "Qui s’irrite contre Pierre et Jean parce qu’ils annoncent en Jésus la résurrection des morts ?",
+    "choices": [
+      "Les sacrificateurs, le chef du temple et les sadducéens",
+      "Les pharisiens et les hérodiens",
+      "Les nazaréens et les galiléens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 4:1-2 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-014",
+    "book": "Actes",
+    "chapter": 4,
+    "verseRef": "Actes 4:4",
+    "verseText": "Voir Actes 4:4.",
+    "question": "Quel nombre d’hommes est mentionné comme ayant cru après l’enseignement, malgré l’arrestation ?",
+    "choices": [
+      "Environ cinq mille",
+      "Environ mille",
+      "Environ douze mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 4:4 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-015",
+    "book": "Actes",
+    "chapter": 4,
+    "verseRef": "Actes 4:10",
+    "verseText": "Voir Actes 4:10.",
+    "question": "Devant le sanhédrin, au nom de qui Pierre affirme-t-il que l’homme a été guéri ?",
+    "choices": [
+      "Au nom de Jésus-Christ de Nazareth",
+      "Au nom de Moïse, serviteur de Dieu",
+      "Au nom d’Abraham, père des croyants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 4:10 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-016",
+    "book": "Actes",
+    "chapter": 4,
+    "verseRef": "Actes 4:12",
+    "verseText": "Voir Actes 4:12.",
+    "question": "Quelle affirmation Pierre fait-il au sujet du salut ?",
+    "choices": [
+      "Il n’y a de salut en aucun autre",
+      "Le salut vient par les œuvres de la loi",
+      "Le salut dépend de l’ascendance d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 4:12 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-017",
+    "book": "Actes",
+    "chapter": 4,
+    "verseRef": "Actes 4:18",
+    "verseText": "Voir Actes 4:18.",
+    "question": "Quelle décision les chefs donnent-ils aux apôtres après les menaces ?",
+    "choices": [
+      "Ne pas parler et ne pas enseigner du tout au nom de Jésus",
+      "Quitter Jérusalem pour toujours",
+      "Offrir une offrande au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 4:18 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-018",
+    "book": "Actes",
+    "chapter": 4,
+    "verseRef": "Actes 4:20",
+    "verseText": "Voir Actes 4:20.",
+    "question": "Quelle est la réaction des apôtres face à l’interdiction de parler ?",
+    "choices": [
+      "Ils déclarent qu’ils ne peuvent pas ne pas parler de ce qu’ils ont vu et entendu",
+      "Ils acceptent en silence et se retirent",
+      "Ils demandent un délai de quarante jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 4:20 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-019",
+    "book": "Actes",
+    "chapter": 4,
+    "verseRef": "Actes 4:31",
+    "verseText": "Voir Actes 4:31.",
+    "question": "Quel effet est décrit après la prière de l’assemblée ?",
+    "choices": [
+      "Le lieu où ils étaient assemblés trembla, et ils furent tous remplis du Saint-Esprit",
+      "Une pluie abondante tomba sur la ville",
+      "Les portes du temple se fermèrent d’elles-mêmes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 4:31 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-020",
+    "book": "Actes",
+    "chapter": 4,
+    "verseRef": "Actes 4:36-37",
+    "verseText": "Voir Actes 4:36-37.",
+    "question": "Quel homme est cité comme ayant vendu un champ et apporté l’argent aux pieds des apôtres ?",
+    "choices": [
+      "Barnabas",
+      "Silas",
+      "Timothée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 4:36-37 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-021",
+    "book": "Actes",
+    "chapter": 5,
+    "verseRef": "Actes 5:1-2",
+    "verseText": "Voir Actes 5:1-2.",
+    "question": "Quel couple ment sur le prix d’une possession vendue ?",
+    "choices": [
+      "Ananias et Saphira",
+      "Aquilas et Priscille",
+      "Félix et Drusille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 5:1-2 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-022",
+    "book": "Actes",
+    "chapter": 5,
+    "verseRef": "Actes 5:5",
+    "verseText": "Voir Actes 5:5.",
+    "question": "Quelle conséquence tombe sur Ananias après la parole de Pierre ?",
+    "choices": [
+      "Il tombe et expire",
+      "Il est frappé de cécité",
+      "Il est banni de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 5:5 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-023",
+    "book": "Actes",
+    "chapter": 5,
+    "verseRef": "Actes 5:11",
+    "verseText": "Voir Actes 5:11.",
+    "question": "Quelle crainte s’empare de l’Église après ces événements ?",
+    "choices": [
+      "Une grande crainte saisit toute l’Église et tous ceux qui apprirent ces choses",
+      "Une joie bruyante remplit tout Jérusalem",
+      "Une indifférence générale gagne les disciples"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 5:11 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-024",
+    "book": "Actes",
+    "chapter": 5,
+    "verseRef": "Actes 5:15",
+    "verseText": "Voir Actes 5:15.",
+    "question": "Où dépose-t-on les malades pour qu’au moins l’ombre de Pierre en couvre quelques-uns ?",
+    "choices": [
+      "Dans les rues, sur des lits et des couchettes",
+      "Dans le lieu saint du temple, près de l’autel",
+      "Dans le palais du gouverneur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 5:15 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-025",
+    "book": "Actes",
+    "chapter": 5,
+    "verseRef": "Actes 5:34-35",
+    "verseText": "Voir Actes 5:34-35.",
+    "question": "Qui conseille de laisser aller les apôtres en rappelant des exemples passés ?",
+    "choices": [
+      "Gamaliel",
+      "Caïphe",
+      "Hérode"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 5:34-35 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-026",
+    "book": "Actes",
+    "chapter": 5,
+    "verseRef": "Actes 5:39",
+    "verseText": "Voir Actes 5:39.",
+    "question": "Quel argument Gamaliel donne-t-il sur l’œuvre des apôtres ?",
+    "choices": [
+      "Si elle vient de Dieu, vous ne pourrez la détruire",
+      "Si elle vient de Rome, elle triomphera",
+      "Si elle vient des sadducéens, elle durera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 5:39 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-027",
+    "book": "Actes",
+    "chapter": 6,
+    "verseRef": "Actes 6:1",
+    "verseText": "Voir Actes 6:1.",
+    "question": "Quel problème surgit au sujet de la distribution quotidienne ?",
+    "choices": [
+      "Les veuves des Hellénistes sont négligées",
+      "Les prêtres refusent le pain des disciples",
+      "Les enfants manquent d’eau au marché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 6:1 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-028",
+    "book": "Actes",
+    "chapter": 6,
+    "verseRef": "Actes 6:3-5",
+    "verseText": "Voir Actes 6:3-5.",
+    "question": "Combien d’hommes sont choisis pour ce service, et comment sont-ils décrits ?",
+    "choices": [
+      "Sept hommes, de qui l’on rend un bon témoignage, pleins d’Esprit-Saint et de sagesse",
+      "Douze hommes, de la tribu de Lévi",
+      "Trois hommes, puissants en discours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 6:3-5 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-029",
+    "book": "Actes",
+    "chapter": 6,
+    "verseRef": "Actes 6:5",
+    "verseText": "Voir Actes 6:5.",
+    "question": "Quel homme est décrit comme plein de foi et d’Esprit-Saint ?",
+    "choices": [
+      "Étienne",
+      "Philippe",
+      "Nicolas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 6:5 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-030",
+    "book": "Actes",
+    "chapter": 6,
+    "verseRef": "Actes 6:13",
+    "verseText": "Voir Actes 6:13.",
+    "question": "Quelles accusations sont portées contre Étienne par de faux témoins ?",
+    "choices": [
+      "Il ne cesse de proférer des paroles contre le lieu saint et contre la loi",
+      "Il refuse de payer l’impôt à César",
+      "Il pratique la magie en secret"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 6:13 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-031",
+    "book": "Actes",
+    "chapter": 6,
+    "verseRef": "Actes 6:15",
+    "verseText": "Voir Actes 6:15.",
+    "question": "Quel détail est rapporté sur le visage d’Étienne devant le sanhédrin ?",
+    "choices": [
+      "Ils virent son visage comme celui d’un ange",
+      "Ils virent son visage couvert de cendre",
+      "Ils virent son visage comme celui d’un lépreux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 6:15 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-032",
+    "book": "Actes",
+    "chapter": 7,
+    "verseRef": "Actes 7:60",
+    "verseText": "Voir Actes 7:60.",
+    "question": "Quel cri Étienne pousse-t-il en mourant, concernant ceux qui le lapident ?",
+    "choices": [
+      "Seigneur, ne leur impute pas ce péché !",
+      "Père, pourquoi m’as-tu abandonné ?",
+      "Dieu d’Abraham, délivre-moi !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 7:60 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-033",
+    "book": "Actes",
+    "chapter": 8,
+    "verseRef": "Actes 8:1-3",
+    "verseText": "Voir Actes 8:1-3.",
+    "question": "Quel homme consent à la mort d’Étienne et ravage l’Église ?",
+    "choices": [
+      "Saul",
+      "Jean",
+      "André"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 8:1-3 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-034",
+    "book": "Actes",
+    "chapter": 8,
+    "verseRef": "Actes 8:5-6",
+    "verseText": "Voir Actes 8:5-6.",
+    "question": "Dans quelle région Philippe annonce-t-il le Christ avec des miracles ?",
+    "choices": [
+      "En Samarie",
+      "En Galilée",
+      "En Idumée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 8:5-6 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-035",
+    "book": "Actes",
+    "chapter": 8,
+    "verseRef": "Actes 8:9",
+    "verseText": "Voir Actes 8:9.",
+    "question": "Quel personnage étonne la Samarie par ses enchantements ?",
+    "choices": [
+      "Simon",
+      "Bar-Jésus",
+      "Apollos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 8:9 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-036",
+    "book": "Actes",
+    "chapter": 8,
+    "verseRef": "Actes 8:19",
+    "verseText": "Voir Actes 8:19.",
+    "question": "Que demande Simon en voyant l’imposition des mains des apôtres ?",
+    "choices": [
+      "Le pouvoir de donner le Saint-Esprit par l’imposition des mains",
+      "Une place parmi les sept",
+      "Une lettre pour aller à Rome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 8:19 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-037",
+    "book": "Actes",
+    "chapter": 8,
+    "verseRef": "Actes 8:20",
+    "verseText": "Voir Actes 8:20.",
+    "question": "Quelle réponse Pierre donne-t-il à Simon au sujet de son argent ?",
+    "choices": [
+      "Que ton argent périsse avec toi, puisque tu as cru que le don de Dieu s’acquérait à prix d’argent !",
+      "Donne davantage, et tu recevras davantage",
+      "Garde ton argent, car il est pur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 8:20 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-038",
+    "book": "Actes",
+    "chapter": 8,
+    "verseRef": "Actes 8:27-28",
+    "verseText": "Voir Actes 8:27-28.",
+    "question": "Qui lit le prophète Ésaïe en revenant d’adorer à Jérusalem ?",
+    "choices": [
+      "Un eunuque éthiopien, haut fonctionnaire de Candace",
+      "Un centenier romain nommé Corneille",
+      "Un docteur de la loi nommé Gamaliel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 8:27-28 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-039",
+    "book": "Actes",
+    "chapter": 8,
+    "verseRef": "Actes 8:31",
+    "verseText": "Voir Actes 8:31.",
+    "question": "Que répond l’eunuque à Philippe quand celui-ci lui demande s’il comprend ce qu’il lit ?",
+    "choices": [
+      "Comment le pourrais-je, si quelqu’un ne me guide ?",
+      "Je comprends parfaitement, car je suis prophète",
+      "Je n’ai pas besoin d’explication"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 8:31 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-040",
+    "book": "Actes",
+    "chapter": 9,
+    "verseRef": "Actes 9:3-4",
+    "verseText": "Voir Actes 9:3-4.",
+    "question": "Quel événement conduit Saul à tomber par terre sur le chemin de Damas ?",
+    "choices": [
+      "Une lumière venant du ciel l’enveloppe",
+      "Un ange le frappe d’une épée",
+      "Une foule le renverse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 9:3-4 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-041",
+    "book": "Actes",
+    "chapter": 9,
+    "verseRef": "Actes 9:9",
+    "verseText": "Voir Actes 9:9.",
+    "question": "Pendant combien de temps Saul reste-t-il sans voir après cette rencontre ?",
+    "choices": [
+      "Trois jours",
+      "Sept jours",
+      "Quarante jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 9:9 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-042",
+    "book": "Actes",
+    "chapter": 9,
+    "verseRef": "Actes 9:10-12",
+    "verseText": "Voir Actes 9:10-12.",
+    "question": "Quel disciple est envoyé vers Saul à Damas pour qu’il recouvre la vue ?",
+    "choices": [
+      "Ananias",
+      "Barnabas",
+      "Marc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 9:10-12 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-043",
+    "book": "Actes",
+    "chapter": 9,
+    "verseRef": "Actes 9:25",
+    "verseText": "Voir Actes 9:25.",
+    "question": "Comment Saul échappe-t-il à ceux qui veulent le tuer à Damas ?",
+    "choices": [
+      "On le descend dans une corbeille, le long de la muraille",
+      "Il se déguise en soldat romain",
+      "Il s’enfuit à cheval de nuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 9:25 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-044",
+    "book": "Actes",
+    "chapter": 9,
+    "verseRef": "Actes 9:36-40",
+    "verseText": "Voir Actes 9:36-40.",
+    "question": "Quel nom est donné au disciple que Pierre ressuscite à Joppé, aussi appelée Dorcas ?",
+    "choices": [
+      "Tabitha",
+      "Lydia",
+      "Drusille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 9:36-40 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-045",
+    "book": "Actes",
+    "chapter": 10,
+    "verseRef": "Actes 10:1-2",
+    "verseText": "Voir Actes 10:1-2.",
+    "question": "Quel centenier est décrit comme pieux, craignant Dieu, faisant beaucoup d’aumônes et priant Dieu continuellement ?",
+    "choices": [
+      "Corneille",
+      "Julius",
+      "Longin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 10:1-2 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-046",
+    "book": "Actes",
+    "chapter": 10,
+    "verseRef": "Actes 10:19-20",
+    "verseText": "Voir Actes 10:19-20.",
+    "question": "Quel ordre l’Esprit donne-t-il à Pierre au sujet des hommes envoyés par Corneille ?",
+    "choices": [
+      "Lève-toi, descends, et pars avec eux sans hésiter",
+      "Renvoie-les, car ils sont impurs",
+      "Fais-les attendre sept jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 10:19-20 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-047",
+    "book": "Actes",
+    "chapter": 10,
+    "verseRef": "Actes 10:44-45",
+    "verseText": "Voir Actes 10:44-45.",
+    "question": "Quel signe accompagne l’accueil des païens lorsque Pierre parle chez Corneille ?",
+    "choices": [
+      "Le Saint-Esprit tombe sur tous ceux qui écoutent la parole",
+      "Le temple s’ouvre et une voix retentit",
+      "Une colonne de feu apparaît au milieu de la maison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 10:44-45 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-048",
+    "book": "Actes",
+    "chapter": 10,
+    "verseRef": "Actes 10:47",
+    "verseText": "Voir Actes 10:47.",
+    "question": "Sur quelle base Pierre accepte-t-il qu’ils soient baptisés ?",
+    "choices": [
+      "Personne ne peut refuser l’eau à ceux qui ont reçu le Saint-Esprit comme nous",
+      "Ils ont offert une grande aumône à Jérusalem",
+      "Ils ont promis d’observer toutes les fêtes juives"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 10:47 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-049",
+    "book": "Actes",
+    "chapter": 11,
+    "verseRef": "Actes 11:26",
+    "verseText": "Voir Actes 11:26.",
+    "question": "Dans quelle ville les disciples reçoivent-ils pour la première fois le nom de chrétiens ?",
+    "choices": [
+      "Antioche",
+      "Jérusalem",
+      "Éphèse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 11:26 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-050",
+    "book": "Actes",
+    "chapter": 11,
+    "verseRef": "Actes 11:28",
+    "verseText": "Voir Actes 11:28.",
+    "question": "Quel prophète annonce une grande famine dans toute la terre ?",
+    "choices": [
+      "Agabus",
+      "Ésaïe",
+      "Zacharie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 11:28 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-051",
+    "book": "Actes",
+    "chapter": 12,
+    "verseRef": "Actes 12:2",
+    "verseText": "Voir Actes 12:2.",
+    "question": "Quel apôtre est mis à mort par Hérode, frappé de l’épée ?",
+    "choices": [
+      "Jacques, frère de Jean",
+      "Pierre",
+      "Thomas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 12:2 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-052",
+    "book": "Actes",
+    "chapter": 12,
+    "verseRef": "Actes 12:7-10",
+    "verseText": "Voir Actes 12:7-10.",
+    "question": "Quelle délivrance arrive à Pierre pendant qu’il est gardé en prison ?",
+    "choices": [
+      "Un ange du Seigneur le fait sortir, et ses chaînes tombent",
+      "Les gardes s’endorment et il s’échappe",
+      "Un tremblement de terre brise les portes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 12:7-10 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-053",
+    "book": "Actes",
+    "chapter": 12,
+    "verseRef": "Actes 12:12",
+    "verseText": "Voir Actes 12:12.",
+    "question": "Où Pierre se rend-il immédiatement après avoir été délivré ?",
+    "choices": [
+      "Dans la maison de Marie, mère de Jean surnommé Marc",
+      "Chez le souverain sacrificateur",
+      "Au prétoire du gouverneur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 12:12 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-054",
+    "book": "Actes",
+    "chapter": 12,
+    "verseRef": "Actes 12:23",
+    "verseText": "Voir Actes 12:23.",
+    "question": "Quel jugement atteint Hérode après qu’il accepte les acclamations comme s’il était un dieu ?",
+    "choices": [
+      "Il est frappé par un ange du Seigneur et expire, rongé des vers",
+      "Il devient aveugle trois jours",
+      "Il est exilé en Cappadoce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 12:23 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-055",
+    "book": "Actes",
+    "chapter": 13,
+    "verseRef": "Actes 13:2",
+    "verseText": "Voir Actes 13:2.",
+    "question": "Dans l’Église d’Antioche, quels deux hommes sont mis à part par le Saint-Esprit pour l’œuvre ?",
+    "choices": [
+      "Barnabas et Saul",
+      "Pierre et Jean",
+      "Jacques et Étienne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 13:2 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-056",
+    "book": "Actes",
+    "chapter": 13,
+    "verseRef": "Actes 13:8",
+    "verseText": "Voir Actes 13:8.",
+    "question": "Quel magicien s’oppose à Barnabas et Saul devant le proconsul Sergius Paulus ?",
+    "choices": [
+      "Élymas, appelé aussi Bar-Jésus",
+      "Simon, appelé aussi le grand",
+      "Scéva, chef des exorcistes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 13:8 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-057",
+    "book": "Actes",
+    "chapter": 13,
+    "verseRef": "Actes 13:11",
+    "verseText": "Voir Actes 13:11.",
+    "question": "Quel jugement Paul annonce-t-il sur Élymas ?",
+    "choices": [
+      "Il sera aveugle et ne verra pas le soleil pendant un temps",
+      "Il tombera raide mort sur-le-champ",
+      "Il deviendra muet pour toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 13:11 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-058",
+    "book": "Actes",
+    "chapter": 13,
+    "verseRef": "Actes 13:22",
+    "verseText": "Voir Actes 13:22.",
+    "question": "Dans son discours, que dit Paul que Dieu a fait à David ?",
+    "choices": [
+      "Il a suscité David pour roi et a rendu de lui ce témoignage",
+      "Il a chassé David du royaume pour toujours",
+      "Il a refusé David à cause de son âge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 13:22 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-059",
+    "book": "Actes",
+    "chapter": 13,
+    "verseRef": "Actes 13:46",
+    "verseText": "Voir Actes 13:46.",
+    "question": "Quelle réaction Paul et Barnabas expriment-ils lorsque les Juifs contredisent et blasphèment ?",
+    "choices": [
+      "Ils se tournent vers les païens",
+      "Ils cessent aussitôt d’annoncer la parole",
+      "Ils repartent à Jérusalem sans parler"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 13:46 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-060",
+    "book": "Actes",
+    "chapter": 14,
+    "verseRef": "Actes 14:11-13",
+    "verseText": "Voir Actes 14:11-13.",
+    "question": "Quel événement survient à Lystre lorsqu’un homme impotent des pieds est guéri ?",
+    "choices": [
+      "La foule veut offrir des sacrifices à Barnabas et Paul, les prenant pour des dieux",
+      "La foule proclame Paul roi de la ville",
+      "Les anciens du temple les couronnent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 14:11-13 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-061",
+    "book": "Actes",
+    "chapter": 15,
+    "verseRef": "Actes 15:28",
+    "verseText": "Voir Actes 15:28.",
+    "question": "Quel message principal la lettre des apôtres et des anciens apporte-t-elle aux frères d’origine païenne ?",
+    "choices": [
+      "Elle déclare qu’on ne doit pas leur imposer d’autre charge que les choses nécessaires",
+      "Elle ordonne de monter à Jérusalem trois fois l’an",
+      "Elle exige la circoncision pour tous sans exception"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 15:28 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-062",
+    "book": "Actes",
+    "chapter": 15,
+    "verseRef": "Actes 15:22",
+    "verseText": "Voir Actes 15:22.",
+    "question": "Quels deux hommes sont envoyés avec Paul et Barnabas pour porter la lettre à Antioche ?",
+    "choices": [
+      "Judas appelé Barsabbas, et Silas",
+      "Timothée, et Tite",
+      "Apollos, et Aquilas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 15:22 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-063",
+    "book": "Actes",
+    "chapter": 15,
+    "verseRef": "Actes 15:31",
+    "verseText": "Voir Actes 15:31.",
+    "question": "À Antioche, comment la multitude réagit-elle à la lecture de la lettre ?",
+    "choices": [
+      "Elle se réjouit de l’encouragement qu’elle apportait",
+      "Elle se divise et se disperse aussitôt",
+      "Elle demande un nouveau sacrifice au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 15:31 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-064",
+    "book": "Actes",
+    "chapter": 15,
+    "verseRef": "Actes 15:32",
+    "verseText": "Voir Actes 15:32.",
+    "question": "Quel rôle Judas et Silas accomplissent-ils auprès des frères à Antioche ?",
+    "choices": [
+      "Ils les exhortent et les fortifient par de nombreuses paroles",
+      "Ils les contraignent à observer la loi entière",
+      "Ils les jugent devant l’assemblée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 15:32 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-065",
+    "book": "Actes",
+    "chapter": 15,
+    "verseRef": "Actes 15:40",
+    "verseText": "Voir Actes 15:40.",
+    "question": "Après le départ de Barnabas, avec qui Paul choisit-il de partir ?",
+    "choices": [
+      "Silas",
+      "Judas Barsabbas",
+      "Philippe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 15:40 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-066",
+    "book": "Actes",
+    "chapter": 15,
+    "verseRef": "Actes 15:41",
+    "verseText": "Voir Actes 15:41.",
+    "question": "Dans quelles régions Paul passe-t-il pour affermir les Églises au début de ce voyage ?",
+    "choices": [
+      "La Syrie et la Cilicie",
+      "L’Arabie et l’Égypte",
+      "La Phénicie et Chypre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 15:41 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-067",
+    "book": "Actes",
+    "chapter": 16,
+    "verseRef": "Actes 16:1",
+    "verseText": "Voir Actes 16:1.",
+    "question": "Quel nom est donné au père de Timothée dans le récit ?",
+    "choices": [
+      "Un Grec",
+      "Un Romain",
+      "Un Lévite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 16:1 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-068",
+    "book": "Actes",
+    "chapter": 16,
+    "verseRef": "Actes 16:3",
+    "verseText": "Voir Actes 16:3.",
+    "question": "Pourquoi Paul prend-il Timothée et le circoncit-il ?",
+    "choices": [
+      "À cause des Juifs qui étaient dans ces lieux, car tous savaient que son père était Grec",
+      "À cause d’un vœu fait au temple",
+      "À cause d’un ordre reçu d’un ange"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 16:3 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-069",
+    "book": "Actes",
+    "chapter": 16,
+    "verseRef": "Actes 16:4",
+    "verseText": "Voir Actes 16:4.",
+    "question": "En traversant les villes, que remettent Paul et ses compagnons aux Églises ?",
+    "choices": [
+      "Les décisions arrêtées par les apôtres et les anciens à Jérusalem",
+      "Les rouleaux du Pentateuque copiés",
+      "Les offrandes destinées au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 16:4 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-070",
+    "book": "Actes",
+    "chapter": 16,
+    "verseRef": "Actes 16:5",
+    "verseText": "Voir Actes 16:5.",
+    "question": "Quel effet ces décisions ont-elles sur les Églises ?",
+    "choices": [
+      "Elles s’affermissent dans la foi et augmentent en nombre chaque jour",
+      "Elles ferment leurs assemblées par crainte",
+      "Elles se divisent en plusieurs partis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 16:5 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-071",
+    "book": "Actes",
+    "chapter": 16,
+    "verseRef": "Actes 16:6",
+    "verseText": "Voir Actes 16:6.",
+    "question": "Quelle région Paul tente-t-il de parcourir, mais en est empêché par le Saint-Esprit ?",
+    "choices": [
+      "L’Asie",
+      "La Judée",
+      "L’Idumée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 16:6 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-072",
+    "book": "Actes",
+    "chapter": 16,
+    "verseRef": "Actes 16:19-20",
+    "verseText": "Voir Actes 16:19-20.",
+    "question": "Dans quelle ville Paul et Silas sont-ils menés sur la place publique vers les magistrats ?",
+    "choices": [
+      "Philippes",
+      "Thessalonique",
+      "Corinthe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 16:19-20 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-073",
+    "book": "Actes",
+    "chapter": 16,
+    "verseRef": "Actes 16:40",
+    "verseText": "Voir Actes 16:40.",
+    "question": "Après leur libération, où Paul et Silas se rendent-ils d’abord pour encourager les frères ?",
+    "choices": [
+      "Chez Lydie",
+      "Dans la synagogue",
+      "Chez le geôlier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 16:40 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-074",
+    "book": "Actes",
+    "chapter": 17,
+    "verseRef": "Actes 17:2",
+    "verseText": "Voir Actes 17:2.",
+    "question": "À Thessalonique, sur quoi Paul s’appuie-t-il pour discuter avec les auditeurs ?",
+    "choices": [
+      "Les Écritures",
+      "Les coutumes romaines",
+      "Les proverbes grecs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 17:2 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-075",
+    "book": "Actes",
+    "chapter": 17,
+    "verseRef": "Actes 17:3",
+    "verseText": "Voir Actes 17:3.",
+    "question": "Que fait Paul en expliquant au sujet du Christ dans sa prédication ?",
+    "choices": [
+      "Il établit et prouve qu’il devait souffrir et ressusciter des morts",
+      "Il promet une délivrance politique immédiate",
+      "Il annonce un retour à la loi cérémonielle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 17:3 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-076",
+    "book": "Actes",
+    "chapter": 17,
+    "verseRef": "Actes 17:5",
+    "verseText": "Voir Actes 17:5.",
+    "question": "À Thessalonique, quel nom est donné à la maison où les agitateurs cherchent Paul et Silas ?",
+    "choices": [
+      "La maison de Jason",
+      "La maison de Corneille",
+      "La maison de Crispus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 17:5 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-077",
+    "book": "Actes",
+    "chapter": 17,
+    "verseRef": "Actes 17:7",
+    "verseText": "Voir Actes 17:7.",
+    "question": "Quelle accusation est formulée contre ceux qui accueillent Paul et Silas, au sujet d’un autre roi ?",
+    "choices": [
+      "Ils agissent contre les édits de César, disant qu’il y a un autre roi, Jésus",
+      "Ils refusent de payer l’impôt du temple",
+      "Ils enseignent de renverser Moïse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 17:7 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-078",
+    "book": "Actes",
+    "chapter": 17,
+    "verseRef": "Actes 17:17",
+    "verseText": "Voir Actes 17:17.",
+    "question": "À Athènes, quel lieu Paul fréquente-t-il pour raisonner chaque jour ?",
+    "choices": [
+      "La place publique",
+      "Le prétoire",
+      "Le port"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 17:17 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-079",
+    "book": "Actes",
+    "chapter": 17,
+    "verseRef": "Actes 17:18",
+    "verseText": "Voir Actes 17:18.",
+    "question": "Comment certains philosophes qualifient-ils Paul en l’entendant parler ?",
+    "choices": [
+      "Un discoureur",
+      "Un prophète du temple",
+      "Un prêtre de Jupiter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 17:18 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-080",
+    "book": "Actes",
+    "chapter": 17,
+    "verseRef": "Actes 17:18-19",
+    "verseText": "Voir Actes 17:18-19.",
+    "question": "Quel sujet particulier conduit les Athéniens à amener Paul à l’Aréopage ?",
+    "choices": [
+      "Il annonce Jésus et la résurrection",
+      "Il annonce la circoncision obligatoire",
+      "Il annonce la destruction de Rome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 17:18-19 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-081",
+    "book": "Actes",
+    "chapter": 17,
+    "verseRef": "Actes 17:23",
+    "verseText": "Voir Actes 17:23.",
+    "question": "Quel autel Paul cite-t-il pour introduire son discours à Athènes ?",
+    "choices": [
+      "Un autel avec cette inscription: AU DIEU INCONNU",
+      "Un autel dédié à Moïse",
+      "Un autel consacré à César"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 17:23 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-082",
+    "book": "Actes",
+    "chapter": 17,
+    "verseRef": "Actes 17:25",
+    "verseText": "Voir Actes 17:25.",
+    "question": "Selon Paul, de quoi Dieu n’a-t-il pas besoin de la part des hommes ?",
+    "choices": [
+      "D’être servi par des mains humaines, comme s’il avait besoin de quelque chose",
+      "D’être loué par des chants",
+      "D’être nommé dans les synagogues"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 17:25 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-083",
+    "book": "Actes",
+    "chapter": 17,
+    "verseRef": "Actes 17:27",
+    "verseText": "Voir Actes 17:27.",
+    "question": "Quel est le but mentionné par Paul quand Dieu a fixé les temps et les bornes de l’habitation des hommes ?",
+    "choices": [
+      "Qu’ils cherchent le Seigneur",
+      "Qu’ils bâtissent des temples splendides",
+      "Qu’ils se choisissent des rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 17:27 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-084",
+    "book": "Actes",
+    "chapter": 17,
+    "verseRef": "Actes 17:30",
+    "verseText": "Voir Actes 17:30.",
+    "question": "Quel commandement Paul déclare-t-il que Dieu adresse maintenant à tous les hommes ?",
+    "choices": [
+      "Il annonce à tous les hommes, en tous lieux, qu’ils aient à se repentir",
+      "Il ordonne à tous de monter à Jérusalem",
+      "Il impose à tous l’abstinence de pain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 17:30 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-085",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:2",
+    "verseText": "Voir Actes 18:2.",
+    "question": "Quel couple Paul rencontre-t-il à Corinthe, récemment venu d’Italie ?",
+    "choices": [
+      "Aquilas et Priscille",
+      "Jason et Rhodé",
+      "Ananias et Saphira"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:2 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-086",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:3",
+    "verseText": "Voir Actes 18:3.",
+    "question": "Quel métier Paul exerce-t-il avec Aquilas et Priscille ?",
+    "choices": [
+      "Ils étaient faiseurs de tentes",
+      "Ils étaient pêcheurs",
+      "Ils étaient sculpteurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:3 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-087",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:4",
+    "verseText": "Voir Actes 18:4.",
+    "question": "Quel jour Paul raisonne-t-il dans la synagogue à Corinthe ?",
+    "choices": [
+      "Chaque sabbat",
+      "Chaque nouvelle lune",
+      "Chaque troisième jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:4 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-088",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:6",
+    "verseText": "Voir Actes 18:6.",
+    "question": "Quand les Juifs s’opposent et se livrent à des injures, quel geste Paul fait-il ?",
+    "choices": [
+      "Il secoue ses vêtements",
+      "Il déchire son manteau",
+      "Il se couvre de cendre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:6 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-089",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:6",
+    "verseText": "Voir Actes 18:6.",
+    "question": "Après ce geste, que déclare Paul concernant sa mission ?",
+    "choices": [
+      "Dès maintenant, j’irai vers les païens",
+      "Je retourne en Galilée sans délai",
+      "Je ne parlerai plus jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:6 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-090",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:8",
+    "verseText": "Voir Actes 18:8.",
+    "question": "Quel homme, chef de synagogue, croit au Seigneur avec toute sa maison ?",
+    "choices": [
+      "Crispus",
+      "Sosthène",
+      "Apollos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:8 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-091",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:9",
+    "verseText": "Voir Actes 18:9.",
+    "question": "Quel encouragement le Seigneur donne-t-il à Paul dans une vision à Corinthe ?",
+    "choices": [
+      "Ne crains point; mais parle, et ne te tais point",
+      "Va à Rome immédiatement",
+      "Reste caché jusqu’à la fin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:9 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-092",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:11",
+    "verseText": "Voir Actes 18:11.",
+    "question": "Combien de temps Paul demeure-t-il à Corinthe à enseigner la parole de Dieu ?",
+    "choices": [
+      "Un an et six mois",
+      "Trois mois",
+      "Deux ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:11 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-093",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:12",
+    "verseText": "Voir Actes 18:12.",
+    "question": "Sous quel gouverneur les Juifs amènent-ils Paul devant le tribunal à Corinthe ?",
+    "choices": [
+      "Gallion",
+      "Félix",
+      "Festus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:12 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-094",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:13",
+    "verseText": "Voir Actes 18:13.",
+    "question": "Quelle accusation est portée contre Paul devant Gallion ?",
+    "choices": [
+      "Il persuade les hommes d’adorer Dieu d’une manière contraire à la loi",
+      "Il a volé l’argent du temple",
+      "Il refuse de reconnaître César"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:13 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-095",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:14-15",
+    "verseText": "Voir Actes 18:14-15.",
+    "question": "Quelle réponse Gallion donne-t-il, en substance, aux Juifs ?",
+    "choices": [
+      "Si c’était quelque injustice, je vous écouterais; mais ce sont des questions de mots et de votre loi",
+      "Il ordonne de lapider Paul",
+      "Il condamne Paul aux galères"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:14-15 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-096",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:24",
+    "verseText": "Voir Actes 18:24.",
+    "question": "À Éphèse, comment Apollos est-il décrit dans le récit ?",
+    "choices": [
+      "Éloquent et versé dans les Écritures",
+      "Riche et puissant dans la cité",
+      "Soldat romain de grande valeur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:24 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-097",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:25",
+    "verseText": "Voir Actes 18:25.",
+    "question": "Quel point manque-t-il dans la connaissance d’Apollos avant d’être instruit plus exactement ?",
+    "choices": [
+      "Il ne connaissait que le baptême de Jean",
+      "Il ignorait totalement Moïse",
+      "Il rejetait les prophètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:25 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-098",
+    "book": "Actes",
+    "chapter": 18,
+    "verseRef": "Actes 18:26",
+    "verseText": "Voir Actes 18:26.",
+    "question": "Qui prend Apollos avec soi pour lui exposer plus exactement la voie de Dieu ?",
+    "choices": [
+      "Priscille et Aquilas",
+      "Pierre et Jean",
+      "Barnabas et Marc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 18:26 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-099",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:6",
+    "verseText": "Voir Actes 19:6.",
+    "question": "À Éphèse, quel don les disciples reçoivent-ils après l’imposition des mains de Paul ?",
+    "choices": [
+      "Le Saint-Esprit",
+      "Le pouvoir de guérir par eux-mêmes",
+      "Une charge de magistrat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:6 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-100",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:6",
+    "verseText": "Voir Actes 19:6.",
+    "question": "Quel phénomène accompagne l’arrivée du Saint-Esprit sur eux ?",
+    "choices": [
+      "Ils parlent en langues et prophétisent",
+      "Ils tombent comme morts",
+      "Ils deviennent muets"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:6 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-101",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:7",
+    "verseText": "Voir Actes 19:7.",
+    "question": "Combien d’hommes sont mentionnés comme étant environ, parmi ces disciples à Éphèse ?",
+    "choices": [
+      "Environ douze",
+      "Environ soixante-dix",
+      "Environ trois mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:7 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-102",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:8",
+    "verseText": "Voir Actes 19:8.",
+    "question": "Pendant combien de temps Paul parle-t-il librement dans la synagogue à Éphèse ?",
+    "choices": [
+      "Trois mois",
+      "Un an",
+      "Quarante jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:8 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-103",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:9",
+    "verseText": "Voir Actes 19:9.",
+    "question": "À cause de l’endurcissement de certains, où Paul enseigne-t-il ensuite chaque jour ?",
+    "choices": [
+      "Dans l’école d’un nommé Tyrannus",
+      "Dans le palais du proconsul",
+      "Au port, sur les navires"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:9 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-104",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:10",
+    "verseText": "Voir Actes 19:10.",
+    "question": "Quelle durée est donnée pour ce ministère quotidien à Éphèse, avec un effet sur l’Asie ?",
+    "choices": [
+      "Deux ans",
+      "Six mois",
+      "Sept semaines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:10 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-105",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:12",
+    "verseText": "Voir Actes 19:12.",
+    "question": "Quel objet est porté aux malades depuis le corps de Paul, avec un effet de guérison ?",
+    "choices": [
+      "Des mouchoirs ou des linges",
+      "Des ceintures d’or",
+      "Des couronnes de laurier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:12 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-106",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:13",
+    "verseText": "Voir Actes 19:13.",
+    "question": "Quel nom est donné à certains qui tentent d’invoquer le nom du Seigneur Jésus sans lui appartenir ?",
+    "choices": [
+      "Des exorcistes juifs ambulants",
+      "Des scribes du temple",
+      "Des prêtres samaritains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:13 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-107",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:16",
+    "verseText": "Voir Actes 19:16.",
+    "question": "Comment les esprits mauvais réagissent-ils à cette tentative ?",
+    "choices": [
+      "L’homme possédé se jette sur eux et les maltraite, de sorte qu’ils s’enfuient nus et blessés",
+      "Ils deviennent aussitôt disciples et se font baptiser",
+      "Ils offrent de l’argent aux apôtres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:16 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-108",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:17",
+    "verseText": "Voir Actes 19:17.",
+    "question": "Quel effet cette affaire produit-elle sur ceux d’Éphèse, selon le récit ?",
+    "choices": [
+      "Le nom du Seigneur Jésus était glorifié",
+      "Le peuple bannit tous les Juifs",
+      "La synagogue est détruite par le feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:17 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-109",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:19",
+    "verseText": "Voir Actes 19:19.",
+    "question": "Que font beaucoup de ceux qui avaient pratiqué la magie après avoir cru ?",
+    "choices": [
+      "Ils apportent leurs livres et les brûlent devant tout le monde",
+      "Ils enterrent leurs livres dans le temple",
+      "Ils vendent leurs livres au marché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:19 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-110",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:19",
+    "verseText": "Voir Actes 19:19.",
+    "question": "Quelle somme est estimée pour la valeur de ces livres brûlés ?",
+    "choices": [
+      "Cinquante mille pièces d’argent",
+      "Dix mille pièces d’or",
+      "Cent pièces d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:19 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-111",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:24",
+    "verseText": "Voir Actes 19:24.",
+    "question": "Quel artisan excite un tumulte à Éphèse à cause du métier lié à Diane ?",
+    "choices": [
+      "Démétrius, orfèvre",
+      "Alexandre, forgeron",
+      "Sosthène, marchant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:24 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-112",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:26",
+    "verseText": "Voir Actes 19:26.",
+    "question": "Quelle plainte Démétrius formule-t-il au sujet de Paul et de son enseignement ?",
+    "choices": [
+      "Il dit que des dieux faits de main d’homme ne sont pas des dieux",
+      "Il dit que César n’est pas roi",
+      "Il dit que le temple doit être détruit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:26 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-113",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:28-34",
+    "verseText": "Voir Actes 19:28-34.",
+    "question": "Quel cri répète la foule à Éphèse pendant un long moment ?",
+    "choices": [
+      "Grande est la Diane des Éphésiens !",
+      "Vive César, fils des dieux !",
+      "Gloire à Jérusalem, cité sainte !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:28-34 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-114",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:30",
+    "verseText": "Voir Actes 19:30.",
+    "question": "Quel lieu Paul veut-il rejoindre, mais les disciples ne le laissent pas faire pendant le tumulte ?",
+    "choices": [
+      "Le théâtre",
+      "La synagogue",
+      "Le tribunal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:30 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-115",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:35",
+    "verseText": "Voir Actes 19:35.",
+    "question": "Quel responsable de la ville apaise finalement la foule à Éphèse ?",
+    "choices": [
+      "Le secrétaire",
+      "Le centenier",
+      "Le grand prêtre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:35 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-116",
+    "book": "Actes",
+    "chapter": 19,
+    "verseRef": "Actes 19:35",
+    "verseText": "Voir Actes 19:35.",
+    "question": "Quel argument le secrétaire utilise-t-il au sujet d’Éphèse et de Diane ?",
+    "choices": [
+      "La ville est la gardienne du temple de la grande Diane et de son image tombée du ciel",
+      "La ville a reçu un ordre de Jérusalem",
+      "La ville est la capitale de toute l’Asie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 19:35 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-117",
+    "book": "Actes",
+    "chapter": 20,
+    "verseRef": "Actes 20:9",
+    "verseText": "Voir Actes 20:9.",
+    "question": "À Troas, que fait Eutyche pendant que Paul prolonge son discours ?",
+    "choices": [
+      "Il s’endort profondément et tombe du troisième étage",
+      "Il s’évanouit près de la porte du temple",
+      "Il s’enfuit dans la rue par crainte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 20:9 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-118",
+    "book": "Actes",
+    "chapter": 20,
+    "verseRef": "Actes 20:10",
+    "verseText": "Voir Actes 20:10.",
+    "question": "Après cette chute, quelle déclaration est faite par Paul à ceux qui s’agitent ?",
+    "choices": [
+      "Ne vous troublez pas, car son âme est en lui",
+      "Il est mort, préparez sa sépulture",
+      "Qu’on appelle les magistrats"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 20:10 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-119",
+    "book": "Actes",
+    "chapter": 20,
+    "verseRef": "Actes 20:17",
+    "verseText": "Voir Actes 20:17.",
+    "question": "À Milet, à qui Paul fait-il appeler pour un entretien d’adieu ?",
+    "choices": [
+      "Aux anciens de l’Église d’Éphèse",
+      "Aux princes de Judée",
+      "Aux philosophes d’Athènes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 20:17 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-120",
+    "book": "Actes",
+    "chapter": 20,
+    "verseRef": "Actes 20:29",
+    "verseText": "Voir Actes 20:29.",
+    "question": "Quel avertissement Paul donne-t-il au sujet de ce qui se produira après son départ ?",
+    "choices": [
+      "Des loups redoutables entreront au milieu de vous, n’épargnant pas le troupeau",
+      "Une famine ruinera toute la région",
+      "Un nouveau temple sera bâti à Éphèse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 20:29 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-121",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:3",
+    "verseText": "Voir Actes 23:3.",
+    "question": "Quelle comparaison Paul emploie-t-il pour reprendre celui qui ordonne de le frapper ?",
+    "choices": [
+      "Muraille blanchie",
+      "Arbre stérile",
+      "Pierre d’achoppement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:3 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-122",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:5",
+    "verseText": "Voir Actes 23:5.",
+    "question": "Pourquoi Paul déclare-t-il qu’il ne savait pas que celui qu’il venait de reprendre était le souverain sacrificateur ?",
+    "choices": [
+      "Il est écrit: Tu ne parleras point mal du chef de ton peuple",
+      "Il est écrit: Tu honoreras ton père et ta mère",
+      "Il est écrit: Tu ne convoiteras point"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:5 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-123",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:6",
+    "verseText": "Voir Actes 23:6.",
+    "question": "Quel sujet Paul met-il en avant pour diviser l’assemblée entre pharisiens et sadducéens ?",
+    "choices": [
+      "L’espérance et la résurrection des morts",
+      "L’impôt dû à César",
+      "La construction du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:6 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-124",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:8",
+    "verseText": "Voir Actes 23:8.",
+    "question": "Quelle différence de doctrine est explicitement mentionnée entre sadducéens et pharisiens ?",
+    "choices": [
+      "Les sadducéens disent qu’il n’y a point de résurrection, ni d’ange, ni d’esprit",
+      "Les pharisiens disent qu’il n’y a point de loi, ni de prophètes, ni de psaumes",
+      "Les sadducéens disent qu’il n’y a point de Dieu, ni de ciel, ni d’enfer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:8 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-125",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:9",
+    "verseText": "Voir Actes 23:9.",
+    "question": "Quel groupe se lève et affirme qu’on ne trouve rien de mauvais en Paul ?",
+    "choices": [
+      "Les scribes du parti des pharisiens",
+      "Les anciens du temple",
+      "Les soldats de la cohorte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:9 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-126",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:10",
+    "verseText": "Voir Actes 23:10.",
+    "question": "Que fait le tribun pour empêcher Paul d’être mis en pièces lors de la dispute ?",
+    "choices": [
+      "Il ordonne aux soldats de descendre et d’enlever Paul du milieu d’eux",
+      "Il ordonne de fermer les portes de la ville",
+      "Il ordonne de renvoyer le sanhédrin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:10 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-127",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:11",
+    "verseText": "Voir Actes 23:11.",
+    "question": "Quelle parole le Seigneur adresse-t-il à Paul pendant la nuit, à Jérusalem ?",
+    "choices": [
+      "Prends courage; car, de même que tu as rendu témoignage de moi à Jérusalem, il faut aussi que tu rendes témoignage à Rome",
+      "Prends courage; car tu ne verras plus jamais Jérusalem",
+      "Prends courage; car tu retourneras à Damas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:11 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-128",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:12",
+    "verseText": "Voir Actes 23:12.",
+    "question": "Quel engagement des Juifs est mentionné dans le complot contre Paul ?",
+    "choices": [
+      "Ne rien manger ni boire avant de l’avoir tué",
+      "Ne pas dormir avant de l’avoir jugé",
+      "Ne pas parler avant de l’avoir vu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:12 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-129",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:13",
+    "verseText": "Voir Actes 23:13.",
+    "question": "Combien d’hommes au moins participent à cette conjuration ?",
+    "choices": [
+      "Plus de quarante",
+      "Plus de vingt",
+      "Plus de soixante-dix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:13 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-130",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:16",
+    "verseText": "Voir Actes 23:16.",
+    "question": "Qui découvre et révèle le complot au sujet de Paul ?",
+    "choices": [
+      "Le fils de la sœur de Paul",
+      "Un ancien de la synagogue",
+      "Un centenier romain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:16 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-131",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:17",
+    "verseText": "Voir Actes 23:17.",
+    "question": "Quel ordre Paul demande-t-il à un centenier au sujet du jeune homme ?",
+    "choices": [
+      "Conduis ce jeune homme vers le tribun, car il a quelque chose à lui dire",
+      "Cache ce jeune homme dans la forteresse, car il a peur",
+      "Renvoie ce jeune homme à Tarse, car il est recherché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:17 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-132",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:19",
+    "verseText": "Voir Actes 23:19.",
+    "question": "Quelle précaution le tribun prend-il avant d’écouter le jeune homme ?",
+    "choices": [
+      "Il le prend par la main et se retire à l’écart",
+      "Il le fait parler devant toute la foule",
+      "Il le fait interroger sous serment au sanhédrin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:19 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-133",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:20-21",
+    "verseText": "Voir Actes 23:20-21.",
+    "question": "Quelle demande les comploteurs veulent-ils faire au tribun par l’intermédiaire du conseil ?",
+    "choices": [
+      "Faire descendre Paul, comme pour examiner son affaire plus exactement",
+      "Faire monter Paul au temple pour offrir un sacrifice",
+      "Faire libérer Paul contre rançon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:20-21 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-134",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:22",
+    "verseText": "Voir Actes 23:22.",
+    "question": "Après l’avertissement, quelle consigne le tribun donne-t-il au jeune homme ?",
+    "choices": [
+      "Ne dire à personne qu’il lui a révélé ces choses",
+      "Retourner vers le conseil et parler publiquement",
+      "Aller à Césarée annoncer la nouvelle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:22 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-135",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:23",
+    "verseText": "Voir Actes 23:23.",
+    "question": "Combien de soldats de pied le tribun prépare-t-il pour escorter Paul jusqu’à Césarée ?",
+    "choices": [
+      "Deux cents",
+      "Cent",
+      "Cinquante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:23 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-136",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:23",
+    "verseText": "Voir Actes 23:23.",
+    "question": "Combien de cavaliers sont mentionnés dans cette escorte ?",
+    "choices": [
+      "Soixante-dix",
+      "Trente",
+      "Cent vingt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:23 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-137",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:23",
+    "verseText": "Voir Actes 23:23.",
+    "question": "Combien de lanciers accompagnent l’escorte, selon le récit ?",
+    "choices": [
+      "Deux cents",
+      "Soixante",
+      "Quarante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:23 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-138",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:23",
+    "verseText": "Voir Actes 23:23.",
+    "question": "À quelle heure l’escorte doit-elle se mettre en route ?",
+    "choices": [
+      "À la troisième heure de la nuit",
+      "À la sixième heure du jour",
+      "À la neuvième heure du jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:23 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-139",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:24",
+    "verseText": "Voir Actes 23:24.",
+    "question": "Quelle instruction est donnée concernant la monture de Paul ?",
+    "choices": [
+      "Ayez des montures pour faire monter Paul",
+      "Ayez un char pour conduire Paul",
+      "Ayez une litière pour porter Paul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:24 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-140",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:24",
+    "verseText": "Voir Actes 23:24.",
+    "question": "Quel gouverneur doit recevoir Paul à Césarée ?",
+    "choices": [
+      "Félix",
+      "Festus",
+      "Gallion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:24 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-141",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:27",
+    "verseText": "Voir Actes 23:27.",
+    "question": "Dans la lettre, comment le tribun présente-t-il son intervention auprès de Paul ?",
+    "choices": [
+      "Je suis survenu avec la troupe et je l’ai arraché, ayant appris qu’il est Romain",
+      "Je l’ai jugé sur-le-champ selon la loi juive",
+      "Je l’ai condamné pour sédition"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:27 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-142",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:31-32",
+    "verseText": "Voir Actes 23:31-32.",
+    "question": "Dans quelle ville les soldats de pied laissent-ils les cavaliers poursuivre seuls avec Paul ?",
+    "choices": [
+      "Antipatris",
+      "Joppé",
+      "Lystre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:31-32 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-143",
+    "book": "Actes",
+    "chapter": 23,
+    "verseRef": "Actes 23:35",
+    "verseText": "Voir Actes 23:35.",
+    "question": "Dans quel lieu Paul est-il gardé en attendant ses accusateurs ?",
+    "choices": [
+      "Dans le prétoire d’Hérode",
+      "Dans la tour Antonia",
+      "Dans la maison de Corneille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 23:35 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-144",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:1",
+    "verseText": "Voir Actes 24:1.",
+    "question": "Après combien de jours le souverain sacrificateur descend-il avec des anciens et un orateur pour accuser Paul ?",
+    "choices": [
+      "Cinq jours",
+      "Trois jours",
+      "Sept jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:1 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-145",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:1-2",
+    "verseText": "Voir Actes 24:1-2.",
+    "question": "Comment s’appelle l’orateur engagé pour porter l’accusation ?",
+    "choices": [
+      "Tertulle",
+      "Alexandre",
+      "Démétrius"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:1-2 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-146",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:5",
+    "verseText": "Voir Actes 24:5.",
+    "question": "Quel terme Tertulle emploie-t-il pour qualifier Paul auprès de Félix ?",
+    "choices": [
+      "Une peste",
+      "Un brigand",
+      "Un magicien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:5 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-147",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:5",
+    "verseText": "Voir Actes 24:5.",
+    "question": "Quel autre reproche Tertulle ajoute-t-il contre Paul au sujet d’un groupe religieux ?",
+    "choices": [
+      "Il est le chef de la secte des Nazaréens",
+      "Il est chef des Sadducéens",
+      "Il est chef des Esséniens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:5 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-148",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:17",
+    "verseText": "Voir Actes 24:17.",
+    "question": "Que dit Paul au sujet de son intention lorsqu’il est monté à Jérusalem ?",
+    "choices": [
+      "Il y est monté pour faire des aumônes à sa nation et pour présenter des offrandes",
+      "Il y est monté pour acheter des terres",
+      "Il y est monté pour devenir souverain sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:17 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-149",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:14",
+    "verseText": "Voir Actes 24:14.",
+    "question": "Selon Paul, que reconnaît-il croire au sujet de tout ce qui est écrit ?",
+    "choices": [
+      "Tout ce qui est écrit dans la loi et dans les prophètes",
+      "Seulement ce qui est écrit dans les psaumes",
+      "Seulement ce qui est écrit dans les traditions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:14 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-150",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:15",
+    "verseText": "Voir Actes 24:15.",
+    "question": "Quelle espérance Paul déclare-t-il partager avec ses accusateurs ?",
+    "choices": [
+      "Qu’il y aura une résurrection des justes et des injustes",
+      "Qu’il y aura un royaume terrestre immédiat",
+      "Qu’il n’y aura plus de jugement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:15 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-151",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:16",
+    "verseText": "Voir Actes 24:16.",
+    "question": "Quelle discipline personnelle Paul dit-il exercer à cause de cette espérance ?",
+    "choices": [
+      "S’efforcer d’avoir constamment une conscience sans reproche devant Dieu et devant les hommes",
+      "S’efforcer d’éviter toute assemblée publique",
+      "S’efforcer de ne jamais parler en public"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:16 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-152",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:22",
+    "verseText": "Voir Actes 24:22.",
+    "question": "Que fait Félix après avoir entendu Paul au sujet de la foi en Jésus-Christ ?",
+    "choices": [
+      "Il remet l’affaire à plus tard en disant qu’il attendra le tribun Lysias",
+      "Il condamne Paul immédiatement",
+      "Il libère Paul sans condition"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:22 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-153",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:23",
+    "verseText": "Voir Actes 24:23.",
+    "question": "Quelle faveur Félix accorde-t-il à Paul pendant sa garde ?",
+    "choices": [
+      "Ne pas l’empêcher de recevoir les siens et d’être servi par eux",
+      "Lui permettre de quitter Césarée la nuit",
+      "Le placer dans la maison du souverain sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:23 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-154",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:24",
+    "verseText": "Voir Actes 24:24.",
+    "question": "Avec qui Félix fait-il venir Paul pour l’entendre, selon le récit ?",
+    "choices": [
+      "Drusille, sa femme, qui était Juive",
+      "Bernice, sa sœur",
+      "Lydie, marchande de pourpre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:24 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-155",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:25",
+    "verseText": "Voir Actes 24:25.",
+    "question": "En entendant Paul parler de justice, de tempérance et du jugement à venir, quelle réaction Félix manifeste-t-il ?",
+    "choices": [
+      "Effrayé, il dit: Pour le moment retire-toi; quand j’en trouverai l’occasion, je te rappellerai",
+      "Joyeux, il le fait prêcher au peuple",
+      "Indifférent, il s’endort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:25 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-156",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:26",
+    "verseText": "Voir Actes 24:26.",
+    "question": "Quel motif intéressé est attribué à Félix lorsqu’il fait souvent venir Paul ?",
+    "choices": [
+      "Il espère que Paul lui donnera de l’argent",
+      "Il veut devenir disciple immédiatement",
+      "Il veut quitter son poste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:26 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-157",
+    "book": "Actes",
+    "chapter": 24,
+    "verseRef": "Actes 24:27",
+    "verseText": "Voir Actes 24:27.",
+    "question": "Après combien de temps Félix est-il remplacé, et quelle situation laisse-t-il à son successeur ?",
+    "choices": [
+      "Deux ans; il laisse Paul prisonnier pour plaire aux Juifs",
+      "Un an; il laisse Paul libre pour plaire aux Grecs",
+      "Trois ans; il laisse Paul à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 24:27 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-158",
+    "book": "Actes",
+    "chapter": 25,
+    "verseRef": "Actes 25:1",
+    "verseText": "Voir Actes 25:1.",
+    "question": "Quel nouveau gouverneur arrive à Césarée à la place de Félix ?",
+    "choices": [
+      "Festus",
+      "Pilate",
+      "Sergius Paulus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 25:1 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-159",
+    "book": "Actes",
+    "chapter": 25,
+    "verseRef": "Actes 25:3",
+    "verseText": "Voir Actes 25:3.",
+    "question": "Que demandent les principaux sacrificateurs et les principaux de Jérusalem contre Paul auprès de Festus ?",
+    "choices": [
+      "Qu’il le fasse venir à Jérusalem",
+      "Qu’il le renvoie en liberté",
+      "Qu’il l’envoie à Antioche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 25:3 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-160",
+    "book": "Actes",
+    "chapter": 25,
+    "verseRef": "Actes 25:3",
+    "verseText": "Voir Actes 25:3.",
+    "question": "Quelle intention secrète accompagne cette demande, selon le texte ?",
+    "choices": [
+      "Ils préparent un guet-apens pour le tuer en chemin",
+      "Ils veulent lui offrir une escorte d’honneur",
+      "Ils veulent le confronter à un prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 25:3 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-161",
+    "book": "Actes",
+    "chapter": 25,
+    "verseRef": "Actes 25:9-11",
+    "verseText": "Voir Actes 25:9-11.",
+    "question": "Quelle proposition Festus fait-il à Paul pour juger l’affaire, et quelle réponse Paul donne-t-il ?",
+    "choices": [
+      "Aller à Jérusalem; Paul répond qu’il en appelle à César",
+      "Aller à Rome; Paul répond qu’il refuse",
+      "Aller à Antioche; Paul répond qu’il accepte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 25:9-11 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-162",
+    "book": "Actes",
+    "chapter": 25,
+    "verseRef": "Actes 25:10",
+    "verseText": "Voir Actes 25:10.",
+    "question": "Quel titre Paul emploie-t-il en parlant du tribunal devant lequel il se tient ?",
+    "choices": [
+      "Le tribunal de César",
+      "Le tribunal du sanhédrin",
+      "Le tribunal d’Hérode"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 25:10 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-163",
+    "book": "Actes",
+    "chapter": 25,
+    "verseRef": "Actes 25:26",
+    "verseText": "Voir Actes 25:26.",
+    "question": "Quel est le problème que Festus reconnaît au sujet du dossier de Paul, lorsqu’il doit l’envoyer à César ?",
+    "choices": [
+      "Il n’a rien de certain à écrire au sujet de Paul",
+      "Il a déjà une condamnation écrite",
+      "Il a déjà un témoignage de Lysias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 25:26 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-164",
+    "book": "Actes",
+    "chapter": 25,
+    "verseRef": "Actes 25:13",
+    "verseText": "Voir Actes 25:13.",
+    "question": "Quel roi arrive avec Bérénice pour saluer Festus ?",
+    "choices": [
+      "Agrippa",
+      "Hérode Antipas",
+      "Abimélec"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 25:13 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-165",
+    "book": "Actes",
+    "chapter": 25,
+    "verseRef": "Actes 25:18",
+    "verseText": "Voir Actes 25:18.",
+    "question": "De quoi Festus informe-t-il le roi Agrippa concernant Paul ?",
+    "choices": [
+      "Les accusateurs n’ont apporté aucune preuve des crimes dont je le soupçonnais",
+      "Paul a brûlé le temple",
+      "Paul a levé une armée contre César"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 25:18 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-166",
+    "book": "Actes",
+    "chapter": 25,
+    "verseRef": "Actes 25:19",
+    "verseText": "Voir Actes 25:19.",
+    "question": "Selon Festus, quel est le point central de la controverse entre les Juifs et Paul ?",
+    "choices": [
+      "Un certain Jésus, mort, que Paul affirme être vivant",
+      "Une querelle sur les impôts romains",
+      "Une dispute sur le trône de David à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 25:19 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-167",
+    "book": "Actes",
+    "chapter": 25,
+    "verseRef": "Actes 25:22",
+    "verseText": "Voir Actes 25:22.",
+    "question": "Quel désir Agrippa exprime-t-il en apprenant l’affaire ?",
+    "choices": [
+      "Je voudrais aussi entendre cet homme",
+      "Je voudrais le condamner sans l’entendre",
+      "Je voudrais l’envoyer immédiatement à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 25:22 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-168",
+    "book": "Actes",
+    "chapter": 25,
+    "verseRef": "Actes 25:23",
+    "verseText": "Voir Actes 25:23.",
+    "question": "Comment Festus décrit-il l’entrée solennelle d’Agrippa et Bérénice pour l’audience ?",
+    "choices": [
+      "Avec une grande pompe, avec les tribuns et les principaux de la ville",
+      "En secret, de nuit, sans escorte",
+      "Avec les lévites portant des trompettes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 25:23 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-169",
+    "book": "Actes",
+    "chapter": 26,
+    "verseRef": "Actes 26:3",
+    "verseText": "Voir Actes 26:3.",
+    "question": "Quel privilège Paul sollicite-t-il au début de sa défense devant Agrippa ?",
+    "choices": [
+      "Qu’on l’écoute avec patience",
+      "Qu’on le libère sur-le-champ",
+      "Qu’on lui donne un poste de tribun"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 26:3 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-170",
+    "book": "Actes",
+    "chapter": 26,
+    "verseRef": "Actes 26:5",
+    "verseText": "Voir Actes 26:5.",
+    "question": "Comment Paul qualifie-t-il sa vie antérieure au sujet de sa secte ?",
+    "choices": [
+      "Il a vécu pharisien selon la secte la plus rigide",
+      "Il a vécu sadducéen selon la coutume romaine",
+      "Il a vécu samaritain dans l’ignorance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 26:5 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-171",
+    "book": "Actes",
+    "chapter": 26,
+    "verseRef": "Actes 26:6",
+    "verseText": "Voir Actes 26:6.",
+    "question": "Pour quelle espérance Paul dit-il être mis en jugement devant Agrippa ?",
+    "choices": [
+      "L’espérance de la promesse faite par Dieu à nos pères",
+      "L’espérance d’obtenir une charge romaine",
+      "L’espérance de bâtir un nouveau temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 26:6 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-172",
+    "book": "Actes",
+    "chapter": 26,
+    "verseRef": "Actes 26:8",
+    "verseText": "Voir Actes 26:8.",
+    "question": "Quel argument Paul lance-t-il au sujet de la résurrection dans sa défense ?",
+    "choices": [
+      "Pourquoi vous semble-t-il incroyable que Dieu ressuscite des morts ?",
+      "Pourquoi vous semble-t-il inutile de prier ?",
+      "Pourquoi vous semble-t-il nécessaire d’offrir des sacrifices ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 26:8 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-173",
+    "book": "Actes",
+    "chapter": 26,
+    "verseRef": "Actes 26:10",
+    "verseText": "Voir Actes 26:10.",
+    "question": "Quel acte Paul confesse-t-il avoir accompli contre le nom de Jésus de Nazareth ?",
+    "choices": [
+      "Il a enfermé en prison beaucoup de saints et a donné sa voix quand on les faisait mourir",
+      "Il a construit une synagogue en son honneur",
+      "Il a offert de l’argent aux apôtres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 26:10 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-174",
+    "book": "Actes",
+    "chapter": 26,
+    "verseRef": "Actes 26:10",
+    "verseText": "Voir Actes 26:10.",
+    "question": "Quel endroit Paul mentionne-t-il comme origine de son pouvoir d’agir contre les saints ?",
+    "choices": [
+      "Les principaux sacrificateurs",
+      "Le tribunal de César",
+      "Les philosophes d’Athènes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 26:10 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-175",
+    "book": "Actes",
+    "chapter": 26,
+    "verseRef": "Actes 26:13",
+    "verseText": "Voir Actes 26:13.",
+    "question": "Dans son récit, quel détail Paul donne-t-il sur la lumière qu’il voit sur le chemin ?",
+    "choices": [
+      "Elle brillait autour de lui, plus éclatante que le soleil",
+      "Elle brillait comme une lampe dans une maison",
+      "Elle brillait seulement au-dessus des montagnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 26:13 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-176",
+    "book": "Actes",
+    "chapter": 26,
+    "verseRef": "Actes 26:18",
+    "verseText": "Voir Actes 26:18.",
+    "question": "Quelle mission Jésus confie-t-il à Paul en le destinant aux nations, selon les paroles rapportées ?",
+    "choices": [
+      "Leur ouvrir les yeux, pour qu’ils passent des ténèbres à la lumière et de la puissance de Satan à Dieu",
+      "Leur apprendre la langue hébraïque",
+      "Leur imposer les rites de purification"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 26:18 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-177",
+    "book": "Actes",
+    "chapter": 26,
+    "verseRef": "Actes 26:19",
+    "verseText": "Voir Actes 26:19.",
+    "question": "Quelle réponse Paul donne-t-il au sujet de sa fidélité à cette vision ?",
+    "choices": [
+      "Je n’ai point résisté à la vision céleste",
+      "J’ai différé cette mission pendant des années",
+      "J’ai refusé d’aller vers les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 26:19 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-178",
+    "book": "Actes",
+    "chapter": 26,
+    "verseRef": "Actes 26:20",
+    "verseText": "Voir Actes 26:20.",
+    "question": "Quel résumé Paul donne-t-il du message qu’il annonce à tous ?",
+    "choices": [
+      "Qu’ils se repentissent, se convertissent à Dieu, et fissent des œuvres dignes de la repentance",
+      "Qu’ils observassent le sabbat et les nouvelles lunes seulement",
+      "Qu’ils montassent à Jérusalem et apportassent des dîmes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 26:20 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-179",
+    "book": "Actes",
+    "chapter": 26,
+    "verseRef": "Actes 26:22-23",
+    "verseText": "Voir Actes 26:22-23.",
+    "question": "Selon Paul, quel est le contenu des prophètes et de Moïse qu’il proclame au sujet du Christ ?",
+    "choices": [
+      "Que le Christ devait souffrir et, le premier, ressusciter des morts, annoncer la lumière au peuple et aux nations",
+      "Que le Christ devait régner sans souffrir et abolir toute loi",
+      "Que le Christ devait bâtir un temple de pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 26:22-23 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-180",
+    "book": "Actes",
+    "chapter": 28,
+    "verseRef": "Actes 28:1",
+    "verseText": "Voir Actes 28:1.",
+    "question": "Après le naufrage, sur quelle île les rescapés apprennent-ils qu’ils ont abordé ?",
+    "choices": [
+      "Malte",
+      "Chypre",
+      "Crète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 28:1 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-181",
+    "book": "Actes",
+    "chapter": 21,
+    "verseRef": "Actes 21:16",
+    "verseText": "Voir Actes 21:16.",
+    "question": "Quel homme de Chypre héberge Paul et ses compagnons lorsqu’ils montent à Jérusalem ?",
+    "choices": [
+      "Mnason, un ancien disciple",
+      "Corneille, un centenier",
+      "Jason, un Thessalonicien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 21:16 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-182",
+    "book": "Actes",
+    "chapter": 21,
+    "verseRef": "Actes 21:4",
+    "verseText": "Voir Actes 21:4.",
+    "question": "Dans quelle ville des disciples trouvent-ils Paul et ses compagnons, et restent-ils sept jours ?",
+    "choices": [
+      "Tyr",
+      "Antioche",
+      "Lystre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 21:4 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-183",
+    "book": "Actes",
+    "chapter": 21,
+    "verseRef": "Actes 21:8",
+    "verseText": "Voir Actes 21:8.",
+    "question": "Quel nom porte le prophète chez qui Paul descend à Césarée, décrit comme évangéliste ?",
+    "choices": [
+      "Philippe",
+      "Barnabas",
+      "Apollos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 21:8 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-184",
+    "book": "Actes",
+    "chapter": 21,
+    "verseRef": "Actes 21:9",
+    "verseText": "Voir Actes 21:9.",
+    "question": "Quel détail est donné au sujet des filles de Philippe ?",
+    "choices": [
+      "Elles étaient vierges et prophétisaient",
+      "Elles étaient mariées et jugeaient Israël",
+      "Elles étaient prêtresses au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 21:9 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-185",
+    "book": "Actes",
+    "chapter": 22,
+    "verseRef": "Actes 22:4",
+    "verseText": "Voir Actes 22:4.",
+    "question": "Quelle catégorie de personnes Paul affirme-t-il avoir persécutée autrefois, dans son récit au peuple ?",
+    "choices": [
+      "Ceux de cette Voie",
+      "Les soldats de César",
+      "Les philosophes grecs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 22:4 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-186",
+    "book": "Actes",
+    "chapter": 28,
+    "verseRef": "Actes 28:20",
+    "verseText": "Voir Actes 28:20.",
+    "question": "Lors de l’arrestation, quel objet Paul est-il enchaîné à porter, selon ses propres mots aux chefs des Juifs ?",
+    "choices": [
+      "Cette chaîne",
+      "Cette couronne",
+      "Cette tablette"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 28:20 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-187",
+    "book": "Actes",
+    "chapter": 22,
+    "verseRef": "Actes 22:28",
+    "verseText": "Voir Actes 22:28.",
+    "question": "Quel contraste le tribun fait-il au sujet de la citoyenneté romaine, et quelle est la réponse de Paul ?",
+    "choices": [
+      "Il dit l’avoir acquise à grand prix; Paul répond: Moi, je l’ai par naissance",
+      "Il dit l’avoir héritée; Paul répond: Moi, je l’ai achetée",
+      "Il dit l’avoir reçue par service; Paul répond: Moi, je l’ai volée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 22:28 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-188",
+    "book": "Actes",
+    "chapter": 22,
+    "verseRef": "Actes 22:25",
+    "verseText": "Voir Actes 22:25.",
+    "question": "Quel signe Paul demande-t-il quand on allait le lier pour le battre de verges ?",
+    "choices": [
+      "Si l’on peut battre de verges un citoyen romain, sans qu’il soit condamné",
+      "Si l’on peut le juger sans témoins",
+      "Si l’on peut le lapider hors de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 22:25 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-189",
+    "book": "Actes",
+    "chapter": 20,
+    "verseRef": "Actes 20:33",
+    "verseText": "Voir Actes 20:33.",
+    "question": "Quelle mesure Paul mentionne-t-il comme pratique personnelle face à l’annonce de l’Évangile ?",
+    "choices": [
+      "Il n’a convoité ni l’argent, ni l’or, ni les vêtements de personne",
+      "Il a réclamé des dons pour sa gloire",
+      "Il a exigé un salaire fixe de chaque Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 20:33 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-190",
+    "book": "Actes",
+    "chapter": 20,
+    "verseRef": "Actes 20:34",
+    "verseText": "Voir Actes 20:34.",
+    "question": "Quel exemple Paul cite-t-il pour montrer qu’il a travaillé de ses propres mains ?",
+    "choices": [
+      "Ces mains ont pourvu à mes besoins et à ceux des personnes qui étaient avec moi",
+      "Ces mains ont écrit la loi sur des tables",
+      "Ces mains ont offert des sacrifices au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 20:34 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-191",
+    "book": "Actes",
+    "chapter": 27,
+    "verseRef": "Actes 27:32",
+    "verseText": "Voir Actes 27:32.",
+    "question": "Dans le voyage par mer, que fait le centenier quand des marins veulent s’échapper du navire ?",
+    "choices": [
+      "Il fait couper les cordes de la chaloupe et la laisse tomber",
+      "Il ordonne de brûler la chaloupe",
+      "Il fait attacher la chaloupe au mât"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 27:32 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-192",
+    "book": "Actes",
+    "chapter": 27,
+    "verseRef": "Actes 27:31",
+    "verseText": "Voir Actes 27:31.",
+    "question": "Quel avertissement Paul donne-t-il au centenier et aux soldats au sujet des marins ?",
+    "choices": [
+      "Si ces hommes ne restent pas dans le navire, vous ne pouvez être sauvés",
+      "Si ces hommes restent, vous périrez tous",
+      "Si ces hommes partent, le vent tombera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 27:31 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-193",
+    "book": "Actes",
+    "chapter": 27,
+    "verseRef": "Actes 27:33",
+    "verseText": "Voir Actes 27:33.",
+    "question": "Quel temps Paul mentionne-t-il quand il encourage tous les passagers à prendre de la nourriture ?",
+    "choices": [
+      "C’est aujourd’hui le quatorzième jour que, dans l’attente, vous avez passé ces jours sans manger",
+      "C’est aujourd’hui le septième jour que vous jeûnez",
+      "C’est aujourd’hui le troisième jour que vous êtes sans eau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 27:33 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-194",
+    "book": "Actes",
+    "chapter": 27,
+    "verseRef": "Actes 27:42-43",
+    "verseText": "Voir Actes 27:42-43.",
+    "question": "Quel acte les soldats veulent-ils faire aux prisonniers, et qu’est-ce qui l’empêche ?",
+    "choices": [
+      "Les tuer; mais le centenier veut sauver Paul",
+      "Les libérer; mais le pilote s’y oppose",
+      "Les enchaîner au mât; mais la foule refuse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 27:42-43 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-195",
+    "book": "Actes",
+    "chapter": 28,
+    "verseRef": "Actes 28:3",
+    "verseText": "Voir Actes 28:3.",
+    "question": "Après avoir échappé au naufrage, quel animal s’attache à la main de Paul près du feu ?",
+    "choices": [
+      "Une vipère",
+      "Un scorpion",
+      "Un lézard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 28:3 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-196",
+    "book": "Actes",
+    "chapter": 28,
+    "verseRef": "Actes 28:6",
+    "verseText": "Voir Actes 28:6.",
+    "question": "Quelle réaction les habitants attendent-ils d’abord en voyant la vipère sur Paul ?",
+    "choices": [
+      "Qu’il enfle ou tombe subitement mort",
+      "Qu’il perde la vue",
+      "Qu’il devienne muet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 28:6 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-197",
+    "book": "Actes",
+    "chapter": 28,
+    "verseRef": "Actes 28:6",
+    "verseText": "Voir Actes 28:6.",
+    "question": "Quel changement d’avis les habitants manifestent-ils après avoir longtemps attendu sans voir de mal à Paul ?",
+    "choices": [
+      "Ils changent d’avis et disent que c’est un dieu",
+      "Ils changent d’avis et disent qu’il est un meurtrier",
+      "Ils changent d’avis et le livrent aux soldats"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 28:6 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-198",
+    "book": "Actes",
+    "chapter": 28,
+    "verseRef": "Actes 28:7",
+    "verseText": "Voir Actes 28:7.",
+    "question": "Comment s’appelle le premier de l’île qui reçoit Paul et ses compagnons avec bienveillance ?",
+    "choices": [
+      "Publius",
+      "Julius",
+      "Félix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 28:7 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-199",
+    "book": "Actes",
+    "chapter": 28,
+    "verseRef": "Actes 28:8",
+    "verseText": "Voir Actes 28:8.",
+    "question": "De quelle maladie souffre le père de Publius, selon le récit ?",
+    "choices": [
+      "Il était au lit, atteint de la fièvre et de la dysenterie",
+      "Il était lépreux et aveugle",
+      "Il était paralysé et muet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 28:8 (LSG 1910)."
+  },
+  {
+    "id": "actes-N-200",
+    "book": "Actes",
+    "chapter": 28,
+    "verseRef": "Actes 28:11",
+    "verseText": "Voir Actes 28:11.",
+    "question": "Quel signe figure sur le navire d’Alexandrie qui emporte Paul après l’hivernage ?",
+    "choices": [
+      "Les Dioscures",
+      "L’aigle de César",
+      "Le lion de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 28:11 (LSG 1910)."
+  }
+]

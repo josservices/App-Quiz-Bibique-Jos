@@ -1,0 +1,2606 @@
+[
+  {
+    "id": "jeremie-D-001",
+    "book": "Jérémie",
+    "chapter": 1,
+    "verseRef": "Jérémie 1:1",
+    "verseText": "Voir Jérémie 1:1.",
+    "question": "Quel est le nom du père de Jérémie, selon le début du livre ?",
+    "choices": [
+      "Hilkija",
+      "Schaphan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 1:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-002",
+    "book": "Jérémie",
+    "chapter": 1,
+    "verseRef": "Jérémie 1:1",
+    "verseText": "Voir Jérémie 1:1.",
+    "question": "De quelle ville sont les sacrificateurs dont Jérémie est issu ?",
+    "choices": [
+      "Anathoth",
+      "Béthel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 1:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-003",
+    "book": "Jérémie",
+    "chapter": 29,
+    "verseRef": "Jérémie 29:10",
+    "verseText": "Voir Jérémie 29:10.",
+    "question": "Quelle durée exacte est annoncée pour l’accomplissement de la visite de Dieu à son peuple au sujet de Babylone ?",
+    "choices": [
+      "Soixante-dix ans",
+      "Trente ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 29:10 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-004",
+    "book": "Jérémie",
+    "chapter": 1,
+    "verseRef": "Jérémie 1:14",
+    "verseText": "Voir Jérémie 1:14.",
+    "question": "Dans la vision de la chaudière bouillante, d’où le malheur est-il déclaré se répandre ?",
+    "choices": [
+      "Du septentrion",
+      "Du midi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 1:14 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-005",
+    "book": "Jérémie",
+    "chapter": 1,
+    "verseRef": "Jérémie 1:12",
+    "verseText": "Voir Jérémie 1:12.",
+    "question": "Quel verbe est employé quand l’Éternel « veille » sur sa parole ?",
+    "choices": [
+      "« Je veille sur ma parole, pour l’exécuter »",
+      "« Je dors sur ma parole, pour l’oublier »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 1:12 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-006",
+    "book": "Jérémie",
+    "chapter": 6,
+    "verseRef": "Jérémie 6:14",
+    "verseText": "Voir Jérémie 6:14.",
+    "question": "Quelle formule l’Éternel répète-t-il en dénonçant l’illusion du peuple : « … » ?",
+    "choices": [
+      "« Paix ! paix ! » quand il n’y a point de paix",
+      "« Force ! force ! » quand il y a faiblesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 6:14 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-007",
+    "book": "Jérémie",
+    "chapter": 25,
+    "verseRef": "Jérémie 25:18",
+    "verseText": "Voir Jérémie 25:18.",
+    "question": "Quel peuple est spécifiquement nommé parmi ceux à qui la « coupe » doit être donnée en premier ?",
+    "choices": [
+      "Jérusalem et les villes de Juda",
+      "Les îles lointaines seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 25:18 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-008",
+    "book": "Jérémie",
+    "chapter": 36,
+    "verseRef": "Jérémie 36:23",
+    "verseText": "Voir Jérémie 36:23.",
+    "question": "Quel roi de Juda coupe le rouleau avec le canif du secrétaire avant de le jeter au feu ?",
+    "choices": [
+      "Jojakim",
+      "Sédécias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 36:23 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-009",
+    "book": "Jérémie",
+    "chapter": 36,
+    "verseRef": "Jérémie 36:10",
+    "verseText": "Voir Jérémie 36:10.",
+    "question": "Qui lit publiquement les paroles du rouleau dans la maison de l’Éternel ?",
+    "choices": [
+      "Baruc",
+      "Ébed-Mélec"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 36:10 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-010",
+    "book": "Jérémie",
+    "chapter": 24,
+    "verseRef": "Jérémie 24:5",
+    "verseText": "Voir Jérémie 24:5.",
+    "question": "Dans la parabole des deux corbeilles de figues, quelles figues représentent ceux que Dieu regarde favorablement ?",
+    "choices": [
+      "Les bonnes figues",
+      "Les figues mauvaises"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 24:5 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-011",
+    "book": "Jérémie",
+    "chapter": 20,
+    "verseRef": "Jérémie 20:3",
+    "verseText": "Voir Jérémie 20:3.",
+    "question": "Quel nom exact Jérémie annonce-t-il à Paschhur après l’avoir dénoncé ?",
+    "choices": [
+      "Magor-Missabib",
+      "Merodac-Baladan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 20:3 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-012",
+    "book": "Jérémie",
+    "chapter": 28,
+    "verseRef": "Jérémie 28:13",
+    "verseText": "Voir Jérémie 28:13.",
+    "question": "Quel matériau du « joug » brisé est remplacé par un autre selon la parole de l’Éternel ?",
+    "choices": [
+      "Bois remplacé par fer",
+      "Fer remplacé par bois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 28:13 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-013",
+    "book": "Jérémie",
+    "chapter": 28,
+    "verseRef": "Jérémie 28:1-3",
+    "verseText": "Voir Jérémie 28:1-3.",
+    "question": "Qui prophétise : « Encore deux années… » au sujet des ustensiles de la maison de l’Éternel ?",
+    "choices": [
+      "Hanania, fils d’Azzur",
+      "Urie, fils de Schemaeja"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 28:1-3 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-014",
+    "book": "Jérémie",
+    "chapter": 36,
+    "verseRef": "Jérémie 36:4",
+    "verseText": "Voir Jérémie 36:4.",
+    "question": "Quel est le nom du scribe qui accompagne Jérémie dans l’écriture des paroles ?",
+    "choices": [
+      "Baruc, fils de Néria",
+      "Guedalia, fils d’Achikam"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 36:4 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-015",
+    "book": "Jérémie",
+    "chapter": 32,
+    "verseRef": "Jérémie 32:7-8",
+    "verseText": "Voir Jérémie 32:7-8.",
+    "question": "Quel est le nom du parent qui vend à Jérémie le champ à Anathoth ?",
+    "choices": [
+      "Hanameel, fils de Schallum",
+      "Jochanan, fils de Karéach"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 32:7-8 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-016",
+    "book": "Jérémie",
+    "chapter": 32,
+    "verseRef": "Jérémie 32:14",
+    "verseText": "Voir Jérémie 32:14.",
+    "question": "Où les titres d’achat sont-ils conservés après la transaction ?",
+    "choices": [
+      "Dans un vase de terre",
+      "Sous l’autel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 32:14 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-017",
+    "book": "Jérémie",
+    "chapter": 23,
+    "verseRef": "Jérémie 23:6",
+    "verseText": "Voir Jérémie 23:6.",
+    "question": "Quelle expression désigne le futur roi issu de David : « … » ?",
+    "choices": [
+      "« L’Éternel, notre justice »",
+      "« L’Éternel, notre vengeance »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 23:6 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-018",
+    "book": "Jérémie",
+    "chapter": 31,
+    "verseRef": "Jérémie 31:33",
+    "verseText": "Voir Jérémie 31:33.",
+    "question": "Quelle formule introduit la nouvelle alliance : « Je mettrai ma loi… »",
+    "choices": [
+      "« …au dedans d’eux »",
+      "« …sur des tables de pierre seulement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:33 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-019",
+    "book": "Jérémie",
+    "chapter": 31,
+    "verseRef": "Jérémie 31:35-36",
+    "verseText": "Voir Jérémie 31:35-36.",
+    "question": "Quel signe cosmique est cité comme garantie que la postérité d’Israël ne cessera pas d’être une nation ?",
+    "choices": [
+      "Les lois du soleil, de la lune et des étoiles",
+      "La force des armées de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:35-36 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-020",
+    "book": "Jérémie",
+    "chapter": 38,
+    "verseRef": "Jérémie 38:7-13",
+    "verseText": "Voir Jérémie 38:7-13.",
+    "question": "Qui intervient pour tirer Jérémie de la citerne où il enfonçait dans la boue ?",
+    "choices": [
+      "Ébed-Mélec, l’Éthiopien",
+      "Nébucadnetsar, roi de Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 38:7-13 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-021",
+    "book": "Jérémie",
+    "chapter": 38,
+    "verseRef": "Jérémie 38:11-12",
+    "verseText": "Voir Jérémie 38:11-12.",
+    "question": "De quoi Ébed-Mélec se sert-il pour éviter de blesser Jérémie avec les cordes ?",
+    "choices": [
+      "Des haillons et des vieux vêtements",
+      "Des coussins neufs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 38:11-12 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-022",
+    "book": "Jérémie",
+    "chapter": 40,
+    "verseRef": "Jérémie 40:2-3",
+    "verseText": "Voir Jérémie 40:2-3.",
+    "question": "Quel chef de la garde babylonienne reconnaît l’accomplissement de la parole de l’Éternel ?",
+    "choices": [
+      "Nébuzaradan",
+      "Ismaël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 40:2-3 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-023",
+    "book": "Jérémie",
+    "chapter": 40,
+    "verseRef": "Jérémie 40:5",
+    "verseText": "Voir Jérémie 40:5.",
+    "question": "Qui est établi gouverneur sur le pays par le roi de Babylone ?",
+    "choices": [
+      "Guedalia, fils d’Achikam",
+      "Paschhur, fils d’Immer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 40:5 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-024",
+    "book": "Jérémie",
+    "chapter": 41,
+    "verseRef": "Jérémie 41:2",
+    "verseText": "Voir Jérémie 41:2.",
+    "question": "Quel homme frappe Guedalia à Mitspa et le tue ?",
+    "choices": [
+      "Ismaël, fils de Nethania",
+      "Hanania, fils d’Azzur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 41:2 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-025",
+    "book": "Jérémie",
+    "chapter": 42,
+    "verseRef": "Jérémie 42:16-17",
+    "verseText": "Voir Jérémie 42:16-17.",
+    "question": "Quel avertissement Jérémie donne-t-il à ceux qui veulent descendre en Égypte ?",
+    "choices": [
+      "L’épée, la famine et la peste les atteindront",
+      "Ils auront la paix sans condition"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 42:16-17 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-026",
+    "book": "Jérémie",
+    "chapter": 43,
+    "verseRef": "Jérémie 43:9-10",
+    "verseText": "Voir Jérémie 43:9-10.",
+    "question": "À Tachpanès, où Jérémie cache-t-il les grandes pierres comme signe ?",
+    "choices": [
+      "Dans l’argile à l’entrée de la maison de Pharaon",
+      "Au fond d’un puits à Mitspa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 43:9-10 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-027",
+    "book": "Jérémie",
+    "chapter": 5,
+    "verseRef": "Jérémie 5:8",
+    "verseText": "Voir Jérémie 5:8.",
+    "question": "Quel animal est explicitement cité dans l’image : « des chevaux… » décrivant l’ardeur du peuple ?",
+    "choices": [
+      "Des chevaux échauffés",
+      "Des brebis muettes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 5:8 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-028",
+    "book": "Jérémie",
+    "chapter": 17,
+    "verseRef": "Jérémie 17:9",
+    "verseText": "Voir Jérémie 17:9.",
+    "question": "Quelle parole résume l’état du cœur humain selon Jérémie ?",
+    "choices": [
+      "« Tortueux par-dessus tout, et méchant »",
+      "« Pur par-dessus tout, et fidèle »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 17:9 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-029",
+    "book": "Jérémie",
+    "chapter": 16,
+    "verseRef": "Jérémie 16:5",
+    "verseText": "Voir Jérémie 16:5.",
+    "question": "Quel interdit concerne Jérémie au sujet des lamentations dans une maison de deuil ?",
+    "choices": [
+      "Ne pas y entrer, ne pas mener de deuil ni de lamentations",
+      "Y entrer chaque jour pour chanter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 16:5 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-030",
+    "book": "Jérémie",
+    "chapter": 18,
+    "verseRef": "Jérémie 18:4",
+    "verseText": "Voir Jérémie 18:4.",
+    "question": "Dans l’épisode du potier, que devient le vase « manqué » ?",
+    "choices": [
+      "Il est refait en un autre vase",
+      "Il est gardé tel quel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 18:4 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-031",
+    "book": "Jérémie",
+    "chapter": 23,
+    "verseRef": "Jérémie 23:14",
+    "verseText": "Voir Jérémie 23:14.",
+    "question": "Quelle accusation est faite contre les prophètes : ils « fortifient… » quoi ?",
+    "choices": [
+      "Les mains des méchants",
+      "Les bras des justes seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 23:14 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-032",
+    "book": "Jérémie",
+    "chapter": 6,
+    "verseRef": "Jérémie 6:14",
+    "verseText": "Voir Jérémie 6:14.",
+    "question": "Quel mot est donné comme mot d’ordre trompeur au peuple : « … » ?",
+    "choices": [
+      "« Paix ! »",
+      "« Guerre ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 6:14 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-033",
+    "book": "Jérémie",
+    "chapter": 44,
+    "verseRef": "Jérémie 44:17-19",
+    "verseText": "Voir Jérémie 44:17-19.",
+    "question": "Quel acte religieux est dénoncé : brûler de l’encens… à qui ?",
+    "choices": [
+      "À la reine du ciel",
+      "À l’Éternel seul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 44:17-19 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-034",
+    "book": "Jérémie",
+    "chapter": 50,
+    "verseRef": "Jérémie 50:1",
+    "verseText": "Voir Jérémie 50:1.",
+    "question": "Quel peuple est nommément visé par une grande prophétie de jugement qui inclut une chute spectaculaire (chapitres 50–51) ?",
+    "choices": [
+      "Babylone",
+      "Ninive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 50:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-035",
+    "book": "Jérémie",
+    "chapter": 32,
+    "verseRef": "Jérémie 32:9",
+    "verseText": "Voir Jérémie 32:9.",
+    "question": "Quel objet Jérémie doit-il « acheter » comme signe de restauration future pendant la crise ?",
+    "choices": [
+      "Un champ",
+      "Un palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 32:9 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-036",
+    "book": "Jérémie",
+    "chapter": 40,
+    "verseRef": "Jérémie 40:6",
+    "verseText": "Voir Jérémie 40:6.",
+    "question": "Quel est le nom du lieu où Guedalia s’installe comme gouverneur ?",
+    "choices": [
+      "Mitspa",
+      "Hébron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 40:6 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-037",
+    "book": "Jérémie",
+    "chapter": 20,
+    "verseRef": "Jérémie 20:9",
+    "verseText": "Voir Jérémie 20:9.",
+    "question": "Que dit Jérémie au sujet de la Parole qui l’embrase intérieurement quand il veut se retenir de parler ?",
+    "choices": [
+      "Elle est comme un feu dévorant renfermé dans ses os",
+      "Elle est comme une eau froide sur sa langue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 20:9 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-038",
+    "book": "Jérémie",
+    "chapter": 20,
+    "verseRef": "Jérémie 20:7",
+    "verseText": "Voir Jérémie 20:7.",
+    "question": "Quand Jérémie se plaint d’avoir été « séduit », quel terme fort emploie-t-il dans le passage suivant ?",
+    "choices": [
+      "« Tu m’as saisi, tu m’as vaincu »",
+      "« Tu m’as oublié, tu m’as abandonné »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 20:7 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-039",
+    "book": "Jérémie",
+    "chapter": 2,
+    "verseRef": "Jérémie 2:13",
+    "verseText": "Voir Jérémie 2:13.",
+    "question": "Quel thème central revient : l’Éternel est « la source… » de quoi ?",
+    "choices": [
+      "D’eau vive",
+      "De pluie d’été"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 2:13 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-040",
+    "book": "Jérémie",
+    "chapter": 7,
+    "verseRef": "Jérémie 7:5-7",
+    "verseText": "Voir Jérémie 7:5-7.",
+    "question": "Dans le message au temple, que doit cesser le peuple pour que Dieu le laisse demeurer dans le lieu ?",
+    "choices": [
+      "Opprimer l’étranger, l’orphelin et la veuve, et répandre le sang innocent",
+      "Planter des vignes sur les collines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 7:5-7 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-041",
+    "book": "Jérémie",
+    "chapter": 7,
+    "verseRef": "Jérémie 7:31",
+    "verseText": "Voir Jérémie 7:31.",
+    "question": "Quel lieu est lié au nom « Topheth » dans Jérémie ?",
+    "choices": [
+      "La vallée de Ben-Hinnom",
+      "La plaine de Moré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 7:31 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-042",
+    "book": "Jérémie",
+    "chapter": 7,
+    "verseRef": "Jérémie 7:4",
+    "verseText": "Voir Jérémie 7:4.",
+    "question": "Quelle expression répétée trois fois signale une fausse sécurité religieuse ?",
+    "choices": [
+      "« Temple de l’Éternel ! Temple de l’Éternel ! Temple de l’Éternel ! »",
+      "« Gloire à Juda ! Gloire à Juda ! Gloire à Juda ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 7:4 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-043",
+    "book": "Jérémie",
+    "chapter": 17,
+    "verseRef": "Jérémie 17:10",
+    "verseText": "Voir Jérémie 17:10.",
+    "question": "Selon Jérémie, qui peut comprendre pleinement le cœur humain ?",
+    "choices": [
+      "L’Éternel, qui sonde le cœur et qui éprouve les reins",
+      "Les sacrificateurs de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 17:10 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-044",
+    "book": "Jérémie",
+    "chapter": 17,
+    "verseRef": "Jérémie 17:5-7",
+    "verseText": "Voir Jérémie 17:5-7.",
+    "question": "Quel contraste est donné entre l’homme qui se confie dans l’homme et celui qui se confie en l’Éternel ?",
+    "choices": [
+      "Maudit / Béni",
+      "Fort / Faible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 17:5-7 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-045",
+    "book": "Jérémie",
+    "chapter": 27,
+    "verseRef": "Jérémie 27:2-3",
+    "verseText": "Voir Jérémie 27:2-3.",
+    "question": "Quel instrument symbolique Jérémie doit-il envoyer aux rois par des messagers ?",
+    "choices": [
+      "Liens et jougs",
+      "Couronnes et sceptres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 27:2-3 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-046",
+    "book": "Jérémie",
+    "chapter": 27,
+    "verseRef": "Jérémie 27:8",
+    "verseText": "Voir Jérémie 27:8.",
+    "question": "Quel jugement est annoncé contre les nations qui refuseront de mettre leur cou sous le joug du roi de Babylone ?",
+    "choices": [
+      "Elles seront punies par l’épée, la famine et la peste",
+      "Elles recevront des récoltes abondantes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 27:8 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-047",
+    "book": "Jérémie",
+    "chapter": 45,
+    "verseRef": "Jérémie 45:5",
+    "verseText": "Voir Jérémie 45:5.",
+    "question": "Quelle parole l’Éternel donne-t-il à Baruc : sa vie lui sera donnée comme quoi ?",
+    "choices": [
+      "Pour butin",
+      "Pour couronne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 45:5 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-048",
+    "book": "Jérémie",
+    "chapter": 21,
+    "verseRef": "Jérémie 21:2",
+    "verseText": "Voir Jérémie 21:2.",
+    "question": "Quel est le nom du roi de Babylone mentionné au début du livre dans le cadre des invasions ?",
+    "choices": [
+      "Nébucadnetsar",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 21:2 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-049",
+    "book": "Jérémie",
+    "chapter": 25,
+    "verseRef": "Jérémie 25:15-26",
+    "verseText": "Voir Jérémie 25:15-26.",
+    "question": "Quel « nombre » de rois et de nations est évoqué implicitement par l’idée que la coupe circule « de nation en nation » ?",
+    "choices": [
+      "Beaucoup de nations (liste étendue)",
+      "Une seule nation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 25:15-26 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-050",
+    "book": "Jérémie",
+    "chapter": 29,
+    "verseRef": "Jérémie 29:5-7",
+    "verseText": "Voir Jérémie 29:5-7.",
+    "question": "Dans la lettre aux exilés, quel conseil pratique est donné concernant la vie en exil ?",
+    "choices": [
+      "Bâtir des maisons, planter des jardins, prendre des femmes et chercher la paix de la ville",
+      "Se cacher dans le désert et refuser tout travail"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 29:5-7 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-051",
+    "book": "Jérémie",
+    "chapter": 2,
+    "verseRef": "Jérémie 2:13",
+    "verseText": "Voir Jérémie 2:13.",
+    "question": "Quel mot décrit les citernes que le peuple s’est creusées au lieu de la source d’eau vive ?",
+    "choices": [
+      "Crevassées",
+      "Scellées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 2:13 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-052",
+    "book": "Jérémie",
+    "chapter": 7,
+    "verseRef": "Jérémie 7:26",
+    "verseText": "Voir Jérémie 7:26.",
+    "question": "Quel verbe est utilisé pour décrire le refus obstiné : « Ils ont… » quoi ?",
+    "choices": [
+      "« Raidi leur cou »",
+      "« Élevé leur voix »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 7:26 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-053",
+    "book": "Jérémie",
+    "chapter": 36,
+    "verseRef": "Jérémie 36:23",
+    "verseText": "Voir Jérémie 36:23.",
+    "question": "Quel acte précis le roi accomplit envers le rouleau : il le jette où ?",
+    "choices": [
+      "Dans le feu du brasier",
+      "Dans l’eau d’une citerne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 36:23 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-054",
+    "book": "Jérémie",
+    "chapter": 38,
+    "verseRef": "Jérémie 38:13",
+    "verseText": "Voir Jérémie 38:13.",
+    "question": "Quand Jérémie est remonté de la citerne, dans quel lieu est-il dans le passage suivant gardé ?",
+    "choices": [
+      "Dans la cour de la prison",
+      "Dans le palais du roi de Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 38:13 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-055",
+    "book": "Jérémie",
+    "chapter": 40,
+    "verseRef": "Jérémie 40:13-14",
+    "verseText": "Voir Jérémie 40:13-14.",
+    "question": "Qui avertit Guedalia d’un complot, mais n’est pas cru ?",
+    "choices": [
+      "Jochanan, fils de Karéach",
+      "Hanania, fils d’Azzur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 40:13-14 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-056",
+    "book": "Jérémie",
+    "chapter": 43,
+    "verseRef": "Jérémie 43:7-8",
+    "verseText": "Voir Jérémie 43:7-8.",
+    "question": "Quel est le nom du lieu d’Égypte où le peuple se rend malgré l’avertissement ?",
+    "choices": [
+      "Tachpanès",
+      "Memphis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 43:7-8 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-057",
+    "book": "Jérémie",
+    "chapter": 31,
+    "verseRef": "Jérémie 31:9",
+    "verseText": "Voir Jérémie 31:9.",
+    "question": "Dans les promesses de restauration, quel mot est utilisé pour parler du retour « avec… » ?",
+    "choices": [
+      "Des supplications",
+      "Des menaces"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:9 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-058",
+    "book": "Jérémie",
+    "chapter": 15,
+    "verseRef": "Jérémie 15:1",
+    "verseText": "Voir Jérémie 15:1.",
+    "question": "Quel jugement est annoncé : même si Moïse et Samuel se tenaient devant Dieu, que se passerait-il ?",
+    "choices": [
+      "Dieu ne se montrerait pas favorable à ce peuple",
+      "Dieu annulerait tout jugement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 15:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-059",
+    "book": "Jérémie",
+    "chapter": 7,
+    "verseRef": "Jérémie 7:34",
+    "verseText": "Voir Jérémie 7:34.",
+    "question": "Quel symbole de joie est dit disparaître à cause du jugement : « la voix… » ?",
+    "choices": [
+      "Du fiancé et de la fiancée",
+      "Du laboureur et du semeur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 7:34 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-060",
+    "book": "Jérémie",
+    "chapter": 23,
+    "verseRef": "Jérémie 23:16",
+    "verseText": "Voir Jérémie 23:16.",
+    "question": "Quel terme décrit la parole mensongère des prophètes : « … » ?",
+    "choices": [
+      "La vanité",
+      "La fidélité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 23:16 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-061",
+    "book": "Jérémie",
+    "chapter": 6,
+    "verseRef": "Jérémie 6:10",
+    "verseText": "Voir Jérémie 6:10.",
+    "question": "Quel détail précis Jérémie cite-t-il sur l’état des oreilles du peuple face à la parole ?",
+    "choices": [
+      "Elles sont incirconcises",
+      "Elles sont guéries"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 6:10 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-062",
+    "book": "Jérémie",
+    "chapter": 10,
+    "verseRef": "Jérémie 10:5",
+    "verseText": "Voir Jérémie 10:5.",
+    "question": "Dans l’image de l’idole comme un épouvantail, où est placé cet épouvantail ?",
+    "choices": [
+      "Dans un champ de concombres",
+      "Sur une montagne de Sion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 10:5 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-063",
+    "book": "Jérémie",
+    "chapter": 10,
+    "verseRef": "Jérémie 10:7",
+    "verseText": "Voir Jérémie 10:7.",
+    "question": "Quel titre exact est donné à l’Éternel au sujet des nations dans Jérémie 10 ?",
+    "choices": [
+      "Roi des nations",
+      "Roi d’Israël seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 10:7 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-064",
+    "book": "Jérémie",
+    "chapter": 26,
+    "verseRef": "Jérémie 26:18",
+    "verseText": "Voir Jérémie 26:18.",
+    "question": "Quel prophète est mentionné comme ayant annoncé autrefois la ruine de Jérusalem sous Ézéchias ?",
+    "choices": [
+      "Michée de Moréscheth",
+      "Ésaïe de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 26:18 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-065",
+    "book": "Jérémie",
+    "chapter": 26,
+    "verseRef": "Jérémie 26:20-23",
+    "verseText": "Voir Jérémie 26:20-23.",
+    "question": "Quel est le nom du prophète mis à mort après avoir été ramené d’Égypte ?",
+    "choices": [
+      "Urie, fils de Schemaeja",
+      "Hanania, fils d’Azzur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 26:20-23 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-066",
+    "book": "Jérémie",
+    "chapter": 17,
+    "verseRef": "Jérémie 17:21",
+    "verseText": "Voir Jérémie 17:21.",
+    "question": "Dans l’ordre sur le sabbat, que ne doit-on pas faire passer « par les portes » de Jérusalem ?",
+    "choices": [
+      "Un fardeau",
+      "Un encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 17:21 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-067",
+    "book": "Jérémie",
+    "chapter": 17,
+    "verseRef": "Jérémie 17:27",
+    "verseText": "Voir Jérémie 17:27.",
+    "question": "Quelle menace précise accompagne la profanation du sabbat ?",
+    "choices": [
+      "Un feu qui dévorera les portes de Jérusalem et ne s’éteindra point",
+      "Une pluie qui ne cessera point"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 17:27 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-068",
+    "book": "Jérémie",
+    "chapter": 22,
+    "verseRef": "Jérémie 22:13",
+    "verseText": "Voir Jérémie 22:13.",
+    "question": "Dans la parole contre le roi qui bâtit avec injustice, quel mot décrit le salaire retenu ?",
+    "choices": [
+      "« sans lui payer son salaire »",
+      "« en doublant son salaire »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 22:13 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-069",
+    "book": "Jérémie",
+    "chapter": 23,
+    "verseRef": "Jérémie 23:28",
+    "verseText": "Voir Jérémie 23:28.",
+    "question": "Dans la dénonciation des prophètes, quelle comparaison est donnée entre « paille » et « blé » ?",
+    "choices": [
+      "La paille n’a rien de commun avec le blé",
+      "La paille est supérieure au blé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 23:28 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-070",
+    "book": "Jérémie",
+    "chapter": 23,
+    "verseRef": "Jérémie 23:29",
+    "verseText": "Voir Jérémie 23:29.",
+    "question": "Dans le même passage, la parole de l’Éternel est comparée à quel outil qui brise ?",
+    "choices": [
+      "Un marteau qui brise le roc",
+      "Une scie qui taille le bois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 23:29 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-071",
+    "book": "Jérémie",
+    "chapter": 23,
+    "verseRef": "Jérémie 23:29",
+    "verseText": "Voir Jérémie 23:29.",
+    "question": "Quelle autre comparaison apparaît dans Jérémie 23:29, en plus du marteau ?",
+    "choices": [
+      "Un feu",
+      "Une rosée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 23:29 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-072",
+    "book": "Jérémie",
+    "chapter": 19,
+    "verseRef": "Jérémie 19:1",
+    "verseText": "Voir Jérémie 19:1.",
+    "question": "Dans le signe de la cruche, devant qui Jérémie doit-il accomplir l’acte symbolique ?",
+    "choices": [
+      "Devant les anciens du peuple et des anciens des sacrificateurs",
+      "Devant les rois d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 19:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-073",
+    "book": "Jérémie",
+    "chapter": 19,
+    "verseRef": "Jérémie 19:2",
+    "verseText": "Voir Jérémie 19:2.",
+    "question": "À quelle porte Jérémie doit-il se rendre pour proclamer ce message de jugement avec la cruche ?",
+    "choices": [
+      "À l’entrée de la porte de Poterie",
+      "À la porte des Brebis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 19:2 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-074",
+    "book": "Jérémie",
+    "chapter": 19,
+    "verseRef": "Jérémie 19:10",
+    "verseText": "Voir Jérémie 19:10.",
+    "question": "Quel verbe décrit l’acte final sur la cruche devant les hommes qui l’accompagnent ?",
+    "choices": [
+      "La briser",
+      "La réparer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 19:10 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-075",
+    "book": "Jérémie",
+    "chapter": 2,
+    "verseRef": "Jérémie 2:22",
+    "verseText": "Voir Jérémie 2:22.",
+    "question": "Quel argument est donné sur l’impossibilité d’effacer le péché par des moyens humains ?",
+    "choices": [
+      "Même avec du nitre et beaucoup de potasse, l’iniquité reste marquée",
+      "Même avec de l’or pur, l’iniquité s’efface"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 2:22 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-076",
+    "book": "Jérémie",
+    "chapter": 13,
+    "verseRef": "Jérémie 13:18",
+    "verseText": "Voir Jérémie 13:18.",
+    "question": "Quel détail Jérémie cite-t-il sur la position humiliée des autorités : « Le roi et la reine… » ?",
+    "choices": [
+      "Ils s’assiéront par terre",
+      "Ils monteront au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 13:18 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-077",
+    "book": "Jérémie",
+    "chapter": 31,
+    "verseRef": "Jérémie 31:15",
+    "verseText": "Voir Jérémie 31:15.",
+    "question": "Dans la promesse de restauration, quel personnage est présenté comme pleurant ses enfants ?",
+    "choices": [
+      "Rachel",
+      "Débora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:15 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-078",
+    "book": "Jérémie",
+    "chapter": 23,
+    "verseRef": "Jérémie 23:6",
+    "verseText": "Voir Jérémie 23:6.",
+    "question": "Quel nom est donné au futur roi issu de David, dans une formule courte ?",
+    "choices": [
+      "L’Éternel, notre justice",
+      "L’Éternel, notre force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 23:6 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-079",
+    "book": "Jérémie",
+    "chapter": 32,
+    "verseRef": "Jérémie 32:7-8",
+    "verseText": "Voir Jérémie 32:7-8.",
+    "question": "Dans l’achat du champ, quel est le nom exact du parent vendeur ?",
+    "choices": [
+      "Hanameel, fils de Schallum",
+      "Ismaël, fils de Nethania"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 32:7-8 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-080",
+    "book": "Jérémie",
+    "chapter": 32,
+    "verseRef": "Jérémie 32:14",
+    "verseText": "Voir Jérémie 32:14.",
+    "question": "Quel ordre précis est donné concernant les titres d’achat après qu’ils aient été scellés ?",
+    "choices": [
+      "Les mettre dans un vase de terre, afin qu’ils se conservent longtemps",
+      "Les brûler pour éviter qu’ils soient volés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 32:14 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-081",
+    "book": "Jérémie",
+    "chapter": 32,
+    "verseRef": "Jérémie 32:17",
+    "verseText": "Voir Jérémie 32:17.",
+    "question": "Quel détail Jérémie prononce-t-il dans sa prière sur la puissance de Dieu : « … » ?",
+    "choices": [
+      "« Rien n’est étonnant de ta part »",
+      "« Rien n’est possible de ta part »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 32:17 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-082",
+    "book": "Jérémie",
+    "chapter": 32,
+    "verseRef": "Jérémie 32:39",
+    "verseText": "Voir Jérémie 32:39.",
+    "question": "Quel don spirituel Dieu promet-il au peuple restauré pour marcher fidèlement ?",
+    "choices": [
+      "Un même cœur et une même voie",
+      "Deux lois opposées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 32:39 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-083",
+    "book": "Jérémie",
+    "chapter": 32,
+    "verseRef": "Jérémie 32:40",
+    "verseText": "Voir Jérémie 32:40.",
+    "question": "Dans la même promesse, que dit Dieu qu’il mettra « dans leur cœur » ?",
+    "choices": [
+      "Sa crainte",
+      "Leur orgueil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 32:40 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-084",
+    "book": "Jérémie",
+    "chapter": 32,
+    "verseRef": "Jérémie 32:41",
+    "verseText": "Voir Jérémie 32:41.",
+    "question": "Dans la promesse « je me réjouirai de leur faire du bien », comment Dieu dit-il les planter ?",
+    "choices": [
+      "En vérité, de tout mon cœur et de toute mon âme",
+      "À demi, sans conviction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 32:41 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-085",
+    "book": "Jérémie",
+    "chapter": 31,
+    "verseRef": "Jérémie 31:14",
+    "verseText": "Voir Jérémie 31:14.",
+    "question": "Quel élément est promis aux sacrificateurs dans la restauration : ils seront rassasiés de quoi ?",
+    "choices": [
+      "De graisse",
+      "De cendres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:14 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-086",
+    "book": "Jérémie",
+    "chapter": 31,
+    "verseRef": "Jérémie 31:13",
+    "verseText": "Voir Jérémie 31:13.",
+    "question": "Dans Jérémie 31, quel acte Dieu fait-il concernant le deuil du peuple ?",
+    "choices": [
+      "Il le changera en allégresse",
+      "Il l’augmentera sans fin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:13 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-087",
+    "book": "Jérémie",
+    "chapter": 31,
+    "verseRef": "Jérémie 31:13",
+    "verseText": "Voir Jérémie 31:13.",
+    "question": "Selon Jérémie 31, quel groupe est explicitement mentionné comme se réjouissant « au milieu des jeux » ?",
+    "choices": [
+      "La jeune fille",
+      "Les guerriers seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:13 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-088",
+    "book": "Jérémie",
+    "chapter": 31,
+    "verseRef": "Jérémie 31:32",
+    "verseText": "Voir Jérémie 31:32.",
+    "question": "Quel terme décrit l’ancienne alliance que le peuple a « rompue » ?",
+    "choices": [
+      "« Mon alliance »",
+      "« L’alliance des nations »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:32 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-089",
+    "book": "Jérémie",
+    "chapter": 31,
+    "verseRef": "Jérémie 31:32",
+    "verseText": "Voir Jérémie 31:32.",
+    "question": "Quelle expression précise décrit la relation de Dieu avec Israël : « …quoique je fusse… » ?",
+    "choices": [
+      "Leur époux",
+      "Leur esclave"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:32 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-090",
+    "book": "Jérémie",
+    "chapter": 31,
+    "verseRef": "Jérémie 31:20",
+    "verseText": "Voir Jérémie 31:20.",
+    "question": "Quel mot exprime la compassion de Dieu envers Éphraïm : « … » ?",
+    "choices": [
+      "« Mes entrailles sont émues pour lui »",
+      "« Mon cœur est dur pour lui »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:20 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-091",
+    "book": "Jérémie",
+    "chapter": 7,
+    "verseRef": "Jérémie 7:34",
+    "verseText": "Voir Jérémie 7:34.",
+    "question": "Quel détail exact annonce la voix qui cesse dans les villes à cause du jugement ?",
+    "choices": [
+      "La voix du fiancé et la voix de la fiancée",
+      "La voix du laboureur et la voix du semeur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 7:34 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-092",
+    "book": "Jérémie",
+    "chapter": 6,
+    "verseRef": "Jérémie 6:16",
+    "verseText": "Voir Jérémie 6:16.",
+    "question": "Dans Jérémie 6, quel refus exact le peuple prononce-t-il au sujet du bon chemin ?",
+    "choices": [
+      "« Nous n’y marcherons pas »",
+      "« Nous y marcherons bientôt »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 6:16 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-093",
+    "book": "Jérémie",
+    "chapter": 6,
+    "verseRef": "Jérémie 6:15",
+    "verseText": "Voir Jérémie 6:15.",
+    "question": "Quel reproche porte sur la réaction à la honte : « Ils n’ont pas eu honte… » de quoi ?",
+    "choices": [
+      "De commettre des abominations",
+      "De porter un fardeau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 6:15 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-094",
+    "book": "Jérémie",
+    "chapter": 6,
+    "verseRef": "Jérémie 6:1",
+    "verseText": "Voir Jérémie 6:1.",
+    "question": "Dans l’annonce du malheur, quelle direction est répétée comme origine des calamités ?",
+    "choices": [
+      "Le septentrion",
+      "Le levant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 6:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-095",
+    "book": "Jérémie",
+    "chapter": 23,
+    "verseRef": "Jérémie 23:30",
+    "verseText": "Voir Jérémie 23:30.",
+    "question": "Quel mot précis désigne les prophètes accusés de voler les paroles de Dieu ?",
+    "choices": [
+      "« Je m’en prends aux prophètes »",
+      "« Je bénis les prophètes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 23:30 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-096",
+    "book": "Jérémie",
+    "chapter": 23,
+    "verseRef": "Jérémie 23:32",
+    "verseText": "Voir Jérémie 23:32.",
+    "question": "Dans la dénonciation, Dieu dit être contre ceux qui prophétisent quoi ?",
+    "choices": [
+      "Des songes menteurs",
+      "Des psaumes fidèles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 23:32 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-097",
+    "book": "Jérémie",
+    "chapter": 4,
+    "verseRef": "Jérémie 4:4",
+    "verseText": "Voir Jérémie 4:4.",
+    "question": "Dans Jérémie 4, quel ordre est donné pour éviter la colère : « … » ?",
+    "choices": [
+      "« Circoncisez-vous à l’Éternel, et ôtez les prépuces de votre cœur »",
+      "« Dressez des idoles dans vos maisons »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 4:4 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-098",
+    "book": "Jérémie",
+    "chapter": 23,
+    "verseRef": "Jérémie 23:3",
+    "verseText": "Voir Jérémie 23:3.",
+    "question": "Dans la promesse du retour, d’où Dieu dit-il qu’il rassemblera son troupeau ?",
+    "choices": [
+      "De tous les pays où il les aura chassés",
+      "D’un seul désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 23:3 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-099",
+    "book": "Jérémie",
+    "chapter": 23,
+    "verseRef": "Jérémie 23:4",
+    "verseText": "Voir Jérémie 23:4.",
+    "question": "Quel résultat est promis sous de bons pasteurs : ils ne seront plus quoi ?",
+    "choices": [
+      "Effrayés ni épouvantés",
+      "Riches ni pauvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 23:4 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-100",
+    "book": "Jérémie",
+    "chapter": 2,
+    "verseRef": "Jérémie 2:21",
+    "verseText": "Voir Jérémie 2:21.",
+    "question": "Dans Jérémie 2, quel symbole d’infidélité décrit Juda : « … » ?",
+    "choices": [
+      "Une vigne dégénérée",
+      "Un rocher immuable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 2:21 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-101",
+    "book": "Jérémie",
+    "chapter": 2,
+    "verseRef": "Jérémie 2:8",
+    "verseText": "Voir Jérémie 2:8.",
+    "question": "Quel reproche vise spécifiquement les sacrificateurs : « …ne m’ont pas connu » ?",
+    "choices": [
+      "Les sacrificateurs",
+      "Les captifs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 2:8 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-102",
+    "book": "Jérémie",
+    "chapter": 2,
+    "verseRef": "Jérémie 2:23",
+    "verseText": "Voir Jérémie 2:23.",
+    "question": "Dans l’image de l’errance, quel animal est cité : « …une chamelle… » ?",
+    "choices": [
+      "Une chamelle légère",
+      "Une colombe fidèle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 2:23 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-103",
+    "book": "Jérémie",
+    "chapter": 9,
+    "verseRef": "Jérémie 9:24",
+    "verseText": "Voir Jérémie 9:24.",
+    "question": "Dans la dénonciation de l’orgueil, qu’est-ce qui est dit sur l’homme qui se glorifie ?",
+    "choices": [
+      "Qu’il se glorifie d’avoir de l’intelligence et de me connaître",
+      "Qu’il se glorifie d’être riche seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 9:24 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-104",
+    "book": "Jérémie",
+    "chapter": 9,
+    "verseRef": "Jérémie 9:24",
+    "verseText": "Voir Jérémie 9:24.",
+    "question": "Quel trio de qualités est cité comme ce que l’Éternel aime ?",
+    "choices": [
+      "La bonté, le droit et la justice",
+      "Le luxe, la puissance et la guerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 9:24 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-105",
+    "book": "Jérémie",
+    "chapter": 26,
+    "verseRef": "Jérémie 26:22-23",
+    "verseText": "Voir Jérémie 26:22-23.",
+    "question": "Quel destin est annoncé au prophète Urie après sa fuite ?",
+    "choices": [
+      "Il est ramené d’Égypte et mis à mort",
+      "Il devient conseiller du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 26:22-23 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-106",
+    "book": "Jérémie",
+    "chapter": 26,
+    "verseRef": "Jérémie 26:24",
+    "verseText": "Voir Jérémie 26:24.",
+    "question": "Quel homme est mentionné comme ayant protégé Jérémie des mains du peuple ?",
+    "choices": [
+      "Achikam, fils de Schaphan",
+      "Nébuzaradan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 26:24 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-107",
+    "book": "Jérémie",
+    "chapter": 17,
+    "verseRef": "Jérémie 17:21",
+    "verseText": "Voir Jérémie 17:21.",
+    "question": "Dans le commandement sur le sabbat, quel lieu est mentionné comme source d’entrée des fardeaux ?",
+    "choices": [
+      "Les portes de Jérusalem",
+      "Les ports de Tyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 17:21 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-108",
+    "book": "Jérémie",
+    "chapter": 10,
+    "verseRef": "Jérémie 10:5",
+    "verseText": "Voir Jérémie 10:5.",
+    "question": "Quelle image est donnée pour les idoles : elles doivent être portées parce qu’elles ne peuvent quoi ?",
+    "choices": [
+      "Marcher",
+      "Prier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 10:5 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-109",
+    "book": "Jérémie",
+    "chapter": 10,
+    "verseRef": "Jérémie 10:6",
+    "verseText": "Voir Jérémie 10:6.",
+    "question": "Quel titre unique est utilisé pour l’Éternel face à l’impuissance des idoles ?",
+    "choices": [
+      "« Il n’y en a point comme toi, Éternel »",
+      "« Il y en a plusieurs comme toi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 10:6 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-110",
+    "book": "Jérémie",
+    "chapter": 15,
+    "verseRef": "Jérémie 15:1",
+    "verseText": "Voir Jérémie 15:1.",
+    "question": "Dans Jérémie 15, quelle parole extrême montre la gravité du rejet : même si quels deux hommes se tenaient devant Dieu ?",
+    "choices": [
+      "Moïse et Samuel",
+      "David et Salomon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 15:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-111",
+    "book": "Jérémie",
+    "chapter": 15,
+    "verseRef": "Jérémie 15:7",
+    "verseText": "Voir Jérémie 15:7.",
+    "question": "Quel symbole de jugement est annoncé : Dieu enverra des « … » pour les disperser ?",
+    "choices": [
+      "Des vannières (ou un van) aux portes du pays",
+      "Des moissonneurs dans les vignes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 15:7 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-112",
+    "book": "Jérémie",
+    "chapter": 15,
+    "verseRef": "Jérémie 15:18",
+    "verseText": "Voir Jérémie 15:18.",
+    "question": "Dans Jérémie 15, quel mot décrit la douleur de Jérémie : « … » ?",
+    "choices": [
+      "« une plaie incurable »",
+      "« une joie parfaite »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 15:18 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-113",
+    "book": "Jérémie",
+    "chapter": 31,
+    "verseRef": "Jérémie 31:34",
+    "verseText": "Voir Jérémie 31:34.",
+    "question": "Dans Jérémie 31, quel acte est promis : « Je pardonnerai… » quoi ?",
+    "choices": [
+      "Leur iniquité",
+      "Leur fidélité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:34 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-114",
+    "book": "Jérémie",
+    "chapter": 31,
+    "verseRef": "Jérémie 31:34",
+    "verseText": "Voir Jérémie 31:34.",
+    "question": "Dans la même promesse, Dieu dit : « Je ne me souviendrai plus… » de quoi ?",
+    "choices": [
+      "De leur péché",
+      "De leur prière"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:34 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-115",
+    "book": "Jérémie",
+    "chapter": 29,
+    "verseRef": "Jérémie 29:13",
+    "verseText": "Voir Jérémie 29:13.",
+    "question": "Quel mot exprime la recherche sincère : « Vous me chercherez… » comment ?",
+    "choices": [
+      "De tout votre cœur",
+      "À moitié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 29:13 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-116",
+    "book": "Jérémie",
+    "chapter": 29,
+    "verseRef": "Jérémie 29:12",
+    "verseText": "Voir Jérémie 29:12.",
+    "question": "Dans Jérémie 29, quelle promesse accompagne la prière : « Je vous… » ?",
+    "choices": [
+      "Exaucerai",
+      "Refuserai toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 29:12 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-117",
+    "book": "Jérémie",
+    "chapter": 29,
+    "verseRef": "Jérémie 29:14",
+    "verseText": "Voir Jérémie 29:14.",
+    "question": "Quelle action Dieu promet-il dans le passage suivant : « Je me laisserai… » ?",
+    "choices": [
+      "Trouver par vous",
+      "Détester par vous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 29:14 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-118",
+    "book": "Jérémie",
+    "chapter": 32,
+    "verseRef": "Jérémie 32:40",
+    "verseText": "Voir Jérémie 32:40.",
+    "question": "Dans Jérémie 32, que dit Dieu qu’il mettra dans le cœur du peuple pour qu’il ne s’éloigne pas ?",
+    "choices": [
+      "Sa crainte",
+      "Leur peur des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 32:40 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-119",
+    "book": "Jérémie",
+    "chapter": 32,
+    "verseRef": "Jérémie 32:41",
+    "verseText": "Voir Jérémie 32:41.",
+    "question": "Quel engagement de Dieu est exprimé avec un double « de tout mon… » ?",
+    "choices": [
+      "De tout mon cœur et de toute mon âme",
+      "De tout mon bras et de toute ma force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 32:41 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-120",
+    "book": "Jérémie",
+    "chapter": 6,
+    "verseRef": "Jérémie 6:17",
+    "verseText": "Voir Jérémie 6:17.",
+    "question": "Dans Jérémie 6, quel objet symbolique est placé comme « guetteurs » sur le peuple ?",
+    "choices": [
+      "Des sentinelles",
+      "Des laboureurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 6:17 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-121",
+    "book": "Jérémie",
+    "chapter": 33,
+    "verseRef": "Jérémie 33:3",
+    "verseText": "Voir Jérémie 33:3.",
+    "question": "Quand Dieu invite Jérémie à l’invoquer, que promet-il d’annoncer ?",
+    "choices": [
+      "« de grandes choses, des choses cachées »",
+      "« des choses petites et visibles »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 33:3 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-122",
+    "book": "Jérémie",
+    "chapter": 33,
+    "verseRef": "Jérémie 33:10",
+    "verseText": "Voir Jérémie 33:10.",
+    "question": "Dans Jérémie 33, quel lieu est cité comme « désert, il n’y a plus d’hommes, plus de bêtes » ?",
+    "choices": [
+      "Les villes de Juda et les rues de Jérusalem dévastées",
+      "La plaine de Moré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 33:10 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-123",
+    "book": "Jérémie",
+    "chapter": 33,
+    "verseRef": "Jérémie 33:11",
+    "verseText": "Voir Jérémie 33:11.",
+    "question": "Quelle phrase exacte est reprise dans les chants de restauration ?",
+    "choices": [
+      "« Louez l’Éternel des armées, Car l’Éternel est bon, car sa miséricorde dure à toujours! »",
+      "« Louez les rois des nations, car leur puissance dure à toujours! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 33:11 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-124",
+    "book": "Jérémie",
+    "chapter": 33,
+    "verseRef": "Jérémie 33:7",
+    "verseText": "Voir Jérémie 33:7.",
+    "question": "Quel domaine est explicitement mentionné comme rétabli « comme autrefois » ?",
+    "choices": [
+      "« les captifs de Juda » et « les captifs d’Israël »",
+      "« les captifs de Tyr » et « les captifs de Sidon »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 33:7 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-125",
+    "book": "Jérémie",
+    "chapter": 33,
+    "verseRef": "Jérémie 33:17",
+    "verseText": "Voir Jérémie 33:17.",
+    "question": "Dans la promesse de David, que dit Dieu qu’il ne manquera jamais ?",
+    "choices": [
+      "Un successeur assis sur le trône de la maison d’Israël",
+      "Un prophète de mensonge au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 33:17 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-126",
+    "book": "Jérémie",
+    "chapter": 33,
+    "verseRef": "Jérémie 33:20",
+    "verseText": "Voir Jérémie 33:20.",
+    "question": "Dans l’image de l’alliance immuable, quelles deux réalités sont citées ?",
+    "choices": [
+      "Le jour et la nuit",
+      "La mer et la montagne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 33:20 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-127",
+    "book": "Jérémie",
+    "chapter": 34,
+    "verseRef": "Jérémie 34:15",
+    "verseText": "Voir Jérémie 34:15.",
+    "question": "Quel acte religieux rend le revirement des chefs encore plus grave ?",
+    "choices": [
+      "Ils avaient fait un pacte « dans la maison sur laquelle mon nom est invoqué »",
+      "Ils l’avaient fait dans un champ en secret"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 34:15 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-128",
+    "book": "Jérémie",
+    "chapter": 34,
+    "verseRef": "Jérémie 34:16",
+    "verseText": "Voir Jérémie 34:16.",
+    "question": "Quel péché précis Dieu dénonce : ils ont « profané… » quoi ?",
+    "choices": [
+      "Son nom",
+      "Les murs de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 34:16 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-129",
+    "book": "Jérémie",
+    "chapter": 34,
+    "verseRef": "Jérémie 34:9",
+    "verseText": "Voir Jérémie 34:9.",
+    "question": "Quel type d’esclaves devait être affranchi selon l’alliance proclamée ?",
+    "choices": [
+      "« les esclaves hébreux, hommes ou femmes »",
+      "« les esclaves chaldéens, hommes seulement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 34:9 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-130",
+    "book": "Jérémie",
+    "chapter": 34,
+    "verseRef": "Jérémie 34:17",
+    "verseText": "Voir Jérémie 34:17.",
+    "question": "Quelle “liberté” Dieu proclame-t-il en jugement contre les désobéissants ?",
+    "choices": [
+      "« la liberté à l’épée, à la peste et à la famine »",
+      "« la liberté de régner sur les nations »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 34:17 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-131",
+    "book": "Jérémie",
+    "chapter": 35,
+    "verseRef": "Jérémie 35:2-6",
+    "verseText": "Voir Jérémie 35:2-6.",
+    "question": "Quel groupe refuse de boire du vin même quand Jérémie leur en offre dans la maison de l’Éternel ?",
+    "choices": [
+      "Les fils de Récab",
+      "Les fils de Schaphan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 35:2-6 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-132",
+    "book": "Jérémie",
+    "chapter": 35,
+    "verseRef": "Jérémie 35:14",
+    "verseText": "Voir Jérémie 35:14.",
+    "question": "Quel est le nom exact du père dont l’ordre est observé “jusqu’à ce jour” ?",
+    "choices": [
+      "Jonadab, fils de Récab",
+      "Nergal-Scharetser, chef des mages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 35:14 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-133",
+    "book": "Jérémie",
+    "chapter": 35,
+    "verseRef": "Jérémie 35:7",
+    "verseText": "Voir Jérémie 35:7.",
+    "question": "Quelle règle de vie est citée mot pour mot parmi leurs engagements ?",
+    "choices": [
+      "« vous habiterez sous des tentes toute votre vie »",
+      "« vous habiterez dans des palais toute votre vie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 35:7 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-134",
+    "book": "Jérémie",
+    "chapter": 35,
+    "verseRef": "Jérémie 35:19",
+    "verseText": "Voir Jérémie 35:19.",
+    "question": "Quel destin est promis à Jonadab : sa lignée ne manquera jamais de quoi ?",
+    "choices": [
+      "« d’hommes se tenant devant moi »",
+      "« de rois siégeant sur Juda »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 35:19 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-135",
+    "book": "Jérémie",
+    "chapter": 36,
+    "verseRef": "Jérémie 36:28",
+    "verseText": "Voir Jérémie 36:28.",
+    "question": "Après que Jojakim a brûlé le rouleau, quel ordre Dieu donne-t-il à Jérémie ?",
+    "choices": [
+      "« Prends de nouveau un autre livre »",
+      "« Ne dicte plus aucune parole »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 36:28 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-136",
+    "book": "Jérémie",
+    "chapter": 36,
+    "verseRef": "Jérémie 36:23",
+    "verseText": "Voir Jérémie 36:23.",
+    "question": "Quel outil est nommé dans l’acte de destruction du rouleau ?",
+    "choices": [
+      "« le canif du secrétaire »",
+      "« l’épée du chef des gardes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 36:23 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-137",
+    "book": "Jérémie",
+    "chapter": 36,
+    "verseRef": "Jérémie 36:23",
+    "verseText": "Voir Jérémie 36:23.",
+    "question": "Combien de parties Jehudi lit-il avant que le roi coupe et brûle ?",
+    "choices": [
+      "« trois ou quatre feuilles »",
+      "« dix ou douze feuilles »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 36:23 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-138",
+    "book": "Jérémie",
+    "chapter": 36,
+    "verseRef": "Jérémie 36:10",
+    "verseText": "Voir Jérémie 36:10.",
+    "question": "Où Baruc lit-il publiquement le rouleau, selon le récit ?",
+    "choices": [
+      "Dans la chambre de Guemaria, fils de Schaphan, à l’entrée de la porte neuve de la maison de l’Éternel",
+      "Dans la maison de Jonathan, le secrétaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 36:10 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-139",
+    "book": "Jérémie",
+    "chapter": 37,
+    "verseRef": "Jérémie 37:3",
+    "verseText": "Voir Jérémie 37:3.",
+    "question": "Sous Sédécias, quels deux envoyés demandent à Jérémie d’intercéder ?",
+    "choices": [
+      "Jucal, fils de Schélémia, et Sophonie, fils de Maaséja",
+      "Hanania, fils d’Azzur, et Paschhur, fils d’Immer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 37:3 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-140",
+    "book": "Jérémie",
+    "chapter": 37,
+    "verseRef": "Jérémie 37:13",
+    "verseText": "Voir Jérémie 37:13.",
+    "question": "À quelle porte Jérémie est-il saisi quand on l’accuse de vouloir passer aux Chaldéens ?",
+    "choices": [
+      "La porte de Benjamin",
+      "La porte de Poterie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 37:13 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-141",
+    "book": "Jérémie",
+    "chapter": 37,
+    "verseRef": "Jérémie 37:15",
+    "verseText": "Voir Jérémie 37:15.",
+    "question": "Dans quelle maison devenue prison Jérémie est-il enfermé ?",
+    "choices": [
+      "Dans la maison de Jonathan, le secrétaire",
+      "Dans la maison de Guedalia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 37:15 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-142",
+    "book": "Jérémie",
+    "chapter": 37,
+    "verseRef": "Jérémie 37:16",
+    "verseText": "Voir Jérémie 37:16.",
+    "question": "Quel détail de durée est indiqué sur son enfermement ?",
+    "choices": [
+      "« Jérémie resta longtemps dans la prison »",
+      "« Jérémie resta une seule nuit »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 37:16 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-143",
+    "book": "Jérémie",
+    "chapter": 37,
+    "verseRef": "Jérémie 37:21",
+    "verseText": "Voir Jérémie 37:21.",
+    "question": "Quel lieu de détention plus tolérable Jérémie obtient-il dans le passage suivant ?",
+    "choices": [
+      "« la cour de la prison »",
+      "« le trône du roi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 37:21 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-144",
+    "book": "Jérémie",
+    "chapter": 37,
+    "verseRef": "Jérémie 37:21",
+    "verseText": "Voir Jérémie 37:21.",
+    "question": "Quel ravitaillement précis lui est accordé ?",
+    "choices": [
+      "« un pain de la rue des boulangers, chaque jour »",
+      "« une coupe d’or, chaque semaine »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 37:21 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-145",
+    "book": "Jérémie",
+    "chapter": 38,
+    "verseRef": "Jérémie 38:4",
+    "verseText": "Voir Jérémie 38:4.",
+    "question": "Dans l’affaire de la citerne, quel reproche les chefs formulent-ils contre Jérémie ?",
+    "choices": [
+      "« il décourage les hommes de guerre »",
+      "« il encourage l’armée à combattre »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 38:4 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-146",
+    "book": "Jérémie",
+    "chapter": 38,
+    "verseRef": "Jérémie 38:6",
+    "verseText": "Voir Jérémie 38:6.",
+    "question": "Dans la citerne, quel élément est explicitement mentionné ?",
+    "choices": [
+      "« de la boue »",
+      "« des pierres précieuses »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 38:6 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-147",
+    "book": "Jérémie",
+    "chapter": 39,
+    "verseRef": "Jérémie 39:2",
+    "verseText": "Voir Jérémie 39:2.",
+    "question": "Quand Jérusalem tombe, quel jour précis du mois est cité pour la brèche ?",
+    "choices": [
+      "Le neuvième jour du quatrième mois",
+      "Le neuvième jour du dixième mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 39:2 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-148",
+    "book": "Jérémie",
+    "chapter": 39,
+    "verseRef": "Jérémie 39:3",
+    "verseText": "Voir Jérémie 39:3.",
+    "question": "Parmi les chefs cités à la porte du milieu, quel nom apparaît dans la liste ?",
+    "choices": [
+      "Samgar-Nebu",
+      "Jonadab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 39:3 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-149",
+    "book": "Jérémie",
+    "chapter": 39,
+    "verseRef": "Jérémie 39:3",
+    "verseText": "Voir Jérémie 39:3.",
+    "question": "Quel titre est donné à Sarsekim dans la liste des chefs babyloniens ?",
+    "choices": [
+      "« chef des eunuques »",
+      "« souverain sacrificateur »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 39:3 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-150",
+    "book": "Jérémie",
+    "chapter": 39,
+    "verseRef": "Jérémie 39:18",
+    "verseText": "Voir Jérémie 39:18.",
+    "question": "Quelle promesse personnelle est donnée à Ébed-Mélec ?",
+    "choices": [
+      "« ta vie te sera pour butin »",
+      "« tu seras roi de Juda »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 39:18 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-151",
+    "book": "Jérémie",
+    "chapter": 46,
+    "verseRef": "Jérémie 46:2",
+    "verseText": "Voir Jérémie 46:2.",
+    "question": "Dans les prophéties contre l’Égypte, quel lieu de bataille est nommé pour la défaite ?",
+    "choices": [
+      "Carchemisch, près de l’Euphrate",
+      "Mitspa, près de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 46:2 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-152",
+    "book": "Jérémie",
+    "chapter": 46,
+    "verseRef": "Jérémie 46:3",
+    "verseText": "Voir Jérémie 46:3.",
+    "question": "Quel ordre militaire est donné au début du message contre l’Égypte ?",
+    "choices": [
+      "« Préparez le bouclier et le grand bouclier »",
+      "« Déposez toutes les armes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 46:3 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-153",
+    "book": "Jérémie",
+    "chapter": 47,
+    "verseRef": "Jérémie 47:1",
+    "verseText": "Voir Jérémie 47:1.",
+    "question": "Quel peuple est explicitement visé dans Jérémie 47 ?",
+    "choices": [
+      "Les Philistins",
+      "Les Mèdes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 47:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-154",
+    "book": "Jérémie",
+    "chapter": 48,
+    "verseRef": "Jérémie 48:29",
+    "verseText": "Voir Jérémie 48:29.",
+    "question": "Quel terme résume l’attitude condamnée de Moab : on “a entendu” quoi ?",
+    "choices": [
+      "Son orgueil",
+      "Sa repentance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 48:29 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-155",
+    "book": "Jérémie",
+    "chapter": 48,
+    "verseRef": "Jérémie 48:47",
+    "verseText": "Voir Jérémie 48:47.",
+    "question": "Malgré le jugement, quelle promesse finale est donnée à Moab ?",
+    "choices": [
+      "« je ramènerai les captifs de Moab, dans la suite des jours »",
+      "« Moab ne relèvera jamais la tête »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 48:47 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-156",
+    "book": "Jérémie",
+    "chapter": 49,
+    "verseRef": "Jérémie 49:4",
+    "verseText": "Voir Jérémie 49:4.",
+    "question": "Quelle nation est accusée de se confier dans ses trésors et de dire : “Qui viendra…” ?",
+    "choices": [
+      "Ammon",
+      "Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 49:4 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-157",
+    "book": "Jérémie",
+    "chapter": 49,
+    "verseRef": "Jérémie 49:13",
+    "verseText": "Voir Jérémie 49:13.",
+    "question": "Dans la prophétie contre Édom, quelle ville est explicitement mentionnée avec un serment divin ?",
+    "choices": [
+      "Botsra",
+      "Anathoth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 49:13 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-158",
+    "book": "Jérémie",
+    "chapter": 49,
+    "verseRef": "Jérémie 49:28",
+    "verseText": "Voir Jérémie 49:28.",
+    "question": "Dans la prophétie sur le désert, quels noms sont associés : Kédar et les royaumes de… ?",
+    "choices": [
+      "Hatsor",
+      "Hamath"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 49:28 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-159",
+    "book": "Jérémie",
+    "chapter": 49,
+    "verseRef": "Jérémie 49:39",
+    "verseText": "Voir Jérémie 49:39.",
+    "question": "Quelle promesse de restauration est donnée à Élam ?",
+    "choices": [
+      "« je ramènerai les captifs d’Élam »",
+      "« Élam sera effacé sans retour »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 49:39 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-160",
+    "book": "Jérémie",
+    "chapter": 50,
+    "verseRef": "Jérémie 50:8",
+    "verseText": "Voir Jérémie 50:8.",
+    "question": "Dans les oracles sur Babylone, quel appel est formulé clairement ?",
+    "choices": [
+      "« Sortez du milieu de Babylone »",
+      "« Entrez dans Babylone »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 50:8 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-161",
+    "book": "Jérémie",
+    "chapter": 50,
+    "verseRef": "Jérémie 50:17",
+    "verseText": "Voir Jérémie 50:17.",
+    "question": "Comment Israël est-il décrit sous l’oppression des puissances ?",
+    "choices": [
+      "« un troupeau dispersé »",
+      "« une armée invincible »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 50:17 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-162",
+    "book": "Jérémie",
+    "chapter": 50,
+    "verseRef": "Jérémie 50:40",
+    "verseText": "Voir Jérémie 50:40.",
+    "question": "Quel renversement exemplaire est cité pour décrire la ruine de Babylone ?",
+    "choices": [
+      "Sodome et Gomorrhe",
+      "Jéricho et Aï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 50:40 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-163",
+    "book": "Jérémie",
+    "chapter": 51,
+    "verseRef": "Jérémie 51:7",
+    "verseText": "Voir Jérémie 51:7.",
+    "question": "Quelle image forte décrit Babylone dans Jérémie 51 ?",
+    "choices": [
+      "« une coupe d’or dans la main de l’Éternel »",
+      "« une lampe d’argile dans la main d’un homme »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 51:7 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-164",
+    "book": "Jérémie",
+    "chapter": 51,
+    "verseRef": "Jérémie 51:5",
+    "verseText": "Voir Jérémie 51:5.",
+    "question": "Dans Jérémie 51, quelle affirmation est donnée sur Israël malgré la faute ?",
+    "choices": [
+      "Israël et Juda ne sont pas abandonnés par l’Éternel des armées",
+      "Israël est abandonné définitivement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 51:5 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-165",
+    "book": "Jérémie",
+    "chapter": 51,
+    "verseRef": "Jérémie 51:63",
+    "verseText": "Voir Jérémie 51:63.",
+    "question": "Quel geste est ordonné à Seraja concernant le livre des paroles contre Babylone ?",
+    "choices": [
+      "Attacher une pierre au livre et le jeter dans l’Euphrate",
+      "Enterrer le livre à Mitspa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 51:63 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-166",
+    "book": "Jérémie",
+    "chapter": 51,
+    "verseRef": "Jérémie 51:64",
+    "verseText": "Voir Jérémie 51:64.",
+    "question": "Après ce geste, quelle phrase conclut : “Ainsi sera…” ?",
+    "choices": [
+      "Babylone : elle s’enfoncera et ne se relèvera plus",
+      "Juda : il régnera sur Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 51:64 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-167",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:1",
+    "verseText": "Voir Jérémie 52:1.",
+    "question": "Dans l’appendice historique, quel âge a Sédécias à son avènement ?",
+    "choices": [
+      "Vingt et un ans",
+      "Quarante et un ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-168",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:1",
+    "verseText": "Voir Jérémie 52:1.",
+    "question": "Quelle durée exacte de règne est donnée pour Sédécias ?",
+    "choices": [
+      "Onze ans",
+      "Sept ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-169",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:1",
+    "verseText": "Voir Jérémie 52:1.",
+    "question": "Quel est le nom de la mère de Sédécias dans Jérémie 52 ?",
+    "choices": [
+      "Hamuthal",
+      "Maaca"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-170",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:12",
+    "verseText": "Voir Jérémie 52:12.",
+    "question": "À quelle année du règne de Nebucadnetsar le chef des gardes entre-t-il dans Jérusalem ?",
+    "choices": [
+      "La dix-neuvième année",
+      "La septième année"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:12 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-171",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:12",
+    "verseText": "Voir Jérémie 52:12.",
+    "question": "Quel est le titre exact de Nebuzaradan ?",
+    "choices": [
+      "Chef des gardes",
+      "Chef des mages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:12 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-172",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:16",
+    "verseText": "Voir Jérémie 52:16.",
+    "question": "Quel sort est réservé à certains des plus pauvres du pays ?",
+    "choices": [
+      "Ils sont laissés comme vignerons et laboureurs",
+      "Ils deviennent chefs de l’armée chaldéenne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:16 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-173",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:28",
+    "verseText": "Voir Jérémie 52:28.",
+    "question": "Dans le décompte des déportations, combien de Juifs sont emmenés la septième année ?",
+    "choices": [
+      "3023",
+      "832"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:28 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-174",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:29",
+    "verseText": "Voir Jérémie 52:29.",
+    "question": "Dans le même décompte, combien de personnes sont emmenées de Jérusalem la dix-huitième année ?",
+    "choices": [
+      "832",
+      "745"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:29 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-175",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:30",
+    "verseText": "Voir Jérémie 52:30.",
+    "question": "La vingt-troisième année, combien de Juifs Nebuzaradan emmène-t-il en exil ?",
+    "choices": [
+      "745",
+      "3023"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:30 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-176",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:30",
+    "verseText": "Voir Jérémie 52:30.",
+    "question": "Quel total est donné pour l’ensemble de ces déportations ?",
+    "choices": [
+      "4600",
+      "6004"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:30 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-177",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:31",
+    "verseText": "Voir Jérémie 52:31.",
+    "question": "Quel événement arrive à Jojakin, roi de Juda, la trente-septième année de sa captivité ?",
+    "choices": [
+      "Évil-Merodac le tire de prison et relève sa tête",
+      "Nebucadnetsar le met à mort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:31 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-178",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:32",
+    "verseText": "Voir Jérémie 52:32.",
+    "question": "Quel détail de faveur décrit son nouveau statut parmi les rois à Babylone ?",
+    "choices": [
+      "Son siège est au-dessus du siège des rois qui sont avec lui à Babylone",
+      "Il est assis à la porte du milieu de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:32 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-179",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:34",
+    "verseText": "Voir Jérémie 52:34.",
+    "question": "Quel avantage quotidien est mentionné pour Jojakin ?",
+    "choices": [
+      "Une portion continuelle, donnée chaque jour par le roi",
+      "Une terre à Anathoth, donnée chaque mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:34 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-180",
+    "book": "Jérémie",
+    "chapter": 52,
+    "verseRef": "Jérémie 52:34",
+    "verseText": "Voir Jérémie 52:34.",
+    "question": "Quelle précision conclut le livre au sujet de cette portion ?",
+    "choices": [
+      "« tous les jours de sa vie »",
+      "« pendant trois jours seulement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 52:34 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-181",
+    "book": "Jérémie",
+    "chapter": 3,
+    "verseRef": "Jérémie 3:1",
+    "verseText": "Voir Jérémie 3:1.",
+    "question": "Dans le livre de Jérémie, quelle référence correspond au premier verset du chapitre 3 ?",
+    "choices": [
+      "Jérémie 3:1",
+      "Jérémie 4:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-182",
+    "book": "Jérémie",
+    "chapter": 8,
+    "verseRef": "Jérémie 8:1",
+    "verseText": "Voir Jérémie 8:1.",
+    "question": "Dans le livre de Jérémie, quelle référence correspond au premier verset du chapitre 8 ?",
+    "choices": [
+      "Jérémie 8:1",
+      "Jérémie 9:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 8:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-183",
+    "book": "Jérémie",
+    "chapter": 11,
+    "verseRef": "Jérémie 11:1",
+    "verseText": "Voir Jérémie 11:1.",
+    "question": "Dans le livre de Jérémie, quelle référence correspond au premier verset du chapitre 11 ?",
+    "choices": [
+      "Jérémie 11:1",
+      "Jérémie 12:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 11:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-184",
+    "book": "Jérémie",
+    "chapter": 12,
+    "verseRef": "Jérémie 12:1",
+    "verseText": "Voir Jérémie 12:1.",
+    "question": "Dans le livre de Jérémie, quelle référence correspond au premier verset du chapitre 12 ?",
+    "choices": [
+      "Jérémie 12:1",
+      "Jérémie 13:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 12:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-185",
+    "book": "Jérémie",
+    "chapter": 14,
+    "verseRef": "Jérémie 14:1",
+    "verseText": "Voir Jérémie 14:1.",
+    "question": "Dans le livre de Jérémie, quelle référence correspond au premier verset du chapitre 14 ?",
+    "choices": [
+      "Jérémie 14:1",
+      "Jérémie 15:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 14:1 (LSG 1910)."
+  },
+  {
+    "id": "jeremie-D-186",
+    "book": "Jérémie",
+    "chapter": 30,
+    "verseRef": "Jérémie 30:1",
+    "verseText": "Voir Jérémie 30:1.",
+    "question": "Dans le livre de Jérémie, quelle référence correspond au premier verset du chapitre 30 ?",
+    "choices": [
+      "Jérémie 30:1",
+      "Jérémie 31:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 30:1 (LSG 1910)."
+  }
+]

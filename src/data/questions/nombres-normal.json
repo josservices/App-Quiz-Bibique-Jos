@@ -1,0 +1,1652 @@
+[
+  {
+    "id": "NOM-N-001",
+    "book": "Nombres",
+    "chapter": 1,
+    "verseRef": "Nombres 1:1-2",
+    "verseText": "Voir Nombres 1:1-2.",
+    "question": "Où l’Éternel ordonna-t-il à Moïse de faire le dénombrement d’Israël ?",
+    "choices": [
+      "À Hébron",
+      "Dans le désert de Sinaï, dans la tente d’assignation",
+      "À Jéricho"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 1:1-2 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-002",
+    "book": "Nombres",
+    "chapter": 1,
+    "verseRef": "Nombres 1:3",
+    "verseText": "Voir Nombres 1:3.",
+    "question": "Quel âge minimum était requis pour être compté “après l’armée” ?",
+    "choices": [
+      "15 ans",
+      "20 ans",
+      "30 ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 1:3 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-003",
+    "book": "Nombres",
+    "chapter": 1,
+    "verseRef": "Nombres 1:7",
+    "verseText": "Voir Nombres 1:7.",
+    "question": "Qui fut désigné chef de la tribu de Juda lors du dénombrement ?",
+    "choices": [
+      "Nachschon, fils d’Amminadab",
+      "Élishama, fils d’Ammihud",
+      "Pagiel, fils d’Ocran"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 1:7 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-004",
+    "book": "Nombres",
+    "chapter": 1,
+    "verseRef": "Nombres 1:47-49",
+    "verseText": "Voir Nombres 1:47-49.",
+    "question": "Quelle tribu ne fut pas comptée parmi les autres pour le dénombrement militaire ?",
+    "choices": [
+      "Lévi",
+      "Benjamin",
+      "Dan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 1:47-49 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-005",
+    "book": "Nombres",
+    "chapter": 1,
+    "verseRef": "Nombres 1:50",
+    "verseText": "Voir Nombres 1:50.",
+    "question": "Où les Lévites devaient-ils dresser leurs tentes, par rapport au tabernacle ?",
+    "choices": [
+      "Très loin du camp",
+      "Autour du tabernacle du témoignage",
+      "Dans la tribu de Juda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 1:50 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-006",
+    "book": "Nombres",
+    "chapter": 3,
+    "verseRef": "Nombres 3:17",
+    "verseText": "Voir Nombres 3:17.",
+    "question": "Quels étaient les trois groupes lévitiques mentionnés comme familles principales ?",
+    "choices": [
+      "Guerschon, Kehath, Merari",
+      "Ruben, Siméon, Gad",
+      "Josué, Caleb, Othniel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 3:17 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-007",
+    "book": "Nombres",
+    "chapter": 3,
+    "verseRef": "Nombres 3:13",
+    "verseText": "Voir Nombres 3:13.",
+    "question": "À qui appartenaient les premiers-nés d’Israël selon l’Éternel ?",
+    "choices": [
+      "À Pharaon",
+      "À l’Éternel",
+      "Aux anciens du peuple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 3:13 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-008",
+    "book": "Nombres",
+    "chapter": 4,
+    "verseRef": "Nombres 4:4-15",
+    "verseText": "Voir Nombres 4:4-15.",
+    "question": "Quel objet était confié aux Kehathites (selon les règles de transport) ?",
+    "choices": [
+      "Les couvertures et les tentures",
+      "Les choses saintes (après qu’elles aient été couvertes)",
+      "Les planches et les barres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 4:4-15 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-009",
+    "book": "Nombres",
+    "chapter": 4,
+    "verseRef": "Nombres 4:3",
+    "verseText": "Voir Nombres 4:3.",
+    "question": "Dans quel âge les Lévites étaient-ils recensés pour le service de portage ?",
+    "choices": [
+      "De 20 à 50 ans",
+      "De 30 à 50 ans",
+      "De 25 à 60 ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 4:3 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-010",
+    "book": "Nombres",
+    "chapter": 9,
+    "verseRef": "Nombres 9:10-11",
+    "verseText": "Voir Nombres 9:10-11.",
+    "question": "Que se passait-il si un homme impur ou en voyage ne pouvait célébrer la Pâque au temps fixé ?",
+    "choices": [
+      "Il la célébrait un mois plus tard",
+      "Il était excusé sans alternative",
+      "Il la célébrait au septième mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 9:10-11 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-011",
+    "book": "Nombres",
+    "chapter": 9,
+    "verseRef": "Nombres 9:17-18",
+    "verseText": "Voir Nombres 9:17-18.",
+    "question": "Quel signe indiquait au peuple quand partir ou camper ?",
+    "choices": [
+      "La colonne de nuée sur le tabernacle",
+      "Le chant des Lévites uniquement",
+      "La couleur du ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 9:17-18 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-012",
+    "book": "Nombres",
+    "chapter": 10,
+    "verseRef": "Nombres 10:1-2",
+    "verseText": "Voir Nombres 10:1-2.",
+    "question": "Quel instrument servait à convoquer l’assemblée et à faire partir les camps ?",
+    "choices": [
+      "Des trompettes d’argent",
+      "Des tambourins",
+      "Une corne de bélier seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 10:1-2 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-013",
+    "book": "Nombres",
+    "chapter": 10,
+    "verseRef": "Nombres 10:29-31",
+    "verseText": "Voir Nombres 10:29-31.",
+    "question": "Qui Moïse invita-t-il à servir de guide dans le désert, en parlant de l’endroit où ils camperaient ?",
+    "choices": [
+      "Hobab, fils de Réuel, le Madianite",
+      "Jéthro, roi de Madian",
+      "Balaam, fils de Beor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 10:29-31 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-014",
+    "book": "Nombres",
+    "chapter": 10,
+    "verseRef": "Nombres 10:35",
+    "verseText": "Voir Nombres 10:35.",
+    "question": "Que disait Moïse quand l’arche partait ?",
+    "choices": [
+      "« Lève-toi, Éternel ! que tes ennemis soient dispersés ! »",
+      "« Que l’Éternel dorme avec nous »",
+      "« Nous sommes perdus »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 10:35 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-015",
+    "book": "Nombres",
+    "chapter": 11,
+    "verseRef": "Nombres 11:1-3",
+    "verseText": "Voir Nombres 11:1-3.",
+    "question": "Quel nom fut donné au lieu où l’Éternel frappa par le feu à cause des plaintes ?",
+    "choices": [
+      "Kibroth-Hattaava",
+      "Tabéra",
+      "Meriba"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 11:1-3 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-016",
+    "book": "Nombres",
+    "chapter": 11,
+    "verseRef": "Nombres 11:4-6",
+    "verseText": "Voir Nombres 11:4-6.",
+    "question": "Qu’est-ce que le peuple demanda avec insistance dans le désert, provoquant le jugement ?",
+    "choices": [
+      "De l’or",
+      "De la viande",
+      "Des chevaux"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 11:4-6 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-017",
+    "book": "Nombres",
+    "chapter": 11,
+    "verseRef": "Nombres 11:16-17",
+    "verseText": "Voir Nombres 11:16-17.",
+    "question": "Combien d’anciens furent choisis pour porter avec Moïse la charge du peuple ?",
+    "choices": [
+      "12",
+      "70",
+      "120"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 11:16-17 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-018",
+    "book": "Nombres",
+    "chapter": 11,
+    "verseRef": "Nombres 11:26",
+    "verseText": "Voir Nombres 11:26.",
+    "question": "Quels deux hommes prophétisèrent dans le camp, bien qu’ils ne soient pas venus à la tente ?",
+    "choices": [
+      "Eldad et Médad",
+      "Nadab et Abihu",
+      "Coré et Dathan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 11:26 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-019",
+    "book": "Nombres",
+    "chapter": 12,
+    "verseRef": "Nombres 12:1",
+    "verseText": "Voir Nombres 12:1.",
+    "question": "Quelle critique Miriam et Aaron adressèrent-ils à Moïse ?",
+    "choices": [
+      "Son manque de foi",
+      "Sa femme, la Cushite, qu’il avait prise",
+      "Sa richesse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 12:1 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-020",
+    "book": "Nombres",
+    "chapter": 12,
+    "verseRef": "Nombres 12:8",
+    "verseText": "Voir Nombres 12:8.",
+    "question": "Comment l’Éternel décrivit-il sa relation avec Moïse ?",
+    "choices": [
+      "« Je lui parle bouche à bouche »",
+      "« Je ne lui parle jamais »",
+      "« Je lui parle seulement en songes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 12:8 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-021",
+    "book": "Nombres",
+    "chapter": 12,
+    "verseRef": "Nombres 12:10",
+    "verseText": "Voir Nombres 12:10.",
+    "question": "Quelle conséquence frappa Miriam après la rébellion ?",
+    "choices": [
+      "Elle devint aveugle",
+      "Elle devint lépreuse, blanche comme la neige",
+      "Elle perdit la parole"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 12:10 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-022",
+    "book": "Nombres",
+    "chapter": 13,
+    "verseRef": "Nombres 13:1-2",
+    "verseText": "Voir Nombres 13:1-2.",
+    "question": "Combien d’hommes furent envoyés pour explorer le pays de Canaan ?",
+    "choices": [
+      "2",
+      "12",
+      "70"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 13:1-2 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-023",
+    "book": "Nombres",
+    "chapter": 13,
+    "verseRef": "Nombres 13:23",
+    "verseText": "Voir Nombres 13:23.",
+    "question": "Quel fruit les espions rapportèrent-ils en portant une grappe ?",
+    "choices": [
+      "Une grappe de raisins",
+      "Des dattes",
+      "Des olives"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 13:23 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-024",
+    "book": "Nombres",
+    "chapter": 14,
+    "verseRef": "Nombres 14:6-9",
+    "verseText": "Voir Nombres 14:6-9.",
+    "question": "Quels deux espions restèrent confiants que l’Éternel donnerait le pays ?",
+    "choices": [
+      "Josué et Caleb",
+      "Coré et Dathan",
+      "Nadab et Abihu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 14:6-9 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-025",
+    "book": "Nombres",
+    "chapter": 14,
+    "verseRef": "Nombres 14:29-35",
+    "verseText": "Voir Nombres 14:29-35.",
+    "question": "Quelle sanction fut prononcée contre la génération incrédule ?",
+    "choices": [
+      "Entrer immédiatement dans le pays",
+      "Mourir dans le désert",
+      "Être transportée par des anges"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 14:29-35 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-026",
+    "book": "Nombres",
+    "chapter": 15,
+    "verseRef": "Nombres 15:32-36",
+    "verseText": "Voir Nombres 15:32-36.",
+    "question": "Dans l’épisode du ramasseur de bois, quel jour transgressait-il ?",
+    "choices": [
+      "Le jour des expiations",
+      "Le sabbat",
+      "La Pâque"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 15:32-36 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-027",
+    "book": "Nombres",
+    "chapter": 15,
+    "verseRef": "Nombres 15:38-40",
+    "verseText": "Voir Nombres 15:38-40.",
+    "question": "Quel signe devait être mis aux bords des vêtements pour se souvenir des commandements ?",
+    "choices": [
+      "Des clochettes d’or",
+      "Une frange avec un cordon bleu",
+      "Une bande rouge"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 15:38-40 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-028",
+    "book": "Nombres",
+    "chapter": 16,
+    "verseRef": "Nombres 16:1-3",
+    "verseText": "Voir Nombres 16:1-3.",
+    "question": "Qui mena la rébellion en contestant l’autorité de Moïse et d’Aaron ?",
+    "choices": [
+      "Coré",
+      "Pinhas",
+      "Bezaleel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 16:1-3 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-029",
+    "book": "Nombres",
+    "chapter": 16,
+    "verseRef": "Nombres 16:31-33",
+    "verseText": "Voir Nombres 16:31-33.",
+    "question": "Quelle chose extraordinaire arriva aux rebelles Coré, Dathan et Abiram ?",
+    "choices": [
+      "Ils furent faits rois",
+      "La terre les engloutit",
+      "Ils traversèrent la mer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 16:31-33 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-030",
+    "book": "Nombres",
+    "chapter": 16,
+    "verseRef": "Nombres 16:36-40",
+    "verseText": "Voir Nombres 16:36-40.",
+    "question": "Quel objet servit de “souvenir” après le jugement des encensoirs ?",
+    "choices": [
+      "Les encensoirs furent battus en plaques pour l’autel",
+      "Les encensoirs furent jetés à la mer",
+      "Les encensoirs devinrent des coupes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 16:36-40 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-031",
+    "book": "Nombres",
+    "chapter": 17,
+    "verseRef": "Nombres 17:8",
+    "verseText": "Voir Nombres 17:8.",
+    "question": "Quel signe confirma l’élection d’Aaron parmi les chefs ?",
+    "choices": [
+      "Son bâton fleurit et produisit des amandes",
+      "Sa tunique devint lumineuse",
+      "Son épée se multiplia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 17:8 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-032",
+    "book": "Nombres",
+    "chapter": 19,
+    "verseRef": "Nombres 19:9",
+    "verseText": "Voir Nombres 19:9.",
+    "question": "À quoi servait la cendre de la génisse rousse ?",
+    "choices": [
+      "À parfumer l’autel",
+      "À faire l’eau de purification",
+      "À oindre les rois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 19:9 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-033",
+    "book": "Nombres",
+    "chapter": 19,
+    "verseRef": "Nombres 19:11",
+    "verseText": "Voir Nombres 19:11.",
+    "question": "Combien de jours une personne qui avait touché un mort était-elle impure ?",
+    "choices": [
+      "1 jour",
+      "7 jours",
+      "40 jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 19:11 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-034",
+    "book": "Nombres",
+    "chapter": 20,
+    "verseRef": "Nombres 20:2",
+    "verseText": "Voir Nombres 20:2.",
+    "question": "Dans le désert de Tsin, quel manque déclencha la contestation contre Moïse ?",
+    "choices": [
+      "L’eau",
+      "Le vin",
+      "Le bois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 20:2 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-035",
+    "book": "Nombres",
+    "chapter": 20,
+    "verseRef": "Nombres 20:11",
+    "verseText": "Voir Nombres 20:11.",
+    "question": "Qu’est-ce que Moïse fit au rocher à Meriba, au lieu de lui parler comme Dieu l’avait dit ?",
+    "choices": [
+      "Il le frappa",
+      "Il le couvrit d’encens",
+      "Il le brisa en deux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 20:11 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-036",
+    "book": "Nombres",
+    "chapter": 20,
+    "verseRef": "Nombres 20:12",
+    "verseText": "Voir Nombres 20:12.",
+    "question": "Quelle conséquence Moïse et Aaron reçurent-ils à cause de Meriba ?",
+    "choices": [
+      "Ils entreraient en premier dans le pays",
+      "Ils ne feraient pas entrer l’assemblée dans le pays",
+      "Ils seraient rois à Jéricho"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 20:12 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-037",
+    "book": "Nombres",
+    "chapter": 20,
+    "verseRef": "Nombres 20:1",
+    "verseText": "Voir Nombres 20:1.",
+    "question": "Qui mourut et fut enterrée à Kadès ?",
+    "choices": [
+      "Deborah",
+      "Miriam",
+      "Rachel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 20:1 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-038",
+    "book": "Nombres",
+    "chapter": 20,
+    "verseRef": "Nombres 20:14-21",
+    "verseText": "Voir Nombres 20:14-21.",
+    "question": "Quel roi refusa le passage à Israël sur son territoire, obligeant à contourner ?",
+    "choices": [
+      "Le roi d’Édom",
+      "Le roi de Moab",
+      "Le roi d’Amalek"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 20:14-21 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-039",
+    "book": "Nombres",
+    "chapter": 20,
+    "verseRef": "Nombres 20:27-28",
+    "verseText": "Voir Nombres 20:27-28.",
+    "question": "Où Aaron mourut-il ?",
+    "choices": [
+      "Sur la montagne de Hor",
+      "À Jérusalem",
+      "À Guilgal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 20:27-28 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-040",
+    "book": "Nombres",
+    "chapter": 20,
+    "verseRef": "Nombres 20:28",
+    "verseText": "Voir Nombres 20:28.",
+    "question": "Quel fils d’Aaron reçut les vêtements sacerdotaux sur la montagne ?",
+    "choices": [
+      "Éléazar",
+      "Ithamar",
+      "Nadab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 20:28 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-041",
+    "book": "Nombres",
+    "chapter": 21,
+    "verseRef": "Nombres 21:6",
+    "verseText": "Voir Nombres 21:6.",
+    "question": "Quand le peuple parla contre Dieu et contre Moïse, quel fléau les frappa ?",
+    "choices": [
+      "Des lions",
+      "Des serpents brûlants",
+      "Une pluie de grêle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 21:6 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-042",
+    "book": "Nombres",
+    "chapter": 21,
+    "verseRef": "Nombres 21:8-9",
+    "verseText": "Voir Nombres 21:8-9.",
+    "question": "Quel remède Dieu donna pour ceux qui étaient mordus ?",
+    "choices": [
+      "Regarder un serpent d’airain",
+      "Boire du vin",
+      "Toucher l’arche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 21:8-9 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-043",
+    "book": "Nombres",
+    "chapter": 21,
+    "verseRef": "Nombres 21:21-24",
+    "verseText": "Voir Nombres 21:21-24.",
+    "question": "Quel roi amoréen Israël vainquit après le refus de passage ?",
+    "choices": [
+      "Sihon, roi des Amoréens",
+      "Og, roi de Juda",
+      "Hiram, roi de Tyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 21:21-24 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-044",
+    "book": "Nombres",
+    "chapter": 21,
+    "verseRef": "Nombres 21:33-35",
+    "verseText": "Voir Nombres 21:33-35.",
+    "question": "Quel roi de Basan Israël vainquit ensuite ?",
+    "choices": [
+      "Og, roi de Basan",
+      "Balak, roi de Moab",
+      "Saül, roi d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 21:33-35 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-045",
+    "book": "Nombres",
+    "chapter": 22,
+    "verseRef": "Nombres 22:5-6",
+    "verseText": "Voir Nombres 22:5-6.",
+    "question": "Qui Balak fit-il venir pour maudire Israël ?",
+    "choices": [
+      "Élisée",
+      "Balaam",
+      "Samuel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 22:5-6 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-046",
+    "book": "Nombres",
+    "chapter": 22,
+    "verseRef": "Nombres 22:23-27",
+    "verseText": "Voir Nombres 22:23-27.",
+    "question": "Que fit l’ânesse de Balaam quand elle vit l’ange avec l’épée nue ?",
+    "choices": [
+      "Elle chanta",
+      "Elle se détourna et se coucha sous Balaam",
+      "Elle courut vers Moab"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 22:23-27 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-047",
+    "book": "Nombres",
+    "chapter": 23,
+    "verseRef": "Nombres 23:1-2",
+    "verseText": "Voir Nombres 23:1-2.",
+    "question": "Combien d’autels Balaam fit-il bâtir à plusieurs reprises pour offrir ?",
+    "choices": [
+      "3",
+      "7",
+      "12"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 23:1-2 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-048",
+    "book": "Nombres",
+    "chapter": 25,
+    "verseRef": "Nombres 25:8-9",
+    "verseText": "Voir Nombres 25:8-9.",
+    "question": "Quel jugement frappa Israël après l’affaire de Baal-Peor ?",
+    "choices": [
+      "Une peste",
+      "Une famine de sept ans",
+      "Un exil immédiat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 25:8-9 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-049",
+    "book": "Nombres",
+    "chapter": 25,
+    "verseRef": "Nombres 25:7-8",
+    "verseText": "Voir Nombres 25:7-8.",
+    "question": "Qui transperça l’Israélite et la Madianite, arrêtant la plaie ?",
+    "choices": [
+      "Phinées (Pinhas), fils d’Éléazar",
+      "Josué, fils de Nun",
+      "Caleb, fils de Jephunné"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 25:7-8 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-050",
+    "book": "Nombres",
+    "chapter": 26,
+    "verseRef": "Nombres 26:64-65",
+    "verseText": "Voir Nombres 26:64-65.",
+    "question": "Dans le second dénombrement, qui ne restait-il plus de la première génération, sauf deux hommes ?",
+    "choices": [
+      "Josué et Caleb",
+      "Moïse et Aaron",
+      "Éléazar et Ithamar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 26:64-65 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-051",
+    "book": "Nombres",
+    "chapter": 27,
+    "verseRef": "Nombres 27:1-4",
+    "verseText": "Voir Nombres 27:1-4.",
+    "question": "Quel problème les filles de Tselophchad soulevèrent-elles ?",
+    "choices": [
+      "Leur père n’avait pas de fils : l’héritage risquait de disparaître",
+      "Elles demandaient un temple",
+      "Elles réclamaient la royauté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 27:1-4 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-052",
+    "book": "Nombres",
+    "chapter": 27,
+    "verseRef": "Nombres 27:18-23",
+    "verseText": "Voir Nombres 27:18-23.",
+    "question": "Qui fut désigné successeur de Moïse pour conduire le peuple ?",
+    "choices": [
+      "Josué",
+      "Gédéon",
+      "Absalom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 27:18-23 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-053",
+    "book": "Nombres",
+    "chapter": 27,
+    "verseRef": "Nombres 27:12-14",
+    "verseText": "Voir Nombres 27:12-14.",
+    "question": "Quel jour Moïse reçut-il l’ordre de monter pour voir le pays, avant de mourir ?",
+    "choices": [
+      "Après avoir frappé le rocher",
+      "Après la victoire sur Og",
+      "Après le péché du veau d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 27:12-14 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-054",
+    "book": "Nombres",
+    "chapter": 28,
+    "verseRef": "Nombres 28:3-7",
+    "verseText": "Voir Nombres 28:3-7.",
+    "question": "Quel type d’offrande devait accompagner l’holocauste quotidien ?",
+    "choices": [
+      "Une offrande de gâteau au miel",
+      "Une offrande et une libation (vin) selon la règle",
+      "Une offrande de poisson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 28:3-7 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-055",
+    "book": "Nombres",
+    "chapter": 28,
+    "verseRef": "Nombres 28:9-10",
+    "verseText": "Voir Nombres 28:9-10.",
+    "question": "Quel animal était offert le jour du sabbat “en plus” de l’holocauste continuel ?",
+    "choices": [
+      "Deux agneaux d’un an",
+      "Deux taureaux",
+      "Un bouc et un bélier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 28:9-10 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-056",
+    "book": "Nombres",
+    "chapter": 29,
+    "verseRef": "Nombres 29:1-5",
+    "verseText": "Voir Nombres 29:1-5.",
+    "question": "Lors de la fête des trompettes (7e mois, 1er jour), quelle offrande pour le péché est mentionnée ?",
+    "choices": [
+      "Un bouc",
+      "Un agneau sans défaut",
+      "Une colombe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 29:1-5 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-057",
+    "book": "Nombres",
+    "chapter": 30,
+    "verseRef": "Nombres 30:6-8",
+    "verseText": "Voir Nombres 30:6-8.",
+    "question": "Dans les lois des vœux, qui pouvait annuler le vœu d’une femme mariée le jour où il en entendait parler ?",
+    "choices": [
+      "Son mari",
+      "Le sacrificateur uniquement",
+      "Un juge de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 30:6-8 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-058",
+    "book": "Nombres",
+    "chapter": 31,
+    "verseRef": "Nombres 31:4-6",
+    "verseText": "Voir Nombres 31:4-6.",
+    "question": "Quel peuple Israël combattit contre Madian, sur ordre de l’Éternel ?",
+    "choices": [
+      "Douze mille hommes (mille par tribu) furent envoyés",
+      "Cent mille hommes furent envoyés",
+      "Seuls les Lévites furent envoyés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 31:4-6 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-059",
+    "book": "Nombres",
+    "chapter": 31,
+    "verseRef": "Nombres 31:6",
+    "verseText": "Voir Nombres 31:6.",
+    "question": "Qui conduisit l’expédition contre Madian ?",
+    "choices": [
+      "Phinées (Pinhas)",
+      "Aaron",
+      "Samuel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 31:6 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-060",
+    "book": "Nombres",
+    "chapter": 32,
+    "verseRef": "Nombres 32:1-5, 33",
+    "verseText": "Voir Nombres 32:1-5, 33.",
+    "question": "Quelles tribus demandèrent à rester de l’autre côté du Jourdain, car elles avaient beaucoup de bétail ?",
+    "choices": [
+      "Ruben et Gad (et la demi-tribu de Manassé ensuite)",
+      "Juda et Benjamin",
+      "Lévi et Siméon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 32:1-5, 33 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-061",
+    "book": "Nombres",
+    "chapter": 5,
+    "verseRef": "Nombres 5:2-3",
+    "verseText": "Voir Nombres 5:2-3.",
+    "question": "Dans la loi du camp, que devait-on faire à une personne reconnue impure par lèpre, flux ou contact d’un mort ?",
+    "choices": [
+      "L’installer au centre du camp",
+      "La renvoyer hors du camp",
+      "La nommer gardienne du tabernacle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 5:2-3 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-062",
+    "book": "Nombres",
+    "chapter": 5,
+    "verseRef": "Nombres 5:7",
+    "verseText": "Voir Nombres 5:7.",
+    "question": "En cas de faute envers le prochain (restitution), que devait-on ajouter à la somme principale ?",
+    "choices": [
+      "Le double",
+      "Un cinquième en plus",
+      "Rien du tout"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 5:7 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-063",
+    "book": "Nombres",
+    "chapter": 5,
+    "verseRef": "Nombres 5:8",
+    "verseText": "Voir Nombres 5:8.",
+    "question": "Si quelqu’un n’avait aucun proche parent pour recevoir la restitution, à qui revenait-elle ?",
+    "choices": [
+      "Au sacrificateur",
+      "Au chef de la tribu",
+      "Aux étrangers du pays"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 5:8 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-064",
+    "book": "Nombres",
+    "chapter": 5,
+    "verseRef": "Nombres 5:18",
+    "verseText": "Voir Nombres 5:18.",
+    "question": "Dans l’épreuve de jalousie, quel objet la femme devait-elle tenir dans ses mains ?",
+    "choices": [
+      "L’offrande de souvenir",
+      "Une lampe d’or",
+      "Les tables de la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 5:18 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-065",
+    "book": "Nombres",
+    "chapter": 6,
+    "verseRef": "Nombres 6:5",
+    "verseText": "Voir Nombres 6:5.",
+    "question": "Dans le vœu de naziréat, que devait éviter le naziréen concernant sa chevelure ?",
+    "choices": [
+      "Il devait se raser chaque jour",
+      "Le rasoir ne passait point sur sa tête",
+      "Il devait couper ses cheveux au 7e jour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 6:5 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-066",
+    "book": "Nombres",
+    "chapter": 6,
+    "verseRef": "Nombres 6:6-7",
+    "verseText": "Voir Nombres 6:6-7.",
+    "question": "Pendant son vœu, de quoi le naziréen devait-il se garder en relation avec les morts ?",
+    "choices": [
+      "Il pouvait toucher tout mort",
+      "Il ne se rendait point impur, même pour son père ou sa mère",
+      "Il devait porter un mort au camp"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 6:6-7 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-067",
+    "book": "Nombres",
+    "chapter": 6,
+    "verseRef": "Nombres 6:9",
+    "verseText": "Voir Nombres 6:9.",
+    "question": "Lorsque le naziréen était souillé par un mort, que devait-il faire le septième jour ?",
+    "choices": [
+      "Se raser la tête",
+      "Offrir un taureau",
+      "Brûler ses vêtements"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 6:9 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-068",
+    "book": "Nombres",
+    "chapter": 6,
+    "verseRef": "Nombres 6:25",
+    "verseText": "Voir Nombres 6:25.",
+    "question": "Quelle phrase fait partie de la bénédiction sacerdotale donnée par l’Éternel ?",
+    "choices": [
+      "« Que l’Éternel fasse luire sa face sur toi, et qu’il t’accorde sa grâce ! »",
+      "« Que l’Éternel cache sa face sur toi, et qu’il t’abandonne ! »",
+      "« Que l’Éternel te laisse sans paix ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 6:25 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-069",
+    "book": "Nombres",
+    "chapter": 7,
+    "verseRef": "Nombres 7:3",
+    "verseText": "Voir Nombres 7:3.",
+    "question": "Quel type d’animaux les chefs offrirent-ils au début pour le transport du tabernacle ?",
+    "choices": [
+      "Des chameaux et des chevaux",
+      "Des chars et des bœufs",
+      "Des ânes et des chèvres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 7:3 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-070",
+    "book": "Nombres",
+    "chapter": 7,
+    "verseRef": "Nombres 7:11, 84-88",
+    "verseText": "Voir Nombres 7:11, 84-88.",
+    "question": "Combien de jours dura la dédicace de l’autel par les chefs (offrande jour après jour) ?",
+    "choices": [
+      "7 jours",
+      "12 jours",
+      "40 jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 7:11, 84-88 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-071",
+    "book": "Nombres",
+    "chapter": 7,
+    "verseRef": "Nombres 7:89",
+    "verseText": "Voir Nombres 7:89.",
+    "question": "Quand Moïse entrait dans la tente d’assignation pour parler avec l’Éternel, d’où venait la voix ?",
+    "choices": [
+      "De la montagne de Hor",
+      "De dessus le propitiatoire, entre les deux chérubins",
+      "Du milieu du camp"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 7:89 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-072",
+    "book": "Nombres",
+    "chapter": 8,
+    "verseRef": "Nombres 8:7",
+    "verseText": "Voir Nombres 8:7.",
+    "question": "Quelle cérémonie précède la présentation des Lévites pour le service, selon l’ordre donné ?",
+    "choices": [
+      "Les asperger d’eau expiatoire, raser tout leur corps, laver leurs vêtements",
+      "Les envoyer en Égypte",
+      "Les couronner devant Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 8:7 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-073",
+    "book": "Nombres",
+    "chapter": 8,
+    "verseRef": "Nombres 8:24",
+    "verseText": "Voir Nombres 8:24.",
+    "question": "À quel âge les Lévites entraient-ils pour faire le service dans la tente d’assignation ?",
+    "choices": [
+      "20 ans",
+      "25 ans",
+      "30 ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 8:24 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-074",
+    "book": "Nombres",
+    "chapter": 8,
+    "verseRef": "Nombres 8:25-26",
+    "verseText": "Voir Nombres 8:25-26.",
+    "question": "À quel âge les Lévites cessaient-ils le service pénible et assistaient leurs frères ?",
+    "choices": [
+      "40 ans",
+      "50 ans",
+      "60 ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 8:25-26 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-075",
+    "book": "Nombres",
+    "chapter": 9,
+    "verseRef": "Nombres 9:11",
+    "verseText": "Voir Nombres 9:11.",
+    "question": "Ceux qui étaient impurs et ne pouvaient célébrer la Pâque au premier mois, à quel jour du second mois devaient-ils la célébrer ?",
+    "choices": [
+      "Le 10e jour",
+      "Le 14e jour",
+      "Le 20e jour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 9:11 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-076",
+    "book": "Nombres",
+    "chapter": 9,
+    "verseRef": "Nombres 9:13",
+    "verseText": "Voir Nombres 9:13.",
+    "question": "Celui qui était pur et n’était pas en voyage mais négligeait la Pâque : quelle conséquence est indiquée ?",
+    "choices": [
+      "Il devait payer une amende",
+      "Il serait retranché de son peuple",
+      "Il devait offrir une offrande de farine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 9:13 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-077",
+    "book": "Nombres",
+    "chapter": 10,
+    "verseRef": "Nombres 10:2",
+    "verseText": "Voir Nombres 10:2.",
+    "question": "Combien de trompettes d’argent Moïse devait-il faire fabriquer ?",
+    "choices": [
+      "Une seule",
+      "Deux",
+      "Douze"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 10:2 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-078",
+    "book": "Nombres",
+    "chapter": 10,
+    "verseRef": "Nombres 10:4",
+    "verseText": "Voir Nombres 10:4.",
+    "question": "Quand on sonnait d’un seul son prolongé (sans éclat), qui devait se rassembler ?",
+    "choices": [
+      "Toute l’assemblée",
+      "Les princes, chefs des milliers d’Israël",
+      "Les enfants seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 10:4 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-079",
+    "book": "Nombres",
+    "chapter": 10,
+    "verseRef": "Nombres 10:11",
+    "verseText": "Voir Nombres 10:11.",
+    "question": "À quel moment l’Éternel ordonna-t-il au peuple de partir du désert de Sinaï ?",
+    "choices": [
+      "Le premier mois de la 1re année",
+      "Le second mois de la 2e année, le 20e jour",
+      "Le 7e mois de la 40e année"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 10:11 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-080",
+    "book": "Nombres",
+    "chapter": 10,
+    "verseRef": "Nombres 10:14",
+    "verseText": "Voir Nombres 10:14.",
+    "question": "Qui marchait en tête de l’armée du camp de Juda lors du départ ?",
+    "choices": [
+      "Éphraïm",
+      "Juda",
+      "Dan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 10:14 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-081",
+    "book": "Nombres",
+    "chapter": 11,
+    "verseRef": "Nombres 11:34",
+    "verseText": "Voir Nombres 11:34.",
+    "question": "Comment s’appelait le lieu où le peuple fut enseveli après avoir convoité la viande ?",
+    "choices": [
+      "Tabéra",
+      "Kibroth-Hattaava",
+      "Beer-Schéba"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 11:34 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-082",
+    "book": "Nombres",
+    "chapter": 11,
+    "verseRef": "Nombres 11:7",
+    "verseText": "Voir Nombres 11:7.",
+    "question": "Quel aliment tombait du ciel et était comparé à la graine de coriandre ?",
+    "choices": [
+      "La manne",
+      "Le raisin",
+      "L’orge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 11:7 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-083",
+    "book": "Nombres",
+    "chapter": 11,
+    "verseRef": "Nombres 11:8",
+    "verseText": "Voir Nombres 11:8.",
+    "question": "Comment le peuple préparait-il la manne, selon la description ?",
+    "choices": [
+      "En la pilant, la broyant, la cuisant, et en faisant des gâteaux",
+      "En la mangeant uniquement crue sans toucher",
+      "En la mettant dans le vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 11:8 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-084",
+    "book": "Nombres",
+    "chapter": 11,
+    "verseRef": "Nombres 11:19-20",
+    "verseText": "Voir Nombres 11:19-20.",
+    "question": "Quelle quantité de viande l’Éternel annonça-t-il donner au peuple mécontent ?",
+    "choices": [
+      "Un jour seulement",
+      "Un mois entier, jusqu’à dégoût",
+      "Une année entière"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 11:19-20 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-085",
+    "book": "Nombres",
+    "chapter": 11,
+    "verseRef": "Nombres 11:33",
+    "verseText": "Voir Nombres 11:33.",
+    "question": "Quel jugement frappa le peuple au moment où la viande était encore entre leurs dents ?",
+    "choices": [
+      "Un feu du ciel sur le tabernacle",
+      "Une très grande plaie",
+      "Une inondation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 11:33 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-086",
+    "book": "Nombres",
+    "chapter": 13,
+    "verseRef": "Nombres 13:3",
+    "verseText": "Voir Nombres 13:3.",
+    "question": "À quel endroit les espions furent-ils envoyés pour explorer le pays (départ) ?",
+    "choices": [
+      "Du désert de Paran, selon l’ordre de l’Éternel",
+      "De Jérusalem",
+      "De Ramsès"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 13:3 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-087",
+    "book": "Nombres",
+    "chapter": 13,
+    "verseRef": "Nombres 13:25",
+    "verseText": "Voir Nombres 13:25.",
+    "question": "Combien de jours dura l’exploration du pays par les espions ?",
+    "choices": [
+      "7 jours",
+      "40 jours",
+      "70 jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 13:25 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-088",
+    "book": "Nombres",
+    "chapter": 13,
+    "verseRef": "Nombres 13:16",
+    "verseText": "Voir Nombres 13:16.",
+    "question": "Quel nom Josué portait-il auparavant, avant que Moïse ne le change ?",
+    "choices": [
+      "Hosée",
+      "Éliab",
+      "Guerschon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 13:16 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-089",
+    "book": "Nombres",
+    "chapter": 14,
+    "verseRef": "Nombres 14:40-44",
+    "verseText": "Voir Nombres 14:40-44.",
+    "question": "Après le refus d’entrer dans le pays, que fit le peuple le lendemain “avec présomption” ?",
+    "choices": [
+      "Il monta vers le sommet de la montagne malgré l’avertissement",
+      "Il retourna en Égypte immédiatement",
+      "Il construisit un temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 14:40-44 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-090",
+    "book": "Nombres",
+    "chapter": 14,
+    "verseRef": "Nombres 14:44",
+    "verseText": "Voir Nombres 14:44.",
+    "question": "Qui Moïse dit-il ne pas monter avec eux dans cette tentative présomptueuse ?",
+    "choices": [
+      "L’arche de l’alliance et Moïse ne sortirent point du camp",
+      "Les Lévites partirent seuls",
+      "Aaron monta avec eux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 14:44 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-091",
+    "book": "Nombres",
+    "chapter": 15,
+    "verseRef": "Nombres 15:4-5",
+    "verseText": "Voir Nombres 15:4-5.",
+    "question": "Quelle offrande devait accompagner un holocauste ou sacrifice de prospérités lorsqu’on offrait un agneau ?",
+    "choices": [
+      "Une offrande de fleur de farine avec huile, plus une libation de vin (mesure prescrite)",
+      "Un poisson et du miel",
+      "Aucun accompagnement n’était requis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 15:4-5 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-092",
+    "book": "Nombres",
+    "chapter": 15,
+    "verseRef": "Nombres 15:19-21",
+    "verseText": "Voir Nombres 15:19-21.",
+    "question": "Quand le peuple entrerait dans le pays, quel commandement est donné à propos de la “pâte” ?",
+    "choices": [
+      "Offrir une offrande prélevée de la pâte",
+      "Ne jamais faire de pain",
+      "Offrir du lait au sanctuaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 15:19-21 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-093",
+    "book": "Nombres",
+    "chapter": 15,
+    "verseRef": "Nombres 15:22-29",
+    "verseText": "Voir Nombres 15:22-29.",
+    "question": "Quel type de péché est décrit comme commis “par erreur”, avec possibilité d’expiation ?",
+    "choices": [
+      "Le péché “à main levée”",
+      "Une transgression involontaire",
+      "Le blasphème volontaire du Nom"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 15:22-29 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-094",
+    "book": "Nombres",
+    "chapter": 15,
+    "verseRef": "Nombres 15:30",
+    "verseText": "Voir Nombres 15:30.",
+    "question": "Quel mot décrit la personne qui agit “à main levée” selon le texte ?",
+    "choices": [
+      "Elle “blasphème l’Éternel”",
+      "Elle “honore l’Éternel”",
+      "Elle “s’excuse aussitôt”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 15:30 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-095",
+    "book": "Nombres",
+    "chapter": 16,
+    "verseRef": "Nombres 16:3",
+    "verseText": "Voir Nombres 16:3.",
+    "question": "Dans la révolte de Coré, quel reproche était adressé à Moïse et Aaron ?",
+    "choices": [
+      "“Vous vous élevez au-dessus de l’assemblée”",
+      "“Vous êtes trop pauvres”",
+      "“Vous ne priez jamais”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 16:3 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-096",
+    "book": "Nombres",
+    "chapter": 16,
+    "verseRef": "Nombres 16:6-7",
+    "verseText": "Voir Nombres 16:6-7.",
+    "question": "Quel test Moïse proposa-t-il pour montrer qui l’Éternel avait choisi ?",
+    "choices": [
+      "Chaque homme prendrait son encensoir et offrirait de l’encens devant l’Éternel",
+      "Ils tireraient au sort un terrain",
+      "Ils feraient un jeûne de 40 jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 16:6-7 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-097",
+    "book": "Nombres",
+    "chapter": 16,
+    "verseRef": "Nombres 16:41",
+    "verseText": "Voir Nombres 16:41.",
+    "question": "Après le jugement, que fit l’assemblée le lendemain envers Moïse et Aaron ?",
+    "choices": [
+      "Elle les bénit",
+      "Elle murmura : “Vous avez fait mourir le peuple de l’Éternel”",
+      "Elle partit en paix"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 16:41 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-098",
+    "book": "Nombres",
+    "chapter": 16,
+    "verseRef": "Nombres 16:46-48",
+    "verseText": "Voir Nombres 16:46-48.",
+    "question": "Comment Aaron stoppa-t-il la plaie quand elle avait déjà commencé ?",
+    "choices": [
+      "Il prit un encensoir, mit du feu de dessus l’autel, y posa du parfum, et fit l’expiation",
+      "Il jeta de l’eau sur la foule",
+      "Il sortit du camp en silence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 16:46-48 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-099",
+    "book": "Nombres",
+    "chapter": 17,
+    "verseRef": "Nombres 17:2-3, 6",
+    "verseText": "Voir Nombres 17:2-3, 6.",
+    "question": "Dans l’épisode des bâtons, combien de bâtons furent déposés devant l’Éternel ?",
+    "choices": [
+      "7 bâtons",
+      "12 bâtons, un par chef de tribu (avec celui de Lévi)",
+      "70 bâtons"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Nombres 17:2-3, 6 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-100",
+    "book": "Nombres",
+    "chapter": 17,
+    "verseRef": "Nombres 17:8",
+    "verseText": "Voir Nombres 17:8.",
+    "question": "Qu’est-ce qui apparut sur le bâton d’Aaron comme signe complet ?",
+    "choices": [
+      "Des feuilles, des fleurs, et des amandes mûres",
+      "Des épines uniquement",
+      "De la cire et du miel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 17:8 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-101",
+    "book": "Nombres",
+    "chapter": 17,
+    "verseRef": "Nombres 17:12-13",
+    "verseText": "Voir Nombres 17:12-13.",
+    "question": "Après le signe du bâton, quelle peur saisit les enfants d’Israël ?",
+    "choices": [
+      "“Voici, nous expirons, nous périssons tous !”",
+      "“Nous sommes déjà dans le pays !”",
+      "“Rien ne peut nous arriver !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 17:12-13 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-102",
+    "book": "Nombres",
+    "chapter": 18,
+    "verseRef": "Nombres 18:1-5",
+    "verseText": "Voir Nombres 18:1-5.",
+    "question": "Quelle responsabilité spéciale fut donnée aux sacrificateurs et aux Lévites pour éviter la colère ?",
+    "choices": [
+      "Garder le sanctuaire et le service de l’autel",
+      "Faire la guerre contre Moab",
+      "Construire des villes fortifiées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 18:1-5 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-103",
+    "book": "Nombres",
+    "chapter": 18,
+    "verseRef": "Nombres 18:9-10",
+    "verseText": "Voir Nombres 18:9-10.",
+    "question": "Quelle part des sacrifices fut donnée aux sacrificateurs comme “part très sainte” ?",
+    "choices": [
+      "Les choses très saintes mentionnées, provenant des offrandes",
+      "Les tentes du peuple",
+      "Les armes des guerriers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 18:9-10 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-104",
+    "book": "Nombres",
+    "chapter": 18,
+    "verseRef": "Nombres 18:19",
+    "verseText": "Voir Nombres 18:19.",
+    "question": "Quelle expression décrit le don fait aux sacrificateurs au sujet des offrandes élevées ?",
+    "choices": [
+      "“Je te les donne par une loi perpétuelle”",
+      "“Je te les prête pour une année”",
+      "“Je te les retire aussitôt”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 18:19 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-105",
+    "book": "Nombres",
+    "chapter": 18,
+    "verseRef": "Nombres 18:20",
+    "verseText": "Voir Nombres 18:20.",
+    "question": "Quel héritage l’Éternel déclara-t-il à Aaron, à la place d’un territoire en Israël ?",
+    "choices": [
+      "“Je suis ta part et ton héritage”",
+      "“La montagne de Hor”",
+      "“Le pays de Moab”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 18:20 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-106",
+    "book": "Nombres",
+    "chapter": 18,
+    "verseRef": "Nombres 18:21",
+    "verseText": "Voir Nombres 18:21.",
+    "question": "Dans la loi des Lévites, quelle est leur “récompense” pour le service ?",
+    "choices": [
+      "La dîme en Israël",
+      "Les palais du roi",
+      "Les vignes de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 18:21 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-107",
+    "book": "Nombres",
+    "chapter": 18,
+    "verseRef": "Nombres 18:26",
+    "verseText": "Voir Nombres 18:26.",
+    "question": "Quelle obligation les Lévites avaient-ils vis-à-vis de la dîme qu’ils recevaient ?",
+    "choices": [
+      "Offrir la dîme de la dîme à l’Éternel",
+      "La garder intégralement sans offrande",
+      "La vendre aux étrangers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 18:26 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-108",
+    "book": "Nombres",
+    "chapter": 19,
+    "verseRef": "Nombres 19:12",
+    "verseText": "Voir Nombres 19:12.",
+    "question": "Quand quelqu’un touchait un mort, que devait-il faire pour être purifié ?",
+    "choices": [
+      "Se purifier le troisième jour et le septième jour",
+      "Se purifier uniquement le premier jour",
+      "Attendre quarante jours sans rien faire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 19:12 (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-109",
+    "book": "Nombres",
+    "chapter": 0,
+    "verseRef": "Correction : dans Nombres 19, on ne parle pas de vase de terre ; c’est Lévitique 14:5.",
+    "verseText": "Voir Correction : dans Nombres 19, on ne parle pas de vase de terre ; c’est Lévitique 14:5..",
+    "question": "Quel matériau était expressément exigé pour le vase où l’on brûlait la génisse rousse ?",
+    "choices": [
+      "Un vase d’or",
+      "Un vase de terre (pour l’eau vive avec l’oiseau)",
+      "(Cela concerne Lévitique : ici, Nombres 19 parle de brûler la génisse, pas de vase de terre)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Correction : dans Nombres 19, on ne parle pas de vase de terre ; c’est Lévitique 14:5. (LSG 1910)."
+  },
+  {
+    "id": "NOM-N-110",
+    "book": "Nombres",
+    "chapter": 19,
+    "verseRef": "Nombres 19:9",
+    "verseText": "Voir Nombres 19:9.",
+    "question": "Quel effet spirituel est attribué à l’eau de purification ?",
+    "choices": [
+      "Elle servait “pour l’eau de purification : c’est un sacrifice d’expiation”",
+      "Elle servait à parfumer les vêtements des prêtres",
+      "Elle servait à oindre les rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 19:9 (LSG 1910)."
+  }
+]

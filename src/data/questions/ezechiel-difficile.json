@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "ezechiel-D-001",
+    "book": "Ézéchiel",
+    "chapter": 1,
+    "verseRef": "Ézéchiel 1:1",
+    "verseText": "Voir Ézéchiel 1:1.",
+    "question": "À quelle date relative Ézéchiel situe-t-il explicitement le début de la vision (contexte des captifs) ?",
+    "choices": [
+      "“La trentième année, le cinquième jour du quatrième mois”",
+      "“La dixième année, le premier jour du premier mois”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 1:1 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-002",
+    "book": "Ézéchiel",
+    "chapter": 1,
+    "verseRef": "Ézéchiel 1:2",
+    "verseText": "Voir Ézéchiel 1:2.",
+    "question": "Quelle précision accompagne “le cinquième jour du mois” au début du livre ?",
+    "choices": [
+      "“c’était la cinquième année de la captivité du roi Jojakin”",
+      "“c’était la première année du règne de Sédécias”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 1:2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-003",
+    "book": "Ézéchiel",
+    "chapter": 1,
+    "verseRef": "Ézéchiel 1:4",
+    "verseText": "Voir Ézéchiel 1:4.",
+    "question": "Quel matériau est explicitement comparé à l’éclat au centre du feu dans la vision ?",
+    "choices": [
+      "“comme de l’airain poli”",
+      "“comme de l’or pur”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 1:4 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-004",
+    "book": "Ézéchiel",
+    "chapter": 1,
+    "verseRef": "Ézéchiel 1:7",
+    "verseText": "Voir Ézéchiel 1:7.",
+    "question": "Dans la description des animaux, quel détail est exact ?",
+    "choices": [
+      "“La plante de leurs pieds était comme celle du pied d’un veau”",
+      "“La plante de leurs pieds était comme celle du pied d’un cheval”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 1:7 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-005",
+    "book": "Ézéchiel",
+    "chapter": 1,
+    "verseRef": "Ézéchiel 1:9",
+    "verseText": "Voir Ézéchiel 1:9.",
+    "question": "Dans la vision, comment les animaux se déplacent-ils ?",
+    "choices": [
+      "“Ils ne se tournaient point en marchant, mais chacun marchait droit devant soi”",
+      "“Ils se tournaient sans cesse à droite et à gauche”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 1:9 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-006",
+    "book": "Ézéchiel",
+    "chapter": 1,
+    "verseRef": "Ézéchiel 1:20",
+    "verseText": "Voir Ézéchiel 1:20.",
+    "question": "Quel élément relie explicitement les roues aux animaux ?",
+    "choices": [
+      "“L’esprit des animaux était dans les roues”",
+      "“Le sang des animaux était sur les roues”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 1:20 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-007",
+    "book": "Ézéchiel",
+    "chapter": 1,
+    "verseRef": "Ézéchiel 1:24",
+    "verseText": "Voir Ézéchiel 1:24.",
+    "question": "Quel son est comparé au bruit des ailes quand ils marchent ?",
+    "choices": [
+      "“pareil au bruit de grosses eaux”",
+      "“pareil au son d’une flûte”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 1:24 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-008",
+    "book": "Ézéchiel",
+    "chapter": 2,
+    "verseRef": "Ézéchiel 2:3",
+    "verseText": "Voir Ézéchiel 2:3.",
+    "question": "Que dit Dieu à Ézéchiel avant de l’envoyer parler ?",
+    "choices": [
+      "“Je t’envoie vers des enfants d’Israël, vers des rebelles”",
+      "“Je t’envoie vers les Philistins de Gaza”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 2:3 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-009",
+    "book": "Ézéchiel",
+    "chapter": 3,
+    "verseRef": "Ézéchiel 3:5",
+    "verseText": "Voir Ézéchiel 3:5.",
+    "question": "Quelle expression décrit le peuple vers qui Ézéchiel est envoyé ?",
+    "choices": [
+      "“une nation aux paroles inintelligibles et à la langue difficile” (non pour lui)",
+      "“la maison d’Israël n’est pas une nation aux paroles inintelligibles et à la langue difficile”"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Ézéchiel 3:5 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-010",
+    "book": "Ézéchiel",
+    "chapter": 2,
+    "verseRef": "Ézéchiel 2:10",
+    "verseText": "Voir Ézéchiel 2:10.",
+    "question": "Que symbolise le rouleau dans l’expression exacte ?",
+    "choices": [
+      "“Il y avait des lamentations, des plaintes et des gémissements”",
+      "“Il y avait des psaumes, des louanges et des chants”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 2:10 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-011",
+    "book": "Ézéchiel",
+    "chapter": 3,
+    "verseRef": "Ézéchiel 3:15",
+    "verseText": "Voir Ézéchiel 3:15.",
+    "question": "Quel lieu est orthographié ainsi dans la version Louis Segond 1910 (attention au piège) ?",
+    "choices": [
+      "“Thel-Abib”",
+      "“Tel-Abib”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 3:15 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-012",
+    "book": "Ézéchiel",
+    "chapter": 3,
+    "verseRef": "Ézéchiel 3:15",
+    "verseText": "Voir Ézéchiel 3:15.",
+    "question": "Combien de jours Ézéchiel reste-t-il “stupéfait” au milieu des exilés ?",
+    "choices": [
+      "Sept jours",
+      "Trois jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 3:15 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-013",
+    "book": "Ézéchiel",
+    "chapter": 3,
+    "verseRef": "Ézéchiel 3:18",
+    "verseText": "Voir Ézéchiel 3:18.",
+    "question": "Quel avertissement lie directement la responsabilité du guetteur ?",
+    "choices": [
+      "“Si tu n’avertis pas le méchant… je redemanderai son sang de ta main”",
+      "“Si tu n’avertis pas le juste… tu seras récompensé”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 3:18 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-014",
+    "book": "Ézéchiel",
+    "chapter": 4,
+    "verseRef": "Ézéchiel 4:3",
+    "verseText": "Voir Ézéchiel 4:3.",
+    "question": "Quel objet est exigé pour le signe du siège, en plus de la brique ?",
+    "choices": [
+      "“Une poêle de fer”",
+      "“Un encensoir d’or”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 4:3 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-015",
+    "book": "Ézéchiel",
+    "chapter": 4,
+    "verseRef": "Ézéchiel 4:5",
+    "verseText": "Voir Ézéchiel 4:5.",
+    "question": "Quel nombre exact de jours est imposé pour l’iniquité d’Israël ?",
+    "choices": [
+      "“trois cent quatre-vingt-dix jours”",
+      "“quatre cent quatre-vingt-dix jours”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 4:5 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-016",
+    "book": "Ézéchiel",
+    "chapter": 4,
+    "verseRef": "Ézéchiel 4:6",
+    "verseText": "Voir Ézéchiel 4:6.",
+    "question": "Que signifie la règle posée dans l’expression “je t’impose…” ?",
+    "choices": [
+      "“un jour pour chaque année”",
+      "“un mois pour chaque année”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 4:6 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-017",
+    "book": "Ézéchiel",
+    "chapter": 4,
+    "verseRef": "Ézéchiel 4:11",
+    "verseText": "Voir Ézéchiel 4:11.",
+    "question": "Quelle mesure d’eau est prescrite (formulation) ?",
+    "choices": [
+      "“un sixième de hin”",
+      "“un tiers de hin”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 4:11 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-018",
+    "book": "Ézéchiel",
+    "chapter": 8,
+    "verseRef": "Ézéchiel 8:14",
+    "verseText": "Voir Ézéchiel 8:14.",
+    "question": "Quel choc de formulation apparaît dans la vision des abominations (porte du nord) ?",
+    "choices": [
+      "“des femmes assises, qui pleuraient Thammuz”",
+      "“des femmes debout, qui célébraient la Pâque”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 8:14 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-019",
+    "book": "Ézéchiel",
+    "chapter": 9,
+    "verseRef": "Ézéchiel 9:4",
+    "verseText": "Voir Ézéchiel 9:4.",
+    "question": "Quel critère désigne ceux qui reçoivent le signe sur le front ?",
+    "choices": [
+      "“ceux qui gémissent et soupirent à cause de toutes les abominations”",
+      "“ceux qui offrent des sacrifices chaque matin”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 9:4 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-020",
+    "book": "Ézéchiel",
+    "chapter": 9,
+    "verseRef": "Ézéchiel 9:5",
+    "verseText": "Voir Ézéchiel 9:5.",
+    "question": "Quel ordre interdit une forme de compassion au moment du jugement (formulation dure) ?",
+    "choices": [
+      "“Que votre œil soit sans pitié, et n’ayez point de miséricorde”",
+      "“Que votre œil pleure, et ayez grande compassion”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 9:5 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-021",
+    "book": "Ézéchiel",
+    "chapter": 24,
+    "verseRef": "Ézéchiel 24:6",
+    "verseText": "Voir Ézéchiel 24:6.",
+    "question": "Quel détail décrit Jérusalem dans l’image culinaire du chapitre 24 ?",
+    "choices": [
+      "“chaudière pleine de rouille, et dont la rouille ne se détache pas”",
+      "“panier de figues mûres, dont l’odeur réjouit”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 24:6 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-022",
+    "book": "Ézéchiel",
+    "chapter": 24,
+    "verseRef": "Ézéchiel 24:16-24",
+    "verseText": "Voir Ézéchiel 24:16-24.",
+    "question": "Quel événement personnel sert de “signe” au peuple ?",
+    "choices": [
+      "La mort soudaine de la femme d’Ézéchiel",
+      "Le mariage d’Ézéchiel avec une princesse de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 24:16-24 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-023",
+    "book": "Ézéchiel",
+    "chapter": 24,
+    "verseRef": "Ézéchiel 24:17",
+    "verseText": "Voir Ézéchiel 24:17.",
+    "question": "Que lui est-il demandé de ne pas faire, malgré le deuil ?",
+    "choices": [
+      "“Ne mène point de deuil, et ne pleure point”",
+      "“Va t’asseoir à la porte du temple et pleure”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 24:17 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-024",
+    "book": "Ézéchiel",
+    "chapter": 48,
+    "verseRef": "Ézéchiel 48:35",
+    "verseText": "Voir Ézéchiel 48:35.",
+    "question": "Quel futur nom de la ville est donné comme conclusion du livre ?",
+    "choices": [
+      "“l’Eternel est ici”",
+      "“l’Eternel est loin”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 48:35 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-025",
+    "book": "Ézéchiel",
+    "chapter": 48,
+    "verseRef": "Ézéchiel 48:35",
+    "verseText": "Voir Ézéchiel 48:35.",
+    "question": "Quelle mesure totale est donnée pour le circuit de la ville ?",
+    "choices": [
+      "“dix-huit mille cannes”",
+      "“douze mille cannes”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 48:35 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-026",
+    "book": "Ézéchiel",
+    "chapter": 18,
+    "verseRef": "Ézéchiel 18:4",
+    "verseText": "Voir Ézéchiel 18:4.",
+    "question": "Quelle expression exacte décrit la base du principe moral central ?",
+    "choices": [
+      "“L’âme qui pèche, c’est celle qui mourra”",
+      "“Le père seul mourra pour le fils”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 18:4 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-027",
+    "book": "Ézéchiel",
+    "chapter": 28,
+    "verseRef": "Ézéchiel 28:14",
+    "verseText": "Voir Ézéchiel 28:14.",
+    "question": "Dans la complainte sur le roi de Tyr, quel titre est utilisé ?",
+    "choices": [
+      "“un chérubin protecteur, aux ailes déployées”",
+      "“un prince de Juda, au sceptre d’or”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 28:14 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-028",
+    "book": "Ézéchiel",
+    "chapter": 28,
+    "verseRef": "Ézéchiel 28:13",
+    "verseText": "Voir Ézéchiel 28:13.",
+    "question": "Quel lieu est explicitement cité dans la même complainte ?",
+    "choices": [
+      "“Éden, le jardin de Dieu”",
+      "“Horeb, la montagne de Dieu”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 28:13 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-029",
+    "book": "Ézéchiel",
+    "chapter": 28,
+    "verseRef": "Ézéchiel 28:17",
+    "verseText": "Voir Ézéchiel 28:17.",
+    "question": "Quel motif explique sa chute dans une phrase nette ?",
+    "choices": [
+      "“Ton cœur s’est élevé à cause de ta beauté”",
+      "“Ton cœur s’est abaissé à cause de ta pauvreté”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 28:17 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-030",
+    "book": "Ézéchiel",
+    "chapter": 33,
+    "verseRef": "Ézéchiel 33:3",
+    "verseText": "Voir Ézéchiel 33:3.",
+    "question": "Au chapitre 33, quel instrument d’alerte est mentionné pour le guetteur ?",
+    "choices": [
+      "La trompette",
+      "La cymbale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 33:3 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-031",
+    "book": "Ézéchiel",
+    "chapter": 33,
+    "verseRef": "Ézéchiel 33:32",
+    "verseText": "Voir Ézéchiel 33:32.",
+    "question": "Quel portrait ironique fait le peuple de la parole d’Ézéchiel ?",
+    "choices": [
+      "“un chant d’amour, agréablement chanté”",
+      "“une menace sans aucune musique”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 33:32 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-032",
+    "book": "Ézéchiel",
+    "chapter": 34,
+    "verseRef": "Ézéchiel 34:2",
+    "verseText": "Voir Ézéchiel 34:2.",
+    "question": "Quel reproche vise directement les pasteurs d’Israël ?",
+    "choices": [
+      "“Vous vous paissez vous-mêmes”",
+      "“Vous jeûnez pour le troupeau”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 34:2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-033",
+    "book": "Ézéchiel",
+    "chapter": 34,
+    "verseRef": "Ézéchiel 34:11-12",
+    "verseText": "Voir Ézéchiel 34:11-12.",
+    "question": "Quel engagement de Dieu corrige l’abandon des brebis ?",
+    "choices": [
+      "“Je chercherai mes brebis, et je les recueillerai”",
+      "“Je vendrai mes brebis aux nations”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 34:11-12 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-034",
+    "book": "Ézéchiel",
+    "chapter": 34,
+    "verseRef": "Ézéchiel 34:23",
+    "verseText": "Voir Ézéchiel 34:23.",
+    "question": "Quel nom est donné au pasteur unique annoncé ?",
+    "choices": [
+      "“mon serviteur David”",
+      "“mon serviteur Ésaü”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 34:23 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-035",
+    "book": "Ézéchiel",
+    "chapter": 37,
+    "verseRef": "Ézéchiel 37:1",
+    "verseText": "Voir Ézéchiel 37:1.",
+    "question": "Dans la vallée, comment Dieu place-t-il Ézéchiel ?",
+    "choices": [
+      "“L’Éternel me transporta en esprit, et me déposa… dans le milieu d’une vallée remplie d’ossements”",
+      "“L’Éternel me conduisit à un palais rempli d’or”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 37:1 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-036",
+    "book": "Ézéchiel",
+    "chapter": 37,
+    "verseRef": "Ézéchiel 37:3",
+    "verseText": "Voir Ézéchiel 37:3.",
+    "question": "Quelle question Dieu pose sur les ossements (forme interrogative) ?",
+    "choices": [
+      "“ces os pourront-ils revivre ?”",
+      "“ces os deviendront-ils du bronze ?”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 37:3 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-037",
+    "book": "Ézéchiel",
+    "chapter": 37,
+    "verseRef": "Ézéchiel 37:3",
+    "verseText": "Voir Ézéchiel 37:3.",
+    "question": "Quelle réponse Ézéchiel donne-t-il immédiatement ?",
+    "choices": [
+      "“Seigneur Éternel, tu le sais”",
+      "“Moi, je le sais parfaitement”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 37:3 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-038",
+    "book": "Ézéchiel",
+    "chapter": 37,
+    "verseRef": "Ézéchiel 37:4",
+    "verseText": "Voir Ézéchiel 37:4.",
+    "question": "Quelle formule est dite aux ossements desséchés ?",
+    "choices": [
+      "“Ossements desséchés, écoutez la parole de l’Éternel !”",
+      "“Ossements desséchés, cachez-vous dans la poussière !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 37:4 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-039",
+    "book": "Ézéchiel",
+    "chapter": 37,
+    "verseRef": "Ézéchiel 37:5",
+    "verseText": "Voir Ézéchiel 37:5.",
+    "question": "Quel élément est annoncé en premier pour leur redonner vie (énumération) ?",
+    "choices": [
+      "“Je vais faire entrer en vous un esprit, et vous vivrez”",
+      "“Je vais verser sur vous du lait, et vous vivrez”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 37:5 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-040",
+    "book": "Ézéchiel",
+    "chapter": 37,
+    "verseRef": "Ézéchiel 37:16",
+    "verseText": "Voir Ézéchiel 37:16.",
+    "question": "Dans l’image des deux bois, quelle paire est réellement nommée ?",
+    "choices": [
+      "“Juda” et “Joseph”",
+      "“Benjamin” et “Éphraïm”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 37:16 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-041",
+    "book": "Ézéchiel",
+    "chapter": 37,
+    "verseRef": "Ézéchiel 37:17",
+    "verseText": "Voir Ézéchiel 37:17.",
+    "question": "Comment Dieu résume l’unité finale des deux ?",
+    "choices": [
+      "“Ils seront un dans ta main”",
+      "“Ils seront séparés à jamais”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 37:17 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-042",
+    "book": "Ézéchiel",
+    "chapter": 38,
+    "verseRef": "Ézéchiel 38:2",
+    "verseText": "Voir Ézéchiel 38:2.",
+    "question": "Quel nom complet est utilisé pour l’ennemi du chapitre 38 ?",
+    "choices": [
+      "“Gog, du pays de Magog”",
+      "“Gog, du pays de Moab”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 38:2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-043",
+    "book": "Ézéchiel",
+    "chapter": 38,
+    "verseRef": "Ézéchiel 38:19",
+    "verseText": "Voir Ézéchiel 38:19.",
+    "question": "Quel phénomène accompagne le jugement (liste d’effroi) ?",
+    "choices": [
+      "“un grand tremblement de terre”",
+      "“une brise légère et fraîche”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 38:19 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-044",
+    "book": "Ézéchiel",
+    "chapter": 40,
+    "verseRef": "Ézéchiel 40:3",
+    "verseText": "Voir Ézéchiel 40:3.",
+    "question": "Dans la vision du temple, quel outil tient l’homme qui mesure ?",
+    "choices": [
+      "“un roseau de mesure”",
+      "“un fil de pourpre”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 40:3 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-045",
+    "book": "Ézéchiel",
+    "chapter": 43,
+    "verseRef": "Ézéchiel 43:1",
+    "verseText": "Voir Ézéchiel 43:1.",
+    "question": "D’où vient la gloire quand elle revient (direction précise) ?",
+    "choices": [
+      "“par le chemin de la porte de l’orient”",
+      "“par le chemin de la porte du septentrion”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 43:1 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-046",
+    "book": "Ézéchiel",
+    "chapter": 43,
+    "verseRef": "Ézéchiel 43:2",
+    "verseText": "Voir Ézéchiel 43:2.",
+    "question": "Comment la voix est-elle décrite quand la gloire arrive ?",
+    "choices": [
+      "“Sa voix était pareille au bruit des grandes eaux”",
+      "“Sa voix était pareille au chant d’une colombe”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 43:2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-047",
+    "book": "Ézéchiel",
+    "chapter": 47,
+    "verseRef": "Ézéchiel 47:1",
+    "verseText": "Voir Ézéchiel 47:1.",
+    "question": "Où Ézéchiel est-il exactement conduit pour voir l’eau ?",
+    "choices": [
+      "“à l’entrée de la maison”",
+      "“au sommet d’un autel de pierre”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 47:1 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-048",
+    "book": "Ézéchiel",
+    "chapter": 47,
+    "verseRef": "Ézéchiel 47:3",
+    "verseText": "Voir Ézéchiel 47:3.",
+    "question": "Quel premier niveau l’eau atteint-elle après la première mesure ?",
+    "choices": [
+      "“jusqu’aux chevilles”",
+      "“jusqu’à la poitrine”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 47:3 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-049",
+    "book": "Ézéchiel",
+    "chapter": 47,
+    "verseRef": "Ézéchiel 47:8",
+    "verseText": "Voir Ézéchiel 47:8.",
+    "question": "Quelle conséquence est annoncée au sujet des eaux de la mer atteinte ?",
+    "choices": [
+      "“les eaux seront guéries”",
+      "“les eaux deviendront amères”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 47:8 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-050",
+    "book": "Ézéchiel",
+    "chapter": 47,
+    "verseRef": "Ézéchiel 47:12",
+    "verseText": "Voir Ézéchiel 47:12.",
+    "question": "Quel type d’arbres est mentionné le long du torrent (image de vie) ?",
+    "choices": [
+      "“des arbres fruitiers… leur fruit servira de nourriture, et leurs feuilles de remède”",
+      "“des arbres sans feuilles… leur bois servira de cendre”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 47:12 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-051",
+    "book": "Ézéchiel",
+    "chapter": 26,
+    "verseRef": "Ézéchiel 26:4",
+    "verseText": "Voir Ézéchiel 26:4.",
+    "question": "Quel jugement est annoncé contre Tyr dans l’image de dépouillement ?",
+    "choices": [
+      "“on raclera même sa poussière”",
+      "“on multipliera ses trésors”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 26:4 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-052",
+    "book": "Ézéchiel",
+    "chapter": 6,
+    "verseRef": "Ézéchiel 6:7",
+    "verseText": "Voir Ézéchiel 6:7.",
+    "question": "Quelle parole résume la finalité récurrente des châtiments (formule exacte) ?",
+    "choices": [
+      "“Et ils sauront que je suis l’Éternel”",
+      "“Et ils sauront que je suis le roi”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 6:7 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-053",
+    "book": "Ézéchiel",
+    "chapter": 12,
+    "verseRef": "Ézéchiel 12:28",
+    "verseText": "Voir Ézéchiel 12:28.",
+    "question": "Quelle expression corrige le proverbe sur les visions “sans effet” ?",
+    "choices": [
+      "“Aucun de mes discours ne sera différé”",
+      "“Tous mes discours seront oubliés”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 12:28 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-054",
+    "book": "Ézéchiel",
+    "chapter": 5,
+    "verseRef": "Ézéchiel 5:1",
+    "verseText": "Voir Ézéchiel 5:1.",
+    "question": "Quel geste symbolique est imposé concernant les cheveux (outil) ?",
+    "choices": [
+      "“Prends une épée tranchante… comme un rasoir de barbier”",
+      "“Prends un couteau émoussé… comme un outil de potier”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 5:1 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-055",
+    "book": "Ézéchiel",
+    "chapter": 5,
+    "verseRef": "Ézéchiel 5:2",
+    "verseText": "Voir Ézéchiel 5:2.",
+    "question": "Quel partage en trois (signe) est explicitement ordonné ?",
+    "choices": [
+      "Brûler un tiers, frapper un tiers, disperser un tiers au vent",
+      "Donner un tiers au temple, un tiers aux pauvres, un tiers aux rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 5:2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-056",
+    "book": "Ézéchiel",
+    "chapter": 2,
+    "verseRef": "Ézéchiel 2:10",
+    "verseText": "Voir Ézéchiel 2:10.",
+    "question": "Quel contenu remplit le rouleau vu au chapitre 2 ?",
+    "choices": [
+      "“des lamentations, des plaintes et des gémissements”",
+      "“des proverbes, des énigmes et des louanges”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 2:10 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-057",
+    "book": "Ézéchiel",
+    "chapter": 3,
+    "verseRef": "Ézéchiel 3:15",
+    "verseText": "Voir Ézéchiel 3:15.",
+    "question": "Quel mot décrit l’état d’Ézéchiel après son arrivée parmi les exilés (synonyme piégeant) ?",
+    "choices": [
+      "“stupéfait”",
+      "“réjoui”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 3:15 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-058",
+    "book": "Ézéchiel",
+    "chapter": 36,
+    "verseRef": "Ézéchiel 36:25",
+    "verseText": "Voir Ézéchiel 36:25.",
+    "question": "Quelle formulation annonce la purification à venir (restauration) ?",
+    "choices": [
+      "“Je répandrai sur vous une eau pure, et vous serez purifiés”",
+      "“Je répandrai sur vous du feu, et vous serez consumés”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 36:25 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-059",
+    "book": "Ézéchiel",
+    "chapter": 11,
+    "verseRef": "Ézéchiel 11:19",
+    "verseText": "Voir Ézéchiel 11:19.",
+    "question": "Quel couple “cœur / esprit” est annoncé comme transformation intérieure ?",
+    "choices": [
+      "“un cœur nouveau… un esprit nouveau”",
+      "“un cœur de pierre… un esprit de mort”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 11:19 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-060",
+    "book": "Ézéchiel",
+    "chapter": 48,
+    "verseRef": "Ézéchiel 48:35",
+    "verseText": "Voir Ézéchiel 48:35.",
+    "question": "Quelle phrase précise le nouveau nom final de la ville (ponctuation comprise) ?",
+    "choices": [
+      "“l’Eternel est ici.”",
+      "“l’Eternel est loin.”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 48:35 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-061",
+    "book": "Ézéchiel",
+    "chapter": 3,
+    "verseRef": "Ézéchiel 3:18",
+    "verseText": "Voir Ézéchiel 3:18.",
+    "question": "Quelle menace précise Dieu annonce-t-il si le prophète n’avertit pas le méchant ?",
+    "choices": [
+      "“Je redemanderai son sang de ta main”",
+      "“Je bénirai ta maison pour toujours”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 3:18 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-062",
+    "book": "Ézéchiel",
+    "chapter": 3,
+    "verseRef": "Ézéchiel 3:8-9",
+    "verseText": "Voir Ézéchiel 3:8-9.",
+    "question": "Quel détail rend l’opposition du prophète encore plus ferme face au peuple ?",
+    "choices": [
+      "“J’endurcirai ton front” comme le diamant",
+      "“Je rendrai ton cœur craintif” comme la cire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 3:8-9 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-063",
+    "book": "Ézéchiel",
+    "chapter": 12,
+    "verseRef": "Ézéchiel 12:6",
+    "verseText": "Voir Ézéchiel 12:6.",
+    "question": "Dans le signe de l’exil, quel détail de portage est explicitement demandé ?",
+    "choices": [
+      "Porter le bagage sur l’épaule dans l’obscurité",
+      "Porter le bagage sur la tête en plein midi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 12:6 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-064",
+    "book": "Ézéchiel",
+    "chapter": 12,
+    "verseRef": "Ézéchiel 12:6",
+    "verseText": "Voir Ézéchiel 12:6.",
+    "question": "Dans le même signe, pourquoi Ézéchiel doit-il couvrir sa face en sortant ?",
+    "choices": [
+      "“afin qu’il ne voie pas le pays”",
+      "“afin qu’il voie mieux le pays”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 12:6 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-065",
+    "book": "Ézéchiel",
+    "chapter": 12,
+    "verseRef": "Ézéchiel 12:22",
+    "verseText": "Voir Ézéchiel 12:22.",
+    "question": "Quel “proverbe” est condamné comme expression populaire en Israël ?",
+    "choices": [
+      "“Les jours se prolongent, et toutes les visions sont sans effet”",
+      "“Le juste vivra par la foi”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 12:22 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-066",
+    "book": "Ézéchiel",
+    "chapter": 12,
+    "verseRef": "Ézéchiel 12:23",
+    "verseText": "Voir Ézéchiel 12:23.",
+    "question": "Quelle réplique divine annonce la fin de ce proverbe ?",
+    "choices": [
+      "“Les jours approchent, et toutes les visions s’accompliront”",
+      "“Les visions disparaîtront de la terre”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 12:23 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-067",
+    "book": "Ézéchiel",
+    "chapter": 13,
+    "verseRef": "Ézéchiel 13:4",
+    "verseText": "Voir Ézéchiel 13:4.",
+    "question": "Quelle image décrit les faux prophètes au milieu des ruines ?",
+    "choices": [
+      "“comme des renards dans les ruines”",
+      "“comme des brebis dans les pâturages”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 13:4 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-068",
+    "book": "Ézéchiel",
+    "chapter": 13,
+    "verseRef": "Ézéchiel 13:10",
+    "verseText": "Voir Ézéchiel 13:10.",
+    "question": "Quel slogan trompeur est rapporté mot pour mot ?",
+    "choices": [
+      "“Paix ! paix !” quand il n’y a point de paix",
+      "“Force ! force !” quand il n’y a point de force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 13:10 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-069",
+    "book": "Ézéchiel",
+    "chapter": 13,
+    "verseRef": "Ézéchiel 13:5",
+    "verseText": "Voir Ézéchiel 13:5.",
+    "question": "Quel acte ils n’ont pas accompli pour protéger la maison d’Israël ?",
+    "choices": [
+      "“Vous n’êtes pas montés à la brèche”",
+      "“Vous avez fermé les portes du temple”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 13:5 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-070",
+    "book": "Ézéchiel",
+    "chapter": 13,
+    "verseRef": "Ézéchiel 13:10-11",
+    "verseText": "Voir Ézéchiel 13:10-11.",
+    "question": "Quel procédé illustre la fausseté de leur sécurité ?",
+    "choices": [
+      "Un mur qu’on enduit de plâtre et qui s’écroule",
+      "Une muraille de granit qui résiste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 13:10-11 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-071",
+    "book": "Ézéchiel",
+    "chapter": 14,
+    "verseRef": "Ézéchiel 14:14",
+    "verseText": "Voir Ézéchiel 14:14.",
+    "question": "Quels trois hommes sont cités comme modèles de justice ne sauvant qu’eux-mêmes ?",
+    "choices": [
+      "Noé, Daniel et Job",
+      "Abraham, Isaac et Jacob"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 14:14 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-072",
+    "book": "Ézéchiel",
+    "chapter": 14,
+    "verseRef": "Ézéchiel 14:14",
+    "verseText": "Voir Ézéchiel 14:14.",
+    "question": "Quelle condition précise est donnée : même si ces hommes étaient “au milieu d’elle” ?",
+    "choices": [
+      "“ils sauveraient leur âme par leur justice”",
+      "“ils sauveraient toute la ville par leurs sacrifices”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 14:14 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-073",
+    "book": "Ézéchiel",
+    "chapter": 16,
+    "verseRef": "Ézéchiel 16:5",
+    "verseText": "Voir Ézéchiel 16:5.",
+    "question": "Quelle description choquante marque l’abandon de Jérusalem à sa naissance ?",
+    "choices": [
+      "“Jetée dans les champs… souillée de ton sang”",
+      "“Placée dans un palais… vêtue de lin fin”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 16:5 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-074",
+    "book": "Ézéchiel",
+    "chapter": 16,
+    "verseRef": "Ézéchiel 16:6",
+    "verseText": "Voir Ézéchiel 16:6.",
+    "question": "Quelle parole paradoxale est prononcée sur l’enfant “dans son sang” ?",
+    "choices": [
+      "“Vis dans ton sang !”",
+      "“Meurs dans ton sang !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 16:6 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-075",
+    "book": "Ézéchiel",
+    "chapter": 16,
+    "verseRef": "Ézéchiel 16:12",
+    "verseText": "Voir Ézéchiel 16:12.",
+    "question": "Quel ornement est explicitement mentionné parmi les dons faits à Jérusalem ?",
+    "choices": [
+      "“un anneau au nez”",
+      "“une couronne de laurier”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 16:12 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-076",
+    "book": "Ézéchiel",
+    "chapter": 16,
+    "verseRef": "Ézéchiel 16:17",
+    "verseText": "Voir Ézéchiel 16:17.",
+    "question": "Quel usage pervers Jérusalem fait-elle de l’or et de l’argent reçus ?",
+    "choices": [
+      "“Tu en as fait des images d’hommes”",
+      "“Tu en as fait des autels pour l’Éternel”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 16:17 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-077",
+    "book": "Ézéchiel",
+    "chapter": 16,
+    "verseRef": "Ézéchiel 16:20",
+    "verseText": "Voir Ézéchiel 16:20.",
+    "question": "Quel acte terrible est dit au sujet des enfants dans ce passage ?",
+    "choices": [
+      "“Tu les as immolés pour qu’ils leur fussent dévorés”",
+      "“Tu les as instruits dans la loi”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 16:20 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-078",
+    "book": "Ézéchiel",
+    "chapter": 17,
+    "verseRef": "Ézéchiel 17:7",
+    "verseText": "Voir Ézéchiel 17:7.",
+    "question": "Dans la parabole des deux aigles, que fait la vigne envers l’autre aigle ?",
+    "choices": [
+      "Elle tourne ses racines vers lui et étend ses rameaux vers lui",
+      "Elle coupe ses racines et se dessèche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 17:7 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-079",
+    "book": "Ézéchiel",
+    "chapter": 17,
+    "verseRef": "Ézéchiel 17:15",
+    "verseText": "Voir Ézéchiel 17:15.",
+    "question": "Quel acte politique est qualifié de trahison dans l’explication ?",
+    "choices": [
+      "Envoyer des messagers en Égypte pour avoir des chevaux et un grand nombre de gens de pied",
+      "Envoyer des messagers à Moab pour bâtir un temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 17:15 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-080",
+    "book": "Ézéchiel",
+    "chapter": 17,
+    "verseRef": "Ézéchiel 17:18",
+    "verseText": "Voir Ézéchiel 17:18.",
+    "question": "Quel point rend la faute encore plus grave ?",
+    "choices": [
+      "“Il a méprisé le serment et rompu l’alliance”",
+      "“Il a cherché la sagesse et gardé la loi”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 17:18 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-081",
+    "book": "Ézéchiel",
+    "chapter": 17,
+    "verseRef": "Ézéchiel 17:21",
+    "verseText": "Voir Ézéchiel 17:21.",
+    "question": "Quel jugement final est annoncé pour celui qui a rompu l’alliance ?",
+    "choices": [
+      "“Il ne s’échappera pas”",
+      "“Il recevra un royaume”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 17:21 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-082",
+    "book": "Ézéchiel",
+    "chapter": 17,
+    "verseRef": "Ézéchiel 17:22",
+    "verseText": "Voir Ézéchiel 17:22.",
+    "question": "Quelle promesse divine conclut la parabole par un acte de plantation ?",
+    "choices": [
+      "“Je prendrai un rejeton… et je le planterai”",
+      "“Je couperai tous les arbres… et je les brûlerai”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 17:22 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-083",
+    "book": "Ézéchiel",
+    "chapter": 18,
+    "verseRef": "Ézéchiel 18:24",
+    "verseText": "Voir Ézéchiel 18:24.",
+    "question": "Selon le principe de justice, qu’arrive-t-il si le juste se détourne de sa justice ?",
+    "choices": [
+      "“Il mourra”",
+      "“Il sera automatiquement pardonné sans condition”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 18:24 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-084",
+    "book": "Ézéchiel",
+    "chapter": 18,
+    "verseRef": "Ézéchiel 18:30",
+    "verseText": "Voir Ézéchiel 18:30.",
+    "question": "Quel appel direct est lancé pour éviter cette issue ?",
+    "choices": [
+      "“Revenez et détournez-vous de toutes vos transgressions”",
+      "“Cachez-vous et attendez des jours meilleurs”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 18:30 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-085",
+    "book": "Ézéchiel",
+    "chapter": 18,
+    "verseRef": "Ézéchiel 18:32",
+    "verseText": "Voir Ézéchiel 18:32.",
+    "question": "Quelle formule résume le désir de Dieu face à la mort ?",
+    "choices": [
+      "“Je ne prends point plaisir à la mort de celui qui meurt”",
+      "“Je prends plaisir à la ruine du méchant”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 18:32 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-086",
+    "book": "Ézéchiel",
+    "chapter": 19,
+    "verseRef": "Ézéchiel 19:2",
+    "verseText": "Voir Ézéchiel 19:2.",
+    "question": "Quelle plainte en forme de lamentation ouvre le chapitre 19 ?",
+    "choices": [
+      "“Que ta mère était une lionne !”",
+      "“Que ton père était un aigle !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 19:2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-087",
+    "book": "Ézéchiel",
+    "chapter": 19,
+    "verseRef": "Ézéchiel 19:9",
+    "verseText": "Voir Ézéchiel 19:9.",
+    "question": "Où le lionceau captif est-il emmené, selon le texte ?",
+    "choices": [
+      "À Babylone",
+      "À Damas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 19:9 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-088",
+    "book": "Ézéchiel",
+    "chapter": 20,
+    "verseRef": "Ézéchiel 20:7",
+    "verseText": "Voir Ézéchiel 20:7.",
+    "question": "Dans le chapitre 20, quel ordre Dieu répète-t-il au sujet des idoles d’Égypte ?",
+    "choices": [
+      "“Rejetez chacun les abominations de ses yeux”",
+      "“Gardez chacun les abominations de ses yeux”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 20:7 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-089",
+    "book": "Ézéchiel",
+    "chapter": 20,
+    "verseRef": "Ézéchiel 20:13",
+    "verseText": "Voir Ézéchiel 20:13.",
+    "question": "Quel élément d’alliance est rappelé comme signe distinctif profané ?",
+    "choices": [
+      "Les sabbats",
+      "Les fêtes de récolte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 20:13 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-090",
+    "book": "Ézéchiel",
+    "chapter": 20,
+    "verseRef": "Ézéchiel 20:47",
+    "verseText": "Voir Ézéchiel 20:47.",
+    "question": "Quel jugement est annoncé contre “la forêt du midi” dans l’énigme ?",
+    "choices": [
+      "Un feu qui ne s’éteindra point et qui dévorera tout arbre vert et tout arbre sec",
+      "Une rivière qui arrosera chaque arbre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 20:47 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-091",
+    "book": "Ézéchiel",
+    "chapter": 21,
+    "verseRef": "Ézéchiel 21:9",
+    "verseText": "Voir Ézéchiel 21:9.",
+    "question": "Quel cri marque la vision de l’épée au chapitre 21 ?",
+    "choices": [
+      "“Une épée, une épée est aiguisée, et elle est polie !”",
+      "“Une couronne, une couronne est posée !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 21:9 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-092",
+    "book": "Ézéchiel",
+    "chapter": 21,
+    "verseRef": "Ézéchiel 21:21",
+    "verseText": "Voir Ézéchiel 21:21.",
+    "question": "Dans la scène du carrefour, quel acte de divination est nommé ?",
+    "choices": [
+      "Il secoue les flèches",
+      "Il jette des dés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 21:21 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-093",
+    "book": "Ézéchiel",
+    "chapter": 21,
+    "verseRef": "Ézéchiel 21:21",
+    "verseText": "Voir Ézéchiel 21:21.",
+    "question": "Quelle autre pratique est mentionnée dans la même liste de divination ?",
+    "choices": [
+      "Il interroge les théraphim",
+      "Il consulte la nuée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 21:21 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-094",
+    "book": "Ézéchiel",
+    "chapter": 21,
+    "verseRef": "Ézéchiel 21:21",
+    "verseText": "Voir Ézéchiel 21:21.",
+    "question": "Quel autre acte accompagne encore cette divination ?",
+    "choices": [
+      "Il examine le foie",
+      "Il examine l’eau d’un puits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 21:21 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-095",
+    "book": "Ézéchiel",
+    "chapter": 22,
+    "verseRef": "Ézéchiel 22:7",
+    "verseText": "Voir Ézéchiel 22:7.",
+    "question": "Quel reproche est fait au sujet des parents dans la liste des crimes ?",
+    "choices": [
+      "“En toi, on méprise père et mère”",
+      "“En toi, on honore père et mère”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 22:7 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-096",
+    "book": "Ézéchiel",
+    "chapter": 22,
+    "verseRef": "Ézéchiel 22:7",
+    "verseText": "Voir Ézéchiel 22:7.",
+    "question": "Quel comportement envers l’étranger est aussi dénoncé ?",
+    "choices": [
+      "“On maltraite l’étranger”",
+      "“On élève l’étranger au rang de juge”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 22:7 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-097",
+    "book": "Ézéchiel",
+    "chapter": 22,
+    "verseRef": "Ézéchiel 22:7",
+    "verseText": "Voir Ézéchiel 22:7.",
+    "question": "Quel comportement envers l’orphelin et la veuve est dénoncé ?",
+    "choices": [
+      "“On opprime l’orphelin et la veuve”",
+      "“On enrichit l’orphelin et la veuve”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 22:7 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-098",
+    "book": "Ézéchiel",
+    "chapter": 22,
+    "verseRef": "Ézéchiel 22:30",
+    "verseText": "Voir Ézéchiel 22:30.",
+    "question": "Quel constat terrible conclut la recherche d’un intercesseur ?",
+    "choices": [
+      "“Je cherche parmi eux un homme… mais je n’en trouve point”",
+      "“Je cherche parmi eux un homme… et j’en trouve beaucoup”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 22:30 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-099",
+    "book": "Ézéchiel",
+    "chapter": 24,
+    "verseRef": "Ézéchiel 24:1-2",
+    "verseText": "Voir Ézéchiel 24:1-2.",
+    "question": "Quelle date précise est donnée pour l’annonce du siège de Jérusalem ?",
+    "choices": [
+      "“la neuvième année, le dixième jour du dixième mois”",
+      "“la neuvième année, le dixième jour du quatrième mois”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 24:1-2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-100",
+    "book": "Ézéchiel",
+    "chapter": 24,
+    "verseRef": "Ézéchiel 24:3",
+    "verseText": "Voir Ézéchiel 24:3.",
+    "question": "Quel ordre est donné concernant la “chaudière” dans cette annonce ?",
+    "choices": [
+      "“Mets-la, mets-la, et verses-y de l’eau”",
+      "“Casse-la, casse-la, et jette-la au feu”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 24:3 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-101",
+    "book": "Ézéchiel",
+    "chapter": 24,
+    "verseRef": "Ézéchiel 24:4",
+    "verseText": "Voir Ézéchiel 24:4.",
+    "question": "Quel geste concret est ordonné au sujet des morceaux mis dans la chaudière ?",
+    "choices": [
+      "“Mets-y les morceaux, tous les bons morceaux”",
+      "“Mets-y seulement les os, sans chair”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 24:4 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-102",
+    "book": "Ézéchiel",
+    "chapter": 24,
+    "verseRef": "Ézéchiel 24:6",
+    "verseText": "Voir Ézéchiel 24:6.",
+    "question": "Quel élément impur est pointé comme impossible à enlever facilement ?",
+    "choices": [
+      "“Sa rouille”",
+      "“Sa poussière”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 24:6 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-103",
+    "book": "Ézéchiel",
+    "chapter": 24,
+    "verseRef": "Ézéchiel 24:16",
+    "verseText": "Voir Ézéchiel 24:16.",
+    "question": "Quel événement personnel est nommé “l’objet de tes regards” ?",
+    "choices": [
+      "La femme d’Ézéchiel",
+      "Le temple de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 24:16 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-104",
+    "book": "Ézéchiel",
+    "chapter": 24,
+    "verseRef": "Ézéchiel 24:17",
+    "verseText": "Voir Ézéchiel 24:17.",
+    "question": "Quel ordre paradoxal suit ce coup ?",
+    "choices": [
+      "Ne pas mener de deuil, ne pas pleurer",
+      "Déchirer ses vêtements et crier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 24:17 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-105",
+    "book": "Ézéchiel",
+    "chapter": 29,
+    "verseRef": "Ézéchiel 29:19",
+    "verseText": "Voir Ézéchiel 29:19.",
+    "question": "Quel pays est donné comme salaire à Nebucadnetsar (roi de Babylone) ?",
+    "choices": [
+      "L’Égypte",
+      "L’Assyrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 29:19 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-106",
+    "book": "Ézéchiel",
+    "chapter": 29,
+    "verseRef": "Ézéchiel 29:3",
+    "verseText": "Voir Ézéchiel 29:3.",
+    "question": "Quelle image décrit Pharaon dans l’oracle contre l’Égypte ?",
+    "choices": [
+      "“le grand dragon… au milieu de ses fleuves”",
+      "“le grand aigle… au-dessus des mers”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 29:3 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-107",
+    "book": "Ézéchiel",
+    "chapter": 29,
+    "verseRef": "Ézéchiel 29:6-7",
+    "verseText": "Voir Ézéchiel 29:6-7.",
+    "question": "Quel reproche explique pourquoi l’Égypte est un mauvais appui ?",
+    "choices": [
+      "“un roseau” pour la maison d’Israël",
+      "“une tour” pour la maison d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 29:6-7 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-108",
+    "book": "Ézéchiel",
+    "chapter": 29,
+    "verseRef": "Ézéchiel 29:11-12",
+    "verseText": "Voir Ézéchiel 29:11-12.",
+    "question": "Quelle conséquence concerne l’Égypte sur une longue période annoncée ?",
+    "choices": [
+      "Quarante ans de désolation",
+      "Sept ans de prospérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 29:11-12 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-109",
+    "book": "Ézéchiel",
+    "chapter": 25,
+    "verseRef": "Ézéchiel 25:4",
+    "verseText": "Voir Ézéchiel 25:4.",
+    "question": "Quel jugement est annoncé aux Ammonites après leurs moqueries ?",
+    "choices": [
+      "Ils seront livrés aux fils de l’Orient",
+      "Ils seront établis rois à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 25:4 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-110",
+    "book": "Ézéchiel",
+    "chapter": 25,
+    "verseRef": "Ézéchiel 25:8",
+    "verseText": "Voir Ézéchiel 25:8.",
+    "question": "Quelle parole de Moab est jugée offensante contre Juda ?",
+    "choices": [
+      "“La maison de Juda est comme toutes les nations”",
+      "“La maison de Juda est la plus sainte des nations”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 25:8 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-111",
+    "book": "Ézéchiel",
+    "chapter": 25,
+    "verseRef": "Ézéchiel 25:12",
+    "verseText": "Voir Ézéchiel 25:12.",
+    "question": "Quel motif est dénoncé chez Édom ?",
+    "choices": [
+      "“il s’est vengé”",
+      "“il a secouru”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 25:12 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-112",
+    "book": "Ézéchiel",
+    "chapter": 25,
+    "verseRef": "Ézéchiel 25:17",
+    "verseText": "Voir Ézéchiel 25:17.",
+    "question": "Quel jugement contre les Philistins est formulé en termes forts ?",
+    "choices": [
+      "“de grandes vengeances, en les châtiant avec fureur”",
+      "“de grandes bénédictions, en les comblant de joie”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 25:17 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-113",
+    "book": "Ézéchiel",
+    "chapter": 26,
+    "verseRef": "Ézéchiel 26:2",
+    "verseText": "Voir Ézéchiel 26:2.",
+    "question": "Quelle phrase de Tyr révèle sa joie malsaine ?",
+    "choices": [
+      "“Ah ! elle est brisée, la porte des peuples !”",
+      "“Ah ! elle est relevée, la porte des peuples !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 26:2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-114",
+    "book": "Ézéchiel",
+    "chapter": 26,
+    "verseRef": "Ézéchiel 26:4",
+    "verseText": "Voir Ézéchiel 26:4.",
+    "question": "Quel détail de destruction est annoncé contre Tyr, au-delà des murailles ?",
+    "choices": [
+      "“On raclera même sa poussière”",
+      "“On couvrira ses rues d’or”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 26:4 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-115",
+    "book": "Ézéchiel",
+    "chapter": 26,
+    "verseRef": "Ézéchiel 26:14",
+    "verseText": "Voir Ézéchiel 26:14.",
+    "question": "Quel usage de Tyr est interdit après son jugement (image finale) ?",
+    "choices": [
+      "“Tu seras un lieu où l’on étendra des filets”",
+      "“Tu seras un lieu où l’on dressera des tentes”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 26:14 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-116",
+    "book": "Ézéchiel",
+    "chapter": 28,
+    "verseRef": "Ézéchiel 28:2",
+    "verseText": "Voir Ézéchiel 28:2.",
+    "question": "Quel aveu orgueilleux du prince de Tyr est cité mot pour mot ?",
+    "choices": [
+      "“Je suis Dieu, je suis assis sur le siège de Dieu”",
+      "“Je suis serviteur, je suis assis dans la poussière”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 28:2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-117",
+    "book": "Ézéchiel",
+    "chapter": 28,
+    "verseRef": "Ézéchiel 28:10",
+    "verseText": "Voir Ézéchiel 28:10.",
+    "question": "Quelle mort lui est annoncée malgré cet aveu ?",
+    "choices": [
+      "“la mort des incirconcis, par la main des étrangers”",
+      "“une mort paisible, entouré de ses amis”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 28:10 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-118",
+    "book": "Ézéchiel",
+    "chapter": 1,
+    "verseRef": "Ézéchiel 1:1",
+    "verseText": "Voir Ézéchiel 1:1.",
+    "question": "Quel lieu d’origine du prophète est rappelé au tout début (piège de confusion) ?",
+    "choices": [
+      "“le fleuve du Kebar”",
+      "“le fleuve de l’Euphrate”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 1:1 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-119",
+    "book": "Ézéchiel",
+    "chapter": 48,
+    "verseRef": "Ézéchiel 48:35",
+    "verseText": "Voir Ézéchiel 48:35.",
+    "question": "Quel nom final de la ville clôt exactement le livre ?",
+    "choices": [
+      "“l’Eternel est ici”",
+      "“l’Eternel règne”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 48:35 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-120",
+    "book": "Ézéchiel",
+    "chapter": 48,
+    "verseRef": "Ézéchiel 48:35",
+    "verseText": "Voir Ézéchiel 48:35.",
+    "question": "Quel “circuit” total est donné pour la ville dans la même phrase finale ?",
+    "choices": [
+      "“dix-huit mille cannes”",
+      "“quinze mille cannes”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 48:35 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-121",
+    "book": "Ézéchiel",
+    "chapter": 29,
+    "verseRef": "Ézéchiel 29:10",
+    "verseText": "Voir Ézéchiel 29:10.",
+    "question": "Quelle formule fixe la limite géographique de la désolation d’Égypte ?",
+    "choices": [
+      "“de Migdol à Syène”",
+      "“de Béthel à Hébron”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 29:10 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-122",
+    "book": "Ézéchiel",
+    "chapter": 29,
+    "verseRef": "Ézéchiel 29:12",
+    "verseText": "Voir Ézéchiel 29:12.",
+    "question": "Quelle durée exacte est donnée pour l’abandon des villes d’Égypte ?",
+    "choices": [
+      "Quarante ans",
+      "Trente ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 29:12 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-123",
+    "book": "Ézéchiel",
+    "chapter": 29,
+    "verseRef": "Ézéchiel 29:14",
+    "verseText": "Voir Ézéchiel 29:14.",
+    "question": "Où Dieu dit-il qu’il ramènera l’Égypte “dans le pays de leur origine” ?",
+    "choices": [
+      "“dans le pays de Pathros”",
+      "“dans le pays de Moab”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 29:14 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-124",
+    "book": "Ézéchiel",
+    "chapter": 29,
+    "verseRef": "Ézéchiel 29:15",
+    "verseText": "Voir Ézéchiel 29:15.",
+    "question": "Comment Dieu décrit-il la position future de l’Égypte parmi les royaumes ?",
+    "choices": [
+      "“Ce sera le plus abattu des royaumes”",
+      "“Ce sera le plus élevé des royaumes”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 29:15 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-125",
+    "book": "Ézéchiel",
+    "chapter": 30,
+    "verseRef": "Ézéchiel 30:20",
+    "verseText": "Voir Ézéchiel 30:20.",
+    "question": "Quelle date ouvre l’oracle sur le bras rompu de Pharaon ?",
+    "choices": [
+      "“La onzième année, le septième jour du premier mois”",
+      "“La dixième année, le premier jour du dixième mois”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 30:20 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-126",
+    "book": "Ézéchiel",
+    "chapter": 30,
+    "verseRef": "Ézéchiel 30:21",
+    "verseText": "Voir Ézéchiel 30:21.",
+    "question": "Quel détail médical est explicitement nié au sujet du bras de Pharaon ?",
+    "choices": [
+      "“On ne l’a point pansé… On ne l’a point enveloppé d’un bandage”",
+      "“On l’a pansé… et on l’a enveloppé d’un bandage”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 30:21 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-127",
+    "book": "Ézéchiel",
+    "chapter": 30,
+    "verseRef": "Ézéchiel 30:22",
+    "verseText": "Voir Ézéchiel 30:22.",
+    "question": "Quelle formule annonce la chute des bras de Pharaon ?",
+    "choices": [
+      "“Je ferai tomber les bras de Pharaon”",
+      "“Je rendrai forts les bras de Pharaon”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 30:22 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-128",
+    "book": "Ézéchiel",
+    "chapter": 30,
+    "verseRef": "Ézéchiel 30:3",
+    "verseText": "Voir Ézéchiel 30:3.",
+    "question": "Quel titre est donné au jour du jugement, dans l’annonce contre l’Égypte ?",
+    "choices": [
+      "“le jour de l’Éternel”",
+      "“le jour du roi”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 30:3 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-129",
+    "book": "Ézéchiel",
+    "chapter": 31,
+    "verseRef": "Ézéchiel 31:3",
+    "verseText": "Voir Ézéchiel 31:3.",
+    "question": "À quoi l’Assyrie est-elle comparée dans l’image du chapitre 31 ?",
+    "choices": [
+      "“un cèdre du Liban”",
+      "“un buisson du désert”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 31:3 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-130",
+    "book": "Ézéchiel",
+    "chapter": 31,
+    "verseRef": "Ézéchiel 31:4",
+    "verseText": "Voir Ézéchiel 31:4.",
+    "question": "Quelle cause est donnée pour sa croissance et son élévation ?",
+    "choices": [
+      "“Les eaux l’avaient fait croître, L’abîme l’avait fait pousser en hauteur”",
+      "“Le feu l’avait fait croître, Le sable l’avait fait pousser”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 31:4 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-131",
+    "book": "Ézéchiel",
+    "chapter": 31,
+    "verseRef": "Ézéchiel 31:10",
+    "verseText": "Voir Ézéchiel 31:10.",
+    "question": "À cause de quoi Dieu le livre-t-il au héros des nations ?",
+    "choices": [
+      "“son cœur était fier de sa hauteur”",
+      "“son cœur était brisé par la repentance”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 31:10 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-132",
+    "book": "Ézéchiel",
+    "chapter": 31,
+    "verseRef": "Ézéchiel 31:12",
+    "verseText": "Voir Ézéchiel 31:12.",
+    "question": "Quel acte est attribué aux étrangers contre cet arbre symbolique ?",
+    "choices": [
+      "“Ils l’ont abattu et rejeté”",
+      "“Ils l’ont couronné et élevé”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 31:12 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-133",
+    "book": "Ézéchiel",
+    "chapter": 32,
+    "verseRef": "Ézéchiel 32:1",
+    "verseText": "Voir Ézéchiel 32:1.",
+    "question": "Quelle date ouvre la complainte sur Pharaon au chapitre 32 ?",
+    "choices": [
+      "“La douzième année, le premier jour du douzième mois”",
+      "“La onzième année, le septième jour du premier mois”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 32:1 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-134",
+    "book": "Ézéchiel",
+    "chapter": 32,
+    "verseRef": "Ézéchiel 32:2",
+    "verseText": "Voir Ézéchiel 32:2.",
+    "question": "Quelle double comparaison décrit Pharaon dans la plainte ?",
+    "choices": [
+      "“lionceau… crocodile dans les mers”",
+      "“agneau… colombe dans les airs”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 32:2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-135",
+    "book": "Ézéchiel",
+    "chapter": 32,
+    "verseRef": "Ézéchiel 32:7",
+    "verseText": "Voir Ézéchiel 32:7.",
+    "question": "Quel effet céleste est annoncé quand Dieu “éteint” Pharaon ?",
+    "choices": [
+      "“Je couvrirai le ciel, et j’obscurcirai ses étoiles”",
+      "“Je ferai briller le soleil sept fois plus”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 32:7 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-136",
+    "book": "Ézéchiel",
+    "chapter": 32,
+    "verseRef": "Ézéchiel 32:14",
+    "verseText": "Voir Ézéchiel 32:14.",
+    "question": "Quel détail de style décrit la qualité des eaux après le jugement ?",
+    "choices": [
+      "“Je ferai couler leurs fleuves comme de l’huile”",
+      "“Je ferai bouillonner leurs fleuves comme du feu”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 32:14 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-137",
+    "book": "Ézéchiel",
+    "chapter": 33,
+    "verseRef": "Ézéchiel 33:21",
+    "verseText": "Voir Ézéchiel 33:21.",
+    "question": "Quel jour de captivité situe l’arrivée de l’homme annonçant la prise de Jérusalem ?",
+    "choices": [
+      "“La douzième année, le cinquième jour du dixième mois de notre captivité”",
+      "“La treizième année, le premier jour du premier mois”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 33:21 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-138",
+    "book": "Ézéchiel",
+    "chapter": 33,
+    "verseRef": "Ézéchiel 33:22",
+    "verseText": "Voir Ézéchiel 33:22.",
+    "question": "Quand l’Éternel ouvre-t-il la bouche d’Ézéchiel, selon la description précise ?",
+    "choices": [
+      "“le soir avant l’arrivée du fugitif… lorsqu’il vint auprès de moi le matin”",
+      "“après sept jours de jeûne… lorsqu’il vint auprès de moi le soir”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 33:22 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-139",
+    "book": "Ézéchiel",
+    "chapter": 33,
+    "verseRef": "Ézéchiel 33:22",
+    "verseText": "Voir Ézéchiel 33:22.",
+    "question": "Quelle phrase marque la fin de son mutisme ?",
+    "choices": [
+      "“je n’étais plus muet”",
+      "“je demeurai muet pour toujours”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 33:22 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-140",
+    "book": "Ézéchiel",
+    "chapter": 33,
+    "verseRef": "Ézéchiel 33:24",
+    "verseText": "Voir Ézéchiel 33:24.",
+    "question": "Quelle plainte des habitants des ruines est rapportée mot à mot (piège de formulation) ?",
+    "choices": [
+      "“Abraham était seul, et il a hérité le pays; à nous qui sommes nombreux, le pays est donné en possession.”",
+      "“Moïse était seul, et il a hérité le pays; à nous qui sommes nombreux, la mer est donnée.”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 33:24 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-141",
+    "book": "Ézéchiel",
+    "chapter": 34,
+    "verseRef": "Ézéchiel 34:25",
+    "verseText": "Voir Ézéchiel 34:25.",
+    "question": "Quel pacte est annoncé dans la restauration pastorale ?",
+    "choices": [
+      "“une alliance de paix”",
+      "“une alliance de guerre”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 34:25 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-142",
+    "book": "Ézéchiel",
+    "chapter": 34,
+    "verseRef": "Ézéchiel 34:26",
+    "verseText": "Voir Ézéchiel 34:26.",
+    "question": "Quelle conséquence agricole est liée à cette alliance ?",
+    "choices": [
+      "“Je ferai tomber des pluies en leur saison”",
+      "“Je ferai tomber de la grêle chaque jour”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 34:26 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-143",
+    "book": "Ézéchiel",
+    "chapter": 34,
+    "verseRef": "Ézéchiel 34:28",
+    "verseText": "Voir Ézéchiel 34:28.",
+    "question": "Quel état de sécurité est décrit pour les brebis délivrées ?",
+    "choices": [
+      "“Ils dormiront sans crainte”",
+      "“Ils dormiront avec épouvante”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 34:28 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-144",
+    "book": "Ézéchiel",
+    "chapter": 36,
+    "verseRef": "Ézéchiel 36:23",
+    "verseText": "Voir Ézéchiel 36:23.",
+    "question": "Quel acte de sanctification est proclamé devant les nations (formule exacte) ?",
+    "choices": [
+      "“Je sanctifierai mon grand nom”",
+      "“Je renierai mon grand nom”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 36:23 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-145",
+    "book": "Ézéchiel",
+    "chapter": 36,
+    "verseRef": "Ézéchiel 36:25",
+    "verseText": "Voir Ézéchiel 36:25.",
+    "question": "Quel acte de purification précède la transformation intérieure ?",
+    "choices": [
+      "“Je répandrai sur vous une eau pure”",
+      "“Je répandrai sur vous du sel”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 36:25 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-146",
+    "book": "Ézéchiel",
+    "chapter": 36,
+    "verseRef": "Ézéchiel 36:26",
+    "verseText": "Voir Ézéchiel 36:26.",
+    "question": "Quelle paire “pierre / chair” est promise concernant le cœur ?",
+    "choices": [
+      "Ôter “le cœur de pierre” et donner “un cœur de chair”",
+      "Ôter “le cœur de chair” et donner “un cœur de pierre”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 36:26 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-147",
+    "book": "Ézéchiel",
+    "chapter": 36,
+    "verseRef": "Ézéchiel 36:27",
+    "verseText": "Voir Ézéchiel 36:27.",
+    "question": "Quelle finalité d’obéissance est donnée après le don de l’Esprit ?",
+    "choices": [
+      "“vous suivrez mes ordonnances”",
+      "“vous suivrez les nations”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 36:27 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-148",
+    "book": "Ézéchiel",
+    "chapter": 37,
+    "verseRef": "Ézéchiel 37:7",
+    "verseText": "Voir Ézéchiel 37:7.",
+    "question": "Quel bruit est nommé lors du rassemblement des os ?",
+    "choices": [
+      "“un fracas”",
+      "“un chant”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 37:7 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-149",
+    "book": "Ézéchiel",
+    "chapter": 37,
+    "verseRef": "Ézéchiel 37:8",
+    "verseText": "Voir Ézéchiel 37:8.",
+    "question": "Après l’apparition des nerfs, chair et peau, qu’est-ce qui manque explicitement encore ?",
+    "choices": [
+      "“il n’y avait point en eux d’esprit”",
+      "“il n’y avait point en eux de lumière”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 37:8 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-150",
+    "book": "Ézéchiel",
+    "chapter": 37,
+    "verseRef": "Ézéchiel 37:9",
+    "verseText": "Voir Ézéchiel 37:9.",
+    "question": "D’où doit venir le souffle invoqué ?",
+    "choices": [
+      "“des quatre vents”",
+      "“des quatre fleuves”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 37:9 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-151",
+    "book": "Ézéchiel",
+    "chapter": 38,
+    "verseRef": "Ézéchiel 38:22",
+    "verseText": "Voir Ézéchiel 38:22.",
+    "question": "Quel jugement fait partie de la liste contre Gog, en termes météorologiques ?",
+    "choices": [
+      "“des pierres de grêle”",
+      "“du sable brûlant”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 38:22 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-152",
+    "book": "Ézéchiel",
+    "chapter": 39,
+    "verseRef": "Ézéchiel 39:9",
+    "verseText": "Voir Ézéchiel 39:9.",
+    "question": "Quelle durée est donnée pour brûler les armes après la victoire ?",
+    "choices": [
+      "Sept ans",
+      "Sept jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 39:9 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-153",
+    "book": "Ézéchiel",
+    "chapter": 39,
+    "verseRef": "Ézéchiel 39:11",
+    "verseText": "Voir Ézéchiel 39:11.",
+    "question": "Quel nom exact est donné à la vallée d’ensevelissement de Gog ?",
+    "choices": [
+      "“la vallée de Hamon-Gog”",
+      "“la vallée de Hamon-David”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 39:11 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-154",
+    "book": "Ézéchiel",
+    "chapter": 44,
+    "verseRef": "Ézéchiel 44:1-2",
+    "verseText": "Voir Ézéchiel 44:1-2.",
+    "question": "Quel détail est donné sur la porte extérieure de l’orient (statut) ?",
+    "choices": [
+      "“Elle était fermée”",
+      "“Elle était ouverte nuit et jour”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 44:1-2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-155",
+    "book": "Ézéchiel",
+    "chapter": 44,
+    "verseRef": "Ézéchiel 44:2",
+    "verseText": "Voir Ézéchiel 44:2.",
+    "question": "Pourquoi cette porte doit-elle rester fermée ?",
+    "choices": [
+      "“parce que l’Éternel, le Dieu d’Israël, est entré par là”",
+      "“parce que les étrangers l’ont murée”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 44:2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-156",
+    "book": "Ézéchiel",
+    "chapter": 44,
+    "verseRef": "Ézéchiel 44:3",
+    "verseText": "Voir Ézéchiel 44:3.",
+    "question": "Qui peut s’y asseoir pour manger le pain devant l’Éternel ?",
+    "choices": [
+      "“le prince”",
+      "“le peuple”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 44:3 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-157",
+    "book": "Ézéchiel",
+    "chapter": 44,
+    "verseRef": "Ézéchiel 44:15",
+    "verseText": "Voir Ézéchiel 44:15.",
+    "question": "Quel groupe est nommé comme s’approchant de Dieu pour le service du sanctuaire ?",
+    "choices": [
+      "“les sacrificateurs, les Lévites, fils de Tsadok”",
+      "“les sacrificateurs, fils de Koré”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 44:15 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-158",
+    "book": "Ézéchiel",
+    "chapter": 44,
+    "verseRef": "Ézéchiel 44:17",
+    "verseText": "Voir Ézéchiel 44:17.",
+    "question": "Quel tissu est exigé pour leurs vêtements dans le service ?",
+    "choices": [
+      "“le lin”",
+      "“la laine”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 44:17 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-159",
+    "book": "Ézéchiel",
+    "chapter": 44,
+    "verseRef": "Ézéchiel 44:18",
+    "verseText": "Voir Ézéchiel 44:18.",
+    "question": "Quelle consigne est donnée pour éviter la transpiration (formule piégeante) ?",
+    "choices": [
+      "“Ils ne se ceindront point avec quelque chose qui fasse suer”",
+      "“Ils se ceindront avec quelque chose qui fasse suer”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 44:18 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-160",
+    "book": "Ézéchiel",
+    "chapter": 44,
+    "verseRef": "Ézéchiel 44:21",
+    "verseText": "Voir Ézéchiel 44:21.",
+    "question": "Quelle interdiction vise l’entrée dans le parvis intérieur ?",
+    "choices": [
+      "“Ils ne boiront point de vin”",
+      "“Ils boiront du vin”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 44:21 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-161",
+    "book": "Ézéchiel",
+    "chapter": 44,
+    "verseRef": "Ézéchiel 44:23",
+    "verseText": "Voir Ézéchiel 44:23.",
+    "question": "Quel enseignement doctrinal est exigé des sacrificateurs envers le peuple ?",
+    "choices": [
+      "Distinguer le saint du profane",
+      "Distinguer le riche du pauvre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 44:23 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-162",
+    "book": "Ézéchiel",
+    "chapter": 45,
+    "verseRef": "Ézéchiel 45:11",
+    "verseText": "Voir Ézéchiel 45:11.",
+    "question": "Quelle égalité de référence est posée entre épha, bath et homer ?",
+    "choices": [
+      "Épha et bath = la dixième partie d’un homer",
+      "Épha et bath = la moitié d’un homer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 45:11 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-163",
+    "book": "Ézéchiel",
+    "chapter": 45,
+    "verseRef": "Ézéchiel 45:18",
+    "verseText": "Voir Ézéchiel 45:18.",
+    "question": "Quel jour ouvre la règle de purification du sanctuaire au début de l’année ?",
+    "choices": [
+      "“le premier jour du premier mois”",
+      "“le premier jour du septième mois”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 45:18 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-164",
+    "book": "Ézéchiel",
+    "chapter": 45,
+    "verseRef": "Ézéchiel 45:18",
+    "verseText": "Voir Ézéchiel 45:18.",
+    "question": "Quel animal est nommé pour cette purification ?",
+    "choices": [
+      "“un jeune taureau”",
+      "“un agneau”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 45:18 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-165",
+    "book": "Ézéchiel",
+    "chapter": 45,
+    "verseRef": "Ézéchiel 45:20",
+    "verseText": "Voir Ézéchiel 45:20.",
+    "question": "Quel autre jour est cité pour expier pour “celui qui pèche involontairement” ?",
+    "choices": [
+      "“le septième jour du mois”",
+      "“le vingt-et-unième jour du mois”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 45:20 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-166",
+    "book": "Ézéchiel",
+    "chapter": 45,
+    "verseRef": "Ézéchiel 45:21",
+    "verseText": "Voir Ézéchiel 45:21.",
+    "question": "À quelle date la Pâque est-elle placée dans cette section ?",
+    "choices": [
+      "“le quatorzième jour du mois”",
+      "“le dixième jour du mois”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 45:21 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-167",
+    "book": "Ézéchiel",
+    "chapter": 46,
+    "verseRef": "Ézéchiel 46:18",
+    "verseText": "Voir Ézéchiel 46:18.",
+    "question": "Quel principe empêche le prince d’opprimer le peuple dans les héritages ?",
+    "choices": [
+      "“le prince ne prendra rien de l’héritage du peuple”",
+      "“le prince prendra tout l’héritage du peuple”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 46:18 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-168",
+    "book": "Ézéchiel",
+    "chapter": 46,
+    "verseRef": "Ézéchiel 46:9",
+    "verseText": "Voir Ézéchiel 46:9.",
+    "question": "Quelle règle de sortie des portes est ordonnée au peuple lors des fêtes ?",
+    "choices": [
+      "Sortir par la porte opposée à celle par laquelle on est entré",
+      "Sortir par la même porte que l’entrée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 46:9 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-169",
+    "book": "Ézéchiel",
+    "chapter": 47,
+    "verseRef": "Ézéchiel 47:12",
+    "verseText": "Voir Ézéchiel 47:12.",
+    "question": "Quel détail décrit la constance du feuillage des arbres du torrent ?",
+    "choices": [
+      "“leur feuillage ne se flétrira point”",
+      "“leur feuillage se desséchera”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 47:12 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-170",
+    "book": "Ézéchiel",
+    "chapter": 47,
+    "verseRef": "Ézéchiel 47:12",
+    "verseText": "Voir Ézéchiel 47:12.",
+    "question": "Quel usage médical est attribué aux feuilles ?",
+    "choices": [
+      "“leurs feuilles serviront de remède”",
+      "“leurs feuilles serviront de vêtement”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 47:12 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-171",
+    "book": "Ézéchiel",
+    "chapter": 47,
+    "verseRef": "Ézéchiel 47:22-23",
+    "verseText": "Voir Ézéchiel 47:22-23.",
+    "question": "Quel principe est répété sur l’héritage accordé à l’étranger ?",
+    "choices": [
+      "“vous le traiterez comme un indigène… il aura son héritage”",
+      "“vous le chasserez… il n’aura aucun héritage”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 47:22-23 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-172",
+    "book": "Ézéchiel",
+    "chapter": 48,
+    "verseRef": "Ézéchiel 48:1",
+    "verseText": "Voir Ézéchiel 48:1.",
+    "question": "Quelle tribu apparaît en tête de la liste de répartition du chapitre 48 ?",
+    "choices": [
+      "Dan",
+      "Ruben"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 48:1 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-173",
+    "book": "Ézéchiel",
+    "chapter": 48,
+    "verseRef": "Ézéchiel 48:31",
+    "verseText": "Voir Ézéchiel 48:31.",
+    "question": "Combien de portes la ville possède-t-elle dans la liste finale ?",
+    "choices": [
+      "Douze",
+      "Neuf"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 48:31 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-174",
+    "book": "Ézéchiel",
+    "chapter": 48,
+    "verseRef": "Ézéchiel 48:31",
+    "verseText": "Voir Ézéchiel 48:31.",
+    "question": "Quelle porte est citée explicitement dans la formule “la porte de…” ?",
+    "choices": [
+      "“la porte de Ruben”",
+      "“la porte de Saül”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 48:31 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-175",
+    "book": "Ézéchiel",
+    "chapter": 48,
+    "verseRef": "Ézéchiel 48:35",
+    "verseText": "Voir Ézéchiel 48:35.",
+    "question": "Quel détail complet accompagne le nom final de la ville à la fin du livre ?",
+    "choices": [
+      "“le circuit : dix-huit mille cannes”",
+      "“le circuit : douze mille cannes”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 48:35 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-176",
+    "book": "Ézéchiel",
+    "chapter": 48,
+    "verseRef": "Ézéchiel 48:35",
+    "verseText": "Voir Ézéchiel 48:35.",
+    "question": "Quel nom final est donné à la ville (formule exacte) ?",
+    "choices": [
+      "“l’Eternel est ici”",
+      "“l’Eternel est loin”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 48:35 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-177",
+    "book": "Ézéchiel",
+    "chapter": 32,
+    "verseRef": "Ézéchiel 32:5",
+    "verseText": "Voir Ézéchiel 32:5.",
+    "question": "Dans la complainte sur Pharaon, sur quoi Dieu dit-il qu’il répandra sa chair ?",
+    "choices": [
+      "“sur les montagnes”",
+      "“sur les autels”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 32:5 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-178",
+    "book": "Ézéchiel",
+    "chapter": 32,
+    "verseRef": "Ézéchiel 32:2",
+    "verseText": "Voir Ézéchiel 32:2.",
+    "question": "Quel détail décrit l’action de Pharaon dans ses fleuves, avant le jugement ?",
+    "choices": [
+      "“Tu troublais les eaux avec tes pieds, Tu agitais leurs flots”",
+      "“Tu apaisais les eaux avec tes mains, Tu calmait leurs flots”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 32:2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-179",
+    "book": "Ézéchiel",
+    "chapter": 32,
+    "verseRef": "Ézéchiel 32:8",
+    "verseText": "Voir Ézéchiel 32:8.",
+    "question": "Quelle conséquence est annoncée pour “tous les luminaires du ciel” dans la plainte ?",
+    "choices": [
+      "“Je les obscurcirai sur toi”",
+      "“Je les ferai briller sur toi”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 32:8 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-180",
+    "book": "Ézéchiel",
+    "chapter": 33,
+    "verseRef": "Ézéchiel 33:22",
+    "verseText": "Voir Ézéchiel 33:22.",
+    "question": "Dans le chapitre 33, à quel moment la main de l’Éternel est-elle sur Ézéchiel avant l’arrivée de l’homme ?",
+    "choices": [
+      "“le soir avant l’arrivée du fugitif”",
+      "“le matin après l’arrivée du fugitif”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 33:22 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-181",
+    "book": "Ézéchiel",
+    "chapter": 7,
+    "verseRef": "Ézéchiel 7:6",
+    "verseText": "Voir Ézéchiel 7:6.",
+    "question": "Quelle formule est répétée pour annoncer le choc du jugement ?",
+    "choices": [
+      "“Une fin vient, la fin vient, elle se réveille contre toi”",
+      "“Une paix vient, la paix vient, elle repose sur toi”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 7:6 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-182",
+    "book": "Ézéchiel",
+    "chapter": 7,
+    "verseRef": "Ézéchiel 7:10",
+    "verseText": "Voir Ézéchiel 7:10.",
+    "question": "Quelle phrase exacte associe un signe de croissance à l’orgueil ?",
+    "choices": [
+      "“La verge fleurit, l’orgueil s’épanouit”",
+      "“La vigne fleurit, l’humilité grandit”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 7:10 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-183",
+    "book": "Ézéchiel",
+    "chapter": 7,
+    "verseRef": "Ézéchiel 7:19",
+    "verseText": "Voir Ézéchiel 7:19.",
+    "question": "Quelle conséquence est dite de l’argent au jour de la détresse ?",
+    "choices": [
+      "“Ils jetteront leur argent dans les rues”",
+      "“Ils consacreront leur argent au sanctuaire”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 7:19 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-184",
+    "book": "Ézéchiel",
+    "chapter": 11,
+    "verseRef": "Ézéchiel 11:3",
+    "verseText": "Voir Ézéchiel 11:3.",
+    "question": "Quel propos des chefs est cité, contenant l’image de la chaudière ?",
+    "choices": [
+      "“La ville est la chaudière, et nous sommes la viande”",
+      "“La ville est le temple, et nous sommes les sacrificateurs”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 11:3 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-185",
+    "book": "Ézéchiel",
+    "chapter": 11,
+    "verseRef": "Ézéchiel 11:1",
+    "verseText": "Voir Ézéchiel 11:1.",
+    "question": "Quel nom complet apparaît dans la liste des chefs au chapitre 11 (piège de précision) ?",
+    "choices": [
+      "“Pelatia, fils de Benaja”",
+      "“Pelatiah, fils de Benaja”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 11:1 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-186",
+    "book": "Ézéchiel",
+    "chapter": 11,
+    "verseRef": "Ézéchiel 11:13",
+    "verseText": "Voir Ézéchiel 11:13.",
+    "question": "Quel événement survient pendant que le prophète annonce le jugement contre eux ?",
+    "choices": [
+      "“Pelatia, fils de Benaja, mourut”",
+      "“Jaazania, fils d’Azzur, mourut”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 11:13 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-187",
+    "book": "Ézéchiel",
+    "chapter": 27,
+    "verseRef": "Ézéchiel 27:4",
+    "verseText": "Voir Ézéchiel 27:4.",
+    "question": "Dans la complainte contre Tyr, quel détail géographique est donné sur ses frontières ?",
+    "choices": [
+      "“Tes frontières sont au cœur des mers”",
+      "“Tes frontières sont au milieu du désert”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 27:4 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-188",
+    "book": "Ézéchiel",
+    "chapter": 27,
+    "verseRef": "Ézéchiel 27:13",
+    "verseText": "Voir Ézéchiel 27:13.",
+    "question": "Quel commerce est attribué à Javan, Tubal et Méschec avec Tyr ?",
+    "choices": [
+      "“des esclaves et des ustensiles d’airain”",
+      "“des pierres précieuses et des vêtements de lin”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 27:13 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-189",
+    "book": "Ézéchiel",
+    "chapter": 27,
+    "verseRef": "Ézéchiel 27:25",
+    "verseText": "Voir Ézéchiel 27:25.",
+    "question": "Quel rôle est attribué aux “navires de Tarsis” dans la description de Tyr ?",
+    "choices": [
+      "“tes voyageurs”",
+      "“tes gardiens”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 27:25 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-190",
+    "book": "Ézéchiel",
+    "chapter": 35,
+    "verseRef": "Ézéchiel 35:2",
+    "verseText": "Voir Ézéchiel 35:2.",
+    "question": "Quel lieu est visé par l’ordre : “Tourne ta face…” au chapitre 35 ?",
+    "choices": [
+      "“la montagne de Séir”",
+      "“la montagne du Sinaï”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 35:2 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-191",
+    "book": "Ézéchiel",
+    "chapter": 35,
+    "verseRef": "Ézéchiel 35:6",
+    "verseText": "Voir Ézéchiel 35:6.",
+    "question": "Quelle expression lie Séir au sang (formule sévère) ?",
+    "choices": [
+      "“Je te mettrai en sang”",
+      "“Je te mettrai en paix”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 35:6 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-192",
+    "book": "Ézéchiel",
+    "chapter": 35,
+    "verseRef": "Ézéchiel 35:10",
+    "verseText": "Voir Ézéchiel 35:10.",
+    "question": "Quel propos d’orgueil territorial est condamné au sujet de Séir ?",
+    "choices": [
+      "“Ces deux nations et ces deux pays seront à moi”",
+      "“Ces deux nations et ces deux pays appartiennent à l’Éternel”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 35:10 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-193",
+    "book": "Ézéchiel",
+    "chapter": 36,
+    "verseRef": "Ézéchiel 36:32",
+    "verseText": "Voir Ézéchiel 36:32.",
+    "question": "Quelle déclaration encadre la restauration pour éviter l’orgueil d’Israël ?",
+    "choices": [
+      "“Ce n’est pas à cause de vous que j’agis”",
+      "“C’est uniquement à cause de vos mérites que j’agis”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 36:32 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-194",
+    "book": "Ézéchiel",
+    "chapter": 42,
+    "verseRef": "Ézéchiel 42:20",
+    "verseText": "Voir Ézéchiel 42:20.",
+    "question": "Quelle mesure du mur d’enceinte est donnée (piège : forme exacte) ?",
+    "choices": [
+      "“cinq cents cannes”",
+      "“cinq cents coudées”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 42:20 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-195",
+    "book": "Ézéchiel",
+    "chapter": 43,
+    "verseRef": "Ézéchiel 43:7",
+    "verseText": "Voir Ézéchiel 43:7.",
+    "question": "Quelle phrase désigne l’endroit où Dieu veut demeurer pour toujours au milieu d’Israël ?",
+    "choices": [
+      "“C’est ici le lieu de mon trône”",
+      "“C’est ici le lieu de mon autel seulement”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 43:7 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-196",
+    "book": "Ézéchiel",
+    "chapter": 44,
+    "verseRef": "Ézéchiel 44:9",
+    "verseText": "Voir Ézéchiel 44:9.",
+    "question": "Qui est explicitement exclu d’entrer dans le sanctuaire (double précision) ?",
+    "choices": [
+      "“des étrangers, incirconcis de cœur et incirconcis de chair”",
+      "“des étrangers, circoncis de cœur et circoncis de chair”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 44:9 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-197",
+    "book": "Ézéchiel",
+    "chapter": 46,
+    "verseRef": "Ézéchiel 46:17",
+    "verseText": "Voir Ézéchiel 46:17.",
+    "question": "Jusqu’à quand le don fait à un serviteur reste-t-il au serviteur ?",
+    "choices": [
+      "“jusqu’à l’année de liberté”",
+      "“jusqu’à la prochaine nouvelle lune”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 46:17 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-198",
+    "book": "Ézéchiel",
+    "chapter": 47,
+    "verseRef": "Ézéchiel 47:10",
+    "verseText": "Voir Ézéchiel 47:10.",
+    "question": "Entre quels deux lieux les pêcheurs se tiennent-ils dans la vision du fleuve ?",
+    "choices": [
+      "“d’En-Guédi jusqu’à En-Eglaïm”",
+      "“de Béthel jusqu’à Hébron”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 47:10 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-199",
+    "book": "Ézéchiel",
+    "chapter": 48,
+    "verseRef": "Ézéchiel 48:14",
+    "verseText": "Voir Ézéchiel 48:14.",
+    "question": "Quelle interdiction est attachée à la portion sainte (piège : triple verbe) ?",
+    "choices": [
+      "“Elle ne se vendra point, et ne s’échangera point, et ne se transportera point”",
+      "“Elle se vendra librement, et s’échangera, et se transportera”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 48:14 (LSG 1910)."
+  },
+  {
+    "id": "ezechiel-D-200",
+    "book": "Ézéchiel",
+    "chapter": 48,
+    "verseRef": "Ézéchiel 48:35",
+    "verseText": "Voir Ézéchiel 48:35.",
+    "question": "Quelle précision finale accompagne le nom de la ville dans le dernier verset ?",
+    "choices": [
+      "“Et le nom de la ville sera dès ce jour : l’Eternel est ici”",
+      "“Et le nom de la ville sera dès ce jour : l’Eternel est loin”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 48:35 (LSG 1910)."
+  }
+]

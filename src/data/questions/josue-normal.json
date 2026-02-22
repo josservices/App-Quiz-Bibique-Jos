@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "JOS-N-001",
+    "book": "Josué",
+    "chapter": 1,
+    "verseRef": "Josué 1:6",
+    "verseText": "Voir Josué 1:6.",
+    "question": "Quelle parole Dieu répète à Josué pour l’encourager dans sa mission ?",
+    "choices": [
+      "« Ne t’irrite pas »",
+      "« Fortifie-toi et prends courage »",
+      "« Cache-toi dans le désert »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 1:6 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-002",
+    "book": "Josué",
+    "chapter": 1,
+    "verseRef": "Josué 1:4",
+    "verseText": "Voir Josué 1:4.",
+    "question": "Jusqu’où s’étend la promesse territoriale mentionnée à Josué ?",
+    "choices": [
+      "Du Nil au désert de Paran",
+      "Du désert et du Liban jusqu’au grand fleuve, l’Euphrate, et jusqu’à la grande mer vers le soleil couchant",
+      "De Jéricho à Jérusalem seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 1:4 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-003",
+    "book": "Josué",
+    "chapter": 1,
+    "verseRef": "Josué 1:8",
+    "verseText": "Voir Josué 1:8.",
+    "question": "Que devait faire Josué avec « le livre de la loi » ?",
+    "choices": [
+      "Le déposer et ne plus y toucher",
+      "Le méditer jour et nuit et agir selon tout ce qui y est écrit",
+      "Le recopier seulement une fois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 1:8 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-004",
+    "book": "Josué",
+    "chapter": 1,
+    "verseRef": "Josué 1:11",
+    "verseText": "Voir Josué 1:11.",
+    "question": "Quel ordre Josué donne-t-il au peuple avant de passer le Jourdain ?",
+    "choices": [
+      "« Dressez des autels d’or »",
+      "« Préparez-vous des provisions »",
+      "« Retournez en Égypte »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 1:11 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-005",
+    "book": "Josué",
+    "chapter": 1,
+    "verseRef": "Josué 1:12–15",
+    "verseText": "Voir Josué 1:12–15.",
+    "question": "À qui Josué rappelle-t-il l’engagement d’aider à la conquête, même après avoir reçu un héritage ?",
+    "choices": [
+      "Ruben, Gad et la demi-tribu de Manassé",
+      "Juda, Benjamin et Lévi",
+      "Issacar, Zabulon et Aser"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 1:12–15 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-006",
+    "book": "Josué",
+    "chapter": 2,
+    "verseRef": "Josué 2:1",
+    "verseText": "Voir Josué 2:1.",
+    "question": "Qui Josué envoya-t-il secrètement pour explorer Jéricho ?",
+    "choices": [
+      "Trois espions",
+      "Deux hommes",
+      "Douze hommes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 2:1 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-007",
+    "book": "Josué",
+    "chapter": 2,
+    "verseRef": "Josué 2:1",
+    "verseText": "Voir Josué 2:1.",
+    "question": "Chez qui les espions furent-ils logés à Jéricho ?",
+    "choices": [
+      "Chez Débora",
+      "Chez Rahab, la prostituée",
+      "Chez Akân"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 2:1 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-008",
+    "book": "Josué",
+    "chapter": 2,
+    "verseRef": "Josué 2:12",
+    "verseText": "Voir Josué 2:12.",
+    "question": "Quel signe Rahab demanda-t-elle comme garantie de salut ?",
+    "choices": [
+      "Une ceinture d’or",
+      "Un serment au nom de l’Éternel",
+      "Une pierre gravée"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 2:12 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-009",
+    "book": "Josué",
+    "chapter": 2,
+    "verseRef": "Josué 2:18",
+    "verseText": "Voir Josué 2:18.",
+    "question": "Quel objet devait être attaché à la fenêtre pour identifier la maison de Rahab ?",
+    "choices": [
+      "Un tissu bleu",
+      "Un cordon de fil cramoisi",
+      "Une branche d’olivier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 2:18 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-010",
+    "book": "Josué",
+    "chapter": 3,
+    "verseRef": "Josué 3:16",
+    "verseText": "Voir Josué 3:16.",
+    "question": "Quel miracle eut lieu quand les sacrificateurs porteurs de l’arche entrèrent dans le Jourdain ?",
+    "choices": [
+      "Le fleuve devint du sang",
+      "Les eaux s’arrêtèrent et s’élevèrent en un monceau",
+      "La pluie tomba sans cesse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 3:16 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-011",
+    "book": "Josué",
+    "chapter": 3,
+    "verseRef": "Josué 3:4",
+    "verseText": "Voir Josué 3:4.",
+    "question": "À quelle distance le peuple devait-il se tenir de l’arche ?",
+    "choices": [
+      "Environ deux mille coudées",
+      "Cent coudées",
+      "Dix mille coudées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 3:4 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-012",
+    "book": "Josué",
+    "chapter": 3,
+    "verseRef": "Josué 3:10",
+    "verseText": "Voir Josué 3:10.",
+    "question": "Quel titre est donné à l’Éternel devant Israël au passage du Jourdain ?",
+    "choices": [
+      "« Le Dieu des montagnes »",
+      "« Le Dieu vivant »",
+      "« Le Dieu inconnu »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 3:10 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-013",
+    "book": "Josué",
+    "chapter": 4,
+    "verseRef": "Josué 4:2–3",
+    "verseText": "Voir Josué 4:2–3.",
+    "question": "Combien d’hommes furent choisis pour prendre des pierres du milieu du Jourdain ?",
+    "choices": [
+      "7",
+      "10",
+      "12"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Josué 4:2–3 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-014",
+    "book": "Josué",
+    "chapter": 4,
+    "verseRef": "Josué 4:6–7",
+    "verseText": "Voir Josué 4:6–7.",
+    "question": "Quel était le but du monument de pierres après le passage du Jourdain ?",
+    "choices": [
+      "Décorer le camp",
+      "Servir de signe et de souvenir pour les enfants d’Israël",
+      "Marquer une frontière avec Moab"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 4:6–7 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-015",
+    "book": "Josué",
+    "chapter": 4,
+    "verseRef": "Josué 4:19",
+    "verseText": "Voir Josué 4:19.",
+    "question": "Où Israël dressa-t-il le camp après avoir traversé le Jourdain ?",
+    "choices": [
+      "Guilgal",
+      "Silo",
+      "Hébron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 4:19 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-016",
+    "book": "Josué",
+    "chapter": 5,
+    "verseRef": "Josué 5:5",
+    "verseText": "Voir Josué 5:5.",
+    "question": "Pourquoi l’Éternel ordonna-t-il à Josué de circoncire à nouveau Israël ?",
+    "choices": [
+      "Parce qu’ils avaient abandonné la loi en Égypte",
+      "Parce que ceux nés au désert n’avaient pas été circoncis",
+      "Pour un sacrifice spécial"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 5:5 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-017",
+    "book": "Josué",
+    "chapter": 5,
+    "verseRef": "Josué 5:9",
+    "verseText": "Voir Josué 5:9.",
+    "question": "Quel nom fut donné au lieu de la circoncision collective ?",
+    "choices": [
+      "Guilgal",
+      "Guibea",
+      "Guérar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 5:9 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-018",
+    "book": "Josué",
+    "chapter": 5,
+    "verseRef": "Josué 5:11–12",
+    "verseText": "Voir Josué 5:11–12.",
+    "question": "Quand la manne cessa-t-elle ?",
+    "choices": [
+      "Après la conquête d’Aï",
+      "Le lendemain de la Pâque, quand ils mangèrent du blé du pays",
+      "À la mort de Josué"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 5:11–12 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-019",
+    "book": "Josué",
+    "chapter": 5,
+    "verseRef": "Josué 5:13–14",
+    "verseText": "Voir Josué 5:13–14.",
+    "question": "Qui Josué rencontra-t-il près de Jéricho, tenant une épée nue ?",
+    "choices": [
+      "Caleb",
+      "Le chef de l’armée de l’Éternel",
+      "Moïse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 5:13–14 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-020",
+    "book": "Josué",
+    "chapter": 5,
+    "verseRef": "Josué 5:15",
+    "verseText": "Voir Josué 5:15.",
+    "question": "Quelle consigne Josué reçut-il concernant ses souliers ?",
+    "choices": [
+      "Les laver dans le Jourdain",
+      "Les ôter, car le lieu était saint",
+      "Les bénir avec de l’huile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 5:15 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-021",
+    "book": "Josué",
+    "chapter": 6,
+    "verseRef": "Josué 6:3–4",
+    "verseText": "Voir Josué 6:3–4.",
+    "question": "Pendant combien de jours Israël fit-il le tour de Jéricho une fois par jour ?",
+    "choices": [
+      "3 jours",
+      "6 jours",
+      "10 jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 6:3–4 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-022",
+    "book": "Josué",
+    "chapter": 6,
+    "verseRef": "Josué 6:4",
+    "verseText": "Voir Josué 6:4.",
+    "question": "Que devait-on faire le septième jour autour de Jéricho ?",
+    "choices": [
+      "Tourner 7 fois autour de la ville",
+      "Camper sans bouger",
+      "Faire un jeûne de 40 jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 6:4 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-023",
+    "book": "Josué",
+    "chapter": 6,
+    "verseRef": "Josué 6:4",
+    "verseText": "Voir Josué 6:4.",
+    "question": "Combien de sacrificateurs portaient des trompettes devant l’arche ?",
+    "choices": [
+      "7",
+      "12",
+      "2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 6:4 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-024",
+    "book": "Josué",
+    "chapter": 6,
+    "verseRef": "Josué 6:17",
+    "verseText": "Voir Josué 6:17.",
+    "question": "Quelle règle fut donnée sur le butin de Jéricho ?",
+    "choices": [
+      "Tout pour les soldats",
+      "Tout pour les rois alliés",
+      "La ville et tout ce qui s’y trouve devait être dévoué par interdit à l’Éternel"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Josué 6:17 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-025",
+    "book": "Josué",
+    "chapter": 6,
+    "verseRef": "Josué 6:19",
+    "verseText": "Voir Josué 6:19.",
+    "question": "Qu’est-ce qui devait aller « dans le trésor de l’Éternel » ?",
+    "choices": [
+      "Le bétail uniquement",
+      "L’argent, l’or et les vases d’airain et de fer",
+      "Les vêtements seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 6:19 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-026",
+    "book": "Josué",
+    "chapter": 6,
+    "verseRef": "Josué 6:25",
+    "verseText": "Voir Josué 6:25.",
+    "question": "Qui fut sauvé à Jéricho avec sa famille ?",
+    "choices": [
+      "Rahab",
+      "Achân",
+      "Acania"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 6:25 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-027",
+    "book": "Josué",
+    "chapter": 7,
+    "verseRef": "Josué 7:1,11–12",
+    "verseText": "Voir Josué 7:1,11–12.",
+    "question": "Pourquoi Israël fut-il battu devant Aï ?",
+    "choices": [
+      "Parce qu’ils étaient trop peu nombreux",
+      "Parce qu’Israël avait péché en prenant des choses dévouées par interdit",
+      "Parce que Josué avait déserté"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 7:1,11–12 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-028",
+    "book": "Josué",
+    "chapter": 7,
+    "verseRef": "Josué 7:20–21",
+    "verseText": "Voir Josué 7:20–21.",
+    "question": "Qui avait pris des objets dévoués par interdit ?",
+    "choices": [
+      "Achân",
+      "Éléazar",
+      "Phinées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 7:20–21 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-029",
+    "book": "Josué",
+    "chapter": 7,
+    "verseRef": "Josué 7:21",
+    "verseText": "Voir Josué 7:21.",
+    "question": "Quels objets Achân avoua-t-il avoir pris ?",
+    "choices": [
+      "Une couronne d’or et un manteau royal",
+      "Un manteau de Schinear, deux cents sicles d’argent et un lingot d’or de cinquante sicles",
+      "Des troupeaux et des chameaux"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 7:21 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-030",
+    "book": "Josué",
+    "chapter": 7,
+    "verseRef": "Josué 7:26",
+    "verseText": "Voir Josué 7:26.",
+    "question": "Quel fut le nom donné au lieu du jugement d’Achân ?",
+    "choices": [
+      "Vallée d’Acor",
+      "Vallée d’Ébal",
+      "Vallée de Sorek"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 7:26 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-031",
+    "book": "Josué",
+    "chapter": 8,
+    "verseRef": "Josué 8:2–4",
+    "verseText": "Voir Josué 8:2–4.",
+    "question": "Quelle stratégie fut utilisée pour prendre Aï lors de la seconde attaque ?",
+    "choices": [
+      "Un siège d’un an",
+      "Une embuscade derrière la ville",
+      "Une alliance avec les Cananéens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 8:2–4 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-032",
+    "book": "Josué",
+    "chapter": 8,
+    "verseRef": "Josué 8:18,26",
+    "verseText": "Voir Josué 8:18,26.",
+    "question": "Que fit Josué avec sa lance (javelot) pendant la bataille d’Aï ?",
+    "choices": [
+      "Il la brisa",
+      "Il l’étendit vers la ville jusqu’à ce qu’elle soit prise",
+      "Il la planta dans le fleuve"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 8:18,26 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-033",
+    "book": "Josué",
+    "chapter": 8,
+    "verseRef": "Josué 8:30",
+    "verseText": "Voir Josué 8:30.",
+    "question": "Sur quelle montagne Josué bâtit-il un autel à l’Éternel ?",
+    "choices": [
+      "Carmel",
+      "Ébal",
+      "Nebo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 8:30 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-034",
+    "book": "Josué",
+    "chapter": 8,
+    "verseRef": "Josué 8:31",
+    "verseText": "Voir Josué 8:31.",
+    "question": "Avec quoi l’autel devait-il être construit ?",
+    "choices": [
+      "Pierres de taille polies",
+      "Pierres entières sur lesquelles on n’avait point passé le fer",
+      "Briques cuites"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 8:31 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-035",
+    "book": "Josué",
+    "chapter": 9,
+    "verseRef": "Josué 9:4–6,12–13",
+    "verseText": "Voir Josué 9:4–6,12–13.",
+    "question": "Quelle ruse les Gabaonites utilisèrent-ils pour tromper Israël ?",
+    "choices": [
+      "Ils se déguisèrent en marchands",
+      "Ils vinrent avec de vieux sacs, de vieux souliers, du pain sec et moisi, prétendant venir de loin",
+      "Ils offrirent de l’or"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 9:4–6,12–13 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-036",
+    "book": "Josué",
+    "chapter": 9,
+    "verseRef": "Josué 9:15",
+    "verseText": "Voir Josué 9:15.",
+    "question": "Quel engagement Israël fit-il envers Gabaon malgré la ruse ?",
+    "choices": [
+      "Les exterminer",
+      "Leur faire la paix et les laisser vivre",
+      "Les vendre en esclavage aux Philistins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 9:15 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-037",
+    "book": "Josué",
+    "chapter": 9,
+    "verseRef": "Josué 9:27",
+    "verseText": "Voir Josué 9:27.",
+    "question": "Que devinrent les Gabaonites dans le camp d’Israël ?",
+    "choices": [
+      "Rois de tribu",
+      "Fendeurs de bois et puiseurs d’eau pour l’assemblée et pour l’autel",
+      "Sacrificateurs principaux"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 9:27 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-038",
+    "book": "Josué",
+    "chapter": 10,
+    "verseRef": "Josué 10:1–5",
+    "verseText": "Voir Josué 10:1–5.",
+    "question": "Quel roi de Jérusalem attaqua Gabaon, déclenchant une grande bataille ?",
+    "choices": [
+      "Adoni-Tsédek",
+      "Jabin",
+      "Og"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 10:1–5 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-039",
+    "book": "Josué",
+    "chapter": 10,
+    "verseRef": "Josué 10:11",
+    "verseText": "Voir Josué 10:11.",
+    "question": "Quel phénomène frappa les Amoréens lors de la poursuite ?",
+    "choices": [
+      "Une inondation",
+      "De grandes pierres (grêle) tombées du ciel",
+      "Un tremblement de terre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 10:11 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-040",
+    "book": "Josué",
+    "chapter": 10,
+    "verseRef": "Josué 10:12",
+    "verseText": "Voir Josué 10:12.",
+    "question": "Quelle demande célèbre de Josué concerne le soleil et la lune ?",
+    "choices": [
+      "Soleil, couche-toi vite",
+      "Soleil, arrête-toi sur Gabaon, et toi lune, sur la vallée d’Ajalon",
+      "Lune, cache-toi dans les nuages"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 10:12 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-041",
+    "book": "Josué",
+    "chapter": 10,
+    "verseRef": "Josué 10:16",
+    "verseText": "Voir Josué 10:16.",
+    "question": "Où les cinq rois amoréens se cachèrent-ils ?",
+    "choices": [
+      "Dans une citerne",
+      "Dans la caverne de Makkéda",
+      "Dans le temple de Baal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 10:16 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-042",
+    "book": "Josué",
+    "chapter": 10,
+    "verseRef": "Josué 10:24",
+    "verseText": "Voir Josué 10:24.",
+    "question": "Quel geste symbolique Josué fit-il faire aux chefs d’Israël après la capture des rois ?",
+    "choices": [
+      "Leur donner de l’eau",
+      "Mettre le pied sur le cou des rois",
+      "Leur offrir un sacrifice"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 10:24 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-043",
+    "book": "Josué",
+    "chapter": 11,
+    "verseRef": "Josué 11:1",
+    "verseText": "Voir Josué 11:1.",
+    "question": "Quel roi du nord rassembla une grande coalition contre Israël ?",
+    "choices": [
+      "Jabin, roi de Hatsor",
+      "Akisch, roi de Gath",
+      "Saul, roi d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 11:1 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-044",
+    "book": "Josué",
+    "chapter": 11,
+    "verseRef": "Josué 11:6,9",
+    "verseText": "Voir Josué 11:6,9.",
+    "question": "Quel ordre Dieu donna concernant les chevaux et les chars de cette coalition ?",
+    "choices": [
+      "Les garder pour Israël",
+      "Couper les jarrets des chevaux et brûler les chars",
+      "Les vendre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 11:6,9 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-045",
+    "book": "Josué",
+    "chapter": 11,
+    "verseRef": "Josué 11:10",
+    "verseText": "Voir Josué 11:10.",
+    "question": "Quelle ville est mentionnée comme “la tête de tous ces royaumes” ?",
+    "choices": [
+      "Jéricho",
+      "Hatsor",
+      "Béthel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 11:10 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-046",
+    "book": "Josué",
+    "chapter": 14,
+    "verseRef": "Josué 14:6–12",
+    "verseText": "Voir Josué 14:6–12.",
+    "question": "Quel personnage est noté pour sa fidélité et sa demande d’héritage ?",
+    "choices": [
+      "Caleb",
+      "Nadab",
+      "Abner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 14:6–12 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-047",
+    "book": "Josué",
+    "chapter": 14,
+    "verseRef": "Josué 14:10",
+    "verseText": "Voir Josué 14:10.",
+    "question": "Quel âge Caleb dit-il avoir quand il parle à Josué ?",
+    "choices": [
+      "70 ans",
+      "85 ans",
+      "120 ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 14:10 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-048",
+    "book": "Josué",
+    "chapter": 14,
+    "verseRef": "Josué 14:13–14",
+    "verseText": "Voir Josué 14:13–14.",
+    "question": "Quel lieu Caleb demanda-t-il comme héritage ?",
+    "choices": [
+      "Hébron",
+      "Sichem",
+      "Béerschéba"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 14:13–14 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-049",
+    "book": "Josué",
+    "chapter": 14,
+    "verseRef": "Josué 14:12",
+    "verseText": "Voir Josué 14:12.",
+    "question": "Quel obstacle Caleb mentionne-t-il encore dans la montagne ?",
+    "choices": [
+      "Des géants anakim et des villes grandes et fortifiées",
+      "Des mers infranchissables",
+      "Une peste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 14:12 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-050",
+    "book": "Josué",
+    "chapter": 18,
+    "verseRef": "Josué 18:1",
+    "verseText": "Voir Josué 18:1.",
+    "question": "Où le tabernacle fut-il dressé quand le pays fut soumis ?",
+    "choices": [
+      "À Guilgal",
+      "À Silo",
+      "À Jérusalem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 18:1 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-051",
+    "book": "Josué",
+    "chapter": 18,
+    "verseRef": "Josué 18:2–3",
+    "verseText": "Voir Josué 18:2–3.",
+    "question": "Combien de tribus restaient encore sans héritage quand Josué les reprit ?",
+    "choices": [
+      "2",
+      "7",
+      "10"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 18:2–3 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-052",
+    "book": "Josué",
+    "chapter": 18,
+    "verseRef": "Josué 18:28",
+    "verseText": "Voir Josué 18:28.",
+    "question": "Quelle ville fut donnée comme héritage aux fils de Benjamin, où se trouvait une forteresse jebusienne ?",
+    "choices": [
+      "Jérusalem",
+      "Jéricho",
+      "Hatsor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 18:28 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-053",
+    "book": "Josué",
+    "chapter": 20,
+    "verseRef": "Josué 20:7",
+    "verseText": "Voir Josué 20:7.",
+    "question": "Quelle ville est nommée comme ville de refuge en Éphraïm ?",
+    "choices": [
+      "Sichem",
+      "Béthel",
+      "Hébron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 20:7 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-054",
+    "book": "Josué",
+    "chapter": 20,
+    "verseRef": "Josué 20:7",
+    "verseText": "Voir Josué 20:7.",
+    "question": "Quelle ville de refuge est située en Galilée, dans Nephtali ?",
+    "choices": [
+      "Kédesch",
+      "Ramoth",
+      "Gabaon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 20:7 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-055",
+    "book": "Josué",
+    "chapter": 20,
+    "verseRef": "Josué 20:8",
+    "verseText": "Voir Josué 20:8.",
+    "question": "Quelle ville de refuge est en Galaad, chez Gad ?",
+    "choices": [
+      "Ramoth en Galaad",
+      "Makkéda",
+      "Lakis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 20:8 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-056",
+    "book": "Josué",
+    "chapter": 21,
+    "verseRef": "Josué 21:45",
+    "verseText": "Voir Josué 21:45.",
+    "question": "Quelle phrase souligne l’accomplissement des promesses de Dieu ?",
+    "choices": [
+      "« Rien ne fut promis »",
+      "« De toutes les bonnes paroles… aucune ne resta sans effet »",
+      "« Israël échoua toujours »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 21:45 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-057",
+    "book": "Josué",
+    "chapter": 22,
+    "verseRef": "Josué 22:10",
+    "verseText": "Voir Josué 22:10.",
+    "question": "Quel autel fut bâti par les tribus de l’est, provoquant une controverse ?",
+    "choices": [
+      "Un autel “grand à voir” au bord du Jourdain",
+      "Un autel dans le désert de Sinaï",
+      "Un autel en Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 22:10 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-058",
+    "book": "Josué",
+    "chapter": 22,
+    "verseRef": "Josué 22:26–29",
+    "verseText": "Voir Josué 22:26–29.",
+    "question": "Pourquoi les tribus de l’est dirent-elles avoir bâti cet autel ?",
+    "choices": [
+      "Pour offrir des holocaustes",
+      "Comme témoignage entre eux et les tribus de l’ouest, non pour sacrifices",
+      "Pour honorer Baal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 22:26–29 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-059",
+    "book": "Josué",
+    "chapter": 23,
+    "verseRef": "Josué 23:12–13",
+    "verseText": "Voir Josué 23:12–13.",
+    "question": "Quel avertissement Josué donne-t-il sur le fait de s’attacher aux nations restantes ?",
+    "choices": [
+      "Cela apportera bénédiction assurée",
+      "Elles deviendront un piège, un fouet et des épines",
+      "Cela n’a aucune conséquence"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 23:12–13 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-060",
+    "book": "Josué",
+    "chapter": 24,
+    "verseRef": "Josué 24:15",
+    "verseText": "Voir Josué 24:15.",
+    "question": "Quelle déclaration finale célèbre Josué fait-il à Sichem ?",
+    "choices": [
+      "« Moi et ma maison, nous servirons l’Éternel »",
+      "« Moi et ma maison, nous servirons les idoles »",
+      "« Moi et ma maison, nous retournerons en Égypte »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 24:15 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-061",
+    "book": "Josué",
+    "chapter": 1,
+    "verseRef": "Josué 1:2",
+    "verseText": "Voir Josué 1:2.",
+    "question": "Après la mort de Moïse, quel titre Dieu donne-t-il à Moïse en parlant à Josué ?",
+    "choices": [
+      "« Moïse, le roi d’Israël »",
+      "« Moïse, mon serviteur »",
+      "« Moïse, le prophète des nations »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 1:2 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-062",
+    "book": "Josué",
+    "chapter": 1,
+    "verseRef": "Josué 1:3",
+    "verseText": "Voir Josué 1:3.",
+    "question": "À quoi Dieu compare-t-il le territoire promis en termes d’appui pour Josué ?",
+    "choices": [
+      "« Je te donnerai des murailles »",
+      "« Tout lieu que foulera la plante de votre pied »",
+      "« Toute mer que vous traverserez »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 1:3 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-063",
+    "book": "Josué",
+    "chapter": 1,
+    "verseRef": "Josué 1:16",
+    "verseText": "Voir Josué 1:16.",
+    "question": "Comment les Rubénites, les Gadites et la demi-tribu de Manassé répondent-ils à Josué ?",
+    "choices": [
+      "« Nous resterons de ce côté-ci du Jourdain »",
+      "« Tout ce que tu nous ordonneras, nous le ferons »",
+      "« Nous attendrons la fin des guerres »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 1:16 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-064",
+    "book": "Josué",
+    "chapter": 1,
+    "verseRef": "Josué 1:18",
+    "verseText": "Voir Josué 1:18.",
+    "question": "Quel sort attend, selon eux, celui qui sera rebelle aux ordres de Josué ?",
+    "choices": [
+      "Il sera banni seulement",
+      "Il sera puni d’une amende",
+      "Il sera mis à mort"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Josué 1:18 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-065",
+    "book": "Josué",
+    "chapter": 2,
+    "verseRef": "Josué 2:9–11",
+    "verseText": "Voir Josué 2:9–11.",
+    "question": "Quel détail Rahab donne-t-elle sur l’état des habitants de Jéricho à cause d’Israël ?",
+    "choices": [
+      "Ils se réjouissaient",
+      "Ils avaient peur, le courage leur manquait",
+      "Ils voulaient faire alliance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 2:9–11 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-066",
+    "book": "Josué",
+    "chapter": 2,
+    "verseRef": "Josué 2:6",
+    "verseText": "Voir Josué 2:6.",
+    "question": "Où Rahab cacha-t-elle les deux espions ?",
+    "choices": [
+      "Dans une citerne",
+      "Sur le toit, sous des tiges de lin",
+      "Derrière la porte de la ville"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 2:6 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-067",
+    "book": "Josué",
+    "chapter": 2,
+    "verseRef": "Josué 2:22",
+    "verseText": "Voir Josué 2:22.",
+    "question": "Combien de jours les espions restèrent-ils cachés dans la montagne avant de revenir ?",
+    "choices": [
+      "Un jour",
+      "Trois jours",
+      "Sept jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 2:22 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-068",
+    "book": "Josué",
+    "chapter": 3,
+    "verseRef": "Josué 3:3",
+    "verseText": "Voir Josué 3:3.",
+    "question": "Quel ordre est donné au peuple quand l’arche avancera ?",
+    "choices": [
+      "Courir devant l’arche",
+      "Se rapprocher au maximum",
+      "Partir du lieu où ils sont et la suivre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Josué 3:3 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-069",
+    "book": "Josué",
+    "chapter": 3,
+    "verseRef": "Josué 3:5",
+    "verseText": "Voir Josué 3:5.",
+    "question": "Qu’est-ce que Josué dit que l’Éternel fera « demain » ?",
+    "choices": [
+      "Il donnera des rois à Israël",
+      "Il fera des prodiges au milieu d’Israël",
+      "Il mettra fin à la loi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 3:5 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-070",
+    "book": "Josué",
+    "chapter": 3,
+    "verseRef": "Josué 3:17",
+    "verseText": "Voir Josué 3:17.",
+    "question": "Où les sacrificateurs devaient-ils se tenir pendant le passage du peuple ?",
+    "choices": [
+      "Sur la rive orientale",
+      "Au milieu du Jourdain, sur le sec",
+      "Dans le camp de Guilgal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 3:17 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-071",
+    "book": "Josué",
+    "chapter": 4,
+    "verseRef": "Josué 4:19",
+    "verseText": "Voir Josué 4:19.",
+    "question": "Quel jour du mois Israël traversa-t-il le Jourdain, selon le récit ?",
+    "choices": [
+      "Le premier jour du premier mois",
+      "Le dixième jour du premier mois",
+      "Le quinzième jour du septième mois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 4:19 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-072",
+    "book": "Josué",
+    "chapter": 4,
+    "verseRef": "Josué 4:21–24",
+    "verseText": "Voir Josué 4:21–24.",
+    "question": "Comment le peuple devait-il comprendre le sens des douze pierres dans l’avenir ?",
+    "choices": [
+      "Comme un signe d’ornement du camp",
+      "Comme un mémorial du passage à sec du Jourdain",
+      "Comme un trophée des Gabaonites"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 4:21–24 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-073",
+    "book": "Josué",
+    "chapter": 5,
+    "verseRef": "Josué 5:1",
+    "verseText": "Voir Josué 5:1.",
+    "question": "Quels rois sont mentionnés comme ayant entendu que l’Éternel avait séché le Jourdain ?",
+    "choices": [
+      "Rois de Moab et d’Édom",
+      "Rois des Amoréens et des Cananéens",
+      "Rois d’Assyrie et de Babylone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 5:1 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-074",
+    "book": "Josué",
+    "chapter": 5,
+    "verseRef": "Josué 5:2",
+    "verseText": "Voir Josué 5:2.",
+    "question": "Quel outil est mentionné pour la circoncision à Guilgal ?",
+    "choices": [
+      "Un couteau d’or",
+      "Des couteaux de pierre",
+      "Un couteau de fer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 5:2 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-075",
+    "book": "Josué",
+    "chapter": 5,
+    "verseRef": "Josué 5:10",
+    "verseText": "Voir Josué 5:10.",
+    "question": "Où les fils d’Israël célébrèrent-ils la Pâque après être entrés au pays ?",
+    "choices": [
+      "À Jéricho",
+      "À Guilgal",
+      "À Hatsor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 5:10 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-076",
+    "book": "Josué",
+    "chapter": 5,
+    "verseRef": "Josué 5:11",
+    "verseText": "Voir Josué 5:11.",
+    "question": "Après la Pâque, quel aliment est explicitement mentionné comme consommé “du produit du pays” ?",
+    "choices": [
+      "Du poisson salé",
+      "Des pains sans levain et du grain rôti",
+      "Des figues et du miel uniquement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 5:11 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-077",
+    "book": "Josué",
+    "chapter": 6,
+    "verseRef": "Josué 6:10",
+    "verseText": "Voir Josué 6:10.",
+    "question": "Quel ordre fut donné au peuple pendant la marche autour de Jéricho ?",
+    "choices": [
+      "Prier à haute voix",
+      "Pousser des cris chaque jour",
+      "Ne pas crier ni faire entendre sa voix avant le signal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Josué 6:10 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-078",
+    "book": "Josué",
+    "chapter": 6,
+    "verseRef": "Josué 6:21,17",
+    "verseText": "Voir Josué 6:21,17.",
+    "question": "Qu’est-ce qui devait être mis à l’interdit à Jéricho, en plus des personnes ?",
+    "choices": [
+      "Les livres et rouleaux",
+      "Le bétail seulement",
+      "Tout ce qui respirait, et la ville était vouée à l’Éternel (interdit)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Josué 6:21,17 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-079",
+    "book": "Josué",
+    "chapter": 6,
+    "verseRef": "Josué 6:23",
+    "verseText": "Voir Josué 6:23.",
+    "question": "Quel commandement est donné à Rahab après sa délivrance ?",
+    "choices": [
+      "Quitter le pays immédiatement",
+      "Demeurer hors du camp d’Israël un temps",
+      "Devenir sacrificateur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 6:23 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-080",
+    "book": "Josué",
+    "chapter": 7,
+    "verseRef": "Josué 7:6",
+    "verseText": "Voir Josué 7:6.",
+    "question": "Quelle réaction du peuple suit la découverte du péché à Aï ?",
+    "choices": [
+      "Ils se réjouissent",
+      "Ils déchirent leurs vêtements et se jettent la face contre terre devant l’arche",
+      "Ils quittent Guilgal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 7:6 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-081",
+    "book": "Josué",
+    "chapter": 7,
+    "verseRef": "Josué 7:10",
+    "verseText": "Voir Josué 7:10.",
+    "question": "Quel est le premier ordre de Dieu à Josué après sa lamentation ?",
+    "choices": [
+      "« Cache-toi »",
+      "« Lève-toi ! Pourquoi es-tu ainsi prosterné ? »",
+      "« Retourne en Égypte »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 7:10 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-082",
+    "book": "Josué",
+    "chapter": 7,
+    "verseRef": "Josué 7:13–14",
+    "verseText": "Voir Josué 7:13–14.",
+    "question": "Selon Josué 7, à quel moment Israël devait-il se présenter pour la recherche du coupable ?",
+    "choices": [
+      "“Demain matin”",
+      "“Dans quarante jours”",
+      "“Après la moisson”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 7:13–14 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-083",
+    "book": "Josué",
+    "chapter": 7,
+    "verseRef": "Josué 7:16–18",
+    "verseText": "Voir Josué 7:16–18.",
+    "question": "Dans quelle tribu Achân fut-il trouvé ?",
+    "choices": [
+      "Juda",
+      "Éphraïm",
+      "Dan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 7:16–18 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-084",
+    "book": "Josué",
+    "chapter": 8,
+    "verseRef": "Josué 8:30",
+    "verseText": "Voir Josué 8:30.",
+    "question": "Dans quel lieu Josué bâtit-il un autel après la prise d’Aï ?",
+    "choices": [
+      "Sur le mont Ébal",
+      "Au bord du Jourdain",
+      "À Guilgal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 8:30 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-085",
+    "book": "Josué",
+    "chapter": 8,
+    "verseRef": "Josué 8:32",
+    "verseText": "Voir Josué 8:32.",
+    "question": "Où Josué écrivit-il une copie de la loi sur des pierres ?",
+    "choices": [
+      "À Jéricho",
+      "Sur les pierres de l’autel, au mont Ébal",
+      "À Hatsor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 8:32 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-086",
+    "book": "Josué",
+    "chapter": 8,
+    "verseRef": "Josué 8:33",
+    "verseText": "Voir Josué 8:33.",
+    "question": "Qui se tenait de part et d’autre de l’arche lors de la lecture de la loi ?",
+    "choices": [
+      "Les seuls sacrificateurs",
+      "Tout Israël, étrangers compris, avec anciens, officiers et juges",
+      "Un groupe de douze"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 8:33 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-087",
+    "book": "Josué",
+    "chapter": 10,
+    "verseRef": "Josué 10:1",
+    "verseText": "Voir Josué 10:1.",
+    "question": "Quel roi est explicitement mentionné comme ayant entendu les événements et étant inquiet au sujet d’Israël ?",
+    "choices": [
+      "Le roi de Guérar",
+      "Adoni-Tsédek, roi de Jérusalem",
+      "Le roi de Ninive"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 10:1 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-088",
+    "book": "Josué",
+    "chapter": 10,
+    "verseRef": "Josué 10:6–8 (sens + formulation de l’encouragement)",
+    "verseText": "Voir Josué 10:6–8 (sens + formulation de l’encouragement).",
+    "question": "Quel message Josué envoya-t-il aux hommes de Gabaon quand ils demandèrent secours ?",
+    "choices": [
+      "« Je ne peux rien »",
+      "« Ne craignez point et ne vous effrayez point »",
+      "« Fuyez vers l’Égypte »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 10:6–8 (sens + formulation de l’encouragement) (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-089",
+    "book": "Josué",
+    "chapter": 10,
+    "verseRef": "Josué 10:10",
+    "verseText": "Voir Josué 10:10.",
+    "question": "Quel lieu est associé à la descente et à la poursuite des ennemis après Gabaon ?",
+    "choices": [
+      "La montée de Beth-Horon",
+      "Le désert de Sin",
+      "La vallée du Jabbok"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 10:10 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-090",
+    "book": "Josué",
+    "chapter": 10,
+    "verseRef": "Josué 10:11",
+    "verseText": "Voir Josué 10:11.",
+    "question": "Qu’arriva-t-il quand l’Éternel lança de grandes pierres depuis le ciel ?",
+    "choices": [
+      "Il y eut plus de morts par ces pierres que par l’épée d’Israël",
+      "Israël fut blessé",
+      "Les pierres tombèrent sur Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 10:11 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-091",
+    "book": "Josué",
+    "chapter": 12,
+    "verseRef": "Josué 12:9",
+    "verseText": "Voir Josué 12:9.",
+    "question": "Dans la liste des rois vaincus (Josué 12), quel roi est mentionné en premier ?",
+    "choices": [
+      "Le roi de Jéricho",
+      "Le roi d’Hébron",
+      "Le roi de Hatsor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 12:9 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-092",
+    "book": "Josué",
+    "chapter": 12,
+    "verseRef": "Josué 12:4",
+    "verseText": "Voir Josué 12:4.",
+    "question": "Quel roi est mentionné comme régnant à Basan dans l’historique des victoires à l’est ?",
+    "choices": [
+      "Og",
+      "Sihon",
+      "Balak"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 12:4 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-093",
+    "book": "Josué",
+    "chapter": 19,
+    "verseRef": "Josué 19:49–50",
+    "verseText": "Voir Josué 19:49–50.",
+    "question": "Quelle ville est donnée comme héritage à Josué lui-même ?",
+    "choices": [
+      "Timnath-Sérach, dans la montagne d’Éphraïm",
+      "Jéricho",
+      "Sichem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 19:49–50 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-094",
+    "book": "Josué",
+    "chapter": 17,
+    "verseRef": "Josué 17:3–4",
+    "verseText": "Voir Josué 17:3–4.",
+    "question": "Quelle plainte des filles de Tselophchad est rappelée par l’obtention d’un héritage ?",
+    "choices": [
+      "Leur père n’avait pas de fils",
+      "Leur père était roi",
+      "Leur père avait trop de terres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 17:3–4 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-095",
+    "book": "Josué",
+    "chapter": 22,
+    "verseRef": "Josué 22:13",
+    "verseText": "Voir Josué 22:13.",
+    "question": "Quel juge/sacrificateur est envoyé avec les chefs pour enquêter sur l’autel du Jourdain ?",
+    "choices": [
+      "Phinées, fils d’Éléazar",
+      "Samuel",
+      "Éli"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 22:13 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-096",
+    "book": "Josué",
+    "chapter": 22,
+    "verseRef": "Josué 22:20",
+    "verseText": "Voir Josué 22:20.",
+    "question": "Quelle faute passée est citée comme avertissement lors de la dispute de l’autel ?",
+    "choices": [
+      "Le péché d’Achân",
+      "Le péché de David",
+      "Le péché de Saül"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 22:20 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-097",
+    "book": "Josué",
+    "chapter": 22,
+    "verseRef": "Josué 22:34",
+    "verseText": "Voir Josué 22:34.",
+    "question": "Quel nom les tribus donnent-elles à l’autel construit près du Jourdain ?",
+    "choices": [
+      "Ében-Ézer",
+      "Il est “témoin” (car l’Éternel est Dieu)",
+      "Béthel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 22:34 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-098",
+    "book": "Josué",
+    "chapter": 23,
+    "verseRef": "Josué 23:8",
+    "verseText": "Voir Josué 23:8.",
+    "question": "Dans l’adieu de Josué, quel commandement est répété :",
+    "choices": [
+      "“Aimez vos ennemis”",
+      "“Attachez-vous à l’Éternel, votre Dieu”",
+      "“Cherchez l’Égypte”"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 23:8 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-099",
+    "book": "Josué",
+    "chapter": 23,
+    "verseRef": "Josué 23:13",
+    "verseText": "Voir Josué 23:13.",
+    "question": "Quel avertissement Josué donne-t-il sur les nations restantes si Israël transgresse l’alliance ?",
+    "choices": [
+      "Elles deviendront rois d’Israël",
+      "Elles seront un piège, un filet, un fouet et des épines",
+      "Elles quitteront le pays d’elles-mêmes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 23:13 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-100",
+    "book": "Josué",
+    "chapter": 24,
+    "verseRef": "Josué 24:1",
+    "verseText": "Voir Josué 24:1.",
+    "question": "Où Josué réunit-il toutes les tribus pour renouveler l’alliance et parler au peuple ?",
+    "choices": [
+      "À Sichem",
+      "À Guilgal",
+      "À Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 24:1 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-101",
+    "book": "Josué",
+    "chapter": 2,
+    "verseRef": "Josué 2:16",
+    "verseText": "Voir Josué 2:16.",
+    "question": "Quand les deux espions sortirent de chez Rahab, où leur dit-elle d’aller se cacher ?",
+    "choices": [
+      "Dans les champs de Jéricho",
+      "Dans la montagne",
+      "Dans les rues de la ville"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 2:16 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-102",
+    "book": "Josué",
+    "chapter": 2,
+    "verseRef": "Josué 2:16",
+    "verseText": "Voir Josué 2:16.",
+    "question": "Quelle consigne Rahab donne-t-elle pour éviter les poursuivants ?",
+    "choices": [
+      "« Cachez-vous un jour »",
+      "« Cachez-vous trois jours, jusqu’à ce que les poursuivants soient revenus »",
+      "« Traversez le Jourdain immédiatement »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 2:16 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-103",
+    "book": "Josué",
+    "chapter": 2,
+    "verseRef": "Josué 2:4–5",
+    "verseText": "Voir Josué 2:4–5.",
+    "question": "Que répond Rahab aux envoyés du roi quand ils demandent où sont les hommes ?",
+    "choices": [
+      "« Ils sont chez moi »",
+      "« Je ne sais pas d’où ils étaient; ils sont sortis à la brune »",
+      "« Ils sont au palais »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 2:4–5 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-104",
+    "book": "Josué",
+    "chapter": 3,
+    "verseRef": "Josué 3:1",
+    "verseText": "Voir Josué 3:1.",
+    "question": "Dans quel lieu Israël campe-t-il avant le passage du Jourdain, juste après être parti de Sittim ?",
+    "choices": [
+      "Au bord du Jourdain, où ils passèrent la nuit",
+      "À Guilgal immédiatement",
+      "À Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 3:1 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-105",
+    "book": "Josué",
+    "chapter": 3,
+    "verseRef": "Josué 3:6",
+    "verseText": "Voir Josué 3:6.",
+    "question": "Quel ordre Josué donne-t-il aux sacrificateurs concernant l’arche au bord du Jourdain ?",
+    "choices": [
+      "« Posez l’arche sur une pierre »",
+      "« Prenez l’arche de l’alliance et passez devant le peuple »",
+      "« Laissez l’arche au camp »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 3:6 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-106",
+    "book": "Josué",
+    "chapter": 3,
+    "verseRef": "Josué 3:15",
+    "verseText": "Voir Josué 3:15.",
+    "question": "Quel détail de saison est précisé au sujet du Jourdain lors du passage ?",
+    "choices": [
+      "Il était gelé",
+      "Il débordait par-dessus toutes ses rives pendant tout le temps de la moisson",
+      "Il était à sec depuis un mois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 3:15 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-107",
+    "book": "Josué",
+    "chapter": 3,
+    "verseRef": "Josué 3:6, 3:17 (formulation fidèle : nombre non précisé)",
+    "verseText": "Voir Josué 3:6, 3:17 (formulation fidèle : nombre non précisé).",
+    "question": "Combien de sacrificateurs portaient l’arche pendant le passage, selon le texte ?",
+    "choices": [
+      "2",
+      "4",
+      "Le texte parle des sacrificateurs portant l’arche (sans donner un chiffre)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Josué 3:6, 3:17 (formulation fidèle : nombre non précisé) (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-108",
+    "book": "Josué",
+    "chapter": 4,
+    "verseRef": "Josué 4:17–18",
+    "verseText": "Voir Josué 4:17–18.",
+    "question": "Quel acte Josué fit-il avant que les eaux du Jourdain ne reviennent à leur place ?",
+    "choices": [
+      "Il fit dresser un autel",
+      "Il ordonna aux sacrificateurs de sortir du Jourdain",
+      "Il envoya des messagers à Jéricho"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 4:17–18 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-109",
+    "book": "Josué",
+    "chapter": 4,
+    "verseRef": "Josué 4:18",
+    "verseText": "Voir Josué 4:18.",
+    "question": "Qu’arriva-t-il dès que les pieds des sacrificateurs furent retirés du Jourdain ?",
+    "choices": [
+      "Les eaux revinrent et débordèrent comme auparavant",
+      "Les eaux disparurent pour toujours",
+      "Un vent souffla et sécha la plaine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 4:18 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-110",
+    "book": "Josué",
+    "chapter": 4,
+    "verseRef": "Josué 4:6",
+    "verseText": "Voir Josué 4:6.",
+    "question": "Quel est l’effet recherché par le signe des pierres sur les générations suivantes ?",
+    "choices": [
+      "Apprendre la navigation",
+      "Que les enfants demandent : « Que signifient pour vous ces pierres ? »",
+      "Servir de monnaie d’échange"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 4:6 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-111",
+    "book": "Josué",
+    "chapter": 4,
+    "verseRef": "Josué 4:13",
+    "verseText": "Voir Josué 4:13.",
+    "question": "Combien d’hommes environ, “en état de porter les armes”, passèrent devant l’Éternel pour combattre ?",
+    "choices": [
+      "Environ 10 000",
+      "Environ 40 000",
+      "Environ 120 000"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 4:13 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-112",
+    "book": "Josué",
+    "chapter": 5,
+    "verseRef": "Josué 5:3",
+    "verseText": "Voir Josué 5:3.",
+    "question": "Quel surnom/phrase est donné à la colline des prépuces après la circoncision ?",
+    "choices": [
+      "« Mont de la délivrance »",
+      "« Guibea-Haaraloth »",
+      "« Rocher du témoignage »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 5:3 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-113",
+    "book": "Josué",
+    "chapter": 5,
+    "verseRef": "Josué 5:8",
+    "verseText": "Voir Josué 5:8.",
+    "question": "Pourquoi le peuple resta-t-il dans le camp après la circoncision ?",
+    "choices": [
+      "Pour bâtir une ville",
+      "Jusqu’à leur guérison",
+      "Pour attendre des armes d’Égypte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 5:8 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-114",
+    "book": "Josué",
+    "chapter": 6,
+    "verseRef": "Josué 6:4",
+    "verseText": "Voir Josué 6:4.",
+    "question": "Quelle instruction précise est donnée pour le 7e jour autour de Jéricho concernant la marche ?",
+    "choices": [
+      "Marcher une fois, puis crier",
+      "Marcher sept fois, puis les sacrificateurs sonneront des trompettes",
+      "Jeûner sans marcher"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 6:4 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-115",
+    "book": "Josué",
+    "chapter": 6,
+    "verseRef": "Josué 6:17",
+    "verseText": "Voir Josué 6:17.",
+    "question": "Quelle règle fut donnée concernant les personnes à épargner lors de la prise de Jéricho ?",
+    "choices": [
+      "Tous les habitants de Jéricho",
+      "Rahab et tous ceux qui seraient dans sa maison",
+      "Seulement les enfants"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 6:17 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-116",
+    "book": "Josué",
+    "chapter": 7,
+    "verseRef": "Josué 7:5",
+    "verseText": "Voir Josué 7:5.",
+    "question": "Quel mot décrit l’état d’Israël après la défaite devant Aï ?",
+    "choices": [
+      "« Leur cœur se fondit et devint comme de l’eau »",
+      "« Ils rirent et chantèrent »",
+      "« Ils devinrent orgueilleux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 7:5 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-117",
+    "book": "Josué",
+    "chapter": 7,
+    "verseRef": "Josué 7:13",
+    "verseText": "Voir Josué 7:13.",
+    "question": "Quelle action Josué ordonne-t-il de faire avec les choses dévouées par interdit au camp ?",
+    "choices": [
+      "Les vendre",
+      "Les brûler dans le feu du sacrifice",
+      "Les faire disparaître du milieu du camp"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Josué 7:13 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-118",
+    "book": "Josué",
+    "chapter": 8,
+    "verseRef": "Josué 8:5–6",
+    "verseText": "Voir Josué 8:5–6.",
+    "question": "Quel stratagème Josué emploie-t-il pour attirer les hommes d’Aï hors de la ville ?",
+    "choices": [
+      "Israël fait semblant de fuir devant eux",
+      "Israël se déguise en Gabaonites",
+      "Israël attaque de front sans ruse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 8:5–6 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-119",
+    "book": "Josué",
+    "chapter": 8,
+    "verseRef": "Josué 8:28",
+    "verseText": "Voir Josué 8:28.",
+    "question": "Qu’est-ce que Josué fit à la ville d’Aï après la victoire ?",
+    "choices": [
+      "Il la rebâtit",
+      "Il la réduisit en un monceau de ruines, pour toujours",
+      "Il en fit la capitale d’Israël"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 8:28 (LSG 1910)."
+  },
+  {
+    "id": "JOS-N-120",
+    "book": "Josué",
+    "chapter": 9,
+    "verseRef": "Josué 9:4",
+    "verseText": "Voir Josué 9:4.",
+    "question": "Comment la ruse des Gabaonites est-elle décrite dans le texte ?",
+    "choices": [
+      "« Ils se montrèrent plus forts qu’Israël »",
+      "« Ils usèrent aussi de ruse »",
+      "« Ils vinrent avec une armée »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Josué 9:4 (LSG 1910)."
+  }
+]

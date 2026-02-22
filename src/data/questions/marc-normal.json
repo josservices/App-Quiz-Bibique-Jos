@@ -1,0 +1,2627 @@
+[
+  {
+    "id": "marc-N-001",
+    "book": "Marc",
+    "chapter": 1,
+    "verseRef": "Marc 1:1",
+    "verseText": "Voir Marc 1:1.",
+    "question": "Comment Marc introduit-il le récit au tout début ?",
+    "choices": [
+      "Commencement de l’Évangile de Jésus Christ, Fils de Dieu.",
+      "Généalogie de Jésus Christ, fils de David, fils d’Abraham.",
+      "Parole de l’Éternel adressée à Israël par Malachie."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 1:1 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-002",
+    "book": "Marc",
+    "chapter": 1,
+    "verseRef": "Marc 1:6",
+    "verseText": "Voir Marc 1:6.",
+    "question": "Quel détail décrit l’habillement de Jean ?",
+    "choices": [
+      "Un vêtement de poils de chameau, et une ceinture de cuir autour des reins.",
+      "Un vêtement de fin lin, et une ceinture d’or.",
+      "Une tunique sans couture, tissée d’une seule pièce."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 1:6 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-003",
+    "book": "Marc",
+    "chapter": 1,
+    "verseRef": "Marc 1:11",
+    "verseText": "Voir Marc 1:11.",
+    "question": "Que disait la voix venue des cieux lors du baptême de Jésus ?",
+    "choices": [
+      "Tu es mon Fils bien-aimé, en toi j’ai mis toute mon affection.",
+      "Celui-ci est mon Fils bien-aimé, en qui j’ai mis toute mon affection.",
+      "Tu es mon serviteur, je t’ai choisi dès le sein de ta mère."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 1:11 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-004",
+    "book": "Marc",
+    "chapter": 1,
+    "verseRef": "Marc 1:18",
+    "verseText": "Voir Marc 1:18.",
+    "question": "Après l’appel des premiers disciples au bord de la mer, que firent-ils immédiatement ?",
+    "choices": [
+      "Ils laissèrent leurs filets, et le suivirent.",
+      "Ils retournèrent à la ville, et consultèrent les scribes.",
+      "Ils demandèrent un signe, et s’en allèrent."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 1:18 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-005",
+    "book": "Marc",
+    "chapter": 1,
+    "verseRef": "Marc 1:22",
+    "verseText": "Voir Marc 1:22.",
+    "question": "À Capernaüm, quelle réaction suscita l’enseignement de Jésus ?",
+    "choices": [
+      "Ils étaient frappés de sa doctrine; car il enseignait comme ayant autorité, et non pas comme les scribes.",
+      "Ils s’endormirent tous, car sa parole était obscure.",
+      "Ils rirent de lui, car il parlait en paraboles seulement."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 1:22 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-006",
+    "book": "Marc",
+    "chapter": 1,
+    "verseRef": "Marc 1:24",
+    "verseText": "Voir Marc 1:24.",
+    "question": "Que cria l’esprit impur dans la synagogue ?",
+    "choices": [
+      "Je sais qui tu es: le Saint de Dieu.",
+      "Tu es le Christ, le Fils du Dieu vivant.",
+      "Tu es Élie, qui doit venir."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 1:24 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-007",
+    "book": "Marc",
+    "chapter": 1,
+    "verseRef": "Marc 1:31",
+    "verseText": "Voir Marc 1:31.",
+    "question": "Après avoir guéri la belle-mère de Simon, que fit-elle ?",
+    "choices": [
+      "Elle se leva, et les servit.",
+      "Elle sortit, et annonça la nouvelle dans la ville.",
+      "Elle s’assit, et garda le silence."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 1:31 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-008",
+    "book": "Marc",
+    "chapter": 1,
+    "verseRef": "Marc 1:45",
+    "verseText": "Voir Marc 1:45.",
+    "question": "Pourquoi Jésus dit-il à un lépreux guéri de ne rien dire à personne ?",
+    "choices": [
+      "Parce que cela le mettait dans l’impossibilité d’entrer ouvertement dans une ville.",
+      "Parce qu’il craignait les Romains.",
+      "Parce que l’heure n’était pas venue pour la résurrection."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 1:45 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-009",
+    "book": "Marc",
+    "chapter": 2,
+    "verseRef": "Marc 2:5",
+    "verseText": "Voir Marc 2:5.",
+    "question": "Que dit Jésus au paralytique avant de lui ordonner de se lever ?",
+    "choices": [
+      "Mon enfant, tes péchés sont pardonnés.",
+      "Sois courageux, ton mal est petit.",
+      "Ton père t’a béni, et tu seras guéri."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 2:5 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-010",
+    "book": "Marc",
+    "chapter": 2,
+    "verseRef": "Marc 2:10",
+    "verseText": "Voir Marc 2:10.",
+    "question": "Quel argument Jésus donne-t-il pour montrer qu’il a le pouvoir de pardonner les péchés ?",
+    "choices": [
+      "Afin que vous sachiez que le Fils de l’homme a sur la terre le pouvoir de pardonner les péchés.",
+      "Afin que vous voyiez que les anges sont avec moi.",
+      "Afin que vous compreniez que le temple n’est plus nécessaire."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 2:10 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-011",
+    "book": "Marc",
+    "chapter": 2,
+    "verseRef": "Marc 2:14",
+    "verseText": "Voir Marc 2:14.",
+    "question": "Qui Jésus appela-t-il assis au lieu des péages ?",
+    "choices": [
+      "Lévi, fils d’Alphée.",
+      "Zachée, fils d’Abraham.",
+      "Joseph, appelé Barnabas."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 2:14 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-012",
+    "book": "Marc",
+    "chapter": 2,
+    "verseRef": "Marc 2:19",
+    "verseText": "Voir Marc 2:19.",
+    "question": "Quelle image Jésus utilise-t-il pour parler du jeûne avec ses disciples ?",
+    "choices": [
+      "Les amis de l’époux peuvent-ils jeûner pendant que l’époux est avec eux ?",
+      "Les enfants peuvent-ils pleurer pendant que le père est à table ?",
+      "Les soldats peuvent-ils dormir pendant que le combat dure ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 2:19 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-013",
+    "book": "Marc",
+    "chapter": 2,
+    "verseRef": "Marc 2:25-26",
+    "verseText": "Voir Marc 2:25-26.",
+    "question": "Quel exemple Jésus cite-t-il quand on l’accuse au sujet du sabbat ?",
+    "choices": [
+      "David entra dans la maison de Dieu, et mangea les pains de proposition.",
+      "Moïse frappa le rocher, et l’eau coula.",
+      "Josué fit tomber les murailles de Jéricho."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 2:25-26 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-014",
+    "book": "Marc",
+    "chapter": 3,
+    "verseRef": "Marc 3:14",
+    "verseText": "Voir Marc 3:14.",
+    "question": "Comment Marc nomme-t-il les douze que Jésus établit ?",
+    "choices": [
+      "Il en établit douze, pour les avoir avec lui, et pour les envoyer prêcher.",
+      "Il en établit douze, pour juger les douze tribus d’Israël.",
+      "Il en établit douze, pour offrir des sacrifices au temple."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 3:14 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-015",
+    "book": "Marc",
+    "chapter": 3,
+    "verseRef": "Marc 3:17",
+    "verseText": "Voir Marc 3:17.",
+    "question": "Quel surnom Jésus donna-t-il à Jacques et Jean ?",
+    "choices": [
+      "Boanergès, c’est-à-dire fils du tonnerre.",
+      "Céphas, c’est-à-dire pierre.",
+      "Barnabas, c’est-à-dire fils de consolation."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 3:17 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-016",
+    "book": "Marc",
+    "chapter": 3,
+    "verseRef": "Marc 3:29",
+    "verseText": "Voir Marc 3:29.",
+    "question": "Quelle parole Jésus prononce-t-il au sujet du blasphème contre le Saint-Esprit ?",
+    "choices": [
+      "Il n’obtiendra jamais de pardon: il est coupable d’un péché éternel.",
+      "Il sera pardonné après sept jours de jeûne.",
+      "Il devra offrir un holocauste sans défaut."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 3:29 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-017",
+    "book": "Marc",
+    "chapter": 4,
+    "verseRef": "Marc 4:20",
+    "verseText": "Voir Marc 4:20.",
+    "question": "Dans la parabole du semeur, que devient la semence tombée dans la bonne terre ?",
+    "choices": [
+      "Elle rapporte du fruit: trente, soixante, et cent pour un.",
+      "Elle rapporte du fruit: dix, vingt, et trente pour un.",
+      "Elle rapporte du fruit: un peu, puis se dessèche."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 4:20 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-018",
+    "book": "Marc",
+    "chapter": 4,
+    "verseRef": "Marc 4:21",
+    "verseText": "Voir Marc 4:21.",
+    "question": "Quelle comparaison Jésus fait-il au sujet de la lampe ?",
+    "choices": [
+      "Apporte-t-on la lampe pour la mettre sous le boisseau, ou sous le lit ? n’est-ce pas pour la mettre sur le chandelier ?",
+      "Cache-t-on la lampe pour qu’elle ne brille jamais ?",
+      "Éteint-on la lampe quand la nuit vient ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 4:21 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-019",
+    "book": "Marc",
+    "chapter": 4,
+    "verseRef": "Marc 4:27",
+    "verseText": "Voir Marc 4:27.",
+    "question": "Comment Jésus décrit-il le royaume de Dieu avec l’homme qui jette la semence ?",
+    "choices": [
+      "La semence germe et croît, sans qu’il sache comment.",
+      "La semence ne pousse que si l’homme la regarde.",
+      "La semence ne croît que dans les palais."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 4:27 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-020",
+    "book": "Marc",
+    "chapter": 4,
+    "verseRef": "Marc 4:39",
+    "verseText": "Voir Marc 4:39.",
+    "question": "Quel ordre Jésus donne-t-il à la mer en pleine tempête ?",
+    "choices": [
+      "Silence, tais-toi.",
+      "Va, sors de cet homme.",
+      "Lève-toi, prends ton lit."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 4:39 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-021",
+    "book": "Marc",
+    "chapter": 4,
+    "verseRef": "Marc 4:40",
+    "verseText": "Voir Marc 4:40.",
+    "question": "Quelle question Jésus pose-t-il après l’apaisement de la tempête ?",
+    "choices": [
+      "Pourquoi avez-vous ainsi peur ? comment n’avez-vous point de foi ?",
+      "Pourquoi cherchez-vous le pain qui périt ?",
+      "Pourquoi dites-vous du bien du sabbat ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 4:40 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-022",
+    "book": "Marc",
+    "chapter": 5,
+    "verseRef": "Marc 5:9",
+    "verseText": "Voir Marc 5:9.",
+    "question": "Comment les démons du possédé de la contrée des Gadaréniens se nomment-ils ?",
+    "choices": [
+      "Légion.",
+      "Béelzébul.",
+      "Abaddon."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 5:9 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-023",
+    "book": "Marc",
+    "chapter": 5,
+    "verseRef": "Marc 5:12",
+    "verseText": "Voir Marc 5:12.",
+    "question": "Où les démons demandent-ils d’entrer lorsqu’ils sortent de l’homme ?",
+    "choices": [
+      "Dans les pourceaux.",
+      "Dans les brebis.",
+      "Dans les chiens."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 5:12 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-024",
+    "book": "Marc",
+    "chapter": 5,
+    "verseRef": "Marc 5:34",
+    "verseText": "Voir Marc 5:34.",
+    "question": "Quelle parole Jésus adresse-t-il à la femme qui touchait son vêtement ?",
+    "choices": [
+      "Ma fille, ta foi t’a sauvée; va en paix, et sois guérie de ton mal.",
+      "Femme, tes péchés sont pardonnés; va, et ne pèche plus.",
+      "Bienheureuse es-tu, car tu as cru."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 5:34 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-025",
+    "book": "Marc",
+    "chapter": 5,
+    "verseRef": "Marc 5:41",
+    "verseText": "Voir Marc 5:41.",
+    "question": "Quel mot Jésus dit-il à la fille de Jaïrus en la prenant par la main ?",
+    "choices": [
+      "Talitha koumi, ce qui signifie: Jeune fille, lève-toi, je te le dis.",
+      "Ephphatha, c’est-à-dire: Ouvre-toi.",
+      "Abba, Père."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 5:41 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-026",
+    "book": "Marc",
+    "chapter": 6,
+    "verseRef": "Marc 6:1-2",
+    "verseText": "Voir Marc 6:1-2.",
+    "question": "Dans quel lieu Jésus entra-t-il pour enseigner, après être revenu au bord de la mer ?",
+    "choices": [
+      "Dans une maison, et une foule s’assembla.",
+      "Dans le temple, et les sacrificateurs le saisirent.",
+      "Dans une synagogue de Jérusalem, et la ville se troubla."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 6:1-2 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-027",
+    "book": "Marc",
+    "chapter": 6,
+    "verseRef": "Marc 6:4",
+    "verseText": "Voir Marc 6:4.",
+    "question": "Quel proverbe Jésus cite-t-il au sujet de l’honneur ?",
+    "choices": [
+      "Un prophète n’est méprisé que dans sa patrie, parmi ses parents, et dans sa maison.",
+      "Un serviteur n’est jamais plus grand que son maître.",
+      "L’ouvrier mérite son salaire."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 6:4 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-028",
+    "book": "Marc",
+    "chapter": 6,
+    "verseRef": "Marc 6:8",
+    "verseText": "Voir Marc 6:8.",
+    "question": "Lors de l’envoi des douze, que leur défend-il d’emporter pour le voyage ?",
+    "choices": [
+      "Du pain, un sac, ou de la monnaie dans la ceinture.",
+      "Une tunique de rechange et des sandales.",
+      "Une lampe et un manteau."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 6:8 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-029",
+    "book": "Marc",
+    "chapter": 6,
+    "verseRef": "Marc 6:22-24",
+    "verseText": "Voir Marc 6:22-24.",
+    "question": "Quelle danseuse obtint la tête de Jean-Baptiste par sa demande ?",
+    "choices": [
+      "La fille d’Hérodias.",
+      "La fille d’Anne.",
+      "La fille de Marie."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 6:22-24 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-030",
+    "book": "Marc",
+    "chapter": 6,
+    "verseRef": "Marc 6:38",
+    "verseText": "Voir Marc 6:38.",
+    "question": "Dans la multiplication des pains, combien de pains Jésus a-t-il au départ ?",
+    "choices": [
+      "Cinq pains.",
+      "Sept pains.",
+      "Douze pains."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 6:38 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-031",
+    "book": "Marc",
+    "chapter": 6,
+    "verseRef": "Marc 6:43",
+    "verseText": "Voir Marc 6:43.",
+    "question": "Quelle somme de restes ramasse-t-on après les cinq pains ?",
+    "choices": [
+      "Douze paniers pleins de morceaux.",
+      "Sept corbeilles pleines de morceaux.",
+      "Trois paniers pleins de morceaux."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 6:43 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-032",
+    "book": "Marc",
+    "chapter": 6,
+    "verseRef": "Marc 6:50",
+    "verseText": "Voir Marc 6:50.",
+    "question": "En marchant sur la mer, quel mot Jésus dit-il pour rassurer les disciples ?",
+    "choices": [
+      "Rassurez-vous, c’est moi; n’ayez pas peur !",
+      "Je suis la lumière du monde.",
+      "Voici, je fais toutes choses nouvelles."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 6:50 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-033",
+    "book": "Marc",
+    "chapter": 7,
+    "verseRef": "Marc 7:8",
+    "verseText": "Voir Marc 7:8.",
+    "question": "Quelle accusation Jésus adresse-t-il aux pharisiens au sujet de la tradition ?",
+    "choices": [
+      "Vous abandonnez le commandement de Dieu, et vous observez la tradition des hommes.",
+      "Vous ne croyez ni aux anges ni à la résurrection.",
+      "Vous aimez les premières places dans les synagogues."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 7:8 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-034",
+    "book": "Marc",
+    "chapter": 7,
+    "verseRef": "Marc 7:11",
+    "verseText": "Voir Marc 7:11.",
+    "question": "Quel terme Jésus cite-t-il pour expliquer une offrande qui annule l’assistance aux parents ?",
+    "choices": [
+      "Corban, c’est-à-dire, une offrande à Dieu.",
+      "Hosanna, c’est-à-dire, sauve maintenant.",
+      "Rabboni, c’est-à-dire, mon maître."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 7:11 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-035",
+    "book": "Marc",
+    "chapter": 7,
+    "verseRef": "Marc 7:15",
+    "verseText": "Voir Marc 7:15.",
+    "question": "Que dit Jésus sur ce qui souille l’homme ?",
+    "choices": [
+      "Rien de ce qui du dehors entre dans l’homme ne peut le souiller.",
+      "Tout ce qui est touché par un païen souille l’homme.",
+      "La poussière du chemin souille l’homme."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 7:15 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-036",
+    "book": "Marc",
+    "chapter": 7,
+    "verseRef": "Marc 7:32-35",
+    "verseText": "Voir Marc 7:32-35.",
+    "question": "Quel miracle Jésus accomplit-il en disant: Ephphatha ?",
+    "choices": [
+      "Il guérit un sourd qui avait de la difficulté à parler.",
+      "Il rend la vue à un aveugle-né.",
+      "Il ressuscite une jeune fille."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 7:32-35 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-037",
+    "book": "Marc",
+    "chapter": 8,
+    "verseRef": "Marc 8:5",
+    "verseText": "Voir Marc 8:5.",
+    "question": "Dans la seconde multiplication, combien de pains sont mentionnés ?",
+    "choices": [
+      "Sept.",
+      "Cinq.",
+      "Trois."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 8:5 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-038",
+    "book": "Marc",
+    "chapter": 8,
+    "verseRef": "Marc 8:8",
+    "verseText": "Voir Marc 8:8.",
+    "question": "Après cette multiplication, combien de corbeilles de morceaux ramasse-t-on ?",
+    "choices": [
+      "Sept corbeilles.",
+      "Douze paniers.",
+      "Une corbeille."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 8:8 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-039",
+    "book": "Marc",
+    "chapter": 8,
+    "verseRef": "Marc 8:12",
+    "verseText": "Voir Marc 8:12.",
+    "question": "Que répond Jésus quand les pharisiens demandent un signe du ciel ?",
+    "choices": [
+      "Pourquoi cette génération demande-t-elle un signe ? Je vous le dis en vérité, il ne sera point donné de signe à cette génération.",
+      "Un signe vous sera donné: Jonas.",
+      "Je ferai descendre le feu du ciel."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 8:12 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-040",
+    "book": "Marc",
+    "chapter": 8,
+    "verseRef": "Marc 8:15",
+    "verseText": "Voir Marc 8:15.",
+    "question": "Quel avertissement Jésus donne-t-il aux disciples dans la barque ?",
+    "choices": [
+      "Gardez-vous avec soin du levain des pharisiens et du levain d’Hérode.",
+      "Gardez-vous de la mer, car elle engloutit.",
+      "Gardez-vous de parler en paraboles."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 8:15 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-041",
+    "book": "Marc",
+    "chapter": 8,
+    "verseRef": "Marc 8:29",
+    "verseText": "Voir Marc 8:29.",
+    "question": "À Césarée de Philippe, comment Pierre confesse-t-il Jésus ?",
+    "choices": [
+      "Tu es le Christ.",
+      "Tu es le prophète Élie.",
+      "Tu es Jean-Baptiste ressuscité."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 8:29 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-042",
+    "book": "Marc",
+    "chapter": 8,
+    "verseRef": "Marc 8:34",
+    "verseText": "Voir Marc 8:34.",
+    "question": "Quelle condition Jésus donne-t-il pour venir après lui ?",
+    "choices": [
+      "Qu’il renonce à lui-même, qu’il se charge de sa croix, et qu’il me suive.",
+      "Qu’il bâtisse un temple en pierre.",
+      "Qu’il observe la tradition des anciens."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 8:34 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-043",
+    "book": "Marc",
+    "chapter": 9,
+    "verseRef": "Marc 9:3",
+    "verseText": "Voir Marc 9:3.",
+    "question": "Sur la montagne, quels vêtements de Jésus sont décrits ?",
+    "choices": [
+      "Ils devinrent resplendissants, et d’une telle blancheur qu’il n’est pas de foulon sur la terre qui puisse blanchir ainsi.",
+      "Ils devinrent pourpres, comme un manteau royal.",
+      "Ils devinrent noirs, comme la nuit."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 9:3 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-044",
+    "book": "Marc",
+    "chapter": 9,
+    "verseRef": "Marc 9:7",
+    "verseText": "Voir Marc 9:7.",
+    "question": "Quelle parole vint de la nuée lors de la transfiguration ?",
+    "choices": [
+      "Celui-ci est mon Fils bien-aimé: écoutez-le !",
+      "Tu es mon Fils bien-aimé: en toi j’ai mis toute mon affection.",
+      "Voici mon serviteur, que je soutiens."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 9:7 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-045",
+    "book": "Marc",
+    "chapter": 10,
+    "verseRef": "Marc 10:9",
+    "verseText": "Voir Marc 10:9.",
+    "question": "En parlant du divorce, que dit Jésus que l’homme ne doit pas faire ?",
+    "choices": [
+      "Que l’homme ne sépare pas ce que Dieu a joint.",
+      "Que l’homme ne touche pas au sacrifice.",
+      "Que l’homme ne parle pas aux enfants."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 10:9 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-046",
+    "book": "Marc",
+    "chapter": 10,
+    "verseRef": "Marc 10:15",
+    "verseText": "Voir Marc 10:15.",
+    "question": "Quel accueil Jésus exige-t-il envers le royaume de Dieu ?",
+    "choices": [
+      "Quiconque ne recevra pas le royaume de Dieu comme un petit enfant n’y entrera point.",
+      "Quiconque ne jeûnera pas deux fois la semaine n’y entrera point.",
+      "Quiconque ne donnera pas la dîme de tout n’y entrera point."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 10:15 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-047",
+    "book": "Marc",
+    "chapter": 10,
+    "verseRef": "Marc 10:19",
+    "verseText": "Voir Marc 10:19.",
+    "question": "Quel commandement Jésus cite-t-il au jeune homme riche en premier dans la liste ?",
+    "choices": [
+      "Tu ne commettras point d’adultère.",
+      "Tu aimeras l’Éternel ton Dieu de tout ton cœur.",
+      "Souviens-toi du jour du repos, pour le sanctifier."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 10:19 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-048",
+    "book": "Marc",
+    "chapter": 10,
+    "verseRef": "Marc 10:25",
+    "verseText": "Voir Marc 10:25.",
+    "question": "Que dit Jésus sur la difficulté pour les riches d’entrer dans le royaume ?",
+    "choices": [
+      "Il est plus facile à un chameau de passer par le trou d’une aiguille qu’à un riche d’entrer dans le royaume de Dieu.",
+      "Il est plus facile à un riche de passer la mer qu’à un pauvre d’entrer dans le royaume.",
+      "Il est plus facile à un roi de jeûner qu’à un pauvre de prier."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 10:25 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-049",
+    "book": "Marc",
+    "chapter": 10,
+    "verseRef": "Marc 10:46",
+    "verseText": "Voir Marc 10:46.",
+    "question": "Comment s’appelle l’aveugle guéri à Jéricho ?",
+    "choices": [
+      "Bartimée, fils de Timée.",
+      "Barabbas, fils du père.",
+      "Barnabas, fils de consolation."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 10:46 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-050",
+    "book": "Marc",
+    "chapter": 10,
+    "verseRef": "Marc 10:51",
+    "verseText": "Voir Marc 10:51.",
+    "question": "Quelle demande Bartimée adresse-t-il à Jésus ?",
+    "choices": [
+      "Rabbouni, que je recouvre la vue.",
+      "Seigneur, donne-moi du pain.",
+      "Maître, fais que je marche sur la mer."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 10:51 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-051",
+    "book": "Marc",
+    "chapter": 11,
+    "verseRef": "Marc 11:4",
+    "verseText": "Voir Marc 11:4.",
+    "question": "Pour l’entrée à Jérusalem, où Jésus dit-il qu’un petit âne est attaché ?",
+    "choices": [
+      "Dehors, près d’une porte, au détour du chemin.",
+      "Dans la cour du temple, près de l’autel.",
+      "Sur la montagne, auprès d’un figuier."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 11:4 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-052",
+    "book": "Marc",
+    "chapter": 11,
+    "verseRef": "Marc 11:14",
+    "verseText": "Voir Marc 11:14.",
+    "question": "Quel reproche Jésus fait-il au figuier ?",
+    "choices": [
+      "Que jamais personne ne mange de ton fruit !",
+      "Que jamais personne ne s’assoie sous ton ombre !",
+      "Que jamais personne ne te coupe !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 11:14 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-053",
+    "book": "Marc",
+    "chapter": 11,
+    "verseRef": "Marc 11:16",
+    "verseText": "Voir Marc 11:16.",
+    "question": "En chassant du temple, que Jésus ne permet-il pas qu’on transporte ?",
+    "choices": [
+      "Aucun objet à travers le temple.",
+      "Aucune lampe allumée à travers le temple.",
+      "Aucun vêtement à travers le temple."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 11:16 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-054",
+    "book": "Marc",
+    "chapter": 11,
+    "verseRef": "Marc 11:17",
+    "verseText": "Voir Marc 11:17.",
+    "question": "Quelle déclaration Jésus fait-il sur la maison de Dieu ?",
+    "choices": [
+      "Ma maison sera appelée une maison de prière pour toutes les nations.",
+      "Ma maison sera appelée un palais de justice.",
+      "Ma maison sera appelée une forteresse de guerre."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 11:17 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-055",
+    "book": "Marc",
+    "chapter": 11,
+    "verseRef": "Marc 11:25",
+    "verseText": "Voir Marc 11:25.",
+    "question": "Quel signe Jésus donne-t-il sur la prière et le pardon ?",
+    "choices": [
+      "Lorsque vous êtes debout faisant votre prière, si vous avez quelque chose contre quelqu’un, pardonnez.",
+      "Lorsque vous êtes assis à table, si quelqu’un vous offense, gardez le silence.",
+      "Lorsque vous marchez, si quelqu’un vous blesse, rendez-lui le mal."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 11:25 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-056",
+    "book": "Marc",
+    "chapter": 12,
+    "verseRef": "Marc 12:6",
+    "verseText": "Voir Marc 12:6.",
+    "question": "Dans la parabole des vignerons, que fait le maître après avoir envoyé plusieurs serviteurs ?",
+    "choices": [
+      "Il envoya vers eux un fils bien-aimé.",
+      "Il envoya une armée pour brûler la ville.",
+      "Il envoya un prêtre pour offrir un sacrifice."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 12:6 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-057",
+    "book": "Marc",
+    "chapter": 12,
+    "verseRef": "Marc 12:10",
+    "verseText": "Voir Marc 12:10.",
+    "question": "Quelle pierre est mentionnée dans la citation de Jésus à propos des bâtisseurs ?",
+    "choices": [
+      "La pierre qu’ont rejetée ceux qui bâtissaient est devenue la principale de l’angle.",
+      "La pierre du désert a donné de l’eau.",
+      "La pierre du tombeau s’est fermée à jamais."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 12:10 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-058",
+    "book": "Marc",
+    "chapter": 12,
+    "verseRef": "Marc 12:15",
+    "verseText": "Voir Marc 12:15.",
+    "question": "À propos de l’impôt, que demande Jésus qu’on lui apporte ?",
+    "choices": [
+      "Un denier.",
+      "Un sicle.",
+      "Une drachme."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 12:15 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-059",
+    "book": "Marc",
+    "chapter": 12,
+    "verseRef": "Marc 12:30",
+    "verseText": "Voir Marc 12:30.",
+    "question": "Quel résumé Jésus donne-t-il du premier commandement ?",
+    "choices": [
+      "Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, de toute ta pensée, et de toute ta force.",
+      "Tu aimeras ton prochain comme toi-même seulement.",
+      "Tu ne tueras point, tu ne voleras point, tu ne mentiras point."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 12:30 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-060",
+    "book": "Marc",
+    "chapter": 12,
+    "verseRef": "Marc 12:42",
+    "verseText": "Voir Marc 12:42.",
+    "question": "Quelle offrande Jésus met-il en avant au trésor ?",
+    "choices": [
+      "Une pauvre veuve y mit deux petites pièces, faisant un quart de sou.",
+      "Un riche y mit dix deniers d’argent.",
+      "Un pharisien y mit une corbeille de farine."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 12:42 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-061",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:8",
+    "verseText": "Voir Marc 13:8.",
+    "question": "Selon Marc, quel événement Jésus annonce-t-il comme signe initial des douleurs ?",
+    "choices": [
+      "Il s’élèvera de faux christs et de faux prophètes.",
+      "Il y aura des tremblements de terre en divers lieux.",
+      "Ils mettront la main sur vous, et vous persécuteront."
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Marc 13:8 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-062",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:7",
+    "verseText": "Voir Marc 13:7.",
+    "question": "Dans le discours sur la fin, que dit Jésus que l’on ne doit pas faire en entendant parler de guerres ?",
+    "choices": [
+      "Ne vous alarmez pas.",
+      "N’ouvrez pas la bouche.",
+      "Ne quittez pas la ville."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 13:7 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-063",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:11",
+    "verseText": "Voir Marc 13:11.",
+    "question": "Quelle promesse Jésus fait-il sur l’assistance au moment de rendre témoignage ?",
+    "choices": [
+      "Car ce n’est pas vous qui parlerez, mais le Saint-Esprit.",
+      "Car ce n’est pas vous qui répondrez, mais l’ange du Seigneur.",
+      "Car ce n’est pas vous qui déciderez, mais le souverain sacrificateur."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 13:11 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-064",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:14",
+    "verseText": "Voir Marc 13:14.",
+    "question": "Dans quel contexte Jésus dit-il: « Que celui qui lit fasse attention » ?",
+    "choices": [
+      "En parlant de l’abomination de la désolation établie là où elle ne doit pas être.",
+      "En parlant du figuier qui n’a point de fruit.",
+      "En parlant du trésor et de la pauvre veuve."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 13:14 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-065",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:15",
+    "verseText": "Voir Marc 13:15.",
+    "question": "Quel conseil Jésus donne-t-il à celui qui est sur le toit lorsque vient la détresse ?",
+    "choices": [
+      "Qu’il ne descende pas et n’entre pas pour prendre quelque chose dans sa maison.",
+      "Qu’il descende vite et prenne son manteau.",
+      "Qu’il aille au temple prier avec les anciens."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 13:15 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-066",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:16",
+    "verseText": "Voir Marc 13:16.",
+    "question": "Que dit Jésus au sujet de celui qui sera dans les champs lors de ces jours-là ?",
+    "choices": [
+      "Qu’il ne retourne pas en arrière pour prendre son manteau.",
+      "Qu’il retourne chercher ses sandales.",
+      "Qu’il rentre pour fermer sa porte."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 13:16 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-067",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:20",
+    "verseText": "Voir Marc 13:20.",
+    "question": "Quelle réalité Jésus souligne-t-il concernant la durée de ces jours, à cause des élus ?",
+    "choices": [
+      "Le Seigneur a abrégé ces jours.",
+      "Le Seigneur a prolongé ces jours.",
+      "Le Seigneur a oublié ces jours."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 13:20 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-068",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:22",
+    "verseText": "Voir Marc 13:22.",
+    "question": "Dans Marc, quelle expression décrit les faux christs et les faux prophètes ?",
+    "choices": [
+      "Ils feront des prodiges.",
+      "Ils rendront les morts à la vie.",
+      "Ils feront descendre le feu du ciel."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 13:22 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-069",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:26",
+    "verseText": "Voir Marc 13:26.",
+    "question": "Que dit Jésus que l’on verra après cette détresse ?",
+    "choices": [
+      "Le Fils de l’homme venant sur les nuées avec une grande puissance et avec gloire.",
+      "Le temple rebâti en trois jours.",
+      "L’arche de l’alliance apparaissant sur la montagne."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 13:26 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-070",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:27",
+    "verseText": "Voir Marc 13:27.",
+    "question": "Selon Marc, que feront les anges envoyés par Jésus ?",
+    "choices": [
+      "Ils rassembleront ses élus des quatre vents.",
+      "Ils jugeront les nations sur la place publique.",
+      "Ils allumeront des flambeaux dans le temple."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 13:27 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-071",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:29",
+    "verseText": "Voir Marc 13:29.",
+    "question": "Quelle leçon Jésus tire-t-il du figuier dans Marc ?",
+    "choices": [
+      "Sachez que cela est proche, à la porte.",
+      "Sachez que la loi est abolie.",
+      "Sachez que le sabbat est changé."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 13:29 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-072",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:31",
+    "verseText": "Voir Marc 13:31.",
+    "question": "Quelle affirmation Jésus fait-il sur ses paroles par rapport au ciel et à la terre ?",
+    "choices": [
+      "Le ciel et la terre passeront, mais mes paroles ne passeront point.",
+      "Le ciel et la terre seront renouvelés, et mes paroles changeront.",
+      "Le ciel et la terre demeureront, mais mes paroles passeront."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 13:31 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-073",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:32",
+    "verseText": "Voir Marc 13:32.",
+    "question": "Dans Marc, qui est dit ne pas connaître le jour ni l’heure ?",
+    "choices": [
+      "Personne, ni les anges dans le ciel, ni le Fils, mais le Père seul.",
+      "Seulement les prophètes, mais non les anges.",
+      "Les disciples seulement, mais non le Père."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 13:32 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-074",
+    "book": "Marc",
+    "chapter": 13,
+    "verseRef": "Marc 13:37",
+    "verseText": "Voir Marc 13:37.",
+    "question": "Quelle consigne Jésus répète-t-il pour conclure son exhortation ?",
+    "choices": [
+      "Veillez.",
+      "Combattez.",
+      "Cachez-vous."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 13:37 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-075",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:2",
+    "verseText": "Voir Marc 14:2.",
+    "question": "Selon Marc, quel motif principal est donné pour expliquer pourquoi les principaux sacrificateurs cherchaient à saisir Jésus ?",
+    "choices": [
+      "Car ils le craignaient.",
+      "Car ils l’admiraient.",
+      "Car ils le suivaient."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:2 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-076",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:3",
+    "verseText": "Voir Marc 14:3.",
+    "question": "À Béthanie, où se trouvait Jésus lors de l’onction ?",
+    "choices": [
+      "Dans la maison de Simon le lépreux.",
+      "Dans la maison de Zachée.",
+      "Dans la maison de Caïphe."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:3 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-077",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:3",
+    "verseText": "Voir Marc 14:3.",
+    "question": "Dans Marc, de quel matériau est dit le vase de parfum ?",
+    "choices": [
+      "D’albâtre.",
+      "D’or.",
+      "D’argent."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:3 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-078",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:8",
+    "verseText": "Voir Marc 14:8.",
+    "question": "Que dit Jésus au sujet de l’acte de la femme qui répand le parfum ?",
+    "choices": [
+      "Elle a fait ce qu’elle a pu.",
+      "Elle a fait trop peu.",
+      "Elle a fait par ignorance."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:8 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-079",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:9",
+    "verseText": "Voir Marc 14:9.",
+    "question": "Quelle portée Jésus donne-t-il à ce récit, selon Marc ?",
+    "choices": [
+      "On racontera aussi, en mémoire d’elle, ce qu’elle a fait.",
+      "On oubliera cette action quand le royaume viendra.",
+      "On gardera ce parfum pour le temple."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:9 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-080",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:10",
+    "verseText": "Voir Marc 14:10.",
+    "question": "Selon Marc, qu’est-ce que Judas Iscariot alla faire auprès des principaux sacrificateurs ?",
+    "choices": [
+      "Le leur livrer.",
+      "Leur demander du pain.",
+      "Leur proposer une guérison."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:10 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-081",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:12",
+    "verseText": "Voir Marc 14:12.",
+    "question": "À la préparation de la Pâque, quelle question les disciples posent-ils à Jésus ?",
+    "choices": [
+      "Où veux-tu que nous allions te préparer la Pâque ?",
+      "Quand feras-tu des miracles à Jérusalem ?",
+      "À qui donnerons-nous l’argent du trésor ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:12 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-082",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:13",
+    "verseText": "Voir Marc 14:13.",
+    "question": "Quel signe Jésus donne-t-il pour trouver le lieu préparé, selon Marc ?",
+    "choices": [
+      "Un homme portant une cruche d’eau.",
+      "Un enfant portant des pains.",
+      "Un prêtre portant un encensoir."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:13 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-083",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:15",
+    "verseText": "Voir Marc 14:15.",
+    "question": "Dans Marc, quel détail décrit la salle où ils mangeront la Pâque ?",
+    "choices": [
+      "Une grande chambre haute, meublée et toute prête.",
+      "Une petite chambre basse, vide et obscure.",
+      "Une cour extérieure, ouverte à tous."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:15 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-084",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:18",
+    "verseText": "Voir Marc 14:18.",
+    "question": "Pendant le repas, comment Jésus exprime-t-il l’annonce de la trahison dans Marc ?",
+    "choices": [
+      "L’un de vous, qui mange avec moi, me livrera.",
+      "L’un de vous, qui prie avec moi, me défendra.",
+      "L’un de vous, qui court avec moi, m’abandonnera."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:18 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-085",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:20",
+    "verseText": "Voir Marc 14:20.",
+    "question": "Dans Marc, que répond Jésus à la question: « Est-ce moi ? »",
+    "choices": [
+      "C’est l’un des douze, qui met avec moi la main dans le plat.",
+      "C’est celui qui ne jeûne pas.",
+      "C’est celui qui n’a pas d’épée."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:20 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-086",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:22",
+    "verseText": "Voir Marc 14:22.",
+    "question": "Lors de la Cène, quelle formule Jésus emploie-t-il au sujet du pain ?",
+    "choices": [
+      "Prenez, ceci est mon corps.",
+      "Mangez, ceci est la loi.",
+      "Recevez, ceci est la sagesse."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:22 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-087",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:24",
+    "verseText": "Voir Marc 14:24.",
+    "question": "Selon Marc, quelle parole Jésus prononce-t-il au sujet de la coupe ?",
+    "choices": [
+      "Ceci est mon sang, le sang de l’alliance, qui est répandu pour plusieurs.",
+      "Ceci est mon sang, répandu pour tous sans exception.",
+      "Ceci est mon sang, gardé pour les sacrificateurs."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:24 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-088",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:25",
+    "verseText": "Voir Marc 14:25.",
+    "question": "Quelle promesse Jésus fait-il concernant le fruit de la vigne, selon Marc ?",
+    "choices": [
+      "Je n’en boirai plus jusqu’au jour où j’en boirai du nouveau dans le royaume de Dieu.",
+      "Je n’en boirai plus jusqu’à ce que le temple soit rebâti.",
+      "Je n’en boirai plus jusqu’à ce que Rome tombe."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:25 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-089",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:26",
+    "verseText": "Voir Marc 14:26.",
+    "question": "Après le cantique, où Marc dit-il qu’ils se rendirent ?",
+    "choices": [
+      "À la montagne des Oliviers.",
+      "Au désert de Juda.",
+      "Au bord du Jourdain."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:26 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-090",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:27",
+    "verseText": "Voir Marc 14:27.",
+    "question": "Quel scandale Jésus annonce-t-il à ses disciples, selon Marc ?",
+    "choices": [
+      "Vous serez tous scandalisés.",
+      "Vous serez tous glorifiés.",
+      "Vous serez tous guéris."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:27 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-091",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:28",
+    "verseText": "Voir Marc 14:28.",
+    "question": "Dans Marc, quelle précision Jésus ajoute-t-il après l’annonce du scandale ?",
+    "choices": [
+      "Après que je serai ressuscité, je vous précéderai en Galilée.",
+      "Après que je serai crucifié, je vous enverrai en Égypte.",
+      "Après que je serai jugé, je vous cacherai à Jérusalem."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:28 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-092",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:30",
+    "verseText": "Voir Marc 14:30.",
+    "question": "Quelle prédiction Jésus fait-il à Pierre dans Marc ?",
+    "choices": [
+      "Avant que le coq chante deux fois, tu me renieras trois fois.",
+      "Avant que le coq chante une fois, tu me renieras deux fois.",
+      "Avant que le coq chante trois fois, tu me renieras une fois."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:30 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-093",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:31",
+    "verseText": "Voir Marc 14:31.",
+    "question": "Dans Marc, comment Pierre répond-il à Jésus après cette prédiction ?",
+    "choices": [
+      "Quand il me faudrait mourir avec toi, je ne te renierai pas.",
+      "Je te renierai pour sauver ma vie.",
+      "Je ne te suivrai plus dès ce soir."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:31 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-094",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:32",
+    "verseText": "Voir Marc 14:32.",
+    "question": "Quel nom Marc donne-t-il au lieu où Jésus prie ensuite ?",
+    "choices": [
+      "Gethsémané.",
+      "Béthesda.",
+      "Béthphagé."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:32 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-095",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:34",
+    "verseText": "Voir Marc 14:34.",
+    "question": "Dans Marc, comment Jésus décrit-il l’état de son âme à ce moment-là ?",
+    "choices": [
+      "Mon âme est triste jusqu’à la mort.",
+      "Mon âme est joyeuse jusqu’au matin.",
+      "Mon âme est tranquille pour toujours."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:34 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-096",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:34",
+    "verseText": "Voir Marc 14:34.",
+    "question": "Quelle demande Jésus fait-il à ses disciples en lien avec la veille, selon Marc ?",
+    "choices": [
+      "Restez ici, et veillez.",
+      "Allez au temple, et priez.",
+      "Rentrez chez vous, et dormez."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:34 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-097",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:36",
+    "verseText": "Voir Marc 14:36.",
+    "question": "Dans Marc, comment Jésus nomme-t-il Dieu dans sa prière à Gethsémané ?",
+    "choices": [
+      "Abba, Père.",
+      "Éternel des armées.",
+      "Dieu d’Abraham."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:36 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-098",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:36",
+    "verseText": "Voir Marc 14:36.",
+    "question": "Quelle phrase Marc rapporte-t-il sur la puissance de Dieu dans cette prière ?",
+    "choices": [
+      "Toutes choses te sont possibles.",
+      "Certaines choses te sont impossibles.",
+      "Rien ne t’est possible."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:36 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-099",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:37",
+    "verseText": "Voir Marc 14:37.",
+    "question": "Quand Jésus revient vers ses disciples, quel reproche fait-il à Simon, selon Marc ?",
+    "choices": [
+      "Simon, tu dors ! tu n’as pu veiller une heure !",
+      "Simon, tu parles ! tu n’as pu te taire une heure !",
+      "Simon, tu fuis ! tu n’as pu rester une heure !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:37 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-100",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:38",
+    "verseText": "Voir Marc 14:38.",
+    "question": "Dans Marc, quelle exhortation Jésus donne-t-il pour ne pas tomber dans la tentation ?",
+    "choices": [
+      "Veillez et priez.",
+      "Jeûnez et donnez.",
+      "Fuyez et cachez-vous."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:38 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-101",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:38",
+    "verseText": "Voir Marc 14:38.",
+    "question": "Quelle maxime Jésus ajoute-t-il à propos de l’esprit et de la chair, selon Marc ?",
+    "choices": [
+      "L’esprit est bien disposé, mais la chair est faible.",
+      "L’esprit est faible, mais la chair est forte.",
+      "L’esprit est muet, mais la chair parle."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:38 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-102",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:45",
+    "verseText": "Voir Marc 14:45.",
+    "question": "À l’arrivée de Judas, quel signe de trahison Marc mentionne-t-il ?",
+    "choices": [
+      "Un baiser.",
+      "Une poignée de main.",
+      "Un geste de la tête."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:45 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-103",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:47",
+    "verseText": "Voir Marc 14:47.",
+    "question": "Dans Marc, quel geste violent est commis par un de ceux qui étaient avec Jésus ?",
+    "choices": [
+      "Il frappa le serviteur du souverain sacrificateur, et lui emporta l’oreille.",
+      "Il frappa un soldat romain, et lui brisa la main.",
+      "Il frappa un scribe, et lui creva les yeux."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:47 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-104",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:48",
+    "verseText": "Voir Marc 14:48.",
+    "question": "Quelle parole Jésus prononce-t-il au moment de son arrestation, selon Marc ?",
+    "choices": [
+      "Comme après un brigand, vous êtes sortis avec des épées et des bâtons pour me prendre.",
+      "Comme après un roi, vous êtes sortis avec des couronnes et des trompettes.",
+      "Comme après un prophète, vous êtes sortis avec des rouleaux et de l’encre."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:48 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-105",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:49",
+    "verseText": "Voir Marc 14:49.",
+    "question": "Quel fait Jésus souligne-t-il sur sa présence quotidienne, selon Marc ?",
+    "choices": [
+      "J’étais tous les jours parmi vous, enseignant dans le temple.",
+      "J’étais tous les jours parmi vous, travaillant au marché.",
+      "J’étais tous les jours parmi vous, naviguant sur la mer."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:49 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-106",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:50",
+    "verseText": "Voir Marc 14:50.",
+    "question": "Dans Marc, que font tous les disciples après l’arrestation ?",
+    "choices": [
+      "Ils l’abandonnèrent et prirent la fuite.",
+      "Ils le défendirent jusqu’à la mort.",
+      "Ils allèrent immédiatement au temple."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:50 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-107",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:51",
+    "verseText": "Voir Marc 14:51.",
+    "question": "Quel détail singulier Marc rapporte-t-il sur un jeune homme qui suivait Jésus ?",
+    "choices": [
+      "Il était vêtu d’un drap sur son corps nu.",
+      "Il portait une robe longue de pourpre.",
+      "Il tenait une cruche d’eau."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:51 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-108",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:52",
+    "verseText": "Voir Marc 14:52.",
+    "question": "Que fait ce jeune homme quand on le saisit, selon Marc ?",
+    "choices": [
+      "Il lâcha le drap, et s’enfuit tout nu.",
+      "Il résista, et fut enchaîné.",
+      "Il cria, et resta sur place."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:52 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-109",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:56",
+    "verseText": "Voir Marc 14:56.",
+    "question": "Quel type de témoignages est évoqué contre Jésus devant le conseil, selon Marc ?",
+    "choices": [
+      "Plusieurs rendaient de faux témoignages contre lui.",
+      "Tous rendaient un témoignage fidèle contre lui.",
+      "Personne ne témoignait contre lui."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:56 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-110",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:58",
+    "verseText": "Voir Marc 14:58.",
+    "question": "Quelle déclaration attribuée à Jésus est rapportée par de faux témoins dans Marc ?",
+    "choices": [
+      "Je détruirai ce temple fait de main d’homme, et en trois jours j’en bâtirai un autre qui ne sera pas fait de main d’homme.",
+      "Je purifierai ce temple fait de main d’homme, et en trois jours j’en ferai un palais.",
+      "Je fermerai ce temple fait de main d’homme, et en trois jours je le rouvrirai."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:58 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-111",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:59",
+    "verseText": "Voir Marc 14:59.",
+    "question": "Que dit Marc au sujet de l’accord des témoignages ?",
+    "choices": [
+      "Leurs témoignages ne s’accordaient pas.",
+      "Leurs témoignages s’accordaient parfaitement.",
+      "Leurs témoignages étaient écrits et scellés."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:59 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-112",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:61",
+    "verseText": "Voir Marc 14:61.",
+    "question": "Quelle question directe le souverain sacrificateur pose-t-il à Jésus, selon Marc ?",
+    "choices": [
+      "Es-tu le Christ, le Fils du Dieu béni ?",
+      "Es-tu Élie, le prophète annoncé ?",
+      "Es-tu le fils de Joseph, le charpentier ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:61 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-113",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:62",
+    "verseText": "Voir Marc 14:62.",
+    "question": "Quelle réponse Jésus donne-t-il dans Marc à cette question ?",
+    "choices": [
+      "Je le suis.",
+      "Je ne le suis pas.",
+      "Je ne sais pas."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:62 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-114",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:62",
+    "verseText": "Voir Marc 14:62.",
+    "question": "Quelle vision Jésus annonce-t-il ensuite, selon Marc ?",
+    "choices": [
+      "Vous verrez le Fils de l’homme assis à la droite de la puissance, et venant sur les nuées du ciel.",
+      "Vous verrez le Fils de l’homme se cacher dans le désert, et fuir les nations.",
+      "Vous verrez le Fils de l’homme bâtir un temple de pierre, et régner à Jérusalem."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:62 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-115",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:63",
+    "verseText": "Voir Marc 14:63.",
+    "question": "Dans Marc, quelle réaction physique le souverain sacrificateur a-t-il après la réponse de Jésus ?",
+    "choices": [
+      "Il déchira ses vêtements.",
+      "Il se couvrit la tête de cendre.",
+      "Il s’assit en silence."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:63 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-116",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:64",
+    "verseText": "Voir Marc 14:64.",
+    "question": "Selon Marc, quel jugement le conseil prononce-t-il unanimement ?",
+    "choices": [
+      "Il mérite la mort.",
+      "Il mérite l’exil.",
+      "Il mérite une amende."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:64 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-117",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:65",
+    "verseText": "Voir Marc 14:65.",
+    "question": "Quelle humiliation Marc rapporte-t-il ensuite contre Jésus ?",
+    "choices": [
+      "Ils lui crachaient au visage, et le frappaient à coups de poing.",
+      "Ils lui offrirent de l’encens, et se prosternèrent.",
+      "Ils lui donnèrent du pain, et le relâchèrent."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:65 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-118",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:66-68",
+    "verseText": "Voir Marc 14:66-68.",
+    "question": "Dans le reniement, à qui Pierre dit-il: « Je ne sais ce que tu veux dire » ?",
+    "choices": [
+      "À une servante du souverain sacrificateur.",
+      "À un centenier romain.",
+      "À un scribe du temple."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:66-68 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-119",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:68",
+    "verseText": "Voir Marc 14:68.",
+    "question": "Quel détail Marc donne-t-il après le premier reniement de Pierre ?",
+    "choices": [
+      "Il sortit dans le vestibule, et le coq chanta.",
+      "Il entra dans la salle, et le coq se tut.",
+      "Il s’assit près du feu, et le coq mourut."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:68 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-120",
+    "book": "Marc",
+    "chapter": 14,
+    "verseRef": "Marc 14:72",
+    "verseText": "Voir Marc 14:72.",
+    "question": "Après le second chant du coq, que fait Pierre selon Marc ?",
+    "choices": [
+      "Il se mit à pleurer.",
+      "Il se mit à rire.",
+      "Il se mit à prêcher."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 14:72 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-121",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:17",
+    "verseText": "Voir Marc 15:17.",
+    "question": "De quoi les soldats revêtirent-ils Jésus pour se moquer de lui ?",
+    "choices": [
+      "D’une robe éclatante",
+      "De pourpre",
+      "De fin lin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Marc 15:17 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-122",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:17",
+    "verseText": "Voir Marc 15:17.",
+    "question": "Quel objet les soldats tressèrent-ils et posèrent-ils sur la tête de Jésus ?",
+    "choices": [
+      "Une couronne d’épines",
+      "Une couronne d’olivier",
+      "Une couronne d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:17 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-123",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:18",
+    "verseText": "Voir Marc 15:18.",
+    "question": "Quelle salutation les soldats adressaient-ils à Jésus en se moquant ?",
+    "choices": [
+      "Salut, roi des Juifs !",
+      "Salut, roi d’Israël !",
+      "Salut, Fils de Dieu !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:18 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-124",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:19",
+    "verseText": "Voir Marc 15:19.",
+    "question": "Avec quoi les soldats frappaient-ils Jésus sur la tête selon Marc ?",
+    "choices": [
+      "Avec une épée",
+      "Avec un roseau",
+      "Avec une chaîne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Marc 15:19 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-125",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:19",
+    "verseText": "Voir Marc 15:19.",
+    "question": "Quel geste d’humiliation les soldats faisaient-ils envers Jésus, selon Marc ?",
+    "choices": [
+      "Ils se prosternaient devant lui",
+      "Ils lui lavaient les pieds",
+      "Ils lui donnaient de l’encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:19 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-126",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:20",
+    "verseText": "Voir Marc 15:20.",
+    "question": "Après s’être moqués de Jésus, que firent-ils de la pourpre ?",
+    "choices": [
+      "Ils la déchirèrent",
+      "Ils la lui ôtèrent",
+      "Ils la brûlèrent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Marc 15:20 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-127",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:21",
+    "verseText": "Voir Marc 15:21.",
+    "question": "Quel homme fut réquisitionné pour porter la croix de Jésus, selon Marc ?",
+    "choices": [
+      "Simon de Cyrène",
+      "Joseph d’Arimathée",
+      "Nicodème"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:21 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-128",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:21",
+    "verseText": "Voir Marc 15:21.",
+    "question": "Comment Marc identifie-t-il Simon de Cyrène par sa famille ?",
+    "choices": [
+      "Père de Jacques et de Jean",
+      "Père d’Alexandre et de Rufus",
+      "Père de Matthieu et de Lévi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Marc 15:21 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-129",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:22",
+    "verseText": "Voir Marc 15:22.",
+    "question": "Où conduisit-on Jésus pour le crucifier, selon Marc ?",
+    "choices": [
+      "À Gethsémané",
+      "Au lieu nommé Golgotha",
+      "À Béthanie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Marc 15:22 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-130",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:22",
+    "verseText": "Voir Marc 15:22.",
+    "question": "Que signifie, selon Marc, le nom « Golgotha » ?",
+    "choices": [
+      "Lieu du crâne",
+      "Lieu du sacrifice",
+      "Lieu du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:22 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-131",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:23",
+    "verseText": "Voir Marc 15:23.",
+    "question": "Quel breuvage fut offert à Jésus avant la crucifixion, selon Marc ?",
+    "choices": [
+      "Du vin mêlé de myrrhe",
+      "Du vinaigre mêlé d’hysope",
+      "De l’eau mêlée de sel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:23 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-132",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:23",
+    "verseText": "Voir Marc 15:23.",
+    "question": "Quelle fut la réaction de Jésus à l’offre du vin mêlé de myrrhe ?",
+    "choices": [
+      "Il le but",
+      "Il le renversa",
+      "Il ne le prit pas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Marc 15:23 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-133",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:24",
+    "verseText": "Voir Marc 15:24.",
+    "question": "Que firent les soldats des vêtements de Jésus, selon Marc ?",
+    "choices": [
+      "Ils les gardèrent au temple",
+      "Ils les partagèrent entre eux, tirant au sort",
+      "Ils les donnèrent aux pauvres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Marc 15:24 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-134",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:25",
+    "verseText": "Voir Marc 15:25.",
+    "question": "À quelle heure Marc précise-t-il que Jésus fut crucifié ?",
+    "choices": [
+      "La troisième heure",
+      "La sixième heure",
+      "La neuvième heure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:25 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-135",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:26",
+    "verseText": "Voir Marc 15:26.",
+    "question": "Quelle inscription indiquait le motif de la condamnation de Jésus ?",
+    "choices": [
+      "Le roi des Juifs",
+      "Le Nazaréen",
+      "Le blasphémateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:26 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-136",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:27",
+    "verseText": "Voir Marc 15:27.",
+    "question": "Avec qui Jésus fut-il crucifié, selon Marc ?",
+    "choices": [
+      "Deux brigands, l’un à droite, l’autre à gauche",
+      "Deux publicains, l’un à droite, l’autre à gauche",
+      "Deux soldats, l’un à droite, l’autre à gauche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:27 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-137",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:29",
+    "verseText": "Voir Marc 15:29.",
+    "question": "Que faisaient ceux qui passaient près de la croix, selon Marc ?",
+    "choices": [
+      "Ils chantaient des cantiques",
+      "Ils l’injuriaient, et secouaient la tête",
+      "Ils offraient des sacrifices"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Marc 15:29 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-138",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:30",
+    "verseText": "Voir Marc 15:30.",
+    "question": "Quelle formule de défi est rapportée par Marc parmi les injures des passants ?",
+    "choices": [
+      "Sauve-toi toi-même, en descendant de la croix !",
+      "Fais descendre le feu du ciel !",
+      "Ouvre les yeux des aveugles !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:30 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-139",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:31",
+    "verseText": "Voir Marc 15:31.",
+    "question": "Qui se moquait aussi de Jésus avec les scribes, selon Marc ?",
+    "choices": [
+      "Les principaux sacrificateurs",
+      "Les anciens de la ville",
+      "Les chefs de la synagogue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:31 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-140",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:31",
+    "verseText": "Voir Marc 15:31.",
+    "question": "Quel contraste ces moqueurs prononcent-ils dans Marc ?",
+    "choices": [
+      "Il a guéri des malades, et il est tombé malade",
+      "Il a sauvé les autres, et il ne peut se sauver lui-même",
+      "Il a nourri les pauvres, et il n’a plus de pain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Marc 15:31 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-141",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:32",
+    "verseText": "Voir Marc 15:32.",
+    "question": "Quelle exigence moqueuse est formulée à propos de « le Christ, le roi d’Israël » ?",
+    "choices": [
+      "Qu’il descende maintenant de la croix, afin que nous voyions et que nous croyions",
+      "Qu’il marche sur la mer, afin que nous voyions et que nous croyions",
+      "Qu’il fasse pleuvoir du pain, afin que nous voyions et que nous croyions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:32 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-142",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:32",
+    "verseText": "Voir Marc 15:32.",
+    "question": "Que faisaient ceux qui étaient crucifiés avec Jésus, selon Marc ?",
+    "choices": [
+      "Ils le louaient",
+      "Ils l’insultaient aussi",
+      "Ils se taisaient"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Marc 15:32 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-143",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:33",
+    "verseText": "Voir Marc 15:33.",
+    "question": "Quel phénomène arriva à la sixième heure, selon Marc ?",
+    "choices": [
+      "Un grand vent se leva",
+      "Il y eut des ténèbres sur toute la terre",
+      "La mer s’agita violemment"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Marc 15:33 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-144",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:33",
+    "verseText": "Voir Marc 15:33.",
+    "question": "Jusqu’à quelle heure les ténèbres durèrent-elles, selon Marc ?",
+    "choices": [
+      "Jusqu’à la neuvième heure",
+      "Jusqu’à la troisième heure",
+      "Jusqu’au soir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:33 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-145",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:35",
+    "verseText": "Voir Marc 15:35.",
+    "question": "Quel cri la foule interpréta-t-elle comme un appel à Élie ?",
+    "choices": [
+      "Le cri de Jésus à la neuvième heure",
+      "La prière de Pierre dans la cour",
+      "La bénédiction des enfants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:35 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-146",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:36",
+    "verseText": "Voir Marc 15:36.",
+    "question": "Que fit quelqu’un en courant après le cri, selon Marc ?",
+    "choices": [
+      "Il prit une éponge, la remplit de vinaigre, et la mit au bout d’un roseau",
+      "Il prit une coupe d’eau, et la versa à terre",
+      "Il prit un pain, et le jeta vers la croix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:36 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-147",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:36",
+    "verseText": "Voir Marc 15:36.",
+    "question": "Quelle parole est rapportée après l’offrande de vinaigre, selon Marc ?",
+    "choices": [
+      "Laissez, voyons si Élie viendra le descendre.",
+      "Laissez, voyons si les anges viendront le défendre.",
+      "Laissez, voyons si le temple s’ouvrira."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:36 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-148",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:37",
+    "verseText": "Voir Marc 15:37.",
+    "question": "Comment Marc décrit-il la mort de Jésus juste avant qu’il expire ?",
+    "choices": [
+      "Jésus jeta un grand cri, et expira.",
+      "Jésus s’endormit doucement, et expira.",
+      "Jésus parla longuement, et expira."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:37 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-149",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:38",
+    "verseText": "Voir Marc 15:38.",
+    "question": "Que se passa-t-il dans le temple au moment de la mort de Jésus, selon Marc ?",
+    "choices": [
+      "Le voile du temple se déchira en deux, depuis le haut jusqu’en bas.",
+      "L’autel s’écroula, et le feu s’éteignit.",
+      "Les portes se fermèrent, et personne n’entra."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:38 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-150",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:39",
+    "verseText": "Voir Marc 15:39.",
+    "question": "Qui confessa publiquement quelque chose en voyant Jésus expirer ainsi ?",
+    "choices": [
+      "Le centenier qui était en face de lui",
+      "Le souverain sacrificateur",
+      "Un scribe de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:39 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-151",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:39",
+    "verseText": "Voir Marc 15:39.",
+    "question": "Quelle confession Marc attribue-t-il au centenier ?",
+    "choices": [
+      "Cet homme était vraiment Fils de Dieu.",
+      "Cet homme était vraiment un prophète.",
+      "Cet homme était vraiment le roi d’Israël."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:39 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-152",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:40",
+    "verseText": "Voir Marc 15:40.",
+    "question": "Selon Marc, qui regardaient aussi de loin la crucifixion ?",
+    "choices": [
+      "Des femmes",
+      "Des enfants",
+      "Des pharisiens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:40 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-153",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:40",
+    "verseText": "Voir Marc 15:40.",
+    "question": "Parmi les femmes nommées, qui est explicitement mentionnée dans Marc ?",
+    "choices": [
+      "Marie mère de Jacques le mineur et de Joses",
+      "Marie mère de Jean et d’André",
+      "Marie mère de Matthieu et de Thomas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:40 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-154",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:40",
+    "verseText": "Voir Marc 15:40.",
+    "question": "Quelle autre femme est nommée avec ces Maries dans Marc ?",
+    "choices": [
+      "Salomé",
+      "Élisabeth",
+      "Débora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:40 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-155",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:41",
+    "verseText": "Voir Marc 15:41.",
+    "question": "Quel détail Marc donne-t-il sur ces femmes quand Jésus était en Galilée ?",
+    "choices": [
+      "Elles le suivaient et le servaient.",
+      "Elles le combattaient et l’accusaient.",
+      "Elles le fuyaient et le reniaient."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:41 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-156",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:42",
+    "verseText": "Voir Marc 15:42.",
+    "question": "Quel moment de la semaine Marc précise-t-il au début du récit de l’ensevelissement ?",
+    "choices": [
+      "Le jour de la préparation, c’est-à-dire la veille du sabbat",
+      "Le premier jour du mois, c’est-à-dire la nouvelle lune",
+      "Le jour des expiations, c’est-à-dire le jeûne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:42 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-157",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:43",
+    "verseText": "Voir Marc 15:43.",
+    "question": "Quel homme vient vers Pilate avec hardiesse pour demander le corps de Jésus ?",
+    "choices": [
+      "Joseph d’Arimathée",
+      "Gamaliel",
+      "Ananias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:43 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-158",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:43",
+    "verseText": "Voir Marc 15:43.",
+    "question": "Comment Marc décrit-il Joseph d’Arimathée ?",
+    "choices": [
+      "Conseiller de distinction, qui attendait aussi le royaume de Dieu",
+      "Centenier romain, qui gardait le temple",
+      "Scribe public, qui écrivait la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:43 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-159",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:44",
+    "verseText": "Voir Marc 15:44.",
+    "question": "Quelle réaction Pilate a-t-il en apprenant que Jésus était déjà mort ?",
+    "choices": [
+      "Il s’étonna.",
+      "Il se réjouit.",
+      "Il s’irrita."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:44 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-160",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:44",
+    "verseText": "Voir Marc 15:44.",
+    "question": "Avant de donner le corps, qui Pilate fit-il venir pour s’informer, selon Marc ?",
+    "choices": [
+      "Le centenier",
+      "Le gouverneur de Syrie",
+      "Le chef des scribes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:44 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-161",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:45",
+    "verseText": "Voir Marc 15:45.",
+    "question": "Après avoir été assuré par le centenier, que fit Pilate ?",
+    "choices": [
+      "Il donna le corps à Joseph.",
+      "Il fit jeter le corps au feu.",
+      "Il fit garder le corps trois jours au prétoire."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:45 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-162",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:46",
+    "verseText": "Voir Marc 15:46.",
+    "question": "Quel objet Joseph acheta-t-il pour envelopper Jésus, selon Marc ?",
+    "choices": [
+      "Un linceul",
+      "Une tunique",
+      "Un manteau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:46 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-163",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:46",
+    "verseText": "Voir Marc 15:46.",
+    "question": "Où Joseph déposa-t-il Jésus, selon Marc ?",
+    "choices": [
+      "Dans un sépulcre taillé dans le roc",
+      "Dans une maison de la ville",
+      "Dans le parvis du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:46 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-164",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:46",
+    "verseText": "Voir Marc 15:46.",
+    "question": "Qu’est-ce que Joseph roula devant l’entrée du sépulcre, selon Marc ?",
+    "choices": [
+      "Une pierre",
+      "Une poutre",
+      "Un voile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:46 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-165",
+    "book": "Marc",
+    "chapter": 15,
+    "verseRef": "Marc 15:47",
+    "verseText": "Voir Marc 15:47.",
+    "question": "Quelles femmes Marc dit-il avoir vu où l’on mettait Jésus ?",
+    "choices": [
+      "Marie de Magdala et Marie mère de Joses",
+      "Salomé et Élisabeth",
+      "Marthe et Marie de Béthanie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 15:47 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-166",
+    "book": "Marc",
+    "chapter": 16,
+    "verseRef": "Marc 16:1",
+    "verseText": "Voir Marc 16:1.",
+    "question": "Selon Marc, quel jour les femmes achetèrent-elles des aromates pour venir embaumer Jésus ?",
+    "choices": [
+      "Lorsque le sabbat fut passé",
+      "Avant le sabbat",
+      "Au milieu du sabbat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 16:1 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-167",
+    "book": "Marc",
+    "chapter": 16,
+    "verseRef": "Marc 16:1",
+    "verseText": "Voir Marc 16:1.",
+    "question": "Quelles femmes sont nommées comme achetant des aromates dans Marc ?",
+    "choices": [
+      "Marie de Magdala, Marie mère de Jacques, et Salomé",
+      "Marie mère de Joses, Marthe, et Jeanne",
+      "Élisabeth, Anne, et Débora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 16:1 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-168",
+    "book": "Marc",
+    "chapter": 16,
+    "verseRef": "Marc 16:2",
+    "verseText": "Voir Marc 16:2.",
+    "question": "Quand ces femmes se rendirent-elles au sépulcre, selon Marc ?",
+    "choices": [
+      "De grand matin, le premier jour de la semaine",
+      "À midi, le second jour de la semaine",
+      "Le soir, la veille du sabbat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 16:2 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-169",
+    "book": "Marc",
+    "chapter": 16,
+    "verseRef": "Marc 16:2",
+    "verseText": "Voir Marc 16:2.",
+    "question": "Quel détail Marc donne-t-il sur le moment où elles arrivent ?",
+    "choices": [
+      "Le soleil s’étant levé",
+      "La lune s’étant levée",
+      "Le vent s’étant levé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 16:2 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-170",
+    "book": "Marc",
+    "chapter": 16,
+    "verseRef": "Marc 16:3",
+    "verseText": "Voir Marc 16:3.",
+    "question": "Quelle question se posaient-elles en chemin, selon Marc ?",
+    "choices": [
+      "Qui nous roulera la pierre loin de l’entrée du sépulcre ?",
+      "Qui nous donnera des aromates ?",
+      "Qui nous ouvrira le temple ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 16:3 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-171",
+    "book": "Marc",
+    "chapter": 16,
+    "verseRef": "Marc 16:4",
+    "verseText": "Voir Marc 16:4.",
+    "question": "Quel constat font-elles en regardant, selon Marc ?",
+    "choices": [
+      "La pierre avait été roulée; elle était très grande.",
+      "La pierre avait été brisée; elle était petite.",
+      "La pierre était restée; elle était lourde."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 16:4 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-172",
+    "book": "Marc",
+    "chapter": 16,
+    "verseRef": "Marc 16:5",
+    "verseText": "Voir Marc 16:5.",
+    "question": "En entrant dans le sépulcre, qui voient-elles assis, selon Marc ?",
+    "choices": [
+      "Un jeune homme vêtu d’une robe blanche",
+      "Un vieillard vêtu de pourpre",
+      "Un ange tenant une épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 16:5 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-173",
+    "book": "Marc",
+    "chapter": 16,
+    "verseRef": "Marc 16:5",
+    "verseText": "Voir Marc 16:5.",
+    "question": "Où ce jeune homme était-il assis, selon Marc ?",
+    "choices": [
+      "À droite",
+      "À gauche",
+      "Au milieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 16:5 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-174",
+    "book": "Marc",
+    "chapter": 16,
+    "verseRef": "Marc 16:6",
+    "verseText": "Voir Marc 16:6.",
+    "question": "Quelle parole rassurante leur est adressée, selon Marc ?",
+    "choices": [
+      "Ne vous effrayez pas.",
+      "Ne vous réjouissez pas.",
+      "Ne vous approchez pas."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 16:6 (LSG 1910)."
+  },
+  {
+    "id": "marc-N-175",
+    "book": "Marc",
+    "chapter": 16,
+    "verseRef": "Marc 16:7",
+    "verseText": "Voir Marc 16:7.",
+    "question": "Quelle instruction précise est donnée au sujet des disciples, selon Marc ?",
+    "choices": [
+      "Dites à ses disciples et à Pierre qu’il vous précède en Galilée.",
+      "Dites à ses disciples et à Jean qu’il vous précède en Judée.",
+      "Dites à ses disciples et à Thomas qu’il vous précède en Samarie."
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 16:7 (LSG 1910)."
+  }
+]

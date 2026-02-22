@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "malachie-D-001",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:1",
+    "verseText": "Voir Malachie 1:1.",
+    "question": "Le livre s’ouvre-t-il par une « sentence » ou par une « parabole » ?",
+    "choices": [
+      "Sentence",
+      "Parabole"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:1 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-002",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:1",
+    "verseText": "Voir Malachie 1:1.",
+    "question": "La sentence est-elle dirigée vers « Israël » ou vers « Juda » dès l’introduction ?",
+    "choices": [
+      "Israël",
+      "Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:1 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-003",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:2",
+    "verseText": "Voir Malachie 1:2.",
+    "question": "L’Éternel dit-il « Je vous ai aimés » ou « Je vous ai choisis » ?",
+    "choices": [
+      "Je vous ai aimés",
+      "Je vous ai choisis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:2 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-004",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:2",
+    "verseText": "Voir Malachie 1:2.",
+    "question": "L’objection du peuple est-elle « En quoi nous as-tu aimés ? » ou « En quoi nous as-tu bénis ? »",
+    "choices": [
+      "En quoi nous as-tu aimés ?",
+      "En quoi nous as-tu bénis ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:2 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-005",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:2",
+    "verseText": "Voir Malachie 1:2.",
+    "question": "Le contraste cité est-il « Jacob / Ésaü » ou « Isaac / Ismaël » ?",
+    "choices": [
+      "Jacob / Ésaü",
+      "Isaac / Ismaël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:2 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-006",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:3",
+    "verseText": "Voir Malachie 1:3.",
+    "question": "L’Éternel dit-il avoir fait des montagnes d’Ésaü « une désolation » ou « un héritage » ?",
+    "choices": [
+      "Une désolation",
+      "Un héritage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:3 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-007",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:4",
+    "verseText": "Voir Malachie 1:4.",
+    "question": "Le territoire d’Ésaü est-il appelé « territoire de méchanceté » ou « territoire de paix » ?",
+    "choices": [
+      "Territoire de méchanceté",
+      "Territoire de paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:4 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-008",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:4",
+    "verseText": "Voir Malachie 1:4.",
+    "question": "Le peuple dit-il : « Nous rebâtirons » ou « Nous fuirons » ?",
+    "choices": [
+      "Nous rebâtirons",
+      "Nous fuirons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:4 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-009",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:4",
+    "verseText": "Voir Malachie 1:4.",
+    "question": "L’Éternel se nomme-t-il « l’Éternel des armées » ou « l’Éternel des eaux » dans cette section ?",
+    "choices": [
+      "L’Éternel des armées",
+      "L’Éternel des eaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:4 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-010",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:6",
+    "verseText": "Voir Malachie 1:6.",
+    "question": "Le principe posé est-il : « Un fils honore son père » ou « Un fils commande son père » ?",
+    "choices": [
+      "Un fils honore son père",
+      "Un fils commande son père"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:6 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-011",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:6",
+    "verseText": "Voir Malachie 1:6.",
+    "question": "Le principe posé est-il : « Un serviteur craint son maître » ou « Un serviteur juge son maître » ?",
+    "choices": [
+      "Un serviteur craint son maître",
+      "Un serviteur juge son maître"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:6 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-012",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:6",
+    "verseText": "Voir Malachie 1:6.",
+    "question": "Ceux qui méprisent le nom de l’Éternel sont-ils les « sacrificateurs » ou les « rois » ?",
+    "choices": [
+      "Les sacrificateurs",
+      "Les rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:6 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-013",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:7",
+    "verseText": "Voir Malachie 1:7.",
+    "question": "L’expression reprochée est-elle « du pain souillé » ou « du vin souillé » ?",
+    "choices": [
+      "Du pain souillé",
+      "Du vin souillé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:7 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-014",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:7",
+    "verseText": "Voir Malachie 1:7.",
+    "question": "Ils disent-ils : « La table de l’Éternel est méprisable » ou « La loi de l’Éternel est méprisable » ?",
+    "choices": [
+      "La table de l’Éternel est méprisable",
+      "La loi de l’Éternel est méprisable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:7 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-015",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:8",
+    "verseText": "Voir Malachie 1:8.",
+    "question": "Les sacrifices condamnés incluent-ils des animaux « aveugles » ou « muets » ?",
+    "choices": [
+      "Aveugles",
+      "Muets"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:8 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-016",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:8",
+    "verseText": "Voir Malachie 1:8.",
+    "question": "L’Éternel cite-t-il aussi des bêtes « boiteuses et malades » ou « jeunes et fortes » ?",
+    "choices": [
+      "Boiteuses et malades",
+      "Jeunes et fortes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:8 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-017",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:8",
+    "verseText": "Voir Malachie 1:8.",
+    "question": "Le destinataire ironique est-il le « gouverneur » ou le « sacrificateur » ?",
+    "choices": [
+      "Le gouverneur",
+      "Le sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:8 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-018",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:9",
+    "verseText": "Voir Malachie 1:9.",
+    "question": "L’Éternel demande-t-il : « Agréera-t-il votre personne ? » ou « Agréera-t-il votre argent ? »",
+    "choices": [
+      "Votre personne",
+      "Votre argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:9 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-019",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:10",
+    "verseText": "Voir Malachie 1:10.",
+    "question": "L’Éternel souhaite-t-il que quelqu’un « ferme les portes » ou « ouvre les portes » ?",
+    "choices": [
+      "Ferme les portes",
+      "Ouvre les portes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:10 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-020",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:10",
+    "verseText": "Voir Malachie 1:10.",
+    "question": "L’Éternel dit-il : « Je prendrai plaisir en vous » ou « Je ne prendrai point plaisir en vous » ?",
+    "choices": [
+      "Je ne prendrai point plaisir en vous",
+      "Je prendrai plaisir en vous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:10 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-021",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:11",
+    "verseText": "Voir Malachie 1:11.",
+    "question": "Le nom de l’Éternel est-il déclaré grand « du levant au couchant » ou « du nord au midi » ?",
+    "choices": [
+      "Du levant au couchant",
+      "Du nord au midi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:11 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-022",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:11",
+    "verseText": "Voir Malachie 1:11.",
+    "question": "Il est question d’« encens » et d’« offrande pure » ou d’« huile » et d’« eau » ?",
+    "choices": [
+      "Encens et offrande pure",
+      "Huile et eau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:11 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-023",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:13",
+    "verseText": "Voir Malachie 1:13.",
+    "question": "Leur plainte est-elle : « Quelle fatigue ! » ou « Quelle joie ! »",
+    "choices": [
+      "Quelle fatigue !",
+      "Quelle joie !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:13 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-024",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:13",
+    "verseText": "Voir Malachie 1:13.",
+    "question": "Sont-ils accusés d’apporter ce qui est « dérobé » ou ce qui est « consacré » ?",
+    "choices": [
+      "Dérobé",
+      "Consacré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:13 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-025",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:14",
+    "verseText": "Voir Malachie 1:14.",
+    "question": "La malédiction vise-t-elle celui qui sacrifie une bête « chétive » ou une bête « parfaite » ?",
+    "choices": [
+      "Chétive",
+      "Parfaite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:14 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-026",
+    "book": "Malachie",
+    "chapter": 1,
+    "verseRef": "Malachie 1:14",
+    "verseText": "Voir Malachie 1:14.",
+    "question": "L’Éternel se présente-t-il comme « un grand roi » ou « un grand prêtre » ?",
+    "choices": [
+      "Un grand roi",
+      "Un grand prêtre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:14 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-027",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:1",
+    "verseText": "Voir Malachie 2:1.",
+    "question": "L’ordre du chapitre 2 s’adresse-t-il aux « sacrificateurs » ou aux « artisans » ?",
+    "choices": [
+      "Sacrificateurs",
+      "Artisans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:1 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-028",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:2",
+    "verseText": "Voir Malachie 2:2.",
+    "question": "L’Éternel menace-t-il d’envoyer « la bénédiction » ou « la malédiction » ?",
+    "choices": [
+      "La malédiction",
+      "La bénédiction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:2 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-029",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:2",
+    "verseText": "Voir Malachie 2:2.",
+    "question": "Les bénédictions seront-elles « changées en malédictions » ou « doublées » ?",
+    "choices": [
+      "Changées en malédictions",
+      "Doublées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:2 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-030",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:3",
+    "verseText": "Voir Malachie 2:3.",
+    "question": "L’expression choquante mentionne-t-elle « la fiente » ou « l’encens » jeté au visage ?",
+    "choices": [
+      "La fiente",
+      "L’encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:3 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-031",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:4-5",
+    "verseText": "Voir Malachie 2:4-5.",
+    "question": "L’alliance évoquée est-elle avec « Lévi » ou avec « Dan » ?",
+    "choices": [
+      "Lévi",
+      "Dan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:4-5 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-032",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:5",
+    "verseText": "Voir Malachie 2:5.",
+    "question": "Cette alliance est-elle appelée « de vie et de paix » ou « de guerre et de feu » ?",
+    "choices": [
+      "De vie et de paix",
+      "De guerre et de feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:5 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-033",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:6",
+    "verseText": "Voir Malachie 2:6.",
+    "question": "La loi dans la bouche du sacrificateur fidèle est-elle dite « vérité » ou « ruse » ?",
+    "choices": [
+      "Vérité",
+      "Ruse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:6 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-034",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:6",
+    "verseText": "Voir Malachie 2:6.",
+    "question": "Il est dit qu’il a ramené « beaucoup » de gens de l’iniquité ou « peu » de gens ?",
+    "choices": [
+      "Beaucoup",
+      "Peu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:6 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-035",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:7",
+    "verseText": "Voir Malachie 2:7.",
+    "question": "Les lèvres du sacrificateur doivent-elles garder « la science » ou « l’or » ?",
+    "choices": [
+      "La science",
+      "L’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:7 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-036",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:7",
+    "verseText": "Voir Malachie 2:7.",
+    "question": "Le sacrificateur est-il appelé « messager de l’Éternel des armées » ou « capitaine d’Israël » ?",
+    "choices": [
+      "Messager de l’Éternel des armées",
+      "Capitaine d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:7 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-037",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:8",
+    "verseText": "Voir Malachie 2:8.",
+    "question": "Les sacrificateurs se sont-ils écartés « du sentier » ou « du désert » ?",
+    "choices": [
+      "Du sentier",
+      "Du désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:8 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-038",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:8",
+    "verseText": "Voir Malachie 2:8.",
+    "question": "Ils ont fait « broncher » beaucoup de gens dans la loi ou ils les ont « affermis » ?",
+    "choices": [
+      "Broncher",
+      "Affermis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:8 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-039",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:8",
+    "verseText": "Voir Malachie 2:8.",
+    "question": "Ils ont corrompu « l’alliance de Lévi » ou « l’arche » ?",
+    "choices": [
+      "L’alliance de Lévi",
+      "L’arche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:8 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-040",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:9",
+    "verseText": "Voir Malachie 2:9.",
+    "question": "L’Éternel leur reproche-t-il d’avoir égard à « l’apparence des personnes » ou à « la musique » ?",
+    "choices": [
+      "À l’apparence des personnes",
+      "À la musique"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:9 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-041",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:10",
+    "verseText": "Voir Malachie 2:10.",
+    "question": "Le peuple a-t-il « un seul père » ou « plusieurs pères » selon le rappel ?",
+    "choices": [
+      "Un seul père",
+      "Plusieurs pères"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:10 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-042",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:11",
+    "verseText": "Voir Malachie 2:11.",
+    "question": "Juda est-il accusé d’avoir épousé « la fille d’un dieu étranger » ou « la fille d’un sacrificateur » ?",
+    "choices": [
+      "La fille d’un dieu étranger",
+      "La fille d’un sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:11 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-043",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:12",
+    "verseText": "Voir Malachie 2:12.",
+    "question": "Le jugement annoncé est-il : « l’Éternel retranchera l’homme qui fait cela » ou « l’Éternel honorera l’homme qui fait cela » ?",
+    "choices": [
+      "Retranchera",
+      "Honorera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:12 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-044",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:13",
+    "verseText": "Voir Malachie 2:13.",
+    "question": "Ils ont couvert « l’autel de l’Éternel » de larmes ou « la porte de la ville » ?",
+    "choices": [
+      "L’autel de l’Éternel",
+      "La porte de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:13 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-045",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:14",
+    "verseText": "Voir Malachie 2:14.",
+    "question": "La trahison dénoncée vise-t-elle « la femme de ta jeunesse » ou « ton frère de sang » ?",
+    "choices": [
+      "La femme de ta jeunesse",
+      "Ton frère de sang"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:14 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-046",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:14",
+    "verseText": "Voir Malachie 2:14.",
+    "question": "La femme est-elle appelée « ta compagne » ou « ta rivale » ?",
+    "choices": [
+      "Ta compagne",
+      "Ta rivale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:14 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-047",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:15",
+    "verseText": "Voir Malachie 2:15.",
+    "question": "L’ordre répété est-il : « Prenez garde en votre esprit » ou « Prenez garde à votre force » ?",
+    "choices": [
+      "Prenez garde en votre esprit",
+      "Prenez garde à votre force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:15 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-048",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:16",
+    "verseText": "Voir Malachie 2:16.",
+    "question": "L’Éternel dit-il haïr « répudier » ou haïr « bénir » ?",
+    "choices": [
+      "Répudier",
+      "Bénir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:16 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-049",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:16",
+    "verseText": "Voir Malachie 2:16.",
+    "question": "Le vêtement est-il dit couvert de « violence » ou de « joie » ?",
+    "choices": [
+      "Violence",
+      "Joie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:16 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-050",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:17",
+    "verseText": "Voir Malachie 2:17.",
+    "question": "Ils ont lassé l’Éternel par leurs « paroles » ou par leurs « voyages » ?",
+    "choices": [
+      "Paroles",
+      "Voyages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:17 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-051",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:17",
+    "verseText": "Voir Malachie 2:17.",
+    "question": "Leur affirmation erronée est-elle : « L’Éternel prend plaisir en eux » (ceux qui font le mal) ou « L’Éternel les juge aussitôt » ?",
+    "choices": [
+      "L’Éternel prend plaisir en eux",
+      "L’Éternel les juge aussitôt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:17 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-052",
+    "book": "Malachie",
+    "chapter": 2,
+    "verseRef": "Malachie 2:17",
+    "verseText": "Voir Malachie 2:17.",
+    "question": "La question sceptique est-elle : « Où est le Dieu de justice ? » ou « Où est le Dieu des mers ? »",
+    "choices": [
+      "Dieu de justice",
+      "Dieu des mers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 2:17 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-053",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:1",
+    "verseText": "Voir Malachie 3:1.",
+    "question": "L’Éternel annonce-t-il envoyer « un messager » ou « un soldat » pour préparer le chemin ?",
+    "choices": [
+      "Un messager",
+      "Un soldat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-054",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:1",
+    "verseText": "Voir Malachie 3:1.",
+    "question": "Celui qui vient soudainement dans son temple est-il appelé « le Seigneur » ou « le gouverneur » ?",
+    "choices": [
+      "Le Seigneur",
+      "Le gouverneur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-055",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:1",
+    "verseText": "Voir Malachie 3:1.",
+    "question": "Ce personnage est-il aussi nommé « l’ange de l’alliance » ou « l’ange du désert » ?",
+    "choices": [
+      "Ange de l’alliance",
+      "Ange du désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-056",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:1",
+    "verseText": "Voir Malachie 3:1.",
+    "question": "Le peuple dit-il « il sera agréable » ou « il ne viendra pas » au sujet de sa venue ?",
+    "choices": [
+      "Il sera agréable",
+      "Il ne viendra pas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-057",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:1",
+    "verseText": "Voir Malachie 3:1.",
+    "question": "La venue est-elle décrite comme « soudaine » ou « progressive » ?",
+    "choices": [
+      "Soudaine",
+      "Progressive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-058",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:1",
+    "verseText": "Voir Malachie 3:1.",
+    "question": "Le titre central utilisé est-il « l’Éternel des armées » ou « l’Éternel des montagnes » ?",
+    "choices": [
+      "L’Éternel des armées",
+      "L’Éternel des montagnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-059",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:1",
+    "verseText": "Voir Malachie 3:1.",
+    "question": "Le messager est-il dit préparer « le chemin devant moi » ou « le trône devant moi » ?",
+    "choices": [
+      "Le chemin devant moi",
+      "Le trône devant moi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-060",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:1",
+    "verseText": "Voir Malachie 3:1.",
+    "question": "Le Seigneur annoncé est-il « celui que vous cherchez » ou « celui que vous rejetez » ?",
+    "choices": [
+      "Celui que vous cherchez",
+      "Celui que vous rejetez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-061",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:2",
+    "verseText": "Voir Malachie 3:2.",
+    "question": "La venue du messager est-elle comparée au « feu du fondeur » ou au « feu de l’autel » ?",
+    "choices": [
+      "Feu du fondeur",
+      "Feu de l’autel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:2 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-062",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:2",
+    "verseText": "Voir Malachie 3:2.",
+    "question": "Elle est aussi comparée à la « potasse des blanchisseurs » ou au « parfum des sacrificateurs » ?",
+    "choices": [
+      "Potasse des blanchisseurs",
+      "Parfum des sacrificateurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:2 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-063",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:3",
+    "verseText": "Voir Malachie 3:3.",
+    "question": "Ceux qui seront purifiés comme l’or et l’argent sont-ils les « fils de Lévi » ou les « fils de Juda » ?",
+    "choices": [
+      "Fils de Lévi",
+      "Fils de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:3 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-064",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:3",
+    "verseText": "Voir Malachie 3:3.",
+    "question": "Après cette purification, offriront-ils des offrandes « avec justice » ou « avec colère » ?",
+    "choices": [
+      "Avec justice",
+      "Avec colère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:3 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-065",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:4",
+    "verseText": "Voir Malachie 3:4.",
+    "question": "L’offrande de Juda et de Jérusalem sera-t-elle agréable « comme aux jours d’autrefois » ou « comme au jour de l’exil » ?",
+    "choices": [
+      "Comme aux jours d’autrefois",
+      "Comme au jour de l’exil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:4 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-066",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:5",
+    "verseText": "Voir Malachie 3:5.",
+    "question": "L’Éternel s’approchera-t-il pour juger contre les « enchanteurs » ou contre les « musiciens » ?",
+    "choices": [
+      "Enchanteurs",
+      "Musiciens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:5 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-067",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:5",
+    "verseText": "Voir Malachie 3:5.",
+    "question": "Parmi les coupables cités, retiennent-ils « le salaire du mercenaire » ou « la part du roi » ?",
+    "choices": [
+      "Le salaire du mercenaire",
+      "La part du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:5 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-068",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:5",
+    "verseText": "Voir Malachie 3:5.",
+    "question": "Les victimes mentionnées incluent-elles « la veuve et l’orphelin » ou « le capitaine et le riche » ?",
+    "choices": [
+      "La veuve et l’orphelin",
+      "Le capitaine et le riche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:5 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-069",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:6",
+    "verseText": "Voir Malachie 3:6.",
+    "question": "La raison donnée est-elle : « Je suis l’Éternel, je ne change pas » ou « Je suis l’Éternel, je me repens » ?",
+    "choices": [
+      "Je ne change pas",
+      "Je me repens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:6 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-070",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:6",
+    "verseText": "Voir Malachie 3:6.",
+    "question": "Il est dit : « vous, fils de Jacob, vous n’êtes pas consumés » ou « vous êtes consumés » ?",
+    "choices": [
+      "Vous n’êtes pas consumés",
+      "Vous êtes consumés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:6 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-071",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:7",
+    "verseText": "Voir Malachie 3:7.",
+    "question": "Ils se sont écartés des « ordonnances » ou des « murailles » ?",
+    "choices": [
+      "Des ordonnances",
+      "Des murailles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:7 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-072",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:7",
+    "verseText": "Voir Malachie 3:7.",
+    "question": "L’appel est-il : « Revenez à moi, et je reviendrai à vous » ou « Revenez à moi, et je vous oublierai » ?",
+    "choices": [
+      "Je reviendrai à vous",
+      "Je vous oublierai"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:7 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-073",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:7",
+    "verseText": "Voir Malachie 3:7.",
+    "question": "La question du peuple est-elle : « En quoi devons-nous revenir ? » ou « En quoi devons-nous juger ? »",
+    "choices": [
+      "En quoi devons-nous revenir ?",
+      "En quoi devons-nous juger ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:7 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-074",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:8",
+    "verseText": "Voir Malachie 3:8.",
+    "question": "L’accusation est-elle : « Un homme trompe Dieu » ou « Un homme enseigne Dieu » ?",
+    "choices": [
+      "Un homme trompe Dieu",
+      "Un homme enseigne Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:8 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-075",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:8",
+    "verseText": "Voir Malachie 3:8.",
+    "question": "L’expression exacte est-elle : « Vous me volez » ou « Vous me niez » ?",
+    "choices": [
+      "Vous me volez",
+      "Vous me niez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:8 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-076",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:8",
+    "verseText": "Voir Malachie 3:8.",
+    "question": "La réponse du peuple est-elle : « En quoi t’avons-nous volé ? » ou « En quoi t’avons-nous béni ? »",
+    "choices": [
+      "En quoi t’avons-nous volé ?",
+      "En quoi t’avons-nous béni ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:8 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-077",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:8",
+    "verseText": "Voir Malachie 3:8.",
+    "question": "Le vol est-il précisé « dans les dîmes et les offrandes » ou « dans les chants et les prières » ?",
+    "choices": [
+      "Dans les dîmes et les offrandes",
+      "Dans les chants et les prières"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:8 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-078",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:9",
+    "verseText": "Voir Malachie 3:9.",
+    "question": "L’Éternel dit-il : « Vous êtes frappés par la malédiction » ou « Vous êtes comblés de joie » ?",
+    "choices": [
+      "Frappés par la malédiction",
+      "Comblés de joie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:9 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-079",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:10",
+    "verseText": "Voir Malachie 3:10.",
+    "question": "Il ordonne-t-il d’apporter la dîme « à la maison du trésor » (pour qu’il y ait de la nourriture dans sa maison) ou « au palais du roi » ?",
+    "choices": [
+      "À la maison du trésor / sa maison",
+      "Au palais du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:10 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-080",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:10",
+    "verseText": "Voir Malachie 3:10.",
+    "question": "La promesse est-elle : « J’ouvrirai pour vous les écluses des cieux » ou « J’ouvrirai pour vous les portes de la mer » ?",
+    "choices": [
+      "Écluses des cieux",
+      "Portes de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:10 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-081",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:13",
+    "verseText": "Voir Malachie 3:13.",
+    "question": "Les paroles reprochées sont-elles qualifiées de « dures » ou de « consolantes » ?",
+    "choices": [
+      "Dures",
+      "Consolantes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:13 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-082",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:13",
+    "verseText": "Voir Malachie 3:13.",
+    "question": "La question du peuple est-elle : « Qu’avons-nous dit contre toi ? » ou « Qu’avons-nous fait contre toi ? »",
+    "choices": [
+      "Qu’avons-nous dit contre toi ?",
+      "Qu’avons-nous fait contre toi ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:13 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-083",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:14",
+    "verseText": "Voir Malachie 3:14.",
+    "question": "Leur plainte commence-t-elle par « C’est en vain qu’on sert Dieu » ou « C’est en vain qu’on prie Dieu » ?",
+    "choices": [
+      "C’est en vain qu’on sert Dieu",
+      "C’est en vain qu’on prie Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:14 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-084",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:14",
+    "verseText": "Voir Malachie 3:14.",
+    "question": "Disent-ils avoir eu « du profit » ou « aucun profit » à garder ses ordonnances ?",
+    "choices": [
+      "Du profit",
+      "Aucun profit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Malachie 3:14 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-085",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:14",
+    "verseText": "Voir Malachie 3:14.",
+    "question": "Affirment-ils avoir marché « avec tristesse » ou « avec violence » devant l’Éternel des armées ?",
+    "choices": [
+      "Avec tristesse",
+      "Avec violence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:14 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-086",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:15",
+    "verseText": "Voir Malachie 3:15.",
+    "question": "Déclarent-ils heureux les « orgueilleux » ou les « miséricordieux » ?",
+    "choices": [
+      "Orgueilleux",
+      "Miséricordieux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:15 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-087",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:15",
+    "verseText": "Voir Malachie 3:15.",
+    "question": "Selon leurs paroles, ceux qui font le mal « réussissent » ou « échouent » ?",
+    "choices": [
+      "Réussissent",
+      "Échouent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:15 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-088",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:15",
+    "verseText": "Voir Malachie 3:15.",
+    "question": "Ceux qui tentent Dieu sont-ils décrits comme « délivrés » ou « détruits » ?",
+    "choices": [
+      "Délivrés",
+      "Détruits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:15 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-089",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:16",
+    "verseText": "Voir Malachie 3:16.",
+    "question": "Ceux qui s’entretiennent ensemble sont-ils « ceux qui craignent l’Éternel » ou « ceux qui méprisent l’Éternel » ?",
+    "choices": [
+      "Ceux qui craignent l’Éternel",
+      "Ceux qui méprisent l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:16 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-090",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:16",
+    "verseText": "Voir Malachie 3:16.",
+    "question": "L’Éternel est-il dit « attentif » ou « indifférent » à leurs propos ?",
+    "choices": [
+      "Attentif",
+      "Indifférent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:16 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-091",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:16",
+    "verseText": "Voir Malachie 3:16.",
+    "question": "Est-il question d’un « livre de souvenir » ou d’un « livre de condamnation » ?",
+    "choices": [
+      "Livre de souvenir",
+      "Livre de condamnation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:16 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-092",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:16",
+    "verseText": "Voir Malachie 3:16.",
+    "question": "Ce livre concerne-t-il ceux qui « craignent l’Éternel » et « honorent son nom » ou ceux qui « contestent sa loi » ?",
+    "choices": [
+      "Craignent l’Éternel / honorent son nom",
+      "Contestent sa loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:16 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-093",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:17",
+    "verseText": "Voir Malachie 3:17.",
+    "question": "L’Éternel appelle-t-il les siens « mon trésor particulier » ou « mes serviteurs bannis » ?",
+    "choices": [
+      "Mon trésor particulier",
+      "Mes serviteurs bannis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:17 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-094",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:17",
+    "verseText": "Voir Malachie 3:17.",
+    "question": "La compassion promise est comparée à celle d’un « père envers son fils qui le sert » ou d’un « roi envers ses ennemis » ?",
+    "choices": [
+      "Père envers son fils qui le sert",
+      "Roi envers ses ennemis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:17 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-095",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:18",
+    "verseText": "Voir Malachie 3:18.",
+    "question": "La distinction annoncée est-elle entre « le juste et le méchant » ou entre « le savant et l’ignorant » ?",
+    "choices": [
+      "Juste et méchant",
+      "Savant et ignorant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:18 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-096",
+    "book": "Malachie",
+    "chapter": 3,
+    "verseRef": "Malachie 3:18",
+    "verseText": "Voir Malachie 3:18.",
+    "question": "L’autre contraste explicite est-il entre « celui qui sert Dieu » et « celui qui ne le sert pas » ou entre « celui qui donne » et « celui qui reçoit » ?",
+    "choices": [
+      "Sert Dieu / ne le sert pas",
+      "Donne / reçoit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:18 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-097",
+    "book": "Malachie",
+    "chapter": 4,
+    "verseRef": "Malachie 4:1",
+    "verseText": "Voir Malachie 4:1.",
+    "question": "Le jour à venir est-il décrit comme « brûlant comme un four » ou « frais comme une source » ?",
+    "choices": [
+      "Brûlant comme un four",
+      "Frais comme une source"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 4:1 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-098",
+    "book": "Malachie",
+    "chapter": 4,
+    "verseRef": "Malachie 4:1",
+    "verseText": "Voir Malachie 4:1.",
+    "question": "Les orgueilleux et tous les méchants sont-ils comparés à du « chaume » ou à du « métal » ?",
+    "choices": [
+      "Chaume",
+      "Métal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 4:1 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-099",
+    "book": "Malachie",
+    "chapter": 4,
+    "verseRef": "Malachie 4:2",
+    "verseText": "Voir Malachie 4:2.",
+    "question": "Pour ceux qui craignent le nom de l’Éternel, est-il question du « soleil de justice » ou de la « lune de justice » ?",
+    "choices": [
+      "Soleil de justice",
+      "Lune de justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 4:2 (LSG 1910)."
+  },
+  {
+    "id": "malachie-D-100",
+    "book": "Malachie",
+    "chapter": 4,
+    "verseRef": "Malachie 4:5",
+    "verseText": "Voir Malachie 4:5.",
+    "question": "Le prophète annoncé avant le grand et terrible jour de l’Éternel est-il « Élie » ou « Élisée » ?",
+    "choices": [
+      "Élie",
+      "Élisée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 4:5 (LSG 1910)."
+  }
+]

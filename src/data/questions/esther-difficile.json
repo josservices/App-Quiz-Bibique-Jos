@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "EST-D-001",
+    "book": "Esther",
+    "chapter": 1,
+    "verseRef": "Esther 1:10",
+    "verseText": "Voir Esther 1:10.",
+    "question": "Quels sont les noms du premier et du dernier des sept eunuques cités quand le roi ordonne de faire venir Vasthi ?",
+    "choices": [
+      "Méhuman et Carcas",
+      "Harbona et Zéthar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 1:10 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-002",
+    "book": "Esther",
+    "chapter": 1,
+    "verseRef": "Esther 1:16",
+    "verseText": "Voir Esther 1:16.",
+    "question": "Parmi ces propositions, lequel est un conseiller dont l’avis est sollicité après le refus de Vasthi ?",
+    "choices": [
+      "Memucan",
+      "Hégaï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 1:16 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-003",
+    "book": "Esther",
+    "chapter": 1,
+    "verseRef": "Esther 1:22",
+    "verseText": "Voir Esther 1:22.",
+    "question": "Quelle expression résume l’objectif du décret envoyé dans toutes les provinces après l’affaire Vasthi ?",
+    "choices": [
+      "« Que chaque homme soit maître dans sa maison »",
+      "« Que chaque femme commande aux hommes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 1:22 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-004",
+    "book": "Esther",
+    "chapter": 2,
+    "verseRef": "Esther 2:23",
+    "verseText": "Voir Esther 2:23.",
+    "question": "Dans quel document officiel est rapporté le service rendu par Mardochée concernant le complot ?",
+    "choices": [
+      "Le livre des mémoires, les Chroniques",
+      "Le livre des Proverbes perses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 2:23 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-005",
+    "book": "Esther",
+    "chapter": 2,
+    "verseRef": "Esther 2:3",
+    "verseText": "Voir Esther 2:3.",
+    "question": "Quel eunuque est explicitement appelé « gardien des femmes » au chapitre 2 ?",
+    "choices": [
+      "Hégaï",
+      "Harbona"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 2:3 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-006",
+    "book": "Esther",
+    "chapter": 2,
+    "verseRef": "Esther 2:15",
+    "verseText": "Voir Esther 2:15.",
+    "question": "Quand Esther va vers le roi, que « ne demanda-t-elle » selon la formule exacte du récit ?",
+    "choices": [
+      "« Elle ne demanda que ce qui fut désigné par Hégaï »",
+      "« Elle ne demanda que de l’or et de l’argent »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 2:15 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-007",
+    "book": "Esther",
+    "chapter": 3,
+    "verseRef": "Esther 3:7",
+    "verseText": "Voir Esther 3:7.",
+    "question": "Dans quel mois le pur (le sort) fut-il jeté devant Haman, selon le texte ?",
+    "choices": [
+      "Le premier mois (Nisan)",
+      "Le douzième mois (Adar)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 3:7 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-008",
+    "book": "Esther",
+    "chapter": 3,
+    "verseRef": "Esther 3:9",
+    "verseText": "Voir Esther 3:9.",
+    "question": "Quel montant Haman promet-il de faire peser « dans les trésors du roi » ?",
+    "choices": [
+      "Dix mille talents d’argent",
+      "Mille talents d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 3:9 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-009",
+    "book": "Esther",
+    "chapter": 3,
+    "verseRef": "Esther 3:10",
+    "verseText": "Voir Esther 3:10.",
+    "question": "Que donna le roi à Haman pour sceller les lettres contre les Juifs ?",
+    "choices": [
+      "L’anneau du roi",
+      "Le sceptre d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 3:10 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-010",
+    "book": "Esther",
+    "chapter": 3,
+    "verseRef": "Esther 3:15",
+    "verseText": "Voir Esther 3:15.",
+    "question": "Qu’est-il dit de la ville de Suse après l’envoi des lettres d’extermination ?",
+    "choices": [
+      "« La ville de Suse était dans la consternation »",
+      "« La ville de Suse poussait des cris et se réjouissait »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 3:15 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-011",
+    "book": "Esther",
+    "chapter": 4,
+    "verseRef": "Esther 4:1-2",
+    "verseText": "Voir Esther 4:1-2.",
+    "question": "Quel détail distingue le deuil de Mardochée lorsqu’il apprend le décret ?",
+    "choices": [
+      "Il déchire ses vêtements, met un sac et de la cendre, et va jusque devant la porte du roi",
+      "Il se cache dans le palais avec des vêtements royaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 4:1-2 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-012",
+    "book": "Esther",
+    "chapter": 4,
+    "verseRef": "Esther 4:11",
+    "verseText": "Voir Esther 4:11.",
+    "question": "Quelle restriction de la loi du roi Esther mentionne-t-elle avant d’entrer chez le roi ?",
+    "choices": [
+      "Quiconque entre sans être appelé est mis à mort, sauf si le roi tend le sceptre d’or",
+      "Quiconque entre sans offrande est fouetté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 4:11 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-013",
+    "book": "Esther",
+    "chapter": 4,
+    "verseRef": "Esther 4:16",
+    "verseText": "Voir Esther 4:16.",
+    "question": "Quelle durée de jeûne Esther demande-t-elle expressément ?",
+    "choices": [
+      "Trois jours, nuit et jour",
+      "Sept jours, nuit et jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 4:16 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-014",
+    "book": "Esther",
+    "chapter": 5,
+    "verseRef": "Esther 5:1",
+    "verseText": "Voir Esther 5:1.",
+    "question": "Lorsqu’Esther paraît devant le roi, où se tient-elle exactement ?",
+    "choices": [
+      "Dans le parvis intérieur de la maison du roi, en face de la maison du roi",
+      "Au marché de Suse, près de la porte de l’est"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 5:1 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-015",
+    "book": "Esther",
+    "chapter": 5,
+    "verseRef": "Esther 5:4",
+    "verseText": "Voir Esther 5:4.",
+    "question": "Quelle est la demande d’Esther au premier banquet, formulée sous forme d’invitation ?",
+    "choices": [
+      "« Que le roi et Haman viennent aujourd’hui au festin que je lui ai préparé »",
+      "« Que Mardochée vienne aujourd’hui avec les Juifs »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 5:4 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-016",
+    "book": "Esther",
+    "chapter": 5,
+    "verseRef": "Esther 5:9-14",
+    "verseText": "Voir Esther 5:9-14.",
+    "question": "Qu’est-ce qui déclenche la décision d’Haman de faire dresser un bois pour Mardochée ?",
+    "choices": [
+      "Il voit Mardochée qui ne se lève pas et ne tremble pas devant lui",
+      "Il entend Esther chanter dans le palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 5:9-14 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-017",
+    "book": "Esther",
+    "chapter": 5,
+    "verseRef": "Esther 5:14",
+    "verseText": "Voir Esther 5:14.",
+    "question": "Quelle hauteur précise est donnée pour le bois dressé contre Mardochée ?",
+    "choices": [
+      "Cinquante coudées",
+      "Vingt coudées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 5:14 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-018",
+    "book": "Esther",
+    "chapter": 6,
+    "verseRef": "Esther 6:1",
+    "verseText": "Voir Esther 6:1.",
+    "question": "Quel livre le roi fait-il apporter lorsqu’il ne peut dormir ?",
+    "choices": [
+      "Le livre des mémoires, les Chroniques",
+      "Le livre des Psaumes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 6:1 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-019",
+    "book": "Esther",
+    "chapter": 6,
+    "verseRef": "Esther 6:3",
+    "verseText": "Voir Esther 6:3.",
+    "question": "Quelle question le roi pose après avoir entendu l’histoire de Mardochée dans les Chroniques ?",
+    "choices": [
+      "« Quel honneur et quelle distinction a-t-on faits à Mardochée pour cela ? »",
+      "« Quel tribut a-t-on imposé à Mardochée ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 6:3 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-020",
+    "book": "Esther",
+    "chapter": 6,
+    "verseRef": "Esther 6:8-11",
+    "verseText": "Voir Esther 6:8-11.",
+    "question": "Quel objet royal est mentionné dans le scénario d’honneur proposé par Haman (et appliqué à Mardochée) ?",
+    "choices": [
+      "Un cheval sur lequel le roi monte",
+      "Un autel de sacrifice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 6:8-11 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-021",
+    "book": "Esther",
+    "chapter": 6,
+    "verseRef": "Esther 6:9",
+    "verseText": "Voir Esther 6:9.",
+    "question": "Quel cri public devait accompagner l’honneur rendu à Mardochée ?",
+    "choices": [
+      "« C’est ainsi qu’on fait à l’homme que le roi veut honorer ! »",
+      "« Gloire à Haman pour toujours ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 6:9 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-022",
+    "book": "Esther",
+    "chapter": 6,
+    "verseRef": "Esther 6:13",
+    "verseText": "Voir Esther 6:13.",
+    "question": "Après l’humiliation, quelle mise en garde est formulée à Haman sur l’issue de son conflit avec Mardochée ?",
+    "choices": [
+      "« Tu ne prévaudras pas contre lui, mais tu tomberas devant lui »",
+      "« Tu triompheras sûrement de lui »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 6:13 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-023",
+    "book": "Esther",
+    "chapter": 7,
+    "verseRef": "Esther 7:4",
+    "verseText": "Voir Esther 7:4.",
+    "question": "Au second banquet, comment Esther décrit-elle le sort réservé à son peuple ?",
+    "choices": [
+      "« Nous sommes vendus, moi et mon peuple, pour être détruits, tués et exterminés »",
+      "« Nous sommes appelés à gouverner l’empire »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 7:4 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-024",
+    "book": "Esther",
+    "chapter": 7,
+    "verseRef": "Esther 7:7",
+    "verseText": "Voir Esther 7:7.",
+    "question": "Quelle réaction du roi suit la révélation d’Esther concernant Haman ?",
+    "choices": [
+      "Le roi, dans sa colère, se lève et quitte le festin pour aller dans le jardin du palais",
+      "Le roi rit et couronne Haman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 7:7 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-025",
+    "book": "Esther",
+    "chapter": 7,
+    "verseRef": "Esther 7:8",
+    "verseText": "Voir Esther 7:8.",
+    "question": "Quelle phrase du roi est prononcée lorsqu’il voit Haman près du lit d’Esther ?",
+    "choices": [
+      "« Serait-ce encore pour faire violence à la reine, chez moi, dans le palais ? »",
+      "« Serait-ce pour bénir la reine, chez moi, dans le palais ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 7:8 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-026",
+    "book": "Esther",
+    "chapter": 7,
+    "verseRef": "Esther 7:8",
+    "verseText": "Voir Esther 7:8.",
+    "question": "Que se passe-t-il « dès que cette parole fut sortie de la bouche du roi » ?",
+    "choices": [
+      "On voile le visage d’Haman",
+      "On couronne Haman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 7:8 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-027",
+    "book": "Esther",
+    "chapter": 7,
+    "verseRef": "Esther 7:9",
+    "verseText": "Voir Esther 7:9.",
+    "question": "Qui signale explicitement au roi l’existence du bois chez Haman et sa hauteur ?",
+    "choices": [
+      "Harbona, l’un des eunuques",
+      "Hégaï, le gardien des femmes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 7:9 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-028",
+    "book": "Esther",
+    "chapter": 7,
+    "verseRef": "Esther 7:10",
+    "verseText": "Voir Esther 7:10.",
+    "question": "Quelle double conséquence le texte mentionne après la pendaison d’Haman ?",
+    "choices": [
+      "Haman est pendu, et la colère du roi s’apaise",
+      "Haman est libéré, et Esther est exilée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 7:10 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-029",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:8",
+    "verseText": "Voir Esther 8:8.",
+    "question": "Le roi affirme qu’une lettre scellée de l’anneau royal ne peut pas être quoi ?",
+    "choices": [
+      "Révoquée",
+      "Lue publiquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:8 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-030",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:9",
+    "verseText": "Voir Esther 8:9.",
+    "question": "À quelle date les secrétaires du roi furent-ils appelés pour rédiger les lettres en faveur des Juifs ?",
+    "choices": [
+      "Le vingt-troisième jour du troisième mois, le mois de Sivan",
+      "Le treizième jour du douzième mois, le mois d’Adar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:9 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-031",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:15",
+    "verseText": "Voir Esther 8:15.",
+    "question": "Quel élément vestimentaire de Mardochée est cité en plus du vêtement bleu et blanc ?",
+    "choices": [
+      "Un manteau de byssus et de pourpre",
+      "Une cuirasse d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:15 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-032",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:17",
+    "verseText": "Voir Esther 8:17.",
+    "question": "Selon Esther 8:17, quelle motivation pousse des gens des peuples du pays à « se faire Juifs » ?",
+    "choices": [
+      "« Car la crainte des Juifs les avait saisis »",
+      "« Car ils avaient vu l’or d’Esther »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:17 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-033",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:1",
+    "verseText": "Voir Esther 9:1.",
+    "question": "Dans Esther 9:1, quel renversement est formulé concernant l’issue attendue par les ennemis ?",
+    "choices": [
+      "« Ce fut le contraire qui arriva, et les Juifs dominèrent sur leurs ennemis »",
+      "« Les ennemis dominèrent sur les Juifs »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:1 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-034",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:3",
+    "verseText": "Voir Esther 9:3.",
+    "question": "Quel motif explique pourquoi les chefs des provinces soutiennent les Juifs ?",
+    "choices": [
+      "L’effroi que leur inspirait Mardochée",
+      "L’admiration de Vasthi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:3 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-035",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:7",
+    "verseText": "Voir Esther 9:7.",
+    "question": "Quels sont les trois premiers noms des dix fils d’Haman cités dans Esther 9 ?",
+    "choices": [
+      "Parschandatha, Dalphon, Aspatha",
+      "Poratha, Adalia, Aridatha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:7 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-036",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:9",
+    "verseText": "Voir Esther 9:9.",
+    "question": "Quel est le dernier nom de la liste des dix fils d’Haman ?",
+    "choices": [
+      "Vajezatha",
+      "Dalphon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:9 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-037",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:10",
+    "verseText": "Voir Esther 9:10.",
+    "question": "Quelle formule revient après les combats au sujet des biens des ennemis ?",
+    "choices": [
+      "« Mais ils ne mirent pas la main au pillage »",
+      "« Ils prirent tout le pillage »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:10 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-038",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:13",
+    "verseText": "Voir Esther 9:13.",
+    "question": "Quelle requête Esther présente-t-elle au roi concernant le lendemain à Suse ?",
+    "choices": [
+      "Permettre d’agir encore demain selon le décret d’aujourd’hui, et pendre au bois les dix fils d’Haman",
+      "Abolir la fête de Purim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:13 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-039",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:6",
+    "verseText": "Voir Esther 9:6.",
+    "question": "Quel nombre est donné pour les hommes tués à Suse le premier jour mentionné ?",
+    "choices": [
+      "Cinq cents",
+      "Cinq mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:6 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-040",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:16",
+    "verseText": "Voir Esther 9:16.",
+    "question": "Quel nombre est donné pour ceux qui furent tués dans les provinces du roi (hors Suse), selon Esther 9:16 ?",
+    "choices": [
+      "Soixante-quinze mille",
+      "Sept mille cinq cents"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:16 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-041",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:17",
+    "verseText": "Voir Esther 9:17.",
+    "question": "Quel jour du mois d’Adar les autres Juifs se procurent-ils du repos, selon Esther 9:17 ?",
+    "choices": [
+      "Le quatorzième jour",
+      "Le quinzième jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:17 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-042",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:18",
+    "verseText": "Voir Esther 9:18.",
+    "question": "Pour ceux qui se trouvaient à Suse, quel jour est explicitement mentionné comme jour de repos et de joie ?",
+    "choices": [
+      "Le quinzième jour",
+      "Le treizième jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:18 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-043",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:19",
+    "verseText": "Voir Esther 9:19.",
+    "question": "Quelle particularité distingue les Juifs de la campagne dans leur manière de marquer Purim ?",
+    "choices": [
+      "Ils habitent des villes sans murailles et font du quatorzième jour un jour de joie, de festin et de fête",
+      "Ils habitent tous à Suse et jeûnent en permanence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:19 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-044",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:22",
+    "verseText": "Voir Esther 9:22.",
+    "question": "Quel double geste social est prescrit pour Purim dans Esther 9:22 ?",
+    "choices": [
+      "S’envoyer des portions les uns aux autres et distribuer des dons aux indigents",
+      "Garder tout pour soi et imposer un tribut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:22 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-045",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:24",
+    "verseText": "Voir Esther 9:24.",
+    "question": "Selon Esther 9:24, comment Haman est-il présenté dans sa filiation et son origine ?",
+    "choices": [
+      "Haman, fils d’Hammedatha, l’Agaguite",
+      "Haman, fils de Saül, le Benjamite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:24 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-046",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:26",
+    "verseText": "Voir Esther 9:26.",
+    "question": "Quelle explication donne Esther 9:26 sur le nom « Purim » ?",
+    "choices": [
+      "« Du nom de pur »",
+      "« Du nom de Suse »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:26 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-047",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:29",
+    "verseText": "Voir Esther 9:29.",
+    "question": "Qui écrit « d’une manière pressante » pour confirmer la lettre sur les Purim ?",
+    "choices": [
+      "La reine Esther, fille d’Abichaïl, et le Juif Mardochée",
+      "Vasthi et Memucan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:29 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-048",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:30",
+    "verseText": "Voir Esther 9:30.",
+    "question": "Quel type de paix est mentionné en lien avec la lettre de confirmation ?",
+    "choices": [
+      "Des paroles de paix et de vérité",
+      "Des paroles de guerre et de vengeance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:30 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-049",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:15",
+    "verseText": "Voir Esther 8:15.",
+    "question": "Dans Esther 8:15, quelle réaction de Suse est décrite en une formule brève ?",
+    "choices": [
+      "« La ville de Suse poussait des cris et se réjouissait »",
+      "« La ville de Suse était dans la consternation »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:15 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-050",
+    "book": "Esther",
+    "chapter": 3,
+    "verseRef": "Esther 3:15",
+    "verseText": "Voir Esther 3:15.",
+    "question": "Dans Esther 3:15, quelle réaction de Suse est décrite en une formule brève ?",
+    "choices": [
+      "« La ville de Suse était dans la consternation »",
+      "« La ville de Suse poussait des cris et se réjouissait »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 3:15 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-051",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:2",
+    "verseText": "Voir Esther 8:2.",
+    "question": "Selon Esther 8:2, que fait Esther ensuite à propos de Mardochée ?",
+    "choices": [
+      "Elle établit Mardochée sur la maison d’Haman",
+      "Elle chasse Mardochée de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:2 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-052",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:2",
+    "verseText": "Voir Esther 8:2.",
+    "question": "Quel objet symbolique confirme que Mardochée reçoit une autorité officielle après Haman ?",
+    "choices": [
+      "L’anneau du roi remis à Mardochée",
+      "La couronne de Vasthi remise à Mardochée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:2 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-053",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:4",
+    "verseText": "Voir Esther 9:4.",
+    "question": "Quelle expression décrit l’ascension de Mardochée à travers les provinces ?",
+    "choices": [
+      "« Parce qu’il devenait de plus en plus puissant »",
+      "« Parce qu’il diminuait de jour en jour »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:4 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-054",
+    "book": "Esther",
+    "chapter": 10,
+    "verseRef": "Esther 10:3",
+    "verseText": "Voir Esther 10:3.",
+    "question": "Dans Esther 10:3, quel double portrait est donné de Mardochée ?",
+    "choices": [
+      "« Grand parmi les Juifs… recherchant le bien de son peuple… parlant pour le bonheur de toute sa race »",
+      "« Petit parmi les Juifs… recherchant sa propre gloire »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 10:3 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-055",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:3",
+    "verseText": "Voir Esther 8:3.",
+    "question": "Quel acte physique d’Esther est décrit quand elle supplie le roi au chapitre 8 ?",
+    "choices": [
+      "Elle se jette à ses pieds",
+      "Elle frappe le roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:3 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-056",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:4",
+    "verseText": "Voir Esther 8:4.",
+    "question": "Selon Esther 8:4, quel geste du roi permet à Esther de se relever et de parler ?",
+    "choices": [
+      "Il tend le sceptre d’or à Esther",
+      "Il ferme les portes du palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:4 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-057",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:5",
+    "verseText": "Voir Esther 8:5.",
+    "question": "Comment Esther qualifie-t-elle les lettres d’Haman en Esther 8:5 ?",
+    "choices": [
+      "Des lettres conçues par Haman… dans le but de faire périr les Juifs",
+      "Des lettres pour bénir les Juifs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:5 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-058",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:24",
+    "verseText": "Voir Esther 9:24.",
+    "question": "Dans Esther 9:24, quel mot persan est expliqué par une apposition ?",
+    "choices": [
+      "« Le pur, c’est-à-dire le sort »",
+      "« Le byssus, c’est-à-dire la laine »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:24 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-059",
+    "book": "Esther",
+    "chapter": 7,
+    "verseRef": "Esther 7:9",
+    "verseText": "Voir Esther 7:9.",
+    "question": "Dans Esther 7:9, quelle précision relie Mardochée au roi au sujet du bois ?",
+    "choices": [
+      "Mardochée « a parlé pour le bien du roi »",
+      "Mardochée « a conspiré contre le roi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 7:9 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-060",
+    "book": "Esther",
+    "chapter": 10,
+    "verseRef": "Esther 10:3",
+    "verseText": "Voir Esther 10:3.",
+    "question": "À quel rang Mardochée est-il explicitement situé à la fin du livre ?",
+    "choices": [
+      "Le second après le roi Assuérus",
+      "Le dernier des satrapes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 10:3 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-061",
+    "book": "Esther",
+    "chapter": 1,
+    "verseRef": "Esther 1:14",
+    "verseText": "Voir Esther 1:14.",
+    "question": "Quels sont les noms des sept princes de Perse et de Médie « qui voyaient la face du roi » cités au chapitre 1 ?",
+    "choices": [
+      "Carschena, Schéthar, Admatha, Tharschisch, Mérès, Marsena, Memucan",
+      "Bigthan, Térech, Harbona, Zéthar, Carcas, Méhuman, Hathac"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 1:14 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-062",
+    "book": "Esther",
+    "chapter": 1,
+    "verseRef": "Esther 1:6",
+    "verseText": "Voir Esther 1:6.",
+    "question": "Dans le décor du festin, quelle combinaison est mentionnée pour les tentures et leurs attaches ?",
+    "choices": [
+      "Des tentures blanches, vertes et bleues, attachées avec des cordons de byssus et de pourpre",
+      "Des tentures rouges, attachées avec des cordons d’or et d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 1:6 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-063",
+    "book": "Esther",
+    "chapter": 1,
+    "verseRef": "Esther 1:6",
+    "verseText": "Voir Esther 1:6.",
+    "question": "Sur quoi reposaient les lits du festin, selon la description de la cour du jardin ?",
+    "choices": [
+      "Sur un pavé de porphyre, de marbre blanc, de nacre et de pierres noires",
+      "Sur de la terre battue et des roseaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 1:6 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-064",
+    "book": "Esther",
+    "chapter": 1,
+    "verseRef": "Esther 1:7",
+    "verseText": "Voir Esther 1:7.",
+    "question": "Dans quels types de vases buvait-on au festin, et que dit-on de leur diversité ?",
+    "choices": [
+      "Dans des vases d’or, de différentes sortes",
+      "Dans des vases d’argile, tous identiques"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 1:7 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-065",
+    "book": "Esther",
+    "chapter": 2,
+    "verseRef": "Esther 2:3",
+    "verseText": "Voir Esther 2:3.",
+    "question": "Quel titre est donné à Hégaï dans la formule exacte d’Esther 2:3 ?",
+    "choices": [
+      "Gardien des femmes",
+      "Chef des satrapes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 2:3 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-066",
+    "book": "Esther",
+    "chapter": 2,
+    "verseRef": "Esther 2:7",
+    "verseText": "Voir Esther 2:7.",
+    "question": "Dans Esther 2:7, quel lien est précisé entre Hadassa et Abichaïl ?",
+    "choices": [
+      "Hadassa était la fille d’Abichaïl, oncle de Mardochée",
+      "Hadassa était la sœur d’Abichaïl"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 2:7 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-067",
+    "book": "Esther",
+    "chapter": 2,
+    "verseRef": "Esther 2:6",
+    "verseText": "Voir Esther 2:6.",
+    "question": "Dans Esther 2:6, de qui Mardochée est-il dit avoir été emmené en captivité avec Jéconia ?",
+    "choices": [
+      "Des captifs que Nabuchodonosor, roi de Babylone, avait emmenés de Jérusalem",
+      "Des captifs que Pharaon avait emmenés d’Hébron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 2:6 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-068",
+    "book": "Esther",
+    "chapter": 2,
+    "verseRef": "Esther 2:21",
+    "verseText": "Voir Esther 2:21.",
+    "question": "Dans Esther 2:21, quel détail de la fonction de Mardochée est donné quand il découvre le complot ?",
+    "choices": [
+      "« Dans ce temps-là, Mardochée était assis à la porte du roi »",
+      "« Dans ce temps-là, Mardochée était sur le champ de bataille »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 2:21 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-069",
+    "book": "Esther",
+    "chapter": 2,
+    "verseRef": "Esther 2:21",
+    "verseText": "Voir Esther 2:21.",
+    "question": "À quel endroit précis les deux eunuques complotent-ils, selon la mention de leur rôle ?",
+    "choices": [
+      "Ils gardaient le seuil",
+      "Ils gardaient les écuries"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 2:21 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-070",
+    "book": "Esther",
+    "chapter": 3,
+    "verseRef": "Esther 3:1",
+    "verseText": "Voir Esther 3:1.",
+    "question": "Dans Esther 3:1, comment Haman est-il présenté par son ascendance ?",
+    "choices": [
+      "Haman, fils d’Hammedatha, l’Agaguite",
+      "Haman, fils d’Isaï, le Judaïte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 3:1 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-071",
+    "book": "Esther",
+    "chapter": 3,
+    "verseRef": "Esther 3:1",
+    "verseText": "Voir Esther 3:1.",
+    "question": "Quelle formulation décrit le prestige conféré à Haman par le roi, au début d’Esther 3 ?",
+    "choices": [
+      "Il l’éleva et plaça son siège au-dessus de tous les chefs qui étaient avec lui",
+      "Il le dépouilla de ses vêtements"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 3:1 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-072",
+    "book": "Esther",
+    "chapter": 3,
+    "verseRef": "Esther 3:3",
+    "verseText": "Voir Esther 3:3.",
+    "question": "Quelle action les serviteurs du roi reprochent-ils à Mardochée au sujet du commandement royal ?",
+    "choices": [
+      "Il transgressait le commandement du roi en ne se prosternant pas",
+      "Il transgressait le commandement du roi en jeûnant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 3:3 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-073",
+    "book": "Esther",
+    "chapter": 3,
+    "verseRef": "Esther 3:4",
+    "verseText": "Voir Esther 3:4.",
+    "question": "Selon Esther 3:4, au bout de combien de temps les serviteurs signalent-ils l’affaire à Haman ?",
+    "choices": [
+      "Après qu’ils lui en eurent parlé chaque jour, et qu’il ne les eut point écoutés",
+      "Après une seule parole, le même jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 3:4 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-074",
+    "book": "Esther",
+    "chapter": 3,
+    "verseRef": "Esther 3:8",
+    "verseText": "Voir Esther 3:8.",
+    "question": "Dans Esther 3:8, comment Haman décrit-il la dispersion des Juifs dans l’empire ?",
+    "choices": [
+      "« Il y a un peuple dispersé et à part parmi les peuples… dans toutes les provinces de ton royaume »",
+      "« Il y a un peuple uni dans une seule ville »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 3:8 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-075",
+    "book": "Esther",
+    "chapter": 3,
+    "verseRef": "Esther 3:12",
+    "verseText": "Voir Esther 3:12.",
+    "question": "À quelle date précise les lettres furent-elles envoyées « aux satrapes du roi, aux gouverneurs… et aux chefs » ?",
+    "choices": [
+      "Le treizième jour du premier mois",
+      "Le vingt-troisième jour du troisième mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 3:12 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-076",
+    "book": "Esther",
+    "chapter": 3,
+    "verseRef": "Esther 3:13",
+    "verseText": "Voir Esther 3:13.",
+    "question": "Quelle triple action est explicitement ordonnée contre les Juifs dans les lettres d’Esther 3:13 ?",
+    "choices": [
+      "Détruire, tuer et exterminer",
+      "Enfermer, juger et exiler"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 3:13 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-077",
+    "book": "Esther",
+    "chapter": 4,
+    "verseRef": "Esther 4:6",
+    "verseText": "Voir Esther 4:6.",
+    "question": "Dans Esther 4:6, jusqu’où Hathac va-t-il pour rencontrer Mardochée en deuil ?",
+    "choices": [
+      "Sur la place de la ville, devant la porte du roi",
+      "Dans la salle du trône"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 4:6 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-078",
+    "book": "Esther",
+    "chapter": 4,
+    "verseRef": "Esther 4:8",
+    "verseText": "Voir Esther 4:8.",
+    "question": "Quel document Mardochée fait-il transmettre à Esther, selon Esther 4:8 ?",
+    "choices": [
+      "Une copie de l’écrit contenant l’édit publié à Suse",
+      "Une copie du livre des Proverbes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 4:8 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-079",
+    "book": "Esther",
+    "chapter": 4,
+    "verseRef": "Esther 4:8",
+    "verseText": "Voir Esther 4:8.",
+    "question": "Dans Esther 4:8, que devait faire Esther auprès du roi, selon l’ordre transmis par Mardochée ?",
+    "choices": [
+      "Entrer vers le roi, le supplier et lui demander grâce pour son peuple",
+      "Quitter l’empire et se cacher"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 4:8 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-080",
+    "book": "Esther",
+    "chapter": 5,
+    "verseRef": "Esther 5:1",
+    "verseText": "Voir Esther 5:1.",
+    "question": "Dans Esther 5:1, comment Esther est-elle vêtue lorsqu’elle se présente au roi ?",
+    "choices": [
+      "Elle revêtit ses vêtements royaux",
+      "Elle revêtit un sac et de la cendre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 5:1 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-081",
+    "book": "Esther",
+    "chapter": 5,
+    "verseRef": "Esther 5:6",
+    "verseText": "Voir Esther 5:6.",
+    "question": "Dans Esther 5:6, quelle formule le roi répète-t-il à Esther à propos de sa demande ?",
+    "choices": [
+      "« Elle te sera accordée »",
+      "« Elle te sera refusée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 5:6 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-082",
+    "book": "Esther",
+    "chapter": 5,
+    "verseRef": "Esther 5:8",
+    "verseText": "Voir Esther 5:8.",
+    "question": "Dans Esther 5:8, quel conditionnel Esther formule-t-elle en parlant du roi ?",
+    "choices": [
+      "« Si j’ai trouvé grâce aux yeux du roi… »",
+      "« Si le roi a été trahi… »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 5:8 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-083",
+    "book": "Esther",
+    "chapter": 6,
+    "verseRef": "Esther 6:1",
+    "verseText": "Voir Esther 6:1.",
+    "question": "Quelle expression décrit la nuit du roi avant la lecture des Chroniques ?",
+    "choices": [
+      "« Cette nuit-là, le sommeil du roi fut troublé »",
+      "« Cette nuit-là, le roi mourut »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 6:1 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-084",
+    "book": "Esther",
+    "chapter": 6,
+    "verseRef": "Esther 6:4",
+    "verseText": "Voir Esther 6:4.",
+    "question": "Dans Esther 6:4, quelle question précise le roi pose-t-il en apprenant la présence d’Haman ?",
+    "choices": [
+      "« Qui est dans la cour ? »",
+      "« Qui garde le seuil ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 6:4 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-085",
+    "book": "Esther",
+    "chapter": 6,
+    "verseRef": "Esther 6:12",
+    "verseText": "Voir Esther 6:12.",
+    "question": "Quel geste d’humiliation est mentionné pour Haman après l’ordre d’honorer Mardochée ?",
+    "choices": [
+      "Il se couvrit la tête et se hâta d’aller chez lui, tout affligé",
+      "Il se fit couronner dans Suse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 6:12 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-086",
+    "book": "Esther",
+    "chapter": 6,
+    "verseRef": "Esther 6:14",
+    "verseText": "Voir Esther 6:14.",
+    "question": "Dans Esther 6:14, que font les eunuques à l’égard de Haman juste avant le second banquet ?",
+    "choices": [
+      "Ils le pressent d’aller au festin qu’Esther avait préparé",
+      "Ils l’enferment en prison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 6:14 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-087",
+    "book": "Esther",
+    "chapter": 7,
+    "verseRef": "Esther 7:3",
+    "verseText": "Voir Esther 7:3.",
+    "question": "Dans Esther 7:3, comment Esther introduit-elle sa requête personnelle au roi ?",
+    "choices": [
+      "« Si j’ai trouvé grâce à tes yeux, ô roi… que ma vie me soit donnée… »",
+      "« Si tu veux de l’or… donne-moi des provinces »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 7:3 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-088",
+    "book": "Esther",
+    "chapter": 7,
+    "verseRef": "Esther 7:4",
+    "verseText": "Voir Esther 7:4.",
+    "question": "Dans Esther 7:4, quelle hypothèse Esther dit-elle qui l’aurait fait taire ?",
+    "choices": [
+      "S’ils avaient été vendus comme esclaves et comme servantes, elle se serait tue",
+      "S’ils avaient été envoyés en voyage, elle se serait tue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 7:4 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-089",
+    "book": "Esther",
+    "chapter": 7,
+    "verseRef": "Esther 7:7",
+    "verseText": "Voir Esther 7:7.",
+    "question": "Dans Esther 7:7, pour quelle raison Haman reste-t-il près d’Esther quand le roi sort ?",
+    "choices": [
+      "Il voyait que sa perte était arrêtée par le roi",
+      "Il voulait être honoré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 7:7 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-090",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:1",
+    "verseText": "Voir Esther 8:1.",
+    "question": "Dans Esther 8:1, quel qualificatif du texte relie Mardochée à Esther lors de la remise de la maison d’Haman ?",
+    "choices": [
+      "Mardochée était parent d’Esther",
+      "Mardochée était ennemi d’Esther"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:1 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-091",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:5",
+    "verseText": "Voir Esther 8:5.",
+    "question": "Dans Esther 8:5, sur quels deux éléments Esther fonde-t-elle sa demande au roi ?",
+    "choices": [
+      "La bonté du roi et sa faveur personnelle (« si la chose semble bonne… si j’ai trouvé grâce… »)",
+      "La force de l’armée et l’or du trésor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:5 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-092",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:9",
+    "verseText": "Voir Esther 8:9.",
+    "question": "Dans Esther 8:9, quel type de diversité linguistique est mentionné dans l’envoi des lettres ?",
+    "choices": [
+      "Chaque province selon son écriture et chaque peuple selon sa langue",
+      "Une seule langue pour tout l’empire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:9 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-093",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:9",
+    "verseText": "Voir Esther 8:9.",
+    "question": "À quel groupe les lettres furent-elles adressées en plus des gouverneurs et des chefs, selon Esther 8:9 ?",
+    "choices": [
+      "Aux satrapes du roi",
+      "Aux prêtres de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:9 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-094",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:10",
+    "verseText": "Voir Esther 8:10.",
+    "question": "Dans Esther 8:10, au nom de qui les lettres furent-elles écrites et de quoi furent-elles scellées ?",
+    "choices": [
+      "Au nom du roi Assuérus, scellées du cachet de l’anneau du roi",
+      "Au nom d’Esther, scellées d’un sceau du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:10 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-095",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:11",
+    "verseText": "Voir Esther 8:11.",
+    "question": "Dans Esther 8:11, quelles trois catégories d’ennemis sont explicitement visées contre les Juifs ?",
+    "choices": [
+      "Toute force armée d’un peuple et d’une province qui prendrait les armes contre eux, avec les enfants et les femmes",
+      "Seulement les soldats professionnels, sans les familles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:11 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-096",
+    "book": "Esther",
+    "chapter": 8,
+    "verseRef": "Esther 8:12",
+    "verseText": "Voir Esther 8:12.",
+    "question": "Dans Esther 8:12, quelle date unique est répétée pour l’exécution dans tout l’empire ?",
+    "choices": [
+      "Le treizième jour du douzième mois, le mois d’Adar",
+      "Le premier jour du troisième mois, le mois de Sivan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 8:12 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-097",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:4",
+    "verseText": "Voir Esther 9:4.",
+    "question": "Dans Esther 9:4, quelle phrase indique la croissance de l’autorité de Mardochée ?",
+    "choices": [
+      "« Car cet homme Mardochée allait grandissant »",
+      "« Car cet homme Mardochée allait diminuant »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:4 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-098",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:5",
+    "verseText": "Voir Esther 9:5.",
+    "question": "Dans Esther 9:5, comment le texte résume-t-il l’action des Juifs contre leurs ennemis ?",
+    "choices": [
+      "Ils frappèrent tous leurs ennemis à coups d’épée, les tuant et les exterminant, et ils firent ce qu’ils voulurent à ceux qui les haïssaient",
+      "Ils offrirent des sacrifices pour leurs ennemis et firent la paix avec eux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:5 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-099",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:10",
+    "verseText": "Voir Esther 9:10.",
+    "question": "Dans Esther 9:10, quelle phrase indique leur attitude envers les biens de leurs ennemis ?",
+    "choices": [
+      "Ils mirent la main au pillage",
+      "Ils ne mirent pas la main au pillage"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Esther 9:10 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-100",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:12",
+    "verseText": "Voir Esther 9:12.",
+    "question": "Dans Esther 9:12, quelle formule le roi adresse-t-il à Esther après avoir appris ce qui s’est passé à Suse ?",
+    "choices": [
+      "« Quelle est ta demande ? Elle te sera accordée. Quelle est encore ta requête ? Elle sera accomplie. »",
+      "« Pourquoi as-tu caché ton peuple ? Tu seras punie. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:12 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-101",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:13",
+    "verseText": "Voir Esther 9:13.",
+    "question": "Dans Esther 9:13, quelle requête Esther présente-t-elle au roi concernant Suse ?",
+    "choices": [
+      "Que les Juifs de Suse soient autorisés à agir encore demain selon le décret d’aujourd’hui, et qu’on pende au bois les dix fils d’Haman",
+      "Que les Juifs de Suse quittent la ville et cessent toute défense"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:13 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-102",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:14",
+    "verseText": "Voir Esther 9:14.",
+    "question": "Dans Esther 9:14, quelle décision le roi prend-il à la suite de la demande d’Esther ?",
+    "choices": [
+      "Il ordonna qu’on fît ainsi, et un décret fut rendu à Suse, et l’on pendit les dix fils d’Haman",
+      "Il refusa, et Haman fut rétabli dans sa dignité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:14 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-103",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:15",
+    "verseText": "Voir Esther 9:15.",
+    "question": "Dans Esther 9:15, combien d’hommes les Juifs tuèrent-ils à Suse le quatorzième jour du mois d’Adar ?",
+    "choices": [
+      "Trois cents hommes",
+      "Cinq cents hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:15 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-104",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:16",
+    "verseText": "Voir Esther 9:16.",
+    "question": "Dans Esther 9:16, quel nombre total est donné pour ceux que les Juifs tuèrent dans les provinces du roi ?",
+    "choices": [
+      "Soixante-quinze mille",
+      "Sept mille cinq cents"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:16 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-105",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:16",
+    "verseText": "Voir Esther 9:16.",
+    "question": "Dans Esther 9:16, quel double effet est mentionné après leur victoire dans les provinces ?",
+    "choices": [
+      "Ils se procurèrent du repos, et ils furent délivrés de leurs ennemis",
+      "Ils furent exilés, et ils perdirent leurs villes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:16 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-106",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:17",
+    "verseText": "Voir Esther 9:17.",
+    "question": "Dans Esther 9:17, que firent-ils le quatorzième jour du mois d’Adar ?",
+    "choices": [
+      "Ils en firent un jour de festin et de joie",
+      "Ils en firent un jour de deuil et de lamentation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:17 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-107",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:18",
+    "verseText": "Voir Esther 9:18.",
+    "question": "Dans Esther 9:18, quelle séquence de jours est décrite pour les Juifs de Suse ?",
+    "choices": [
+      "Ils se rassemblèrent le treizième et le quatorzième jour, et ils se reposèrent le quinzième jour",
+      "Ils se rassemblèrent le douzième et le treizième jour, et ils se reposèrent le quatorzième jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:18 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-108",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:19",
+    "verseText": "Voir Esther 9:19.",
+    "question": "Dans Esther 9:19, quel détail distingue les Juifs des villes sans murailles dans leur célébration ?",
+    "choices": [
+      "Ils firent du quatorzième jour du mois d’Adar un jour de joie, de festin, et de fête, et un jour où l’on s’envoyait des portions les uns aux autres",
+      "Ils firent du quinzième jour un jour de jeûne strict sans réjouissance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:19 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-109",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:20",
+    "verseText": "Voir Esther 9:20.",
+    "question": "Dans Esther 9:20, quelle action Mardochée entreprend-il pour établir Purim ?",
+    "choices": [
+      "Il écrivit ces choses, et envoya des lettres à tous les Juifs",
+      "Il garda ces choses secrètes et n’en parla à personne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:20 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-110",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:21",
+    "verseText": "Voir Esther 9:21.",
+    "question": "Dans Esther 9:21, quels jours Mardochée leur enjoint-il de célébrer chaque année ?",
+    "choices": [
+      "Le quatorzième et le quinzième jour du mois d’Adar",
+      "Le treizième et le quatorzième jour du mois de Nisan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:21 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-111",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:22",
+    "verseText": "Voir Esther 9:22.",
+    "question": "Dans Esther 9:22, que devaient-ils faire entre eux pendant ces jours ?",
+    "choices": [
+      "S’envoyer des portions les uns aux autres",
+      "S’interdire toute nourriture et toute boisson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:22 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-112",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:22",
+    "verseText": "Voir Esther 9:22.",
+    "question": "Dans Esther 9:22, quelle charité est mentionnée explicitement ?",
+    "choices": [
+      "Distribuer des dons aux indigents",
+      "Bâtir une maison royale pour les pauvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:22 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-113",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:24",
+    "verseText": "Voir Esther 9:24.",
+    "question": "Dans Esther 9:24, comment Haman est-il désigné (filiation et origine) ?",
+    "choices": [
+      "Haman, fils d’Hammedatha, l’Agaguite",
+      "Haman, fils d’Abichaïl, le Benjamite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:24 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-114",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:25",
+    "verseText": "Voir Esther 9:25.",
+    "question": "Dans Esther 9:25, quelle tournure décrit l’effet de l’intervention royale contre le plan d’Haman ?",
+    "choices": [
+      "Le roi fit revenir sur sa tête la mauvaise pensée qu’il avait conçue contre les Juifs",
+      "Le roi confirma et accéléra la mauvaise pensée qu’il avait conçue contre les Juifs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:25 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-115",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:26",
+    "verseText": "Voir Esther 9:26.",
+    "question": "Dans Esther 9:26, d’où vient le nom « Purim » selon l’explication du texte ?",
+    "choices": [
+      "Du nom de pur, c’est-à-dire le sort",
+      "Du nom d’une province de Perse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:26 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-116",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:27",
+    "verseText": "Voir Esther 9:27.",
+    "question": "Dans Esther 9:27, quelle expression montre le caractère obligatoire et durable de cette institution ?",
+    "choices": [
+      "Ils s’imposèrent et imposèrent à leur postérité et à tous ceux qui se joindraient à eux, sans y manquer",
+      "Ils décidèrent de le faire seulement pendant une année"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:27 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-117",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:28",
+    "verseText": "Voir Esther 9:28.",
+    "question": "Dans Esther 9:28, quelle permanence est déclarée concernant Purim ?",
+    "choices": [
+      "Ces jours ne devaient pas être oubliés parmi les Juifs, et leur souvenir ne devait pas s’éteindre parmi leurs descendants",
+      "Ces jours devaient cesser après la mort d’Esther"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:28 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-118",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:29",
+    "verseText": "Voir Esther 9:29.",
+    "question": "Dans Esther 9:29, comment Esther est-elle présentée dans l’envoi de la lettre de confirmation ?",
+    "choices": [
+      "La reine Esther, fille d’Abichaïl",
+      "La reine Esther, fille de Vasthi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:29 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-119",
+    "book": "Esther",
+    "chapter": 9,
+    "verseRef": "Esther 9:30",
+    "verseText": "Voir Esther 9:30.",
+    "question": "Dans Esther 9:30, à qui Mardochée envoie-t-il les lettres de confirmation et dans quelle étendue ?",
+    "choices": [
+      "À tous les Juifs, dans les cent vingt-sept provinces du royaume d’Assuérus",
+      "À tous les Juifs, uniquement dans la province de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 9:30 (LSG 1910)."
+  },
+  {
+    "id": "EST-D-120",
+    "book": "Esther",
+    "chapter": 10,
+    "verseRef": "Esther 10:2",
+    "verseText": "Voir Esther 10:2.",
+    "question": "Dans Esther 10:2, où sont écrits les actes de la puissance du roi et la grandeur de Mardochée ?",
+    "choices": [
+      "Dans le livre des chroniques des rois de Médie et de Perse",
+      "Dans le livre des Juges d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 10:2 (LSG 1910)."
+  }
+]

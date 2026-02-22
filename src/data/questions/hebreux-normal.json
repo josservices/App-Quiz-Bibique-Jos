@@ -1,0 +1,2852 @@
+[
+  {
+    "id": "hebreux-N-001",
+    "book": "Hébreux",
+    "chapter": 1,
+    "verseRef": "Hébreux 1:2",
+    "verseText": "Voir Hébreux 1:2.",
+    "question": "Selon le texte, par qui Dieu nous a-t-il parlé « dans ces derniers temps » ?",
+    "choices": [
+      "Par les prophètes",
+      "Par le Fils",
+      "Par les anges"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 1:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-002",
+    "book": "Hébreux",
+    "chapter": 1,
+    "verseRef": "Hébreux 1:2",
+    "verseText": "Voir Hébreux 1:2.",
+    "question": "Quel rôle est attribué au Fils à propos de « toutes choses » ?",
+    "choices": [
+      "Il a été établi héritier de toutes choses",
+      "Il a été établi juge de toutes choses",
+      "Il a été établi témoin de toutes choses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 1:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-003",
+    "book": "Hébreux",
+    "chapter": 1,
+    "verseRef": "Hébreux 1:3",
+    "verseText": "Voir Hébreux 1:3.",
+    "question": "Quelle action est associée au Fils au sujet des péchés ?",
+    "choices": [
+      "Il a couvert les péchés par le sang des taureaux",
+      "Il a fait la purification des péchés",
+      "Il a oublié les péchés sans sacrifice"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 1:3 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-004",
+    "book": "Hébreux",
+    "chapter": 1,
+    "verseRef": "Hébreux 1:3",
+    "verseText": "Voir Hébreux 1:3.",
+    "question": "Où le Fils s’est-il assis après avoir fait la purification des péchés ?",
+    "choices": [
+      "À la gauche des anges",
+      "À la droite de la majesté divine dans les lieux très hauts",
+      "Sur le trône de David à Jérusalem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 1:3 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-005",
+    "book": "Hébreux",
+    "chapter": 1,
+    "verseRef": "Hébreux 1:6",
+    "verseText": "Voir Hébreux 1:6.",
+    "question": "Quel ordre est rapporté concernant les anges quand Dieu introduit de nouveau le premier-né dans le monde ?",
+    "choices": [
+      "Qu’ils le servent en silence",
+      "Qu’ils le jugent avec justice",
+      "Que tous les anges de Dieu l’adorent"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Hébreux 1:6 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-006",
+    "book": "Hébreux",
+    "chapter": 1,
+    "verseRef": "Hébreux 1:7",
+    "verseText": "Voir Hébreux 1:7.",
+    "question": "Comment sont décrits les anges dans une citation rapportée ?",
+    "choices": [
+      "Des rois couronnés d’or",
+      "Des vents, et des serviteurs une flamme de feu",
+      "Des prêtres vêtus de lin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 1:7 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-007",
+    "book": "Hébreux",
+    "chapter": 1,
+    "verseRef": "Hébreux 1:8",
+    "verseText": "Voir Hébreux 1:8.",
+    "question": "Quel objet est associé au règne du Fils dans une déclaration rapportée ?",
+    "choices": [
+      "Un sceptre d’équité",
+      "Une balance de cuivre",
+      "Une épée à deux tranchants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 1:8 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-008",
+    "book": "Hébreux",
+    "chapter": 1,
+    "verseRef": "Hébreux 1:9",
+    "verseText": "Voir Hébreux 1:9.",
+    "question": "Quel contraste est attribué au Fils au sujet de la justice et de l’iniquité ?",
+    "choices": [
+      "Il a aimé l’iniquité et haï la justice",
+      "Il a aimé la justice et haï l’iniquité",
+      "Il a ignoré la justice et l’iniquité"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 1:9 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-009",
+    "book": "Hébreux",
+    "chapter": 1,
+    "verseRef": "Hébreux 1:10",
+    "verseText": "Voir Hébreux 1:10.",
+    "question": "Quel élément est mentionné au sujet du Seigneur « au commencement » ?",
+    "choices": [
+      "Il a fondé la terre",
+      "Il a bâti le tabernacle",
+      "Il a dressé l’arche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 1:10 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-010",
+    "book": "Hébreux",
+    "chapter": 1,
+    "verseRef": "Hébreux 1:11",
+    "verseText": "Voir Hébreux 1:11.",
+    "question": "Quelle image est utilisée pour dire que les cieux vieilliront ?",
+    "choices": [
+      "Comme une fleur des champs",
+      "Comme un vêtement",
+      "Comme une pierre qui s’use"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 1:11 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-011",
+    "book": "Hébreux",
+    "chapter": 1,
+    "verseRef": "Hébreux 1:12",
+    "verseText": "Voir Hébreux 1:12.",
+    "question": "Quelle expression décrit la constance du Seigneur face au changement des cieux ?",
+    "choices": [
+      "Tu changes avec eux",
+      "Tu restes le même",
+      "Tu disparais avec eux"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 1:12 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-012",
+    "book": "Hébreux",
+    "chapter": 1,
+    "verseRef": "Hébreux 1:14",
+    "verseText": "Voir Hébreux 1:14.",
+    "question": "Que sont les anges selon la description finale du chapitre ?",
+    "choices": [
+      "Des esprits au service de Dieu envoyés pour exercer un ministère",
+      "Des hommes justifiés par la foi",
+      "Des prophètes suscités pour les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 1:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-013",
+    "book": "Hébreux",
+    "chapter": 1,
+    "verseRef": "Hébreux 1:14",
+    "verseText": "Voir Hébreux 1:14.",
+    "question": "Pour qui les anges sont-ils envoyés afin d’exercer un ministère ?",
+    "choices": [
+      "En faveur de ceux qui doivent hériter du salut",
+      "En faveur de ceux qui gardent la loi de Moïse",
+      "En faveur des rois de la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 1:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-014",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:1",
+    "verseText": "Voir Hébreux 2:1.",
+    "question": "Quelle attitude est demandée face aux choses entendues ?",
+    "choices": [
+      "Les rejeter pour avancer",
+      "S’y attacher d’autant plus",
+      "Les garder pour soi sans en parler"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 2:1 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-015",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:1",
+    "verseText": "Voir Hébreux 2:1.",
+    "question": "Quel danger est évoqué si l’on ne s’attache pas aux choses entendues ?",
+    "choices": [
+      "Être tenté au-delà des forces",
+      "Les laisser couler",
+      "Être haï de tous"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 2:1 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-016",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:3",
+    "verseText": "Voir Hébreux 2:3.",
+    "question": "Comment est qualifié le salut annoncé dans le passage ?",
+    "choices": [
+      "Un salut terrestre",
+      "Un si grand salut",
+      "Un salut provisoire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 2:3 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-017",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:4",
+    "verseText": "Voir Hébreux 2:4.",
+    "question": "Par quels moyens Dieu rend-il témoignage au salut annoncé ?",
+    "choices": [
+      "Par des songes répétés",
+      "Par des miracles, des prodiges, et divers miracles, et par les dons du Saint-Esprit",
+      "Par des armées et des victoires"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 2:4 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-018",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:5",
+    "verseText": "Voir Hébreux 2:5.",
+    "question": "À qui le monde à venir n’a-t-il pas été assujetti, selon le texte ?",
+    "choices": [
+      "Aux prophètes",
+      "Aux anges",
+      "Aux sacrificateurs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 2:5 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-019",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:9",
+    "verseText": "Voir Hébreux 2:9.",
+    "question": "Quelle expression décrit l’abaissement de Jésus par rapport aux anges ?",
+    "choices": [
+      "Élevé au-dessus des anges",
+      "Abaissé pour un peu de temps au-dessous des anges",
+      "Égal aux anges depuis toujours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 2:9 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-020",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:9",
+    "verseText": "Voir Hébreux 2:9.",
+    "question": "Pourquoi Jésus a-t-il souffert la mort, selon la formulation du texte ?",
+    "choices": [
+      "Afin de goûter la mort pour tous",
+      "Afin de fuir la croix",
+      "Afin de condamner les pécheurs sans appel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 2:9 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-021",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:10",
+    "verseText": "Voir Hébreux 2:10.",
+    "question": "Quel terme est employé pour désigner ceux que Jésus conduit ?",
+    "choices": [
+      "Des serviteurs",
+      "Beaucoup de fils",
+      "Des étrangers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 2:10 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-022",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:10",
+    "verseText": "Voir Hébreux 2:10.",
+    "question": "Comment est appelé Jésus dans l’expression « l’auteur de leur salut » ?",
+    "choices": [
+      "Rendu parfait par les souffrances",
+      "Rendu parfait par les œuvres de la loi",
+      "Rendu parfait par la sagesse des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 2:10 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-023",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:11",
+    "verseText": "Voir Hébreux 2:11.",
+    "question": "Quelle raison est donnée pour laquelle Jésus n’a pas honte d’appeler certains « frères » ?",
+    "choices": [
+      "Parce qu’ils sont sans péché",
+      "Parce que celui qui sanctifie et ceux qui sont sanctifiés sont tous issus d’un seul",
+      "Parce qu’ils ont offert beaucoup de sacrifices"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 2:11 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-024",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:14",
+    "verseText": "Voir Hébreux 2:14.",
+    "question": "Quelle action est mentionnée au sujet du diable par la mort de Jésus ?",
+    "choices": [
+      "Il l’a couronné",
+      "Il l’a anéanti quant à sa puissance sur la mort",
+      "Il l’a instruit dans la loi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 2:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-025",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:15",
+    "verseText": "Voir Hébreux 2:15.",
+    "question": "De quoi Jésus délivre-t-il ceux qui étaient retenus, selon le texte ?",
+    "choices": [
+      "De la faim quotidienne",
+      "De la crainte de la mort qui les rendait toute leur vie sujets à la servitude",
+      "Des persécutions des Romains"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 2:15 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-026",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:16",
+    "verseText": "Voir Hébreux 2:16.",
+    "question": "Quelle descendance est explicitement mentionnée comme étant secourue par Jésus ?",
+    "choices": [
+      "La descendance de David",
+      "La descendance d’Abraham",
+      "La descendance d’Aaron"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 2:16 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-027",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:17",
+    "verseText": "Voir Hébreux 2:17.",
+    "question": "Pourquoi Jésus a-t-il dû être rendu semblable à ses frères ?",
+    "choices": [
+      "Pour devenir roi sur Israël",
+      "Afin d’être un souverain sacrificateur miséricordieux et fidèle dans le service de Dieu",
+      "Afin d’éviter toute souffrance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 2:17 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-028",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:17",
+    "verseText": "Voir Hébreux 2:17.",
+    "question": "Dans quel but est mentionnée l’expiation dans le passage ?",
+    "choices": [
+      "Faire l’expiation des péchés du peuple",
+      "Faire l’expiation des fautes des anges",
+      "Faire l’expiation des erreurs des prophètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 2:17 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-029",
+    "book": "Hébreux",
+    "chapter": 2,
+    "verseRef": "Hébreux 2:18",
+    "verseText": "Voir Hébreux 2:18.",
+    "question": "Quelle capacité est attribuée à Jésus parce qu’il a souffert et a été tenté ?",
+    "choices": [
+      "Il peut aider ceux qui sont tentés",
+      "Il ne peut plus compatir",
+      "Il peut oublier ceux qui tombent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 2:18 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-030",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:1",
+    "verseText": "Voir Hébreux 3:1.",
+    "question": "Qui est appelé « l’apôtre et le souverain sacrificateur de la foi que nous professons » ?",
+    "choices": [
+      "Moïse",
+      "Jésus",
+      "Aaron"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 3:1 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-031",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:2",
+    "verseText": "Voir Hébreux 3:2.",
+    "question": "À qui Jésus est-il comparé pour sa fidélité ?",
+    "choices": [
+      "À Élie",
+      "À Moïse",
+      "À Josué"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 3:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-032",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:3",
+    "verseText": "Voir Hébreux 3:3.",
+    "question": "Quelle image illustre la supériorité de Jésus sur Moïse ?",
+    "choices": [
+      "Le serviteur plus honoré que le maître",
+      "Celui qui a construit la maison a plus d’honneur que la maison",
+      "Le soldat plus grand que le roi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 3:3 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-033",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:5",
+    "verseText": "Voir Hébreux 3:5.",
+    "question": "Comment Moïse est-il qualifié dans toute la maison ?",
+    "choices": [
+      "Comme fils",
+      "Comme serviteur",
+      "Comme juge"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 3:5 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-034",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:6",
+    "verseText": "Voir Hébreux 3:6.",
+    "question": "Comment Christ est-il qualifié par rapport à la maison ?",
+    "choices": [
+      "Comme serviteur dans la maison",
+      "Comme Fils sur sa maison",
+      "Comme étranger à la maison"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 3:6 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-035",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:6",
+    "verseText": "Voir Hébreux 3:6.",
+    "question": "Quelle condition est donnée pour être la maison de Christ ?",
+    "choices": [
+      "Garder seulement les fêtes",
+      "Retenir jusqu’à la fin l’assurance et la gloire de l’espérance",
+      "Offrir chaque jour un holocauste"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 3:6 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-036",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:7-8",
+    "verseText": "Voir Hébreux 3:7-8.",
+    "question": "Quel avertissement est donné concernant « aujourd’hui » ?",
+    "choices": [
+      "Endurcir votre cœur",
+      "Ne pas endurcir votre cœur",
+      "Se taire devant Dieu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 3:7-8 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-037",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:8-9",
+    "verseText": "Voir Hébreux 3:8-9.",
+    "question": "Quel événement est rappelé quand le peuple « tenta » Dieu ?",
+    "choices": [
+      "Le passage du Jourdain",
+      "La révolte au désert",
+      "La prise de Jéricho"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 3:8-9 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-038",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:11",
+    "verseText": "Voir Hébreux 3:11.",
+    "question": "Quel jugement divin est cité : « Ils n’entreront pas… » ?",
+    "choices": [
+      "Dans ma ville",
+      "Dans mon repos",
+      "Dans mon temple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 3:11 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-039",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:12",
+    "verseText": "Voir Hébreux 3:12.",
+    "question": "Contre quoi faut-il veiller afin de ne pas s’éloigner du Dieu vivant ?",
+    "choices": [
+      "Un cœur incrédule et mauvais",
+      "Une langue trop prompte",
+      "Une faiblesse du corps"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 3:12 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-040",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:13",
+    "verseText": "Voir Hébreux 3:13.",
+    "question": "Quel devoir mutuel est ordonné « chaque jour » ?",
+    "choices": [
+      "Se reprendre avec dureté",
+      "S’exhorter les uns les autres",
+      "Se juger publiquement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 3:13 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-041",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:13",
+    "verseText": "Voir Hébreux 3:13.",
+    "question": "Pourquoi faut-il s’exhorter chaque jour, selon le texte ?",
+    "choices": [
+      "Afin d’être honoré des hommes",
+      "Afin qu’aucun ne s’endurcisse par la séduction du péché",
+      "Afin de multiplier les rites"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 3:13 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-042",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:14",
+    "verseText": "Voir Hébreux 3:14.",
+    "question": "Quel critère est donné pour être « participants de Christ » ?",
+    "choices": [
+      "Offrir un sacrifice chaque année",
+      "Retenir fermement jusqu’à la fin l’assurance que nous avions au commencement",
+      "Ne jamais dormir la nuit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 3:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-043",
+    "book": "Hébreux",
+    "chapter": 3,
+    "verseRef": "Hébreux 3:16-19",
+    "verseText": "Voir Hébreux 3:16-19.",
+    "question": "Qui n’entrèrent pas dans le repos à cause de leur désobéissance ?",
+    "choices": [
+      "Ceux qui étaient sortis d’Égypte par Moïse",
+      "Ceux qui vivaient à Babylone",
+      "Ceux qui revinrent de l’exil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 3:16-19 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-044",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:1",
+    "verseText": "Voir Hébreux 4:1.",
+    "question": "Quelle crainte est recommandée au sujet de la promesse d’entrer dans le repos ?",
+    "choices": [
+      "Craindre qu’aucun ne paraisse être venu trop tard",
+      "Craindre de trop prier",
+      "Craindre de trop espérer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 4:1 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-045",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:2",
+    "verseText": "Voir Hébreux 4:2.",
+    "question": "Quel parallèle est fait entre eux et nous concernant une annonce ?",
+    "choices": [
+      "La bonne nouvelle a été annoncée à eux comme à nous",
+      "La loi seule a été annoncée à eux",
+      "Les visions seules ont été annoncées à nous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 4:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-046",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:2",
+    "verseText": "Voir Hébreux 4:2.",
+    "question": "Pourquoi la parole entendue ne leur servit-elle de rien ?",
+    "choices": [
+      "Parce qu’elle était trop obscure",
+      "Parce qu’elle ne trouva pas de la foi chez ceux qui l’entendirent",
+      "Parce qu’ils n’avaient pas de temple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 4:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-047",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:3",
+    "verseText": "Voir Hébreux 4:3.",
+    "question": "Qui entre dans le repos, selon l’affirmation du texte ?",
+    "choices": [
+      "Nous qui avons cru",
+      "Ceux qui se glorifient",
+      "Ceux qui se justifient par la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 4:3 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-048",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:4",
+    "verseText": "Voir Hébreux 4:4.",
+    "question": "Quel exemple de repos est évoqué dès l’achèvement des œuvres ?",
+    "choices": [
+      "Le repos au Sinaï",
+      "Le repos de Dieu le septième jour",
+      "Le repos du roi David"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 4:4 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-049",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:9",
+    "verseText": "Voir Hébreux 4:9.",
+    "question": "Quelle conclusion est donnée au sujet d’un « repos » pour le peuple de Dieu ?",
+    "choices": [
+      "Il n’existe plus aucun repos",
+      "Il y a donc un repos de sabbat réservé au peuple de Dieu",
+      "Le repos est réservé aux anges"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 4:9 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-050",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:10",
+    "verseText": "Voir Hébreux 4:10.",
+    "question": "Quelle conséquence est associée à l’entrée dans ce repos ?",
+    "choices": [
+      "Se reposer de ses œuvres, comme Dieu s’est reposé des siennes",
+      "Reprendre les œuvres de la loi",
+      "Cesser toute prière"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 4:10 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-051",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:11",
+    "verseText": "Voir Hébreux 4:11.",
+    "question": "Que faut-il faire pour entrer dans ce repos, selon l’exhortation ?",
+    "choices": [
+      "S’appliquer à y entrer",
+      "Attendre sans agir",
+      "Se fier à sa propre justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 4:11 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-052",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:11",
+    "verseText": "Voir Hébreux 4:11.",
+    "question": "Quel danger est mentionné si l’on ne s’applique pas à entrer dans le repos ?",
+    "choices": [
+      "Tomber dans la même désobéissance",
+      "Perdre ses biens",
+      "Être banni du pays"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 4:11 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-053",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:12",
+    "verseText": "Voir Hébreux 4:12.",
+    "question": "Comment est décrite la parole de Dieu ?",
+    "choices": [
+      "Vivante et efficace, plus tranchante qu’une épée quelconque à deux tranchants",
+      "Ancienne et silencieuse, plus lourde qu’un bouclier",
+      "Lointaine et voilée, plus douce qu’un parfum"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 4:12 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-054",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:12",
+    "verseText": "Voir Hébreux 4:12.",
+    "question": "Jusqu’où la parole de Dieu pénètre-t-elle, selon le texte ?",
+    "choices": [
+      "Jusqu’à la séparation de l’âme et de l’esprit, des jointures et des moelles",
+      "Jusqu’aux murailles de la ville",
+      "Jusqu’aux frontières des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 4:12 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-055",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:13",
+    "verseText": "Voir Hébreux 4:13.",
+    "question": "Devant qui « rien n’est caché » ?",
+    "choices": [
+      "Devant les hommes sages",
+      "Devant celui à qui nous devons rendre compte",
+      "Devant les anges seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 4:13 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-056",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:14",
+    "verseText": "Voir Hébreux 4:14.",
+    "question": "Quelle fonction est attribuée à Jésus dans l’exhortation qui suit ?",
+    "choices": [
+      "Un souverain sacrificateur qui a traversé les cieux",
+      "Un juge siégeant sur la terre",
+      "Un prophète du désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 4:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-057",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:14",
+    "verseText": "Voir Hébreux 4:14.",
+    "question": "Quelle attitude est recommandée vis-à-vis de la foi professée ?",
+    "choices": [
+      "L’abandonner par prudence",
+      "La retenir fermement",
+      "La cacher aux autres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 4:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-058",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:15",
+    "verseText": "Voir Hébreux 4:15.",
+    "question": "Quelle vérité est affirmée sur la capacité de Jésus à compatir ?",
+    "choices": [
+      "Il ne peut compatir à nos faiblesses",
+      "Il peut compatir à nos faiblesses, ayant été tenté comme nous en toutes choses, sans commettre de péché",
+      "Il a été tenté seulement une fois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 4:15 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-059",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:16",
+    "verseText": "Voir Hébreux 4:16.",
+    "question": "Quelle invitation est donnée concernant l’accès à Dieu ?",
+    "choices": [
+      "S’approcher avec crainte du feu",
+      "S’approcher avec assurance du trône de la grâce",
+      "S’éloigner pour rester pur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 4:16 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-060",
+    "book": "Hébreux",
+    "chapter": 4,
+    "verseRef": "Hébreux 4:16",
+    "verseText": "Voir Hébreux 4:16.",
+    "question": "Dans quel but s’approche-t-on du trône de la grâce, selon le texte ?",
+    "choices": [
+      "Obtenir la sagesse des hommes",
+      "Obtenir miséricorde et trouver grâce, pour être secourus dans nos besoins",
+      "Recevoir des richesses terrestres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Hébreux 4:16 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-061",
+    "book": "Hébreux",
+    "chapter": 5,
+    "verseRef": "Hébreux 5:11",
+    "verseText": "Voir Hébreux 5:11.",
+    "question": "Quel reproche est adressé concernant la compréhension du message ?",
+    "choices": [
+      "Vous êtes devenus lents à comprendre",
+      "Vous avez oublié toute la loi",
+      "Vous avez rejeté les prophètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 5:11 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-062",
+    "book": "Hébreux",
+    "chapter": 5,
+    "verseRef": "Hébreux 5:12",
+    "verseText": "Voir Hébreux 5:12.",
+    "question": "Selon le texte, que devraient être les destinataires « vu le temps » ?",
+    "choices": [
+      "Des docteurs",
+      "Des juges",
+      "Des rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 5:12 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-063",
+    "book": "Hébreux",
+    "chapter": 5,
+    "verseRef": "Hébreux 5:12",
+    "verseText": "Voir Hébreux 5:12.",
+    "question": "De quoi ont-ils de nouveau besoin, selon le passage ?",
+    "choices": [
+      "Qu’on leur enseigne les premiers rudiments des oracles de Dieu",
+      "Qu’on leur donne un nouveau sacerdoce lévitique",
+      "Qu’on leur apporte des visions nocturnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 5:12 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-064",
+    "book": "Hébreux",
+    "chapter": 5,
+    "verseRef": "Hébreux 5:12",
+    "verseText": "Voir Hébreux 5:12.",
+    "question": "À quoi sont-ils redevenus, selon la comparaison employée ?",
+    "choices": [
+      "À ceux qui ont besoin de lait",
+      "À ceux qui ont besoin de miel",
+      "À ceux qui ont besoin de vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 5:12 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-065",
+    "book": "Hébreux",
+    "chapter": 5,
+    "verseRef": "Hébreux 5:13",
+    "verseText": "Voir Hébreux 5:13.",
+    "question": "Qui est dit « incapable de la parole de justice » ?",
+    "choices": [
+      "Celui qui en est aux rudiments",
+      "Celui qui en est aux sacrifices",
+      "Celui qui parle en langues"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 5:13 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-066",
+    "book": "Hébreux",
+    "chapter": 5,
+    "verseRef": "Hébreux 5:14",
+    "verseText": "Voir Hébreux 5:14.",
+    "question": "À qui appartient la « nourriture solide » ?",
+    "choices": [
+      "Aux hommes faits",
+      "Aux enfants",
+      "Aux nouveaux convertis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 5:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-067",
+    "book": "Hébreux",
+    "chapter": 5,
+    "verseRef": "Hébreux 5:14",
+    "verseText": "Voir Hébreux 5:14.",
+    "question": "Quel exercice est attribué aux hommes faits ?",
+    "choices": [
+      "Des sens exercés à discerner le bien et le mal",
+      "Des mains exercées au combat",
+      "Des yeux exercés aux songes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 5:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-068",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:1",
+    "verseText": "Voir Hébreux 6:1.",
+    "question": "Quel appel est donné après avoir mentionné la doctrine élémentaire ?",
+    "choices": [
+      "Tendre à ce qui est parfait",
+      "Revenir sans cesse aux mêmes sacrifices",
+      "Se taire devant les hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:1 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-069",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:1",
+    "verseText": "Voir Hébreux 6:1.",
+    "question": "Quel élément est cité parmi les « fondements » à ne pas poser de nouveau ?",
+    "choices": [
+      "La repentance des œuvres mortes",
+      "L’ordination des rois",
+      "La construction du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:1 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-070",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:1",
+    "verseText": "Voir Hébreux 6:1.",
+    "question": "Quel autre fondement est cité avec la repentance ?",
+    "choices": [
+      "La foi en Dieu",
+      "La foi en les anges",
+      "La foi en la sagesse humaine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:1 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-071",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:2",
+    "verseText": "Voir Hébreux 6:2.",
+    "question": "Quel sujet est listé parmi les doctrines mentionnées ?",
+    "choices": [
+      "Des baptêmes",
+      "Des pèlerinages",
+      "Des dîmes des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-072",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:2",
+    "verseText": "Voir Hébreux 6:2.",
+    "question": "Quel acte est mentionné dans cette liste doctrinale ?",
+    "choices": [
+      "L’imposition des mains",
+      "L’onction des rois",
+      "L’offrande d’encens au matin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-073",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:2",
+    "verseText": "Voir Hébreux 6:2.",
+    "question": "Quel événement futur est cité dans la liste ?",
+    "choices": [
+      "La résurrection des morts",
+      "La reconstruction de Jérusalem",
+      "Le retour d’Élie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-074",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:2",
+    "verseText": "Voir Hébreux 6:2.",
+    "question": "Quel thème accompagne la résurrection des morts dans la liste ?",
+    "choices": [
+      "Le jugement éternel",
+      "Le règne terrestre",
+      "La paix des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-075",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:4-6",
+    "verseText": "Voir Hébreux 6:4-6.",
+    "question": "Quelle condition est évoquée dans l’avertissement sur ceux qui sont tombés ?",
+    "choices": [
+      "Il est impossible de les renouveler encore à la repentance",
+      "Il est facile de les rétablir par des sacrifices",
+      "Il suffit de les instruire une seconde fois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:4-6 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-076",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:6",
+    "verseText": "Voir Hébreux 6:6.",
+    "question": "Quelle action est décrite à propos du Fils de Dieu dans cet avertissement ?",
+    "choices": [
+      "Ils le crucifient pour leur part de nouveau",
+      "Ils le bénissent publiquement",
+      "Ils le proclament roi sur la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:6 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-077",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:7",
+    "verseText": "Voir Hébreux 6:7.",
+    "question": "Quelle image décrit une terre qui reçoit souvent la pluie et produit une végétation utile ?",
+    "choices": [
+      "Elle reçoit une bénédiction de Dieu",
+      "Elle reçoit un blâme des hommes",
+      "Elle reçoit une malédiction sans appel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:7 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-078",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:8",
+    "verseText": "Voir Hébreux 6:8.",
+    "question": "Que produit la terre jugée proche de la malédiction ?",
+    "choices": [
+      "Des épines et des ronces",
+      "Des vignes et des figuiers",
+      "Du froment et de l’orge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:8 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-079",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:9",
+    "verseText": "Voir Hébreux 6:9.",
+    "question": "Quelle attitude confiante est exprimée malgré l’avertissement ?",
+    "choices": [
+      "Des choses meilleures et relatives au salut",
+      "Des choses incertaines et passagères",
+      "Des choses cachées aux hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:9 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-080",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:10",
+    "verseText": "Voir Hébreux 6:10.",
+    "question": "Qu’est-ce que Dieu n’est pas présenté comme oubliant ?",
+    "choices": [
+      "Votre œuvre et l’amour que vous avez montré pour son nom",
+      "Votre richesse et votre influence",
+      "Votre origine et votre savoir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:10 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-081",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:10",
+    "verseText": "Voir Hébreux 6:10.",
+    "question": "Comment est décrit le service rendu aux saints ?",
+    "choices": [
+      "Vous avez assisté les saints, et vous les assistez encore",
+      "Vous avez condamné les saints, et vous les condamnez encore",
+      "Vous avez ignoré les saints, et vous les ignorez encore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:10 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-082",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:11",
+    "verseText": "Voir Hébreux 6:11.",
+    "question": "Quelle qualité est souhaitée « jusqu’à la fin » ?",
+    "choices": [
+      "Le même zèle pour conserver une pleine espérance",
+      "La même crainte de l’avenir",
+      "La même indifférence aux promesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:11 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-083",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:12",
+    "verseText": "Voir Hébreux 6:12.",
+    "question": "Quel défaut est rejeté pour les destinataires ?",
+    "choices": [
+      "La nonchalance",
+      "La générosité",
+      "La patience"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:12 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-084",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:12",
+    "verseText": "Voir Hébreux 6:12.",
+    "question": "Qui sont donnés comme modèles à imiter ?",
+    "choices": [
+      "Ceux qui, par la foi et la persévérance, héritent des promesses",
+      "Ceux qui, par la force, prennent les royaumes",
+      "Ceux qui, par la ruse, dominent les peuples"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:12 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-085",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:13",
+    "verseText": "Voir Hébreux 6:13.",
+    "question": "Sur qui Dieu est-il dit avoir fait une promesse dans l’exemple mentionné ?",
+    "choices": [
+      "Abraham",
+      "Moïse",
+      "David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:13 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-086",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:13",
+    "verseText": "Voir Hébreux 6:13.",
+    "question": "Par qui Dieu a-t-il juré dans cet exemple ?",
+    "choices": [
+      "Par lui-même",
+      "Par les anges",
+      "Par la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:13 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-087",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:14",
+    "verseText": "Voir Hébreux 6:14.",
+    "question": "Quelle formule résume le contenu du serment divin cité ?",
+    "choices": [
+      "Je te bénirai et je multiplierai ta postérité",
+      "Je te donnerai un trône sur la terre",
+      "Je te ferai connaître tous les mystères"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-088",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:15",
+    "verseText": "Voir Hébreux 6:15.",
+    "question": "Après quoi Abraham obtint-il l’effet de la promesse ?",
+    "choices": [
+      "Après avoir attendu avec patience",
+      "Après avoir offert un holocauste quotidien",
+      "Après avoir bâti un temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:15 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-089",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:16",
+    "verseText": "Voir Hébreux 6:16.",
+    "question": "Quel principe est posé sur le serment chez les hommes ?",
+    "choices": [
+      "Ils jurent par celui qui est plus grand qu’eux",
+      "Ils jurent par eux-mêmes uniquement",
+      "Ils ne jurent jamais pour confirmer une parole"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:16 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-090",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:16",
+    "verseText": "Voir Hébreux 6:16.",
+    "question": "À quoi le serment met-il fin, selon le texte ?",
+    "choices": [
+      "À toute contestation",
+      "À toute prière",
+      "À toute souffrance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:16 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-091",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:17",
+    "verseText": "Voir Hébreux 6:17.",
+    "question": "Que voulait montrer Dieu plus clairement aux héritiers de la promesse ?",
+    "choices": [
+      "L’immutabilité de sa résolution",
+      "L’incertitude de son dessein",
+      "La fragilité de sa parole"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:17 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-092",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:17",
+    "verseText": "Voir Hébreux 6:17.",
+    "question": "Par quoi Dieu est-il intervenu pour cela ?",
+    "choices": [
+      "Par un serment",
+      "Par un silence",
+      "Par des songes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:17 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-093",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:18",
+    "verseText": "Voir Hébreux 6:18.",
+    "question": "Quel double fondement est présenté comme rendant impossible le mensonge de Dieu ?",
+    "choices": [
+      "Deux choses immuables",
+      "Deux tables de pierre",
+      "Deux sacrifices annuels"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:18 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-094",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:19",
+    "verseText": "Voir Hébreux 6:19.",
+    "question": "Quelle description est donnée de l’espérance des croyants ?",
+    "choices": [
+      "Une ancre de l’âme, sûre et solide",
+      "Une épée de l’esprit, brillante et forte",
+      "Une couronne d’or, lourde et rare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:19 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-095",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:19",
+    "verseText": "Voir Hébreux 6:19.",
+    "question": "Où cette espérance pénètre-t-elle, selon le texte ?",
+    "choices": [
+      "Au delà du voile",
+      "Dans le parvis extérieur",
+      "Dans la mer profonde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:19 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-096",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:20",
+    "verseText": "Voir Hébreux 6:20.",
+    "question": "Qui est entré comme précurseur pour nous ?",
+    "choices": [
+      "Jésus",
+      "Aaron",
+      "Élie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:20 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-097",
+    "book": "Hébreux",
+    "chapter": 6,
+    "verseRef": "Hébreux 6:20",
+    "verseText": "Voir Hébreux 6:20.",
+    "question": "Selon quel ordre Jésus est-il devenu souverain sacrificateur pour toujours ?",
+    "choices": [
+      "Selon l’ordre de Melchisédek",
+      "Selon l’ordre d’Aaron",
+      "Selon l’ordre de Lévi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 6:20 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-098",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:1",
+    "verseText": "Voir Hébreux 7:1.",
+    "question": "Quelle caractéristique est donnée à Melchisédek dans sa rencontre avec Abraham ?",
+    "choices": [
+      "Il était roi de Salem et sacrificateur du Dieu Très-Haut",
+      "Il était roi de Babylone et prophète des nations",
+      "Il était chef de guerre et juge d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:1 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-099",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:1",
+    "verseText": "Voir Hébreux 7:1.",
+    "question": "Que faisait Melchisédek lorsqu’il rencontra Abraham ?",
+    "choices": [
+      "Il le bénit",
+      "Il le condamna",
+      "Il le chassa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:1 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-100",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:2",
+    "verseText": "Voir Hébreux 7:2.",
+    "question": "Que donna Abraham à Melchisédek, selon le texte ?",
+    "choices": [
+      "La dîme de tout",
+      "Un agneau sans défaut",
+      "Un encensoir d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-101",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:2",
+    "verseText": "Voir Hébreux 7:2.",
+    "question": "Quelle interprétation est donnée au nom « Melchisédek » ?",
+    "choices": [
+      "Roi de justice",
+      "Roi de puissance",
+      "Roi de paix seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-102",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:2",
+    "verseText": "Voir Hébreux 7:2.",
+    "question": "Quelle autre interprétation est associée à « roi de Salem » ?",
+    "choices": [
+      "Roi de paix",
+      "Roi de gloire",
+      "Roi des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-103",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:3",
+    "verseText": "Voir Hébreux 7:3.",
+    "question": "Comment est décrit Melchisédek quant à sa généalogie dans l’argumentation ?",
+    "choices": [
+      "Sans père, sans mère, sans généalogie",
+      "De la tribu de Juda, sans défaut",
+      "Fils d’Aaron, établi par la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:3 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-104",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:3",
+    "verseText": "Voir Hébreux 7:3.",
+    "question": "Comment est décrite sa durée, selon la formule employée ?",
+    "choices": [
+      "Il demeure sacrificateur à perpétuité",
+      "Il sert seulement une année",
+      "Il cesse après un temps"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:3 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-105",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:4",
+    "verseText": "Voir Hébreux 7:4.",
+    "question": "Quel constat est demandé sur la grandeur de Melchisédek ?",
+    "choices": [
+      "Abraham lui donna la dîme du butin",
+      "Il vainquit Abraham au combat",
+      "Il reçut l’arche de l’alliance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:4 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-106",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:5",
+    "verseText": "Voir Hébreux 7:5.",
+    "question": "Qui reçoit la dîme selon la loi dans l’exemple rappelé ?",
+    "choices": [
+      "Les fils de Lévi qui exercent le sacerdoce",
+      "Les fils de Juda qui jugent le peuple",
+      "Les fils de Benjamin qui gardent les portes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:5 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-107",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:10",
+    "verseText": "Voir Hébreux 7:10.",
+    "question": "Quelle relation est précisée entre Lévi et Abraham dans l’argumentation ?",
+    "choices": [
+      "Lévi était encore dans les reins de son père",
+      "Lévi était déjà souverain sacrificateur",
+      "Lévi était roi de Salem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:10 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-108",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:11",
+    "verseText": "Voir Hébreux 7:11.",
+    "question": "Quelle question logique est posée à propos de la perfection ?",
+    "choices": [
+      "Si la perfection avait été possible par le sacerdoce lévitique, quel besoin y aurait-il eu d’un autre sacrificateur ?",
+      "Si la loi était donnée, pourquoi prier ?",
+      "Si Abraham a cru, pourquoi parler ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:11 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-109",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:12",
+    "verseText": "Voir Hébreux 7:12.",
+    "question": "Quel changement est affirmé quand il y a changement de sacerdoce ?",
+    "choices": [
+      "Il y a nécessairement aussi un changement de loi",
+      "Il n’y a jamais de changement de loi",
+      "Il y a seulement un changement de temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:12 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-110",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:14",
+    "verseText": "Voir Hébreux 7:14.",
+    "question": "De quelle tribu vient celui dont il est parlé, selon la précision ?",
+    "choices": [
+      "De Juda",
+      "De Lévi",
+      "De Siméon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-111",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:14",
+    "verseText": "Voir Hébreux 7:14.",
+    "question": "Quelle particularité est donnée sur la participation de cette tribu au service de l’autel ?",
+    "choices": [
+      "Moïse n’a rien dit concernant des sacrificateurs issus de cette tribu",
+      "Moïse a établi cette tribu seule pour l’autel",
+      "Cette tribu portait l’arche au désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-112",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:16",
+    "verseText": "Voir Hébreux 7:16.",
+    "question": "Sur quel fondement est décrit l’établissement du nouveau sacrificateur ?",
+    "choices": [
+      "Non selon une loi charnelle, mais selon la puissance d’une vie impérissable",
+      "Selon une loi de sacrifices annuels, mais sans serment",
+      "Selon la sagesse des nations, mais sans promesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:16 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-113",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:17",
+    "verseText": "Voir Hébreux 7:17.",
+    "question": "Quelle déclaration est citée pour appuyer ce sacerdoce ?",
+    "choices": [
+      "Tu es sacrificateur pour toujours, selon l’ordre de Melchisédek",
+      "Tu es prophète pour un temps, selon l’ordre d’Aaron",
+      "Tu es juge de la terre, selon l’ordre de Lévi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:17 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-114",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:18",
+    "verseText": "Voir Hébreux 7:18.",
+    "question": "Quel jugement est porté sur l’ordonnance précédente ?",
+    "choices": [
+      "Elle est abrogée à cause de son impuissance et de son inutilité",
+      "Elle est confirmée à cause de sa force",
+      "Elle est exaltée au-dessus de toute promesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:18 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-115",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:19",
+    "verseText": "Voir Hébreux 7:19.",
+    "question": "Quelle affirmation est donnée sur la loi selon Hébreux 7:19 ?",
+    "choices": [
+      "La loi n’a rien amené à la perfection",
+      "La loi a tout amené à la perfection",
+      "La loi a supprimé le besoin d’espérance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:19 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-116",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:19",
+    "verseText": "Voir Hébreux 7:19.",
+    "question": "Quel avantage est introduit avec ce changement, selon le texte ?",
+    "choices": [
+      "Une meilleure espérance, par laquelle nous nous approchons de Dieu",
+      "Une crainte plus grande, par laquelle nous fuyons Dieu",
+      "Une ignorance plus profonde, par laquelle nous oubliions Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:19 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-117",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:20-21",
+    "verseText": "Voir Hébreux 7:20-21.",
+    "question": "Quelle différence est signalée entre les sacrificateurs et Jésus quant à l’établissement ?",
+    "choices": [
+      "Jésus l’a été avec serment",
+      "Jésus l’a été sans aucune parole",
+      "Jésus l’a été par l’huile d’onction seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:20-21 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-118",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:22",
+    "verseText": "Voir Hébreux 7:22.",
+    "question": "Quel résultat est attribué à Jésus par rapport à une alliance ?",
+    "choices": [
+      "Il est devenu le garant d’une alliance plus excellente",
+      "Il est devenu le témoin d’une alliance terrestre",
+      "Il est devenu le juge d’une alliance périssable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:22 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-119",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:23",
+    "verseText": "Voir Hébreux 7:23.",
+    "question": "Pourquoi y a-t-il eu plusieurs sacrificateurs dans l’ancien ordre ?",
+    "choices": [
+      "Parce que la mort les empêchait d’être permanents",
+      "Parce qu’ils refusaient d’enseigner",
+      "Parce qu’ils quittaient le pays"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:23 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-120",
+    "book": "Hébreux",
+    "chapter": 7,
+    "verseRef": "Hébreux 7:24",
+    "verseText": "Voir Hébreux 7:24.",
+    "question": "Quel trait est attribué à Jésus qui fonde la permanence de son sacerdoce ?",
+    "choices": [
+      "Il demeure éternellement",
+      "Il change chaque génération",
+      "Il sert seulement au désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 7:24 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-121",
+    "book": "Hébreux",
+    "chapter": 10,
+    "verseRef": "Hébreux 10:34",
+    "verseText": "Voir Hébreux 10:34.",
+    "question": "Quel acte de solidarité est mentionné envers les prisonniers ?",
+    "choices": [
+      "Vous avez eu de la compassion pour les prisonniers",
+      "Vous avez racheté les prisonniers par de l’argent",
+      "Vous avez dénoncé les prisonniers devant les juges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 10:34 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-122",
+    "book": "Hébreux",
+    "chapter": 10,
+    "verseRef": "Hébreux 10:34",
+    "verseText": "Voir Hébreux 10:34.",
+    "question": "Comment est décrite la réaction face à l’enlèvement des biens ?",
+    "choices": [
+      "Vous l’avez accepté avec joie",
+      "Vous l’avez subi avec amertume",
+      "Vous l’avez nié publiquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 10:34 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-123",
+    "book": "Hébreux",
+    "chapter": 10,
+    "verseRef": "Hébreux 10:34",
+    "verseText": "Voir Hébreux 10:34.",
+    "question": "Quelle possession est dite « meilleure » et « permanente » ?",
+    "choices": [
+      "Une possession dans les cieux",
+      "Une possession en Canaan",
+      "Une possession dans le désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 10:34 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-124",
+    "book": "Hébreux",
+    "chapter": 10,
+    "verseRef": "Hébreux 10:35",
+    "verseText": "Voir Hébreux 10:35.",
+    "question": "Que ne faut-il pas abandonner, selon l’exhortation ?",
+    "choices": [
+      "Votre assurance",
+      "Votre mémoire",
+      "Votre force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 10:35 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-125",
+    "book": "Hébreux",
+    "chapter": 10,
+    "verseRef": "Hébreux 10:35",
+    "verseText": "Voir Hébreux 10:35.",
+    "question": "Quel résultat est attaché à cette assurance ?",
+    "choices": [
+      "Une grande rémunération",
+      "Un repos terrestre",
+      "Une domination sur les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 10:35 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-126",
+    "book": "Hébreux",
+    "chapter": 10,
+    "verseRef": "Hébreux 10:36",
+    "verseText": "Voir Hébreux 10:36.",
+    "question": "De quoi avez-vous besoin, selon le texte ?",
+    "choices": [
+      "De persévérance",
+      "De richesses",
+      "De silence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 10:36 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-127",
+    "book": "Hébreux",
+    "chapter": 10,
+    "verseRef": "Hébreux 10:36",
+    "verseText": "Voir Hébreux 10:36.",
+    "question": "Après avoir accompli la volonté de Dieu, que doit-on obtenir ?",
+    "choices": [
+      "Ce qui vous est promis",
+      "La gloire des hommes",
+      "La sagesse des rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 10:36 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-128",
+    "book": "Hébreux",
+    "chapter": 10,
+    "verseRef": "Hébreux 10:37",
+    "verseText": "Voir Hébreux 10:37.",
+    "question": "Quel horizon temporel est donné pour la venue annoncée ?",
+    "choices": [
+      "Encore un peu, un peu de temps",
+      "Dans plusieurs générations",
+      "À la fin des sacrifices de Moïse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 10:37 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-129",
+    "book": "Hébreux",
+    "chapter": 10,
+    "verseRef": "Hébreux 10:38",
+    "verseText": "Voir Hébreux 10:38.",
+    "question": "Comment est décrite l’attitude du « juste » dans le passage ?",
+    "choices": [
+      "Il vivra par la foi",
+      "Il vivra par la loi",
+      "Il vivra par la force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 10:38 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-130",
+    "book": "Hébreux",
+    "chapter": 10,
+    "verseRef": "Hébreux 10:38",
+    "verseText": "Voir Hébreux 10:38.",
+    "question": "Que dit le texte au sujet de celui qui se retire ?",
+    "choices": [
+      "Mon âme ne prend pas plaisir en lui",
+      "Mon âme le couronne de gloire",
+      "Mon âme l’oublie sans jugement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 10:38 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-131",
+    "book": "Hébreux",
+    "chapter": 10,
+    "verseRef": "Hébreux 10:39",
+    "verseText": "Voir Hébreux 10:39.",
+    "question": "À quelle catégorie le texte dit-il que « nous » n’appartenons pas ?",
+    "choices": [
+      "À ceux qui se retirent pour se perdre",
+      "À ceux qui combattent avec l’épée",
+      "À ceux qui gardent les sacrifices lévitiques"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 10:39 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-132",
+    "book": "Hébreux",
+    "chapter": 10,
+    "verseRef": "Hébreux 10:39",
+    "verseText": "Voir Hébreux 10:39.",
+    "question": "À quelle catégorie le texte dit-il que « nous » appartenons ?",
+    "choices": [
+      "À ceux qui ont la foi pour sauver leur âme",
+      "À ceux qui ont la science pour dominer la terre",
+      "À ceux qui ont la force pour vaincre les rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 10:39 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-133",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:1",
+    "verseText": "Voir Hébreux 11:1.",
+    "question": "Comment la foi est-elle définie dans le passage ?",
+    "choices": [
+      "Une ferme assurance des choses qu’on espère",
+      "Une simple opinion sur l’avenir",
+      "Une tradition transmise sans preuve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:1 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-134",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:1",
+    "verseText": "Voir Hébreux 11:1.",
+    "question": "Quel autre aspect est associé à la foi dans la définition ?",
+    "choices": [
+      "Une démonstration de celles qu’on ne voit pas",
+      "Un souvenir de celles qu’on a vues",
+      "Une preuve de celles qu’on possède déjà"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:1 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-135",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:2",
+    "verseText": "Voir Hébreux 11:2.",
+    "question": "Quel résultat les anciens ont-ils obtenu par la foi ?",
+    "choices": [
+      "Un témoignage favorable",
+      "Un trône sur Israël",
+      "Une exemption de toute épreuve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-136",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:3",
+    "verseText": "Voir Hébreux 11:3.",
+    "question": "Que comprenons-nous par la foi au sujet du monde ?",
+    "choices": [
+      "Qu’il a été formé par la parole de Dieu",
+      "Qu’il a été formé par les anges",
+      "Qu’il a été formé par la sagesse des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:3 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-137",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:3",
+    "verseText": "Voir Hébreux 11:3.",
+    "question": "Quel contraste est énoncé sur l’origine du visible ?",
+    "choices": [
+      "Ce qu’on voit n’a pas été fait de choses visibles",
+      "Ce qu’on voit a été fait de choses visibles",
+      "Ce qu’on voit a été fait de bois et de pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:3 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-138",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:4",
+    "verseText": "Voir Hébreux 11:4.",
+    "question": "Quel patriarche est dit avoir offert « un plus excellent sacrifice » ?",
+    "choices": [
+      "Abel",
+      "Caïn",
+      "Seth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:4 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-139",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:4",
+    "verseText": "Voir Hébreux 11:4.",
+    "question": "Quelle conséquence est attribuée à cette offrande ?",
+    "choices": [
+      "Il obtint le témoignage d’être juste",
+      "Il obtint un royaume terrestre",
+      "Il obtint la gloire parmi les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:4 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-140",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:4",
+    "verseText": "Voir Hébreux 11:4.",
+    "question": "Quel fait est affirmé sur Abel malgré sa mort ?",
+    "choices": [
+      "Il parle encore",
+      "Il règne encore",
+      "Il combat encore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:4 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-141",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:5",
+    "verseText": "Voir Hébreux 11:5.",
+    "question": "Quel homme est dit avoir été enlevé pour qu’il ne vît point la mort ?",
+    "choices": [
+      "Hénoc",
+      "Noé",
+      "Abraham"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:5 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-142",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:5",
+    "verseText": "Voir Hébreux 11:5.",
+    "question": "Que dit le texte au sujet de la raison de son enlèvement ?",
+    "choices": [
+      "Il avait reçu le témoignage d’avoir été agréable à Dieu",
+      "Il avait construit un autel d’or",
+      "Il avait vaincu des rois par l’épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:5 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-143",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:6",
+    "verseText": "Voir Hébreux 11:6.",
+    "question": "Sans quoi est-il impossible d’être agréable à Dieu ?",
+    "choices": [
+      "Sans la foi",
+      "Sans la circoncision",
+      "Sans les sacrifices de taureaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:6 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-144",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:6",
+    "verseText": "Voir Hébreux 11:6.",
+    "question": "Que doit croire celui qui s’approche de Dieu ?",
+    "choices": [
+      "Que Dieu existe",
+      "Que Dieu change sans cesse",
+      "Que Dieu n’agit plus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:6 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-145",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:6",
+    "verseText": "Voir Hébreux 11:6.",
+    "question": "Quelle autre conviction est exigée au sujet de Dieu ?",
+    "choices": [
+      "Il est le rémunérateur de ceux qui le cherchent",
+      "Il oublie ceux qui le cherchent",
+      "Il condamne ceux qui le cherchent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:6 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-146",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:7",
+    "verseText": "Voir Hébreux 11:7.",
+    "question": "Quel homme est dit avoir construit une arche « divinement averti » ?",
+    "choices": [
+      "Noé",
+      "Loth",
+      "Jacob"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:7 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-147",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:7",
+    "verseText": "Voir Hébreux 11:7.",
+    "question": "Dans quel but Noé construisit-il l’arche selon le texte ?",
+    "choices": [
+      "Pour le salut de sa famille",
+      "Pour conquérir une ville",
+      "Pour offrir un sacrifice quotidien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:7 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-148",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:7",
+    "verseText": "Voir Hébreux 11:7.",
+    "question": "Quel double effet est attribué à l’acte de Noé ?",
+    "choices": [
+      "Il condamna le monde et devint héritier de la justice qui s’obtient par la foi",
+      "Il abolît la loi et devint roi des nations",
+      "Il effaça le jugement et devint maître des anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:7 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-149",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:8",
+    "verseText": "Voir Hébreux 11:8.",
+    "question": "Quel patriarche est dit avoir obéi en partant « sans savoir où il allait » ?",
+    "choices": [
+      "Abraham",
+      "Isaac",
+      "Ésaü"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:8 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-150",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:9",
+    "verseText": "Voir Hébreux 11:9.",
+    "question": "Comment Abraham séjourna-t-il dans la terre promise ?",
+    "choices": [
+      "Comme dans une terre étrangère, demeurant sous des tentes",
+      "Comme roi, demeurant dans un palais",
+      "Comme sacrificateur, demeurant au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:9 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-151",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:9",
+    "verseText": "Voir Hébreux 11:9.",
+    "question": "Avec qui Abraham demeurait-il sous des tentes selon le texte ?",
+    "choices": [
+      "Avec Isaac et Jacob, héritiers avec lui de la même promesse",
+      "Avec Aaron et Moïse, héritiers de la loi",
+      "Avec David et Salomon, héritiers du trône"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:9 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-152",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:10",
+    "verseText": "Voir Hébreux 11:10.",
+    "question": "Qu’attendait Abraham selon le texte ?",
+    "choices": [
+      "La cité qui a de solides fondements",
+      "La cité de Babylone",
+      "La cité de Ninive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:10 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-153",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:10",
+    "verseText": "Voir Hébreux 11:10.",
+    "question": "Qui est présenté comme architecte et constructeur de cette cité ?",
+    "choices": [
+      "Dieu",
+      "Abraham",
+      "Moïse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:10 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-154",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:11",
+    "verseText": "Voir Hébreux 11:11.",
+    "question": "Par la foi, quelle capacité fut donnée à Sara ?",
+    "choices": [
+      "De former une postérité, malgré son âge avancé",
+      "De renverser des royaumes, malgré sa faiblesse",
+      "D’enseigner la loi, malgré son ignorance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:11 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-155",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:11",
+    "verseText": "Voir Hébreux 11:11.",
+    "question": "Quelle raison est donnée pour cette capacité accordée à Sara ?",
+    "choices": [
+      "Elle crut à la fidélité de celui qui avait fait la promesse",
+      "Elle vit la mer s’ouvrir devant elle",
+      "Elle reçut la dîme d’Abraham"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:11 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-156",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:12",
+    "verseText": "Voir Hébreux 11:12.",
+    "question": "Comment est décrite la multitude issue d’un seul homme « déjà usé de corps » ?",
+    "choices": [
+      "Comme les étoiles du ciel, et comme le sable du bord de la mer",
+      "Comme les arbres de la montagne, et comme l’herbe des champs",
+      "Comme les oiseaux du ciel, et comme les poissons de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:12 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-157",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:13",
+    "verseText": "Voir Hébreux 11:13.",
+    "question": "Comment ces personnes sont-elles mortes selon le texte ?",
+    "choices": [
+      "Dans la foi, sans avoir obtenu les choses promises",
+      "Dans la paix, ayant tout possédé",
+      "Dans la gloire, sans avoir jamais attendu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:13 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-158",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:13",
+    "verseText": "Voir Hébreux 11:13.",
+    "question": "Que faisaient-elles vis-à-vis des promesses ?",
+    "choices": [
+      "Elles les voyaient et les saluaient de loin",
+      "Elles les méprisaient et les rejetaient",
+      "Elles les possédaient déjà pleinement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:13 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-159",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:13",
+    "verseText": "Voir Hébreux 11:13.",
+    "question": "Comment se qualifiaient-elles elles-mêmes sur la terre ?",
+    "choices": [
+      "Étrangers et voyageurs",
+      "Rois et princes",
+      "Juges et sacrificateurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:13 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-160",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:14",
+    "verseText": "Voir Hébreux 11:14.",
+    "question": "Que cherchent ceux qui parlent ainsi ?",
+    "choices": [
+      "Une patrie",
+      "Une vengeance",
+      "Une richesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-161",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:15",
+    "verseText": "Voir Hébreux 11:15.",
+    "question": "Si ces croyants avaient pensé au pays qu’ils avaient quitté, qu’auraient-ils eu ?",
+    "choices": [
+      "Le temps d’y retourner",
+      "La force de le détruire",
+      "Le droit d’y régner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:15 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-162",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:16",
+    "verseText": "Voir Hébreux 11:16.",
+    "question": "Quelle patrie est dite « meilleure » dans le passage ?",
+    "choices": [
+      "Une patrie céleste",
+      "Une patrie terrestre",
+      "Une patrie cachée au désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:16 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-163",
+    "book": "Hébreux",
+    "chapter": 11,
+    "verseRef": "Hébreux 11:16",
+    "verseText": "Voir Hébreux 11:16.",
+    "question": "Pourquoi Dieu n’a-t-il pas honte d’être appelé leur Dieu ?",
+    "choices": [
+      "Il leur a préparé une cité",
+      "Il leur a donné un trône visible",
+      "Il leur a promis une victoire militaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:16 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-164",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:1",
+    "verseText": "Voir Hébreux 12:1.",
+    "question": "Quel effet produit la « nuée de témoins » sur l’exhortation ?",
+    "choices": [
+      "Courir avec persévérance l’épreuve qui nous est proposée",
+      "S’asseoir dans le repos sans lutte",
+      "Se retirer loin des combats"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:1 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-165",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:1",
+    "verseText": "Voir Hébreux 12:1.",
+    "question": "Que faut-il rejeter pour courir cette course ?",
+    "choices": [
+      "Tout fardeau et le péché qui nous enveloppe si facilement",
+      "Tout travail et toute parole",
+      "Toute espérance et toute promesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:1 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-166",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:2",
+    "verseText": "Voir Hébreux 12:2.",
+    "question": "Sur qui faut-il fixer les regards ?",
+    "choices": [
+      "Sur Jésus, le chef et le consommateur de la foi",
+      "Sur Moïse, le chef de l’ancienne alliance",
+      "Sur Aaron, le chef des sacrificateurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-167",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:2",
+    "verseText": "Voir Hébreux 12:2.",
+    "question": "Quelle joie est mentionnée comme placée devant Jésus ?",
+    "choices": [
+      "La joie",
+      "La vengeance",
+      "La richesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-168",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:2",
+    "verseText": "Voir Hébreux 12:2.",
+    "question": "Qu’a-t-il enduré à cause de cette joie ?",
+    "choices": [
+      "La croix",
+      "Le désert",
+      "L’exil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-169",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:2",
+    "verseText": "Voir Hébreux 12:2.",
+    "question": "Quelle attitude de Jésus envers l’ignominie est mentionnée ?",
+    "choices": [
+      "Il a méprisé l’ignominie",
+      "Il a recherché l’ignominie",
+      "Il a craint l’ignominie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-170",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:2",
+    "verseText": "Voir Hébreux 12:2.",
+    "question": "Quel résultat est mentionné après son endurance ?",
+    "choices": [
+      "Il s’est assis à la droite du trône de Dieu",
+      "Il est resté au pied de l’autel",
+      "Il est retourné au désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:2 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-171",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:3",
+    "verseText": "Voir Hébreux 12:3.",
+    "question": "Quel conseil est donné face à l’opposition des pécheurs contre Jésus ?",
+    "choices": [
+      "Considérez celui qui a supporté une telle contradiction",
+      "Oubliez celui qui a souffert",
+      "Imitez les rois de la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:3 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-172",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:3",
+    "verseText": "Voir Hébreux 12:3.",
+    "question": "Quel danger est mentionné si l’on ne considère pas cette contradiction ?",
+    "choices": [
+      "Se lasser, l’âme découragée",
+      "S’enorgueillir, le cœur endurci",
+      "Se réjouir, l’esprit exalté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:3 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-173",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:4",
+    "verseText": "Voir Hébreux 12:4.",
+    "question": "Jusqu’à quel point la lutte contre le péché est-elle décrite ?",
+    "choices": [
+      "Jusqu’au sang",
+      "Jusqu’aux larmes seulement",
+      "Jusqu’au jeûne seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:4 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-174",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:5",
+    "verseText": "Voir Hébreux 12:5.",
+    "question": "Quel terme est employé pour l’appel reçu comme à des fils ?",
+    "choices": [
+      "Exhortation",
+      "Condamnation",
+      "Tradition"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:5 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-175",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:5",
+    "verseText": "Voir Hébreux 12:5.",
+    "question": "Quelle recommandation est donnée quand on est repris par le Seigneur ?",
+    "choices": [
+      "Ne pas perdre courage",
+      "Se retirer de l’assemblée",
+      "Se venger des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:5 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-176",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:6",
+    "verseText": "Voir Hébreux 12:6.",
+    "question": "Quel principe est affirmé sur l’amour du Seigneur ?",
+    "choices": [
+      "Il châtie celui qu’il aime",
+      "Il oublie celui qu’il aime",
+      "Il rejette celui qu’il aime"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:6 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-177",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:6",
+    "verseText": "Voir Hébreux 12:6.",
+    "question": "Quel signe d’adoption est mentionné dans la discipline ?",
+    "choices": [
+      "Il frappe de la verge tout fils qu’il reconnaît",
+      "Il couronne tout fils qu’il reconnaît",
+      "Il enrichit tout fils qu’il reconnaît"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:6 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-178",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:8",
+    "verseText": "Voir Hébreux 12:8.",
+    "question": "Que prouve l’absence de châtiment, selon le texte ?",
+    "choices": [
+      "Qu’on est bâtard et non fils",
+      "Qu’on est parfait et sans défaut",
+      "Qu’on est au-dessus de toute correction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:8 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-179",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:9",
+    "verseText": "Voir Hébreux 12:9.",
+    "question": "Quel titre est donné à Dieu dans l’opposition avec les pères selon la chair ?",
+    "choices": [
+      "Le Père des esprits",
+      "Le Père des nations",
+      "Le Père des sacrifices"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:9 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-180",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:10",
+    "verseText": "Voir Hébreux 12:10.",
+    "question": "Dans quel but Dieu nous châtie-t-il selon le passage ?",
+    "choices": [
+      "Pour notre profit, afin que nous participions à sa sainteté",
+      "Pour notre honte, afin que nous perdions l’espérance",
+      "Pour notre ruine, afin que nous tombions sans relèvement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:10 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-181",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:11",
+    "verseText": "Voir Hébreux 12:11.",
+    "question": "Quel effet immédiat le châtiment n’a-t-il pas, selon le texte ?",
+    "choices": [
+      "Il ne semble pas un sujet de joie, mais de tristesse",
+      "Il semble toujours un sujet d’honneur",
+      "Il semble toujours un sujet de richesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:11 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-182",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:11",
+    "verseText": "Voir Hébreux 12:11.",
+    "question": "Quel fruit produit-il ensuite chez ceux qui ont été ainsi exercés ?",
+    "choices": [
+      "Un fruit paisible de justice",
+      "Un fruit de vengeance",
+      "Un fruit de crainte des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:11 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-183",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:12",
+    "verseText": "Voir Hébreux 12:12.",
+    "question": "Quelle action est demandée envers « les mains languissantes » ?",
+    "choices": [
+      "Les fortifier",
+      "Les lier",
+      "Les cacher"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:12 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-184",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:12",
+    "verseText": "Voir Hébreux 12:12.",
+    "question": "Quelle action est demandée envers « les genoux affaiblis » ?",
+    "choices": [
+      "Les affermir",
+      "Les briser",
+      "Les ignorer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:12 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-185",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:13",
+    "verseText": "Voir Hébreux 12:13.",
+    "question": "Quel type de voie est demandé pour les pieds ?",
+    "choices": [
+      "Des sentiers droits",
+      "Des sentiers cachés",
+      "Des sentiers tortueux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:13 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-186",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:13",
+    "verseText": "Voir Hébreux 12:13.",
+    "question": "Quel but est donné pour ces sentiers droits ?",
+    "choices": [
+      "Que ce qui est boiteux ne dévie pas, mais plutôt se raffermisse",
+      "Que ce qui est boiteux s’éloigne davantage",
+      "Que ce qui est boiteux soit condamné sans appel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:13 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-187",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:14",
+    "verseText": "Voir Hébreux 12:14.",
+    "question": "Quel double objectif est à poursuivre avec tous ?",
+    "choices": [
+      "La paix et la sanctification",
+      "La richesse et la puissance",
+      "La science et la gloire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-188",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:14",
+    "verseText": "Voir Hébreux 12:14.",
+    "question": "Sans quoi personne ne verra-t-il le Seigneur ?",
+    "choices": [
+      "Sans la sanctification",
+      "Sans la force",
+      "Sans la sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:14 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-189",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:15",
+    "verseText": "Voir Hébreux 12:15.",
+    "question": "Quel risque est mentionné à propos d’une racine ?",
+    "choices": [
+      "Une racine d’amertume peut pousser et troubler",
+      "Une racine de joie peut pousser et bénir",
+      "Une racine d’or peut pousser et enrichir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:15 (LSG 1910)."
+  },
+  {
+    "id": "hebreux-N-190",
+    "book": "Hébreux",
+    "chapter": 12,
+    "verseRef": "Hébreux 12:15",
+    "verseText": "Voir Hébreux 12:15.",
+    "question": "Quel effet peut avoir cette racine d’amertume sur plusieurs ?",
+    "choices": [
+      "Plusieurs peuvent en être infectés",
+      "Plusieurs peuvent en être couronnés",
+      "Plusieurs peuvent en être fortifiés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 12:15 (LSG 1910)."
+  }
+]

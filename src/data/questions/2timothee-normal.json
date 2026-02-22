@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "2timothee-N-001",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:1",
+    "verseText": "Voir 2 Timothée 1:1.",
+    "question": "Quel titre Paul se donne-t-il au début de la lettre ?",
+    "choices": [
+      "Apôtre de Jésus-Christ",
+      "Ancien de l’Église",
+      "Serviteur de l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:1 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-002",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:2",
+    "verseText": "Voir 2 Timothée 1:2.",
+    "question": "Comment Paul appelle-t-il Timothée dans la salutation ?",
+    "choices": [
+      "Mon enfant bien-aimé",
+      "Mon compagnon de service",
+      "Mon frère bien-aimé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:2 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-003",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:2",
+    "verseText": "Voir 2 Timothée 1:2.",
+    "question": "Quels dons Paul souhaite-t-il à Timothée de la part de Dieu le Père et de Jésus-Christ ?",
+    "choices": [
+      "La grâce, la miséricorde et la paix",
+      "La force, la santé et la prospérité",
+      "La joie, la richesse et la sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:2 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-004",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:3",
+    "verseText": "Voir 2 Timothée 1:3.",
+    "question": "Quand Paul dit-il se souvenir continuellement de Timothée dans ses prières ?",
+    "choices": [
+      "Nuit et jour",
+      "Au matin seulement",
+      "Le jour du sabbat seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:3 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-005",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:4",
+    "verseText": "Voir 2 Timothée 1:4.",
+    "question": "Quel souvenir personnel Paul mentionne-t-il en parlant de Timothée avant d’exprimer son désir de le voir ?",
+    "choices": [
+      "Tes larmes",
+      "Tes chants",
+      "Tes voyages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:4 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-006",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:5",
+    "verseText": "Voir 2 Timothée 1:5.",
+    "question": "Dans qui Paul dit-il que la foi sincère de Timothée habita d’abord ?",
+    "choices": [
+      "Dans son aïeule Loïs",
+      "Dans son père",
+      "Dans son frère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:5 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-007",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:5",
+    "verseText": "Voir 2 Timothée 1:5.",
+    "question": "Quelle personne Paul cite-t-il comme mère de Timothée, liée à la foi sincère ?",
+    "choices": [
+      "Eunice",
+      "Claudia",
+      "Prisca"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:5 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-008",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:6",
+    "verseText": "Voir 2 Timothée 1:6.",
+    "question": "À quoi Paul exhorte-t-il Timothée concernant le don de Dieu reçu par imposition des mains ?",
+    "choices": [
+      "À le ranimer",
+      "À le cacher",
+      "À le mesurer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:6 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-009",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:7",
+    "verseText": "Voir 2 Timothée 1:7.",
+    "question": "Quel esprit Paul dit-il que Dieu ne nous a pas donné ?",
+    "choices": [
+      "Un esprit de timidité",
+      "Un esprit de vengeance",
+      "Un esprit de ruse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:7 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-010",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:7",
+    "verseText": "Voir 2 Timothée 1:7.",
+    "question": "Quels trois éléments Paul associe-t-il à l’esprit que Dieu nous a donné ?",
+    "choices": [
+      "Force, amour et sagesse",
+      "Joie, paix et richesse",
+      "Santé, puissance et victoire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:7 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-011",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:8",
+    "verseText": "Voir 2 Timothée 1:8.",
+    "question": "De quoi Timothée ne doit-il pas avoir honte selon Paul ?",
+    "choices": [
+      "Du témoignage à rendre à notre Seigneur",
+      "Des chaînes de Carpus",
+      "Du manteau laissé à Troas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-012",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:8",
+    "verseText": "Voir 2 Timothée 1:8.",
+    "question": "Comment Paul se désigne-t-il quand il dit à Timothée de ne pas avoir honte de lui ?",
+    "choices": [
+      "Son prisonnier",
+      "Son secrétaire",
+      "Son compagnon d’armes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-013",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:9",
+    "verseText": "Voir 2 Timothée 1:9.",
+    "question": "Selon Paul, pourquoi Dieu nous a-t-il sauvés et adressé une sainte vocation ?",
+    "choices": [
+      "Selon son propre dessein et selon la grâce",
+      "À cause de nos œuvres",
+      "À cause de notre force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:9 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-014",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:9",
+    "verseText": "Voir 2 Timothée 1:9.",
+    "question": "Quand Paul dit-il que la grâce nous a été donnée en Jésus-Christ ?",
+    "choices": [
+      "Avant les temps éternels",
+      "Après la résurrection",
+      "Depuis la venue de Timothée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:9 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-015",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:10",
+    "verseText": "Voir 2 Timothée 1:10.",
+    "question": "Par quoi la grâce a-t-elle été manifestée selon Paul ?",
+    "choices": [
+      "Par l’apparition de notre Sauveur Jésus-Christ",
+      "Par la venue de Tychique à Éphèse",
+      "Par la sagesse de Crescens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-016",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:10",
+    "verseText": "Voir 2 Timothée 1:10.",
+    "question": "Que dit Paul que Jésus-Christ a détruit ?",
+    "choices": [
+      "La mort",
+      "La loi",
+      "La terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-017",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:10",
+    "verseText": "Voir 2 Timothée 1:10.",
+    "question": "Qu’est-ce que Jésus-Christ a mis en évidence par l’Évangile ?",
+    "choices": [
+      "La vie et l’immortalité",
+      "L’or et l’argent",
+      "Les temps difficiles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-018",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:10-11",
+    "verseText": "Voir 2 Timothée 1:10-11.",
+    "question": "Pour quel Évangile Paul dit-il avoir été établi prédicateur et apôtre ?",
+    "choices": [
+      "Pour l’Évangile qui met en évidence la vie et l’immortalité",
+      "Pour l’Évangile des fables",
+      "Pour l’Évangile des disputes de mots"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:10-11 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-019",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:11",
+    "verseText": "Voir 2 Timothée 1:11.",
+    "question": "Qui Paul dit-il être chargé d’instruire ?",
+    "choices": [
+      "Les païens",
+      "Les laboureurs",
+      "Les forgerons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:11 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-020",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:12",
+    "verseText": "Voir 2 Timothée 1:12.",
+    "question": "Pourquoi Paul dit-il souffrir, sans en avoir honte ?",
+    "choices": [
+      "Parce qu’il sait en qui il a cru",
+      "Parce qu’il a été assisté par Eubulus",
+      "Parce qu’il a évité les passions de la jeunesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:12 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-021",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:12",
+    "verseText": "Voir 2 Timothée 1:12.",
+    "question": "Qu’est-ce que Paul dit que Dieu a la puissance de garder jusqu’à ce jour-là ?",
+    "choices": [
+      "Mon dépôt",
+      "Mon manteau",
+      "Mes parchemins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:12 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-022",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:13",
+    "verseText": "Voir 2 Timothée 1:13.",
+    "question": "Quel modèle Timothée doit-il retenir selon Paul ?",
+    "choices": [
+      "Le modèle des saines paroles",
+      "Le modèle des discours vains",
+      "Le modèle des querelles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:13 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-023",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:13",
+    "verseText": "Voir 2 Timothée 1:13.",
+    "question": "Dans quoi Timothée doit-il retenir ce modèle selon Paul ?",
+    "choices": [
+      "Dans la foi et dans la charité qui est en Jésus-Christ",
+      "Dans l’orgueil et dans la richesse",
+      "Dans la crainte et dans la tristesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:13 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-024",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:14",
+    "verseText": "Voir 2 Timothée 1:14.",
+    "question": "Par qui Timothée doit-il garder le bon dépôt ?",
+    "choices": [
+      "Par le Saint-Esprit qui habite en nous",
+      "Par la force des hommes",
+      "Par les disputes de mots"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:14 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-025",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:15",
+    "verseText": "Voir 2 Timothée 1:15.",
+    "question": "Que dit Paul à propos de ceux qui sont en Asie à son sujet ?",
+    "choices": [
+      "Ils m’ont abandonné",
+      "Ils m’ont couronné",
+      "Ils m’ont délivré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:15 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-026",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:15",
+    "verseText": "Voir 2 Timothée 1:15.",
+    "question": "Quels deux hommes Paul cite-t-il parmi ceux qui l’ont abandonné en Asie ?",
+    "choices": [
+      "Phygelle et Hermogène",
+      "Hyménée et Philète",
+      "Jannès et Jambrès"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:15 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-027",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:16",
+    "verseText": "Voir 2 Timothée 1:16.",
+    "question": "Sur qui Paul demande-t-il que le Seigneur répande sa miséricorde ?",
+    "choices": [
+      "La maison d’Onésiphore",
+      "La maison de Démas",
+      "La maison d’Alexandre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:16 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-028",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:16",
+    "verseText": "Voir 2 Timothée 1:16.",
+    "question": "Pourquoi Paul dit-il qu’Onésiphore l’a souvent consolé ?",
+    "choices": [
+      "Parce qu’il n’a pas eu honte de mes chaînes",
+      "Parce qu’il a apporté mon manteau",
+      "Parce qu’il est resté à Corinthe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:16 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-029",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:17",
+    "verseText": "Voir 2 Timothée 1:17.",
+    "question": "Où Onésiphore a-t-il cherché Paul avec beaucoup d’empressement ?",
+    "choices": [
+      "À Rome",
+      "À Corinthe",
+      "À Milet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:17 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-030",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:18",
+    "verseText": "Voir 2 Timothée 1:18.",
+    "question": "Pour quoi Paul demande-t-il que le Seigneur donne à Onésiphore d’obtenir miséricorde ?",
+    "choices": [
+      "Auprès du Seigneur en ce jour-là",
+      "Auprès de l’athlète en ce jour-là",
+      "Auprès du laboureur en ce jour-là"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:18 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-031",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:18",
+    "verseText": "Voir 2 Timothée 1:18.",
+    "question": "Où Timothée sait-il, mieux que personne, qu’Onésiphore a rendu beaucoup de services à Paul ?",
+    "choices": [
+      "À Éphèse",
+      "À Troas",
+      "À Thessalonique"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:18 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-032",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:1",
+    "verseText": "Voir 2 Timothée 2:1.",
+    "question": "Dans quoi Timothée doit-il se fortifier ?",
+    "choices": [
+      "Dans la grâce qui est en Jésus-Christ",
+      "Dans les discussions folles",
+      "Dans les fables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:1 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-033",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:2",
+    "verseText": "Voir 2 Timothée 2:2.",
+    "question": "À qui Timothée doit-il confier ce qu’il a entendu de Paul en présence de beaucoup de témoins ?",
+    "choices": [
+      "À des hommes fidèles, capables de l’enseigner aussi à d’autres",
+      "À des hommes emportés, capables de quereller aussi avec d’autres",
+      "À des hommes hautains, capables de censurer aussi les autres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:2 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-034",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:3",
+    "verseText": "Voir 2 Timothée 2:3.",
+    "question": "À quoi Paul compare-t-il la souffrance partagée avec lui ?",
+    "choices": [
+      "À un bon soldat de Jésus-Christ",
+      "À un vase d’or",
+      "À une foule de docteurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:3 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-035",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:4",
+    "verseText": "Voir 2 Timothée 2:4.",
+    "question": "Pourquoi un soldat ne s’embarrasse-t-il pas des affaires de la vie ?",
+    "choices": [
+      "S’il veut plaire à celui qui l’a enrôlé",
+      "S’il veut recueillir les fruits avant de travailler",
+      "S’il veut éviter la saine doctrine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:4 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-036",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:5",
+    "verseText": "Voir 2 Timothée 2:5.",
+    "question": "À quelle condition l’athlète est-il couronné ?",
+    "choices": [
+      "S’il a combattu suivant les règles",
+      "S’il a capturé des femmes",
+      "S’il a aimé le siècle présent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:5 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-037",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:6",
+    "verseText": "Voir 2 Timothée 2:6.",
+    "question": "Que faut-il que le laboureur fasse avant de recueillir les fruits ?",
+    "choices": [
+      "Qu’il travaille",
+      "Qu’il discute",
+      "Qu’il renie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:6 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-038",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:7",
+    "verseText": "Voir 2 Timothée 2:7.",
+    "question": "Quelle promesse Paul associe-t-il à l’exhortation « Comprends ce que je dis » ?",
+    "choices": [
+      "Le Seigneur te donnera de l’intelligence en toutes choses",
+      "Le Seigneur te donnera une foule de docteurs",
+      "Le Seigneur te donnera la démangeaison d’entendre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:7 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-039",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:8",
+    "verseText": "Voir 2 Timothée 2:8.",
+    "question": "De qui Timothée doit-il se souvenir, selon Paul ?",
+    "choices": [
+      "De Jésus-Christ, issu de la postérité de David, ressuscité des morts",
+      "D’Alexandre, resté à Corinthe, ressuscité des morts",
+      "De Démas, issu de la postérité de Moïse, ressuscité des morts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:8 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-040",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:9",
+    "verseText": "Voir 2 Timothée 2:9.",
+    "question": "Que dit Paul à propos de la parole de Dieu, bien qu’il souffre jusqu’à être lié ?",
+    "choices": [
+      "La parole de Dieu n’est pas liée",
+      "La parole de Dieu est enchaînée",
+      "La parole de Dieu est cachée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:9 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-041",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:10",
+    "verseText": "Voir 2 Timothée 2:10.",
+    "question": "Pourquoi Paul supporte-t-il tout, selon le texte ?",
+    "choices": [
+      "À cause des élus, afin qu’eux aussi obtiennent le salut qui est en Jésus-Christ, avec la gloire éternelle",
+      "À cause des disputes de mots, afin que tous soient ruinés",
+      "À cause des fables, afin que l’oreille soit détournée de la vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:10 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-042",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:11",
+    "verseText": "Voir 2 Timothée 2:11.",
+    "question": "Quelle conséquence est associée à « Si nous sommes morts avec lui » ?",
+    "choices": [
+      "Nous vivrons aussi avec lui",
+      "Nous serons abandonnés en Asie",
+      "Nous serons captifs des maisons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:11 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-043",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:12",
+    "verseText": "Voir 2 Timothée 2:12.",
+    "question": "Quelle conséquence est associée à « si nous persévérons » ?",
+    "choices": [
+      "Nous régnerons aussi avec lui",
+      "Nous renverserons la foi de quelques uns",
+      "Nous ne supporterons pas la saine doctrine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:12 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-044",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:12",
+    "verseText": "Voir 2 Timothée 2:12.",
+    "question": "Quelle conséquence est associée à « si nous le renions » ?",
+    "choices": [
+      "Lui aussi nous reniera",
+      "Lui aussi nous couronnera",
+      "Lui aussi nous écrira des parchemins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:12 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-045",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:13",
+    "verseText": "Voir 2 Timothée 2:13.",
+    "question": "Pourquoi Paul dit-il que, même si nous sommes infidèles, Dieu demeure fidèle ?",
+    "choices": [
+      "Car il ne peut se renier lui-même",
+      "Car il a aimé son avènement",
+      "Car il s’est servi de libation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:13 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-046",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:14",
+    "verseText": "Voir 2 Timothée 2:14.",
+    "question": "Qu’est-ce que Paul demande d’éviter, et qu’il qualifie d’inutile et ruineux ?",
+    "choices": [
+      "Les disputes de mots",
+      "Les services à Éphèse",
+      "Les saintes lettres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:14 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-047",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:15",
+    "verseText": "Voir 2 Timothée 2:15.",
+    "question": "Comment Paul décrit-il l’ouvrier qui dispense droitement la parole de la vérité ?",
+    "choices": [
+      "Un homme éprouvé, un ouvrier qui n’a point à rougir",
+      "Un homme emporté, un ouvrier qui a beaucoup de querelles",
+      "Un homme hautain, un ouvrier réprouvé en ce qui concerne la foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:15 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-048",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:16",
+    "verseText": "Voir 2 Timothée 2:16.",
+    "question": "Quels discours Paul demande-t-il d’éviter, et quel effet leur attribue-t-il ?",
+    "choices": [
+      "Les discours vains et profanes; ils avancent toujours plus dans l’impiété",
+      "Les saines paroles; elles rongent comme la gangrène",
+      "Les saintes lettres; elles renversent la foi de quelques uns"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:16 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-049",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:16",
+    "verseText": "Voir 2 Timothée 2:16.",
+    "question": "Comment Paul décrit-il l’effet de la parole de certains ?",
+    "choices": [
+      "Elle rongera comme la gangrène",
+      "Elle guérira comme un baume",
+      "Elle brillera comme l’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:16 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-050",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:17-18",
+    "verseText": "Voir 2 Timothée 2:17-18.",
+    "question": "Quels deux hommes sont cités comme s’étant détournés de la vérité ?",
+    "choices": [
+      "Hyménée et Philète",
+      "Phygelle et Hermogène",
+      "Eubulus et Linus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:17-18 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-051",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:18",
+    "verseText": "Voir 2 Timothée 2:18.",
+    "question": "Quelle affirmation erronée ces hommes répandent-ils ?",
+    "choices": [
+      "Que la résurrection est déjà arrivée",
+      "Que la parole de Dieu est liée",
+      "Que Jésus-Christ n’est pas ressuscité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:18 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-052",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:19",
+    "verseText": "Voir 2 Timothée 2:19.",
+    "question": "Quelle double parole sert de sceau au solide fondement de Dieu ?",
+    "choices": [
+      "« Le Seigneur connaît ceux qui lui appartiennent » et « Quiconque prononce le nom du Seigneur, qu’il s’éloigne de l’iniquité »",
+      "« Prêche la parole » et « Viens au plus tôt vers moi »",
+      "« Apporte le manteau » et « Salue Prisca et Aquilas »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:19 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-053",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:20",
+    "verseText": "Voir 2 Timothée 2:20.",
+    "question": "Dans l’image de la grande maison, quels matériaux Paul cite-t-il comme existant, en plus de l’or et de l’argent ?",
+    "choices": [
+      "Bois et terre",
+      "Pierre et cuivre",
+      "Lin et pourpre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:20 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-054",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:20",
+    "verseText": "Voir 2 Timothée 2:20.",
+    "question": "Quelles catégories de vases Paul oppose-t-il dans la grande maison ?",
+    "choices": [
+      "Vases d’honneur et vases d’un usage vil",
+      "Vases de paix et vases de guerre",
+      "Vases de force et vases de timidité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:20 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-055",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:21",
+    "verseText": "Voir 2 Timothée 2:21.",
+    "question": "Quel résultat est promis à celui qui se conserve pur en s’abstenant de certaines choses ?",
+    "choices": [
+      "Il sera un vase d’honneur, sanctifié, utile à son maître, propre à toute bonne œuvre",
+      "Il sera un docteur selon ses propres désirs",
+      "Il sera aimé du siècle présent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:21 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-056",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:22",
+    "verseText": "Voir 2 Timothée 2:22.",
+    "question": "Quelles choses Timothée doit-il fuir ?",
+    "choices": [
+      "Les passions de la jeunesse",
+      "Les saintes lettres",
+      "La saine doctrine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:22 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-057",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:22",
+    "verseText": "Voir 2 Timothée 2:22.",
+    "question": "Quelles qualités Timothée doit-il rechercher avec ceux qui invoquent le Seigneur d’un cœur pur ?",
+    "choices": [
+      "Justice, foi, charité, paix",
+      "Or, argent, bois, terre",
+      "Fanfares, orgueil, plaisir, fables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:22 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-058",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:23",
+    "verseText": "Voir 2 Timothée 2:23.",
+    "question": "Quelles discussions Paul demande-t-il de repousser, et pourquoi ?",
+    "choices": [
+      "Les discussions folles et inutiles, sachant qu’elles font naître des querelles",
+      "Les discussions saines et utiles, sachant qu’elles font naître la paix",
+      "Les discussions courtes et simples, sachant qu’elles font naître l’intelligence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:23 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-059",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:24",
+    "verseText": "Voir 2 Timothée 2:24.",
+    "question": "Quelles trois dispositions Paul exige-t-il d’un serviteur du Seigneur envers tous ?",
+    "choices": [
+      "Condescendance, aptitude à enseigner, patience",
+      "Orgueil, emportement, dureté",
+      "Timidité, silence, fuite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:24 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-060",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:25",
+    "verseText": "Voir 2 Timothée 2:25.",
+    "question": "Dans quel but le serviteur du Seigneur doit-il redresser avec douceur les adversaires ?",
+    "choices": [
+      "Dans l’espérance que Dieu leur donnera la repentance pour arriver à la connaissance de la vérité",
+      "Afin qu’ils se donnent une foule de docteurs selon leurs propres désirs",
+      "Afin qu’ils renversent la foi de quelques uns"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:25 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-061",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:1",
+    "verseText": "Voir 2 Timothée 1:1.",
+    "question": "Selon quoi Paul dit-il être apôtre de Jésus-Christ au début de la lettre ?",
+    "choices": [
+      "Selon la promesse de la vie qui est en Jésus-Christ",
+      "Selon ses œuvres",
+      "Selon les passions de la jeunesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:1 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-062",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:3",
+    "verseText": "Voir 2 Timothée 1:3.",
+    "question": "Avec quelle qualité Paul dit-il servir Dieu, en parlant de ses ancêtres ?",
+    "choices": [
+      "Avec une conscience pure",
+      "Avec une sagesse charnelle",
+      "Avec une démangeaison d’entendre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:3 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-063",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:4",
+    "verseText": "Voir 2 Timothée 1:4.",
+    "question": "Quel effet Paul associe-t-il au fait de revoir Timothée ?",
+    "choices": [
+      "Être rempli de joie",
+      "Être couronné selon les règles",
+      "Être délivré de la gueule du lion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:4 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-064",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:3",
+    "verseText": "Voir 2 Timothée 1:3.",
+    "question": "Quel geste Paul dit-il avoir accompli pour Timothée dans ses prières ?",
+    "choices": [
+      "Je rends grâces à Dieu",
+      "Je sers déjà de libation",
+      "Je combats le bon combat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:3 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-065",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:6",
+    "verseText": "Voir 2 Timothée 1:6.",
+    "question": "Par quel moyen Paul précise-t-il que le don de Dieu est en Timothée ?",
+    "choices": [
+      "Par l’imposition de mes mains",
+      "Par la démangeaison d’entendre",
+      "Par l’amour du siècle présent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:6 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-066",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:8",
+    "verseText": "Voir 2 Timothée 1:8.",
+    "question": "Pour quel objectif Paul demande-t-il à Timothée de souffrir avec lui ?",
+    "choices": [
+      "Pour l’Évangile",
+      "Pour les fables",
+      "Pour les disputes de mots"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-067",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:9",
+    "verseText": "Voir 2 Timothée 1:9.",
+    "question": "Comment Paul décrit-il l’appel reçu ?",
+    "choices": [
+      "Une sainte vocation",
+      "Une couronne de justice",
+      "Une grande maison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:9 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-068",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:9",
+    "verseText": "Voir 2 Timothée 1:9.",
+    "question": "Dans qui la grâce est-elle donnée selon Paul, avant les temps éternels ?",
+    "choices": [
+      "En Jésus-Christ",
+      "En Phygelle",
+      "En Hyménée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:9 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-069",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:10",
+    "verseText": "Voir 2 Timothée 1:10.",
+    "question": "Par quoi Paul dit-il que la vie et l’immortalité ont été mises en évidence ?",
+    "choices": [
+      "Par l’Évangile",
+      "Par les saintes lettres",
+      "Par les fables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-070",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:8",
+    "verseText": "Voir 2 Timothée 1:8.",
+    "question": "Quel mot Paul emploie-t-il pour désigner l’état dans lequel il est, à cause de l’Évangile ?",
+    "choices": [
+      "Prisonnier",
+      "Forgeron",
+      "Laboureur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-071",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:12",
+    "verseText": "Voir 2 Timothée 1:12.",
+    "question": "Quelle expression Paul utilise-t-il pour parler de ce que Dieu garde jusqu’à ce jour-là ?",
+    "choices": [
+      "Mon dépôt",
+      "Mon ministère",
+      "Mon avènement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:12 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-072",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:13",
+    "verseText": "Voir 2 Timothée 1:13.",
+    "question": "Quel qualificatif Paul associe-t-il aux paroles dont Timothée doit retenir le modèle ?",
+    "choices": [
+      "Saines",
+      "Vaines",
+      "Profanes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:13 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-073",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:14",
+    "verseText": "Voir 2 Timothée 1:14.",
+    "question": "Par quel moyen le bon dépôt doit-il être gardé ?",
+    "choices": [
+      "Par le Saint-Esprit qui habite en nous",
+      "Par les discussions folles et inutiles",
+      "Par une foule de docteurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:14 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-074",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:15",
+    "verseText": "Voir 2 Timothée 1:15.",
+    "question": "Dans quelle région Paul dit-il avoir été abandonné par tous ceux qui y sont ?",
+    "choices": [
+      "En Asie",
+      "En Dalmatie",
+      "En Galatie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:15 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-075",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:16",
+    "verseText": "Voir 2 Timothée 1:16.",
+    "question": "Quel trait Paul attribue-t-il à Onésiphore à propos de ses chaînes ?",
+    "choices": [
+      "Il n’a pas eu honte de mes chaînes",
+      "Il s’est fortement opposé à nos paroles",
+      "Il a aimé le siècle présent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:16 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-076",
+    "book": "2 Timothée",
+    "chapter": 1,
+    "verseRef": "2 Timothée 1:17",
+    "verseText": "Voir 2 Timothée 1:17.",
+    "question": "Avec quelle intensité Onésiphore a-t-il recherché Paul à Rome ?",
+    "choices": [
+      "Avec beaucoup d’empressement",
+      "Avec toute douceur",
+      "Avec une conscience pure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 1:17 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-077",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:2",
+    "verseText": "Voir 2 Timothée 2:2.",
+    "question": "Quel type d’hommes Timothée doit-il choisir pour transmettre ce qu’il a entendu de Paul ?",
+    "choices": [
+      "Des hommes fidèles, capables de l’enseigner aussi à d’autres",
+      "Des hommes emportés, aimant le plaisir plus que Dieu",
+      "Des hommes rebelles à leurs parents, ingrats, irréligieux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:2 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-078",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:4",
+    "verseText": "Voir 2 Timothée 2:4.",
+    "question": "De quoi le soldat doit-il se garder pour plaire à celui qui l’a enrôlé ?",
+    "choices": [
+      "De s’embarrasser des affaires de la vie",
+      "De garder la foi",
+      "De retenir le modèle des saines paroles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:4 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-079",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:5",
+    "verseText": "Voir 2 Timothée 2:5.",
+    "question": "Quelle condition est donnée pour que l’athlète soit couronné ?",
+    "choices": [
+      "S’il a combattu suivant les règles",
+      "S’il s’est introduit dans les maisons",
+      "S’il a détourné l’oreille de la vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:5 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-080",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:6",
+    "verseText": "Voir 2 Timothée 2:6.",
+    "question": "Que doit faire le laboureur pour recueillir les fruits ?",
+    "choices": [
+      "Travailler avant tout",
+      "Se donner une foule de docteurs",
+      "Avancer toujours plus dans l’impiété"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:6 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-081",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:7",
+    "verseText": "Voir 2 Timothée 2:7.",
+    "question": "Quelle assurance Paul donne-t-il à Timothée concernant la compréhension ?",
+    "choices": [
+      "Le Seigneur te donnera de l’intelligence en toutes choses",
+      "Le Seigneur te donnera une couronne de justice dès maintenant",
+      "Le Seigneur te donnera des fables agréables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:7 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-082",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:8",
+    "verseText": "Voir 2 Timothée 2:8.",
+    "question": "À quelle lignée Paul rattache-t-il Jésus-Christ dans son rappel ?",
+    "choices": [
+      "À la postérité de David",
+      "À la maison d’Onésiphore",
+      "À la famille d’Éraste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:8 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-083",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:9",
+    "verseText": "Voir 2 Timothée 2:9.",
+    "question": "Comment Paul décrit-il son état quand il souffre pour l’Évangile ?",
+    "choices": [
+      "Lié comme un malfaiteur",
+      "Couronné comme un athlète",
+      "Riche comme un ami de l’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:9 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-084",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:9",
+    "verseText": "Voir 2 Timothée 2:9.",
+    "question": "Quelle affirmation Paul fait-il à propos de la parole de Dieu quand lui-même est lié ?",
+    "choices": [
+      "La parole de Dieu n’est pas liée",
+      "La parole de Dieu est déjà arrivée",
+      "La parole de Dieu est une fable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:9 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-085",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:12",
+    "verseText": "Voir 2 Timothée 2:12.",
+    "question": "Dans la “parole certaine”, quelle conséquence suit “Si nous souffrons” ?",
+    "choices": [
+      "Nous régnerons aussi avec lui",
+      "Nous serons abandonnés en Asie",
+      "Nous serons laissés malades à Milet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:12 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-086",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:13",
+    "verseText": "Voir 2 Timothée 2:13.",
+    "question": "Quelle raison Paul donne-t-il pour dire que Dieu demeure fidèle même si nous sommes infidèles ?",
+    "choices": [
+      "Il ne peut se renier lui-même",
+      "Il n’a pas eu honte de mes chaînes",
+      "Il a rendu beaucoup de services à Éphèse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:13 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-087",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:14",
+    "verseText": "Voir 2 Timothée 2:14.",
+    "question": "Devant qui Timothée doit-il recommander certaines choses, selon Paul ?",
+    "choices": [
+      "Devant Dieu",
+      "Devant Carpus",
+      "Devant Alexandre le forgeron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:14 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-088",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:14",
+    "verseText": "Voir 2 Timothée 2:14.",
+    "question": "Quel effet Paul attribue-t-il aux disputes de mots ?",
+    "choices": [
+      "Elles sont inutiles et pour la ruine de ceux qui les écoutent",
+      "Elles rendent sage à salut",
+      "Elles mettent en évidence la vie et l’immortalité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:14 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-089",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:15",
+    "verseText": "Voir 2 Timothée 2:15.",
+    "question": "Quel objectif est donné à l’ouvrier qui dispense droitement la parole de la vérité ?",
+    "choices": [
+      "N’avoir point à rougir",
+      "Avoir l’apparence de la piété",
+      "Aimer le siècle présent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:15 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-090",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:16",
+    "verseText": "Voir 2 Timothée 2:16.",
+    "question": "Vers quoi Paul dit-il que les discours vains et profanes avancent ?",
+    "choices": [
+      "Toujours plus dans l’impiété",
+      "Toujours plus dans la sainteté",
+      "Toujours plus dans la joie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:16 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-091",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:17",
+    "verseText": "Voir 2 Timothée 2:17.",
+    "question": "Quelle comparaison Paul utilise-t-il pour décrire l’action de la parole de certains ?",
+    "choices": [
+      "Elle rongera comme la gangrène",
+      "Elle brillera comme la couronne",
+      "Elle coulera comme une libation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:17 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-092",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:18",
+    "verseText": "Voir 2 Timothée 2:18.",
+    "question": "Quelle erreur Paul attribue-t-il à certains au sujet de la résurrection ?",
+    "choices": [
+      "Ils disent qu’elle est déjà arrivée",
+      "Ils disent qu’elle est impossible",
+      "Ils disent qu’elle dépend de nos œuvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:18 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-093",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:18",
+    "verseText": "Voir 2 Timothée 2:18.",
+    "question": "Quel effet cette erreur produit-elle chez quelques-uns ?",
+    "choices": [
+      "Elle renverse la foi de quelques-uns",
+      "Elle fortifie la prédication chez tous",
+      "Elle accomplit l’homme de Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:18 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-094",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:19",
+    "verseText": "Voir 2 Timothée 2:19.",
+    "question": "Quelle affirmation Paul donne-t-il comme sceau concernant l’appartenance au Seigneur ?",
+    "choices": [
+      "Le Seigneur connaît ceux qui lui appartiennent",
+      "Le Seigneur envoie Tychique à Éphèse",
+      "Le Seigneur rend à Alexandre selon ses œuvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:19 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-095",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:19",
+    "verseText": "Voir 2 Timothée 2:19.",
+    "question": "Selon Paul, de quoi doit s’éloigner quiconque prononce le nom du Seigneur ?",
+    "choices": [
+      "De l’iniquité",
+      "Des saintes lettres",
+      "De la saine doctrine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:19 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-096",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:20",
+    "verseText": "Voir 2 Timothée 2:20.",
+    "question": "Dans l’image de la grande maison, quels vases Paul mentionne-t-il en plus de ceux d’honneur ?",
+    "choices": [
+      "Des vases d’un usage vil",
+      "Des vases de promesse",
+      "Des vases d’immortalité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:20 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-097",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:21",
+    "verseText": "Voir 2 Timothée 2:21.",
+    "question": "Quel résultat est promis à celui qui se conserve pur ?",
+    "choices": [
+      "Propre à toute bonne œuvre",
+      "Réprouvé en ce qui concerne la foi",
+      "Ennemi des gens de bien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:21 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-098",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:22",
+    "verseText": "Voir 2 Timothée 2:22.",
+    "question": "Avec qui Timothée doit-il poursuivre la paix, selon Paul ?",
+    "choices": [
+      "Avec ceux qui invoquent le Seigneur d’un cœur pur",
+      "Avec ceux qui s’introduisent dans les maisons",
+      "Avec ceux qui avancent toujours plus dans le mal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:22 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-099",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:24",
+    "verseText": "Voir 2 Timothée 2:24.",
+    "question": "Quelle attitude Paul exige-t-il du serviteur du Seigneur envers tous ?",
+    "choices": [
+      "Être plein de condescendance",
+      "Être fanfaron",
+      "Être hautain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:24 (LSG 1910)."
+  },
+  {
+    "id": "2timothee-N-100",
+    "book": "2 Timothée",
+    "chapter": 2,
+    "verseRef": "2 Timothée 2:26",
+    "verseText": "Voir 2 Timothée 2:26.",
+    "question": "Quel but Paul associe-t-il au redressement avec douceur des adversaires ?",
+    "choices": [
+      "Qu’ils se dégagent des pièges du diable",
+      "Qu’ils aiment le plaisir plus que Dieu",
+      "Qu’ils se donnent une foule de docteurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 2:26 (LSG 1910)."
+  }
+]

@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "GEN-N-001",
+    "book": "Genèse",
+    "chapter": 2,
+    "verseRef": "Genèse 2:2-3",
+    "verseText": "Voir Genèse 2:2-3.",
+    "question": "Après la création, que fait Dieu le septième jour ?",
+    "choices": [
+      "Il recommence une nouvelle création",
+      "Il se repose et bénit ce jour",
+      "Il détruit ce qu’il a fait"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 2:2-3 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-002",
+    "book": "Genèse",
+    "chapter": 2,
+    "verseRef": "Genèse 2:16-17",
+    "verseText": "Voir Genèse 2:16-17.",
+    "question": "Quel arbre est explicitement interdit à l’homme au jardin d’Éden ?",
+    "choices": [
+      "L’arbre de vie",
+      "L’arbre de la connaissance du bien et du mal",
+      "L’arbre des nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 2:16-17 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-003",
+    "book": "Genèse",
+    "chapter": 3,
+    "verseRef": "Genèse 3:4",
+    "verseText": "Voir Genèse 3:4.",
+    "question": "Quel mensonge le serpent dit-il en premier à la femme ?",
+    "choices": [
+      "« Dieu n’existe pas »",
+      "« Vous ne mourrez point »",
+      "« Adam t’a trompée »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 3:4 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-004",
+    "book": "Genèse",
+    "chapter": 3,
+    "verseRef": "Genèse 3:21",
+    "verseText": "Voir Genèse 3:21.",
+    "question": "Après la chute, que fait Dieu pour couvrir Adam et Ève ?",
+    "choices": [
+      "Il leur donne des feuilles de figuier",
+      "Il les renvoie immédiatement sans vêtement",
+      "Il leur fait des habits de peau"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 3:21 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-005",
+    "book": "Genèse",
+    "chapter": 4,
+    "verseRef": "Genèse 4:4-5",
+    "verseText": "Voir Genèse 4:4-5.",
+    "question": "Quelle est la raison donnée pour laquelle Dieu regarde Abel favorablement ?",
+    "choices": [
+      "Son âge",
+      "La nature de son offrande (les premiers-nés, la graisse)",
+      "Son talent musical"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 4:4-5 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-006",
+    "book": "Genèse",
+    "chapter": 4,
+    "verseRef": "Genèse 4:15",
+    "verseText": "Voir Genèse 4:15.",
+    "question": "Quel signe Dieu met-il sur Caïn ?",
+    "choices": [
+      "Une épée",
+      "Un signe pour qu’on ne le tue pas",
+      "Une couronne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 4:15 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-007",
+    "book": "Genèse",
+    "chapter": 7,
+    "verseRef": "Genèse 7:24",
+    "verseText": "Voir Genèse 7:24.",
+    "question": "Combien de temps les eaux du déluge ont-elles dominé sur la terre ?",
+    "choices": [
+      "40 jours",
+      "150 jours",
+      "7 jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 7:24 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-008",
+    "book": "Genèse",
+    "chapter": 8,
+    "verseRef": "Genèse 8:6-7",
+    "verseText": "Voir Genèse 8:6-7.",
+    "question": "Quel est le premier oiseau que Noé lâche pour voir si la terre a séché ?",
+    "choices": [
+      "Une colombe",
+      "Un corbeau",
+      "Un aigle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 8:6-7 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-009",
+    "book": "Genèse",
+    "chapter": 9,
+    "verseRef": "Genèse 9:12-13",
+    "verseText": "Voir Genèse 9:12-13.",
+    "question": "Quel signe d’alliance Dieu donne-t-il à Noé ?",
+    "choices": [
+      "Une étoile",
+      "Un arc dans la nuée",
+      "Une montagne sacrée"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 9:12-13 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-010",
+    "book": "Genèse",
+    "chapter": 10,
+    "verseRef": "Genèse 10:8-10",
+    "verseText": "Voir Genèse 10:8-10.",
+    "question": "Quel peuple est associé à Nimrod dans Genèse ?",
+    "choices": [
+      "Les Philistins",
+      "Les premiers royaumes puissants (Babel, Érec, Accad)",
+      "Les Moabites"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 10:8-10 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-011",
+    "book": "Genèse",
+    "chapter": 11,
+    "verseRef": "Genèse 11:4",
+    "verseText": "Voir Genèse 11:4.",
+    "question": "Pourquoi les hommes bâtissent-ils la tour de Babel ?",
+    "choices": [
+      "Pour célébrer Noé",
+      "Pour se faire un nom et éviter d’être dispersés",
+      "Pour établir un temple à Jérusalem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 11:4 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-012",
+    "book": "Genèse",
+    "chapter": 11,
+    "verseRef": "Genèse 11:26",
+    "verseText": "Voir Genèse 11:26.",
+    "question": "Quel est le nom du père d’Abram (Abraham) ?",
+    "choices": [
+      "Térah",
+      "Nahor",
+      "Laban"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 11:26 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-013",
+    "book": "Genèse",
+    "chapter": 12,
+    "verseRef": "Genèse 12:1-3",
+    "verseText": "Voir Genèse 12:1-3.",
+    "question": "Quelle promesse centrale Dieu fait-il à Abram au départ de Harran ?",
+    "choices": [
+      "Une armée invincible",
+      "Un pays + une grande nation + bénédiction",
+      "Une sagesse supérieure aux rois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 12:1-3 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-014",
+    "book": "Genèse",
+    "chapter": 11,
+    "verseRef": "Genèse 11:29 ; 12:5",
+    "verseText": "Voir Genèse 11:29 ; 12:5.",
+    "question": "Qui est la femme d’Abram ?",
+    "choices": [
+      "Rébecca",
+      "Saraï",
+      "Rachel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 11:29 ; 12:5 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-015",
+    "book": "Genèse",
+    "chapter": 12,
+    "verseRef": "Genèse 12:16",
+    "verseText": "Voir Genèse 12:16.",
+    "question": "Quel “cadeau” Abram reçoit-il en Égypte à cause de Saraï ?",
+    "choices": [
+      "Une ville",
+      "Des troupeaux et des serviteurs",
+      "Une couronne royale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 12:16 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-016",
+    "book": "Genèse",
+    "chapter": 13,
+    "verseRef": "Genèse 13:6-7",
+    "verseText": "Voir Genèse 13:6-7.",
+    "question": "Pourquoi Abram et Lot se séparent-ils ?",
+    "choices": [
+      "Un conflit religieux",
+      "La terre ne suffit pas à leurs troupeaux, querelles entre bergers",
+      "Une guerre entre leurs familles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 13:6-7 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-017",
+    "book": "Genèse",
+    "chapter": 13,
+    "verseRef": "Genèse 13:10-12",
+    "verseText": "Voir Genèse 13:10-12.",
+    "question": "Quel choix Lot fait-il en voyant la plaine du Jourdain ?",
+    "choices": [
+      "Il choisit les montagnes arides",
+      "Il choisit la plaine bien arrosée, vers Sodome",
+      "Il retourne en Égypte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 13:10-12 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-018",
+    "book": "Genèse",
+    "chapter": 14,
+    "verseRef": "Genèse 14:18-19",
+    "verseText": "Voir Genèse 14:18-19.",
+    "question": "Qui bénit Abram après la victoire sur les rois ?",
+    "choices": [
+      "Abimélec",
+      "Melchisédek",
+      "Pharaon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 14:18-19 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-019",
+    "book": "Genèse",
+    "chapter": 14,
+    "verseRef": "Genèse 14:22-23",
+    "verseText": "Voir Genèse 14:22-23.",
+    "question": "Quelle attitude Abram adopte-t-il face au butin de Sodome ?",
+    "choices": [
+      "Il prend tout et s’enfuit",
+      "Il refuse de s’enrichir par le roi de Sodome",
+      "Il exige un impôt annuel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 14:22-23 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-020",
+    "book": "Genèse",
+    "chapter": 15,
+    "verseRef": "Genèse 15:9-10, 17",
+    "verseText": "Voir Genèse 15:9-10, 17.",
+    "question": "Quel signe Dieu donne-t-il à Abram dans l’alliance de Genèse 15 ?",
+    "choices": [
+      "Un autel d’or",
+      "Un sacrifice partagé + passage du feu (fournaise/flambeau)",
+      "Une pluie de manne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 15:9-10, 17 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-021",
+    "book": "Genèse",
+    "chapter": 16,
+    "verseRef": "Genèse 16:1",
+    "verseText": "Voir Genèse 16:1.",
+    "question": "Qui est Agar ?",
+    "choices": [
+      "La sœur de Saraï",
+      "La servante égyptienne de Saraï",
+      "La fille de Lot"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 16:1 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-022",
+    "book": "Genèse",
+    "chapter": 16,
+    "verseRef": "Genèse 16:11",
+    "verseText": "Voir Genèse 16:11.",
+    "question": "Quel nom Dieu demande-t-il qu’on donne à l’enfant d’Agar ?",
+    "choices": [
+      "Ésaü",
+      "Ismaël",
+      "Joseph"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 16:11 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-023",
+    "book": "Genèse",
+    "chapter": 17,
+    "verseRef": "Genèse 17:5",
+    "verseText": "Voir Genèse 17:5.",
+    "question": "Quel nouveau nom Abram reçoit-il ?",
+    "choices": [
+      "Abraham",
+      "Israël",
+      "Éphraïm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 17:5 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-024",
+    "book": "Genèse",
+    "chapter": 17,
+    "verseRef": "Genèse 17:10-11",
+    "verseText": "Voir Genèse 17:10-11.",
+    "question": "Quel est le signe de l’alliance en Genèse 17 ?",
+    "choices": [
+      "Le sabbat",
+      "La circoncision",
+      "L’offrande de blé"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 17:10-11 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-025",
+    "book": "Genèse",
+    "chapter": 17,
+    "verseRef": "Genèse 17:15",
+    "verseText": "Voir Genèse 17:15.",
+    "question": "Quel est le nouveau nom de Saraï ?",
+    "choices": [
+      "Sarah",
+      "Myriam",
+      "Débora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 17:15 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-026",
+    "book": "Genèse",
+    "chapter": 18,
+    "verseRef": "Genèse 18:1-2",
+    "verseText": "Voir Genèse 18:1-2.",
+    "question": "À Abraham, combien d’hommes apparaissent près des chênes de Mamré ?",
+    "choices": [
+      "Un seul",
+      "Deux",
+      "Trois"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 18:1-2 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-027",
+    "book": "Genèse",
+    "chapter": 18,
+    "verseRef": "Genèse 18:32",
+    "verseText": "Voir Genèse 18:32.",
+    "question": "Jusqu’à quel nombre Abraham plaide-t-il pour épargner Sodome ?",
+    "choices": [
+      "50",
+      "20",
+      "10"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 18:32 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-028",
+    "book": "Genèse",
+    "chapter": 19,
+    "verseRef": "Genèse 19:17",
+    "verseText": "Voir Genèse 19:17.",
+    "question": "Quel avertissement est donné à Lot pendant la fuite ?",
+    "choices": [
+      "Ne pas parler",
+      "Ne pas regarder en arrière",
+      "Ne pas courir"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 19:17 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-029",
+    "book": "Genèse",
+    "chapter": 21,
+    "verseRef": "Genèse 21:1-3, 6",
+    "verseText": "Voir Genèse 21:1-3, 6.",
+    "question": "Quel événement marque la naissance d’Isaac ?",
+    "choices": [
+      "Sarah rit et Dieu confirme sa promesse",
+      "Abraham bâtit une tour",
+      "Lot revient à Sodome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 21:1-3, 6 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-030",
+    "book": "Genèse",
+    "chapter": 22,
+    "verseRef": "Genèse 22:2",
+    "verseText": "Voir Genèse 22:2.",
+    "question": "Où Abraham manque-t-il d’offrir Isaac en sacrifice ?",
+    "choices": [
+      "Béthel",
+      "Morija",
+      "Sinaï"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 22:2 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-031",
+    "book": "Genèse",
+    "chapter": 21,
+    "verseRef": "Genèse 21:9",
+    "verseText": "Voir Genèse 21:9.",
+    "question": "Après la naissance d’Isaac, quel conflit éclate lors d’une fête ?",
+    "choices": [
+      "Ésaü vole le troupeau d’Abraham",
+      "Ismaël se moque d’Isaac",
+      "Lot revient réclamer la plaine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 21:9 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-032",
+    "book": "Genèse",
+    "chapter": 21,
+    "verseRef": "Genèse 21:10-12",
+    "verseText": "Voir Genèse 21:10-12.",
+    "question": "Quel ordre Abraham reçoit-il concernant Agar et Ismaël ?",
+    "choices": [
+      "Les renvoyer",
+      "Les garder comme héritiers uniques",
+      "Les envoyer à Sodome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 21:10-12 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-033",
+    "book": "Genèse",
+    "chapter": 21,
+    "verseRef": "Genèse 21:19",
+    "verseText": "Voir Genèse 21:19.",
+    "question": "Dans le désert, comment Dieu secourt Agar ?",
+    "choices": [
+      "Il envoie des anges avec du pain",
+      "Il lui ouvre les yeux sur un puits d’eau",
+      "Il fait tomber la pluie pendant 40 jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 21:19 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-034",
+    "book": "Genèse",
+    "chapter": 21,
+    "verseRef": "Genèse 21:25-32",
+    "verseText": "Voir Genèse 21:25-32.",
+    "question": "Quel pacte Abraham conclut-il avec Abimélec ?",
+    "choices": [
+      "Un pacte au sujet d’un puits",
+      "Une alliance de conquête",
+      "Un pacte pour bâtir une tour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 21:25-32 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-035",
+    "book": "Genèse",
+    "chapter": 21,
+    "verseRef": "Genèse 21:31",
+    "verseText": "Voir Genèse 21:31.",
+    "question": "Quel est le nom du lieu lié au puits juré entre Abraham et Abimélec ?",
+    "choices": [
+      "Beer-Schéba",
+      "Sichem",
+      "Hébron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 21:31 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-036",
+    "book": "Genèse",
+    "chapter": 23,
+    "verseRef": "Genèse 23:2, 19",
+    "verseText": "Voir Genèse 23:2, 19.",
+    "question": "Qui meurt et est enterrée à Kirjath-Arba (Hébron) ?",
+    "choices": [
+      "Rébecca",
+      "Sarah",
+      "Léa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 23:2, 19 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-037",
+    "book": "Genèse",
+    "chapter": 23,
+    "verseRef": "Genèse 23:17-20",
+    "verseText": "Voir Genèse 23:17-20.",
+    "question": "Quel terrain Abraham achète-t-il pour une sépulture ?",
+    "choices": [
+      "Le champ d’Éphron avec la caverne de Macpéla",
+      "Une vallée près de Beer-Schéba",
+      "Le sommet de Morija"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 23:17-20 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-038",
+    "book": "Genèse",
+    "chapter": 24,
+    "verseRef": "Genèse 24:2",
+    "verseText": "Voir Genèse 24:2.",
+    "question": "À qui Abraham confie-t-il la recherche d’une femme pour Isaac ?",
+    "choices": [
+      "À Lot",
+      "À son serviteur le plus ancien de sa maison",
+      "À Abimélec"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 24:2 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-039",
+    "book": "Genèse",
+    "chapter": 24,
+    "verseRef": "Genèse 24:13-14",
+    "verseText": "Voir Genèse 24:13-14.",
+    "question": "Quel signe le serviteur demande-t-il à Dieu près du puits ?",
+    "choices": [
+      "La jeune fille qui offrira à boire et puisera pour les chameaux",
+      "La jeune fille qui donnera de l’or",
+      "La jeune fille qui chantera un psaume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 24:13-14 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-040",
+    "book": "Genèse",
+    "chapter": 24,
+    "verseRef": "Genèse 24:18-20",
+    "verseText": "Voir Genèse 24:18-20.",
+    "question": "Quelle femme correspond exactement au signe près du puits ?",
+    "choices": [
+      "Rachel",
+      "Rébecca",
+      "Dina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 24:18-20 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-041",
+    "book": "Genèse",
+    "chapter": 24,
+    "verseRef": "Genèse 24:55",
+    "verseText": "Voir Genèse 24:55.",
+    "question": "Quel frère de Rébecca veut d’abord retarder son départ ?",
+    "choices": [
+      "Laban",
+      "Ismaël",
+      "Ésaü"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 24:55 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-042",
+    "book": "Genèse",
+    "chapter": 24,
+    "verseRef": "Genèse 24:62",
+    "verseText": "Voir Genèse 24:62.",
+    "question": "Où Isaac habite-t-il lorsqu’il rencontre Rébecca ?",
+    "choices": [
+      "À l’entrée de Sodome",
+      "Près du puits de Lachaï-roï",
+      "À Babel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 24:62 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-043",
+    "book": "Genèse",
+    "chapter": 24,
+    "verseRef": "Genèse 24:67",
+    "verseText": "Voir Genèse 24:67.",
+    "question": "Quel est l’effet du mariage de Rébecca sur Isaac après la mort de sa mère ?",
+    "choices": [
+      "Il est consolé",
+      "Il devient roi",
+      "Il part en Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 24:67 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-044",
+    "book": "Genèse",
+    "chapter": 25,
+    "verseRef": "Genèse 25:23",
+    "verseText": "Voir Genèse 25:23.",
+    "question": "Que révèle Dieu à Rébecca au sujet de ses deux enfants à naître ?",
+    "choices": [
+      "Ils seront toujours unis",
+      "Deux nations seront en elle, et l’aîné servira le plus jeune",
+      "Ils mourront le même jour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 25:23 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-045",
+    "book": "Genèse",
+    "chapter": 25,
+    "verseRef": "Genèse 25:33-34",
+    "verseText": "Voir Genèse 25:33-34.",
+    "question": "Que vend Ésaü pour un plat de lentilles ?",
+    "choices": [
+      "Sa bénédiction",
+      "Son droit d’aînesse",
+      "Son troupeau"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 25:33-34 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-046",
+    "book": "Genèse",
+    "chapter": 26,
+    "verseRef": "Genèse 26:2-3",
+    "verseText": "Voir Genèse 26:2-3.",
+    "question": "Pourquoi Isaac ne veut-il pas descendre en Égypte lors de la famine ?",
+    "choices": [
+      "Il est malade",
+      "L’Éternel lui dit de rester au pays",
+      "Abimélec lui interdit l’accès"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 26:2-3 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-047",
+    "book": "Genèse",
+    "chapter": 26,
+    "verseRef": "Genèse 26:7",
+    "verseText": "Voir Genèse 26:7.",
+    "question": "Quel mensonge Isaac répète-t-il à propos de Rébecca ?",
+    "choices": [
+      "« C’est ma sœur »",
+      "« C’est ma servante »",
+      "« C’est la veuve de Lot »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 26:7 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-048",
+    "book": "Genèse",
+    "chapter": 26,
+    "verseRef": "Genèse 26:8-9",
+    "verseText": "Voir Genèse 26:8-9.",
+    "question": "Comment Abimélec découvre-t-il la vérité ?",
+    "choices": [
+      "Par un rêve",
+      "Il voit Isaac qui plaisante avec Rébecca",
+      "Un prophète le lui annonce"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 26:8-9 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-049",
+    "book": "Genèse",
+    "chapter": 26,
+    "verseRef": "Genèse 26:22",
+    "verseText": "Voir Genèse 26:22.",
+    "question": "Quel nom Isaac donne-t-il au puits, signe d’espace accordé par Dieu ?",
+    "choices": [
+      "Sitna",
+      "Rehoboth",
+      "Moré"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 26:22 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-050",
+    "book": "Genèse",
+    "chapter": 27,
+    "verseRef": "Genèse 27:19-29",
+    "verseText": "Voir Genèse 27:19-29.",
+    "question": "Qui reçoit la bénédiction d’Isaac par ruse ?",
+    "choices": [
+      "Jacob",
+      "Ésaü",
+      "Laban"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 27:19-29 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-051",
+    "book": "Genèse",
+    "chapter": 27,
+    "verseRef": "Genèse 27:9",
+    "verseText": "Voir Genèse 27:9.",
+    "question": "Quel animal Rébecca fait-elle préparer pour tromper Isaac ?",
+    "choices": [
+      "Deux chevreaux",
+      "Un agneau unique",
+      "Un taureau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 27:9 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-052",
+    "book": "Genèse",
+    "chapter": 27,
+    "verseRef": "Genèse 27:16",
+    "verseText": "Voir Genèse 27:16.",
+    "question": "Que met Jacob sur ses mains et sur son cou pour imiter Ésaü ?",
+    "choices": [
+      "De la laine",
+      "Des peaux de chevreaux",
+      "Des feuilles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 27:16 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-053",
+    "book": "Genèse",
+    "chapter": 27,
+    "verseRef": "Genèse 27:34",
+    "verseText": "Voir Genèse 27:34.",
+    "question": "Après la bénédiction, quelle émotion Ésaü manifeste-t-il ?",
+    "choices": [
+      "Il rit",
+      "Il pousse de grands cris amers",
+      "Il dort"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 27:34 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-054",
+    "book": "Genèse",
+    "chapter": 27,
+    "verseRef": "Genèse 27:41-28:2",
+    "verseText": "Voir Genèse 27:41-28:2.",
+    "question": "Pourquoi Jacob part-il vers Paddan-Aram ?",
+    "choices": [
+      "Pour acheter un champ",
+      "Pour fuir Ésaü et prendre une femme dans sa parenté",
+      "Pour devenir roi de Babel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 27:41-28:2 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-055",
+    "book": "Genèse",
+    "chapter": 28,
+    "verseRef": "Genèse 28:12",
+    "verseText": "Voir Genèse 28:12.",
+    "question": "Quelle vision Jacob voit-il à Béthel ?",
+    "choices": [
+      "Un trône au-dessus de la mer",
+      "Une échelle avec des anges",
+      "Une arche sur une montagne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 28:12 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-056",
+    "book": "Genèse",
+    "chapter": 28,
+    "verseRef": "Genèse 28:20-22",
+    "verseText": "Voir Genèse 28:20-22.",
+    "question": "Quel vœu Jacob fait-il après cette vision ?",
+    "choices": [
+      "De ne plus jamais voyager",
+      "Que l’Éternel soit son Dieu et donner la dîme",
+      "De bâtir une ville nommée Jacob"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 28:20-22 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-057",
+    "book": "Genèse",
+    "chapter": 29,
+    "verseRef": "Genèse 29:13",
+    "verseText": "Voir Genèse 29:13.",
+    "question": "Quel homme Jacob rencontre-t-il en arrivant chez sa parenté ?",
+    "choices": [
+      "Laban",
+      "Éphron",
+      "Melchisédek"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 29:13 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-058",
+    "book": "Genèse",
+    "chapter": 29,
+    "verseRef": "Genèse 29:18-20",
+    "verseText": "Voir Genèse 29:18-20.",
+    "question": "Combien d’années Jacob sert-il pour Rachel au départ ?",
+    "choices": [
+      "3 ans",
+      "7 ans",
+      "20 ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 29:18-20 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-059",
+    "book": "Genèse",
+    "chapter": 29,
+    "verseRef": "Genèse 29:23-25",
+    "verseText": "Voir Genèse 29:23-25.",
+    "question": "Qui Laban donne-t-il à Jacob à la place de Rachel ?",
+    "choices": [
+      "Léa",
+      "Dina",
+      "Agar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 29:23-25 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-060",
+    "book": "Genèse",
+    "chapter": 29,
+    "verseRef": "Genèse 29:32",
+    "verseText": "Voir Genèse 29:32.",
+    "question": "Quel est le premier fils de Jacob né de Léa ?",
+    "choices": [
+      "Ruben",
+      "Siméon",
+      "Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 29:32 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-061",
+    "book": "Genèse",
+    "chapter": 29,
+    "verseRef": "Genèse 29:35",
+    "verseText": "Voir Genèse 29:35.",
+    "question": "Quel fils de Jacob naît quand Léa dit : « Cette fois, je louerai l’Éternel » ?",
+    "choices": [
+      "Lévi",
+      "Juda",
+      "Dan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 29:35 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-062",
+    "book": "Genèse",
+    "chapter": 30,
+    "verseRef": "Genèse 30:3-4",
+    "verseText": "Voir Genèse 30:3-4.",
+    "question": "Quelle servante Rachel donne-t-elle à Jacob pour avoir des enfants ?",
+    "choices": [
+      "Zilpa",
+      "Bilha",
+      "Débora"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 30:3-4 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-063",
+    "book": "Genèse",
+    "chapter": 30,
+    "verseRef": "Genèse 30:6",
+    "verseText": "Voir Genèse 30:6.",
+    "question": "Quel est le nom du fils que Rachel appelle « Dieu a jugé » ?",
+    "choices": [
+      "Dan",
+      "Nephtali",
+      "Gad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 30:6 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-064",
+    "book": "Genèse",
+    "chapter": 31,
+    "verseRef": "Genèse 31:19",
+    "verseText": "Voir Genèse 31:19.",
+    "question": "Qui vole les théraphim (idoles) de Laban ?",
+    "choices": [
+      "Léa",
+      "Rachel",
+      "Bilha"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 31:19 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-065",
+    "book": "Genèse",
+    "chapter": 31,
+    "verseRef": "Genèse 31:34-35",
+    "verseText": "Voir Genèse 31:34-35.",
+    "question": "Comment Rachel cache-t-elle les théraphim quand Laban fouille ?",
+    "choices": [
+      "Elle les enterre dehors",
+      "Elle s’assoit dessus en prétextant une indisposition",
+      "Elle les donne à Jacob"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 31:34-35 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-066",
+    "book": "Genèse",
+    "chapter": 32,
+    "verseRef": "Genèse 32:24-28",
+    "verseText": "Voir Genèse 32:24-28.",
+    "question": "Quel être Jacob combat-il la nuit avant de revoir Ésaü ?",
+    "choices": [
+      "Un lion",
+      "Un homme (qui le bénit)",
+      "Un roi païen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 32:24-28 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-067",
+    "book": "Genèse",
+    "chapter": 32,
+    "verseRef": "Genèse 32:28",
+    "verseText": "Voir Genèse 32:28.",
+    "question": "Quel nouveau nom Jacob reçoit-il après ce combat ?",
+    "choices": [
+      "Israël",
+      "Abraham",
+      "Édom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 32:28 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-068",
+    "book": "Genèse",
+    "chapter": 33,
+    "verseRef": "Genèse 33:4",
+    "verseText": "Voir Genèse 33:4.",
+    "question": "Que fait Ésaü en retrouvant Jacob ?",
+    "choices": [
+      "Il le frappe",
+      "Il l’embrasse et pleure",
+      "Il le vend"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 33:4 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-069",
+    "book": "Genèse",
+    "chapter": 34,
+    "verseRef": "Genèse 34:1-2",
+    "verseText": "Voir Genèse 34:1-2.",
+    "question": "Quel événement tragique arrive à Dina à Sichem ?",
+    "choices": [
+      "Elle est enlevée et humiliée",
+      "Elle devient reine",
+      "Elle est vendue en Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 34:1-2 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-070",
+    "book": "Genèse",
+    "chapter": 34,
+    "verseRef": "Genèse 34:15-17",
+    "verseText": "Voir Genèse 34:15-17.",
+    "question": "Quelle condition les fils de Jacob imposent-ils aux hommes de Sichem ?",
+    "choices": [
+      "Donner tout leur or",
+      "Se circoncire",
+      "Quitter la ville"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 34:15-17 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-071",
+    "book": "Genèse",
+    "chapter": 28,
+    "verseRef": "Genèse 28:16-19",
+    "verseText": "Voir Genèse 28:16-19.",
+    "question": "Quel nom Jacob donne-t-il au lieu où il dit : « Dieu était en ce lieu » ?",
+    "choices": [
+      "Beer-Schéba",
+      "Béthel",
+      "Mamré"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 28:16-19 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-072",
+    "book": "Genèse",
+    "chapter": 30,
+    "verseRef": "Genèse 30:32-33",
+    "verseText": "Voir Genèse 30:32-33.",
+    "question": "Quel “salaire” Jacob demande-t-il à Laban après ses années de service ?",
+    "choices": [
+      "Une maison en Canaan",
+      "Les bêtes tachetées, mouchetées et rayées",
+      "Des pièces d’or de Pharaon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 30:32-33 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-073",
+    "book": "Genèse",
+    "chapter": 30,
+    "verseRef": "Genèse 30:11",
+    "verseText": "Voir Genèse 30:11.",
+    "question": "Quel prénom Léa donne-t-elle quand elle dit : « Quel bonheur ! » ?",
+    "choices": [
+      "Gad",
+      "Aser",
+      "Issacar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 30:11 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-074",
+    "book": "Genèse",
+    "chapter": 30,
+    "verseRef": "Genèse 30:13",
+    "verseText": "Voir Genèse 30:13.",
+    "question": "Quel prénom Léa donne-t-elle quand elle dit : « Que je suis heureuse ! » ?",
+    "choices": [
+      "Dan",
+      "Aser",
+      "Nephtali"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 30:13 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-075",
+    "book": "Genèse",
+    "chapter": 30,
+    "verseRef": "Genèse 30:14-16",
+    "verseText": "Voir Genèse 30:14-16.",
+    "question": "Quel “prix” Rachel paie-t-elle pour obtenir les mandragores de Léa ?",
+    "choices": [
+      "Un collier d’or",
+      "La nuit de Jacob avec Léa",
+      "Un troupeau de chèvres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 30:14-16 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-076",
+    "book": "Genèse",
+    "chapter": 30,
+    "verseRef": "Genèse 30:18",
+    "verseText": "Voir Genèse 30:18.",
+    "question": "Quel fils Léa nomme-t-elle en disant : « Dieu m’a donné mon salaire » ?",
+    "choices": [
+      "Issacar",
+      "Zabulon",
+      "Joseph"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 30:18 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-077",
+    "book": "Genèse",
+    "chapter": 30,
+    "verseRef": "Genèse 30:20",
+    "verseText": "Voir Genèse 30:20.",
+    "question": "Quel fils Léa nomme-t-elle en disant : « Dieu m’a fait un beau don » ?",
+    "choices": [
+      "Issacar",
+      "Zabulon",
+      "Ruben"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 30:20 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-078",
+    "book": "Genèse",
+    "chapter": 30,
+    "verseRef": "Genèse 30:24",
+    "verseText": "Voir Genèse 30:24.",
+    "question": "Quelle prière centrale Rachel prononce-t-elle en nommant Joseph ?",
+    "choices": [
+      "« Que l’Éternel ajoute un autre fils »",
+      "« Que l’Éternel me retire de Canaan »",
+      "« Que l’Éternel fasse tomber la pluie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 30:24 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-079",
+    "book": "Genèse",
+    "chapter": 31,
+    "verseRef": "Genèse 31:24",
+    "verseText": "Voir Genèse 31:24.",
+    "question": "Quel avertissement Dieu donne-t-il à Laban lorsqu’il poursuit Jacob ?",
+    "choices": [
+      "« Ne lui fais ni bien ni mal »",
+      "« Attaque-le à l’aube »",
+      "« Prends ses troupeaux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 31:24 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-080",
+    "book": "Genèse",
+    "chapter": 31,
+    "verseRef": "Genèse 31:45-48",
+    "verseText": "Voir Genèse 31:45-48.",
+    "question": "Quel monument Jacob et Laban dressent-ils pour sceller leur accord ?",
+    "choices": [
+      "Une tour en briques",
+      "Un monceau de pierres (témoignage)",
+      "Un autel d’or"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 31:45-48 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-081",
+    "book": "Genèse",
+    "chapter": 32,
+    "verseRef": "Genèse 32:4-5",
+    "verseText": "Voir Genèse 32:4-5.",
+    "question": "Quel message Jacob envoie-t-il à Ésaü avant de le rencontrer ?",
+    "choices": [
+      "Il veut lui déclarer la guerre",
+      "Il dit qu’il a séjourné chez Laban et possède des troupeaux",
+      "Il annonce qu’il deviendra roi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 32:4-5 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-082",
+    "book": "Genèse",
+    "chapter": 33,
+    "verseRef": "Genèse 33:3",
+    "verseText": "Voir Genèse 33:3.",
+    "question": "Quel geste Jacob fait-il quand il voit Ésaü s’approcher ?",
+    "choices": [
+      "Il se cache",
+      "Il se prosterne sept fois",
+      "Il lève un étendard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 33:3 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-083",
+    "book": "Genèse",
+    "chapter": 33,
+    "verseRef": "Genèse 33:8-11",
+    "verseText": "Voir Genèse 33:8-11.",
+    "question": "Après la réconciliation, quel cadeau Ésaü refuse d’abord ?",
+    "choices": [
+      "Une dîme",
+      "Les présents de Jacob",
+      "Un champ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 33:8-11 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-084",
+    "book": "Genèse",
+    "chapter": 33,
+    "verseRef": "Genèse 33:20",
+    "verseText": "Voir Genèse 33:20.",
+    "question": "Quel nom Jacob donne-t-il à l’autel qu’il bâtit près de Sichem ?",
+    "choices": [
+      "El-Elohé-Israël",
+      "El-Shaddaï",
+      "Jéhovah-Nissi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 33:20 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-085",
+    "book": "Genèse",
+    "chapter": 35,
+    "verseRef": "Genèse 35:1",
+    "verseText": "Voir Genèse 35:1.",
+    "question": "Quel ordre Dieu donne-t-il à Jacob avant de retourner à Béthel ?",
+    "choices": [
+      "Monter à Béthel et y bâtir un autel",
+      "Aller en Égypte pour du blé",
+      "Retourner à Sodome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 35:1 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-086",
+    "book": "Genèse",
+    "chapter": 35,
+    "verseRef": "Genèse 35:4",
+    "verseText": "Voir Genèse 35:4.",
+    "question": "Que fait Jacob avec les objets étrangers (idoles, etc.) après la purification ?",
+    "choices": [
+      "Il les vend",
+      "Il les cache sous le térébinthe près de Sichem",
+      "Il les donne à Laban"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 35:4 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-087",
+    "book": "Genèse",
+    "chapter": 35,
+    "verseRef": "Genèse 35:16, 19",
+    "verseText": "Voir Genèse 35:16, 19.",
+    "question": "Quel nom est donné au lieu où Rachel meurt en enfantant ?",
+    "choices": [
+      "Morija",
+      "Éphrata",
+      "Gosen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 35:16, 19 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-088",
+    "book": "Genèse",
+    "chapter": 35,
+    "verseRef": "Genèse 35:18",
+    "verseText": "Voir Genèse 35:18.",
+    "question": "Quel nom Rachel donne-t-elle au fils qu’elle met au monde avant de mourir ?",
+    "choices": [
+      "Ben-Oni",
+      "Manassé",
+      "Aser"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 35:18 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-089",
+    "book": "Genèse",
+    "chapter": 35,
+    "verseRef": "Genèse 35:18",
+    "verseText": "Voir Genèse 35:18.",
+    "question": "Quel nouveau nom Jacob donne-t-il à ce fils ?",
+    "choices": [
+      "Éphraïm",
+      "Benjamin",
+      "Gad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 35:18 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-090",
+    "book": "Genèse",
+    "chapter": 37,
+    "verseRef": "Genèse 37:3",
+    "verseText": "Voir Genèse 37:3.",
+    "question": "Avec quel vêtement Joseph est-il particulièrement distingué par son père ?",
+    "choices": [
+      "Un manteau de plusieurs couleurs",
+      "Une tunique de lin blanc",
+      "Une robe de sac"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 37:3 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-091",
+    "book": "Genèse",
+    "chapter": 37,
+    "verseRef": "Genèse 37:6-8",
+    "verseText": "Voir Genèse 37:6-8.",
+    "question": "Quel est le premier songe de Joseph (résumé) ?",
+    "choices": [
+      "Le soleil et la lune l’adorent",
+      "Les gerbes de ses frères se prosternent devant sa gerbe",
+      "Une mer qui se divise"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 37:6-8 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-092",
+    "book": "Genèse",
+    "chapter": 37,
+    "verseRef": "Genèse 37:9-10",
+    "verseText": "Voir Genèse 37:9-10.",
+    "question": "Quel est le second songe de Joseph (résumé) ?",
+    "choices": [
+      "Des montagnes qui parlent",
+      "Le soleil, la lune et onze étoiles se prosternent",
+      "Un feu qui tombe du ciel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 37:9-10 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-093",
+    "book": "Genèse",
+    "chapter": 37,
+    "verseRef": "Genèse 37:12-17",
+    "verseText": "Voir Genèse 37:12-17.",
+    "question": "Où les frères de Joseph vont-ils paître le troupeau quand Jacob l’envoie ?",
+    "choices": [
+      "À Dotan (près)",
+      "À Sichem (puis vers Dotan)",
+      "À Gosen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 37:12-17 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-094",
+    "book": "Genèse",
+    "chapter": 37,
+    "verseRef": "Genèse 37:21-22",
+    "verseText": "Voir Genèse 37:21-22.",
+    "question": "Quelle idée Ruben propose-t-il pour sauver Joseph ?",
+    "choices": [
+      "Le vendre immédiatement",
+      "Le jeter dans une citerne pour le délivrer ensuite",
+      "Le renvoyer à Jacob"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 37:21-22 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-095",
+    "book": "Genèse",
+    "chapter": 37,
+    "verseRef": "Genèse 37:31-33",
+    "verseText": "Voir Genèse 37:31-33.",
+    "question": "Quel animal sert à tromper Jacob sur le sort de Joseph ?",
+    "choices": [
+      "Un bouc (sang sur la tunique)",
+      "Un agneau",
+      "Un cheval"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 37:31-33 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-096",
+    "book": "Genèse",
+    "chapter": 37,
+    "verseRef": "Genèse 37:34-35",
+    "verseText": "Voir Genèse 37:34-35.",
+    "question": "Quel sentiment Jacob exprime-t-il en croyant Joseph mort ?",
+    "choices": [
+      "Il se réjouit",
+      "Il refuse d’être consolé",
+      "Il part en Égypte immédiatement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 37:34-35 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-097",
+    "book": "Genèse",
+    "chapter": 39,
+    "verseRef": "Genèse 39:1",
+    "verseText": "Voir Genèse 39:1.",
+    "question": "Quel est le nom du maître égyptien qui achète Joseph ?",
+    "choices": [
+      "Potiphar",
+      "Abimélec",
+      "Pharaon-Néco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 39:1 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-098",
+    "book": "Genèse",
+    "chapter": 39,
+    "verseRef": "Genèse 39:4-6",
+    "verseText": "Voir Genèse 39:4-6.",
+    "question": "Quelle responsabilité Joseph reçoit-il chez Potiphar ?",
+    "choices": [
+      "La garde de la ville",
+      "L’administration de la maison et de tout ce qu’il possède",
+      "La prêtrise du temple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 39:4-6 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-099",
+    "book": "Genèse",
+    "chapter": 39,
+    "verseRef": "Genèse 39:14-18",
+    "verseText": "Voir Genèse 39:14-18.",
+    "question": "Quelle accusation la femme de Potiphar porte-t-elle contre Joseph ?",
+    "choices": [
+      "Il a volé de l’or",
+      "Il a voulu la déshonorer",
+      "Il a détruit les récoltes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 39:14-18 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-100",
+    "book": "Genèse",
+    "chapter": 39,
+    "verseRef": "Genèse 39:20",
+    "verseText": "Voir Genèse 39:20.",
+    "question": "Où Joseph est-il enfermé après cette accusation ?",
+    "choices": [
+      "Dans une grotte de Canaan",
+      "Dans la prison où sont les prisonniers du roi",
+      "Dans une maison de Laban"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 39:20 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-101",
+    "book": "Genèse",
+    "chapter": 39,
+    "verseRef": "Genèse 39:21-23",
+    "verseText": "Voir Genèse 39:21-23.",
+    "question": "Quel rôle Joseph obtient-il même en prison ?",
+    "choices": [
+      "Il devient chef des prisonniers",
+      "Il est libéré immédiatement",
+      "Il est condamné à mort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 39:21-23 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-102",
+    "book": "Genèse",
+    "chapter": 40,
+    "verseRef": "Genèse 40:8",
+    "verseText": "Voir Genèse 40:8.",
+    "question": "Quel don particulier de Joseph est mis en avant dans la prison ?",
+    "choices": [
+      "Savoir forger le métal",
+      "Interpréter les songes",
+      "Guérir les malades"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 40:8 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-103",
+    "book": "Genèse",
+    "chapter": 40,
+    "verseRef": "Genèse 40:11",
+    "verseText": "Voir Genèse 40:11.",
+    "question": "Dans le songe de l’échanson, que fait-il avec la coupe ?",
+    "choices": [
+      "Il la brise",
+      "Il presse les raisins dans la coupe de Pharaon",
+      "Il la cache"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 40:11 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-104",
+    "book": "Genèse",
+    "chapter": 40,
+    "verseRef": "Genèse 40:14",
+    "verseText": "Voir Genèse 40:14.",
+    "question": "Que demande Joseph à l’échanson une fois rétabli ?",
+    "choices": [
+      "D’oublier son nom",
+      "De se souvenir de lui et parler à Pharaon",
+      "De lui donner de l’or"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 40:14 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-105",
+    "book": "Genèse",
+    "chapter": 41,
+    "verseRef": "Genèse 41:1 ; 41:9",
+    "verseText": "Voir Genèse 41:1 ; 41:9.",
+    "question": "Après combien de temps l’échanson se souvient-il de Joseph ?",
+    "choices": [
+      "Deux ans",
+      "Sept jours",
+      "Dix ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 41:1 ; 41:9 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-106",
+    "book": "Genèse",
+    "chapter": 40,
+    "verseRef": "Genèse 40:8 ; 41:16",
+    "verseText": "Voir Genèse 40:8 ; 41:16.",
+    "question": "Quel est le message central de Joseph sur l’origine de l’interprétation ?",
+    "choices": [
+      "« C’est ma sagesse »",
+      "« Les interprétations appartiennent à Dieu »",
+      "« Cela vient des magiciens »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 40:8 ; 41:16 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-107",
+    "book": "Genèse",
+    "chapter": 41,
+    "verseRef": "Genèse 41:33-36",
+    "verseText": "Voir Genèse 41:33-36.",
+    "question": "Que propose Joseph à Pharaon pour survivre à la famine ?",
+    "choices": [
+      "Vendre toute l’Égypte",
+      "Mettre un homme sage à la tête, stocker pendant l’abondance",
+      "Fuire en Canaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 41:33-36 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-108",
+    "book": "Genèse",
+    "chapter": 41,
+    "verseRef": "Genèse 41:40-41",
+    "verseText": "Voir Genèse 41:40-41.",
+    "question": "Quelle fonction Pharaon confie-t-il à Joseph ?",
+    "choices": [
+      "Chef de guerre",
+      "Gouverneur/administrateur sur l’Égypte",
+      "Prêtre de Béthel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 41:40-41 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-109",
+    "book": "Genèse",
+    "chapter": 41,
+    "verseRef": "Genèse 41:50-52",
+    "verseText": "Voir Genèse 41:50-52.",
+    "question": "Quels sont les deux fils de Joseph en Égypte ?",
+    "choices": [
+      "Éphraïm et Manassé",
+      "Ruben et Siméon",
+      "Gad et Aser"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 41:50-52 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-110",
+    "book": "Genèse",
+    "chapter": 41,
+    "verseRef": "Genèse 41:52",
+    "verseText": "Voir Genèse 41:52.",
+    "question": "Pourquoi Joseph appelle-t-il son second fils “Éphraïm” ?",
+    "choices": [
+      "« Dieu m’a rendu fécond dans le pays de mon affliction »",
+      "« Dieu a détruit mes ennemis »",
+      "« Dieu m’a donné un royaume »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 41:52 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-111",
+    "book": "Genèse",
+    "chapter": 43,
+    "verseRef": "Genèse 43:11",
+    "verseText": "Voir Genèse 43:11.",
+    "question": "Quel présent Jacob conseille-t-il d’emporter en Égypte pour apaiser le gouverneur ?",
+    "choices": [
+      "Des armes et des chevaux",
+      "Des produits du pays : baume, miel, aromates, myrrhe, pistaches, amandes",
+      "Des pierres pour bâtir un autel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 43:11 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-112",
+    "book": "Genèse",
+    "chapter": 43,
+    "verseRef": "Genèse 43:12",
+    "verseText": "Voir Genèse 43:12.",
+    "question": "Quelle somme les frères apportent-ils en plus lors du second voyage ?",
+    "choices": [
+      "Le double de l’argent",
+      "La moitié de l’argent",
+      "Aucun argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 43:12 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-113",
+    "book": "Genèse",
+    "chapter": 43,
+    "verseRef": "Genèse 43:26",
+    "verseText": "Voir Genèse 43:26.",
+    "question": "Quel acte de politesse les frères accomplissent-ils en entrant chez Joseph ?",
+    "choices": [
+      "Ils chantent un cantique",
+      "Ils se prosternent jusqu’à terre",
+      "Ils allument un feu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 43:26 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-114",
+    "book": "Genèse",
+    "chapter": 43,
+    "verseRef": "Genèse 43:29-30",
+    "verseText": "Voir Genèse 43:29-30.",
+    "question": "En voyant Benjamin, quelle réaction Joseph ressent-il fortement ?",
+    "choices": [
+      "La colère",
+      "L’émotion/les entrailles émues",
+      "L’indifférence"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 43:29-30 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-115",
+    "book": "Genèse",
+    "chapter": 43,
+    "verseRef": "Genèse 43:32",
+    "verseText": "Voir Genèse 43:32.",
+    "question": "Pourquoi Joseph mange-t-il séparément de ses frères à table ?",
+    "choices": [
+      "Il est malade",
+      "Les Égyptiens ne mangent pas avec les Hébreux (abomination)",
+      "Il est en jeûne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 43:32 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-116",
+    "book": "Genèse",
+    "chapter": 43,
+    "verseRef": "Genèse 43:33",
+    "verseText": "Voir Genèse 43:33.",
+    "question": "Comment les frères sont-ils placés au repas, selon le récit ?",
+    "choices": [
+      "Au hasard",
+      "Selon l’ordre d’âge, de l’aîné au plus jeune",
+      "Tous debout"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 43:33 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-117",
+    "book": "Genèse",
+    "chapter": 44,
+    "verseRef": "Genèse 44:2",
+    "verseText": "Voir Genèse 44:2.",
+    "question": "Que cache Joseph dans le sac de Benjamin pour l’épreuve ?",
+    "choices": [
+      "Une pierre gravée",
+      "Sa coupe d’argent",
+      "Une couronne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 44:2 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-118",
+    "book": "Genèse",
+    "chapter": 44,
+    "verseRef": "Genèse 44:13",
+    "verseText": "Voir Genèse 44:13.",
+    "question": "Après la découverte de la coupe, quel geste les frères font-ils ?",
+    "choices": [
+      "Ils fuient",
+      "Ils déchirent leurs vêtements",
+      "Ils construisent un autel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 44:13 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-119",
+    "book": "Genèse",
+    "chapter": 44,
+    "verseRef": "Genèse 44:33",
+    "verseText": "Voir Genèse 44:33.",
+    "question": "Dans son plaidoyer, Juda propose quoi à Joseph ?",
+    "choices": [
+      "Que Benjamin reste et les autres partent",
+      "De devenir esclave à la place de Benjamin",
+      "D’attaquer l’Égypte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 44:33 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-120",
+    "book": "Genèse",
+    "chapter": 45,
+    "verseRef": "Genèse 45:3",
+    "verseText": "Voir Genèse 45:3.",
+    "question": "Quand Joseph se fait connaître, quelle première phrase marquante prononce-t-il ?",
+    "choices": [
+      "« Je suis Joseph ! Mon père vit-il encore ? »",
+      "« Je suis Moïse ! »",
+      "« Je suis le roi de Salem ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 45:3 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-121",
+    "book": "Genèse",
+    "chapter": 45,
+    "verseRef": "Genèse 45:5",
+    "verseText": "Voir Genèse 45:5.",
+    "question": "Joseph demande à ses frères de ne pas s’attrister de quoi ?",
+    "choices": [
+      "D’avoir quitté Canaan",
+      "De l’avoir vendu, car Dieu l’a envoyé pour sauver des vies",
+      "D’avoir perdu de l’argent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 45:5 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-122",
+    "book": "Genèse",
+    "chapter": 45,
+    "verseRef": "Genèse 45:11",
+    "verseText": "Voir Genèse 45:11.",
+    "question": "Quel objectif Joseph donne-t-il au déménagement de la famille en Égypte ?",
+    "choices": [
+      "Fonder une armée",
+      "Être nourris pendant la famine et ne pas périr",
+      "Chercher de l’or"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 45:11 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-123",
+    "book": "Genèse",
+    "chapter": 45,
+    "verseRef": "Genèse 45:19",
+    "verseText": "Voir Genèse 45:19.",
+    "question": "Quel ordre Pharaon donne-t-il pour le voyage de Jacob et sa famille ?",
+    "choices": [
+      "Partir à pied sans bêtes",
+      "Prendre des chars d’Égypte",
+      "Ne prendre aucun bagage"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 45:19 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-124",
+    "book": "Genèse",
+    "chapter": 45,
+    "verseRef": "Genèse 45:26-27",
+    "verseText": "Voir Genèse 45:26-27.",
+    "question": "Quel est l’effet sur Jacob quand il apprend que Joseph vit ?",
+    "choices": [
+      "Il croit immédiatement et court",
+      "Son esprit se ranime après avoir vu les chars",
+      "Il refuse d’y croire à jamais"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 45:26-27 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-125",
+    "book": "Genèse",
+    "chapter": 46,
+    "verseRef": "Genèse 46:1",
+    "verseText": "Voir Genèse 46:1.",
+    "question": "Où Jacob offre-t-il des sacrifices avant de descendre en Égypte ?",
+    "choices": [
+      "À Béthel",
+      "À Beer-Schéba",
+      "À Morija"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 46:1 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-126",
+    "book": "Genèse",
+    "chapter": 46,
+    "verseRef": "Genèse 46:2",
+    "verseText": "Voir Genèse 46:2.",
+    "question": "Dans une vision de nuit, comment Dieu appelle-t-il Jacob ?",
+    "choices": [
+      "« Jacob ! Jacob ! »",
+      "« Israël ! Israël ! »",
+      "« Abraham ! Abraham ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 46:2 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-127",
+    "book": "Genèse",
+    "chapter": 46,
+    "verseRef": "Genèse 46:3",
+    "verseText": "Voir Genèse 46:3.",
+    "question": "Quelle promesse Dieu fait-il à Jacob concernant l’Égypte ?",
+    "choices": [
+      "Il deviendra roi d’Égypte",
+      "Dieu y fera de lui une grande nation",
+      "Il y mourra seul et oublié"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 46:3 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-128",
+    "book": "Genèse",
+    "chapter": 46,
+    "verseRef": "Genèse 46:4",
+    "verseText": "Voir Genèse 46:4.",
+    "question": "Quel réconfort Dieu donne-t-il à Jacob à propos de Joseph ?",
+    "choices": [
+      "« Joseph te donnera de l’or »",
+      "« Joseph fermera tes yeux »",
+      "« Joseph te chassera »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 46:4 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-129",
+    "book": "Genèse",
+    "chapter": 46,
+    "verseRef": "Genèse 46:34",
+    "verseText": "Voir Genèse 46:34.",
+    "question": "Pourquoi Joseph recommande-t-il de dire qu’ils sont bergers ?",
+    "choices": [
+      "Pour être employés au palais",
+      "Parce que les bergers sont en abomination aux Égyptiens, et cela favorise l’installation à part",
+      "Pour recevoir une couronne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 46:34 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-130",
+    "book": "Genèse",
+    "chapter": 47,
+    "verseRef": "Genèse 47:6",
+    "verseText": "Voir Genèse 47:6.",
+    "question": "Où Joseph installe-t-il sa famille selon la décision de Pharaon ?",
+    "choices": [
+      "Dans le pays de Gosen",
+      "Dans la ville de Babel",
+      "Dans les montagnes de Morija"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 47:6 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-131",
+    "book": "Genèse",
+    "chapter": 47,
+    "verseRef": "Genèse 47:7",
+    "verseText": "Voir Genèse 47:7.",
+    "question": "Que fait Jacob lorsqu’il est présenté à Pharaon ?",
+    "choices": [
+      "Il bénit Pharaon",
+      "Il s’agenouille et demande un trône",
+      "Il s’enfuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 47:7 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-132",
+    "book": "Genèse",
+    "chapter": 47,
+    "verseRef": "Genèse 47:9",
+    "verseText": "Voir Genèse 47:9.",
+    "question": "Comment Jacob décrit-il ses années de vie devant Pharaon ?",
+    "choices": [
+      "« Peu nombreuses et mauvaises »",
+      "« Longues et paisibles »",
+      "« Sans aucune épreuve »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 47:9 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-133",
+    "book": "Genèse",
+    "chapter": 47,
+    "verseRef": "Genèse 47:15-17",
+    "verseText": "Voir Genèse 47:15-17.",
+    "question": "Pendant la famine, que font les Égyptiens quand l’argent manque ?",
+    "choices": [
+      "Ils cessent de manger",
+      "Ils donnent leur bétail pour du pain",
+      "Ils partent en Canaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 47:15-17 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-134",
+    "book": "Genèse",
+    "chapter": 47,
+    "verseRef": "Genèse 47:18-20",
+    "verseText": "Voir Genèse 47:18-20.",
+    "question": "Après le bétail, que donnent-ils ensuite pour obtenir du pain ?",
+    "choices": [
+      "Leurs terres et leur personne (ils se vendent)",
+      "Leurs temples",
+      "Leurs chars"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 47:18-20 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-135",
+    "book": "Genèse",
+    "chapter": 47,
+    "verseRef": "Genèse 47:24",
+    "verseText": "Voir Genèse 47:24.",
+    "question": "Quel taux Joseph établit-il pour les récoltes au profit de Pharaon ?",
+    "choices": [
+      "Un dixième",
+      "Un cinquième",
+      "La moitié"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 47:24 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-136",
+    "book": "Genèse",
+    "chapter": 47,
+    "verseRef": "Genèse 47:22",
+    "verseText": "Voir Genèse 47:22.",
+    "question": "Quel seul groupe de propriétaires ne vend pas ses terres ?",
+    "choices": [
+      "Les prêtres",
+      "Les artisans",
+      "Les soldats"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 47:22 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-137",
+    "book": "Genèse",
+    "chapter": 47,
+    "verseRef": "Genèse 47:29-30",
+    "verseText": "Voir Genèse 47:29-30.",
+    "question": "Quelle demande Jacob fait-il à Joseph avant de mourir ?",
+    "choices": [
+      "Être enterré en Égypte",
+      "Ne pas être enterré en Égypte, mais dans le tombeau des pères",
+      "Être brûlé sur un autel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 47:29-30 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-138",
+    "book": "Genèse",
+    "chapter": 47,
+    "verseRef": "Genèse 47:31",
+    "verseText": "Voir Genèse 47:31.",
+    "question": "Quel geste Joseph fait-il en jurant d’accomplir la demande de Jacob ?",
+    "choices": [
+      "Il danse",
+      "Il jure",
+      "Il écrit une lettre à Pharaon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 47:31 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-139",
+    "book": "Genèse",
+    "chapter": 48,
+    "verseRef": "Genèse 48:1",
+    "verseText": "Voir Genèse 48:1.",
+    "question": "Quels sont les deux fils que Joseph amène pour recevoir la bénédiction ?",
+    "choices": [
+      "Éphraïm et Manassé",
+      "Ruben et Siméon",
+      "Dan et Aser"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 48:1 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-140",
+    "book": "Genèse",
+    "chapter": 48,
+    "verseRef": "Genèse 48:7",
+    "verseText": "Voir Genèse 48:7.",
+    "question": "Quel est le souvenir que Jacob évoque en bénissant Joseph : la mort de qui près d’Éphrata ?",
+    "choices": [
+      "Sarah",
+      "Rachel",
+      "Rébecca"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 48:7 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-141",
+    "book": "Genèse",
+    "chapter": 48,
+    "verseRef": "Genèse 48:13-14",
+    "verseText": "Voir Genèse 48:13-14.",
+    "question": "Comment Jacob place-t-il ses mains sur les fils de Joseph ?",
+    "choices": [
+      "Sans croiser les mains",
+      "En croisant les mains (droite sur le plus jeune)",
+      "En posant les deux mains sur l’aîné"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 48:13-14 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-142",
+    "book": "Genèse",
+    "chapter": 48,
+    "verseRef": "Genèse 48:19",
+    "verseText": "Voir Genèse 48:19.",
+    "question": "Quelle prophétie Jacob annonce-t-il sur Éphraïm par rapport à Manassé ?",
+    "choices": [
+      "Éphraïm sera plus grand",
+      "Manassé sera plus grand",
+      "Ils seront sans descendance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 48:19 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-143",
+    "book": "Genèse",
+    "chapter": 49,
+    "verseRef": "Genèse 49:10",
+    "verseText": "Voir Genèse 49:10.",
+    "question": "Dans la bénédiction de Juda, quel objet est mentionné ?",
+    "choices": [
+      "Un sceptre",
+      "Une harpe",
+      "Un arc-en-ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 49:10 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-144",
+    "book": "Genèse",
+    "chapter": 49,
+    "verseRef": "Genèse 49:27",
+    "verseText": "Voir Genèse 49:27.",
+    "question": "Quelle image Jacob emploie-t-il pour Benjamin ?",
+    "choices": [
+      "Un loup qui déchire",
+      "Un agneau paisible",
+      "Un serpent marin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 49:27 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-145",
+    "book": "Genèse",
+    "chapter": 49,
+    "verseRef": "Genèse 49:29-31",
+    "verseText": "Voir Genèse 49:29-31.",
+    "question": "Quel ordre Jacob répète-t-il concernant sa sépulture ?",
+    "choices": [
+      "Être enterré à Macpéla, avec les pères",
+      "Être enterré dans le Nil",
+      "Être enterré à Babel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 49:29-31 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-146",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:1",
+    "verseText": "Voir Genèse 50:1.",
+    "question": "Après la mort de Jacob, Joseph tombe sur son visage et :",
+    "choices": [
+      "Il rit",
+      "Il pleure et l’embrasse",
+      "Il part sans parler"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 50:1 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-147",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:2",
+    "verseText": "Voir Genèse 50:2.",
+    "question": "Quelle procédure Joseph demande-t-il à ses médecins pour Jacob ?",
+    "choices": [
+      "L’embaumement",
+      "La crémation",
+      "Le sacrifice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 50:2 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-148",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:3",
+    "verseText": "Voir Genèse 50:3.",
+    "question": "Combien de jours dure l’embaumement (selon le texte) ?",
+    "choices": [
+      "7 jours",
+      "40 jours",
+      "3 jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 50:3 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-149",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:10-11",
+    "verseText": "Voir Genèse 50:10-11.",
+    "question": "Quel lieu est nommé à cause du grand deuil au-delà du Jourdain ?",
+    "choices": [
+      "Abel-Mitsraïm",
+      "Mahanaïm",
+      "Rehoboth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 50:10-11 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-150",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:15",
+    "verseText": "Voir Genèse 50:15.",
+    "question": "Après l’enterrement, les frères craignent quoi ?",
+    "choices": [
+      "Que Joseph se venge",
+      "Que Pharaon les chasse",
+      "Que la mer les engloutisse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 50:15 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-151",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:16-17",
+    "verseText": "Voir Genèse 50:16-17.",
+    "question": "Quel message les frères inventent-ils/rapportent à Joseph au sujet de Jacob ?",
+    "choices": [
+      "Jacob aurait ordonné à Joseph de devenir roi",
+      "Jacob aurait demandé de pardonner à ses frères",
+      "Jacob aurait demandé de détruire l’Égypte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 50:16-17 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-152",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:19",
+    "verseText": "Voir Genèse 50:19.",
+    "question": "Quelle réponse Joseph donne-t-il sur la place de Dieu ?",
+    "choices": [
+      "« Je suis à la place de Dieu »",
+      "« Suis-je à la place de Dieu ? »",
+      "« Dieu n’existe pas »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 50:19 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-153",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:20",
+    "verseText": "Voir Genèse 50:20.",
+    "question": "Comment Joseph interprète-t-il finalement le mal qu’on lui a fait ?",
+    "choices": [
+      "Dieu l’a changé en bien pour sauver beaucoup de gens",
+      "Il n’y a aucun sens",
+      "Les rêves étaient faux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 50:20 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-154",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:21",
+    "verseText": "Voir Genèse 50:21.",
+    "question": "Quelle promesse Joseph fait-il à ses frères après leur crainte ?",
+    "choices": [
+      "Il les chassera",
+      "Il les nourrira, eux et leurs enfants",
+      "Il les vendra comme esclaves"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 50:21 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-155",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:22, 26",
+    "verseText": "Voir Genèse 50:22, 26.",
+    "question": "Quel âge Joseph atteint-il ?",
+    "choices": [
+      "110 ans",
+      "70 ans",
+      "120 ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 50:22, 26 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-156",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:23",
+    "verseText": "Voir Genèse 50:23.",
+    "question": "Quelle génération Joseph voit-il encore parmi les descendants ?",
+    "choices": [
+      "Les enfants de Benjamin",
+      "Les enfants de Makir, fils de Manassé (élevés sur ses genoux)",
+      "Les enfants de Caïn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 50:23 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-157",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:24",
+    "verseText": "Voir Genèse 50:24.",
+    "question": "Quelle certitude Joseph annonce-t-il avant de mourir ?",
+    "choices": [
+      "« Dieu vous visitera »",
+      "« Vous ne quitterez jamais l’Égypte »",
+      "« La famine ne finira pas »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 50:24 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-158",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:25",
+    "verseText": "Voir Genèse 50:25.",
+    "question": "Que demande Joseph concernant ses os ?",
+    "choices": [
+      "Qu’on les jette au Nil",
+      "Qu’on les emporte d’Égypte quand Dieu visitera son peuple",
+      "Qu’on les enterre à Gosen seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 50:25 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-159",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:26",
+    "verseText": "Voir Genèse 50:26.",
+    "question": "Après la mort de Joseph, que fait-on de son corps ?",
+    "choices": [
+      "Il est brûlé",
+      "Il est embaumé",
+      "Il est jeté dans le désert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 50:26 (LSG 1910)."
+  },
+  {
+    "id": "GEN-N-160",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:26",
+    "verseText": "Voir Genèse 50:26.",
+    "question": "Où Joseph est-il placé après l’embaumement ?",
+    "choices": [
+      "Dans un cercueil en Égypte",
+      "Dans la caverne de Macpéla immédiatement",
+      "Dans un autel de pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 50:26 (LSG 1910)."
+  }
+]

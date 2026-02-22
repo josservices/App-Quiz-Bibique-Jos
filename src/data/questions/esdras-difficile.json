@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "ESD-D-001",
+    "book": "Esdras",
+    "chapter": 1,
+    "verseRef": "Esdras 1:1",
+    "verseText": "Voir Esdras 1:1.",
+    "question": "Quel détail est donné sur “la première année de Cyrus, roi de Perse” quant à la parole de l’Éternel ?",
+    "choices": [
+      "Elle s’accomplit par la bouche de Jérémie",
+      "Elle s’accomplit par la bouche d’Ésaïe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 1:1 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-002",
+    "book": "Esdras",
+    "chapter": 1,
+    "verseRef": "Esdras 1:3",
+    "verseText": "Voir Esdras 1:3.",
+    "question": "Selon la proclamation de Cyrus, qui doit remonter à Jérusalem ?",
+    "choices": [
+      "Quiconque est du peuple de l’Éternel",
+      "Quiconque est des peuples voisins de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 1:3 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-003",
+    "book": "Esdras",
+    "chapter": 1,
+    "verseRef": "Esdras 1:7",
+    "verseText": "Voir Esdras 1:7.",
+    "question": "Que fait Cyrus aux ustensiles que Nebucadnetsar avait emportés ?",
+    "choices": [
+      "Il les rend",
+      "Il les consacre à son dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 1:7 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-004",
+    "book": "Esdras",
+    "chapter": 1,
+    "verseRef": "Esdras 1:8",
+    "verseText": "Voir Esdras 1:8.",
+    "question": "Quel titre est donné à Scheschbatsar dans la remise des ustensiles ?",
+    "choices": [
+      "Prince de Juda",
+      "Souverain sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 1:8 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-005",
+    "book": "Esdras",
+    "chapter": 1,
+    "verseRef": "Esdras 1:11",
+    "verseText": "Voir Esdras 1:11.",
+    "question": "Quel total est mentionné pour “tous les objets d’or et d’argent” ?",
+    "choices": [
+      "Cinq mille quatre cents",
+      "Quatre mille cinq cents"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 1:11 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-006",
+    "book": "Esdras",
+    "chapter": 3,
+    "verseRef": "Esdras 3:1",
+    "verseText": "Voir Esdras 3:1.",
+    "question": "Comment le texte décrit-il l’installation initiale après le retour ?",
+    "choices": [
+      "“Le peuple était dans ses villes”",
+      "“Le peuple était dans les plaines de Suse”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 3:1 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-007",
+    "book": "Esdras",
+    "chapter": 3,
+    "verseRef": "Esdras 3:3",
+    "verseText": "Voir Esdras 3:3.",
+    "question": "Quelle raison est explicitement donnée pour rétablir l’autel malgré le contexte ?",
+    "choices": [
+      "“Car la frayeur qu’ils avaient des peuples du pays”",
+      "“Car ils voulaient plaire au roi”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 3:3 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-008",
+    "book": "Esdras",
+    "chapter": 3,
+    "verseRef": "Esdras 3:4",
+    "verseText": "Voir Esdras 3:4.",
+    "question": "Quel est l’élément liturgique mentionné “selon ce qui est écrit” ?",
+    "choices": [
+      "La fête des Tabernacles",
+      "La fête de la Dédicace"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 3:4 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-009",
+    "book": "Esdras",
+    "chapter": 3,
+    "verseRef": "Esdras 3:10",
+    "verseText": "Voir Esdras 3:10.",
+    "question": "Qui loue l’Éternel “selon l’ordonnance de David, roi d’Israël” lors de la fondation ?",
+    "choices": [
+      "Les sacrificateurs et les Lévites",
+      "Les gouverneurs perses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 3:10 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-010",
+    "book": "Esdras",
+    "chapter": 3,
+    "verseRef": "Esdras 3:13",
+    "verseText": "Voir Esdras 3:13.",
+    "question": "Quel effet sonore est décrit lors des louanges et des cris ?",
+    "choices": [
+      "On ne pouvait distinguer le bruit des cris de joie d’avec celui des pleurs",
+      "Le peuple resta muet par crainte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 3:13 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-011",
+    "book": "Esdras",
+    "chapter": 4,
+    "verseRef": "Esdras 4:1",
+    "verseText": "Voir Esdras 4:1.",
+    "question": "Qui sont identifiés comme “ennemis” au début de leur opposition ?",
+    "choices": [
+      "Ceux de Juda et de Benjamin (leurs ennemis)",
+      "Les prêtres de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 4:1 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-012",
+    "book": "Esdras",
+    "chapter": 4,
+    "verseRef": "Esdras 4:2",
+    "verseText": "Voir Esdras 4:2.",
+    "question": "Quel roi assyrien est cité comme ayant fait monter leurs ancêtres ?",
+    "choices": [
+      "Esar-Haddon",
+      "Salmanasar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 4:2 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-013",
+    "book": "Esdras",
+    "chapter": 4,
+    "verseRef": "Esdras 4:3",
+    "verseText": "Voir Esdras 4:3.",
+    "question": "Quelle formule résume le refus des chefs juifs à l’offre d’aide ?",
+    "choices": [
+      "“Nous seuls le bâtirons à l’Éternel, le Dieu d’Israël”",
+      "“Bâtissons ensemble pour le roi de Perse”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 4:3 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-014",
+    "book": "Esdras",
+    "chapter": 4,
+    "verseRef": "Esdras 4:5",
+    "verseText": "Voir Esdras 4:5.",
+    "question": "Jusqu’à quel règne l’opposition “fit échouer leur dessein” ?",
+    "choices": [
+      "Jusqu’au règne de Darius, roi de Perse",
+      "Jusqu’au règne d’Assuérus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 4:5 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-015",
+    "book": "Esdras",
+    "chapter": 4,
+    "verseRef": "Esdras 4:6",
+    "verseText": "Voir Esdras 4:6.",
+    "question": "Sous quel roi est écrite “une accusation” au sujet de Juda et Jérusalem ?",
+    "choices": [
+      "Assuérus",
+      "Artaxerxès"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 4:6 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-016",
+    "book": "Esdras",
+    "chapter": 4,
+    "verseRef": "Esdras 4:7",
+    "verseText": "Voir Esdras 4:7.",
+    "question": "Dans quelle langue la lettre est-elle transcrite et traduite ?",
+    "choices": [
+      "En araméen",
+      "En hébreu seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 4:7 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-017",
+    "book": "Esdras",
+    "chapter": 4,
+    "verseRef": "Esdras 4:8",
+    "verseText": "Voir Esdras 4:8.",
+    "question": "Quels deux noms ouvrent la section de la lettre adressée à Artaxerxès ?",
+    "choices": [
+      "Rehum et Schimschaï",
+      "Aggée et Zacharie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 4:8 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-018",
+    "book": "Esdras",
+    "chapter": 4,
+    "verseRef": "Esdras 4:13",
+    "verseText": "Voir Esdras 4:13.",
+    "question": "Quel reproche économique est sous-entendu : que perdrait le roi si la ville se rebâtit ?",
+    "choices": [
+      "Le tribut, l’impôt et le droit de péage",
+      "Les soldats et les chevaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 4:13 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-019",
+    "book": "Esdras",
+    "chapter": 4,
+    "verseRef": "Esdras 4:15",
+    "verseText": "Voir Esdras 4:15.",
+    "question": "Quelle action est demandée au roi concernant les archives ?",
+    "choices": [
+      "Faire des recherches dans le livre des mémoires",
+      "Détruire les registres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 4:15 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-020",
+    "book": "Esdras",
+    "chapter": 4,
+    "verseRef": "Esdras 4:21",
+    "verseText": "Voir Esdras 4:21.",
+    "question": "Quelle consigne finale Artaxerxès donne-t-il concernant Jérusalem ?",
+    "choices": [
+      "“Que ces gens cessent” et que la ville ne soit pas rebâtie",
+      "“Qu’on accélère l’ouvrage”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 4:21 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-021",
+    "book": "Esdras",
+    "chapter": 4,
+    "verseRef": "Esdras 4:23",
+    "verseText": "Voir Esdras 4:23.",
+    "question": "Par quels moyens l’ouvrage est-il interrompu ?",
+    "choices": [
+      "Par la force et la puissance",
+      "Par la persuasion des prophètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 4:23 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-022",
+    "book": "Esdras",
+    "chapter": 5,
+    "verseRef": "Esdras 5:1",
+    "verseText": "Voir Esdras 5:1.",
+    "question": "Quel double témoignage prophétique accompagne la reprise ?",
+    "choices": [
+      "Aggée et Zacharie, fils d’Iddo",
+      "Ésaïe et Jérémie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 5:1 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-023",
+    "book": "Esdras",
+    "chapter": 5,
+    "verseRef": "Esdras 5:2",
+    "verseText": "Voir Esdras 5:2.",
+    "question": "Qui sont les deux chefs cités comme se levant pour rebâtir ?",
+    "choices": [
+      "Zorobabel et Jéschua",
+      "Rehum et Schimschaï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 5:2 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-024",
+    "book": "Esdras",
+    "chapter": 5,
+    "verseRef": "Esdras 5:3",
+    "verseText": "Voir Esdras 5:3.",
+    "question": "Quel titre est attribué à Thathnaï ?",
+    "choices": [
+      "Gouverneur de ce côté du fleuve",
+      "Scribe du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 5:3 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-025",
+    "book": "Esdras",
+    "chapter": 5,
+    "verseRef": "Esdras 5:8",
+    "verseText": "Voir Esdras 5:8.",
+    "question": "Comment les Juifs qualifient-ils la maison qu’ils rebâtissent ?",
+    "choices": [
+      "“Cette grande maison”",
+      "“Cette petite maison”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 5:8 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-026",
+    "book": "Esdras",
+    "chapter": 5,
+    "verseRef": "Esdras 5:8",
+    "verseText": "Voir Esdras 5:8.",
+    "question": "Que déclarent-ils être en train de faire, en plus de rebâtir ?",
+    "choices": [
+      "“On la restaure”",
+      "“On la détruit”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 5:8 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-027",
+    "book": "Esdras",
+    "chapter": 5,
+    "verseRef": "Esdras 5:11",
+    "verseText": "Voir Esdras 5:11.",
+    "question": "Comment se présentent-ils aux autorités perses ?",
+    "choices": [
+      "Serviteurs du Dieu du ciel et de la terre",
+      "Serviteurs du roi d’Assyrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 5:11 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-028",
+    "book": "Esdras",
+    "chapter": 5,
+    "verseRef": "Esdras 5:12",
+    "verseText": "Voir Esdras 5:12.",
+    "question": "Quelle cause spirituelle est donnée à la destruction précédente ?",
+    "choices": [
+      "Ils avaient irrité le Dieu des cieux",
+      "Ils avaient manqué de pierres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 5:12 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-029",
+    "book": "Esdras",
+    "chapter": 5,
+    "verseRef": "Esdras 5:12",
+    "verseText": "Voir Esdras 5:12.",
+    "question": "Quel roi est nommé comme destructeur de la maison et exécuteur de la déportation ?",
+    "choices": [
+      "Nebucadnetsar, roi de Babylone",
+      "Cyrus, roi de Perse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 5:12 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-030",
+    "book": "Esdras",
+    "chapter": 5,
+    "verseRef": "Esdras 5:13",
+    "verseText": "Voir Esdras 5:13.",
+    "question": "Quel roi est nommé comme ayant fait reconstruire la maison ?",
+    "choices": [
+      "Cyrus, roi de Perse",
+      "Assuérus, roi de Perse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 5:13 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-031",
+    "book": "Esdras",
+    "chapter": 5,
+    "verseRef": "Esdras 5:17",
+    "verseText": "Voir Esdras 5:17.",
+    "question": "Dans quel lieu Thathnaï demande-t-il qu’on recherche l’édit ?",
+    "choices": [
+      "Dans la maison des trésors du roi, à Babylone",
+      "Dans le temple de Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 5:17 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-032",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:2",
+    "verseText": "Voir Esdras 6:2.",
+    "question": "Où le rouleau est-il trouvé, selon le récit ?",
+    "choices": [
+      "À Achmetha, dans la province de Médie",
+      "À Jéricho, dans Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:2 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-033",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:3",
+    "verseText": "Voir Esdras 6:3.",
+    "question": "Quelle dimension est donnée : “sa hauteur sera de…” ?",
+    "choices": [
+      "Soixante coudées",
+      "Trente coudées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:3 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-034",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:4",
+    "verseText": "Voir Esdras 6:4.",
+    "question": "Quelle clause financière est incluse dans l’ordre de Darius ?",
+    "choices": [
+      "Les frais seront exactement payés de la maison du roi",
+      "Les frais seront payés par les Juifs seuls"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:4 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-035",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:5",
+    "verseText": "Voir Esdras 6:5.",
+    "question": "Quelle consigne est donnée concernant les ustensiles repris par Nebucadnetsar ?",
+    "choices": [
+      "Qu’ils soient rendus et rapportés au temple à Jérusalem",
+      "Qu’ils soient fondus en lingots"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:5 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-036",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:6",
+    "verseText": "Voir Esdras 6:6.",
+    "question": "Que doivent faire Thathnaï, Schethar-Boznaï et leurs collègues vis-à-vis du chantier ?",
+    "choices": [
+      "“Tenez-vous loin de ce lieu”",
+      "“Prenez la direction des travaux”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:6 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-037",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:7",
+    "verseText": "Voir Esdras 6:7.",
+    "question": "Quel ordre direct est donné au sujet du travail de cette maison ?",
+    "choices": [
+      "“Laissez faire les gouverneurs des Juifs et les anciens”",
+      "“Renvoyez les anciens”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:7 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-038",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:11",
+    "verseText": "Voir Esdras 6:11.",
+    "question": "Quel châtiment est mentionné pour celui qui changera l’édit ?",
+    "choices": [
+      "Une poutre arrachée de sa maison et il y sera pendu",
+      "Une amende de dix sicles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:11 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-039",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:9-10",
+    "verseText": "Voir Esdras 6:9-10.",
+    "question": "Quelle demande concrète le décret prévoit-il pour le culte : que doit-on donner chaque jour ?",
+    "choices": [
+      "Ce qui est nécessaire pour les holocaustes au Dieu des cieux",
+      "Des chars et des chevaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:9-10 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-040",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:10",
+    "verseText": "Voir Esdras 6:10.",
+    "question": "Quel but est donné à ces offrandes ?",
+    "choices": [
+      "“Afin qu’ils offrent des sacrifices de bonne odeur… et qu’ils prient pour la vie du roi”",
+      "“Afin qu’ils élisent un chef”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:10 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-041",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:13",
+    "verseText": "Voir Esdras 6:13.",
+    "question": "Quel résultat immédiat est indiqué concernant Thathnaï et ses collègues ?",
+    "choices": [
+      "Ils se conformèrent ponctuellement à l’ordre de Darius",
+      "Ils refusèrent et quittèrent la province"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:13 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-042",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:14",
+    "verseText": "Voir Esdras 6:14.",
+    "question": "Quel double fondement est mentionné pour la réussite des anciens ?",
+    "choices": [
+      "Les prophéties d’Aggée et de Zacharie, et l’ordre des rois de Perse",
+      "La puissance militaire de Juda et l’aide de Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:14 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-043",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:15",
+    "verseText": "Voir Esdras 6:15.",
+    "question": "À quelle date précise la maison de Dieu est-elle achevée ?",
+    "choices": [
+      "Le troisième jour du mois d’Adar",
+      "Le dixième jour du mois de Nisan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:15 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-044",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:17",
+    "verseText": "Voir Esdras 6:17.",
+    "question": "Quel nombre de boucs est offert “en expiation pour tout Israël” ?",
+    "choices": [
+      "Douze",
+      "Dix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:17 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-045",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:18",
+    "verseText": "Voir Esdras 6:18.",
+    "question": "Comment les sacrificateurs et les Lévites sont-ils placés après la dédicace ?",
+    "choices": [
+      "Selon leurs divisions, pour le service de Dieu à Jérusalem",
+      "Sans division, au hasard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:18 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-046",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:19",
+    "verseText": "Voir Esdras 6:19.",
+    "question": "Qui célèbre la Pâque le quatorzième jour du premier mois ?",
+    "choices": [
+      "Les fils de la captivité",
+      "Les gens du pays restés sur place"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:19 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-047",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:20",
+    "verseText": "Voir Esdras 6:20.",
+    "question": "Quelle condition de pureté est indiquée pour les Lévites ?",
+    "choices": [
+      "Ils s’étaient tous purifiés, ils étaient tous purs",
+      "Ils refusèrent de se purifier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:20 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-048",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:22",
+    "verseText": "Voir Esdras 6:22.",
+    "question": "À qui la joie de la fête des pains sans levain est-elle attribuée ?",
+    "choices": [
+      "À l’Éternel qui les avait réjouis et disposé le roi d’Assyrie en leur faveur",
+      "À la richesse de Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:22 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-049",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:1",
+    "verseText": "Voir Esdras 7:1.",
+    "question": "Sous quel roi Esdras arrive-t-il “après ces choses” ?",
+    "choices": [
+      "Artaxerxès, roi de Perse",
+      "Darius, roi de Perse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:1 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-050",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:5",
+    "verseText": "Voir Esdras 7:5.",
+    "question": "Quel ancêtre sacerdotal est explicitement mentionné comme sommet : “fils d’Aaron, le…” ?",
+    "choices": [
+      "Le souverain sacrificateur",
+      "Le chef des chantres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:5 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-051",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:6",
+    "verseText": "Voir Esdras 7:6.",
+    "question": "Comment est décrit Esdras par rapport à la loi de Moïse ?",
+    "choices": [
+      "Un scribe versé dans la loi de Moïse",
+      "Un gouverneur de ce côté du fleuve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:6 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-052",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:6",
+    "verseText": "Voir Esdras 7:6.",
+    "question": "Quel lien est fait entre la faveur du roi et Dieu ?",
+    "choices": [
+      "“La main de l’Éternel, son Dieu, était sur lui”",
+      "“La main de Darius était contre lui”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:6 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-053",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:10",
+    "verseText": "Voir Esdras 7:10.",
+    "question": "Quel objet spirituel Esdras avait-il “appliqué son cœur” à faire en premier ?",
+    "choices": [
+      "Étudier la loi de l’Éternel",
+      "Écrire des chroniques du royaume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:10 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-054",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:10",
+    "verseText": "Voir Esdras 7:10.",
+    "question": "Quel trio d’actions est donné pour Esdras (étude, pratique, enseignement) ?",
+    "choices": [
+      "Étudier, mettre en pratique, enseigner en Israël",
+      "Traduire, vendre, imposer par force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:10 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-055",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:9",
+    "verseText": "Voir Esdras 7:9.",
+    "question": "Quelle date est donnée pour le départ de Babylone ?",
+    "choices": [
+      "Le premier jour du premier mois",
+      "Le premier jour du cinquième mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:9 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-056",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:9",
+    "verseText": "Voir Esdras 7:9.",
+    "question": "Quelle date est donnée pour l’arrivée à Jérusalem ?",
+    "choices": [
+      "Le premier jour du cinquième mois",
+      "Le premier jour du premier mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:9 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-057",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:6",
+    "verseText": "Voir Esdras 7:6.",
+    "question": "Quelle formulation le texte emploie pour qualifier le Dieu d’Esdras ?",
+    "choices": [
+      "“l’Éternel, son Dieu”",
+      "“le dieu du fleuve”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:6 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-058",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:10",
+    "verseText": "Voir Esdras 7:10.",
+    "question": "Quel cadre est explicitement mentionné pour l’enseignement d’Esdras ?",
+    "choices": [
+      "Des statuts et des ordonnances en Israël",
+      "Des lois de Babylone en Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:10 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-059",
+    "book": "Esdras",
+    "chapter": 6,
+    "verseRef": "Esdras 6:14",
+    "verseText": "Voir Esdras 6:14.",
+    "question": "Quel roi est inclus dans la liste “Cyrus, Darius, et …” (rois de Perse) liée à l’achèvement ?",
+    "choices": [
+      "Artaxerxès",
+      "Assuérus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 6:14 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-060",
+    "book": "Esdras",
+    "chapter": 4,
+    "verseRef": "Esdras 4:22",
+    "verseText": "Voir Esdras 4:22.",
+    "question": "Quel motif est cité par les adversaires pour demander l’arrêt : l’intérêt du roi ?",
+    "choices": [
+      "“Le dommage atteindra les rois”",
+      "“Le roi gagnera davantage”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 4:22 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-061",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:21",
+    "verseText": "Voir Esdras 7:21.",
+    "question": "Dans la lettre d’Artaxerxès, quelle zone administrative est visée par l’ordre aux trésoriers ?",
+    "choices": [
+      "“De ce côté du fleuve”",
+      "“Dans la province de Médie”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:21 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-062",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:22",
+    "verseText": "Voir Esdras 7:22.",
+    "question": "Quelle quantité maximale d’argent est explicitement fixée ?",
+    "choices": [
+      "Cent talents d’argent",
+      "Dix talents d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:22 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-063",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:22",
+    "verseText": "Voir Esdras 7:22.",
+    "question": "Quelle quantité maximale de blé est explicitement fixée ?",
+    "choices": [
+      "Cent cors de blé",
+      "Cent baths de blé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:22 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-064",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:22",
+    "verseText": "Voir Esdras 7:22.",
+    "question": "Quelle quantité maximale de vin est explicitement fixée ?",
+    "choices": [
+      "Cent baths de vin",
+      "Cent cors de vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:22 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-065",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:22",
+    "verseText": "Voir Esdras 7:22.",
+    "question": "Quelle quantité maximale d’huile est explicitement fixée ?",
+    "choices": [
+      "Cent baths d’huile",
+      "Cent cors d’huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:22 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-066",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:22",
+    "verseText": "Voir Esdras 7:22.",
+    "question": "Quelle particularité est indiquée pour le sel ?",
+    "choices": [
+      "“Du sel sans limite”",
+      "“Du sel limité à dix cors”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:22 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-067",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:23",
+    "verseText": "Voir Esdras 7:23.",
+    "question": "Quel motif est donné pour agir avec zèle au sujet de “la maison du Dieu des cieux” ?",
+    "choices": [
+      "“Car pourquoi y aurait-il colère contre le royaume du roi et de ses fils ?”",
+      "“Car les peuples du pays l’exigent”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:23 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-068",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:24",
+    "verseText": "Voir Esdras 7:24.",
+    "question": "Quels groupes sont explicitement exemptés de tribut, impôt et droit de péage ?",
+    "choices": [
+      "Sacrificateurs, Lévites, chantres, portiers, Nethiniens, serviteurs de cette maison de Dieu",
+      "Soldats, marchands, satrapes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:24 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-069",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:25",
+    "verseText": "Voir Esdras 7:25.",
+    "question": "Selon l’édit, qui Esdras doit-il établir pour rendre la justice ?",
+    "choices": [
+      "Des juges et des magistrats pour tout le peuple “de ce côté du fleuve”",
+      "Des prêtres pour la Médie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:25 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-070",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:25",
+    "verseText": "Voir Esdras 7:25.",
+    "question": "Que doit-on faire à ceux qui ne connaissent pas les lois de Dieu ?",
+    "choices": [
+      "“Vous les leur enseignerez”",
+      "“Vous les chasserez”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:25 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-071",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:26",
+    "verseText": "Voir Esdras 7:26.",
+    "question": "Quelle liste de sanctions est donnée en cas de désobéissance à la loi de Dieu et à la loi du roi ?",
+    "choices": [
+      "Mort, bannissement, amende, prison",
+      "Jeûne, sacrifice, exil d’un jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:26 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-072",
+    "book": "Esdras",
+    "chapter": 7,
+    "verseRef": "Esdras 7:27",
+    "verseText": "Voir Esdras 7:27.",
+    "question": "Quelle action divine Esdras attribue-t-il au sujet du roi en faveur du temple ?",
+    "choices": [
+      "Dieu a “disposé le cœur du roi” pour glorifier la maison de l’Éternel",
+      "Dieu a “endurci le cœur du roi” pour détruire le temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 7:27 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-073",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:15",
+    "verseText": "Voir Esdras 8:15.",
+    "question": "Quel lieu précis est mentionné comme point de rassemblement avant le départ ?",
+    "choices": [
+      "Le fleuve qui coule vers Ahava",
+      "Le fleuve qui coule vers Joppé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:15 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-074",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:15",
+    "verseText": "Voir Esdras 8:15.",
+    "question": "Quel manque Esdras constate-t-il “dans le peuple et parmi les sacrificateurs” ?",
+    "choices": [
+      "“Je n’y trouvai point de Lévites”",
+      "“Je n’y trouvai point de chantres”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:15 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-075",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:17",
+    "verseText": "Voir Esdras 8:17.",
+    "question": "Vers qui Esdras envoie-t-il ses messagers pour obtenir des serviteurs ?",
+    "choices": [
+      "Vers Iddo, chef à Casiphia",
+      "Vers Merémoth, chef à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:17 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-076",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:18",
+    "verseText": "Voir Esdras 8:18.",
+    "question": "Quel groupe est explicitement nommé parmi ceux que Dieu amène à Esdras ?",
+    "choices": [
+      "“Un homme intelligent, de la famille de Machli… Schérébia”",
+      "“Un capitaine de l’armée… Rehum”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:18 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-077",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:19",
+    "verseText": "Voir Esdras 8:19.",
+    "question": "Quel autre Lévit est nommé avec Schérébia dans la liste de ceux qui viennent ?",
+    "choices": [
+      "Haschabia",
+      "Zorobabel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:19 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-078",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:20",
+    "verseText": "Voir Esdras 8:20.",
+    "question": "Quels serviteurs, “donnés par David et les chefs”, sont mentionnés en plus des Lévites ?",
+    "choices": [
+      "Les Nethiniens",
+      "Les portiers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:20 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-079",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:21",
+    "verseText": "Voir Esdras 8:21.",
+    "question": "Quel acte communautaire Esdras proclame-t-il à Ahava ?",
+    "choices": [
+      "Un jeûne pour s’humilier devant Dieu",
+      "Une collecte pour la guerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:21 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-080",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:21",
+    "verseText": "Voir Esdras 8:21.",
+    "question": "Quel triple objet du voyage Esdras mentionne-t-il explicitement dans sa demande à Dieu ?",
+    "choices": [
+      "“Nous, nos enfants et tous nos biens”",
+      "“Nos rois, nos palais et nos armées”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:21 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-081",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:22",
+    "verseText": "Voir Esdras 8:22.",
+    "question": "Quelle raison Esdras donne-t-il pour ne pas demander des soldats et des cavaliers au roi ?",
+    "choices": [
+      "Il avait déclaré au roi que “la main de notre Dieu est pour le bien… mais sa force… contre ceux qui l’abandonnent”",
+      "Il n’avait pas le droit de parler au roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:22 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-082",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:23",
+    "verseText": "Voir Esdras 8:23.",
+    "question": "Quel résultat immédiat est attribué au jeûne ?",
+    "choices": [
+      "“Il exauça nos prières”",
+      "“Il retarda notre départ”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:23 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-083",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:24",
+    "verseText": "Voir Esdras 8:24.",
+    "question": "Combien de “chefs des sacrificateurs” Esdras met-il à part pour garder les trésors ?",
+    "choices": [
+      "Douze",
+      "Dix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:24 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-084",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:29",
+    "verseText": "Voir Esdras 8:29.",
+    "question": "Quelle consigne Esdras donne-t-il au sujet de la garde des trésors ?",
+    "choices": [
+      "“Veillez et gardez-les jusqu’à ce que vous les ayez pesés… à Jérusalem”",
+      "“Cachez-les dans le désert”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:29 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-085",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:32",
+    "verseText": "Voir Esdras 8:32.",
+    "question": "Combien de jours demeurent-ils à Jérusalem avant l’opération de pesée ?",
+    "choices": [
+      "Trois jours",
+      "Quarante jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:32 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-086",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:33",
+    "verseText": "Voir Esdras 8:33.",
+    "question": "Quel jour précis la pesée est-elle effectuée dans le récit ?",
+    "choices": [
+      "Le quatrième jour",
+      "Le premier jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:33 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-087",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:33",
+    "verseText": "Voir Esdras 8:33.",
+    "question": "Quel sacrificateur est nommé comme recevant l’argent et l’or avec d’autres ?",
+    "choices": [
+      "Merémoth, fils d’Urie",
+      "Jéschua, fils de Jotsadak"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:33 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-088",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:34",
+    "verseText": "Voir Esdras 8:34.",
+    "question": "Quelle formule clôt le passage de pesée en décrivant l’état des objets ?",
+    "choices": [
+      "“Tout fut compté et pesé, et l’on enregistra le poids total”",
+      "“Tout fut perdu dans le transport”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:34 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-089",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:35",
+    "verseText": "Voir Esdras 8:35.",
+    "question": "Quelle expression décrit les offrandes après l’arrivée, présentées “en holocauste” ?",
+    "choices": [
+      "“À l’Éternel, le Dieu d’Israël”",
+      "“Aux dieux des nations”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:35 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-090",
+    "book": "Esdras",
+    "chapter": 8,
+    "verseRef": "Esdras 8:36",
+    "verseText": "Voir Esdras 8:36.",
+    "question": "À qui les ordonnances du roi sont-elles remises ensuite ?",
+    "choices": [
+      "Aux satrapes du roi et aux gouverneurs de ce côté du fleuve",
+      "Aux ennemis de Juda et de Benjamin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 8:36 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-091",
+    "book": "Esdras",
+    "chapter": 9,
+    "verseRef": "Esdras 9:1",
+    "verseText": "Voir Esdras 9:1.",
+    "question": "Quel constat d’infidélité est rapporté à Esdras concernant la séparation ?",
+    "choices": [
+      "Ils “ne se sont point séparés des peuples du pays”",
+      "Ils “se sont séparés de tous”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 9:1 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-092",
+    "book": "Esdras",
+    "chapter": 9,
+    "verseRef": "Esdras 9:2",
+    "verseText": "Voir Esdras 9:2.",
+    "question": "Qui est dit avoir été “les premiers” dans cette infidélité ?",
+    "choices": [
+      "Les chefs et les magistrats",
+      "Les chantres et les portiers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 9:2 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-093",
+    "book": "Esdras",
+    "chapter": 9,
+    "verseRef": "Esdras 9:3",
+    "verseText": "Voir Esdras 9:3.",
+    "question": "Quel geste précis Esdras fait-il en signe d’affliction ?",
+    "choices": [
+      "Il déchire son vêtement et son manteau, s’arrache les cheveux de la tête et de la barbe",
+      "Il met une couronne sur sa tête"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 9:3 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-094",
+    "book": "Esdras",
+    "chapter": 9,
+    "verseRef": "Esdras 9:5",
+    "verseText": "Voir Esdras 9:5.",
+    "question": "À quel moment Esdras se prosterne-t-il et étend-il les mains vers l’Éternel ?",
+    "choices": [
+      "Au sacrifice du soir",
+      "Au sacrifice du matin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 9:5 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-095",
+    "book": "Esdras",
+    "chapter": 9,
+    "verseRef": "Esdras 9:6",
+    "verseText": "Voir Esdras 9:6.",
+    "question": "Quelle image Esdras emploie-t-il pour décrire l’ampleur des fautes ?",
+    "choices": [
+      "“Nos iniquités se sont multipliées au-dessus de nos têtes”",
+      "“Nos iniquités ont disparu sous nos pieds”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 9:6 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-096",
+    "book": "Esdras",
+    "chapter": 9,
+    "verseRef": "Esdras 9:8",
+    "verseText": "Voir Esdras 9:8.",
+    "question": "Quelle grâce “comme un moment” Esdras mentionne-t-il ?",
+    "choices": [
+      "Dieu a laissé des réchappés et a donné “un clou dans son lieu saint”",
+      "Dieu a donné un nouveau royaume à Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 9:8 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-097",
+    "book": "Esdras",
+    "chapter": 9,
+    "verseRef": "Esdras 9:8-9",
+    "verseText": "Voir Esdras 9:8-9.",
+    "question": "Selon la confession, que permet cette grâce divine ?",
+    "choices": [
+      "“Éclairer nos yeux” et “nous donner un peu de vie au milieu de notre servitude”",
+      "“Supprimer toute loi” et “abolir le sacrifice”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 9:8-9 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-098",
+    "book": "Esdras",
+    "chapter": 10,
+    "verseRef": "Esdras 10:2",
+    "verseText": "Voir Esdras 10:2.",
+    "question": "Qui formule l’initiative d’une alliance pour renvoyer les femmes étrangères ?",
+    "choices": [
+      "Schecania, fils de Jehiel",
+      "Thathnaï, gouverneur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 10:2 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-099",
+    "book": "Esdras",
+    "chapter": 10,
+    "verseRef": "Esdras 10:4",
+    "verseText": "Voir Esdras 10:4.",
+    "question": "Quelle expression résume l’appel de Schecania à Esdras ?",
+    "choices": [
+      "“Lève-toi, car cette affaire te regarde. Nous serons avec toi. Prends courage, et agis.”",
+      "“Reste assis, car cette affaire ne te regarde pas.”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 10:4 (LSG 1910)."
+  },
+  {
+    "id": "ESD-D-100",
+    "book": "Esdras",
+    "chapter": 10,
+    "verseRef": "Esdras 10:9",
+    "verseText": "Voir Esdras 10:9.",
+    "question": "Dans quelle situation le peuple est-il décrit lors de l’assemblée du neuvième mois ?",
+    "choices": [
+      "“Le peuple tremblait à cause de cette affaire et à cause de la pluie”",
+      "“Le peuple dansait à cause de la moisson”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 10:9 (LSG 1910)."
+  }
+]

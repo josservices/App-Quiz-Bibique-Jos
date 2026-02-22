@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "JUG-N-001",
+    "book": "Juges",
+    "chapter": 1,
+    "verseRef": "Juges 1:1-2",
+    "verseText": "Voir Juges 1:1-2.",
+    "question": "Qui envoya Juda en premier pour combattre les Cananéens ?",
+    "choices": [
+      "Moïse",
+      "L’Éternel",
+      "Josué"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 1:1-2 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-002",
+    "book": "Juges",
+    "chapter": 1,
+    "verseRef": "Juges 1:3",
+    "verseText": "Voir Juges 1:3.",
+    "question": "Quel frère fut associé à Juda pour monter combattre ?",
+    "choices": [
+      "Siméon",
+      "Lévi",
+      "Benjamin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 1:3 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-003",
+    "book": "Juges",
+    "chapter": 1,
+    "verseRef": "Juges 1:5-7",
+    "verseText": "Voir Juges 1:5-7.",
+    "question": "Quel roi cananéen Juda et Siméon battirent-ils à Bézek ?",
+    "choices": [
+      "Adoni-Tsédek",
+      "Adoni-Bézek",
+      "Abimélec"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 1:5-7 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-004",
+    "book": "Juges",
+    "chapter": 1,
+    "verseRef": "Juges 1:6-7",
+    "verseText": "Voir Juges 1:6-7.",
+    "question": "Que fit Adoni-Bézek aux rois qu’il avait vaincus auparavant ?",
+    "choices": [
+      "Il les exila dans le désert",
+      "Il leur coupa les pouces et les gros orteils",
+      "Il les fit enfermer dans une tour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 1:6-7 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-005",
+    "book": "Juges",
+    "chapter": 1,
+    "verseRef": "Juges 1:11",
+    "verseText": "Voir Juges 1:11.",
+    "question": "Comment s’appelait autrefois Kirjath-Sépher ?",
+    "choices": [
+      "Hébron",
+      "Debir",
+      "Guilgal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 1:11 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-006",
+    "book": "Juges",
+    "chapter": 1,
+    "verseRef": "Juges 1:12",
+    "verseText": "Voir Juges 1:12.",
+    "question": "Qui donna sa fille Acsa en mariage à celui qui prendrait Kirjath-Sépher ?",
+    "choices": [
+      "Caleb",
+      "Othniel",
+      "Barak"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 1:12 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-007",
+    "book": "Juges",
+    "chapter": 1,
+    "verseRef": "Juges 1:13",
+    "verseText": "Voir Juges 1:13.",
+    "question": "Qui prit Kirjath-Sépher et épousa Acsa ?",
+    "choices": [
+      "Shamgar",
+      "Othniel",
+      "Gédéon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 1:13 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-008",
+    "book": "Juges",
+    "chapter": 1,
+    "verseRef": "Juges 1:15",
+    "verseText": "Voir Juges 1:15.",
+    "question": "Qu’est-ce qu’Acsa demanda à son père après avoir reçu un champ ?",
+    "choices": [
+      "Une troupe de soldats",
+      "Des sources d’eau",
+      "Une ville fortifiée"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 1:15 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-009",
+    "book": "Juges",
+    "chapter": 1,
+    "verseRef": "Juges 1:16",
+    "verseText": "Voir Juges 1:16.",
+    "question": "Quelle ville est appelée « la ville des palmiers » dans Juges 1 ?",
+    "choices": [
+      "Jéricho",
+      "Sichem",
+      "Béthel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 1:16 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-010",
+    "book": "Juges",
+    "chapter": 1,
+    "verseRef": "Juges 1:19",
+    "verseText": "Voir Juges 1:19.",
+    "question": "Pourquoi Juda ne chassa-t-il pas les habitants de la vallée ?",
+    "choices": [
+      "Parce qu’ils avaient des chars de fer",
+      "Parce qu’ils étaient trop nombreux",
+      "Parce qu’il manquait de vivres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 1:19 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-011",
+    "book": "Juges",
+    "chapter": 2,
+    "verseRef": "Juges 2:1",
+    "verseText": "Voir Juges 2:1.",
+    "question": "Quel messager de l’Éternel monta de Guilgal à Bokim ?",
+    "choices": [
+      "Un prophète",
+      "L’ange de l’Éternel",
+      "Un lévite"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 2:1 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-012",
+    "book": "Juges",
+    "chapter": 2,
+    "verseRef": "Juges 2:2",
+    "verseText": "Voir Juges 2:2.",
+    "question": "Quel reproche principal l’ange de l’Éternel fit-il à Israël ?",
+    "choices": [
+      "Ils n’avaient pas bâti d’autel",
+      "Ils avaient fait alliance avec les habitants du pays",
+      "Ils avaient oublié la loi du sabbat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 2:2 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-013",
+    "book": "Juges",
+    "chapter": 2,
+    "verseRef": "Juges 2:4",
+    "verseText": "Voir Juges 2:4.",
+    "question": "Comment le peuple réagit-il au message de Bokim ?",
+    "choices": [
+      "Il se réjouit",
+      "Il jeûna quarante jours",
+      "Il éleva la voix et pleura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Juges 2:4 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-014",
+    "book": "Juges",
+    "chapter": 2,
+    "verseRef": "Juges 2:10-11",
+    "verseText": "Voir Juges 2:10-11.",
+    "question": "Après la mort de Josué, que fit une nouvelle génération ?",
+    "choices": [
+      "Elle chercha l’Éternel plus que les pères",
+      "Elle oublia l’Éternel et servit les Baals",
+      "Elle refusa d’entrer en guerre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 2:10-11 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-015",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:1-2",
+    "verseText": "Voir Juges 3:1-2.",
+    "question": "Pour quelle raison l’Éternel laissa-t-il des nations dans le pays ?",
+    "choices": [
+      "Pour apprendre la guerre à ceux qui ne l’avaient pas connue",
+      "Pour augmenter la richesse d’Israël",
+      "Pour construire des villes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 3:1-2 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-016",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:9-10",
+    "verseText": "Voir Juges 3:9-10.",
+    "question": "Quel juge délivra Israël de Cushan-Rischathaïm ?",
+    "choices": [
+      "Othniel",
+      "Ehud",
+      "Samson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 3:9-10 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-017",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:8",
+    "verseText": "Voir Juges 3:8.",
+    "question": "De quel pays venait Cushan-Rischathaïm ?",
+    "choices": [
+      "Moab",
+      "Mésopotamie",
+      "Ammon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 3:8 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-018",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:15",
+    "verseText": "Voir Juges 3:15.",
+    "question": "Qui était Ehud (fils de Guéra) selon la description physique ?",
+    "choices": [
+      "Boiteux",
+      "Gaucher",
+      "Aveugle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 3:15 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-019",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:15-21",
+    "verseText": "Voir Juges 3:15-21.",
+    "question": "Quel roi Ehud tua-t-il ?",
+    "choices": [
+      "Églon, roi de Moab",
+      "Jabin, roi de Canaan",
+      "Agag, roi d’Amalek"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 3:15-21 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-020",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:16",
+    "verseText": "Voir Juges 3:16.",
+    "question": "Où Ehud avait-il placé son poignard ?",
+    "choices": [
+      "Sur sa cuisse droite",
+      "Sous son manteau derrière le dos",
+      "Dans son sac de provisions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 3:16 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-021",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:31",
+    "verseText": "Voir Juges 3:31.",
+    "question": "Quel juge frappa six cents Philistins avec un aiguillon à bœufs ?",
+    "choices": [
+      "Thola",
+      "Shamgar",
+      "Jaïr"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 3:31 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-022",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:2",
+    "verseText": "Voir Juges 4:2.",
+    "question": "Quel roi cananéen opprima Israël dans Juges 4 ?",
+    "choices": [
+      "Jabin",
+      "Églon",
+      "Sihon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 4:2 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-023",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:2",
+    "verseText": "Voir Juges 4:2.",
+    "question": "Quel chef d’armée servait Jabin ?",
+    "choices": [
+      "Sisera",
+      "Abner",
+      "Joab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 4:2 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-024",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:4-5",
+    "verseText": "Voir Juges 4:4-5.",
+    "question": "Quelle femme jugeait Israël sous un palmier ?",
+    "choices": [
+      "Débora",
+      "Jaël",
+      "Ruth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 4:4-5 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-025",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:6",
+    "verseText": "Voir Juges 4:6.",
+    "question": "Quel homme Débora envoya-t-elle à la guerre ?",
+    "choices": [
+      "Barak",
+      "Gédéon",
+      "Jephté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 4:6 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-026",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:8",
+    "verseText": "Voir Juges 4:8.",
+    "question": "Quelle condition Barak posa-t-il à Débora ?",
+    "choices": [
+      "« Si tu viens avec moi, j’irai »",
+      "« Si tu jeûnes, j’irai »",
+      "« Si tu me donnes de l’or, j’irai »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 4:8 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-027",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:21",
+    "verseText": "Voir Juges 4:21.",
+    "question": "Qui tua Sisera ?",
+    "choices": [
+      "Débora",
+      "Jaël",
+      "Barak"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 4:21 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-028",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:21",
+    "verseText": "Voir Juges 4:21.",
+    "question": "Avec quoi Jaël frappa-t-elle Sisera ?",
+    "choices": [
+      "Une épée",
+      "Un pieu de tente et un marteau",
+      "Une lance et un bouclier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 4:21 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-029",
+    "book": "Juges",
+    "chapter": 5,
+    "verseRef": "Juges 5:21",
+    "verseText": "Voir Juges 5:21.",
+    "question": "Quel fleuve est mentionné dans le cantique de Débora ?",
+    "choices": [
+      "Le Jourdain",
+      "Le Kison",
+      "L’Euphrate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 5:21 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-030",
+    "book": "Juges",
+    "chapter": 5,
+    "verseRef": "Juges 5:15-16",
+    "verseText": "Voir Juges 5:15-16.",
+    "question": "Quel clan refusa de venir au secours d’Israël, selon Débora ?",
+    "choices": [
+      "Ruben (hésitations)",
+      "Juda (trahison)",
+      "Lévi (idolâtrie)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 5:15-16 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-031",
+    "book": "Juges",
+    "chapter": 6,
+    "verseRef": "Juges 6:1",
+    "verseText": "Voir Juges 6:1.",
+    "question": "Qui fit ce qui déplaît à l’Éternel et fut livré à Madian ?",
+    "choices": [
+      "Israël",
+      "Juda seulement",
+      "Benjamin seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 6:1 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-032",
+    "book": "Juges",
+    "chapter": 6,
+    "verseRef": "Juges 6:36-38",
+    "verseText": "Voir Juges 6:36-38.",
+    "question": "Quel signe Gédéon demanda-t-il avec une toison ?",
+    "choices": [
+      "La toison humide et le sol sec",
+      "La toison brûlée et le sol humide",
+      "La toison déchirée et le sol sec"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 6:36-38 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-033",
+    "book": "Juges",
+    "chapter": 6,
+    "verseRef": "Juges 6:39-40",
+    "verseText": "Voir Juges 6:39-40.",
+    "question": "Quel autre signe Gédéon demanda-t-il ensuite ?",
+    "choices": [
+      "La toison sèche et le sol humide",
+      "La toison humide et le sol humide",
+      "La toison sèche et le sol sec"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 6:39-40 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-034",
+    "book": "Juges",
+    "chapter": 7,
+    "verseRef": "Juges 7:7",
+    "verseText": "Voir Juges 7:7.",
+    "question": "Combien d’hommes restèrent avec Gédéon après la réduction finale ?",
+    "choices": [
+      "22 000",
+      "10 000",
+      "300"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Juges 7:7 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-035",
+    "book": "Juges",
+    "chapter": 7,
+    "verseRef": "Juges 7:5-6",
+    "verseText": "Voir Juges 7:5-6.",
+    "question": "Quel critère fut utilisé pour choisir les 300 ?",
+    "choices": [
+      "Ceux qui savaient tirer à l’arc",
+      "La manière de boire l’eau",
+      "L’âge des hommes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 7:5-6 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-036",
+    "book": "Juges",
+    "chapter": 7,
+    "verseRef": "Juges 7:20",
+    "verseText": "Voir Juges 7:20.",
+    "question": "Quel cri lança l’armée de Gédéon lors de l’attaque ?",
+    "choices": [
+      "« Pour Israël et pour Josué ! »",
+      "« Épée pour l’Éternel et pour Gédéon ! »",
+      "« L’Éternel est notre paix ! »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 7:20 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-037",
+    "book": "Juges",
+    "chapter": 7,
+    "verseRef": "Juges 7:16",
+    "verseText": "Voir Juges 7:16.",
+    "question": "Quels objets les 300 portaient-ils ?",
+    "choices": [
+      "Trompettes, cruches et flambeaux",
+      "Boucliers, arcs et flèches",
+      "Épées, lances et casques"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 7:16 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-038",
+    "book": "Juges",
+    "chapter": 7,
+    "verseRef": "Juges 7:25",
+    "verseText": "Voir Juges 7:25.",
+    "question": "Quels princes madianites furent tués par Éphraïm ?",
+    "choices": [
+      "Oreb et Zeeb",
+      "Sésan et Tola",
+      "Jabin et Sisera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 7:25 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-039",
+    "book": "Juges",
+    "chapter": 8,
+    "verseRef": "Juges 8:27",
+    "verseText": "Voir Juges 8:27.",
+    "question": "Quel acte de Gédéon devint un piège pour Israël ?",
+    "choices": [
+      "Il construisit un temple à Baal",
+      "Il fit un éphod qui devint une occasion de prostitution",
+      "Il imposa un roi à Israël"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 8:27 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-040",
+    "book": "Juges",
+    "chapter": 8,
+    "verseRef": "Juges 8:31 ; 9:1-2",
+    "verseText": "Voir Juges 8:31 ; 9:1-2.",
+    "question": "Comment s’appelait le fils de Gédéon qui devint violent pour régner ?",
+    "choices": [
+      "Abimélec",
+      "Éliab",
+      "Abner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 8:31 ; 9:1-2 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-041",
+    "book": "Juges",
+    "chapter": 9,
+    "verseRef": "Juges 9:5",
+    "verseText": "Voir Juges 9:5.",
+    "question": "Combien de frères Abimélec fit-il mourir sur une même pierre ?",
+    "choices": [
+      "30",
+      "70",
+      "120"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 9:5 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-042",
+    "book": "Juges",
+    "chapter": 9,
+    "verseRef": "Juges 9:7-15",
+    "verseText": "Voir Juges 9:7-15.",
+    "question": "Quel homme raconta la parabole des arbres qui veulent un roi ?",
+    "choices": [
+      "Jotham",
+      "Barak",
+      "Thola"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 9:7-15 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-043",
+    "book": "Juges",
+    "chapter": 9,
+    "verseRef": "Juges 9:53",
+    "verseText": "Voir Juges 9:53.",
+    "question": "Par quoi Abimélec fut-il finalement frappé à Thébets ?",
+    "choices": [
+      "Par une flèche",
+      "Par une pierre de meule jetée par une femme",
+      "Par une lance de soldat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 9:53 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-044",
+    "book": "Juges",
+    "chapter": 9,
+    "verseRef": "Juges 9:54",
+    "verseText": "Voir Juges 9:54.",
+    "question": "Pourquoi Abimélec demanda-t-il à son écuyer de le tuer ?",
+    "choices": [
+      "Pour ne pas mourir de soif",
+      "Afin qu’on ne dise pas : « Une femme l’a tué »",
+      "Pour éviter la captivité"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 9:54 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-045",
+    "book": "Juges",
+    "chapter": 10,
+    "verseRef": "Juges 10:1",
+    "verseText": "Voir Juges 10:1.",
+    "question": "Quel juge est mentionné après Abimélec comme sauveur d’Israël ?",
+    "choices": [
+      "Thola",
+      "Samson",
+      "Othniel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 10:1 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-046",
+    "book": "Juges",
+    "chapter": 10,
+    "verseRef": "Juges 10:3",
+    "verseText": "Voir Juges 10:3.",
+    "question": "Combien d’années Jaïr jugea-t-il Israël ?",
+    "choices": [
+      "7 ans",
+      "22 ans",
+      "50 ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 10:3 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-047",
+    "book": "Juges",
+    "chapter": 10,
+    "verseRef": "Juges 10:9",
+    "verseText": "Voir Juges 10:9.",
+    "question": "Contre qui les Ammonites firent-ils la guerre en Galaad ?",
+    "choices": [
+      "Les Philistins",
+      "Israël",
+      "Les Édomites"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 10:9 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-048",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:2",
+    "verseText": "Voir Juges 11:2.",
+    "question": "D’où Jephté fut-il chassé à cause de son origine ?",
+    "choices": [
+      "De Jérusalem",
+      "De la maison de son père",
+      "Du désert de Sinaï"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 11:2 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-049",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:3",
+    "verseText": "Voir Juges 11:3.",
+    "question": "Dans quel pays Jephté habita-t-il après avoir été chassé ?",
+    "choices": [
+      "Le pays de Tob",
+      "Le pays de Moab",
+      "Le pays d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 11:3 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-050",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:30-31",
+    "verseText": "Voir Juges 11:30-31.",
+    "question": "Quel vœu Jephté fit-il avant la bataille ?",
+    "choices": [
+      "Offrir dix bœufs",
+      "Consacrer celui qui sortirait de sa maison à sa rencontre",
+      "Bâtir un autel sur Guilgal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 11:30-31 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-051",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:34",
+    "verseText": "Voir Juges 11:34.",
+    "question": "Qui sortit la première à la rencontre de Jephté à son retour ?",
+    "choices": [
+      "Sa femme",
+      "Sa fille unique",
+      "Son serviteur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 11:34 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-052",
+    "book": "Juges",
+    "chapter": 12,
+    "verseRef": "Juges 12:6",
+    "verseText": "Voir Juges 12:6.",
+    "question": "Quel mot servit d’épreuve entre Galaad et Éphraïm ?",
+    "choices": [
+      "Hallelujah",
+      "Shibboleth",
+      "Hosanna"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 12:6 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-053",
+    "book": "Juges",
+    "chapter": 12,
+    "verseRef": "Juges 12:6",
+    "verseText": "Voir Juges 12:6.",
+    "question": "Pourquoi les Éphraïmites furent-ils reconnus au gué ?",
+    "choices": [
+      "Leur accent les empêchait de prononcer correctement le mot",
+      "Ils portaient un signe sur la main",
+      "Ils ne connaissaient pas la Loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 12:6 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-054",
+    "book": "Juges",
+    "chapter": 12,
+    "verseRef": "Juges 12:14",
+    "verseText": "Voir Juges 12:14.",
+    "question": "Quel juge avait trente fils qui montaient sur trente ânons ?",
+    "choices": [
+      "Ibtsan",
+      "Élon",
+      "Abdôn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Juges 12:14 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-055",
+    "book": "Juges",
+    "chapter": 13,
+    "verseRef": "Juges 13:1",
+    "verseText": "Voir Juges 13:1.",
+    "question": "Quel peuple domina Israël durant quarante ans avant Samson ?",
+    "choices": [
+      "Les Philistins",
+      "Les Madianites",
+      "Les Moabites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 13:1 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-056",
+    "book": "Juges",
+    "chapter": 13,
+    "verseRef": "Juges 13:2-3",
+    "verseText": "Voir Juges 13:2-3.",
+    "question": "À quel couple l’ange de l’Éternel annonça-t-il la naissance de Samson ?",
+    "choices": [
+      "Manoach et sa femme",
+      "Éli et Anne",
+      "Zacharie et Élisabeth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 13:2-3 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-057",
+    "book": "Juges",
+    "chapter": 13,
+    "verseRef": "Juges 13:5",
+    "verseText": "Voir Juges 13:5.",
+    "question": "Quel signe devait marquer l’enfant consacré dès le ventre ?",
+    "choices": [
+      "Il ne devait pas boire d’eau",
+      "Le rasoir ne devait pas passer sur sa tête",
+      "Il devait jeûner chaque semaine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 13:5 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-058",
+    "book": "Juges",
+    "chapter": 14,
+    "verseRef": "Juges 14:6",
+    "verseText": "Voir Juges 14:6.",
+    "question": "Quel animal Samson déchira-t-il « comme on déchire un chevreau » ?",
+    "choices": [
+      "Un ours",
+      "Un lion",
+      "Un taureau"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 14:6 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-059",
+    "book": "Juges",
+    "chapter": 14,
+    "verseRef": "Juges 14:14",
+    "verseText": "Voir Juges 14:14.",
+    "question": "Quel énigme Samson proposa-t-il aux Philistins ?",
+    "choices": [
+      "« D’où vient la pluie ? »",
+      "« De celui qui mange est sorti ce qui se mange… »",
+      "« Qui a créé le ciel ? »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 14:14 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-060",
+    "book": "Juges",
+    "chapter": 15,
+    "verseRef": "Juges 15:15",
+    "verseText": "Voir Juges 15:15.",
+    "question": "Avec quoi Samson tua-t-il mille hommes ?",
+    "choices": [
+      "Une mâchoire d’âne",
+      "Une épée",
+      "Une fronde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 15:15 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-061",
+    "book": "Juges",
+    "chapter": 2,
+    "verseRef": "Juges 2:1",
+    "verseText": "Voir Juges 2:1.",
+    "question": "Qu’est-ce que l’ange de l’Éternel déclara avoir fait concernant l’alliance ?",
+    "choices": [
+      "« Je la renouvellerai chaque année »",
+      "« Je ne la romprai jamais avec vous »",
+      "« Je la changerai selon vos œuvres »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 2:1 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-062",
+    "book": "Juges",
+    "chapter": 2,
+    "verseRef": "Juges 2:7",
+    "verseText": "Voir Juges 2:7.",
+    "question": "Après la mort de Josué, combien de temps le peuple servit-il l’Éternel selon Juges 2 ?",
+    "choices": [
+      "Pendant toute la vie des anciens qui survécurent à Josué",
+      "Pendant trois mois seulement",
+      "Pendant soixante-dix ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 2:7 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-063",
+    "book": "Juges",
+    "chapter": 2,
+    "verseRef": "Juges 2:16",
+    "verseText": "Voir Juges 2:16.",
+    "question": "Quelle conséquence est mentionnée lorsque l’Éternel suscitait des juges ?",
+    "choices": [
+      "Il détruisait immédiatement tous les ennemis",
+      "Il délivrait Israël de la main de ses ennemis",
+      "Il envoyait Israël en exil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 2:16 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-064",
+    "book": "Juges",
+    "chapter": 2,
+    "verseRef": "Juges 2:19",
+    "verseText": "Voir Juges 2:19.",
+    "question": "Quel comportement Israël adoptait-il souvent après la mort d’un juge ?",
+    "choices": [
+      "Il revenait à l’Éternel avec plus de zèle",
+      "Il se corrompait plus que ses pères",
+      "Il cessait toute guerre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 2:19 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-065",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:3",
+    "verseText": "Voir Juges 3:3.",
+    "question": "Quels peuples sont cités parmi ceux laissés pour éprouver Israël ?",
+    "choices": [
+      "Philistins, Cananéens, Sidoniens, Héviens du mont Liban",
+      "Assyriens, Babyloniens, Perses, Grecs",
+      "Égyptiens, Édomites, Amalécites seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 3:3 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-066",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:6",
+    "verseText": "Voir Juges 3:6.",
+    "question": "Qu’est-ce qu’Israël fit avec les filles des nations voisines ?",
+    "choices": [
+      "Ils les marièrent à leurs fils et servirent leurs dieux",
+      "Ils les envoyèrent loin du pays",
+      "Ils les consacrèrent au sanctuaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 3:6 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-067",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:11",
+    "verseText": "Voir Juges 3:11.",
+    "question": "Après Othniel, combien d’années le pays fut-il en repos ?",
+    "choices": [
+      "20 ans",
+      "40 ans",
+      "70 ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 3:11 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-068",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:17",
+    "verseText": "Voir Juges 3:17.",
+    "question": "Quel détail est donné sur Églon, roi de Moab ?",
+    "choices": [
+      "Il était très jeune",
+      "Il était fort gras",
+      "Il était aveugle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 3:17 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-069",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:19",
+    "verseText": "Voir Juges 3:19.",
+    "question": "Quel lieu est mentionné près duquel Ehud se détourna après avoir présenté le tribut ?",
+    "choices": [
+      "Les carrières près de Guilgal",
+      "Les images taillées près de Guilgal",
+      "Les sources près de Guilgal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 3:19 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-070",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:27",
+    "verseText": "Voir Juges 3:27.",
+    "question": "Quel signal Ehud donna-t-il pour rassembler Israël ?",
+    "choices": [
+      "Il sonna de la trompette en Éphraïm",
+      "Il alluma un feu sur une montagne",
+      "Il envoya un messager au désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 3:27 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-071",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:28",
+    "verseText": "Voir Juges 3:28.",
+    "question": "Que fit Israël aux gués du Jourdain lors de la bataille contre Moab ?",
+    "choices": [
+      "Ils les détruisirent",
+      "Ils les occupèrent et ne laissèrent passer personne",
+      "Ils les donnèrent à Moab"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 3:28 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-072",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:29",
+    "verseText": "Voir Juges 3:29.",
+    "question": "Combien de Moabites tombèrent à cette occasion ?",
+    "choices": [
+      "Environ dix mille, tous robustes et vaillants",
+      "Environ trois mille",
+      "Environ cinquante mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 3:29 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-073",
+    "book": "Juges",
+    "chapter": 3,
+    "verseRef": "Juges 3:30",
+    "verseText": "Voir Juges 3:30.",
+    "question": "Combien d’années le pays fut-il tranquille après Ehud ?",
+    "choices": [
+      "80 ans",
+      "40 ans",
+      "12 ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 3:30 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-074",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:11",
+    "verseText": "Voir Juges 4:11.",
+    "question": "Quel peuple Héber le Kénien s’était-il séparé des autres Kéniens ?",
+    "choices": [
+      "Des enfants de Hobab, beau-père de Moïse",
+      "Des fils d’Aaron",
+      "Des fils de Coré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 4:11 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-075",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:11",
+    "verseText": "Voir Juges 4:11.",
+    "question": "Où Héber dressa-t-il ses tentes ?",
+    "choices": [
+      "Vers le chêne de Tsaanannim, près de Kedès",
+      "Dans la vallée de Josaphat",
+      "Sur la montagne de Sion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 4:11 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-076",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:14",
+    "verseText": "Voir Juges 4:14.",
+    "question": "Quel ordre Débora donna-t-elle à Barak le jour du combat ?",
+    "choices": [
+      "« Lève-toi, car voici le jour… l’Éternel marche devant toi »",
+      "« Attends trois jours avant d’attaquer »",
+      "« Retourne à Kedès et ne combats pas »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 4:14 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-077",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:15",
+    "verseText": "Voir Juges 4:15.",
+    "question": "Comment Sisera se déplaça-t-il quand son char fut abandonné ?",
+    "choices": [
+      "Il s’enfuit à cheval",
+      "Il s’enfuit à pied",
+      "Il fut porté sur une civière"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 4:15 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-078",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:19",
+    "verseText": "Voir Juges 4:19.",
+    "question": "Que demanda Sisera à Jaël lorsqu’il entra dans sa tente ?",
+    "choices": [
+      "« Donne-moi, je te prie, un peu d’eau à boire »",
+      "« Donne-moi, je te prie, du pain à manger »",
+      "« Donne-moi, je te prie, une épée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 4:19 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-079",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:19",
+    "verseText": "Voir Juges 4:19.",
+    "question": "Qu’est-ce que Jaël donna à Sisera au lieu de l’eau ?",
+    "choices": [
+      "Du vin",
+      "Du lait",
+      "Du miel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 4:19 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-080",
+    "book": "Juges",
+    "chapter": 4,
+    "verseRef": "Juges 4:20",
+    "verseText": "Voir Juges 4:20.",
+    "question": "Qu’est-ce que Sisera demanda à Jaël de faire ensuite ?",
+    "choices": [
+      "Chanter un cantique",
+      "Se tenir à l’entrée de la tente et mentir s’il était recherché",
+      "Appeler Barak"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 4:20 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-081",
+    "book": "Juges",
+    "chapter": 5,
+    "verseRef": "Juges 5:23",
+    "verseText": "Voir Juges 5:23.",
+    "question": "Quel peuple est maudit dans le cantique pour ne pas être venu au secours ?",
+    "choices": [
+      "Méroz",
+      "Succoth",
+      "Thébets"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 5:23 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-082",
+    "book": "Juges",
+    "chapter": 5,
+    "verseRef": "Juges 5:21",
+    "verseText": "Voir Juges 5:21.",
+    "question": "Selon le cantique, qu’est-ce qui « balaya » les ennemis ?",
+    "choices": [
+      "Le vent d’orient",
+      "Le torrent de Kison",
+      "Le feu du ciel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 5:21 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-083",
+    "book": "Juges",
+    "chapter": 6,
+    "verseRef": "Juges 6:32",
+    "verseText": "Voir Juges 6:32.",
+    "question": "Quel nom Gédéon reçut-il après avoir renversé l’autel de Baal ?",
+    "choices": [
+      "Jerubbaal",
+      "Ishbaal",
+      "Elishama"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 6:32 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-084",
+    "book": "Juges",
+    "chapter": 6,
+    "verseRef": "Juges 6:32",
+    "verseText": "Voir Juges 6:32.",
+    "question": "Comment les gens expliquèrent-ils ce nom Jerubbaal ?",
+    "choices": [
+      "« Qu’il plaide contre Baal, puisque Baal est vivant »",
+      "« Qu’il règne sur Israël »",
+      "« Qu’il bâtisse un palais »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 6:32 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-085",
+    "book": "Juges",
+    "chapter": 6,
+    "verseRef": "Juges 6:34",
+    "verseText": "Voir Juges 6:34.",
+    "question": "Quel signe fut donné par l’Esprit de l’Éternel sur Gédéon ?",
+    "choices": [
+      "Il fut revêtu de l’Esprit",
+      "Il eut un songe pendant sept nuits",
+      "Il perdit sa voix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 6:34 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-086",
+    "book": "Juges",
+    "chapter": 6,
+    "verseRef": "Juges 6:34",
+    "verseText": "Voir Juges 6:34.",
+    "question": "Quel instrument Gédéon utilisa-t-il pour convoquer les troupes ?",
+    "choices": [
+      "Une trompette",
+      "Une harpe",
+      "Un tambour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 6:34 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-087",
+    "book": "Juges",
+    "chapter": 7,
+    "verseRef": "Juges 7:3",
+    "verseText": "Voir Juges 7:3.",
+    "question": "Quel groupe Gédéon envoya-t-il en premier chez lui lors de la réduction des troupes ?",
+    "choices": [
+      "Ceux qui étaient fatigués",
+      "Ceux qui étaient craintifs et tremblants",
+      "Ceux qui étaient trop jeunes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 7:3 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-088",
+    "book": "Juges",
+    "chapter": 7,
+    "verseRef": "Juges 7:4",
+    "verseText": "Voir Juges 7:4.",
+    "question": "Qu’est-ce que l’Éternel dit à Gédéon concernant les 10 000 hommes restants ?",
+    "choices": [
+      "« Ils sont encore trop nombreux »",
+      "« Ils sont insuffisants »",
+      "« Ils doivent bâtir un autel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 7:4 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-089",
+    "book": "Juges",
+    "chapter": 7,
+    "verseRef": "Juges 7:19-20",
+    "verseText": "Voir Juges 7:19-20.",
+    "question": "Quelle tactique les 300 utilisèrent-ils au début de l’attaque ?",
+    "choices": [
+      "Briser les cruches et faire briller les flambeaux",
+      "Se cacher dans les arbres",
+      "Envoyer un ambassadeur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 7:19-20 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-090",
+    "book": "Juges",
+    "chapter": 7,
+    "verseRef": "Juges 7:22",
+    "verseText": "Voir Juges 7:22.",
+    "question": "Quel résultat immédiat se produisit dans le camp ennemi ?",
+    "choices": [
+      "Les Madianites devinrent amis d’Israël",
+      "L’Éternel fit tourner l’épée des ennemis les uns contre les autres",
+      "Tous s’endormirent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 7:22 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-091",
+    "book": "Juges",
+    "chapter": 8,
+    "verseRef": "Juges 8:2-3",
+    "verseText": "Voir Juges 8:2-3.",
+    "question": "Comment Gédéon répondit-il aux hommes d’Éphraïm pour apaiser leur colère ?",
+    "choices": [
+      "Il les menaça",
+      "Il leur parla des grappillages d’Éphraïm",
+      "Il refusa de parler"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 8:2-3 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-092",
+    "book": "Juges",
+    "chapter": 8,
+    "verseRef": "Juges 8:8-9",
+    "verseText": "Voir Juges 8:8-9.",
+    "question": "Quel reproche Gédéon fit-il aux habitants de Penuel ?",
+    "choices": [
+      "Ils avaient détruit l’arche",
+      "Ils avaient refusé de donner du pain à l’armée",
+      "Ils avaient adoré Astarté"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 8:8-9 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-093",
+    "book": "Juges",
+    "chapter": 8,
+    "verseRef": "Juges 8:12",
+    "verseText": "Voir Juges 8:12.",
+    "question": "Comment les rois Zébach et Tsalmunna furent-ils décrits au moment où Gédéon les captura ?",
+    "choices": [
+      "Ils étaient déguisés en prêtres",
+      "Ils étaient fatigués et poursuivis",
+      "Ils s’étaient cachés dans une caverne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 8:12 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-094",
+    "book": "Juges",
+    "chapter": 8,
+    "verseRef": "Juges 8:18-19",
+    "verseText": "Voir Juges 8:18-19.",
+    "question": "Quel objet Gédéon demanda-t-il aux rois concernant leurs victimes ?",
+    "choices": [
+      "Leur couronne",
+      "Des descriptions des hommes tués au Thabor",
+      "Leur épée pour le sanctuaire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 8:18-19 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-095",
+    "book": "Juges",
+    "chapter": 8,
+    "verseRef": "Juges 8:22",
+    "verseText": "Voir Juges 8:22.",
+    "question": "Quel titre le peuple proposa-t-il à Gédéon après la délivrance ?",
+    "choices": [
+      "Être roi, lui, son fils et le fils de son fils",
+      "Être prêtre pour toujours",
+      "Être prophète à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 8:22 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-096",
+    "book": "Juges",
+    "chapter": 8,
+    "verseRef": "Juges 8:23",
+    "verseText": "Voir Juges 8:23.",
+    "question": "Quelle fut la réponse de Gédéon à cette proposition de royauté ?",
+    "choices": [
+      "« Je régnerai sur vous »",
+      "« L’Éternel régnera sur vous »",
+      "« Choisissez un roi parmi les nations »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 8:23 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-097",
+    "book": "Juges",
+    "chapter": 9,
+    "verseRef": "Juges 9:6",
+    "verseText": "Voir Juges 9:6.",
+    "question": "Où Abimélec fut-il proclamé roi ?",
+    "choices": [
+      "À Sichem, près du chêne du monument",
+      "À Jéricho, près du Jourdain",
+      "À Gabaon, près de l’autel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 9:6 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-098",
+    "book": "Juges",
+    "chapter": 9,
+    "verseRef": "Juges 9:43",
+    "verseText": "Voir Juges 9:43.",
+    "question": "Quelle stratégie Abimélec utilisa-t-il contre la ville de Sichem ?",
+    "choices": [
+      "Il fit une alliance par mariage",
+      "Il posa des embuscades en trois corps",
+      "Il envoya des cadeaux"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 9:43 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-099",
+    "book": "Juges",
+    "chapter": 9,
+    "verseRef": "Juges 9:49",
+    "verseText": "Voir Juges 9:49.",
+    "question": "Que fit Abimélec à la tour de Sichem ?",
+    "choices": [
+      "Il la fortifia",
+      "Il y mit le feu après y avoir amassé du bois",
+      "Il la transforma en temple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 9:49 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-100",
+    "book": "Juges",
+    "chapter": 9,
+    "verseRef": "Juges 9:20",
+    "verseText": "Voir Juges 9:20.",
+    "question": "Quelle parole de Jotham annonçait le résultat final entre Abimélec et Sichem ?",
+    "choices": [
+      "Le feu sortirait d’Abimélec et consumerait les hommes de Sichem",
+      "La paix sortirait de Sichem et bénirait Abimélec",
+      "L’eau sortirait de Sichem et éteindrait le feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 9:20 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-101",
+    "book": "Juges",
+    "chapter": 9,
+    "verseRef": "Juges 9:22",
+    "verseText": "Voir Juges 9:22.",
+    "question": "Combien de temps Abimélec domina-t-il sur Israël ?",
+    "choices": [
+      "3 ans",
+      "7 ans",
+      "40 ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 9:22 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-102",
+    "book": "Juges",
+    "chapter": 10,
+    "verseRef": "Juges 10:1",
+    "verseText": "Voir Juges 10:1.",
+    "question": "Quel juge est nommé après Abimélec et de quelle tribu était-il issu ?",
+    "choices": [
+      "Thola, fils de Pua, de la tribu d’Issacar",
+      "Élon, de la tribu de Juda",
+      "Samson, de la tribu de Lévi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 10:1 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-103",
+    "book": "Juges",
+    "chapter": 10,
+    "verseRef": "Juges 10:1-2",
+    "verseText": "Voir Juges 10:1-2.",
+    "question": "Où Thola demeurait-il ?",
+    "choices": [
+      "À Schamir, dans la montagne d’Éphraïm",
+      "À Hébron, dans la montagne de Juda",
+      "À Sichem, près de Garizim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 10:1-2 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-104",
+    "book": "Juges",
+    "chapter": 10,
+    "verseRef": "Juges 10:2",
+    "verseText": "Voir Juges 10:2.",
+    "question": "Combien d’années Thola jugea-t-il Israël ?",
+    "choices": [
+      "23 ans",
+      "30 ans",
+      "12 ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 10:2 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-105",
+    "book": "Juges",
+    "chapter": 10,
+    "verseRef": "Juges 10:3-4",
+    "verseText": "Voir Juges 10:3-4.",
+    "question": "Quel juge est mentionné après Thola et quel détail est donné sur ses fils ?",
+    "choices": [
+      "Jaïr : il avait trente fils montés sur trente ânons, avec trente villes",
+      "Ehud : il avait douze fils montés sur douze chevaux",
+      "Othniel : il avait sept fils avec sept épées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 10:3-4 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-106",
+    "book": "Juges",
+    "chapter": 10,
+    "verseRef": "Juges 10:8",
+    "verseText": "Voir Juges 10:8.",
+    "question": "Combien d’années Israël fut-il opprimé par les Ammonites selon Juges 10 ?",
+    "choices": [
+      "18 ans",
+      "8 ans",
+      "70 ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 10:8 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-107",
+    "book": "Juges",
+    "chapter": 10,
+    "verseRef": "Juges 10:9",
+    "verseText": "Voir Juges 10:9.",
+    "question": "Où les Ammonites passèrent-ils pour combattre, en plus de Galaad ?",
+    "choices": [
+      "En Juda, Benjamin et la maison d’Éphraïm",
+      "En Dan et Nephtali uniquement",
+      "En Ruben seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 10:9 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-108",
+    "book": "Juges",
+    "chapter": 10,
+    "verseRef": "Juges 10:16",
+    "verseText": "Voir Juges 10:16.",
+    "question": "Que fit Israël après avoir ôté les dieux étrangers ?",
+    "choices": [
+      "Ils bâtirent une muraille",
+      "Ils servirent l’Éternel",
+      "Ils quittèrent le pays"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 10:16 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-109",
+    "book": "Juges",
+    "chapter": 10,
+    "verseRef": "Juges 10:17",
+    "verseText": "Voir Juges 10:17.",
+    "question": "Où Israël se rassembla-t-il quand les Ammonites campèrent ?",
+    "choices": [
+      "À Mitspa en Galaad",
+      "À Guilgal",
+      "À Silo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 10:17 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-110",
+    "book": "Juges",
+    "chapter": 10,
+    "verseRef": "Juges 10:18",
+    "verseText": "Voir Juges 10:18.",
+    "question": "Quelle question fut posée pour désigner un chef contre Ammon ?",
+    "choices": [
+      "« Qui commencera le combat ? »",
+      "« Qui est le plus riche ? »",
+      "« Qui a le plus de chars ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 10:18 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-111",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:2",
+    "verseText": "Voir Juges 11:2.",
+    "question": "Quel reproche les frères de Jephté lui firent-ils ?",
+    "choices": [
+      "« Tu as volé l’héritage »",
+      "« Tu es fils d’une autre femme »",
+      "« Tu as brisé l’autel »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Juges 11:2 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-112",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:6-8",
+    "verseText": "Voir Juges 11:6-8.",
+    "question": "Que proposèrent les anciens de Galaad à Jephté pour le convaincre de revenir ?",
+    "choices": [
+      "Être chef et dominer sur eux",
+      "Recevoir une dîme annuelle",
+      "Épouser la fille du sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 11:6-8 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-113",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:11",
+    "verseText": "Voir Juges 11:11.",
+    "question": "Où Jephté prononça-t-il toutes ses paroles devant l’Éternel ?",
+    "choices": [
+      "À Mitspa",
+      "À Jéricho",
+      "À Béthel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 11:11 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-114",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:24",
+    "verseText": "Voir Juges 11:24.",
+    "question": "Quel dieu Jephté mentionna-t-il dans son message au roi des Ammonites ?",
+    "choices": [
+      "Kemosch",
+      "Dagon",
+      "Moloch"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 11:24 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-115",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:22",
+    "verseText": "Voir Juges 11:22.",
+    "question": "Quel territoire Jephté cita-t-il comme ayant été pris aux Amoréens ?",
+    "choices": [
+      "De l’Arnon au Jabbok, et du désert au Jourdain",
+      "Du Nil au Jourdain",
+      "De la mer à la montagne de Sion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 11:22 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-116",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:29",
+    "verseText": "Voir Juges 11:29.",
+    "question": "Que fit l’Esprit de l’Éternel sur Jephté avant la guerre ?",
+    "choices": [
+      "Il le revêtit lorsqu’il traversa Galaad et Manassé",
+      "Il le fit dormir sept jours",
+      "Il le rendit muet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 11:29 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-117",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:33",
+    "verseText": "Voir Juges 11:33.",
+    "question": "Combien de villes Jephté prit-il aux Ammonites lors de la victoire ?",
+    "choices": [
+      "20 villes",
+      "7 villes",
+      "70 villes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 11:33 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-118",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:33",
+    "verseText": "Voir Juges 11:33.",
+    "question": "Quel nom est donné à l’endroit jusqu’où Jephté poursuivit les Ammonites ?",
+    "choices": [
+      "Abel-Kéramim",
+      "En-Hakkoré",
+      "Mahané-Dan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 11:33 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-119",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:37-38",
+    "verseText": "Voir Juges 11:37-38.",
+    "question": "Que demanda la fille de Jephté avant l’accomplissement du vœu ?",
+    "choices": [
+      "Aller pleurer sa virginité sur les montagnes avec ses compagnes",
+      "Aller se marier pendant deux mois",
+      "Aller au temple offrir un sacrifice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 11:37-38 (LSG 1910)."
+  },
+  {
+    "id": "JUG-N-120",
+    "book": "Juges",
+    "chapter": 11,
+    "verseRef": "Juges 11:39-40",
+    "verseText": "Voir Juges 11:39-40.",
+    "question": "Quelle coutume en Israël fut établie à cause de la fille de Jephté ?",
+    "choices": [
+      "Les filles d’Israël allaient célébrer sa mémoire quatre jours par an",
+      "Les fils d’Israël jeûnaient quarante jours",
+      "Israël bâtissait un autel annuel à Mitspa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 11:39-40 (LSG 1910)."
+  }
+]

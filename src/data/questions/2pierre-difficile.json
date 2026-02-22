@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "2pierre-D-001",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:1",
+    "verseText": "Voir 2 Pierre 1:1.",
+    "question": "Par quelle expression Pierre qualifie-t-il la foi reçue « en partage » ?",
+    "choices": [
+      "Une foi du même prix que la nôtre",
+      "Une foi supérieure à la nôtre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-002",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:2",
+    "verseText": "Voir 2 Pierre 1:2.",
+    "question": "Dans la salutation, quels deux éléments Pierre demande-t-il qu’ils soient « multipliés » ?",
+    "choices": [
+      "La grâce et la paix",
+      "La foi et la vertu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:2 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-003",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:5",
+    "verseText": "Voir 2 Pierre 1:5.",
+    "question": "Selon l’ordre donné, qu’ajoute-t-on à la foi en premier ?",
+    "choices": [
+      "La vertu",
+      "La science"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:5 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-004",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:6",
+    "verseText": "Voir 2 Pierre 1:6.",
+    "question": "Dans l’enchaînement, quel terme suit immédiatement « la tempérance » ?",
+    "choices": [
+      "La patience",
+      "La charité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:6 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-005",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:8",
+    "verseText": "Voir 2 Pierre 1:8.",
+    "question": "Selon Pierre, que produisent ces choses quand elles sont « avec abondance » ?",
+    "choices": [
+      "Elles ne vous laisseront point oisifs ni stériles",
+      "Elles vous rendront supérieurs en force et en puissance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-006",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:9",
+    "verseText": "Voir 2 Pierre 1:9.",
+    "question": "Quel double diagnostic Pierre pose-t-il sur celui en qui ces choses ne sont point ?",
+    "choices": [
+      "Aveugle, et ne voit pas de loin",
+      "Sans tache, et irrépréhensible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:9 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-007",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:9",
+    "verseText": "Voir 2 Pierre 1:9.",
+    "question": "Quel oubli précis est reproché à celui qui est aveugle ?",
+    "choices": [
+      "La purification de ses anciens péchés",
+      "Le saint commandement qui lui avait été donné"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:9 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-008",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:10",
+    "verseText": "Voir 2 Pierre 1:10.",
+    "question": "Quelle promesse est liée à l’effort d’affermir vocation et élection ?",
+    "choices": [
+      "Vous ne broncherez jamais",
+      "Le jour du Seigneur ne viendra pas comme un voleur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-009",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:11",
+    "verseText": "Voir 2 Pierre 1:11.",
+    "question": "Quelle entrée sera « pleinement accordée » selon Pierre ?",
+    "choices": [
+      "L'entrée dans le royaume éternel de notre Seigneur et Sauveur Jésus Christ",
+      "L'entrée dans la cité terrestre des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:11 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-010",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:12",
+    "verseText": "Voir 2 Pierre 1:12.",
+    "question": "Comment Pierre décrit-il l’état de ses lecteurs par rapport à « ces choses » ?",
+    "choices": [
+      "Vous les sachiez et que vous soyez affermis dans la vérité présente",
+      "Vous les ignoriez et que vous soyez trompés par des fables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:12 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-011",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:13",
+    "verseText": "Voir 2 Pierre 1:13.",
+    "question": "Quel mot Pierre emploie-t-il pour désigner son corps lorsqu’il dit y être encore ?",
+    "choices": [
+      "Cette tente",
+      "Cette maison éternelle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:13 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-012",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:14",
+    "verseText": "Voir 2 Pierre 1:14.",
+    "question": "Comment Pierre sait-il qu’il quittera cette tente ?",
+    "choices": [
+      "Ainsi que notre Seigneur Jésus Christ me l'a fait connaître",
+      "Ainsi que les saints prophètes me l'ont écrit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:14 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-013",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:15",
+    "verseText": "Voir 2 Pierre 1:15.",
+    "question": "Après son départ, quel objectif Pierre vise-t-il explicitement ?",
+    "choices": [
+      "Que vous puissiez toujours vous souvenir de ces choses",
+      "Que vous puissiez toujours reprendre les injustes par des injures"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:15 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-014",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:16",
+    "verseText": "Voir 2 Pierre 1:16.",
+    "question": "Quelle opposition Pierre établit-il pour justifier son témoignage ?",
+    "choices": [
+      "Pas des fables habilement conçues, mais comme ayant vu sa majesté de nos propres yeux",
+      "Pas une lampe dans un lieu obscur, mais des nuées que chasse un tourbillon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:16 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-015",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:17",
+    "verseText": "Voir 2 Pierre 1:17.",
+    "question": "Que reçut Jésus « de Dieu le Père » dans la scène évoquée ?",
+    "choices": [
+      "Honneur et gloire",
+      "La liberté et la paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:17 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-016",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:17",
+    "verseText": "Voir 2 Pierre 1:17.",
+    "question": "Quelle désignation exacte la voix attribue-t-elle à Jésus ?",
+    "choices": [
+      "Mon Fils bien-aimé",
+      "Mon serviteur choisi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:17 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-017",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:17",
+    "verseText": "Voir 2 Pierre 1:17.",
+    "question": "Quelle précision la voix ajoute-t-elle au sujet du Fils ?",
+    "choices": [
+      "En qui j'ai mis toute mon affection",
+      "Qui a réduit en cendres les villes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:17 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-018",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:18",
+    "verseText": "Voir 2 Pierre 1:18.",
+    "question": "Où Pierre situe-t-il l’audition de la voix venue du ciel ?",
+    "choices": [
+      "Sur la sainte montagne",
+      "Dans un lieu obscur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:18 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-019",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:19",
+    "verseText": "Voir 2 Pierre 1:19.",
+    "question": "À quoi faut-il prêter attention selon Pierre, et comment ?",
+    "choices": [
+      "À la parole prophétique, comme à une lampe qui brille dans un lieu obscur",
+      "Aux discours enflés de vanité, comme à une source d’eau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:19 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-020",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:19",
+    "verseText": "Voir 2 Pierre 1:19.",
+    "question": "Jusqu’à quel double événement Pierre fixe-t-il cette attention ?",
+    "choices": [
+      "Jusqu'à ce que le jour vienne à paraître et que l'étoile du matin se lève dans vos coeurs",
+      "Jusqu'à ce que les éléments embrasés se fondent et que la terre soit consumée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:19 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-021",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:20",
+    "verseText": "Voir 2 Pierre 1:20.",
+    "question": "Quel principe Pierre pose-t-il « tout d'abord » sur la prophétie de l’Écriture ?",
+    "choices": [
+      "Aucune prophétie ne peut être un objet d'interprétation particulière",
+      "Toute prophétie dépend de la volonté d'homme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:20 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-022",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:21",
+    "verseText": "Voir 2 Pierre 1:21.",
+    "question": "Quelle négation Pierre formule-t-il sur l’origine des prophéties ?",
+    "choices": [
+      "Ce n'est pas par une volonté d'homme qu'une prophétie a jamais été apportée",
+      "Ce n'est pas par la parole de Dieu que des cieux existèrent autrefois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:21 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-023",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:21",
+    "verseText": "Voir 2 Pierre 1:21.",
+    "question": "Quelle formulation Pierre emploie-t-il pour l’inspiration des prophètes ?",
+    "choices": [
+      "Poussés par le Saint Esprit",
+      "Entraînés par l'égarement des impies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:21 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-024",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:1",
+    "verseText": "Voir 2 Pierre 2:1.",
+    "question": "Quel parallèle Pierre établit-il entre le passé et l’avenir concernant l’erreur ?",
+    "choices": [
+      "Il y a eu de faux prophètes, et il y aura de même de faux docteurs",
+      "Il y a eu des villes réduites en cendres, et il y aura de même des cieux nouveaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-025",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:1",
+    "verseText": "Voir 2 Pierre 2:1.",
+    "question": "Que font ces faux docteurs « subtilement » selon l’idée du texte ?",
+    "choices": [
+      "Ils introduiront des sectes pernicieuses",
+      "Ils affermiront votre vocation et votre élection"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-026",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:1",
+    "verseText": "Voir 2 Pierre 2:1.",
+    "question": "Quelle action envers le maître est explicitement mentionnée ?",
+    "choices": [
+      "Reniant le maître qui les a rachetés",
+      "Croissant dans la connaissance du maître qui les a rachetés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-027",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:1",
+    "verseText": "Voir 2 Pierre 2:1.",
+    "question": "Quel effet immédiat Pierre associe-t-il à cet acte ?",
+    "choices": [
+      "Une ruine soudaine",
+      "Une patience envers vous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-028",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:2",
+    "verseText": "Voir 2 Pierre 2:2.",
+    "question": "Qu’arrivera-t-il à la « voie de la vérité » à cause d’eux ?",
+    "choices": [
+      "Elle sera calomniée",
+      "Elle habitera dans une nouvelle terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:2 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-029",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:3",
+    "verseText": "Voir 2 Pierre 2:3.",
+    "question": "Quel motif intérieur Pierre attribue-t-il à leur exploitation ?",
+    "choices": [
+      "La cupidité",
+      "La piété"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-030",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:3",
+    "verseText": "Voir 2 Pierre 2:3.",
+    "question": "Par quel moyen verbal Pierre dit-il qu’ils trafiqueront des croyants ?",
+    "choices": [
+      "Au moyen de paroles trompeuses",
+      "Au moyen de la parole prophétique"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-031",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:3",
+    "verseText": "Voir 2 Pierre 2:3.",
+    "question": "Quelle double affirmation Pierre donne-t-il sur leur sort ?",
+    "choices": [
+      "Leur condamnation menace depuis longtemps, et leur ruine ne sommeille point",
+      "Le Seigneur ne tarde pas, et un jour est comme mille ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-032",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:4",
+    "verseText": "Voir 2 Pierre 2:4.",
+    "question": "Quel premier exemple Pierre introduit-il pour montrer que Dieu juge ?",
+    "choices": [
+      "Les anges qui ont péché",
+      "Les saints prophètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:4 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-033",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:4",
+    "verseText": "Voir 2 Pierre 2:4.",
+    "question": "Où Dieu a-t-il précipité ces anges selon Pierre ?",
+    "choices": [
+      "Dans les abîmes de ténèbres",
+      "Dans la sainte montagne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:4 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-034",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:5",
+    "verseText": "Voir 2 Pierre 2:5.",
+    "question": "Quel personnage Pierre qualifie-t-il de « prédicateur de la justice » ?",
+    "choices": [
+      "Noé",
+      "Lot"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:5 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-035",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:5",
+    "verseText": "Voir 2 Pierre 2:5.",
+    "question": "Quel détail numérique Pierre associe-t-il à Noé ?",
+    "choices": [
+      "Lui huitième",
+      "Lui douzième"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:5 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-036",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:5",
+    "verseText": "Voir 2 Pierre 2:5.",
+    "question": "Quel jugement historique Pierre mentionne-t-il contre « un monde d'impies » ?",
+    "choices": [
+      "Le déluge",
+      "Le feu réservé aux cieux enflammés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:5 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-037",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:6",
+    "verseText": "Voir 2 Pierre 2:6.",
+    "question": "Quel exemple Pierre dit-il que Sodome et Gomorrhe deviennent ?",
+    "choices": [
+      "Un exemple aux impies à venir",
+      "Une lampe qui brille dans un lieu obscur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:6 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-038",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:7",
+    "verseText": "Voir 2 Pierre 2:7.",
+    "question": "Comment Pierre décrit-il l’état de Lot face à la conduite des hommes sans frein ?",
+    "choices": [
+      "Profondément attristé",
+      "Enflé de vanité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:7 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-039",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:8",
+    "verseText": "Voir 2 Pierre 2:8.",
+    "question": "Quelle cause de tourment Pierre attribue-t-il à Lot jour après jour ?",
+    "choices": [
+      "Ce qu'il voyait et entendait de leurs oeuvres criminelles",
+      "Le retard apparent de l'accomplissement de la promesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:8 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-040",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:9",
+    "verseText": "Voir 2 Pierre 2:9.",
+    "question": "Que sait faire le Seigneur selon Pierre, dans une formulation en deux volets ?",
+    "choices": [
+      "Délivrer de l'épreuve les hommes pieux, et réserver les injustes pour êtres punis",
+      "Multiplier la grâce et la paix, et réduire en cendres les villes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:9 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-041",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:10",
+    "verseText": "Voir 2 Pierre 2:10.",
+    "question": "Quels injustes Pierre vise-t-il « surtout » en premier lieu ?",
+    "choices": [
+      "Ceux qui vont après la chair dans un désir d'impureté",
+      "Ceux qui attendent de nouveaux cieux et une nouvelle terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:10 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-042",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:10",
+    "verseText": "Voir 2 Pierre 2:10.",
+    "question": "Quelle autre caractéristique Pierre associe à ces mêmes personnes ?",
+    "choices": [
+      "Ils méprisent l'autorité",
+      "Ils croissent dans la grâce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:10 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-043",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:10",
+    "verseText": "Voir 2 Pierre 2:10.",
+    "question": "Comment Pierre les qualifie-t-il avant de parler de leurs injures ?",
+    "choices": [
+      "Audacieux et arrogants",
+      "Sans tache et irrépréhensibles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:10 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-044",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:10",
+    "verseText": "Voir 2 Pierre 2:10.",
+    "question": "Que ne craignent-ils pas de faire ?",
+    "choices": [
+      "D'injurier les gloires",
+      "De prêter attention à la parole prophétique"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:10 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-045",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:11",
+    "verseText": "Voir 2 Pierre 2:11.",
+    "question": "Quel contraste Pierre établit-il avec les anges ?",
+    "choices": [
+      "Les anges ne portent pas contre elles de jugement injurieux devant le Seigneur",
+      "Les anges parlent d'une manière injurieuse de ce qu'ils ignorent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:11 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-046",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:12",
+    "verseText": "Voir 2 Pierre 2:12.",
+    "question": "À quoi Pierre compare-t-il ces hommes dans une image dépréciative ?",
+    "choices": [
+      "À des brutes nées pour êtres prises et détruites",
+      "À une étoile du matin se levant dans les coeurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:12 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-047",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:12",
+    "verseText": "Voir 2 Pierre 2:12.",
+    "question": "De quoi Pierre dit-il qu’ils parlent injurieusement ?",
+    "choices": [
+      "De ce qu'ils ignorent",
+      "Des choses annoncées d'avance par les saints prophètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:12 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-048",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:12",
+    "verseText": "Voir 2 Pierre 2:12.",
+    "question": "Quel sort Pierre annonce-t-il « par leur propre corruption » ?",
+    "choices": [
+      "Ils périront par leur propre corruption",
+      "Ils seront délivrés de l'épreuve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:12 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-049",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:13",
+    "verseText": "Voir 2 Pierre 2:13.",
+    "question": "Quel « salaire » Pierre dit-il qu’ils recevront ?",
+    "choices": [
+      "Le salaire de leur iniquité",
+      "Le salaire de leur piété"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:13 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-050",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:13",
+    "verseText": "Voir 2 Pierre 2:13.",
+    "question": "Quand trouvent-ils leurs délices à se livrer au plaisir ?",
+    "choices": [
+      "En plein jour",
+      "Dans les derniers jours seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:13 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-051",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:13",
+    "verseText": "Voir 2 Pierre 2:13.",
+    "question": "Par quels deux adjectifs Pierre les qualifie-t-il selon 2 Pierre 2:13 ?",
+    "choices": [
+      "Tarés et souillés",
+      "Pieux et affermis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:13 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-052",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:13",
+    "verseText": "Voir 2 Pierre 2:13.",
+    "question": "Dans quoi se délectent-ils tout en mangeant avec les croyants ?",
+    "choices": [
+      "Dans leurs tromperies",
+      "Dans la paix multipliée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:13 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-053",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:14",
+    "verseText": "Voir 2 Pierre 2:14.",
+    "question": "Quelle description Pierre donne-t-il de leurs regards ?",
+    "choices": [
+      "Les yeux pleins d'adultère",
+      "Les yeux levés vers la sainte montagne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:14 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-054",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:14",
+    "verseText": "Voir 2 Pierre 2:14.",
+    "question": "Quelle expression Pierre ajoute-t-il à propos de leur rapport au péché ?",
+    "choices": [
+      "Insatiables de péché",
+      "Purifiés de leurs anciens péchés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:14 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-055",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:14",
+    "verseText": "Voir 2 Pierre 2:14.",
+    "question": "Qui amorcent-ils selon Pierre ?",
+    "choices": [
+      "Les âmes mal affermies",
+      "Les hommes pieux délivrés de l'épreuve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:14 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-056",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:14",
+    "verseText": "Voir 2 Pierre 2:14.",
+    "question": "Quelle discipline intérieure Pierre leur attribue-t-il concernant l’avidité ?",
+    "choices": [
+      "Le coeur exercé à la cupidité",
+      "Le coeur gardé dans la paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:14 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-057",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:14",
+    "verseText": "Voir 2 Pierre 2:14.",
+    "question": "Quelle expression de malédiction Pierre emploie-t-il à leur sujet ?",
+    "choices": [
+      "Enfants de malédiction",
+      "Enfants de lumière"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:14 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-058",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:15",
+    "verseText": "Voir 2 Pierre 2:15.",
+    "question": "Quelle action marque leur égarement initial ?",
+    "choices": [
+      "Après avoir quitté le droit chemin",
+      "Après avoir été trouvés irrépréhensibles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:15 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-059",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:15",
+    "verseText": "Voir 2 Pierre 2:15.",
+    "question": "De qui suivent-ils la voie, selon Pierre ?",
+    "choices": [
+      "Balaam, fils de Bosor",
+      "Noé, prédicateur de la justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:15 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-060",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:16",
+    "verseText": "Voir 2 Pierre 2:16.",
+    "question": "Par quel épisode Pierre rappelle-t-il la réprimande subie par Balaam ?",
+    "choices": [
+      "Une ânesse muette fit entendre une voix d'homme et arrêta la démence du prophète",
+      "Une voix venant du ciel dit: Celui-ci est mon Fils bien-aimé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:16 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-061",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:19",
+    "verseText": "Voir 2 Pierre 2:19.",
+    "question": "Quel mot Pierre emploie-t-il pour décrire ce qu’ils promettent aux autres, malgré leur propre état ?",
+    "choices": [
+      "La liberté",
+      "La science"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:19 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-062",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:19",
+    "verseText": "Voir 2 Pierre 2:19.",
+    "question": "Selon Pierre, de quoi sont-ils esclaves tout en promettant la liberté ?",
+    "choices": [
+      "De la corruption",
+      "De la justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:19 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-063",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:19",
+    "verseText": "Voir 2 Pierre 2:19.",
+    "question": "Quelle règle Pierre formule-t-il sur l’esclavage spirituel ?",
+    "choices": [
+      "On est esclave de celui qui vous a vaincu",
+      "On est maître de celui qui vous a vaincu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:19 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-064",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:20",
+    "verseText": "Voir 2 Pierre 2:20.",
+    "question": "Qu’est-ce qui rend la « dernière condition » de certains pire que la première, selon l’enchaînement ?",
+    "choices": [
+      "S’être de nouveau engagés et vaincus après avoir échappé aux souillures du monde",
+      "Avoir prêté attention à la parole prophétique comme à une lampe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:20 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-065",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:21",
+    "verseText": "Voir 2 Pierre 2:21.",
+    "question": "Quelle alternative Pierre affirme-t-il qu’il aurait mieux valu pour eux ?",
+    "choices": [
+      "N'avoir pas connu la voie de la justice",
+      "N'avoir pas connu l’Écriture des prophètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:21 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-066",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:21",
+    "verseText": "Voir 2 Pierre 2:21.",
+    "question": "Après avoir connu la voie de la justice, de quoi se détournent-ils précisément ?",
+    "choices": [
+      "Du saint commandement qui leur avait été donné",
+      "De la purification de leurs anciens péchés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:21 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-067",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:22",
+    "verseText": "Voir 2 Pierre 2:22.",
+    "question": "Quel proverbe Pierre cite-t-il pour illustrer leur retour en arrière (première image) ?",
+    "choices": [
+      "Le chien est retourné à ce qu'il avait vomi",
+      "La brebis a retrouvé son pâturage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:22 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-068",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:22",
+    "verseText": "Voir 2 Pierre 2:22.",
+    "question": "Quelle seconde image Pierre emploie-t-il dans le même verset ?",
+    "choices": [
+      "La truie lavée s'est vautrée dans le bourbier",
+      "La colombe a trouvé un rameau d’olivier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:22 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-069",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:1",
+    "verseText": "Voir 2 Pierre 3:1.",
+    "question": "Comment Pierre qualifie-t-il l’intelligence qu’il veut réveiller ?",
+    "choices": [
+      "Une saine intelligence",
+      "Une intelligence nouvelle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-070",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:1",
+    "verseText": "Voir 2 Pierre 3:1.",
+    "question": "Par quel moyen Pierre dit-il réveiller cette saine intelligence ?",
+    "choices": [
+      "Par des avertissements",
+      "Par des miracles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-071",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:2",
+    "verseText": "Voir 2 Pierre 3:2.",
+    "question": "Quelles paroles Pierre veut-il que ses lecteurs se rappellent ?",
+    "choices": [
+      "Les paroles dites d'avance par les saints prophètes",
+      "Les paroles des moqueurs dans les derniers jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:2 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-072",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:2",
+    "verseText": "Voir 2 Pierre 3:2.",
+    "question": "Par qui le commandement du Seigneur et Sauveur est-il rappelé dans la formulation de Pierre ?",
+    "choices": [
+      "Par vos apôtres",
+      "Par les anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:2 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-073",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:3",
+    "verseText": "Voir 2 Pierre 3:3.",
+    "question": "Qui viendra « dans les derniers jours » selon l’avertissement ?",
+    "choices": [
+      "Des moqueurs",
+      "Des juges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-074",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:3",
+    "verseText": "Voir 2 Pierre 3:3.",
+    "question": "Selon quoi marchent ces moqueurs, d’après le texte ?",
+    "choices": [
+      "Leurs propres convoitises",
+      "La vertu et la science"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-075",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:4",
+    "verseText": "Voir 2 Pierre 3:4.",
+    "question": "Quelle formule interrogative les moqueurs emploient-ils au sujet de l’avènement ?",
+    "choices": [
+      "Où est la promesse de son avènement ?",
+      "Où est l’entrée dans le royaume éternel ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:4 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-076",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:4",
+    "verseText": "Voir 2 Pierre 3:4.",
+    "question": "Sur quoi les moqueurs fondent-ils leur constat de stabilité, selon l’expression exacte ?",
+    "choices": [
+      "Toutes choses demeurent comme dès le commencement de la création",
+      "Toutes choses se renouvellent comme au jour du déluge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:4 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-077",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:5",
+    "verseText": "Voir 2 Pierre 3:5.",
+    "question": "Par quoi Pierre dit-il que les moqueurs veulent ignorer un fait ?",
+    "choices": [
+      "Ils veulent ignorer, car ils le veulent bien",
+      "Ils veulent ignorer, car ils n’ont pas de loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:5 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-078",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:7",
+    "verseText": "Voir 2 Pierre 3:7.",
+    "question": "Comment Pierre décrit-il l’état des cieux et de la terre « d’à présent » par rapport au jugement ?",
+    "choices": [
+      "Réservés et gardés par la même parole",
+      "Dissous déjà par l'ardeur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:7 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-079",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:7",
+    "verseText": "Voir 2 Pierre 3:7.",
+    "question": "Pour quel jour ces cieux et cette terre sont-ils gardés, selon la formule complète ?",
+    "choices": [
+      "Pour le jour du jugement et de la ruine des hommes impies",
+      "Pour le jour de la délivrance des hommes pieux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:7 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-080",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:8",
+    "verseText": "Voir 2 Pierre 3:8.",
+    "question": "Quelle comparaison Pierre donne-t-il pour mesurer le temps devant le Seigneur ?",
+    "choices": [
+      "Un jour est comme mille ans, et mille ans sont comme un jour",
+      "Un jour est comme une année, et une année comme un jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:8 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-081",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:9",
+    "verseText": "Voir 2 Pierre 3:9.",
+    "question": "Que dit Pierre de l’apparente lenteur du Seigneur à l’égard de la promesse ?",
+    "choices": [
+      "Le Seigneur ne tarde pas, comme quelques-uns le croient",
+      "Le Seigneur tarde, comme tous le reconnaissent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:9 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-082",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:9",
+    "verseText": "Voir 2 Pierre 3:9.",
+    "question": "Quel but Pierre associe-t-il à la patience du Seigneur envers vous ?",
+    "choices": [
+      "Que tous arrivent à la repentance",
+      "Que tous obtiennent la richesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:9 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-083",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:10",
+    "verseText": "Voir 2 Pierre 3:10.",
+    "question": "Que se passera-t-il « avec fracas » au jour du Seigneur, selon Pierre ?",
+    "choices": [
+      "Les cieux passeront",
+      "La mer se retirera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:10 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-084",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:10",
+    "verseText": "Voir 2 Pierre 3:10.",
+    "question": "Selon Pierre, quel sort est réservé à la terre et aux oeuvres qu’elle renferme ?",
+    "choices": [
+      "Elles seront consumées",
+      "Elles seront affermies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:10 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-D-085",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:11",
+    "verseText": "Voir 2 Pierre 3:11.",
+    "question": "Quelle exigence Pierre tire-t-il du fait que toutes ces choses doivent se dissoudre ?",
+    "choices": [
+      "Mener une sainte conduite et une vie pieuse",
+      "Introduire des sectes pernicieuses et parler injurieusement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:11 (LSG 1910)."
+  }
+]

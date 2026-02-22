@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "1CH-D-001",
+    "book": "1 Chroniques",
+    "chapter": 10,
+    "verseRef": "1 Chroniques 10:13",
+    "verseText": "Voir 1 Chroniques 10:13.",
+    "question": "Selon 1 Chroniques, de quel péché Saül se rendit-il coupable en plus de son infidélité ?",
+    "choices": [
+      "Il consulta ceux qui évoquent les morts",
+      "Il offrit l’encens au lieu des sacrificateurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 10:13 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-002",
+    "book": "1 Chroniques",
+    "chapter": 10,
+    "verseRef": "1 Chroniques 10:14",
+    "verseText": "Voir 1 Chroniques 10:14.",
+    "question": "Quelle précision 1 Chroniques ajoute-t-il sur la cause finale de la mort de Saül ?",
+    "choices": [
+      "L’Éternel le fit mourir et transféra la royauté à David, fils d’Isaï",
+      "Les Philistins le jugèrent et le relâchèrent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 10:14 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-003",
+    "book": "1 Chroniques",
+    "chapter": 21,
+    "verseRef": "1 Chroniques 21:1",
+    "verseText": "Voir 1 Chroniques 21:1.",
+    "question": "Dans l’épisode du dénombrement, qui est explicitement mentionné comme “se levant” contre Israël ?",
+    "choices": [
+      "Satan",
+      "Joab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 21:1 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-004",
+    "book": "1 Chroniques",
+    "chapter": 21,
+    "verseRef": "1 Chroniques 21:3",
+    "verseText": "Voir 1 Chroniques 21:3.",
+    "question": "Quel argument Joab donne-t-il à David pour s’opposer au dénombrement ?",
+    "choices": [
+      "Que l’Éternel rende le peuple cent fois plus nombreux, et que tous soient serviteurs du roi",
+      "Que le peuple est trop faible pour être compté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 21:3 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-005",
+    "book": "1 Chroniques",
+    "chapter": 21,
+    "verseRef": "1 Chroniques 21:18",
+    "verseText": "Voir 1 Chroniques 21:18.",
+    "question": "Après la peste, à quel endroit précis David devait-il dresser un autel ?",
+    "choices": [
+      "Sur l’aire d’Ornan le Jébusien",
+      "Sur l’autel d’airain à Gabaon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 21:18 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-006",
+    "book": "1 Chroniques",
+    "chapter": 21,
+    "verseRef": "1 Chroniques 21:20",
+    "verseText": "Voir 1 Chroniques 21:20.",
+    "question": "Que faisait Ornan quand David vint vers lui, selon le texte ?",
+    "choices": [
+      "Il battait du blé",
+      "Il taillait des pierres de taille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 21:20 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-007",
+    "book": "1 Chroniques",
+    "chapter": 21,
+    "verseRef": "1 Chroniques 21:23",
+    "verseText": "Voir 1 Chroniques 21:23.",
+    "question": "Quelle offre complète Ornan fait-il à David (éléments donnés) ?",
+    "choices": [
+      "Les boeufs, les chars pour le bois, et le froment pour l’offrande",
+      "L’or du temple, l’encens, et les pains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 21:23 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-008",
+    "book": "1 Chroniques",
+    "chapter": 21,
+    "verseRef": "1 Chroniques 21:24",
+    "verseText": "Voir 1 Chroniques 21:24.",
+    "question": "Quelle formulation David emploie-t-il pour refuser d’offrir un holocauste sans coût ?",
+    "choices": [
+      "Je n’offrirai point un holocauste qui ne me coûte rien",
+      "Je n’offrirai point un holocauste sans musique"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 21:24 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-009",
+    "book": "1 Chroniques",
+    "chapter": 21,
+    "verseRef": "1 Chroniques 21:25",
+    "verseText": "Voir 1 Chroniques 21:25.",
+    "question": "Quelle somme David donna-t-il à Ornan “pour l’emplacement” ?",
+    "choices": [
+      "Six cents sicles d’or",
+      "Cinquante sicles d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 21:25 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-010",
+    "book": "1 Chroniques",
+    "chapter": 21,
+    "verseRef": "1 Chroniques 21:26",
+    "verseText": "Voir 1 Chroniques 21:26.",
+    "question": "Quel double type de sacrifices David offrit-il sur l’autel ?",
+    "choices": [
+      "Des holocaustes et des sacrifices d’actions de grâces",
+      "Des sacrifices pour le péché et des offrandes de vin seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 21:26 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-011",
+    "book": "1 Chroniques",
+    "chapter": 21,
+    "verseRef": "1 Chroniques 21:26",
+    "verseText": "Voir 1 Chroniques 21:26.",
+    "question": "Quel signe céleste confirma l’acceptation de l’autel ?",
+    "choices": [
+      "Le feu descendit du ciel sur l’autel des holocaustes",
+      "La nuée remplit la ville pendant sept jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 21:26 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-012",
+    "book": "1 Chroniques",
+    "chapter": 21,
+    "verseRef": "1 Chroniques 21:30",
+    "verseText": "Voir 1 Chroniques 21:30.",
+    "question": "Pourquoi David ne cherchait-il plus l’Éternel à Gabaon à ce moment-là ?",
+    "choices": [
+      "Il avait peur de l’épée de l’ange de l’Éternel",
+      "Le tabernacle avait été détruit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 21:30 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-013",
+    "book": "1 Chroniques",
+    "chapter": 22,
+    "verseRef": "1 Chroniques 22:5",
+    "verseText": "Voir 1 Chroniques 22:5.",
+    "question": "Quelle motivation David donne-t-il pour préparer “beaucoup” avant la construction du temple ?",
+    "choices": [
+      "La maison à bâtir doit être grande et célèbre, d’une gloire et d’une magnificence qui se répandent chez tous les peuples",
+      "La maison à bâtir doit être cachée et petite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 22:5 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-014",
+    "book": "1 Chroniques",
+    "chapter": 22,
+    "verseRef": "1 Chroniques 22:8",
+    "verseText": "Voir 1 Chroniques 22:8.",
+    "question": "Quelle raison David donne-t-il expliquant pourquoi lui-même ne bâtira pas la maison ?",
+    "choices": [
+      "Il a répandu beaucoup de sang et fait de grandes guerres",
+      "Il a été trop pauvre pour bâtir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 22:8 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-015",
+    "book": "1 Chroniques",
+    "chapter": 22,
+    "verseRef": "1 Chroniques 22:9",
+    "verseText": "Voir 1 Chroniques 22:9.",
+    "question": "Quel nom Dieu donne-t-il au fils qui bâtira la maison, et que signifie ce nom dans le contexte ?",
+    "choices": [
+      "Salomon, et Dieu lui donnera paix et tranquillité",
+      "Absalom, et Dieu lui donnera victoire sur les Philistins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 22:9 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-016",
+    "book": "1 Chroniques",
+    "chapter": 23,
+    "verseRef": "1 Chroniques 23:3",
+    "verseText": "Voir 1 Chroniques 23:3.",
+    "question": "Quel est le nombre total des Lévites comptés “depuis l’âge de trente ans et au-dessus” ?",
+    "choices": [
+      "Trente-huit mille",
+      "Quarante-deux mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 23:3 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-017",
+    "book": "1 Chroniques",
+    "chapter": 23,
+    "verseRef": "1 Chroniques 23:4",
+    "verseText": "Voir 1 Chroniques 23:4.",
+    "question": "Parmi les fonctions des 38 000 Lévites, combien furent établis pour “surveiller l’œuvre” de la maison de l’Éternel ?",
+    "choices": [
+      "Vingt-quatre mille",
+      "Douze mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 23:4 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-018",
+    "book": "1 Chroniques",
+    "chapter": 23,
+    "verseRef": "1 Chroniques 23:4",
+    "verseText": "Voir 1 Chroniques 23:4.",
+    "question": "Combien furent établis “magistrats et juges” ?",
+    "choices": [
+      "Six mille",
+      "Deux mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 23:4 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-019",
+    "book": "1 Chroniques",
+    "chapter": 23,
+    "verseRef": "1 Chroniques 23:5",
+    "verseText": "Voir 1 Chroniques 23:5.",
+    "question": "Combien furent établis portiers et combien pour louer l’Éternel avec les instruments faits par David ?",
+    "choices": [
+      "Quatre mille portiers, et quatre mille pour louer l’Éternel",
+      "Mille portiers, et mille pour louer l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 23:5 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-020",
+    "book": "1 Chroniques",
+    "chapter": 23,
+    "verseRef": "1 Chroniques 23:27",
+    "verseText": "Voir 1 Chroniques 23:27.",
+    "question": "Quel changement d’âge David fixe-t-il “dans les dernières paroles de David” concernant les Lévites ?",
+    "choices": [
+      "Le service commence dès vingt ans et au-dessus",
+      "Le service commence dès cinquante ans et au-dessus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 23:27 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-021",
+    "book": "1 Chroniques",
+    "chapter": 15,
+    "verseRef": "1 Chroniques 15:22",
+    "verseText": "Voir 1 Chroniques 15:22.",
+    "question": "Quel détail 1 Chroniques donne-t-il sur le rôle de Kenaïa, chef des Lévites, au sujet du chant ?",
+    "choices": [
+      "Il dirigeait le chant, car il était habile",
+      "Il interdisait le chant, car il était sévère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 15:22 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-022",
+    "book": "1 Chroniques",
+    "chapter": 15,
+    "verseRef": "1 Chroniques 15:27",
+    "verseText": "Voir 1 Chroniques 15:27.",
+    "question": "Quelle tenue particulière David portait-il lors de la montée de l’arche, selon le texte ?",
+    "choices": [
+      "Un éphod de lin",
+      "Une robe de pourpre de Tyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 15:27 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-023",
+    "book": "1 Chroniques",
+    "chapter": 15,
+    "verseRef": "1 Chroniques 15:29",
+    "verseText": "Voir 1 Chroniques 15:29.",
+    "question": "Quelle réaction précise de Mical est mentionnée quand elle vit David ?",
+    "choices": [
+      "Elle le méprisa dans son cœur",
+      "Elle se réjouit et dansa avec lui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 15:29 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-024",
+    "book": "1 Chroniques",
+    "chapter": 16,
+    "verseRef": "1 Chroniques 16:34",
+    "verseText": "Voir 1 Chroniques 16:34.",
+    "question": "Quelle formule liturgique est donnée dans l’action de grâces : “Louez l’Éternel…” ?",
+    "choices": [
+      "Car sa miséricorde dure à toujours",
+      "Car sa colère dure à toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 16:34 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-025",
+    "book": "1 Chroniques",
+    "chapter": 16,
+    "verseRef": "1 Chroniques 16:35",
+    "verseText": "Voir 1 Chroniques 16:35.",
+    "question": "Dans la même section, quel cri le peuple doit-il dire : “Sauve-nous…” ?",
+    "choices": [
+      "Dieu de notre salut, rassemble-nous, et retire-nous du milieu des nations",
+      "Dieu de nos pères, donne-nous des chars et des chevaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 16:35 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-026",
+    "book": "1 Chroniques",
+    "chapter": 16,
+    "verseRef": "1 Chroniques 16:36",
+    "verseText": "Voir 1 Chroniques 16:36.",
+    "question": "Quelle doxologie conclut cette proclamation, avec la réponse du peuple ?",
+    "choices": [
+      "Béni soit l’Éternel, le Dieu d’Israël, d’éternité en éternité… Amen",
+      "Béni soit le roi, d’âge en âge… Silence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 16:36 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-027",
+    "book": "1 Chroniques",
+    "chapter": 17,
+    "verseRef": "1 Chroniques 17:14",
+    "verseText": "Voir 1 Chroniques 17:14.",
+    "question": "Dans la promesse à David, que dit l’Éternel au sujet de son trône ?",
+    "choices": [
+      "Je l’affermirai pour toujours dans mon royaume",
+      "Je le renverserai au bout de trois ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 17:14 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-028",
+    "book": "1 Chroniques",
+    "chapter": 14,
+    "verseRef": "1 Chroniques 14:11",
+    "verseText": "Voir 1 Chroniques 14:11.",
+    "question": "Quel nom est donné à la bataille où l’Éternel “fit une brèche” parmi les Philistins ?",
+    "choices": [
+      "Baal-Peratsim",
+      "Guilgal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 14:11 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-029",
+    "book": "1 Chroniques",
+    "chapter": 14,
+    "verseRef": "1 Chroniques 14:10",
+    "verseText": "Voir 1 Chroniques 14:10.",
+    "question": "Quel geste David fait-il avant la bataille, montrant sa dépendance à Dieu ?",
+    "choices": [
+      "Il consulta Dieu en disant : Monterai-je contre les Philistins ?",
+      "Il consulta les idoles des Philistins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 14:10 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-030",
+    "book": "1 Chroniques",
+    "chapter": 14,
+    "verseRef": "1 Chroniques 14:12",
+    "verseText": "Voir 1 Chroniques 14:12.",
+    "question": "Que firent les Philistins de leurs dieux après la défaite, selon 1 Chroniques ?",
+    "choices": [
+      "Ils les abandonnèrent, et David ordonna qu’on les brûlât au feu",
+      "Ils les consacrèrent à l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 14:12 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-031",
+    "book": "1 Chroniques",
+    "chapter": 14,
+    "verseRef": "1 Chroniques 14:1",
+    "verseText": "Voir 1 Chroniques 14:1.",
+    "question": "Quel roi fournit du bois de cèdre, des maçons et des charpentiers à David ?",
+    "choices": [
+      "Hiram, roi de Tyr",
+      "Hadadézer, roi de Tsoba"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 14:1 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-032",
+    "book": "1 Chroniques",
+    "chapter": 14,
+    "verseRef": "1 Chroniques 14:2",
+    "verseText": "Voir 1 Chroniques 14:2.",
+    "question": "Quel constat David fait-il sur l’élévation de son règne ?",
+    "choices": [
+      "Sa royauté fut élevée à cause de son peuple Israël",
+      "Sa royauté fut diminuée à cause des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 14:2 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-033",
+    "book": "1 Chroniques",
+    "chapter": 11,
+    "verseRef": "1 Chroniques 11:5-7",
+    "verseText": "Voir 1 Chroniques 11:5-7.",
+    "question": "Quel est le nom de la forteresse que David prit, et qui est associée à “la cité de David” ?",
+    "choices": [
+      "Sion",
+      "Sichem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 11:5-7 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-034",
+    "book": "1 Chroniques",
+    "chapter": 11,
+    "verseRef": "1 Chroniques 11:11",
+    "verseText": "Voir 1 Chroniques 11:11.",
+    "question": "Quel nom 1 Chroniques donne-t-il au chef des trois qui leva sa lance sur trois cents ?",
+    "choices": [
+      "Joscheb-Basschébeth",
+      "Joab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 11:11 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-035",
+    "book": "1 Chroniques",
+    "chapter": 11,
+    "verseRef": "1 Chroniques 11:13-14",
+    "verseText": "Voir 1 Chroniques 11:13-14.",
+    "question": "Quel détail remarquable est donné sur la main d’Éléazar pendant le combat ?",
+    "choices": [
+      "Sa main resta attachée à l’épée",
+      "Sa main devint comme de l’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 11:13-14 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-036",
+    "book": "1 Chroniques",
+    "chapter": 12,
+    "verseRef": "1 Chroniques 12:32",
+    "verseText": "Voir 1 Chroniques 12:32.",
+    "question": "Parmi les hommes d’Issacar, quel trait est spécifiquement souligné ?",
+    "choices": [
+      "Ils avaient l’intelligence des temps pour savoir ce que devait faire Israël",
+      "Ils ne savaient ni lire ni écrire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 12:32 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-037",
+    "book": "1 Chroniques",
+    "chapter": 12,
+    "verseRef": "1 Chroniques 12:33",
+    "verseText": "Voir 1 Chroniques 12:33.",
+    "question": "Quel groupe est décrit comme “des hommes vaillants, propres à la guerre” et “habiles à porter le bouclier et l’épée” ?",
+    "choices": [
+      "Zabulon",
+      "Lévi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 12:33 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-038",
+    "book": "1 Chroniques",
+    "chapter": 25,
+    "verseRef": "1 Chroniques 25:1",
+    "verseText": "Voir 1 Chroniques 25:1.",
+    "question": "Dans l’organisation des chantres, quels trois responsables sont associés à la prophétie avec les instruments ?",
+    "choices": [
+      "Asaph, Hémam et Jeduthun",
+      "Tsadok, Abiathar et Schavsha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 25:1 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-039",
+    "book": "1 Chroniques",
+    "chapter": 25,
+    "verseRef": "1 Chroniques 25:5",
+    "verseText": "Voir 1 Chroniques 25:5.",
+    "question": "Combien de fils Hémam sont nommés dans la déclaration liée à la bénédiction de Dieu ?",
+    "choices": [
+      "Quatorze fils",
+      "Sept fils"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 25:5 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-040",
+    "book": "1 Chroniques",
+    "chapter": 25,
+    "verseRef": "1 Chroniques 25:1",
+    "verseText": "Voir 1 Chroniques 25:1.",
+    "question": "Quel est le but indiqué pour la musique organisée par David (selon la formulation) ?",
+    "choices": [
+      "Prophétiser avec des harpes, des luths et des cymbales",
+      "Enseigner la guerre aux enfants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 25:1 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-041",
+    "book": "1 Chroniques",
+    "chapter": 28,
+    "verseRef": "1 Chroniques 28:9",
+    "verseText": "Voir 1 Chroniques 28:9.",
+    "question": "Quelle phrase David dit-il à Salomon concernant la connaissance de Dieu ?",
+    "choices": [
+      "Reconnais le Dieu de ton père, et sers-le d’un cœur parfait et d’une âme bien disposée",
+      "Ignore la loi, et sers selon ton propre cœur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 28:9 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-042",
+    "book": "1 Chroniques",
+    "chapter": 28,
+    "verseRef": "1 Chroniques 28:9",
+    "verseText": "Voir 1 Chroniques 28:9.",
+    "question": "Quel avertissement David ajoute-t-il à Salomon sur l’abandon de l’Éternel ?",
+    "choices": [
+      "Si tu l’abandonnes, il te rejettera pour toujours",
+      "Si tu l’abandonnes, il t’enverra en Égypte trois jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 28:9 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-043",
+    "book": "1 Chroniques",
+    "chapter": 28,
+    "verseRef": "1 Chroniques 28:11",
+    "verseText": "Voir 1 Chroniques 28:11.",
+    "question": "Que David remet-il à Salomon concernant les différentes parties du temple (selon l’expression du texte) ?",
+    "choices": [
+      "Le plan du portique, des bâtiments, des trésors, des chambres hautes, des chambres intérieures, et de la maison du propitiatoire",
+      "Un simple croquis non écrit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 28:11 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-044",
+    "book": "1 Chroniques",
+    "chapter": 28,
+    "verseRef": "1 Chroniques 28:19",
+    "verseText": "Voir 1 Chroniques 28:19.",
+    "question": "Quelle origine David donne-t-il aux instructions qu’il transmet sur le plan du temple ?",
+    "choices": [
+      "Tout cela, dit David, m’a été donné par écrit de la main de l’Éternel",
+      "Tout cela vient des nations voisines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 28:19 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-045",
+    "book": "1 Chroniques",
+    "chapter": 28,
+    "verseRef": "1 Chroniques 28:20",
+    "verseText": "Voir 1 Chroniques 28:20.",
+    "question": "Quelle triple exhortation David adresse-t-il à Salomon avant l’œuvre ?",
+    "choices": [
+      "Fortifie-toi, prends courage, et agis",
+      "Doute, recule, et attends"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 28:20 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-046",
+    "book": "1 Chroniques",
+    "chapter": 28,
+    "verseRef": "1 Chroniques 28:20",
+    "verseText": "Voir 1 Chroniques 28:20.",
+    "question": "Quel encouragement David ajoute-t-il : “Ne crains point…” ?",
+    "choices": [
+      "Ne crains point, et ne t’effraie point, car l’Éternel Dieu, mon Dieu, sera avec toi",
+      "Ne crains point, car Joab sera avec toi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 28:20 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-047",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:11",
+    "verseText": "Voir 1 Chroniques 29:11.",
+    "question": "Dans la prière de bénédiction, quels attributs David attribue-t-il à l’Éternel en ouverture ?",
+    "choices": [
+      "La grandeur, la force et la magnificence, l’éternité et la gloire",
+      "La faiblesse, l’oubli et le silence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:11 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-048",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:12",
+    "verseText": "Voir 1 Chroniques 29:12.",
+    "question": "Selon David, d’où viennent “la richesse et la gloire” ?",
+    "choices": [
+      "C’est de toi que viennent la richesse et la gloire",
+      "Elles viennent des Philistins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:12 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-049",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:14",
+    "verseText": "Voir 1 Chroniques 29:14.",
+    "question": "Quel est l’objet de la confession de dépendance : “Car qui suis-je…” ?",
+    "choices": [
+      "Car tout vient de toi, et nous recevons de ta main ce que nous t’offrons",
+      "Car tout vient des nations, et nous leur rendons ce que nous prenons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:14 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-050",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:15",
+    "verseText": "Voir 1 Chroniques 29:15.",
+    "question": "Quel sentiment David exprime-t-il sur la condition de l’homme devant Dieu ?",
+    "choices": [
+      "Nous sommes des étrangers devant toi, des habitants, comme tous nos pères",
+      "Nous sommes propriétaires éternels de la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:15 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-051",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:18",
+    "verseText": "Voir 1 Chroniques 29:18.",
+    "question": "Que demande David pour le peuple concernant les dispositions du cœur ?",
+    "choices": [
+      "Garde à toujours dans le cœur de ton peuple ces dispositions et ces sentiments",
+      "Retire à jamais au peuple toute disposition"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:18 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-052",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:19",
+    "verseText": "Voir 1 Chroniques 29:19.",
+    "question": "Quelle demande David formule-t-il spécifiquement pour Salomon dans la même prière ?",
+    "choices": [
+      "Donne à Salomon un cœur bien disposé pour garder tes commandements… et bâtir le palais",
+      "Donne à Salomon un cœur pour fuir Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:19 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-053",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:20",
+    "verseText": "Voir 1 Chroniques 29:20.",
+    "question": "Quel événement conclut l’assemblée : que fit “tout le peuple” ?",
+    "choices": [
+      "Ils bénirent l’Éternel, le Dieu de leurs pères, et se prosternèrent",
+      "Ils se dispersèrent sans parole"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:20 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-054",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:22",
+    "verseText": "Voir 1 Chroniques 29:22.",
+    "question": "Quel acte royal est accompli immédiatement après, concernant Salomon ?",
+    "choices": [
+      "Ils firent de Salomon, fils de David, le roi une seconde fois",
+      "Ils exilèrent Salomon à Gath"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:22 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-055",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:22",
+    "verseText": "Voir 1 Chroniques 29:22.",
+    "question": "Quel titre religieux est donné à Tsadok lors de cette installation ?",
+    "choices": [
+      "Ils oignirent Tsadok comme sacrificateur",
+      "Ils oignirent Tsadok comme chef des portiers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:22 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-056",
+    "book": "1 Chroniques",
+    "chapter": 18,
+    "verseRef": "1 Chroniques 18:16",
+    "verseText": "Voir 1 Chroniques 18:16.",
+    "question": "Dans la liste des responsables du royaume, quel rôle est associé à Schavsha ?",
+    "choices": [
+      "Scribe",
+      "Chef des armées syriennes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 18:16 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-057",
+    "book": "1 Chroniques",
+    "chapter": 18,
+    "verseRef": "1 Chroniques 18:16",
+    "verseText": "Voir 1 Chroniques 18:16.",
+    "question": "Quel binôme sacerdotal est nommé ensemble dans l’administration ?",
+    "choices": [
+      "Tsadok et Abiathar",
+      "Hémam et Jeduthun"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 18:16 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-058",
+    "book": "1 Chroniques",
+    "chapter": 13,
+    "verseRef": "1 Chroniques 13:14",
+    "verseText": "Voir 1 Chroniques 13:14.",
+    "question": "Quand l’arche resta chez Obed-Edom, quelle durée précise est donnée ?",
+    "choices": [
+      "Trois mois",
+      "Sept jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 13:14 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-059",
+    "book": "1 Chroniques",
+    "chapter": 13,
+    "verseRef": "1 Chroniques 13:14",
+    "verseText": "Voir 1 Chroniques 13:14.",
+    "question": "Quel résultat est mentionné à propos de cette maison durant ce séjour de l’arche ?",
+    "choices": [
+      "L’Éternel bénit la maison d’Obed-Edom et tout ce qui lui appartenait",
+      "L’Éternel frappa la maison d’Obed-Edom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 13:14 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-060",
+    "book": "1 Chroniques",
+    "chapter": 21,
+    "verseRef": "1 Chroniques 21:18",
+    "verseText": "Voir 1 Chroniques 21:18.",
+    "question": "Quelle désignation exacte est donnée à Ornan dans le passage de l’autel ?",
+    "choices": [
+      "Ornan le Jébusien",
+      "Ornan le Lévite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 21:18 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-061",
+    "book": "1 Chroniques",
+    "chapter": 1,
+    "verseRef": "1 Chroniques 1:1",
+    "verseText": "Voir 1 Chroniques 1:1.",
+    "question": "Dans la liste initiale, quelle suite exacte ouvre le livre (ordre des noms) ?",
+    "choices": [
+      "Adam, Seth, Énosch",
+      "Adam, Noé, Sem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 1:1 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-062",
+    "book": "1 Chroniques",
+    "chapter": 1,
+    "verseRef": "1 Chroniques 1:5",
+    "verseText": "Voir 1 Chroniques 1:5.",
+    "question": "Quels noms sont donnés comme fils de Japhet ?",
+    "choices": [
+      "Gomer, Magog, Madaï, Javan, Tubal, Méschec, Tiras",
+      "Élam, Assur, Arpacschad, Lud, Aram"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 1:5 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-063",
+    "book": "1 Chroniques",
+    "chapter": 1,
+    "verseRef": "1 Chroniques 1:28",
+    "verseText": "Voir 1 Chroniques 1:28.",
+    "question": "Quel est l’énoncé exact concernant Abraham dans la liste : “Les fils d’Abraham…” ?",
+    "choices": [
+      "Isaac et Ismaël",
+      "Isaac, Ismaël et Lot"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 1:28 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-064",
+    "book": "1 Chroniques",
+    "chapter": 5,
+    "verseRef": "1 Chroniques 5:1",
+    "verseText": "Voir 1 Chroniques 5:1.",
+    "question": "Quelle phrase explique le transfert du droit d’aînesse de Ruben ?",
+    "choices": [
+      "“Car il souilla la couche de son père; son droit d’aînesse fut donné aux fils de Joseph…”",
+      "“Car il bâtit un autel; son droit d’aînesse fut donné à Juda…”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 5:1 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-065",
+    "book": "1 Chroniques",
+    "chapter": 5,
+    "verseRef": "1 Chroniques 5:2",
+    "verseText": "Voir 1 Chroniques 5:2.",
+    "question": "Quel détail est ajouté immédiatement : “Cependant Juda…” ?",
+    "choices": [
+      "“Juda fut puissant parmi ses frères, et de lui est venu le prince”",
+      "“Juda fut rejeté parmi ses frères, et de lui est venu le serviteur”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 5:2 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-066",
+    "book": "1 Chroniques",
+    "chapter": 5,
+    "verseRef": "1 Chroniques 5:26",
+    "verseText": "Voir 1 Chroniques 5:26.",
+    "question": "Quel roi d’Assyrie est nommé, et quel acte est-il dit qu’il accomplit ?",
+    "choices": [
+      "Tiglath-Pilnéser, roi d’Assyrie, emmena les Rubénites, les Gadiens et la demi-tribu de Manassé",
+      "Sanchérib, roi d’Assyrie, bâtit Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 5:26 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-067",
+    "book": "1 Chroniques",
+    "chapter": 6,
+    "verseRef": "1 Chroniques 6:1",
+    "verseText": "Voir 1 Chroniques 6:1.",
+    "question": "Dans la lignée de Lévi, quels trois fils sont listés en premier, dans l’ordre ?",
+    "choices": [
+      "Guerschon, Kehath, Merari",
+      "Merari, Guerschon, Kehath"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 6:1 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-068",
+    "book": "1 Chroniques",
+    "chapter": 6,
+    "verseRef": "1 Chroniques 6:33",
+    "verseText": "Voir 1 Chroniques 6:33.",
+    "question": "Dans la section des chantres, quel est l’enchaînement exact : “Hémam… fils de…” (début de la lignée) ?",
+    "choices": [
+      "Hémam, fils de Joël, fils de Samuel",
+      "Hémam, fils de Nathan, fils de David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 6:33 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-069",
+    "book": "1 Chroniques",
+    "chapter": 6,
+    "verseRef": "1 Chroniques 6:39",
+    "verseText": "Voir 1 Chroniques 6:39.",
+    "question": "Quel est le nom du chantre présenté comme descendant de Guerschon, placé “à sa droite” dans la mention des chantres ?",
+    "choices": [
+      "Asaph",
+      "Jeduthun"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 6:39 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-070",
+    "book": "1 Chroniques",
+    "chapter": 6,
+    "verseRef": "1 Chroniques 6:44",
+    "verseText": "Voir 1 Chroniques 6:44.",
+    "question": "Quel est le nom du chantre présenté comme descendant de Merari, placé “à sa gauche” ?",
+    "choices": [
+      "Ethan",
+      "Hémam"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 6:44 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-071",
+    "book": "1 Chroniques",
+    "chapter": 9,
+    "verseRef": "1 Chroniques 9:32",
+    "verseText": "Voir 1 Chroniques 9:32.",
+    "question": "Dans 1 Chroniques 9, quel service des Lévites est décrit au sujet des pains ?",
+    "choices": [
+      "Ils étaient chargés de préparer les pains pour chaque sabbat",
+      "Ils étaient chargés de vendre les pains aux nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 9:32 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-072",
+    "book": "1 Chroniques",
+    "chapter": 9,
+    "verseRef": "1 Chroniques 9:24",
+    "verseText": "Voir 1 Chroniques 9:24.",
+    "question": "Quel détail est donné sur les portiers au sujet de leur position dans le service ?",
+    "choices": [
+      "Ils étaient aux quatre vents, à l’orient, à l’occident, au septentrion, au midi",
+      "Ils étaient uniquement à l’occident"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 9:24 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-073",
+    "book": "1 Chroniques",
+    "chapter": 10,
+    "verseRef": "1 Chroniques 10:12",
+    "verseText": "Voir 1 Chroniques 10:12.",
+    "question": "Quelle action les habitants de Jabès accomplirent-ils pour Saül et ses fils ?",
+    "choices": [
+      "Ils prirent leurs corps, et les enterrèrent sous un térébinthe, à Jabès",
+      "Ils les livrèrent aux Philistins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 10:12 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-074",
+    "book": "1 Chroniques",
+    "chapter": 10,
+    "verseRef": "1 Chroniques 10:10",
+    "verseText": "Voir 1 Chroniques 10:10.",
+    "question": "Quelle mention explicite est faite au sujet des armes de Saül par les Philistins ?",
+    "choices": [
+      "Ils mirent ses armes dans la maison de leurs dieux",
+      "Ils mirent ses armes dans la maison de l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 10:10 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-075",
+    "book": "1 Chroniques",
+    "chapter": 11,
+    "verseRef": "1 Chroniques 11:3",
+    "verseText": "Voir 1 Chroniques 11:3.",
+    "question": "Dans l’onction de David à Hébron, quelle formule résume l’alliance ?",
+    "choices": [
+      "David traita alliance avec eux à Hébron devant l’Éternel",
+      "David traita alliance avec eux à Gabaon devant les idoles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 11:3 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-076",
+    "book": "1 Chroniques",
+    "chapter": 11,
+    "verseRef": "1 Chroniques 11:8",
+    "verseText": "Voir 1 Chroniques 11:8.",
+    "question": "Quelle phrase décrit la reconstruction de la ville après la prise de la forteresse ?",
+    "choices": [
+      "Joab répara le reste de la ville",
+      "Tsadok répara le reste de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 11:8 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-077",
+    "book": "1 Chroniques",
+    "chapter": 11,
+    "verseRef": "1 Chroniques 11:9",
+    "verseText": "Voir 1 Chroniques 11:9.",
+    "question": "Quel énoncé décrit l’extension du règne de David ?",
+    "choices": [
+      "David devenait de plus en plus grand, et l’Éternel des armées était avec lui",
+      "David devenait de plus en plus faible, et l’Éternel le quittait"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 11:9 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-078",
+    "book": "1 Chroniques",
+    "chapter": 11,
+    "verseRef": "1 Chroniques 11:22",
+    "verseText": "Voir 1 Chroniques 11:22.",
+    "question": "Dans la liste des vaillants hommes, quel exploit est attribué à Benaïa, fils de Jehojada ?",
+    "choices": [
+      "Il frappa deux lions de Moab, et il descendit au milieu d’une fosse pour frapper un lion un jour de neige",
+      "Il tua mille Philistins avec une mâchoire d’âne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 11:22 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-079",
+    "book": "1 Chroniques",
+    "chapter": 11,
+    "verseRef": "1 Chroniques 11:23",
+    "verseText": "Voir 1 Chroniques 11:23.",
+    "question": "Quel détail est donné sur l’Égyptien que Benaïa frappa ?",
+    "choices": [
+      "C’était un homme de haute taille, ayant une lance comme l’ensouple des tisserands",
+      "C’était un homme aveugle, portant une épée d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 11:23 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-080",
+    "book": "1 Chroniques",
+    "chapter": 13,
+    "verseRef": "1 Chroniques 13:7",
+    "verseText": "Voir 1 Chroniques 13:7.",
+    "question": "Lors de la première tentative de transport de l’arche, quel élément de procédure est explicitement en cause ?",
+    "choices": [
+      "Elle fut portée sur un chariot neuf",
+      "Elle fut portée par des sacrificateurs sur leurs épaules"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 13:7 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-081",
+    "book": "1 Chroniques",
+    "chapter": 13,
+    "verseRef": "1 Chroniques 13:11",
+    "verseText": "Voir 1 Chroniques 13:11.",
+    "question": "Quel nom David donna-t-il au lieu où Uzza fut frappé ?",
+    "choices": [
+      "Pérets-Uzza",
+      "Guilgal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 13:11 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-082",
+    "book": "1 Chroniques",
+    "chapter": 13,
+    "verseRef": "1 Chroniques 13:14",
+    "verseText": "Voir 1 Chroniques 13:14.",
+    "question": "Quel résultat est attribué au séjour de l’arche chez Obed-Edom ?",
+    "choices": [
+      "L’Éternel bénit la maison d’Obed-Edom et tout ce qui lui appartenait",
+      "L’Éternel frappa la maison d’Obed-Edom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 13:14 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-083",
+    "book": "1 Chroniques",
+    "chapter": 15,
+    "verseRef": "1 Chroniques 15:13",
+    "verseText": "Voir 1 Chroniques 15:13.",
+    "question": "Dans la seconde organisation, quelle raison David donne-t-il pour expliquer l’accident précédent ?",
+    "choices": [
+      "“Parce que vous n’y étiez pas la première fois, l’Éternel, notre Dieu, nous a frappés”",
+      "“Parce que Hiram ne nous a pas aidés, l’Éternel nous a frappés”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 15:13 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-084",
+    "book": "1 Chroniques",
+    "chapter": 15,
+    "verseRef": "1 Chroniques 15:15",
+    "verseText": "Voir 1 Chroniques 15:15.",
+    "question": "Quel est l’ordre donné concernant la manière de porter l’arche ?",
+    "choices": [
+      "Les Lévites portèrent l’arche de Dieu sur leurs épaules avec des barres",
+      "Les Lévites traînèrent l’arche au sol"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 15:15 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-085",
+    "book": "1 Chroniques",
+    "chapter": 15,
+    "verseRef": "1 Chroniques 15:26",
+    "verseText": "Voir 1 Chroniques 15:26.",
+    "question": "Quel détail est donné au sujet des sacrifices lors du transport de l’arche ?",
+    "choices": [
+      "Dieu secourut les Lévites… et l’on sacrifia sept taureaux et sept béliers",
+      "Dieu secourut les Lévites… et l’on sacrifia un seul agneau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 15:26 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-086",
+    "book": "1 Chroniques",
+    "chapter": 15,
+    "verseRef": "1 Chroniques 15:27",
+    "verseText": "Voir 1 Chroniques 15:27.",
+    "question": "Quel vêtement David portait-il pendant la procession ?",
+    "choices": [
+      "Un manteau de fin lin, et un éphod de lin",
+      "Une cuirasse d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 15:27 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-087",
+    "book": "1 Chroniques",
+    "chapter": 15,
+    "verseRef": "1 Chroniques 15:29",
+    "verseText": "Voir 1 Chroniques 15:29.",
+    "question": "Quelle réaction de Mical est notée précisément quand l’arche arriva ?",
+    "choices": [
+      "Mical, fille de Saül, regardait par la fenêtre; et, voyant le roi David qui sautait et dansait, elle le méprisa dans son cœur",
+      "Mical, fille de Saül, sortit bénir David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 15:29 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-088",
+    "book": "1 Chroniques",
+    "chapter": 16,
+    "verseRef": "1 Chroniques 16:3",
+    "verseText": "Voir 1 Chroniques 16:3.",
+    "question": "Quelle triple distribution David fit-il au peuple après l’installation de l’arche ?",
+    "choices": [
+      "Un pain, une portion de viande, et un gâteau de raisins",
+      "Un pain, un agneau, et une coupe d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 16:3 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-089",
+    "book": "1 Chroniques",
+    "chapter": 16,
+    "verseRef": "1 Chroniques 16:25",
+    "verseText": "Voir 1 Chroniques 16:25.",
+    "question": "Quelle phrase est donnée sur l’Éternel : “Car grand est l’Éternel…” ?",
+    "choices": [
+      "“Car grand est l’Éternel et très digne de louange, et il est redoutable par-dessus tous les dieux”",
+      "“Car grand est l’Éternel et il n’exige aucune louange”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 16:25 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-090",
+    "book": "1 Chroniques",
+    "chapter": 16,
+    "verseRef": "1 Chroniques 16:23",
+    "verseText": "Voir 1 Chroniques 16:23.",
+    "question": "Quel ordre est donné concernant l’annonce parmi les nations ?",
+    "choices": [
+      "“Annoncez de jour en jour son salut”",
+      "“Cachez de jour en jour son salut”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 16:23 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-091",
+    "book": "1 Chroniques",
+    "chapter": 17,
+    "verseRef": "1 Chroniques 17:12",
+    "verseText": "Voir 1 Chroniques 17:12.",
+    "question": "Dans la promesse à David, quelle durée est donnée à la stabilité du trône ?",
+    "choices": [
+      "“J’affermirai son trône pour toujours”",
+      "“J’affermirai son trône pour trois ans”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 17:12 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-092",
+    "book": "1 Chroniques",
+    "chapter": 17,
+    "verseRef": "1 Chroniques 17:20",
+    "verseText": "Voir 1 Chroniques 17:20.",
+    "question": "Quelle déclaration David fait-il sur l’unicité de Dieu ?",
+    "choices": [
+      "“Il n’y a point, comme toi, de Dieu, et il n’y en a point d’autre que toi”",
+      "“Il y a plusieurs dieux égaux”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 17:20 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-093",
+    "book": "1 Chroniques",
+    "chapter": 18,
+    "verseRef": "1 Chroniques 18:7",
+    "verseText": "Voir 1 Chroniques 18:7.",
+    "question": "Dans les guerres, quel objet David prit-il aux serviteurs d’Hadadézer ?",
+    "choices": [
+      "Des boucliers d’or",
+      "Des tables de pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 18:7 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-094",
+    "book": "1 Chroniques",
+    "chapter": 18,
+    "verseRef": "1 Chroniques 18:9-10",
+    "verseText": "Voir 1 Chroniques 18:9-10.",
+    "question": "Quel roi envoya son fils vers David, et dans quel but ?",
+    "choices": [
+      "Thou, roi de Hamath, envoya Joram pour le saluer et le féliciter",
+      "Hiram, roi de Tyr, envoya Salomon pour demander la paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 18:9-10 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-095",
+    "book": "1 Chroniques",
+    "chapter": 19,
+    "verseRef": "1 Chroniques 19:4",
+    "verseText": "Voir 1 Chroniques 19:4.",
+    "question": "Quel acte d’humiliation les fils d’Ammon infligèrent-ils aux serviteurs de David ?",
+    "choices": [
+      "Ils rasèrent la barbe et coupèrent les vêtements par le milieu jusqu’aux hanches",
+      "Ils les couronnèrent et les honorèrent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 19:4 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-096",
+    "book": "1 Chroniques",
+    "chapter": 19,
+    "verseRef": "1 Chroniques 19:5",
+    "verseText": "Voir 1 Chroniques 19:5.",
+    "question": "Quel conseil David donna-t-il, et à quel endroit ?",
+    "choices": [
+      "“Restez à Jéricho jusqu’à ce que votre barbe ait repoussé”",
+      "“Restez à Hébron jusqu’à ce que votre barbe ait repoussé”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 19:5 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-097",
+    "book": "1 Chroniques",
+    "chapter": 19,
+    "verseRef": "1 Chroniques 19:16",
+    "verseText": "Voir 1 Chroniques 19:16.",
+    "question": "Dans la guerre, quel roi syrien est dit s’être mis en marche après avoir rassemblé ses troupes ?",
+    "choices": [
+      "Hadadézer",
+      "Achab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 19:16 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-098",
+    "book": "1 Chroniques",
+    "chapter": 19,
+    "verseRef": "1 Chroniques 19:18",
+    "verseText": "Voir 1 Chroniques 19:18.",
+    "question": "Quelle prise David fit-il sur les Syriens (donnée en nombre) lors de cette bataille ?",
+    "choices": [
+      "Sept mille chars",
+      "Trois cents chars"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 19:18 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-099",
+    "book": "1 Chroniques",
+    "chapter": 20,
+    "verseRef": "1 Chroniques 20:6",
+    "verseText": "Voir 1 Chroniques 20:6.",
+    "question": "Quel homme “né à Rapha” est décrit avec une particularité physique précise ?",
+    "choices": [
+      "Un homme de haute taille ayant six doigts à chaque main et à chaque pied",
+      "Un homme aveugle ayant une épée d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 20:6 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-100",
+    "book": "1 Chroniques",
+    "chapter": 20,
+    "verseRef": "1 Chroniques 20:7",
+    "verseText": "Voir 1 Chroniques 20:7.",
+    "question": "Qui frappa cet homme, selon la mention exacte ?",
+    "choices": [
+      "Jonathan, fils de Schimea, frère de David",
+      "Joab, fils de Tseruja, frère de David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 20:7 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-101",
+    "book": "1 Chroniques",
+    "chapter": 22,
+    "verseRef": "1 Chroniques 22:14",
+    "verseText": "Voir 1 Chroniques 22:14.",
+    "question": "Dans la préparation du temple, quelle quantité d’or et d’argent David dit-il avoir préparée “pour la maison de l’Éternel” ?",
+    "choices": [
+      "Cent mille talents d’or et un million de talents d’argent",
+      "Mille talents d’or et cent talents d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 22:14 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-102",
+    "book": "1 Chroniques",
+    "chapter": 22,
+    "verseRef": "1 Chroniques 22:14-15",
+    "verseText": "Voir 1 Chroniques 22:14-15.",
+    "question": "Quels matériaux David cite-t-il encore, “en quantité”, dans la même phrase ?",
+    "choices": [
+      "De l’airain et du fer, et du bois et des pierres",
+      "Du marbre et de l’ivoire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 22:14-15 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-103",
+    "book": "1 Chroniques",
+    "chapter": 22,
+    "verseRef": "1 Chroniques 22:19",
+    "verseText": "Voir 1 Chroniques 22:19.",
+    "question": "Quel commandement David donne-t-il aux chefs à propos de la recherche de Dieu avant l’œuvre ?",
+    "choices": [
+      "“Appliquez votre cœur et votre âme à chercher l’Éternel, votre Dieu”",
+      "“Appliquez votre cœur et votre âme à chercher l’or”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 22:19 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-104",
+    "book": "1 Chroniques",
+    "chapter": 24,
+    "verseRef": "1 Chroniques 24:1-3",
+    "verseText": "Voir 1 Chroniques 24:1-3.",
+    "question": "Dans l’organisation des classes sacerdotales, de quel fils d’Aaron viennent les deux grandes lignées mentionnées ?",
+    "choices": [
+      "Éléazar et Ithamar",
+      "Nadab et Abihu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 24:1-3 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-105",
+    "book": "1 Chroniques",
+    "chapter": 24,
+    "verseRef": "1 Chroniques 24:5",
+    "verseText": "Voir 1 Chroniques 24:5.",
+    "question": "Quel est le mode de répartition indiqué pour ces classes ?",
+    "choices": [
+      "Ils tirèrent au sort",
+      "Ils choisirent selon l’âge uniquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 24:5 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-106",
+    "book": "1 Chroniques",
+    "chapter": 26,
+    "verseRef": "1 Chroniques 26:26-28",
+    "verseText": "Voir 1 Chroniques 26:26-28.",
+    "question": "Dans la liste des officiers, quel chef est cité comme “sur les trésors de la maison de Dieu” (selon la section des trésors) ?",
+    "choices": [
+      "Schelomith",
+      "Mical"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 26:26-28 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-107",
+    "book": "1 Chroniques",
+    "chapter": 23,
+    "verseRef": "1 Chroniques 23:4",
+    "verseText": "Voir 1 Chroniques 23:4.",
+    "question": "Quel nombre d’hommes est donné pour ceux qui “exécutaient les travaux du service” parmi les Lévites (selon la répartition globale) ?",
+    "choices": [
+      "Vingt-quatre mille",
+      "Deux mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 23:4 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-108",
+    "book": "1 Chroniques",
+    "chapter": 23,
+    "verseRef": "1 Chroniques 23:4",
+    "verseText": "Voir 1 Chroniques 23:4.",
+    "question": "Quel nombre est donné pour “magistrats et juges” dans la même organisation ?",
+    "choices": [
+      "Six mille",
+      "Quatre mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 23:4 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-109",
+    "book": "1 Chroniques",
+    "chapter": 23,
+    "verseRef": "1 Chroniques 23:5",
+    "verseText": "Voir 1 Chroniques 23:5.",
+    "question": "Quel nombre est donné pour les portiers dans cette organisation ?",
+    "choices": [
+      "Quatre mille",
+      "Six mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 23:5 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-110",
+    "book": "1 Chroniques",
+    "chapter": 23,
+    "verseRef": "1 Chroniques 23:5",
+    "verseText": "Voir 1 Chroniques 23:5.",
+    "question": "Quel nombre est donné pour ceux qui louaient l’Éternel avec les instruments que David avait faits ?",
+    "choices": [
+      "Quatre mille",
+      "Vingt-quatre mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 23:5 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-111",
+    "book": "1 Chroniques",
+    "chapter": 27,
+    "verseRef": "1 Chroniques 27:1",
+    "verseText": "Voir 1 Chroniques 27:1.",
+    "question": "Dans l’organisation militaire par mois, quelle taille est donnée pour chaque division servant “mois par mois” ?",
+    "choices": [
+      "Vingt-quatre mille",
+      "Douze mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 27:1 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-112",
+    "book": "1 Chroniques",
+    "chapter": 27,
+    "verseRef": "1 Chroniques 27:2",
+    "verseText": "Voir 1 Chroniques 27:2.",
+    "question": "Selon 1 Chroniques 27, quel homme est nommé pour le premier mois, sur la première division ?",
+    "choices": [
+      "Jaschobeam, fils de Zabdiel",
+      "Joab, fils de Tseruja"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 27:2 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-113",
+    "book": "1 Chroniques",
+    "chapter": 27,
+    "verseRef": "1 Chroniques 27:25",
+    "verseText": "Voir 1 Chroniques 27:25.",
+    "question": "Quel homme est nommé “chef du trésor du roi” dans la liste des intendants ?",
+    "choices": [
+      "Azmaveth, fils d’Adiel",
+      "Schavsha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 27:25 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-114",
+    "book": "1 Chroniques",
+    "chapter": 27,
+    "verseRef": "1 Chroniques 27:32-33",
+    "verseText": "Voir 1 Chroniques 27:32-33.",
+    "question": "Qui est nommé “conseiller du roi” et “homme intelligent” dans la liste des responsables proches ?",
+    "choices": [
+      "Achithophel",
+      "Joram, fils de Thou"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 27:32-33 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-115",
+    "book": "1 Chroniques",
+    "chapter": 27,
+    "verseRef": "1 Chroniques 27:33",
+    "verseText": "Voir 1 Chroniques 27:33.",
+    "question": "Qui est mentionné comme “ami du roi” après Achithophel ?",
+    "choices": [
+      "Huschaï, l’Arkien",
+      "Ornan le Jébusien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 27:33 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-116",
+    "book": "1 Chroniques",
+    "chapter": 28,
+    "verseRef": "1 Chroniques 28:9",
+    "verseText": "Voir 1 Chroniques 28:9.",
+    "question": "Dans l’exhortation à Salomon, quelle motivation est donnée sur la connaissance de Dieu ?",
+    "choices": [
+      "“Car l’Éternel sonde tous les cœurs, et pénètre tous les desseins et toutes les pensées”",
+      "“Car l’Éternel ignore les pensées”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 28:9 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-117",
+    "book": "1 Chroniques",
+    "chapter": 28,
+    "verseRef": "1 Chroniques 28:19",
+    "verseText": "Voir 1 Chroniques 28:19.",
+    "question": "Dans la transmission des plans, quelle déclaration David fait-il sur l’origine du modèle ?",
+    "choices": [
+      "“C’est par un écrit de sa main que l’Éternel m’a fait comprendre toutes les dispositions de ce modèle”",
+      "“C’est par les nations que j’ai appris le modèle”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 28:19 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-118",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:14",
+    "verseText": "Voir 1 Chroniques 29:14.",
+    "question": "Dans la prière de David, quel constat est fait sur la source des offrandes ?",
+    "choices": [
+      "“Car tout vient de toi, et nous recevons de ta main ce que nous t’offrons”",
+      "“Car tout vient des peuples, et nous leur rendons ce que nous prenons”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:14 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-119",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:15",
+    "verseText": "Voir 1 Chroniques 29:15.",
+    "question": "Selon David, comment sont décrits les hommes devant Dieu quant à leur séjour sur la terre ?",
+    "choices": [
+      "“Nous sommes des étrangers devant toi, des habitants, comme tous nos pères; nos jours sur la terre sont comme l’ombre”",
+      "“Nous sommes des rois éternels sur la terre”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:15 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-120",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:22",
+    "verseText": "Voir 1 Chroniques 29:22.",
+    "question": "Après l’adoration de l’assemblée, quel acte solennel fut accompli à l’égard de Salomon ?",
+    "choices": [
+      "Ils firent de Salomon, fils de David, le roi une seconde fois, et ils l’oignirent pour chef à l’Éternel",
+      "Ils firent de Joab le roi une seconde fois, et ils l’oignirent pour chef à l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:22 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-121",
+    "book": "1 Chroniques",
+    "chapter": 1,
+    "verseRef": "1 Chroniques 1:5",
+    "verseText": "Voir 1 Chroniques 1:5.",
+    "question": "Dans la liste des “fils de Japhet”, quel enchaînement complet est donné (ordre exact) ?",
+    "choices": [
+      "Magog, Gomer, Javan, Madaï, Tubal, Tiras, Méschec",
+      "Gomer, Magog, Madaï, Javan, Tubal, Méschec, Tiras"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 1:5 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-122",
+    "book": "1 Chroniques",
+    "chapter": 8,
+    "verseRef": "1 Chroniques 8:29",
+    "verseText": "Voir 1 Chroniques 8:29.",
+    "question": "Dans 1 Chroniques 8, quel couple est donné comme parents de Gabaon (formulation du texte) ?",
+    "choices": [
+      "Kis, père de Saül, et sa femme Maaca",
+      "Jeïel, père de Gabaon, et sa femme Maaca"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 8:29 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-123",
+    "book": "1 Chroniques",
+    "chapter": 9,
+    "verseRef": "1 Chroniques 9:19",
+    "verseText": "Voir 1 Chroniques 9:19.",
+    "question": "Dans 1 Chroniques 9, quelle mission est attribuée aux portiers au sujet des “entrées” ?",
+    "choices": [
+      "Ils avaient la garde des entrées de la tente d’assignation",
+      "Ils avaient la garde des chars de David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 9:19 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-124",
+    "book": "1 Chroniques",
+    "chapter": 9,
+    "verseRef": "1 Chroniques 9:24",
+    "verseText": "Voir 1 Chroniques 9:24.",
+    "question": "Quel détail est précisé concernant les portiers “aux quatre vents” ?",
+    "choices": [
+      "Ils étaient seulement au midi et à l’occident",
+      "Ils étaient à l’orient, à l’occident, au septentrion, au midi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 9:24 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-125",
+    "book": "1 Chroniques",
+    "chapter": 9,
+    "verseRef": "1 Chroniques 9:28",
+    "verseText": "Voir 1 Chroniques 9:28.",
+    "question": "Quel rôle est attribué à certains Lévites “sur les ustensiles” (formulation précise) ?",
+    "choices": [
+      "Ils forgeaient tous les ustensiles dans les champs",
+      "Ils comptaient tous les ustensiles quand on les faisait entrer et sortir"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 9:28 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-126",
+    "book": "1 Chroniques",
+    "chapter": 9,
+    "verseRef": "1 Chroniques 9:32",
+    "verseText": "Voir 1 Chroniques 9:32.",
+    "question": "Quel service des fils de Kehath est signalé au sujet des pains ?",
+    "choices": [
+      "Préparer les pains pour chaque sabbat",
+      "Porter les pains à Gath chaque sabbat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 9:32 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-127",
+    "book": "1 Chroniques",
+    "chapter": 14,
+    "verseRef": "1 Chroniques 14:15",
+    "verseText": "Voir 1 Chroniques 14:15.",
+    "question": "Quel signe militaire David devait-il attendre avant d’attaquer, selon la direction divine ?",
+    "choices": [
+      "Quand tu verras une étoile tomber sur Jérusalem",
+      "Quand tu entendras un bruit de pas dans les cimes des mûriers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 14:15 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-128",
+    "book": "1 Chroniques",
+    "chapter": 14,
+    "verseRef": "1 Chroniques 14:15",
+    "verseText": "Voir 1 Chroniques 14:15.",
+    "question": "Quelle déclaration suit l’ordre d’attaque : “Car Dieu…” ?",
+    "choices": [
+      "Car Dieu marche devant toi pour battre l’armée des Philistins",
+      "Car Dieu marche derrière toi pour t’abandonner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 14:15 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-129",
+    "book": "1 Chroniques",
+    "chapter": 18,
+    "verseRef": "1 Chroniques 18:6",
+    "verseText": "Voir 1 Chroniques 18:6.",
+    "question": "Dans 1 Chroniques 18, quel détail est donné sur l’effet des victoires de David : “L’Éternel…” ?",
+    "choices": [
+      "L’Éternel abandonnait David partout où il allait",
+      "L’Éternel protégeait David partout où il allait"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 18:6 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-130",
+    "book": "1 Chroniques",
+    "chapter": 18,
+    "verseRef": "1 Chroniques 18:7",
+    "verseText": "Voir 1 Chroniques 18:7.",
+    "question": "Dans 1 Chroniques 18, quels objets David prit-il aux serviteurs d’Hadadézer ?",
+    "choices": [
+      "Des tables de pierre",
+      "Des boucliers d’or"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 18:7 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-131",
+    "book": "1 Chroniques",
+    "chapter": 19,
+    "verseRef": "1 Chroniques 19:4",
+    "verseText": "Voir 1 Chroniques 19:4.",
+    "question": "Dans l’affaire des messagers humiliés, quelle coupure précise est mentionnée pour leurs vêtements ?",
+    "choices": [
+      "On coupa leurs vêtements par le milieu jusqu’aux hanches",
+      "On coupa leurs vêtements jusqu’aux genoux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 19:4 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-132",
+    "book": "1 Chroniques",
+    "chapter": 19,
+    "verseRef": "1 Chroniques 19:5",
+    "verseText": "Voir 1 Chroniques 19:5.",
+    "question": "Quelle instruction David donne-t-il à ces hommes, avec lieu et condition ?",
+    "choices": [
+      "Restez à Hébron jusqu’à ce que votre barbe ait repoussé; puis vous reviendrez",
+      "Restez à Jéricho jusqu’à ce que votre barbe ait repoussé; puis vous reviendrez"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 19:5 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-133",
+    "book": "1 Chroniques",
+    "chapter": 20,
+    "verseRef": "1 Chroniques 20:7",
+    "verseText": "Voir 1 Chroniques 20:7.",
+    "question": "Dans 1 Chroniques 20, quel lien de parenté est donné pour Jonathan (celui qui frappa l’homme aux six doigts) ?",
+    "choices": [
+      "Jonathan, fils de Schimea, frère de David",
+      "Jonathan, fils de Joab, frère de David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 20:7 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-134",
+    "book": "1 Chroniques",
+    "chapter": 26,
+    "verseRef": "1 Chroniques 26:14",
+    "verseText": "Voir 1 Chroniques 26:14.",
+    "question": "Dans la répartition des portiers (1 Chroniques 26), quelle porte “tira le sort pour l’orient” ?",
+    "choices": [
+      "Schelemja",
+      "Hosah"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 26:14 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-135",
+    "book": "1 Chroniques",
+    "chapter": 26,
+    "verseRef": "1 Chroniques 26:15",
+    "verseText": "Voir 1 Chroniques 26:15.",
+    "question": "Quel côté “tira le sort pour le midi”, selon la même répartition ?",
+    "choices": [
+      "Schelemja",
+      "Obed-Edom"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 26:15 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-136",
+    "book": "1 Chroniques",
+    "chapter": 26,
+    "verseRef": "1 Chroniques 26:16",
+    "verseText": "Voir 1 Chroniques 26:16.",
+    "question": "Dans 1 Chroniques 26, quelle affectation est donnée “à Schuppim et à Hosah” ?",
+    "choices": [
+      "À l’occident, avec la porte de Schalleketh, sur le chemin montant",
+      "Au midi, avec la porte d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 26:16 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-137",
+    "book": "1 Chroniques",
+    "chapter": 27,
+    "verseRef": "1 Chroniques 27:1",
+    "verseText": "Voir 1 Chroniques 27:1.",
+    "question": "Dans l’organisation militaire (1 Chroniques 27), quelle règle est donnée pour le service des divisions ?",
+    "choices": [
+      "Elles entraient et sortaient une fois tous les sept ans",
+      "Elles entraient et sortaient mois par mois pendant tous les mois de l’année"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 27:1 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-138",
+    "book": "1 Chroniques",
+    "chapter": 27,
+    "verseRef": "1 Chroniques 27:1",
+    "verseText": "Voir 1 Chroniques 27:1.",
+    "question": "Dans le même passage, quel effectif est donné pour chaque division ?",
+    "choices": [
+      "Six mille",
+      "Vingt-quatre mille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 27:1 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-139",
+    "book": "1 Chroniques",
+    "chapter": 27,
+    "verseRef": "1 Chroniques 27:2",
+    "verseText": "Voir 1 Chroniques 27:2.",
+    "question": "Quel nom est donné au chef de la première division du premier mois ?",
+    "choices": [
+      "Abisaï, fils de Tseruja",
+      "Jaschobeam, fils de Zabdiel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 27:2 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-140",
+    "book": "1 Chroniques",
+    "chapter": 27,
+    "verseRef": "1 Chroniques 27:32",
+    "verseText": "Voir 1 Chroniques 27:32.",
+    "question": "Qui est cité comme “conseiller du roi” et “scribe”, selon la liste des proches ?",
+    "choices": [
+      "Joram, fils de Thou, conseiller, homme intelligent et scribe",
+      "Jonathan, oncle de David, conseiller, homme intelligent et scribe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 27:32 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-141",
+    "book": "1 Chroniques",
+    "chapter": 27,
+    "verseRef": "1 Chroniques 27:33",
+    "verseText": "Voir 1 Chroniques 27:33.",
+    "question": "Quel homme est cité comme “ami du roi” juste après Achithophel ?",
+    "choices": [
+      "Huschaï, l’Arkien",
+      "Ornan le Jébusien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 27:33 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-142",
+    "book": "1 Chroniques",
+    "chapter": 28,
+    "verseRef": "1 Chroniques 28:5",
+    "verseText": "Voir 1 Chroniques 28:5.",
+    "question": "Dans l’assemblée (1 Chroniques 28), quelle expression David emploie-t-il au sujet du royaume ?",
+    "choices": [
+      "Le trône du royaume de David sur les nations",
+      "Le trône du royaume de l’Éternel sur Israël"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 28:5 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-143",
+    "book": "1 Chroniques",
+    "chapter": 28,
+    "verseRef": "1 Chroniques 28:2",
+    "verseText": "Voir 1 Chroniques 28:2.",
+    "question": "Quel titre David donne-t-il à l’arche, en parlant de son projet de bâtir ?",
+    "choices": [
+      "L’arche de l’alliance de l’Éternel, et le marchepied de notre Dieu",
+      "L’arche des Philistins, et le marchepied des idoles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 28:2 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-144",
+    "book": "1 Chroniques",
+    "chapter": 28,
+    "verseRef": "1 Chroniques 28:9",
+    "verseText": "Voir 1 Chroniques 28:9.",
+    "question": "Quel avertissement David donne-t-il à Salomon concernant la recherche de Dieu ?",
+    "choices": [
+      "Si tu le cherches, il se laissera trouver par toi; mais si tu l’abandonnes, il te rejettera pour toujours",
+      "Si tu le cherches, il te rejettera; mais si tu l’abandonnes, il te bénira"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 28:9 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-145",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:4",
+    "verseText": "Voir 1 Chroniques 29:4.",
+    "question": "Dans 1 Chroniques 29, quel montant David cite-t-il comme don personnel “d’or d’Ophir” ?",
+    "choices": [
+      "Trois cents talents d’or d’Ophir",
+      "Trois mille talents d’or d’Ophir"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 29:4 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-146",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:4",
+    "verseText": "Voir 1 Chroniques 29:4.",
+    "question": "Quel montant d’“argent épuré” David associe-t-il à ce don personnel ?",
+    "choices": [
+      "Sept mille talents d’argent épuré",
+      "Sept cents talents d’argent épuré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:4 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-147",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:9",
+    "verseText": "Voir 1 Chroniques 29:9.",
+    "question": "Dans la joie des offrandes, quel motif est donné : “car ils…” ?",
+    "choices": [
+      "Ils faisaient des offrandes par contrainte, avec tristesse",
+      "Ils faisaient volontairement des offrandes à l’Éternel, avec un cœur droit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 29:9 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-148",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:11",
+    "verseText": "Voir 1 Chroniques 29:11.",
+    "question": "Dans la bénédiction de David, quels attributs sont cités comme appartenant à l’Éternel (formule) ?",
+    "choices": [
+      "La faiblesse, l’oubli, la fuite, la honte et la peur",
+      "La grandeur, la force, la magnificence, l’éternité et la gloire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 29:11 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-149",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:12",
+    "verseText": "Voir 1 Chroniques 29:12.",
+    "question": "Dans le même passage, que dit David sur l’origine de la richesse et de la gloire ?",
+    "choices": [
+      "C’est des nations que viennent la richesse et la gloire",
+      "C’est de toi que viennent la richesse et la gloire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Chroniques 29:12 (LSG 1910)."
+  },
+  {
+    "id": "1CH-D-150",
+    "book": "1 Chroniques",
+    "chapter": 29,
+    "verseRef": "1 Chroniques 29:27",
+    "verseText": "Voir 1 Chroniques 29:27.",
+    "question": "Quel résumé final est donné sur le règne de David (durée et portée) ?",
+    "choices": [
+      "Il régna sur tout Israël quarante ans",
+      "Il régna sur Juda seulement quarante ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 29:27 (LSG 1910)."
+  }
+]

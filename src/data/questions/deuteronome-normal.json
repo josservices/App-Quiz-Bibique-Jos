@@ -1,0 +1,1652 @@
+[
+  {
+    "id": "DEU-N-001",
+    "book": "Deutéronome",
+    "chapter": 1,
+    "verseRef": "Deutéronome 1:3",
+    "verseText": "Voir Deutéronome 1:3.",
+    "question": "Quel âge avait Moïse lorsqu’il parla à tout Israël au delà du Jourdain ?",
+    "choices": [
+      "80 ans",
+      "100 ans",
+      "120 ans"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Deutéronome 1:3 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-002",
+    "book": "Deutéronome",
+    "chapter": 1,
+    "verseRef": "Deutéronome 1:2",
+    "verseText": "Voir Deutéronome 1:2.",
+    "question": "Combien de jours faut-il normalement pour aller de Horeb à Kadès-Barnéa par la montagne de Séir ?",
+    "choices": [
+      "3 jours",
+      "11 jours",
+      "40 jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 1:2 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-003",
+    "book": "Deutéronome",
+    "chapter": 1,
+    "verseRef": "Deutéronome 1:9–15",
+    "verseText": "Voir Deutéronome 1:9–15.",
+    "question": "Quel conseil Jéthro donna-t-il à Moïse concernant la charge du peuple ?",
+    "choices": [
+      "Nommer des juges par tribu",
+      "Construire un sanctuaire fixe",
+      "Lever un impôt annuel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 1:9–15 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-004",
+    "book": "Deutéronome",
+    "chapter": 1,
+    "verseRef": "Deutéronome 1:30",
+    "verseText": "Voir Deutéronome 1:30.",
+    "question": "Quel est le motif principal donné pour ne pas craindre les ennemis ?",
+    "choices": [
+      "Israël est plus nombreux",
+      "L’Éternel combat pour eux",
+      "Les ennemis sont fatigués"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 1:30 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-005",
+    "book": "Deutéronome",
+    "chapter": 1,
+    "verseRef": "Deutéronome 1:26–32",
+    "verseText": "Voir Deutéronome 1:26–32.",
+    "question": "Quel péché est rappelé à propos de Kadès-Barnéa ?",
+    "choices": [
+      "Idolâtrie du veau d’or",
+      "Incrédulité et refus de monter",
+      "Manque de dîmes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 1:26–32 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-006",
+    "book": "Deutéronome",
+    "chapter": 2,
+    "verseRef": "Deutéronome 2:4–5",
+    "verseText": "Voir Deutéronome 2:4–5.",
+    "question": "Quel peuple devait être respecté car il était la possession des fils d’Ésaü ?",
+    "choices": [
+      "Ammon",
+      "Édom",
+      "Moab"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 2:4–5 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-007",
+    "book": "Deutéronome",
+    "chapter": 2,
+    "verseRef": "Deutéronome 2:9",
+    "verseText": "Voir Deutéronome 2:9.",
+    "question": "Quelle consigne fut donnée vis-à-vis de Moab ?",
+    "choices": [
+      "Les attaquer sans trêve",
+      "Ne pas les inquiéter ni les combattre",
+      "Prendre leur roi en otage"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 2:9 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-008",
+    "book": "Deutéronome",
+    "chapter": 2,
+    "verseRef": "Deutéronome 2:10–11",
+    "verseText": "Voir Deutéronome 2:10–11.",
+    "question": "Qui était appelé « peuple grand, nombreux, et de haute taille, comme les Anakim » ?",
+    "choices": [
+      "Les Émim",
+      "Les Philistins",
+      "Les Madianites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 2:10–11 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-009",
+    "book": "Deutéronome",
+    "chapter": 2,
+    "verseRef": "Deutéronome 2:26–37",
+    "verseText": "Voir Deutéronome 2:26–37.",
+    "question": "Quel roi amoréen refusa le passage et fut combattu en premier ?",
+    "choices": [
+      "Og",
+      "Sihon",
+      "Balak"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 2:26–37 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-010",
+    "book": "Deutéronome",
+    "chapter": 3,
+    "verseRef": "Deutéronome 3:1–3",
+    "verseText": "Voir Deutéronome 3:1–3.",
+    "question": "Quel roi de Basan fut vaincu ensuite ?",
+    "choices": [
+      "Og",
+      "Pharaon",
+      "Hadad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 3:1–3 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-011",
+    "book": "Deutéronome",
+    "chapter": 3,
+    "verseRef": "Deutéronome 3:11",
+    "verseText": "Voir Deutéronome 3:11.",
+    "question": "Comment est décrite la couche (lit) d’Og ?",
+    "choices": [
+      "En cèdre du Liban",
+      "En fer, longue de neuf coudées",
+      "En or pur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 3:11 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-012",
+    "book": "Deutéronome",
+    "chapter": 3,
+    "verseRef": "Deutéronome 3:12–13",
+    "verseText": "Voir Deutéronome 3:12–13.",
+    "question": "À qui fut donnée la moitié de Galaad et Basan ?",
+    "choices": [
+      "À Ruben et Gad",
+      "À Juda et Benjamin",
+      "À Lévi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 3:12–13 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-013",
+    "book": "Deutéronome",
+    "chapter": 3,
+    "verseRef": "Deutéronome 3:26",
+    "verseText": "Voir Deutéronome 3:26.",
+    "question": "Pourquoi Moïse ne devait-il plus parler de l’entrée en Canaan ?",
+    "choices": [
+      "Le peuple avait déjà choisi Josué",
+      "L’Éternel s’était irrité contre lui à cause du peuple",
+      "Il était malade"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 3:26 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-014",
+    "book": "Deutéronome",
+    "chapter": 3,
+    "verseRef": "Deutéronome 3:28",
+    "verseText": "Voir Deutéronome 3:28.",
+    "question": "Quel successeur devait fortifier et encourager le peuple ?",
+    "choices": [
+      "Caleb",
+      "Josué",
+      "Aaron"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 3:28 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-015",
+    "book": "Deutéronome",
+    "chapter": 6,
+    "verseRef": "Deutéronome 6:4",
+    "verseText": "Voir Deutéronome 6:4.",
+    "question": "Quelle affirmation résume l’unicité de Dieu au cœur d’Israël ?",
+    "choices": [
+      "« L’Éternel est mon berger »",
+      "« Écoute, Israël ! L’Éternel, notre Dieu, est le seul Éternel »",
+      "« L’Éternel règne sur les nations »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 6:4 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-016",
+    "book": "Deutéronome",
+    "chapter": 6,
+    "verseRef": "Deutéronome 6:5",
+    "verseText": "Voir Deutéronome 6:5.",
+    "question": "Quel commandement est présenté comme le plus central : aimer l’Éternel…",
+    "choices": [
+      "de tout ton cœur, de toute ton âme, de toute ta force",
+      "seulement le sabbat",
+      "seulement les sacrifices"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 6:5 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-017",
+    "book": "Deutéronome",
+    "chapter": 6,
+    "verseRef": "Deutéronome 6:6–7",
+    "verseText": "Voir Deutéronome 6:6–7.",
+    "question": "Que devait-on faire des paroles divines selon Deutéronome 6 ?",
+    "choices": [
+      "Les oublier après le désert",
+      "Les répéter à ses enfants",
+      "Les réserver aux prêtres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 6:6–7 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-018",
+    "book": "Deutéronome",
+    "chapter": 6,
+    "verseRef": "Deutéronome 6:9",
+    "verseText": "Voir Deutéronome 6:9.",
+    "question": "Où devaient-elles être écrites, selon l’ordre de Moïse ?",
+    "choices": [
+      "Sur les vêtements",
+      "Sur les poteaux de la maison et sur les portes",
+      "Sur des pierres précieuses"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 6:9 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-019",
+    "book": "Deutéronome",
+    "chapter": 6,
+    "verseRef": "Deutéronome 6:10–12",
+    "verseText": "Voir Deutéronome 6:10–12.",
+    "question": "De quel danger Israël est averti lorsqu’il sera rassasié dans le pays ?",
+    "choices": [
+      "Oublier l’Éternel",
+      "Manquer d’eau",
+      "Perdre toute récolte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 6:10–12 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-020",
+    "book": "Deutéronome",
+    "chapter": 7,
+    "verseRef": "Deutéronome 7:1–2",
+    "verseText": "Voir Deutéronome 7:1–2.",
+    "question": "Quel peuple est décrit comme « plus nombreux et plus puissant » mais voué à l’interdit ?",
+    "choices": [
+      "Les Cananéens",
+      "Les Égyptiens",
+      "Les Assyriens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 7:1–2 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-021",
+    "book": "Deutéronome",
+    "chapter": 7,
+    "verseRef": "Deutéronome 7:2–3",
+    "verseText": "Voir Deutéronome 7:2–3.",
+    "question": "Quelle interdiction est liée aux nations du pays ?",
+    "choices": [
+      "Faire alliance et s’allier par mariages",
+      "Apprendre leurs métiers",
+      "Prendre leurs vêtements"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 7:2–3 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-022",
+    "book": "Deutéronome",
+    "chapter": 7,
+    "verseRef": "Deutéronome 7:7–8",
+    "verseText": "Voir Deutéronome 7:7–8.",
+    "question": "Pourquoi Israël est-il choisi, selon Deutéronome 7 ?",
+    "choices": [
+      "Parce qu’il est le plus nombreux",
+      "Par amour de l’Éternel et à cause du serment aux pères",
+      "Parce qu’il a vaincu l’Égypte seul"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 7:7–8 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-023",
+    "book": "Deutéronome",
+    "chapter": 8,
+    "verseRef": "Deutéronome 8:2–3",
+    "verseText": "Voir Deutéronome 8:2–3.",
+    "question": "Quel signe rappelle que Dieu humilie et éprouve Israël au désert ?",
+    "choices": [
+      "La manne",
+      "Les chariots",
+      "Les vignes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 8:2–3 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-024",
+    "book": "Deutéronome",
+    "chapter": 8,
+    "verseRef": "Deutéronome 8:3",
+    "verseText": "Voir Deutéronome 8:3.",
+    "question": "« L’homme ne vit pas de pain seulement… » la suite dit :",
+    "choices": [
+      "…mais de toute parole qui sort de la bouche de l’Éternel",
+      "…mais de travail et de sueur",
+      "…mais de sacrifices réguliers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 8:3 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-025",
+    "book": "Deutéronome",
+    "chapter": 8,
+    "verseRef": "Deutéronome 8:17",
+    "verseText": "Voir Deutéronome 8:17.",
+    "question": "Quel avertissement est donné après l’abondance ?",
+    "choices": [
+      "Dire : “Ma force… m’a acquis ces richesses”",
+      "Quitter le pays immédiatement",
+      "S’installer en Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 8:17 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-026",
+    "book": "Deutéronome",
+    "chapter": 8,
+    "verseRef": "Deutéronome 8:18",
+    "verseText": "Voir Deutéronome 8:18.",
+    "question": "Que faut-il se rappeler au sujet des richesses ?",
+    "choices": [
+      "Les rois les donnent",
+      "C’est Dieu qui donne la force de les acquérir",
+      "Elles viennent du hasard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 8:18 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-027",
+    "book": "Deutéronome",
+    "chapter": 9,
+    "verseRef": "Deutéronome 9:4–6",
+    "verseText": "Voir Deutéronome 9:4–6.",
+    "question": "Quelle raison Moïse donne-t-il pour la justice de Dieu envers les nations ?",
+    "choices": [
+      "Israël est parfait",
+      "La méchanceté des nations et la promesse aux pères",
+      "Les nations sont faibles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 9:4–6 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-028",
+    "book": "Deutéronome",
+    "chapter": 9,
+    "verseRef": "Deutéronome 9:8–16",
+    "verseText": "Voir Deutéronome 9:8–16.",
+    "question": "Quel événement rappelle l’infidélité d’Israël au Horeb ?",
+    "choices": [
+      "Les espions",
+      "Le veau d’or",
+      "La traversée du Jourdain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 9:8–16 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-029",
+    "book": "Deutéronome",
+    "chapter": 9,
+    "verseRef": "Deutéronome 9:18",
+    "verseText": "Voir Deutéronome 9:18.",
+    "question": "Combien de jours Moïse resta-t-il prosterné pour intercéder ?",
+    "choices": [
+      "7 jours",
+      "40 jours et 40 nuits",
+      "3 jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 9:18 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-030",
+    "book": "Deutéronome",
+    "chapter": 10,
+    "verseRef": "Deutéronome 10:12",
+    "verseText": "Voir Deutéronome 10:12.",
+    "question": "Selon Deutéronome 10, que demande l’Éternel à Israël ?",
+    "choices": [
+      "Des palais",
+      "Craindre l’Éternel, marcher dans ses voies, l’aimer, le servir",
+      "Seulement des chants"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 10:12 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-031",
+    "book": "Deutéronome",
+    "chapter": 10,
+    "verseRef": "Deutéronome 10:17",
+    "verseText": "Voir Deutéronome 10:17.",
+    "question": "Qui est décrit comme “le Dieu des dieux et le Seigneur des seigneurs” ?",
+    "choices": [
+      "Moïse",
+      "L’Éternel",
+      "Josué"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 10:17 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-032",
+    "book": "Deutéronome",
+    "chapter": 10,
+    "verseRef": "Deutéronome 10:17",
+    "verseText": "Voir Deutéronome 10:17.",
+    "question": "Quel principe de justice est souligné : Dieu…",
+    "choices": [
+      "favorise les riches",
+      "ne fait point acception de personnes",
+      "change selon les nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 10:17 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-033",
+    "book": "Deutéronome",
+    "chapter": 11,
+    "verseRef": "Deutéronome 11:13–15",
+    "verseText": "Voir Deutéronome 11:13–15.",
+    "question": "Quelle promesse est associée à l’obéissance (pluie, récoltes) ?",
+    "choices": [
+      "Deutéronome 11:13–15",
+      "Deutéronome 2:5",
+      "Deutéronome 32:8"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 11:13–15 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-034",
+    "book": "Deutéronome",
+    "chapter": 11,
+    "verseRef": "Deutéronome 11:29",
+    "verseText": "Voir Deutéronome 11:29.",
+    "question": "Quel choix est présenté : bénédiction ou malédiction ?",
+    "choices": [
+      "Sur Sinaï et Horeb",
+      "Sur Garizim et Ébal",
+      "Sur Nebo et Pisga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 11:29 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-035",
+    "book": "Deutéronome",
+    "chapter": 12,
+    "verseRef": "Deutéronome 12:5",
+    "verseText": "Voir Deutéronome 12:5.",
+    "question": "Quel lieu devait être choisi pour y mettre le nom de l’Éternel ?",
+    "choices": [
+      "Un lieu choisi par l’Éternel parmi les tribus",
+      "Une montagne au hasard",
+      "Une ville d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 12:5 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-036",
+    "book": "Deutéronome",
+    "chapter": 12,
+    "verseRef": "Deutéronome 12:2–3",
+    "verseText": "Voir Deutéronome 12:2–3.",
+    "question": "Que devait-on détruire en entrant dans le pays ?",
+    "choices": [
+      "Les habitations des pauvres",
+      "Les lieux de culte idolâtre (autels, idoles)",
+      "Les puits"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 12:2–3 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-037",
+    "book": "Deutéronome",
+    "chapter": 12,
+    "verseRef": "Deutéronome 12:23–24",
+    "verseText": "Voir Deutéronome 12:23–24.",
+    "question": "Que dit la loi au sujet du sang ?",
+    "choices": [
+      "Le boire avec du vin",
+      "Ne pas le manger ; le répandre comme de l’eau",
+      "Le conserver"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 12:23–24 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-038",
+    "book": "Deutéronome",
+    "chapter": 13,
+    "verseRef": "Deutéronome 13:1–3",
+    "verseText": "Voir Deutéronome 13:1–3.",
+    "question": "Comment reconnaître un faux prophète même si le signe arrive ?",
+    "choices": [
+      "S’il annonce la pluie",
+      "S’il pousse à suivre d’autres dieux",
+      "S’il parle doucement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 13:1–3 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-039",
+    "book": "Deutéronome",
+    "chapter": 13,
+    "verseRef": "Deutéronome 13:12–16",
+    "verseText": "Voir Deutéronome 13:12–16.",
+    "question": "Quelle sanction est décrite pour une ville entraînée à l’idolâtrie ?",
+    "choices": [
+      "La payer d’un tribut",
+      "La livrer à l’interdit",
+      "L’inviter à se repentir seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 13:12–16 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-040",
+    "book": "Deutéronome",
+    "chapter": 14,
+    "verseRef": "Deutéronome 14:1–2",
+    "verseText": "Voir Deutéronome 14:1–2.",
+    "question": "Israël est appelé “un peuple saint” : quelle conséquence pratique est citée ?",
+    "choices": [
+      "Ne pas se faire d’incisions, ne pas tondre entre les yeux pour un mort",
+      "Ne plus voyager",
+      "Ne plus manger de pain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 14:1–2 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-041",
+    "book": "Deutéronome",
+    "chapter": 14,
+    "verseRef": "Deutéronome 14:9",
+    "verseText": "Voir Deutéronome 14:9.",
+    "question": "Quels animaux aquatiques sont autorisés ?",
+    "choices": [
+      "Tout ce qui vit dans l’eau",
+      "Ceux qui ont nageoires et écailles",
+      "Ceux qui n’ont pas d’écailles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 14:9 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-042",
+    "book": "Deutéronome",
+    "chapter": 14,
+    "verseRef": "Deutéronome 14:22–23",
+    "verseText": "Voir Deutéronome 14:22–23.",
+    "question": "Quelle règle sur la dîme est rappelée “chaque année” ?",
+    "choices": [
+      "La dîme du vin, du blé, de l’huile",
+      "La dîme des poissons",
+      "La dîme des armes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 14:22–23 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-043",
+    "book": "Deutéronome",
+    "chapter": 15,
+    "verseRef": "Deutéronome 15:1",
+    "verseText": "Voir Deutéronome 15:1.",
+    "question": "Tous les combien d’années la remise des dettes devait-elle être faite ?",
+    "choices": [
+      "3 ans",
+      "7 ans",
+      "12 ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 15:1 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-044",
+    "book": "Deutéronome",
+    "chapter": 15,
+    "verseRef": "Deutéronome 15:9–10",
+    "verseText": "Voir Deutéronome 15:9–10.",
+    "question": "Quel principe doit empêcher de refuser de prêter à l’approche de la 7e année ?",
+    "choices": [
+      "La peur",
+      "L’Éternel bénira en retour",
+      "Les rois l’exigent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 15:9–10 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-045",
+    "book": "Deutéronome",
+    "chapter": 15,
+    "verseRef": "Deutéronome 15:16–17",
+    "verseText": "Voir Deutéronome 15:16–17.",
+    "question": "Quel rite marque la libération volontaire d’un serviteur qui veut rester ?",
+    "choices": [
+      "Une couronne",
+      "Percer son oreille avec un poinçon à la porte",
+      "Lui donner un bâton"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 15:16–17 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-046",
+    "book": "Deutéronome",
+    "chapter": 16,
+    "verseRef": "Deutéronome 16:1,6",
+    "verseText": "Voir Deutéronome 16:1,6.",
+    "question": "Quand la Pâque devait-elle être célébrée ?",
+    "choices": [
+      "Au septième mois",
+      "Au mois des épis, le soir",
+      "À la nouvelle lune seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 16:1,6 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-047",
+    "book": "Deutéronome",
+    "chapter": 16,
+    "verseRef": "Deutéronome 16:16",
+    "verseText": "Voir Deutéronome 16:16.",
+    "question": "Combien de fois par an tout mâle devait-il se présenter devant l’Éternel ?",
+    "choices": [
+      "1 fois",
+      "2 fois",
+      "3 fois"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Deutéronome 16:16 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-048",
+    "book": "Deutéronome",
+    "chapter": 16,
+    "verseRef": "Deutéronome 16:21",
+    "verseText": "Voir Deutéronome 16:21.",
+    "question": "Qu’est-il interdit de planter près de l’autel de l’Éternel ?",
+    "choices": [
+      "Un olivier",
+      "Un arbre en idole (un pieu d’Astarté)",
+      "Du blé"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 16:21 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-049",
+    "book": "Deutéronome",
+    "chapter": 19,
+    "verseRef": "Deutéronome 19:15",
+    "verseText": "Voir Deutéronome 19:15.",
+    "question": "Quel principe judiciaire est posé : “un seul témoin…” ?",
+    "choices": [
+      "suffit toujours",
+      "ne suffira pas contre un homme",
+      "doit être un prêtre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 19:15 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-050",
+    "book": "Deutéronome",
+    "chapter": 24,
+    "verseRef": "Deutéronome 24:17",
+    "verseText": "Voir Deutéronome 24:17.",
+    "question": "Quelle règle d’égalité dans la justice est posée : “tu ne porteras point…” ?",
+    "choices": [
+      "des vêtements neufs",
+      "atteinte au droit de l’étranger et de l’orphelin",
+      "des sandales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 24:17 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-051",
+    "book": "Deutéronome",
+    "chapter": 24,
+    "verseRef": "Deutéronome 24:19–21",
+    "verseText": "Voir Deutéronome 24:19–21.",
+    "question": "Quelle pratique est demandée lors de la récolte pour aider le pauvre ?",
+    "choices": [
+      "Repasser trois fois",
+      "Laisser glanage et gerbes oubliées",
+      "Tout ramasser vite"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 24:19–21 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-052",
+    "book": "Deutéronome",
+    "chapter": 22,
+    "verseRef": "Deutéronome 22:12 (texte Deutéronome)",
+    "verseText": "Voir Deutéronome 22:12 (texte Deutéronome).",
+    "question": "Quel est l’objectif des franges aux quatre coins du vêtement ?",
+    "choices": [
+      "Faire beau",
+      "Se souvenir et pratiquer les commandements (référence dans Deut.)",
+      "Identifier la tribu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 22:12 (texte Deutéronome) (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-053",
+    "book": "Deutéronome",
+    "chapter": 25,
+    "verseRef": "Deutéronome 25:13–15",
+    "verseText": "Voir Deutéronome 25:13–15.",
+    "question": "Quelle obligation concerne les poids et mesures ?",
+    "choices": [
+      "Avoir deux balances",
+      "Avoir poids et mesures justes",
+      "Utiliser l’or uniquement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 25:13–15 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-054",
+    "book": "Deutéronome",
+    "chapter": 25,
+    "verseRef": "Deutéronome 25:17–19",
+    "verseText": "Voir Deutéronome 25:17–19.",
+    "question": "Quelle nation devait être effacée de mémoire à cause de son attaque perfide ?",
+    "choices": [
+      "Amalek",
+      "Moab",
+      "Édom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 25:17–19 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-055",
+    "book": "Deutéronome",
+    "chapter": 26,
+    "verseRef": "Deutéronome 26:1–11",
+    "verseText": "Voir Deutéronome 26:1–11.",
+    "question": "Quelle première offrande du pays devait être apportée avec une confession historique ?",
+    "choices": [
+      "Les prémices",
+      "Le sel",
+      "L’encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 26:1–11 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-056",
+    "book": "Deutéronome",
+    "chapter": 27,
+    "verseRef": "Deutéronome 27:2–4",
+    "verseText": "Voir Deutéronome 27:2–4.",
+    "question": "Quel geste solennel est ordonné avec de grandes pierres et un enduit ?",
+    "choices": [
+      "Les planter dans le désert",
+      "Les dresser sur le mont Ébal et y écrire la loi",
+      "Les jeter dans le Jourdain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 27:2–4 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-057",
+    "book": "Deutéronome",
+    "chapter": 19,
+    "verseRef": "Deutéronome 19:21",
+    "verseText": "Voir Deutéronome 19:21.",
+    "question": "Quel principe résume la loi du talion dans Deutéronome 19 ?",
+    "choices": [
+      "“Œil pour œil, dent pour dent”",
+      "“Tout pardonner sans jugement”",
+      "“Rendre le double”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 19:21 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-058",
+    "book": "Deutéronome",
+    "chapter": 22,
+    "verseRef": "Deutéronome 22:4",
+    "verseText": "Voir Deutéronome 22:4.",
+    "question": "Quel commandement lie l’amour du prochain à un geste concret envers l’ennemi (animal) ?",
+    "choices": [
+      "Laisser tomber",
+      "Aider à relever l’âne sous sa charge",
+      "Prendre l’âne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 22:4 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-059",
+    "book": "Deutéronome",
+    "chapter": 30,
+    "verseRef": "Deutéronome 30:19",
+    "verseText": "Voir Deutéronome 30:19.",
+    "question": "Qu’est-ce que l’Éternel met devant Israël à la fin :",
+    "choices": [
+      "Mer et désert",
+      "Vie et mort, bénédiction et malédiction",
+      "Temple et palais"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 30:19 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-060",
+    "book": "Deutéronome",
+    "chapter": 30,
+    "verseRef": "Deutéronome 30:19",
+    "verseText": "Voir Deutéronome 30:19.",
+    "question": "Quel appel est lancé à la fin du livre : “Choisis…” ?",
+    "choices": [
+      "la richesse",
+      "la vie",
+      "la guerre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 30:19 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-061",
+    "book": "Deutéronome",
+    "chapter": 4,
+    "verseRef": "Deutéronome 4:1",
+    "verseText": "Voir Deutéronome 4:1.",
+    "question": "Selon Deutéronome 4, que devait faire Israël avant tout pour “vivre” et “entrer en possession du pays” ?",
+    "choices": [
+      "Compter ses guerriers",
+      "Écouter les lois et les ordonnances et les mettre en pratique",
+      "Construire une ville fortifiée"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 4:1 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-062",
+    "book": "Deutéronome",
+    "chapter": 4,
+    "verseRef": "Deutéronome 4:9",
+    "verseText": "Voir Deutéronome 4:9.",
+    "question": "Quel avertissement est donné à Israël concernant l’oubli ?",
+    "choices": [
+      "Oublier ses troupeaux",
+      "Oublier les choses vues et les laisser sortir du cœur",
+      "Oublier de bâtir des maisons"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 4:9 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-063",
+    "book": "Deutéronome",
+    "chapter": 4,
+    "verseRef": "Deutéronome 4:16–18",
+    "verseText": "Voir Deutéronome 4:16–18.",
+    "question": "Quel acte est interdit quand Israël sera dans le pays, au sujet de Dieu ?",
+    "choices": [
+      "Faire une représentation (image taillée) de ce qui est en haut, en bas ou dans les eaux",
+      "Planter des vignes",
+      "Élever des moutons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 4:16–18 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-064",
+    "book": "Deutéronome",
+    "chapter": 4,
+    "verseRef": "Deutéronome 4:34",
+    "verseText": "Voir Deutéronome 4:34.",
+    "question": "Quelle réalité Moïse rappelle-t-il sur la relation d’Israël avec l’Éternel ?",
+    "choices": [
+      "L’Éternel les a pris d’Égypte “par une main puissante”",
+      "Israël s’est délivré lui-même",
+      "L’Égypte a donné Canaan à Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 4:34 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-065",
+    "book": "Deutéronome",
+    "chapter": 6,
+    "verseRef": "Deutéronome 6:20–25",
+    "verseText": "Voir Deutéronome 6:20–25.",
+    "question": "Que devait faire Israël quand ses enfants demanderaient : “Que signifient ces témoignages… ?”",
+    "choices": [
+      "Leur parler des lois des nations",
+      "Leur raconter la délivrance d’Égypte et l’obéissance demandée",
+      "Leur dire de ne pas poser de questions"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 6:20–25 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-066",
+    "book": "Deutéronome",
+    "chapter": 6,
+    "verseRef": "Deutéronome 6:11–12",
+    "verseText": "Voir Deutéronome 6:11–12.",
+    "question": "Quand Israël entrerait dans des maisons qu’il n’avait pas bâties, quel piège est mentionné ?",
+    "choices": [
+      "Se souvenir trop du désert",
+      "Oublier l’Éternel",
+      "Vendre ses troupeaux"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 6:11–12 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-067",
+    "book": "Deutéronome",
+    "chapter": 6,
+    "verseRef": "Deutéronome 6:16–17,13",
+    "verseText": "Voir Deutéronome 6:16–17,13.",
+    "question": "Comment Israël devait-il répondre à la tentation de “tenter l’Éternel” ?",
+    "choices": [
+      "En rappelant Massa",
+      "En craignant l’Éternel et en le servant",
+      "En consultant des devins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 6:16–17,13 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-068",
+    "book": "Deutéronome",
+    "chapter": 7,
+    "verseRef": "Deutéronome 7:5",
+    "verseText": "Voir Deutéronome 7:5.",
+    "question": "Quel avertissement est donné sur les autels et images des nations ?",
+    "choices": [
+      "Les garder comme souvenirs",
+      "Les renverser et brûler leurs idoles",
+      "Les transformer en monuments d’Israël"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 7:5 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-069",
+    "book": "Deutéronome",
+    "chapter": 7,
+    "verseRef": "Deutéronome 7:20",
+    "verseText": "Voir Deutéronome 7:20.",
+    "question": "Quelle image est utilisée pour exprimer la puissance divine contre les nations ?",
+    "choices": [
+      "“La peste” uniquement",
+      "“La terreur” et “les frelons” envoyés",
+      "“Le feu du ciel” sur chaque ville"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 7:20 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-070",
+    "book": "Deutéronome",
+    "chapter": 7,
+    "verseRef": "Deutéronome 7:21–24",
+    "verseText": "Voir Deutéronome 7:21–24.",
+    "question": "Pourquoi Israël ne devait-il pas craindre les nations plus grandes ?",
+    "choices": [
+      "Parce qu’il aura plus d’alliés",
+      "Parce que l’Éternel fera tomber la crainte et les livrera",
+      "Parce qu’elles sont pauvres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 7:21–24 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-071",
+    "book": "Deutéronome",
+    "chapter": 8,
+    "verseRef": "Deutéronome 8:3",
+    "verseText": "Voir Deutéronome 8:3.",
+    "question": "Qu’est-ce que l’Éternel dit de la manne concernant Israël ?",
+    "choices": [
+      "C’était un aliment royal connu d’Égypte",
+      "Israël ne l’avait pas connue, ni ses pères, afin d’enseigner une leçon spirituelle",
+      "Elle venait des marchands"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 8:3 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-072",
+    "book": "Deutéronome",
+    "chapter": 8,
+    "verseRef": "Deutéronome 8:4",
+    "verseText": "Voir Deutéronome 8:4.",
+    "question": "Quel détail concret Moïse mentionne sur les vêtements et les pieds au désert ?",
+    "choices": [
+      "“Tes vêtements se sont usés”",
+      "“Tes vêtements ne se sont point usés… ton pied ne s’est point enflé”",
+      "“Tes sandales ont brûlé”"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 8:4 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-073",
+    "book": "Deutéronome",
+    "chapter": 8,
+    "verseRef": "Deutéronome 8:7–9",
+    "verseText": "Voir Deutéronome 8:7–9.",
+    "question": "Dans la description du bon pays, quel élément est cité :",
+    "choices": [
+      "“Pays de blé, d’orge, de vignes…”",
+      "“Pays de neige éternelle”",
+      "“Pays de mer salée seulement”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 8:7–9 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-074",
+    "book": "Deutéronome",
+    "chapter": 8,
+    "verseRef": "Deutéronome 8:10",
+    "verseText": "Voir Deutéronome 8:10.",
+    "question": "Que devait faire Israël après avoir mangé et s’être rassasié ?",
+    "choices": [
+      "Se taire et dormir",
+      "Bénir l’Éternel, son Dieu",
+      "Jeter le pain restant"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 8:10 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-075",
+    "book": "Deutéronome",
+    "chapter": 8,
+    "verseRef": "Deutéronome 8:19–20",
+    "verseText": "Voir Deutéronome 8:19–20.",
+    "question": "Quel avertissement est donné si Israël suit d’autres dieux ?",
+    "choices": [
+      "Israël deviendra une grande puissance",
+      "Israël périra comme les nations que l’Éternel fait périr",
+      "Israël n’aura plus de rois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 8:19–20 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-076",
+    "book": "Deutéronome",
+    "chapter": 9,
+    "verseRef": "Deutéronome 9:6",
+    "verseText": "Voir Deutéronome 9:6.",
+    "question": "Quelle phrase décrit Israël dans Deutéronome 9 quand Moïse avertit contre l’orgueil ?",
+    "choices": [
+      "“Peuple docile”",
+      "“Peuple au cou roide”",
+      "“Peuple sans défaut”"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 9:6 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-077",
+    "book": "Deutéronome",
+    "chapter": 9,
+    "verseRef": "Deutéronome 9:17",
+    "verseText": "Voir Deutéronome 9:17.",
+    "question": "Que fit Moïse des premières tables après le péché du veau d’or ?",
+    "choices": [
+      "Il les cacha",
+      "Il les brisa en les jetant de ses mains",
+      "Il les vendit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 9:17 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-078",
+    "book": "Deutéronome",
+    "chapter": 23,
+    "verseRef": "Deutéronome 23:7",
+    "verseText": "Voir Deutéronome 23:7.",
+    "question": "Quel peuple est cité avec l’ordre de ne pas l’avoir en abomination, car “il est ton frère” ?",
+    "choices": [
+      "Amalek",
+      "Édom",
+      "Canaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 23:7 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-079",
+    "book": "Deutéronome",
+    "chapter": 23,
+    "verseRef": "Deutéronome 23:7",
+    "verseText": "Voir Deutéronome 23:7.",
+    "question": "Quel peuple ne devait pas être en abomination, car Israël avait été “étranger dans son pays” ?",
+    "choices": [
+      "Égyptien",
+      "Amoréen",
+      "Hittite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 23:7 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-080",
+    "book": "Deutéronome",
+    "chapter": 10,
+    "verseRef": "Deutéronome 10:16",
+    "verseText": "Voir Deutéronome 10:16.",
+    "question": "Dans Deutéronome 10, quelle action symbolique est commandée : “Circoncisez…”",
+    "choices": [
+      "vos maisons",
+      "votre cœur",
+      "vos sandales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 10:16 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-081",
+    "book": "Deutéronome",
+    "chapter": 10,
+    "verseRef": "Deutéronome 10:19",
+    "verseText": "Voir Deutéronome 10:19.",
+    "question": "Quelle promesse est liée à l’amour de l’étranger ?",
+    "choices": [
+      "“Car vous avez été étrangers au pays d’Égypte”",
+      "“Car les étrangers sont riches”",
+      "“Car les étrangers donnent des terres”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 10:19 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-082",
+    "book": "Deutéronome",
+    "chapter": 11,
+    "verseRef": "Deutéronome 11:10–12",
+    "verseText": "Voir Deutéronome 11:10–12.",
+    "question": "Dans Deutéronome 11, quel symbole est donné pour distinguer Canaan de l’Égypte ?",
+    "choices": [
+      "On y arrose avec le pied",
+      "C’est un pays de montagnes et de vallées, abreuvé par la pluie",
+      "Il n’y a pas d’eau du tout"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 11:10–12 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-083",
+    "book": "Deutéronome",
+    "chapter": 11,
+    "verseRef": "Deutéronome 11:22",
+    "verseText": "Voir Deutéronome 11:22.",
+    "question": "Quel principe est rappelé concernant l’amour et le service de Dieu ?",
+    "choices": [
+      "“Attachez-vous à lui”",
+      "“Éloignez-vous de lui”",
+      "“Choisissez plusieurs dieux”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 11:22 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-084",
+    "book": "Deutéronome",
+    "chapter": 11,
+    "verseRef": "Deutéronome 11:29",
+    "verseText": "Voir Deutéronome 11:29.",
+    "question": "Où Israël devait-il prononcer la bénédiction et la malédiction ?",
+    "choices": [
+      "Sur Garizim et Ébal",
+      "Sur Nebo et Sinaï",
+      "Sur Horeb et Pisga"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 11:29 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-085",
+    "book": "Deutéronome",
+    "chapter": 12,
+    "verseRef": "Deutéronome 12:2",
+    "verseText": "Voir Deutéronome 12:2.",
+    "question": "Que devait-on faire au sujet des “lieux” où les nations servaient leurs dieux ?",
+    "choices": [
+      "Les visiter une fois par an",
+      "Les détruire complètement",
+      "Les garder pour l’histoire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 12:2 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-086",
+    "book": "Deutéronome",
+    "chapter": 12,
+    "verseRef": "Deutéronome 12:8–9",
+    "verseText": "Voir Deutéronome 12:8–9.",
+    "question": "Pourquoi Israël ne devait-il pas faire “comme nous faisons aujourd’hui… chacun ce qui lui semble bon” ?",
+    "choices": [
+      "Parce que le pays n’était pas encore en repos et en héritage",
+      "Parce que la manne cessait",
+      "Parce que Moïse l’interdisait sans raison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 12:8–9 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-087",
+    "book": "Deutéronome",
+    "chapter": 12,
+    "verseRef": "Deutéronome 12:15",
+    "verseText": "Voir Deutéronome 12:15.",
+    "question": "Qu’est-ce qui est autorisé dans les villes, selon Deutéronome 12, en dehors du lieu choisi ?",
+    "choices": [
+      "Offrir des holocaustes partout",
+      "Manger de la viande selon la bénédiction de l’Éternel",
+      "Sacrifier des idoles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 12:15 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-088",
+    "book": "Deutéronome",
+    "chapter": 12,
+    "verseRef": "Deutéronome 12:31",
+    "verseText": "Voir Deutéronome 12:31.",
+    "question": "Comment est formulée l’interdiction d’imiter le culte des nations ?",
+    "choices": [
+      "“Tu ne feras pas ainsi à l’Éternel, ton Dieu”",
+      "“Tu feras exactement comme elles”",
+      "“Tu suivras leurs prêtres”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 12:31 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-089",
+    "book": "Deutéronome",
+    "chapter": 13,
+    "verseRef": "Deutéronome 13:6–11",
+    "verseText": "Voir Deutéronome 13:6–11.",
+    "question": "Que fallait-il faire si un proche incitait secrètement à servir d’autres dieux ?",
+    "choices": [
+      "L’écouter en secret",
+      "Ne pas consentir, ne pas l’épargner, dénoncer et agir selon la loi",
+      "Quitter Israël"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 13:6–11 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-090",
+    "book": "Deutéronome",
+    "chapter": 14,
+    "verseRef": "Deutéronome 14:1–2",
+    "verseText": "Voir Deutéronome 14:1–2.",
+    "question": "Quel signe d’identité spirituelle est rappelé : Israël est “enfants de l’Éternel” ?",
+    "choices": [
+      "D’où l’interdiction des pratiques funèbres païennes",
+      "D’où l’obligation de bâtir des pyramides",
+      "D’où l’ordre de parler égyptien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 14:1–2 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-091",
+    "book": "Deutéronome",
+    "chapter": 14,
+    "verseRef": "Deutéronome 14:3",
+    "verseText": "Voir Deutéronome 14:3.",
+    "question": "Quel principe encadre les aliments : “tu ne mangeras aucune…” ?",
+    "choices": [
+      "herbe",
+      "chose abominable",
+      "viande cuite"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 14:3 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-092",
+    "book": "Deutéronome",
+    "chapter": 14,
+    "verseRef": "Deutéronome 14:5",
+    "verseText": "Voir Deutéronome 14:5.",
+    "question": "Quel animal est cité parmi ceux qu’Israël peut manger ?",
+    "choices": [
+      "Le chameau",
+      "Le cerf",
+      "Le porc"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 14:5 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-093",
+    "book": "Deutéronome",
+    "chapter": 14,
+    "verseRef": "Deutéronome 14:28–29",
+    "verseText": "Voir Deutéronome 14:28–29.",
+    "question": "Que devait faire Israël “au bout de trois ans” avec la dîme ?",
+    "choices": [
+      "La brûler",
+      "La déposer dans ses portes pour le Lévite, l’étranger, l’orphelin et la veuve",
+      "L’envoyer en Égypte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 14:28–29 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-094",
+    "book": "Deutéronome",
+    "chapter": 15,
+    "verseRef": "Deutéronome 15:7–8",
+    "verseText": "Voir Deutéronome 15:7–8.",
+    "question": "Quelle attitude est demandée envers le pauvre ?",
+    "choices": [
+      "Endurcir son cœur",
+      "Ouvrir sa main",
+      "Le chasser des portes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 15:7–8 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-095",
+    "book": "Deutéronome",
+    "chapter": 15,
+    "verseRef": "Deutéronome 15:11",
+    "verseText": "Voir Deutéronome 15:11.",
+    "question": "Deutéronome 15 insiste : même si le pauvre existe, que dois-tu faire ?",
+    "choices": [
+      "“Tu lui ouvriras ta main”",
+      "“Tu l’éviteras”",
+      "“Tu annuleras toute loi”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 15:11 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-096",
+    "book": "Deutéronome",
+    "chapter": 16,
+    "verseRef": "Deutéronome 16:11,14",
+    "verseText": "Voir Deutéronome 16:11,14.",
+    "question": "Deutéronome 16 ordonne de se réjouir aux fêtes avec :",
+    "choices": [
+      "seulement les prêtres",
+      "le fils, la fille, le serviteur, la servante, le Lévite, l’étranger, l’orphelin, la veuve",
+      "seulement les rois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 16:11,14 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-097",
+    "book": "Deutéronome",
+    "chapter": 16,
+    "verseRef": "Deutéronome 16:5–6",
+    "verseText": "Voir Deutéronome 16:5–6.",
+    "question": "Dans quel lieu la Pâque devait-elle être sacrifiée ?",
+    "choices": [
+      "Dans chaque maison",
+      "Au lieu que l’Éternel choisira pour y faire demeurer son nom",
+      "En Égypte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 16:5–6 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-098",
+    "book": "Deutéronome",
+    "chapter": 16,
+    "verseRef": "Deutéronome 16:20",
+    "verseText": "Voir Deutéronome 16:20.",
+    "question": "Quelle injonction résume la justice en Deutéronome 16 ?",
+    "choices": [
+      "“La guerre, la guerre”",
+      "“La justice, la justice tu poursuivras”",
+      "“Le silence, le silence”"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 16:20 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-099",
+    "book": "Deutéronome",
+    "chapter": 17,
+    "verseRef": "Deutéronome 17:1",
+    "verseText": "Voir Deutéronome 17:1.",
+    "question": "Quel animal est interdit comme sacrifice s’il a un défaut ?",
+    "choices": [
+      "Un animal “qui a un défaut, une difformité quelconque”",
+      "Un animal sans défaut",
+      "Un animal né le même jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 17:1 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-100",
+    "book": "Deutéronome",
+    "chapter": 17,
+    "verseRef": "Deutéronome 17:2–7",
+    "verseText": "Voir Deutéronome 17:2–7.",
+    "question": "Quelle peine est prévue pour l’idolâtrie prouvée par deux ou trois témoins ?",
+    "choices": [
+      "Exil immédiat",
+      "Mort par lapidation",
+      "Amende seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 17:2–7 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-101",
+    "book": "Deutéronome",
+    "chapter": 17,
+    "verseRef": "Deutéronome 17:8–9",
+    "verseText": "Voir Deutéronome 17:8–9.",
+    "question": "Quel principe s’applique pour une affaire “trop difficile” à juger dans les portes ?",
+    "choices": [
+      "Aller au lieu choisi, vers les sacrificateurs lévitiques et le juge",
+      "Tirer au sort",
+      "Demander aux nations voisines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 17:8–9 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-102",
+    "book": "Deutéronome",
+    "chapter": 17,
+    "verseRef": "Deutéronome 17:12–13",
+    "verseText": "Voir Deutéronome 17:12–13.",
+    "question": "Que risque celui qui n’écoute pas la décision du sacrificateur ou du juge ?",
+    "choices": [
+      "Il devient chef",
+      "Il meurt, et tu ôteras le mal d’Israël",
+      "Il paie une dîme double"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 17:12–13 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-103",
+    "book": "Deutéronome",
+    "chapter": 17,
+    "verseRef": "Deutéronome 17:17",
+    "verseText": "Voir Deutéronome 17:17.",
+    "question": "Qu’est-ce qui est interdit au roi concernant ses épouses ?",
+    "choices": [
+      "N’en avoir aucune",
+      "En multiplier, de peur que son cœur ne se détourne",
+      "En choisir seulement une étrangère"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 17:17 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-104",
+    "book": "Deutéronome",
+    "chapter": 17,
+    "verseRef": "Deutéronome 17:18–19",
+    "verseText": "Voir Deutéronome 17:18–19.",
+    "question": "Que devait faire le roi avec une copie de la loi ?",
+    "choices": [
+      "La mettre dans un musée",
+      "La lire tous les jours de sa vie",
+      "La donner aux marchands"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 17:18–19 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-105",
+    "book": "Deutéronome",
+    "chapter": 18,
+    "verseRef": "Deutéronome 18:1–2",
+    "verseText": "Voir Deutéronome 18:1–2.",
+    "question": "Que ne devait pas avoir Lévi “en partage” ?",
+    "choices": [
+      "De la sagesse",
+      "Une part et un héritage comme les autres tribus",
+      "Des vêtements"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 18:1–2 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-106",
+    "book": "Deutéronome",
+    "chapter": 18,
+    "verseRef": "Deutéronome 18:10",
+    "verseText": "Voir Deutéronome 18:10.",
+    "question": "Citer une pratique explicitement interdite en Deutéronome 18 :",
+    "choices": [
+      "Faire passer son fils ou sa fille par le feu",
+      "Labourer les champs",
+      "Pêcher dans les rivières"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 18:10 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-107",
+    "book": "Deutéronome",
+    "chapter": 18,
+    "verseRef": "Deutéronome 18:15",
+    "verseText": "Voir Deutéronome 18:15.",
+    "question": "Quel rôle Dieu promet-il de susciter “du milieu de tes frères” ?",
+    "choices": [
+      "Un roi comme Pharaon",
+      "Un prophète comme Moïse",
+      "Un prêtre comme Aaron"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 18:15 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-108",
+    "book": "Deutéronome",
+    "chapter": 18,
+    "verseRef": "Deutéronome 18:22",
+    "verseText": "Voir Deutéronome 18:22.",
+    "question": "Comment reconnaître une parole que l’Éternel n’a pas dite ?",
+    "choices": [
+      "Si elle n’a pas lieu et n’arrive pas",
+      "Si elle est longue",
+      "Si elle parle de bénédiction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 18:22 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-109",
+    "book": "Deutéronome",
+    "chapter": 19,
+    "verseRef": "Deutéronome 19:14",
+    "verseText": "Voir Deutéronome 19:14.",
+    "question": "Quel principe interdit de déplacer les limites du prochain ?",
+    "choices": [
+      "“Tu ne reculeras point les bornes de ton prochain”",
+      "“Tu avanceras les bornes”",
+      "“Tu vendras tes bornes”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 19:14 (LSG 1910)."
+  },
+  {
+    "id": "DEU-N-110",
+    "book": "Deutéronome",
+    "chapter": 19,
+    "verseRef": "Deutéronome 19:16–19",
+    "verseText": "Voir Deutéronome 19:16–19.",
+    "question": "Qu’est-il dit du faux témoin dans une affaire judiciaire ?",
+    "choices": [
+      "Il reçoit une récompense",
+      "On lui fera comme il avait dessein de faire à son frère",
+      "Il est ignoré"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Deutéronome 19:16–19 (LSG 1910)."
+  }
+]

@@ -1,0 +1,2552 @@
+[
+  {
+    "id": "jean-N-001",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:29",
+    "verseText": "Voir Jean 1:29.",
+    "question": "Quel titre Jean-Baptiste emploie-t-il en voyant Jésus venir vers lui ?",
+    "choices": [
+      "Voici l’Agneau de Dieu, qui ôte le péché du monde",
+      "Voici le prophète annoncé par Moïse",
+      "Voici le grand prêtre éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:29 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-002",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:41",
+    "verseText": "Voir Jean 1:41.",
+    "question": "Quelle parole André adresse-t-il à Simon après avoir suivi Jésus ?",
+    "choices": [
+      "Nous avons trouvé le Messie",
+      "Nous avons vu une grande lumière",
+      "Nous avons trouvé le juge d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:41 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-003",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:42",
+    "verseText": "Voir Jean 1:42.",
+    "question": "Quel nouveau nom Jésus donne-t-il à Simon ?",
+    "choices": [
+      "Céphas",
+      "Barnabas",
+      "Joses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:42 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-004",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:50",
+    "verseText": "Voir Jean 1:50.",
+    "question": "Quelle promesse Jésus fait-il à Nathanaël au sujet de ce qu’il verra ?",
+    "choices": [
+      "Tu verras de plus grandes choses que celles-ci",
+      "Tu verras Jérusalem délivrée des Romains",
+      "Tu verras le feu descendre du ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:50 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-005",
+    "book": "Jean",
+    "chapter": 2,
+    "verseRef": "Jean 2:11",
+    "verseText": "Voir Jean 2:11.",
+    "question": "Quel signe Jésus accomplit-il à Cana de Galilée ?",
+    "choices": [
+      "Il changea l’eau en vin",
+      "Il multiplia des pains",
+      "Il apaisa une tempête"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 2:11 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-006",
+    "book": "Jean",
+    "chapter": 2,
+    "verseRef": "Jean 2:19",
+    "verseText": "Voir Jean 2:19.",
+    "question": "Que dit Jésus au sujet du temple qu’il évoque en parlant de son corps ?",
+    "choices": [
+      "Détruisez ce temple, et en trois jours je le relèverai",
+      "Purifiez ce temple, et il sera consacré",
+      "Élevez ce temple, et il descendra du ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 2:19 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-007",
+    "book": "Jean",
+    "chapter": 2,
+    "verseRef": "Jean 2:24",
+    "verseText": "Voir Jean 2:24.",
+    "question": "Pourquoi Jésus ne se fiait-il pas à ceux qui croyaient en son nom à Jérusalem ?",
+    "choices": [
+      "Parce qu’il les connaissait tous",
+      "Parce qu’ils n’avaient aucun sacrifice",
+      "Parce qu’ils refusaient la loi de Moïse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 2:24 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-008",
+    "book": "Jean",
+    "chapter": 3,
+    "verseRef": "Jean 3:3",
+    "verseText": "Voir Jean 3:3.",
+    "question": "Selon Jésus, comment faut-il naître pour voir le royaume de Dieu ?",
+    "choices": [
+      "Il faut naître de nouveau",
+      "Il faut naître à Bethléhem",
+      "Il faut naître dans la maison de David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 3:3 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-009",
+    "book": "Jean",
+    "chapter": 3,
+    "verseRef": "Jean 3:14",
+    "verseText": "Voir Jean 3:14.",
+    "question": "Quel acte Moïse fit-il dans le désert que Jésus compare à son élévation ?",
+    "choices": [
+      "Il éleva le serpent",
+      "Il fit sortir de l’eau du rocher",
+      "Il sépara la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 3:14 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-010",
+    "book": "Jean",
+    "chapter": 3,
+    "verseRef": "Jean 3:30",
+    "verseText": "Voir Jean 3:30.",
+    "question": "Selon Jean-Baptiste, que faut-il que Jésus fasse tandis que lui diminue ?",
+    "choices": [
+      "Il faut qu’il croisse",
+      "Il faut qu’il s’éloigne",
+      "Il faut qu’il se cache"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 3:30 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-011",
+    "book": "Jean",
+    "chapter": 4,
+    "verseRef": "Jean 4:14",
+    "verseText": "Voir Jean 4:14.",
+    "question": "Que dit Jésus à la femme samaritaine au sujet de l’eau qu’il donne ?",
+    "choices": [
+      "Elle deviendra en lui une source d’eau qui jaillira jusque dans la vie éternelle",
+      "Elle rafraîchira seulement pour un jour",
+      "Elle servira au lavage des pieds des saints"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 4:14 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-012",
+    "book": "Jean",
+    "chapter": 4,
+    "verseRef": "Jean 4:23",
+    "verseText": "Voir Jean 4:23.",
+    "question": "Quelle déclaration Jésus fait-il au sujet de l’adoration véritable ?",
+    "choices": [
+      "Les vrais adorateurs adoreront le Père en esprit et en vérité",
+      "Les vrais adorateurs adoreront au sommet des montagnes",
+      "Les vrais adorateurs adoreront en silence uniquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 4:23 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-013",
+    "book": "Jean",
+    "chapter": 4,
+    "verseRef": "Jean 4:26",
+    "verseText": "Voir Jean 4:26.",
+    "question": "Quelle révélation Jésus fait-il explicitement à la femme samaritaine au sujet de son identité ?",
+    "choices": [
+      "Je le suis, moi qui te parle",
+      "Je suis l’ange de l’alliance",
+      "Je suis le roi d’Éphraïm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 4:26 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-014",
+    "book": "Jean",
+    "chapter": 4,
+    "verseRef": "Jean 4:46",
+    "verseText": "Voir Jean 4:46.",
+    "question": "Dans quel lieu un homme de la maison royale vient-il supplier Jésus pour son fils ?",
+    "choices": [
+      "À Cana de Galilée",
+      "À Jéricho",
+      "À Nazareth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 4:46 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-015",
+    "book": "Jean",
+    "chapter": 5,
+    "verseRef": "Jean 5:8",
+    "verseText": "Voir Jean 5:8.",
+    "question": "Quelle phrase Jésus dit-il au paralytique près de la piscine avant qu’il marche ?",
+    "choices": [
+      "Lève-toi, prends ton lit, et marche",
+      "Relève-toi, et offre un sacrifice",
+      "Va, et ne parle à personne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 5:8 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-016",
+    "book": "Jean",
+    "chapter": 5,
+    "verseRef": "Jean 5:2",
+    "verseText": "Voir Jean 5:2.",
+    "question": "Quel est le nom de la piscine près de laquelle se trouvait une multitude de malades ?",
+    "choices": [
+      "Béthesda",
+      "Siloé",
+      "Éphraïm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 5:2 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-017",
+    "book": "Jean",
+    "chapter": 5,
+    "verseRef": "Jean 5:17",
+    "verseText": "Voir Jean 5:17.",
+    "question": "Quel motif Jésus donne-t-il pour expliquer qu’il guérit et agit encore ?",
+    "choices": [
+      "Mon Père agit jusqu’à présent; moi aussi, j’agis",
+      "Le sabbat n’a pas été donné à Israël",
+      "Les anges commandent au sabbat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 5:17 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-018",
+    "book": "Jean",
+    "chapter": 5,
+    "verseRef": "Jean 5:40",
+    "verseText": "Voir Jean 5:40.",
+    "question": "Quelle accusation Jésus formule-t-il contre ceux qui refusent de venir à lui ?",
+    "choices": [
+      "Vous ne voulez pas venir à moi pour avoir la vie",
+      "Vous n’avez jamais lu Moïse",
+      "Vous n’avez aucune maison en Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 5:40 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-019",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:9",
+    "verseText": "Voir Jean 6:9.",
+    "question": "Combien de pains d’orge le jeune garçon avait-il lors de la multiplication ?",
+    "choices": [
+      "Cinq pains d’orge",
+      "Sept pains d’orge",
+      "Douze pains d’orge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:9 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-020",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:9",
+    "verseText": "Voir Jean 6:9.",
+    "question": "Combien de petits poissons étaient mentionnés avec ces pains ?",
+    "choices": [
+      "Deux",
+      "Trois",
+      "Cinq"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:9 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-021",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:13",
+    "verseText": "Voir Jean 6:13.",
+    "question": "Que ramassa-t-on comme reste après que tous eurent mangé ?",
+    "choices": [
+      "Douze paniers avec les morceaux",
+      "Sept paniers avec les morceaux",
+      "Trois corbeilles avec les morceaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:13 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-022",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:40",
+    "verseText": "Voir Jean 6:40.",
+    "question": "Quelle affirmation Jésus fait-il sur la volonté de celui qui l’a envoyé concernant la résurrection ?",
+    "choices": [
+      "Je le ressusciterai au dernier jour",
+      "Je le ressusciterai au troisième jour seulement",
+      "Je le ressusciterai quand il offrira un agneau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:40 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-023",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:49",
+    "verseText": "Voir Jean 6:49.",
+    "question": "Que dit Jésus de la manne dans le désert par contraste avec lui-même ?",
+    "choices": [
+      "Vos pères ont mangé la manne dans le désert, et ils sont morts",
+      "Vos pères ont mangé la manne, et ils n’ont jamais péché",
+      "Vos pères ont mangé la manne, et ils ont régné sur les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:49 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-024",
+    "book": "Jean",
+    "chapter": 7,
+    "verseRef": "Jean 7:37",
+    "verseText": "Voir Jean 7:37.",
+    "question": "Quelle invitation Jésus lance-t-il le dernier jour, le grand jour de la fête ?",
+    "choices": [
+      "Si quelqu’un a soif, qu’il vienne à moi, et qu’il boive",
+      "Si quelqu’un est malade, qu’il touche mon vêtement",
+      "Si quelqu’un a faim, qu’il aille à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 7:37 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-025",
+    "book": "Jean",
+    "chapter": 7,
+    "verseRef": "Jean 7:24",
+    "verseText": "Voir Jean 7:24.",
+    "question": "Quel principe Jésus énonce-t-il sur la manière de juger ?",
+    "choices": [
+      "Ne jugez pas selon l’apparence, mais jugez selon la justice",
+      "Ne jugez jamais en aucune circonstance",
+      "Jugez selon les richesses et l’honneur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 7:24 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-026",
+    "book": "Jean",
+    "chapter": 8,
+    "verseRef": "Jean 8:42",
+    "verseText": "Voir Jean 8:42.",
+    "question": "Quelle affirmation Jésus fait-il sur son origine divine aux Juifs qui contestent ?",
+    "choices": [
+      "Je suis sorti de Dieu, et je viens de lui",
+      "Je suis venu de la mer et des montagnes",
+      "Je suis venu de la sagesse des anciens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 8:42 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-027",
+    "book": "Jean",
+    "chapter": 8,
+    "verseRef": "Jean 8:32",
+    "verseText": "Voir Jean 8:32.",
+    "question": "Quelle promesse Jésus fait-il à ceux qui demeurent dans sa parole ?",
+    "choices": [
+      "Vous connaîtrez la vérité, et la vérité vous affranchira",
+      "Vous recevrez immédiatement un royaume terrestre",
+      "Vous ne connaîtrez plus aucune épreuve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 8:32 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-028",
+    "book": "Jean",
+    "chapter": 8,
+    "verseRef": "Jean 8:58",
+    "verseText": "Voir Jean 8:58.",
+    "question": "Quelle déclaration Jésus fait-il avant qu’Abraham fût ?",
+    "choices": [
+      "Avant qu’Abraham fût, je suis",
+      "Avant qu’Abraham fût, j’ai été créé",
+      "Avant qu’Abraham fût, je suis devenu prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 8:58 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-029",
+    "book": "Jean",
+    "chapter": 9,
+    "verseRef": "Jean 9:7",
+    "verseText": "Voir Jean 9:7.",
+    "question": "Quel ordre Jésus donne-t-il à l’aveugle-né concernant l’eau où se laver ?",
+    "choices": [
+      "Va te laver au réservoir de Siloé",
+      "Va te laver à la piscine de Béthesda",
+      "Va te laver au Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 9:7 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-030",
+    "book": "Jean",
+    "chapter": 9,
+    "verseRef": "Jean 9:7",
+    "verseText": "Voir Jean 9:7.",
+    "question": "Quelle explication est donnée au sujet du nom “Siloé” ?",
+    "choices": [
+      "Ce nom signifie Envoyé",
+      "Ce nom signifie Guérison",
+      "Ce nom signifie Alliance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 9:7 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-031",
+    "book": "Jean",
+    "chapter": 9,
+    "verseRef": "Jean 9:15",
+    "verseText": "Voir Jean 9:15.",
+    "question": "Que répond l’aveugle guéri quand on lui demande comment ses yeux ont été ouverts ?",
+    "choices": [
+      "Il a mis de la boue sur mes yeux, je me suis lavé, et je vois",
+      "Il a prononcé une prière, et j’ai vu",
+      "Il m’a donné du vin, et j’ai vu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 9:15 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-032",
+    "book": "Jean",
+    "chapter": 10,
+    "verseRef": "Jean 10:7",
+    "verseText": "Voir Jean 10:7.",
+    "question": "Quelle image Jésus emploie-t-il pour se présenter dans l’enseignement qui suit ?",
+    "choices": [
+      "Je suis la porte des brebis",
+      "Je suis la vigne stérile",
+      "Je suis le sel de la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 10:7 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-033",
+    "book": "Jean",
+    "chapter": 10,
+    "verseRef": "Jean 10:11",
+    "verseText": "Voir Jean 10:11.",
+    "question": "Quel titre Jésus s’attribue-t-il en parlant de sa relation avec les brebis ?",
+    "choices": [
+      "Je suis le bon berger",
+      "Je suis le grand juge",
+      "Je suis le prince de ce monde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 10:11 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-034",
+    "book": "Jean",
+    "chapter": 10,
+    "verseRef": "Jean 10:10",
+    "verseText": "Voir Jean 10:10.",
+    "question": "Que dit Jésus au sujet de l’objectif du voleur ?",
+    "choices": [
+      "Le voleur ne vient que pour dérober, égorger et détruire",
+      "Le voleur ne vient que pour instruire et bénir",
+      "Le voleur ne vient que pour avertir et consoler"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 10:10 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-035",
+    "book": "Jean",
+    "chapter": 10,
+    "verseRef": "Jean 10:30",
+    "verseText": "Voir Jean 10:30.",
+    "question": "Quelle parole Jésus dit-il sur son unité avec le Père ?",
+    "choices": [
+      "Moi et le Père nous sommes un",
+      "Moi et le Père sommes séparés pour toujours",
+      "Moi et le Père avons deux lois contraires"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 10:30 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-036",
+    "book": "Jean",
+    "chapter": 10,
+    "verseRef": "Jean 10:34",
+    "verseText": "Voir Jean 10:34.",
+    "question": "Quel verset cite Jésus au sujet des “dieux” dans l’Écriture ?",
+    "choices": [
+      "N’est-il pas écrit dans votre loi: J’ai dit: Vous êtes des dieux ?",
+      "N’est-il pas écrit: Tu es roi sur toute la terre ?",
+      "N’est-il pas écrit: Le juste ne tombe jamais ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 10:34 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-037",
+    "book": "Jean",
+    "chapter": 11,
+    "verseRef": "Jean 11:1",
+    "verseText": "Voir Jean 11:1.",
+    "question": "Dans quel village Jésus se rend-il lorsque Lazare est malade ?",
+    "choices": [
+      "Béthanie",
+      "Béthsaïda",
+      "Capernaüm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 11:1 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-038",
+    "book": "Jean",
+    "chapter": 11,
+    "verseRef": "Jean 11:5",
+    "verseText": "Voir Jean 11:5.",
+    "question": "Quel nom sont donnés aux sœurs de Lazare ?",
+    "choices": [
+      "Marthe et Marie",
+      "Anne et Élisabeth",
+      "Débora et Ruth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 11:5 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-039",
+    "book": "Jean",
+    "chapter": 11,
+    "verseRef": "Jean 11:25",
+    "verseText": "Voir Jean 11:25.",
+    "question": "Quelle affirmation Jésus fait-il à Marthe au sujet de la résurrection et de la vie ?",
+    "choices": [
+      "Je suis la résurrection et la vie",
+      "Je suis la loi et les prophètes",
+      "Je suis la sagesse et la richesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 11:25 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-040",
+    "book": "Jean",
+    "chapter": 11,
+    "verseRef": "Jean 11:39",
+    "verseText": "Voir Jean 11:39.",
+    "question": "Quel détail Jésus demande-t-il avant de faire rouler la pierre du tombeau ?",
+    "choices": [
+      "Ôtez la pierre",
+      "Allumez des flambeaux",
+      "Fermez le tombeau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 11:39 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-041",
+    "book": "Jean",
+    "chapter": 11,
+    "verseRef": "Jean 11:43",
+    "verseText": "Voir Jean 11:43.",
+    "question": "Que crie Jésus d’une voix forte au tombeau ?",
+    "choices": [
+      "Lazare, sors !",
+      "Lazare, dors !",
+      "Lazare, chante !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 11:43 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-042",
+    "book": "Jean",
+    "chapter": 12,
+    "verseRef": "Jean 12:3",
+    "verseText": "Voir Jean 12:3.",
+    "question": "Quelle mesure de parfum Marie répand-elle sur les pieds de Jésus à Béthanie ?",
+    "choices": [
+      "Une livre de parfum de nard pur, de grand prix",
+      "Une demi-livre de myrrhe",
+      "Une amphore d’huile ordinaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 12:3 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-043",
+    "book": "Jean",
+    "chapter": 12,
+    "verseRef": "Jean 12:4",
+    "verseText": "Voir Jean 12:4.",
+    "question": "Quel disciple proteste au sujet du parfum en évoquant les pauvres ?",
+    "choices": [
+      "Judas Iscariot",
+      "Thomas",
+      "Philippe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 12:4 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-044",
+    "book": "Jean",
+    "chapter": 12,
+    "verseRef": "Jean 12:24",
+    "verseText": "Voir Jean 12:24.",
+    "question": "Quel mot Jésus emploie-t-il pour annoncer l’issue du grain de blé tombé en terre ?",
+    "choices": [
+      "S’il meurt, il porte beaucoup de fruit",
+      "S’il demeure seul, il devient puissant",
+      "S’il est gardé, il devient incorruptible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 12:24 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-045",
+    "book": "Jean",
+    "chapter": 12,
+    "verseRef": "Jean 12:28",
+    "verseText": "Voir Jean 12:28.",
+    "question": "Quelle voix est entendue lorsque Jésus dit: “Père, glorifie ton nom” ?",
+    "choices": [
+      "Je l’ai glorifié, et je le glorifierai encore",
+      "Je le glorifierai seulement au dernier jour",
+      "Je ne le glorifierai pas devant les hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 12:28 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-046",
+    "book": "Jean",
+    "chapter": 13,
+    "verseRef": "Jean 13:5",
+    "verseText": "Voir Jean 13:5.",
+    "question": "Quel acte Jésus fait-il pendant le repas avant d’enseigner ses disciples ?",
+    "choices": [
+      "Il leur lava les pieds",
+      "Il leur imposa les mains",
+      "Il leur donna des couronnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 13:5 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-047",
+    "book": "Jean",
+    "chapter": 13,
+    "verseRef": "Jean 13:34",
+    "verseText": "Voir Jean 13:34.",
+    "question": "Quelle phrase Jésus prononce-t-il en donnant le commandement nouveau ?",
+    "choices": [
+      "Aimez-vous les uns les autres; comme je vous ai aimés",
+      "Craignez-vous les uns les autres; comme je vous ai jugés",
+      "Séparez-vous les uns des autres; comme je vous ai séparés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 13:34 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-048",
+    "book": "Jean",
+    "chapter": 13,
+    "verseRef": "Jean 13:35",
+    "verseText": "Voir Jean 13:35.",
+    "question": "Quel signe Jésus donne-t-il pour que tous reconnaissent ses disciples ?",
+    "choices": [
+      "À ceci tous connaîtront que vous êtes mes disciples, si vous avez de l’amour les uns pour les autres",
+      "À ceci tous connaîtront, si vous jeûnez chaque jour",
+      "À ceci tous connaîtront, si vous bâtissez un temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 13:35 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-049",
+    "book": "Jean",
+    "chapter": 14,
+    "verseRef": "Jean 14:6",
+    "verseText": "Voir Jean 14:6.",
+    "question": "Quel reproche Jésus adresse-t-il à Thomas qui dit ne pas savoir où il va ?",
+    "choices": [
+      "Je suis le chemin, la vérité, et la vie",
+      "Je suis la porte, et la clef du royaume",
+      "Je suis le feu, et la nuée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 14:6 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-050",
+    "book": "Jean",
+    "chapter": 14,
+    "verseRef": "Jean 14:26",
+    "verseText": "Voir Jean 14:26.",
+    "question": "Quelle promesse Jésus fait-il au sujet du Consolateur ?",
+    "choices": [
+      "Il vous enseignera toutes choses, et vous rappellera tout ce que je vous ai dit",
+      "Il abolira la loi de Moïse",
+      "Il donnera un trône à chacun"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 14:26 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-051",
+    "book": "Jean",
+    "chapter": 15,
+    "verseRef": "Jean 15:5",
+    "verseText": "Voir Jean 15:5.",
+    "question": "Quelle image Jésus utilise-t-il pour décrire la relation entre lui et ses disciples ?",
+    "choices": [
+      "Je suis le cep, vous êtes les sarments",
+      "Je suis la montagne, vous êtes les pierres",
+      "Je suis la mer, vous êtes les vagues"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 15:5 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-052",
+    "book": "Jean",
+    "chapter": 15,
+    "verseRef": "Jean 15:6",
+    "verseText": "Voir Jean 15:6.",
+    "question": "Quel résultat Jésus annonce-t-il si quelqu’un ne demeure pas en lui ?",
+    "choices": [
+      "Il est jeté dehors comme le sarment, et il sèche",
+      "Il devient automatiquement un chef",
+      "Il reçoit une double bénédiction matérielle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 15:6 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-053",
+    "book": "Jean",
+    "chapter": 15,
+    "verseRef": "Jean 15:20",
+    "verseText": "Voir Jean 15:20.",
+    "question": "Que dit Jésus au sujet de la haine du monde envers ses disciples ?",
+    "choices": [
+      "S’ils m’ont persécuté, ils vous persécuteront aussi",
+      "S’ils m’ont loué, ils vous loueront toujours",
+      "S’ils m’ont ignoré, ils vous couronneront"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 15:20 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-054",
+    "book": "Jean",
+    "chapter": 16,
+    "verseRef": "Jean 16:8",
+    "verseText": "Voir Jean 16:8.",
+    "question": "Que fait le Consolateur à l’égard du monde selon Jésus ?",
+    "choices": [
+      "Il convaincra le monde en ce qui concerne le péché, la justice, et le jugement",
+      "Il imposera la paix par la force",
+      "Il donnera des richesses à toutes les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 16:8 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-055",
+    "book": "Jean",
+    "chapter": 16,
+    "verseRef": "Jean 16:7",
+    "verseText": "Voir Jean 16:7.",
+    "question": "Quel motif Jésus donne-t-il pour son départ au sujet de la venue du Consolateur ?",
+    "choices": [
+      "Il vous est avantageux que je m’en aille",
+      "Il vous est indifférent que je reste",
+      "Il vous est interdit de me suivre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 16:7 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-056",
+    "book": "Jean",
+    "chapter": 16,
+    "verseRef": "Jean 16:20",
+    "verseText": "Voir Jean 16:20.",
+    "question": "Quel changement Jésus annonce-t-il concernant la tristesse des disciples ?",
+    "choices": [
+      "Votre tristesse sera changée en joie",
+      "Votre tristesse sera changée en colère",
+      "Votre tristesse restera sans fin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 16:20 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-057",
+    "book": "Jean",
+    "chapter": 17,
+    "verseRef": "Jean 17:17",
+    "verseText": "Voir Jean 17:17.",
+    "question": "Quelle demande Jésus fait-il au Père au sujet de la sanctification des siens ?",
+    "choices": [
+      "Sanctifie-les par ta vérité: ta parole est la vérité",
+      "Sanctifie-les par le temple: l’autel est la vérité",
+      "Sanctifie-les par les traditions: la coutume est la vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 17:17 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-058",
+    "book": "Jean",
+    "chapter": 17,
+    "verseRef": "Jean 17:21",
+    "verseText": "Voir Jean 17:21.",
+    "question": "Quel but Jésus exprime-t-il en priant pour l’unité de ceux qui croiront en lui ?",
+    "choices": [
+      "Afin que le monde croie que tu m’as envoyé",
+      "Afin qu’ils dominent toutes les nations",
+      "Afin qu’ils ne connaissent jamais la faiblesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 17:21 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-059",
+    "book": "Jean",
+    "chapter": 18,
+    "verseRef": "Jean 18:10",
+    "verseText": "Voir Jean 18:10.",
+    "question": "Quel nom Pierre donne-t-il en frappant le serviteur du souverain sacrificateur ?",
+    "choices": [
+      "Malchus",
+      "Nicodème",
+      "Zachée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 18:10 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-060",
+    "book": "Jean",
+    "chapter": 19,
+    "verseRef": "Jean 19:19",
+    "verseText": "Voir Jean 19:19.",
+    "question": "Quelle inscription Pilate fait-il mettre sur la croix de Jésus ?",
+    "choices": [
+      "Jésus de Nazareth, roi des Juifs",
+      "Jésus de Bethléhem, roi d’Israël",
+      "Jésus le Galiléen, chef des prêtres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 19:19 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-061",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:32",
+    "verseText": "Voir Jean 1:32.",
+    "question": "Quel signe Jean-Baptiste mentionne-t-il pour attester qu’il a reconnu celui qui baptise du Saint-Esprit ?",
+    "choices": [
+      "Il vit l’Esprit descendre du ciel comme une colombe et s’arrêter sur lui",
+      "Il vit une étoile briller au-dessus de lui pendant la nuit",
+      "Il entendit une trompette retentir du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:32 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-062",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:30",
+    "verseText": "Voir Jean 1:30.",
+    "question": "Qu’annonce Jean-Baptiste au sujet du rang de celui qui vient après lui ?",
+    "choices": [
+      "Il m’a précédé, car il était avant moi",
+      "Il m’a suivi, car il est né après moi",
+      "Il m’a égalé, car il a reçu le même baptême"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:30 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-063",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:46",
+    "verseText": "Voir Jean 1:46.",
+    "question": "Quelle remarque Nathanaël fait-il en entendant d’où vient Jésus ?",
+    "choices": [
+      "Peut-il venir de Nazareth quelque chose de bon ?",
+      "Peut-il venir de Bethléhem quelque chose de bon ?",
+      "Peut-il venir de Jéricho quelque chose de bon ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:46 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-064",
+    "book": "Jean",
+    "chapter": 2,
+    "verseRef": "Jean 2:4",
+    "verseText": "Voir Jean 2:4.",
+    "question": "Que répond Jésus quand on lui parle du vin qui manque aux noces ?",
+    "choices": [
+      "Femme, qu’y a-t-il entre moi et toi ? Mon heure n’est pas encore venue",
+      "Femme, apporte-moi la coupe, car mon heure est venue",
+      "Femme, ordonne aux serviteurs de partir, car tout est fini"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 2:4 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-065",
+    "book": "Jean",
+    "chapter": 2,
+    "verseRef": "Jean 2:5",
+    "verseText": "Voir Jean 2:5.",
+    "question": "Quel ordre la mère de Jésus donne-t-elle aux serviteurs ?",
+    "choices": [
+      "Faites ce qu’il vous dira",
+      "Donnez-leur du pain",
+      "Fermez la porte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 2:5 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-066",
+    "book": "Jean",
+    "chapter": 2,
+    "verseRef": "Jean 2:12",
+    "verseText": "Voir Jean 2:12.",
+    "question": "Après le signe de Cana, où Jésus descend-il avec sa mère, ses frères et ses disciples, sans y demeurer longtemps ?",
+    "choices": [
+      "À Capernaüm",
+      "À Bethsaïda",
+      "À Chorazin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 2:12 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-067",
+    "book": "Jean",
+    "chapter": 4,
+    "verseRef": "Jean 4:44",
+    "verseText": "Voir Jean 4:44.",
+    "question": "Que dit Jésus sur la parole d’un prophète en rapport avec sa patrie ?",
+    "choices": [
+      "Un prophète n’est pas honoré dans sa propre patrie",
+      "Un prophète est toujours honoré dans sa propre patrie",
+      "Un prophète n’enseigne jamais dans sa propre patrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 4:44 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-068",
+    "book": "Jean",
+    "chapter": 4,
+    "verseRef": "Jean 4:48",
+    "verseText": "Voir Jean 4:48.",
+    "question": "Quel reproche Jésus fait-il à propos de la foi fondée sur les signes ?",
+    "choices": [
+      "Si vous ne voyez des miracles et des prodiges, vous ne croyez point",
+      "Si vous ne voyez des sacrifices, vous ne priez point",
+      "Si vous ne voyez des visions, vous ne jeûnez point"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 4:48 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-069",
+    "book": "Jean",
+    "chapter": 5,
+    "verseRef": "Jean 5:5",
+    "verseText": "Voir Jean 5:5.",
+    "question": "Quelle durée de maladie est mentionnée pour l’homme guéri près de la piscine ?",
+    "choices": [
+      "Trente-huit ans",
+      "Douze ans",
+      "Sept ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 5:5 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-070",
+    "book": "Jean",
+    "chapter": 5,
+    "verseRef": "Jean 5:14",
+    "verseText": "Voir Jean 5:14.",
+    "question": "Quel avertissement Jésus donne-t-il à l’homme guéri après l’avoir retrouvé dans le temple ?",
+    "choices": [
+      "Ne pèche plus, de peur qu’il ne t’arrive quelque chose de pire",
+      "Ne parle plus, de peur qu’on ne te chasse",
+      "Ne marche plus, de peur qu’on ne te voie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 5:14 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-071",
+    "book": "Jean",
+    "chapter": 5,
+    "verseRef": "Jean 5:36",
+    "verseText": "Voir Jean 5:36.",
+    "question": "Quel témoignage Jésus mentionne-t-il comme n’étant pas celui d’un homme ?",
+    "choices": [
+      "Celui des œuvres que le Père lui a données d’accomplir",
+      "Celui des marchands du temple",
+      "Celui des soldats romains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 5:36 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-072",
+    "book": "Jean",
+    "chapter": 5,
+    "verseRef": "Jean 5:39-40",
+    "verseText": "Voir Jean 5:39-40.",
+    "question": "Quel reproche Jésus adresse-t-il à ceux qui se disent attachés à Moïse ?",
+    "choices": [
+      "Vous sondez les Écritures… et vous ne voulez pas venir à moi pour avoir la vie",
+      "Vous sondez les Écritures… et vous avez déjà la vie par vous-mêmes",
+      "Vous sondez les Écritures… et vous n’avez plus besoin de Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 5:39-40 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-073",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:1",
+    "verseText": "Voir Jean 6:1.",
+    "question": "Quel détail est précisé sur l’endroit où Jésus se rend après ces choses, de l’autre côté de la mer ?",
+    "choices": [
+      "La mer de Galilée, ou mer de Tibériade",
+      "La mer de Joppé, ou mer d’Asdod",
+      "La mer de Césarée, ou mer d’Antioche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:1 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-074",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:5",
+    "verseText": "Voir Jean 6:5.",
+    "question": "Quel disciple Jésus interroge-t-il d’abord sur l’achat de pains pour nourrir la foule ?",
+    "choices": [
+      "Philippe",
+      "Jacques",
+      "Barthélemy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:5 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-075",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:6",
+    "verseText": "Voir Jean 6:6.",
+    "question": "Quel motif est donné pour expliquer pourquoi Jésus pose cette question à Philippe ?",
+    "choices": [
+      "Il savait ce qu’il allait faire",
+      "Il ne savait pas ce qu’il allait faire",
+      "Il voulait renvoyer la foule immédiatement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:6 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-076",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:15",
+    "verseText": "Voir Jean 6:15.",
+    "question": "Après la multiplication, que veulent faire les gens à Jésus ?",
+    "choices": [
+      "L’enlever pour le faire roi",
+      "Le livrer aux sacrificateurs",
+      "Le conduire à César"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:15 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-077",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:20",
+    "verseText": "Voir Jean 6:20.",
+    "question": "Quelle parole Jésus prononce-t-il pour rassurer ses disciples sur la mer ?",
+    "choices": [
+      "C’est moi; n’ayez pas peur",
+      "C’est un esprit; fuyez",
+      "C’est l’ange du Seigneur; cachez-vous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:20 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-078",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:26",
+    "verseText": "Voir Jean 6:26.",
+    "question": "Quel reproche Jésus fait-il à la foule qui le cherche après le signe des pains ?",
+    "choices": [
+      "Vous me cherchez… parce que vous avez mangé des pains et que vous avez été rassasiés",
+      "Vous me cherchez… parce que vous avez jeûné longtemps",
+      "Vous me cherchez… parce que vous avez offert des sacrifices"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:26 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-079",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:29",
+    "verseText": "Voir Jean 6:29.",
+    "question": "Quelle œuvre de Dieu Jésus définit-il quand on lui demande ce qu’il faut faire ?",
+    "choices": [
+      "Que vous croyiez en celui qu’il a envoyé",
+      "Que vous bâtissiez un autel sur la montagne",
+      "Que vous donniez la dîme à tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:29 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-080",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:68",
+    "verseText": "Voir Jean 6:68.",
+    "question": "Que répond Pierre lorsque Jésus demande si les douze veulent aussi s’en aller ?",
+    "choices": [
+      "Seigneur, à qui irions-nous ? Tu as les paroles de la vie éternelle",
+      "Seigneur, nous irons en Judée, car tu nous as quittés",
+      "Seigneur, nous irons à la mer, car la foule est trop grande"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:68 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-081",
+    "book": "Jean",
+    "chapter": 7,
+    "verseRef": "Jean 7:4",
+    "verseText": "Voir Jean 7:4.",
+    "question": "Quelle intention des frères de Jésus est rapportée lorsqu’ils lui parlent de monter à la fête ?",
+    "choices": [
+      "Montre-toi toi-même au monde",
+      "Cache-toi loin des hommes",
+      "Retourne en Galilée et ne parle plus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 7:4 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-082",
+    "book": "Jean",
+    "chapter": 7,
+    "verseRef": "Jean 7:5",
+    "verseText": "Voir Jean 7:5.",
+    "question": "Quelle raison est donnée pour expliquer pourquoi même ses frères ne croyaient pas en lui ?",
+    "choices": [
+      "Car ses frères non plus ne croyaient pas en lui",
+      "Car ses frères le craignaient à cause des Romains",
+      "Car ses frères étaient absents depuis longtemps"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 7:5 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-083",
+    "book": "Jean",
+    "chapter": 7,
+    "verseRef": "Jean 7:7",
+    "verseText": "Voir Jean 7:7.",
+    "question": "Quel motif Jésus donne-t-il pour expliquer pourquoi le monde le hait ?",
+    "choices": [
+      "Parce que je rends de lui le témoignage que ses œuvres sont mauvaises",
+      "Parce que je lui promets des richesses",
+      "Parce que je refuse de parler aux nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 7:7 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-084",
+    "book": "Jean",
+    "chapter": 7,
+    "verseRef": "Jean 7:15",
+    "verseText": "Voir Jean 7:15.",
+    "question": "Quelle question certains se posent-ils à propos de la manière dont Jésus a appris ?",
+    "choices": [
+      "Comment connaît-il les Écritures, lui qui n’a point étudié ?",
+      "Comment connaît-il les langues, lui qui n’a point voyagé ?",
+      "Comment connaît-il la mer, lui qui n’a point pêché ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 7:15 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-085",
+    "book": "Jean",
+    "chapter": 7,
+    "verseRef": "Jean 7:17",
+    "verseText": "Voir Jean 7:17.",
+    "question": "Quel principe Jésus énonce-t-il sur la volonté de faire la volonté de Dieu et la connaissance de son enseignement ?",
+    "choices": [
+      "Si quelqu’un veut faire sa volonté, il connaîtra si ma doctrine est de Dieu",
+      "Si quelqu’un veut être honoré, il connaîtra si ma doctrine est de Dieu",
+      "Si quelqu’un veut se taire, il connaîtra si ma doctrine est de Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 7:17 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-086",
+    "book": "Jean",
+    "chapter": 7,
+    "verseRef": "Jean 7:46",
+    "verseText": "Voir Jean 7:46.",
+    "question": "Quelle réaction des huissiers est rapportée quand ils reviennent sans avoir saisi Jésus ?",
+    "choices": [
+      "Jamais homme n’a parlé comme cet homme",
+      "Jamais homme n’a fait comme Moïse",
+      "Jamais homme n’a prié comme Élie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 7:46 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-087",
+    "book": "Jean",
+    "chapter": 7,
+    "verseRef": "Jean 7:51",
+    "verseText": "Voir Jean 7:51.",
+    "question": "Quelle remarque Nicodème fait-il au sujet de la loi lorsqu’on discute de Jésus ?",
+    "choices": [
+      "Notre loi condamne-t-elle un homme avant qu’on l’ait entendu ?",
+      "Notre loi condamne-t-elle un homme après qu’on l’ait suivi ?",
+      "Notre loi condamne-t-elle un homme sans témoin au temple ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 7:51 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-088",
+    "book": "Jean",
+    "chapter": 8,
+    "verseRef": "Jean 8:12",
+    "verseText": "Voir Jean 8:12.",
+    "question": "Quelle parole Jésus prononce-t-il au sujet de lui-même comme lumière ?",
+    "choices": [
+      "Je suis la lumière du monde",
+      "Je suis le pain du désert",
+      "Je suis la mer agitée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 8:12 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-089",
+    "book": "Jean",
+    "chapter": 8,
+    "verseRef": "Jean 8:7",
+    "verseText": "Voir Jean 8:7.",
+    "question": "Quel défi Jésus lance-t-il à ses accusateurs concernant le péché ?",
+    "choices": [
+      "Que celui de vous qui est sans péché jette le premier la pierre contre elle",
+      "Que celui de vous qui est le plus âgé jette la pierre",
+      "Que celui de vous qui a le plus d’argent jette la pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 8:7 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-090",
+    "book": "Jean",
+    "chapter": 8,
+    "verseRef": "Jean 8:11",
+    "verseText": "Voir Jean 8:11.",
+    "question": "Quelle parole Jésus dit-il à la femme après le départ des accusateurs ?",
+    "choices": [
+      "Je ne te condamne pas non plus; va, et ne pèche plus",
+      "Je te condamne; va, et pleure",
+      "Je te condamne; va, et offre un sacrifice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 8:11 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-091",
+    "book": "Jean",
+    "chapter": 10,
+    "verseRef": "Jean 10:11",
+    "verseText": "Voir Jean 10:11.",
+    "question": "Quelle description Jésus donne-t-il du bon berger en contraste avec le mercenaire ?",
+    "choices": [
+      "Le bon berger donne sa vie pour ses brebis",
+      "Le bon berger fuit quand il voit le loup",
+      "Le bon berger ne connaît pas ses brebis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 10:11 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-092",
+    "book": "Jean",
+    "chapter": 10,
+    "verseRef": "Jean 10:19",
+    "verseText": "Voir Jean 10:19.",
+    "question": "Quel effet les paroles de Jésus produisent-elles parmi ceux qui l’écoutent au sujet du bon berger ?",
+    "choices": [
+      "Il y eut de nouveau division parmi les Juifs",
+      "Ils furent tous unanimes à le couronner",
+      "Ils cessèrent tous de parler à jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 10:19 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-093",
+    "book": "Jean",
+    "chapter": 11,
+    "verseRef": "Jean 11:5",
+    "verseText": "Voir Jean 11:5.",
+    "question": "Quel motif est donné pour expliquer pourquoi Jésus aimait Marthe, sa sœur et Lazare ?",
+    "choices": [
+      "Jésus aimait Marthe, et sa sœur, et Lazare",
+      "Jésus les aimait parce qu’ils étaient riches",
+      "Jésus les aimait parce qu’ils étaient prêtres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 11:5 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-094",
+    "book": "Jean",
+    "chapter": 11,
+    "verseRef": "Jean 11:8",
+    "verseText": "Voir Jean 11:8.",
+    "question": "Quel risque les disciples rappellent-ils quand Jésus propose de retourner en Judée ?",
+    "choices": [
+      "Les Juifs cherchaient tout récemment à te lapider",
+      "Les Juifs cherchaient à t’acheter un tribunal",
+      "Les Juifs cherchaient à te donner une couronne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 11:8 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-095",
+    "book": "Jean",
+    "chapter": 11,
+    "verseRef": "Jean 11:9",
+    "verseText": "Voir Jean 11:9.",
+    "question": "Quelle image Jésus utilise-t-il pour encourager à marcher sans trébucher ?",
+    "choices": [
+      "Celui qui marche pendant le jour ne bronche point, parce qu’il voit la lumière de ce monde",
+      "Celui qui marche pendant le jour ne bronche point, parce qu’il ne voit rien",
+      "Celui qui marche pendant le jour ne bronche point, parce qu’il ne parle jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 11:9 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-096",
+    "book": "Jean",
+    "chapter": 11,
+    "verseRef": "Jean 11:39",
+    "verseText": "Voir Jean 11:39.",
+    "question": "Quel détail Marthe mentionne-t-elle avant que la pierre soit ôtée ?",
+    "choices": [
+      "Il sent déjà, car il y a quatre jours qu’il est là",
+      "Il est encore vivant, car il dort",
+      "Il est déjà sorti, car il a crié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 11:39 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-097",
+    "book": "Jean",
+    "chapter": 11,
+    "verseRef": "Jean 11:45",
+    "verseText": "Voir Jean 11:45.",
+    "question": "Quel résultat est mentionné après le miracle de Lazare parmi ceux qui étaient venus vers Marie ?",
+    "choices": [
+      "Beaucoup des Juifs… crurent en Jésus",
+      "Tous les Juifs… partirent en Galilée",
+      "Aucun des Juifs… ne parla plus jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 11:45 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-098",
+    "book": "Jean",
+    "chapter": 11,
+    "verseRef": "Jean 11:54",
+    "verseText": "Voir Jean 11:54.",
+    "question": "Dans quel lieu Jésus se retire-t-il avec ses disciples avant la Pâque, loin de la foule ?",
+    "choices": [
+      "Dans une ville appelée Éphraïm",
+      "Dans une ville appelée Béthanie",
+      "Dans une ville appelée Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 11:54 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-099",
+    "book": "Jean",
+    "chapter": 12,
+    "verseRef": "Jean 12:9",
+    "verseText": "Voir Jean 12:9.",
+    "question": "Quelle foule vient à Béthanie, non seulement à cause de Jésus, mais aussi à cause de Lazare ?",
+    "choices": [
+      "Une grande multitude de Juifs",
+      "Une troupe de soldats romains",
+      "Une caravane de marchands grecs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 12:9 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-100",
+    "book": "Jean",
+    "chapter": 12,
+    "verseRef": "Jean 12:11",
+    "verseText": "Voir Jean 12:11.",
+    "question": "Quel motif est donné pour expliquer pourquoi les principaux sacrificateurs veulent aussi faire mourir Lazare ?",
+    "choices": [
+      "Parce que beaucoup de Juifs se retiraient d’eux et croyaient en Jésus à cause de Lazare",
+      "Parce que Lazare volait la bourse",
+      "Parce que Lazare s’opposait au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 12:11 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-101",
+    "book": "Jean",
+    "chapter": 12,
+    "verseRef": "Jean 12:13",
+    "verseText": "Voir Jean 12:13.",
+    "question": "Quel cri de la foule est rapporté lors de l’entrée de Jésus ?",
+    "choices": [
+      "Hosanna ! Béni soit celui qui vient au nom du Seigneur, le roi d’Israël !",
+      "Gloire à César ! Béni soit Pilate !",
+      "Paix à Rome ! Béni soit Hérode !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 12:13 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-102",
+    "book": "Jean",
+    "chapter": 12,
+    "verseRef": "Jean 12:14",
+    "verseText": "Voir Jean 12:14.",
+    "question": "Quel animal Jésus trouve-t-il avant d’entrer ?",
+    "choices": [
+      "Un ânon",
+      "Un cheval blanc",
+      "Un chameau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 12:14 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-103",
+    "book": "Jean",
+    "chapter": 12,
+    "verseRef": "Jean 12:19",
+    "verseText": "Voir Jean 12:19.",
+    "question": "Quel choix les pharisiens constatent-ils avec inquiétude devant l’ampleur du mouvement ?",
+    "choices": [
+      "Voilà, le monde est allé après lui",
+      "Voilà, le temple est tombé",
+      "Voilà, les Romains sont partis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 12:19 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-104",
+    "book": "Jean",
+    "chapter": 12,
+    "verseRef": "Jean 12:20",
+    "verseText": "Voir Jean 12:20.",
+    "question": "Quel groupe vient trouver Philippe avec une demande précise ?",
+    "choices": [
+      "Des Grecs",
+      "Des Égyptiens",
+      "Des Romains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 12:20 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-105",
+    "book": "Jean",
+    "chapter": 12,
+    "verseRef": "Jean 12:21",
+    "verseText": "Voir Jean 12:21.",
+    "question": "Quelle demande ces Grecs expriment-ils ?",
+    "choices": [
+      "Seigneur, nous voudrions voir Jésus",
+      "Seigneur, nous voudrions voir le temple",
+      "Seigneur, nous voudrions voir Jean-Baptiste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 12:21 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-106",
+    "book": "Jean",
+    "chapter": 12,
+    "verseRef": "Jean 12:49",
+    "verseText": "Voir Jean 12:49.",
+    "question": "Quel commandement le Père donne-t-il concernant la voix et la parole de Jésus, selon ce que Jésus déclare ?",
+    "choices": [
+      "Ce que je dois dire et annoncer",
+      "Ce que je dois cacher et oublier",
+      "Ce que je dois vendre et acheter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 12:49 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-107",
+    "book": "Jean",
+    "chapter": 12,
+    "verseRef": "Jean 12:26",
+    "verseText": "Voir Jean 12:26.",
+    "question": "Quel service Jésus annonce-t-il comme conséquence du fait de le suivre ?",
+    "choices": [
+      "Là où je suis, là aussi sera mon serviteur",
+      "Là où je suis, là aussi sera mon juge",
+      "Là où je suis, là aussi sera mon ennemi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 12:26 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-108",
+    "book": "Jean",
+    "chapter": 13,
+    "verseRef": "Jean 13:4",
+    "verseText": "Voir Jean 13:4.",
+    "question": "Quel geste Jésus fait-il avant de laver les pieds des disciples ?",
+    "choices": [
+      "Il ôta ses vêtements, et prit un linge, dont il se ceignit",
+      "Il mit une couronne d’or et prit un sceptre",
+      "Il prit un encensoir et alluma des lampes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 13:4 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-109",
+    "book": "Jean",
+    "chapter": 13,
+    "verseRef": "Jean 13:6",
+    "verseText": "Voir Jean 13:6.",
+    "question": "Quelle objection Pierre formule-t-il d’abord quand Jésus vient à lui ?",
+    "choices": [
+      "Toi, Seigneur, tu me laves les pieds !",
+      "Toi, Seigneur, tu me donnes le trône !",
+      "Toi, Seigneur, tu me condamnes !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 13:6 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-110",
+    "book": "Jean",
+    "chapter": 13,
+    "verseRef": "Jean 13:8",
+    "verseText": "Voir Jean 13:8.",
+    "question": "Quelle conséquence Jésus annonce-t-il si Pierre refuse que Jésus le lave ?",
+    "choices": [
+      "Si je ne te lave, tu n’auras point de part avec moi",
+      "Si je ne te lave, tu seras chassé du temple",
+      "Si je ne te lave, tu perdras tes biens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 13:8 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-111",
+    "book": "Jean",
+    "chapter": 13,
+    "verseRef": "Jean 13:9",
+    "verseText": "Voir Jean 13:9.",
+    "question": "Quelle demande Pierre fait-il ensuite, après la parole de Jésus ?",
+    "choices": [
+      "Non seulement les pieds, mais encore les mains et la tête",
+      "Non seulement les mains, mais encore les vêtements",
+      "Non seulement la tête, mais encore la barbe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 13:9 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-112",
+    "book": "Jean",
+    "chapter": 13,
+    "verseRef": "Jean 13:10",
+    "verseText": "Voir Jean 13:10.",
+    "question": "Quel terme Jésus emploie-t-il pour qualifier celui qui est “entièrement lavé” ?",
+    "choices": [
+      "Il est tout entier pur",
+      "Il est tout entier saint par lui-même",
+      "Il est tout entier inébranlable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 13:10 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-113",
+    "book": "Jean",
+    "chapter": 13,
+    "verseRef": "Jean 13:12",
+    "verseText": "Voir Jean 13:12.",
+    "question": "Quel geste Jésus fait-il après avoir lavé les pieds des disciples ?",
+    "choices": [
+      "Il reprit ses vêtements, se remit à table, et leur dit",
+      "Il sortit du lieu et ne revint plus",
+      "Il monta au temple pour offrir un sacrifice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 13:12 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-114",
+    "book": "Jean",
+    "chapter": 14,
+    "verseRef": "Jean 14:2",
+    "verseText": "Voir Jean 14:2.",
+    "question": "Quelle promesse Jésus fait-il au sujet des demeures dans la maison du Père ?",
+    "choices": [
+      "Il y a plusieurs demeures; je vais vous préparer une place",
+      "Il y a une seule demeure; je vais la fermer",
+      "Il n’y a aucune demeure; je vais vous abandonner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 14:2 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-115",
+    "book": "Jean",
+    "chapter": 14,
+    "verseRef": "Jean 14:23",
+    "verseText": "Voir Jean 14:23.",
+    "question": "Que dit Jésus au sujet de celui qui l’aime et garde sa parole ?",
+    "choices": [
+      "Mon Père l’aimera, nous viendrons à lui, et nous ferons notre demeure chez lui",
+      "Mon Père le rejettera, et nous nous éloignerons",
+      "Mon Père l’oubliera, et nous ne lui parlerons plus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 14:23 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-116",
+    "book": "Jean",
+    "chapter": 15,
+    "verseRef": "Jean 15:1",
+    "verseText": "Voir Jean 15:1.",
+    "question": "Quelle comparaison Jésus fait-il pour expliquer le rapport entre lui, le Père et les sarments ?",
+    "choices": [
+      "Mon Père est le vigneron",
+      "Mon Père est le moissonneur",
+      "Mon Père est le pêcheur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 15:1 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-117",
+    "book": "Jean",
+    "chapter": 15,
+    "verseRef": "Jean 15:11",
+    "verseText": "Voir Jean 15:11.",
+    "question": "Quel but Jésus donne-t-il pour la parole qu’il a dite aux disciples ?",
+    "choices": [
+      "Afin que ma joie soit en vous, et que votre joie soit parfaite",
+      "Afin que votre peur soit en vous, et qu’elle soit parfaite",
+      "Afin que votre silence soit en vous, et qu’il soit parfait"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 15:11 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-118",
+    "book": "Jean",
+    "chapter": 16,
+    "verseRef": "Jean 16:20",
+    "verseText": "Voir Jean 16:20.",
+    "question": "Quelle raison Jésus donne-t-il quand il annonce que les disciples pleureront tandis que le monde se réjouira ?",
+    "choices": [
+      "Vous serez dans la tristesse, mais votre tristesse sera changée en joie",
+      "Vous serez dans la tristesse, et elle demeurera toujours",
+      "Vous serez dans la tristesse, et vous ne parlerez jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 16:20 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-119",
+    "book": "Jean",
+    "chapter": 17,
+    "verseRef": "Jean 17:11",
+    "verseText": "Voir Jean 17:11.",
+    "question": "Quelle phrase Jésus emploie-t-il pour demander au Père de garder les siens ?",
+    "choices": [
+      "Garde-les en ton nom",
+      "Garde-les dans le temple",
+      "Garde-les dans la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 17:11 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-120",
+    "book": "Jean",
+    "chapter": 20,
+    "verseRef": "Jean 20:7",
+    "verseText": "Voir Jean 20:7.",
+    "question": "Quel objet est mentionné lorsque Pierre et l’autre disciple entrent et constatent l’état du tombeau ?",
+    "choices": [
+      "Le linge qu’on avait mis sur la tête de Jésus, plié à part",
+      "Une couronne d’épines posée sur la pierre",
+      "Une lance romaine déposée à l’entrée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 20:7 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-121",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:6",
+    "verseText": "Voir Jean 1:6.",
+    "question": "Quel nom est donné à celui que Dieu envoya pour rendre témoignage de la lumière ?",
+    "choices": [
+      "Jean",
+      "Élie",
+      "Zacharie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-122",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:20",
+    "verseText": "Voir Jean 1:20.",
+    "question": "Que déclare Jean-Baptiste au sujet de lui-même quand on lui demande s’il est le Christ ?",
+    "choices": [
+      "Je ne le suis point",
+      "Je le suis",
+      "Je le serai bientôt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:20 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-123",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:21",
+    "verseText": "Voir Jean 1:21.",
+    "question": "Quel titre des chefs religieux Jean-Baptiste refuse-t-il aussi, en plus du Christ ?",
+    "choices": [
+      "Élie",
+      "David",
+      "Salomon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:21 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-124",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:21",
+    "verseText": "Voir Jean 1:21.",
+    "question": "Quel autre titre Jean-Baptiste refuse-t-il quand on l’interroge ?",
+    "choices": [
+      "Le prophète",
+      "Le juge",
+      "Le prince"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:21 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-125",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:26",
+    "verseText": "Voir Jean 1:26.",
+    "question": "Quelle parole Jean-Baptiste dit-il sur son baptême, en contraste avec celui qui vient ?",
+    "choices": [
+      "Moi, je baptise d’eau",
+      "Moi, je baptise de feu",
+      "Moi, je baptise d’huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:26 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-126",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:28",
+    "verseText": "Voir Jean 1:28.",
+    "question": "Quel détail est précisé au sujet du lieu où Jean baptisait lors de ce témoignage ?",
+    "choices": [
+      "Béthanie, au delà du Jourdain",
+      "Jéricho, au delà du Jourdain",
+      "Césarée, au delà du Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:28 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-127",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:35-37",
+    "verseText": "Voir Jean 1:35-37.",
+    "question": "Combien de disciples Jean-Baptiste a-t-il avec lui quand il dit: “Voilà l’Agneau de Dieu” et qu’ils suivent Jésus ?",
+    "choices": [
+      "Deux",
+      "Trois",
+      "Cinq"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:35-37 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-128",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:39",
+    "verseText": "Voir Jean 1:39.",
+    "question": "Quelle heure environ est mentionnée quand les disciples viennent voir où Jésus demeurait ?",
+    "choices": [
+      "La dixième heure",
+      "La sixième heure",
+      "La troisième heure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:39 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-129",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:40",
+    "verseText": "Voir Jean 1:40.",
+    "question": "Quel lien de parenté est précisé entre André et Simon Pierre ?",
+    "choices": [
+      "André était le frère de Simon Pierre",
+      "André était le fils de Simon Pierre",
+      "André était l’oncle de Simon Pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:40 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-130",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:45",
+    "verseText": "Voir Jean 1:45.",
+    "question": "Quel nom Philippe trouve-t-il d’abord lorsqu’il suit Jésus ?",
+    "choices": [
+      "Nathanaël",
+      "Matthieu",
+      "Judas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:45 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-131",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:45",
+    "verseText": "Voir Jean 1:45.",
+    "question": "Comment Philippe désigne-t-il Jésus en l’annonçant à Nathanaël ?",
+    "choices": [
+      "Celui de qui Moïse a écrit dans la loi, et dont les prophètes ont parlé",
+      "Celui qui a renversé César",
+      "Celui qui a donné la manne au désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:45 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-132",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:47",
+    "verseText": "Voir Jean 1:47.",
+    "question": "Quel titre Jésus attribue-t-il à Nathanaël en parlant de son caractère ?",
+    "choices": [
+      "Un véritable Israélite, en qui il n’y a point de fraude",
+      "Un sage parmi les nations",
+      "Un chef du temple, en qui il n’y a point d’erreur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:47 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-133",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:48",
+    "verseText": "Voir Jean 1:48.",
+    "question": "Que dit Jésus avoir vu au sujet de Nathanaël avant que Philippe l’appelle ?",
+    "choices": [
+      "Je t’ai vu sous le figuier",
+      "Je t’ai vu au bord de la mer",
+      "Je t’ai vu dans le temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:48 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-134",
+    "book": "Jean",
+    "chapter": 1,
+    "verseRef": "Jean 1:49",
+    "verseText": "Voir Jean 1:49.",
+    "question": "Quelle confession Nathanaël prononce-t-il après cette parole de Jésus ?",
+    "choices": [
+      "Rabbi, tu es le Fils de Dieu, tu es le roi d’Israël",
+      "Rabbi, tu es un prophète parmi d’autres",
+      "Rabbi, tu es le souverain sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:49 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-135",
+    "book": "Jean",
+    "chapter": 2,
+    "verseRef": "Jean 2:3",
+    "verseText": "Voir Jean 2:3.",
+    "question": "Quel détail est donné sur le nombre de convives par rapport au vin manquant aux noces ?",
+    "choices": [
+      "Il manqua du vin",
+      "Il manqua du pain",
+      "Il manqua du sel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 2:3 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-136",
+    "book": "Jean",
+    "chapter": 2,
+    "verseRef": "Jean 2:7",
+    "verseText": "Voir Jean 2:7.",
+    "question": "Quelle consigne Jésus donne-t-il aux serviteurs concernant les vases ?",
+    "choices": [
+      "Remplissez d’eau ces vases",
+      "Remplissez de vin ces vases",
+      "Remplissez d’huile ces vases"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 2:7 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-137",
+    "book": "Jean",
+    "chapter": 2,
+    "verseRef": "Jean 2:7",
+    "verseText": "Voir Jean 2:7.",
+    "question": "Jusqu’à quel niveau les serviteurs remplissent-ils les vases ?",
+    "choices": [
+      "Jusqu’au bord",
+      "À moitié",
+      "Au tiers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 2:7 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-138",
+    "book": "Jean",
+    "chapter": 2,
+    "verseRef": "Jean 2:8",
+    "verseText": "Voir Jean 2:8.",
+    "question": "Que demande Jésus ensuite aux serviteurs après avoir rempli les vases ?",
+    "choices": [
+      "Puisez maintenant, et portez-en au maître du repas",
+      "Versez maintenant, et jetez-en au sol",
+      "Couvrez maintenant, et cachez-les"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 2:8 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-139",
+    "book": "Jean",
+    "chapter": 2,
+    "verseRef": "Jean 2:9",
+    "verseText": "Voir Jean 2:9.",
+    "question": "Quel détail est précisé sur la connaissance de l’origine du vin par le maître du repas ?",
+    "choices": [
+      "Il ne savait d’où venait ce vin",
+      "Il savait d’où venait ce vin",
+      "Il supposa qu’il venait du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 2:9 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-140",
+    "book": "Jean",
+    "chapter": 2,
+    "verseRef": "Jean 2:11",
+    "verseText": "Voir Jean 2:11.",
+    "question": "Quelle réaction des disciples est mentionnée après ce commencement des miracles ?",
+    "choices": [
+      "Ses disciples crurent en lui",
+      "Ses disciples doutèrent de lui",
+      "Ses disciples le quittèrent tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 2:11 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-141",
+    "book": "Jean",
+    "chapter": 3,
+    "verseRef": "Jean 3:23",
+    "verseText": "Voir Jean 3:23.",
+    "question": "Dans quel lieu Jean baptisait-il, parce qu’il y avait là beaucoup d’eau ?",
+    "choices": [
+      "À Énon, près de Salim",
+      "À Siloé, près de Jérusalem",
+      "À Béthesda, près de la porte des brebis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 3:23 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-142",
+    "book": "Jean",
+    "chapter": 3,
+    "verseRef": "Jean 3:25",
+    "verseText": "Voir Jean 3:25.",
+    "question": "Quel sujet de discussion s’éleva entre les disciples de Jean et un Juif ?",
+    "choices": [
+      "Au sujet de la purification",
+      "Au sujet du sabbat",
+      "Au sujet des dîmes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 3:25 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-143",
+    "book": "Jean",
+    "chapter": 3,
+    "verseRef": "Jean 3:29",
+    "verseText": "Voir Jean 3:29.",
+    "question": "Quelle comparaison Jean-Baptiste emploie-t-il pour parler de sa relation à celui qui vient ?",
+    "choices": [
+      "L’ami de l’époux",
+      "Le serviteur du temple",
+      "Le gardien de la porte de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 3:29 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-144",
+    "book": "Jean",
+    "chapter": 4,
+    "verseRef": "Jean 4:28",
+    "verseText": "Voir Jean 4:28.",
+    "question": "Quel objet la femme samaritaine laisse-t-elle lorsqu’elle s’en va vers la ville ?",
+    "choices": [
+      "Sa cruche",
+      "Son manteau",
+      "Son pain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 4:28 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-145",
+    "book": "Jean",
+    "chapter": 4,
+    "verseRef": "Jean 4:29",
+    "verseText": "Voir Jean 4:29.",
+    "question": "Quelle invitation la femme adresse-t-elle aux gens de la ville au sujet de Jésus ?",
+    "choices": [
+      "Venez voir un homme qui m’a dit tout ce que j’ai fait",
+      "Venez voir un prophète qui a fermé le temple",
+      "Venez voir un roi qui a renversé César"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 4:29 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-146",
+    "book": "Jean",
+    "chapter": 4,
+    "verseRef": "Jean 4:37",
+    "verseText": "Voir Jean 4:37.",
+    "question": "Quel proverbe Jésus cite-t-il à propos du semeur et du moissonneur ?",
+    "choices": [
+      "L’un sème, et l’autre moissonne",
+      "L’un bâtit, et l’autre détruit",
+      "L’un parle, et l’autre se tait"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 4:37 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-147",
+    "book": "Jean",
+    "chapter": 4,
+    "verseRef": "Jean 4:38",
+    "verseText": "Voir Jean 4:38.",
+    "question": "Quel motif Jésus donne-t-il pour expliquer qu’il a envoyé moissonner ?",
+    "choices": [
+      "Vous moissonnez ce que vous n’avez pas travaillé",
+      "Vous moissonnez uniquement ce que vous avez semé",
+      "Vous moissonnez pour établir un royaume terrestre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 4:38 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-148",
+    "book": "Jean",
+    "chapter": 4,
+    "verseRef": "Jean 4:44",
+    "verseText": "Voir Jean 4:44.",
+    "question": "Que dit Jésus au sujet de l’honneur que reçoit un prophète hors de sa patrie ?",
+    "choices": [
+      "Un prophète est honoré partout, sauf dans sa patrie",
+      "Un prophète n’est honoré nulle part",
+      "Un prophète n’est honoré que par les Romains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 4:44 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-149",
+    "book": "Jean",
+    "chapter": 5,
+    "verseRef": "Jean 5:1",
+    "verseText": "Voir Jean 5:1.",
+    "question": "Quel titre est donné à la fête qui approchait lorsque Jésus monta à Jérusalem ?",
+    "choices": [
+      "Une fête des Juifs",
+      "Une fête des Grecs",
+      "Une fête des Romains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 5:1 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-150",
+    "book": "Jean",
+    "chapter": 8,
+    "verseRef": "Jean 8:50",
+    "verseText": "Voir Jean 8:50.",
+    "question": "Quel argument Jésus donne-t-il pour dire qu’il ne cherche pas sa propre gloire ?",
+    "choices": [
+      "Il y en a un autre qui cherche ma gloire",
+      "Les foules me donnent toute la gloire",
+      "Mes disciples proclament ma gloire par l’épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 8:50 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-151",
+    "book": "Jean",
+    "chapter": 5,
+    "verseRef": "Jean 5:36",
+    "verseText": "Voir Jean 5:36.",
+    "question": "De quel lieu Jésus dit-il avoir un témoignage qui confirme celui de Jean-Baptiste ?",
+    "choices": [
+      "Des œuvres que le Père lui a données d’accomplir",
+      "Des marchands du temple",
+      "Des scribes de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 5:36 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-152",
+    "book": "Jean",
+    "chapter": 5,
+    "verseRef": "Jean 5:46",
+    "verseText": "Voir Jean 5:46.",
+    "question": "Quel reproche Jésus fait-il à ceux qui refusent ses paroles concernant Moïse ?",
+    "choices": [
+      "Si vous croyiez Moïse, vous me croiriez aussi, parce qu’il a écrit de moi",
+      "Si vous croyiez Moïse, vous n’auriez plus besoin de prier",
+      "Si vous croyiez Moïse, vous ne mourriez jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 5:46 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-153",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:4",
+    "verseText": "Voir Jean 6:4.",
+    "question": "Quel détail est donné sur le moment où la Pâque était proche lors de la multiplication des pains ?",
+    "choices": [
+      "La Pâque, la fête des Juifs, était proche",
+      "La fête des Tabernacles était proche",
+      "Le jour des expiations était proche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:4 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-154",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:10",
+    "verseText": "Voir Jean 6:10.",
+    "question": "Quel détail sur le lieu est mentionné avant que les hommes s’asseyent pour manger ?",
+    "choices": [
+      "Il y avait en ce lieu beaucoup d’herbe",
+      "Il y avait en ce lieu beaucoup de pierres",
+      "Il y avait en ce lieu beaucoup de maisons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:10 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-155",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:10",
+    "verseText": "Voir Jean 6:10.",
+    "question": "Quel nombre est donné pour les hommes qui s’assirent afin de manger ?",
+    "choices": [
+      "Environ cinq mille",
+      "Environ mille",
+      "Environ douze mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:10 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-156",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:21",
+    "verseText": "Voir Jean 6:21.",
+    "question": "Après que les disciples ont voulu recevoir Jésus dans la barque, quel effet sur le trajet est mentionné ?",
+    "choices": [
+      "La barque arriva bientôt au lieu où ils allaient",
+      "La barque resta immobile jusqu’au matin",
+      "La barque coula près du rivage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:21 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-157",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:25",
+    "verseText": "Voir Jean 6:25.",
+    "question": "Quelle question la foule pose-t-elle à Jésus lorsqu’elle le trouve de l’autre côté de la mer ?",
+    "choices": [
+      "Rabbi, quand es-tu venu ici ?",
+      "Rabbi, pourquoi es-tu né ici ?",
+      "Rabbi, où as-tu appris à écrire ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:25 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-158",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:27",
+    "verseText": "Voir Jean 6:27.",
+    "question": "Quelle expression Jésus utilise-t-il pour désigner la nourriture à rechercher ?",
+    "choices": [
+      "La nourriture qui subsiste pour la vie éternelle",
+      "La nourriture qui périra le jour même",
+      "La nourriture que donnent les marchands du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:27 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-159",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:32",
+    "verseText": "Voir Jean 6:32.",
+    "question": "Que répond Jésus à ceux qui lui demandent: « Quel miracle fais-tu donc ? »",
+    "choices": [
+      "C’est Moïse qui vous a donné le pain du ciel… c’est mon Père qui vous donne le vrai pain du ciel",
+      "C’est Élie qui vous a donné le pain du ciel… c’est le temple qui vous le donnera encore",
+      "C’est David qui vous a donné le pain du ciel… c’est César qui vous le donnera toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:32 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-160",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:34",
+    "verseText": "Voir Jean 6:34.",
+    "question": "Quelle est la formulation précise de la demande de la foule après la mention du pain du ciel ?",
+    "choices": [
+      "Seigneur, donne-nous toujours ce pain",
+      "Seigneur, donne-nous toujours cette eau",
+      "Seigneur, donne-nous toujours ce vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:34 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-161",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:37",
+    "verseText": "Voir Jean 6:37.",
+    "question": "Quel motif Jésus donne-t-il pour expliquer qu’il ne chasse pas celui qui vient à lui ?",
+    "choices": [
+      "Je ne mettrai pas dehors celui qui vient à moi",
+      "Je mettrai dehors celui qui vient à moi sans offrande",
+      "Je mettrai dehors celui qui vient à moi en secret"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:37 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-162",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:41",
+    "verseText": "Voir Jean 6:41.",
+    "question": "Quelle réaction des Juifs est rapportée après que Jésus dit être le pain descendu du ciel ?",
+    "choices": [
+      "Ils murmuraient contre lui",
+      "Ils le couronnèrent roi",
+      "Ils lui offrirent de l’encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:41 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-163",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:62",
+    "verseText": "Voir Jean 6:62.",
+    "question": "Quelle difficulté Jésus souligne-t-il quand il parle de son départ auprès du Père ?",
+    "choices": [
+      "Et si vous voyiez le Fils de l’homme monter où il était auparavant ?",
+      "Et si vous voyiez le Fils de l’homme s’asseoir sur un trône à Rome ?",
+      "Et si vous voyiez le Fils de l’homme disparaître dans la mer ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:62 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-164",
+    "book": "Jean",
+    "chapter": 6,
+    "verseRef": "Jean 6:70",
+    "verseText": "Voir Jean 6:70.",
+    "question": "Quelle parole Jésus dit-il sur Judas au moment où plusieurs se retirent ?",
+    "choices": [
+      "L’un de vous est un démon",
+      "L’un de vous est un ange",
+      "L’un de vous est un roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 6:70 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-165",
+    "book": "Jean",
+    "chapter": 7,
+    "verseRef": "Jean 7:1",
+    "verseText": "Voir Jean 7:1.",
+    "question": "Quel cadre est donné au début du conflit avant la fête suivante ?",
+    "choices": [
+      "Jésus parcourait la Galilée, car il ne voulait pas séjourner en Judée",
+      "Jésus parcourait la Judée, car il ne voulait pas séjourner en Galilée",
+      "Jésus parcourait la Samarie, car il ne voulait pas séjourner à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 7:1 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-166",
+    "book": "Jean",
+    "chapter": 7,
+    "verseRef": "Jean 7:2",
+    "verseText": "Voir Jean 7:2.",
+    "question": "Quelle fête est explicitement nommée comme étant proche ?",
+    "choices": [
+      "La fête des Juifs, la fête des tabernacles",
+      "La fête des Juifs, la Pâque",
+      "La fête des Juifs, la dédicace"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 7:2 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-167",
+    "book": "Jean",
+    "chapter": 7,
+    "verseRef": "Jean 7:6",
+    "verseText": "Voir Jean 7:6.",
+    "question": "Quelle réponse Jésus donne-t-il sur le moment de sa montée à la fête ?",
+    "choices": [
+      "Mon temps n’est pas encore venu",
+      "Mon temps est fini",
+      "Mon temps est caché à tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 7:6 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-168",
+    "book": "Jean",
+    "chapter": 7,
+    "verseRef": "Jean 7:10",
+    "verseText": "Voir Jean 7:10.",
+    "question": "Après que ses frères sont montés à la fête, comment Jésus y monte-t-il ?",
+    "choices": [
+      "Non publiquement, mais comme en secret",
+      "Publiquement, entouré d’une garde",
+      "Publiquement, porté par la foule"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 7:10 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-169",
+    "book": "Jean",
+    "chapter": 8,
+    "verseRef": "Jean 8:20",
+    "verseText": "Voir Jean 8:20.",
+    "question": "Où Jésus enseigne-t-il quand les pharisiens discutent de ses paroles sur la lumière ?",
+    "choices": [
+      "Dans le trésor",
+      "Sur la montagne",
+      "Au bord de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 8:20 (LSG 1910)."
+  },
+  {
+    "id": "jean-N-170",
+    "book": "Jean",
+    "chapter": 8,
+    "verseRef": "Jean 8:20",
+    "verseText": "Voir Jean 8:20.",
+    "question": "Quel résultat est donné immédiatement après cette mention du lieu d’enseignement ?",
+    "choices": [
+      "Personne ne l’arrêta, parce que son heure n’était pas encore venue",
+      "Ils l’arrêtèrent aussitôt, parce que son heure était venue",
+      "Ils le lapidèrent immédiatement, parce que la loi l’ordonnait"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 8:20 (LSG 1910)."
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "sophonie-N-001",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:1",
+    "verseText": "Voir Sophonie 1:1.",
+    "question": "À quel roi de Juda la prophétie est-elle située au début du livre ?",
+    "choices": [
+      "Ézéchias",
+      "Josias",
+      "Manassé"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:1 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-002",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:1",
+    "verseText": "Voir Sophonie 1:1.",
+    "question": "Comment s’appelle le père de Sophonie selon la généalogie donnée ?",
+    "choices": [
+      "Cuschi",
+      "Amaria",
+      "Amon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:1 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-003",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:2",
+    "verseText": "Voir Sophonie 1:2.",
+    "question": "Que déclare l’Éternel qu’il va faire « sur la face de la terre » ?",
+    "choices": [
+      "Bénir toutes les nations",
+      "Détruire tout",
+      "Multiplier les récoltes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:2 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-004",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:3",
+    "verseText": "Voir Sophonie 1:3.",
+    "question": "Quels êtres sont cités ensemble comme devant être détruits ?",
+    "choices": [
+      "Les hommes et les bêtes",
+      "Les rois et les prêtres",
+      "Les montagnes et les mers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:3 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-005",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:4",
+    "verseText": "Voir Sophonie 1:4.",
+    "question": "Sur quels lieux l’Éternel dit-il étendre sa main ?",
+    "choices": [
+      "Juda et tous les habitants de Jérusalem",
+      "Samarie et Béthel",
+      "Galaad et Basan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:4 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-006",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:4",
+    "verseText": "Voir Sophonie 1:4.",
+    "question": "Que veut-il exterminer « de ce lieu » ?",
+    "choices": [
+      "Les prophètes fidèles",
+      "Les restes de Baal",
+      "Les étrangers convertis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:4 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-007",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:4",
+    "verseText": "Voir Sophonie 1:4.",
+    "question": "Qui sont mentionnés avec « le nom de ses ministres » ?",
+    "choices": [
+      "Les juges",
+      "Les prêtres",
+      "Les lévites"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:4 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-008",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:5",
+    "verseText": "Voir Sophonie 1:5.",
+    "question": "Où certains se prosternent-ils devant « l’armée des cieux » ?",
+    "choices": [
+      "Dans les cavernes",
+      "Sur les toits",
+      "Au bord des fleuves"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:5 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-009",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:5",
+    "verseText": "Voir Sophonie 1:5.",
+    "question": "Par qui certains jurent-ils en même temps que par l’Éternel ?",
+    "choices": [
+      "Par leur roi",
+      "Par leur père",
+      "Par leur prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:5 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-010",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:6",
+    "verseText": "Voir Sophonie 1:6.",
+    "question": "Quels comportements sont cités concernant ceux qui se sont détournés ?",
+    "choices": [
+      "Ils ne consultent pas l’Éternel",
+      "Ils bâtissent un temple",
+      "Ils donnent tout aux pauvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:6 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-011",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:7",
+    "verseText": "Voir Sophonie 1:7.",
+    "question": "Quel ordre est donné avant l’annonce du jour de l’Éternel ?",
+    "choices": [
+      "Courez aux montagnes !",
+      "Silence devant le Seigneur, l’Éternel !",
+      "Chantez à haute voix !"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:7 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-012",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:7",
+    "verseText": "Voir Sophonie 1:7.",
+    "question": "Que dit le texte que l’Éternel a « préparé » ?",
+    "choices": [
+      "Un festin",
+      "Le sacrifice",
+      "Un jugement secret"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:7 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-013",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:7",
+    "verseText": "Voir Sophonie 1:7.",
+    "question": "Qui l’Éternel dit-il avoir « choisi » ?",
+    "choices": [
+      "Ses conviés",
+      "Ses ennemis",
+      "Ses marchands"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:7 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-014",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:8",
+    "verseText": "Voir Sophonie 1:8.",
+    "question": "Qui sera châtié « au jour du sacrifice de l’Éternel » ?",
+    "choices": [
+      "Les princes et les fils du roi",
+      "Les veuves et les orphelins",
+      "Les bergers et les laboureurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:8 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-015",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:8",
+    "verseText": "Voir Sophonie 1:8.",
+    "question": "Quel détail vestimentaire est visé dans le châtiment ?",
+    "choices": [
+      "Les vêtements déchirés",
+      "Les vêtements étrangers",
+      "Les vêtements de lin blanc"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:8 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-016",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:9",
+    "verseText": "Voir Sophonie 1:9.",
+    "question": "Quelle action étrange est mentionnée comme cause de châtiment ?",
+    "choices": [
+      "Sauter par-dessus le seuil",
+      "Briser les idoles",
+      "Oindre les portes d’huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:9 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-017",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:9",
+    "verseText": "Voir Sophonie 1:9.",
+    "question": "De quoi certains remplissent-ils « la maison de leur maître » ?",
+    "choices": [
+      "De chants et de prières",
+      "De violence et de fraude",
+      "De pains et de vin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:9 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-018",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:10",
+    "verseText": "Voir Sophonie 1:10.",
+    "question": "Où y aura-t-il des cris selon la proclamation ?",
+    "choices": [
+      "À la porte des poissons",
+      "À la porte de l’orient",
+      "À la porte du troupeau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:10 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-019",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:10",
+    "verseText": "Voir Sophonie 1:10.",
+    "question": "Quel autre signe accompagne ces cris ?",
+    "choices": [
+      "Des trompettes de fête",
+      "Des lamentations dans l’autre quartier de la ville",
+      "Des danses sur les places"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:10 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-020",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:11",
+    "verseText": "Voir Sophonie 1:11.",
+    "question": "Quel lieu est appelé à gémir avec ses habitants ?",
+    "choices": [
+      "Macthesch",
+      "Guilgal",
+      "Hébron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:11 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-021",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:11",
+    "verseText": "Voir Sophonie 1:11.",
+    "question": "Qui est dit « détruit » à Macthesch ?",
+    "choices": [
+      "Ceux qui trafiquent",
+      "Ceux qui enseignent",
+      "Ceux qui gardent les portes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:11 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-022",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:11",
+    "verseText": "Voir Sophonie 1:11.",
+    "question": "Quels hommes sont dits « exterminés » dans le même verset ?",
+    "choices": [
+      "Les hommes chargés d’argent",
+      "Les hommes de guerre",
+      "Les hommes de promesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:11 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-023",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:12",
+    "verseText": "Voir Sophonie 1:12.",
+    "question": "Comment l’Éternel fouillera-t-il Jérusalem ?",
+    "choices": [
+      "Avec des lampes",
+      "Avec des filets",
+      "Avec des chaînes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:12 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-024",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:12",
+    "verseText": "Voir Sophonie 1:12.",
+    "question": "Comment sont décrits les hommes châtiés lors de cette recherche ?",
+    "choices": [
+      "Ils reposent sur leurs lies",
+      "Ils jeûnent en silence",
+      "Ils veillent toute la nuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:12 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-025",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:12",
+    "verseText": "Voir Sophonie 1:12.",
+    "question": "Que disent-ils dans leur cœur au sujet de l’Éternel ?",
+    "choices": [
+      "Il règne sur toute la terre",
+      "Il ne fait ni bien ni mal",
+      "Il pardonne toujours sans condition"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:12 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-026",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:13",
+    "verseText": "Voir Sophonie 1:13.",
+    "question": "Que deviendront leurs biens ?",
+    "choices": [
+      "Un héritage pour leurs fils",
+      "Au pillage",
+      "Une offrande au temple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:13 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-027",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:13",
+    "verseText": "Voir Sophonie 1:13.",
+    "question": "Quel paradoxe est annoncé au sujet des maisons construites ?",
+    "choices": [
+      "Ils les vendront vite",
+      "Ils n’y habiteront plus",
+      "Elles seront agrandies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:13 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-028",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:13",
+    "verseText": "Voir Sophonie 1:13.",
+    "question": "Quel paradoxe est annoncé au sujet des vignes plantées ?",
+    "choices": [
+      "Ils ne boiront plus le vin",
+      "Elles donneront double récolte",
+      "Elles n’auront plus de raisins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:13 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-029",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:14",
+    "verseText": "Voir Sophonie 1:14.",
+    "question": "Comment est qualifié le jour de l’Éternel ?",
+    "choices": [
+      "Le grand jour",
+      "Le doux jour",
+      "Le jour caché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:14 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-030",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:14",
+    "verseText": "Voir Sophonie 1:14.",
+    "question": "Que fait « le jour de l’Éternel » selon le texte ?",
+    "choices": [
+      "Il fait entendre sa voix",
+      "Il s’endort sur les collines",
+      "Il s’efface sans bruit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:14 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-031",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:14",
+    "verseText": "Voir Sophonie 1:14.",
+    "question": "Qui pousse « des cris amers » ?",
+    "choices": [
+      "Le héros",
+      "Le sacrificateur",
+      "Le marchand"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:14 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-032",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:15",
+    "verseText": "Voir Sophonie 1:15.",
+    "question": "Quel ensemble décrit ce jour (choisis l’option exacte) ?",
+    "choices": [
+      "Fureur, détresse, angoisse",
+      "Joie, paix, abondance",
+      "Rires, musique, chants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:15 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-033",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:15",
+    "verseText": "Voir Sophonie 1:15.",
+    "question": "Quel contraste de lumière est annoncé pour ce jour ?",
+    "choices": [
+      "Lumière et aurore",
+      "Ténèbres et obscurité",
+      "Soleil et midi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:15 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-034",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:16",
+    "verseText": "Voir Sophonie 1:16.",
+    "question": "Qu’entendra-t-on contre les villes fortes ?",
+    "choices": [
+      "La flûte et la harpe",
+      "La trompette et les cris de guerre",
+      "Le tambour et la danse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:16 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-035",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:17",
+    "verseText": "Voir Sophonie 1:17.",
+    "question": "Comment marcheront les hommes mis dans la détresse ?",
+    "choices": [
+      "Comme des aveugles",
+      "Comme des rois",
+      "Comme des cerfs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:17 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-036",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:17",
+    "verseText": "Voir Sophonie 1:17.",
+    "question": "Quelle raison est donnée à cette détresse ?",
+    "choices": [
+      "Ils ont péché contre l’Éternel",
+      "Ils ont manqué d’eau",
+      "Ils ont oublié leurs ancêtres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:17 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-037",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:17",
+    "verseText": "Voir Sophonie 1:17.",
+    "question": "À quoi l’Éternel compare-t-il le sang répandu ?",
+    "choices": [
+      "À de la poussière",
+      "À du vin",
+      "À de l’huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:17 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-038",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:17",
+    "verseText": "Voir Sophonie 1:17.",
+    "question": "À quoi l’Éternel compare-t-il leur chair ?",
+    "choices": [
+      "À la laine",
+      "À l’ordure",
+      "À l’encens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 1:17 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-039",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:18",
+    "verseText": "Voir Sophonie 1:18.",
+    "question": "Qu’est-ce qui ne pourra pas les délivrer au jour de la fureur ?",
+    "choices": [
+      "Leur argent et leur or",
+      "Leurs sacrifices et leurs vœux",
+      "Leurs chevaux et leurs chars"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:18 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-040",
+    "book": "Sophonie",
+    "chapter": 1,
+    "verseRef": "Sophonie 1:18",
+    "verseText": "Voir Sophonie 1:18.",
+    "question": "Par quoi « tout le pays » sera-t-il consumé ?",
+    "choices": [
+      "Par le feu de sa jalousie",
+      "Par la mer débordée",
+      "Par le vent d’orient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:18 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-041",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:1",
+    "verseText": "Voir Sophonie 2:1.",
+    "question": "Quel appel est adressé à la nation au début du chapitre 2 ?",
+    "choices": [
+      "Rentrez en vous-mêmes, examinez-vous",
+      "Fuyez vers l’Assyrie",
+      "Prenez des armes et combattez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:1 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-042",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:1",
+    "verseText": "Voir Sophonie 2:1.",
+    "question": "Comment la nation est-elle qualifiée dans cet appel ?",
+    "choices": [
+      "Nation sans pudeur",
+      "Nation de paix",
+      "Nation des sages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:1 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-043",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:2",
+    "verseText": "Voir Sophonie 2:2.",
+    "question": "Qu’est-ce qui est mentionné « avant que le décret s’exécute » ?",
+    "choices": [
+      "Que ce jour passe comme la balle",
+      "Que la pluie tombe sur la terre",
+      "Que les fleuves se dessèchent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:2 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-044",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:3",
+    "verseText": "Voir Sophonie 2:3.",
+    "question": "Qui doit chercher l’Éternel selon le texte ?",
+    "choices": [
+      "Vous tous, humbles du pays",
+      "Vous tous, princes du palais",
+      "Vous tous, étrangers de passage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:3 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-045",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:3",
+    "verseText": "Voir Sophonie 2:3.",
+    "question": "Qu’est-il demandé de rechercher (option exacte) ?",
+    "choices": [
+      "La justice et l’humilité",
+      "La richesse et la force",
+      "La science et la gloire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:3 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-046",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:3",
+    "verseText": "Voir Sophonie 2:3.",
+    "question": "Quel résultat est présenté comme possible ?",
+    "choices": [
+      "Peut-être serez-vous épargnés",
+      "Certainement vous dominerez",
+      "Vous ne connaîtrez jamais la faim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:3 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-047",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:4",
+    "verseText": "Voir Sophonie 2:4.",
+    "question": "Quelle ville est annoncée comme « délaissée » ?",
+    "choices": [
+      "Gaza",
+      "Ninive",
+      "Tyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:4 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-048",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:4",
+    "verseText": "Voir Sophonie 2:4.",
+    "question": "Quelle ville sera « réduite en désert » ?",
+    "choices": [
+      "Askalon",
+      "Jéricho",
+      "Damas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:4 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-049",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:4",
+    "verseText": "Voir Sophonie 2:4.",
+    "question": "Quelle ville sera « chassée en plein midi » ?",
+    "choices": [
+      "Asdod",
+      "Hébron",
+      "Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:4 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-050",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:4",
+    "verseText": "Voir Sophonie 2:4.",
+    "question": "Quelle ville sera « déracinée » ?",
+    "choices": [
+      "Ékron",
+      "Béthel",
+      "Sichem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:4 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-051",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:5",
+    "verseText": "Voir Sophonie 2:5.",
+    "question": "À qui est adressé « Malheur aux habitants des côtes de la mer » ?",
+    "choices": [
+      "À la nation des Kéréthiens",
+      "À la maison de Lévi",
+      "Aux fils de Jacob"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:5 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-052",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:5",
+    "verseText": "Voir Sophonie 2:5.",
+    "question": "Comment Canaan est-il désigné dans le même oracle ?",
+    "choices": [
+      "Pays des Philistins",
+      "Pays des Héthiens",
+      "Pays des Amoréens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:5 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-053",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:6",
+    "verseText": "Voir Sophonie 2:6.",
+    "question": "Que deviendront les côtes de la mer après le jugement ?",
+    "choices": [
+      "Des pâturages, des demeures pour les bergers",
+      "Des villes fortifiées",
+      "Des mines d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:6 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-054",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:7",
+    "verseText": "Voir Sophonie 2:7.",
+    "question": "Pour qui ces côtes seront-elles selon le texte ?",
+    "choices": [
+      "Pour les restes de la maison de Juda",
+      "Pour les rois d’Assyrie",
+      "Pour les marchands de Tyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:7 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-055",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:7",
+    "verseText": "Voir Sophonie 2:7.",
+    "question": "Où les restes de Juda reposeront-ils le soir ?",
+    "choices": [
+      "Dans les maisons d’Askalon",
+      "Dans les tentes du désert",
+      "Dans les tours de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:7 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-056",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:7",
+    "verseText": "Voir Sophonie 2:7.",
+    "question": "Quelle promesse est donnée au sujet de leurs captifs ?",
+    "choices": [
+      "Il ramènera leurs captifs",
+      "Il les oubliera pour toujours",
+      "Il les livrera à Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:7 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-057",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:8",
+    "verseText": "Voir Sophonie 2:8.",
+    "question": "Quels peuples sont cités pour leurs injures et outrages ?",
+    "choices": [
+      "Moab et les enfants d’Ammon",
+      "L’Égypte et l’Éthiopie",
+      "La Perse et la Médie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:8 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-058",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:9",
+    "verseText": "Voir Sophonie 2:9.",
+    "question": "À quoi Moab est-il comparé ?",
+    "choices": [
+      "À Sodome",
+      "À Jérusalem",
+      "À l’Éden"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:9 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-059",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:9",
+    "verseText": "Voir Sophonie 2:9.",
+    "question": "À quoi les enfants d’Ammon sont-ils comparés ?",
+    "choices": [
+      "À Gomorrhe",
+      "À Sion",
+      "À Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:9 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-060",
+    "book": "Sophonie",
+    "chapter": 2,
+    "verseRef": "Sophonie 2:13",
+    "verseText": "Voir Sophonie 2:13.",
+    "question": "Quelle ville est promise à la solitude et à une terre aride ?",
+    "choices": [
+      "Ninive",
+      "Bethléhem",
+      "Kadesch"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 2:13 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-061",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:1",
+    "verseText": "Voir Sophonie 3:1.",
+    "question": "Comment est qualifiée la ville appelée au malheur au début de l’oracle ?",
+    "choices": [
+      "Joyeuse et fidèle",
+      "Rebelle et souillée",
+      "Paisible et juste"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-062",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:2",
+    "verseText": "Voir Sophonie 3:2.",
+    "question": "Quel trait est cité à propos de cette ville concernant l’obéissance ?",
+    "choices": [
+      "Elle obéit à la voix",
+      "Elle n’écoute point la voix",
+      "Elle enseigne la voix"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:2 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-063",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:2",
+    "verseText": "Voir Sophonie 3:2.",
+    "question": "Quel comportement est cité concernant la correction ?",
+    "choices": [
+      "Elle reçoit la correction",
+      "Elle ne reçoit point correction",
+      "Elle corrige toutes les nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:2 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-064",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:2",
+    "verseText": "Voir Sophonie 3:2.",
+    "question": "Quel reproche est fait au sujet de la confiance ?",
+    "choices": [
+      "Elle se confie en l’Éternel",
+      "Elle se confie en ses murs",
+      "Elle ne se confie point en l’Éternel"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Sophonie 3:2 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-065",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:2",
+    "verseText": "Voir Sophonie 3:2.",
+    "question": "Quel reproche est fait au sujet de l’approche de Dieu ?",
+    "choices": [
+      "Elle s’approche de son Dieu",
+      "Elle ne s’approche point de son Dieu",
+      "Elle s’approche des idoles seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:2 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-066",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:3",
+    "verseText": "Voir Sophonie 3:3.",
+    "question": "Comment sont décrits les chefs au milieu d’elle ?",
+    "choices": [
+      "Des lions rugissants",
+      "Des brebis paisibles",
+      "Des colombes fidèles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:3 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-067",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:3",
+    "verseText": "Voir Sophonie 3:3.",
+    "question": "Comment sont décrits ses juges ?",
+    "choices": [
+      "Des cerfs des montagnes",
+      "Des loups du soir",
+      "Des aigles de la mer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:3 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-068",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:3",
+    "verseText": "Voir Sophonie 3:3.",
+    "question": "Quelle description accompagne les juges dans leur manière d’agir ?",
+    "choices": [
+      "Ils gardent pour le matin",
+      "Ils attendent la pluie",
+      "Ils ne gardent rien pour le matin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Sophonie 3:3 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-069",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:4",
+    "verseText": "Voir Sophonie 3:4.",
+    "question": "Comment sont décrits ses prophètes ?",
+    "choices": [
+      "Humble et fidèles",
+      "Légers et perfides",
+      "Silencieux et patients"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:4 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-070",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:4",
+    "verseText": "Voir Sophonie 3:4.",
+    "question": "Quel reproche est fait aux sacrificateurs ?",
+    "choices": [
+      "Ils purifient le sanctuaire",
+      "Ils profanent les choses saintes",
+      "Ils bâtissent les murailles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:4 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-071",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:4",
+    "verseText": "Voir Sophonie 3:4.",
+    "question": "Que font-ils à la loi selon le texte ?",
+    "choices": [
+      "Ils la respectent",
+      "Ils la violent",
+      "Ils l’enseignent jour et nuit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:4 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-072",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:5",
+    "verseText": "Voir Sophonie 3:5.",
+    "question": "Comment est présenté l’Éternel au milieu de la ville ?",
+    "choices": [
+      "Juste",
+      "Oubliant",
+      "Changeant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:5 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-073",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:5",
+    "verseText": "Voir Sophonie 3:5.",
+    "question": "Que dit le texte au sujet de l’injustice de l’Éternel ?",
+    "choices": [
+      "Il peut être injuste parfois",
+      "Il ne commet point d’iniquité",
+      "Il tolère l’iniquité"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:5 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-074",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:5",
+    "verseText": "Voir Sophonie 3:5.",
+    "question": "Quand l’Éternel produit-il son jugement ?",
+    "choices": [
+      "Chaque matin",
+      "Une fois par an",
+      "Seulement la nuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:5 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-075",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:5",
+    "verseText": "Voir Sophonie 3:5.",
+    "question": "Que dit le texte sur la disparition de ce jugement ?",
+    "choices": [
+      "Il ne fait jamais défaut",
+      "Il disparaît vite",
+      "Il n’est pas compris par les sages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:5 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-076",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:5",
+    "verseText": "Voir Sophonie 3:5.",
+    "question": "Quel constat est fait sur l’homme pervers en face de tout cela ?",
+    "choices": [
+      "Il ne connaît pas la honte",
+      "Il recherche la vérité",
+      "Il se repent aussitôt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:5 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-077",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:6",
+    "verseText": "Voir Sophonie 3:6.",
+    "question": "Que dit l’Éternel avoir fait aux nations ?",
+    "choices": [
+      "Il les a converties par la paix",
+      "Il les a exterminées",
+      "Il les a enrichies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:6 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-078",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:6",
+    "verseText": "Voir Sophonie 3:6.",
+    "question": "Que dit-il à propos de leurs tours ?",
+    "choices": [
+      "Elles sont élevées",
+      "Elles sont écroulées",
+      "Elles sont consacrées"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:6 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-079",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:6",
+    "verseText": "Voir Sophonie 3:6.",
+    "question": "Que dit-il au sujet de leurs rues ?",
+    "choices": [
+      "Elles sont pleines de chants",
+      "Elles sont bâties de marbre",
+      "Elles sont désertes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Sophonie 3:6 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-080",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:6",
+    "verseText": "Voir Sophonie 3:6.",
+    "question": "Quel état est annoncé pour leurs villes ?",
+    "choices": [
+      "Restaurées rapidement",
+      "Dévastées, sans homme, sans habitants",
+      "Fortifiées par de nouveaux rois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:6 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-081",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:7",
+    "verseText": "Voir Sophonie 3:7.",
+    "question": "Qu’attendait l’Éternel de la ville après cela ?",
+    "choices": [
+      "Qu’elle craigne et reçoive instruction",
+      "Qu’elle s’enfuie loin",
+      "Qu’elle bâtisse un autel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:7 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-082",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:7",
+    "verseText": "Voir Sophonie 3:7.",
+    "question": "Qu’est-il dit sur son domicile en lien avec les châtiments ?",
+    "choices": [
+      "Il serait retranché",
+      "Il ne serait pas retranché",
+      "Il serait vendu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:7 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-083",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:7",
+    "verseText": "Voir Sophonie 3:7.",
+    "question": "Que fait la ville malgré l’attente de l’Éternel ?",
+    "choices": [
+      "Elle s’attache à l’alliance",
+      "Elle répare tous ses autels",
+      "Elle se hâte de corrompre toutes ses actions"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Sophonie 3:7 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-084",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:8",
+    "verseText": "Voir Sophonie 3:8.",
+    "question": "Quel ordre l’Éternel donne-t-il à son peuple au sujet de l’avenir ?",
+    "choices": [
+      "Attendez-moi",
+      "Cachez-vous à jamais",
+      "Ne parlez plus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:8 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-085",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:8",
+    "verseText": "Voir Sophonie 3:8.",
+    "question": "Quel moment est mentionné pour cette attente ?",
+    "choices": [
+      "Jusqu’au jour où je me lèverai pour le butin",
+      "Jusqu’au jour où les fleuves débordent",
+      "Jusqu’au jour où la lune s’éteint"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:8 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-086",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:8",
+    "verseText": "Voir Sophonie 3:8.",
+    "question": "Quelle décision est annoncée concernant les nations ?",
+    "choices": [
+      "Les honorer toutes",
+      "Les rassembler et réunir les royaumes",
+      "Les oublier sans jugement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:8 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-087",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:8",
+    "verseText": "Voir Sophonie 3:8.",
+    "question": "Pourquoi sont-elles rassemblées ?",
+    "choices": [
+      "Pour recevoir des couronnes",
+      "Pour qu’on leur annonce une fête",
+      "Pour répandre sur elles l’indignation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Sophonie 3:8 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-088",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:8",
+    "verseText": "Voir Sophonie 3:8.",
+    "question": "Quelle expression décrit cette indignation ?",
+    "choices": [
+      "Toute l’ardeur de ma colère",
+      "Un léger mécontentement",
+      "Une tristesse passagère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:8 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-089",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:8",
+    "verseText": "Voir Sophonie 3:8.",
+    "question": "Par quoi tout le pays sera-t-il consumé ?",
+    "choices": [
+      "Par le feu de ma colère",
+      "Par les eaux de la mer",
+      "Par les sauterelles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:8 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-090",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:9",
+    "verseText": "Voir Sophonie 3:9.",
+    "question": "Que donnera ensuite l’Éternel aux peuples ?",
+    "choices": [
+      "Des armes nouvelles",
+      "Des lèvres pures",
+      "Des murs d’airain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:9 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-091",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:9",
+    "verseText": "Voir Sophonie 3:9.",
+    "question": "Pourquoi ces lèvres pures sont-elles données ?",
+    "choices": [
+      "Pour chanter aux idoles",
+      "Pour invoquer tous le nom de l’Éternel",
+      "Pour se taire devant les nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:9 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-092",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:9",
+    "verseText": "Voir Sophonie 3:9.",
+    "question": "Comment est décrite leur manière de le servir ?",
+    "choices": [
+      "Avec un même accord",
+      "Avec des langues divisées",
+      "Avec des sacrifices humains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:9 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-093",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:10",
+    "verseText": "Voir Sophonie 3:10.",
+    "question": "D’où viendront ceux qui apporteront une offrande à l’Éternel ?",
+    "choices": [
+      "Des îles de la mer",
+      "De l’au delà des fleuves de l’Éthiopie",
+      "Des montagnes d’Ararat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:10 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-094",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:10",
+    "verseText": "Voir Sophonie 3:10.",
+    "question": "Comment le texte désigne-t-il ces gens qui apportent l’offrande ?",
+    "choices": [
+      "Mes adorateurs, mes dispersés",
+      "Mes guerriers, mes rois",
+      "Mes marchands, mes princes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:10 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-095",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:11",
+    "verseText": "Voir Sophonie 3:11.",
+    "question": "Quelle chose ne sera plus à craindre « en ce jour-là » ?",
+    "choices": [
+      "La faim",
+      "La honte de toutes les actions",
+      "La pluie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:11 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-096",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:11",
+    "verseText": "Voir Sophonie 3:11.",
+    "question": "Quelle catégorie de personnes l’Éternel annonce-t-il ôter du milieu de la ville ?",
+    "choices": [
+      "Ceux qui triomphent avec arrogance",
+      "Ceux qui servent en silence",
+      "Ceux qui pleurent au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:11 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-097",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:11",
+    "verseText": "Voir Sophonie 3:11.",
+    "question": "Quel lieu est mentionné dans l’expression « ma montagne sainte » ?",
+    "choices": [
+      "Sion",
+      "Carmel",
+      "Sinaï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:11 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-098",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:12",
+    "verseText": "Voir Sophonie 3:12.",
+    "question": "Quel reste l’Éternel dit-il laisser au milieu de la ville ?",
+    "choices": [
+      "Un peuple humble et petit",
+      "Un peuple riche et puissant",
+      "Un peuple savant et craint"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:12 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-099",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:12",
+    "verseText": "Voir Sophonie 3:12.",
+    "question": "En qui ce reste mettra-t-il sa confiance ?",
+    "choices": [
+      "Dans ses chars",
+      "Dans le nom de l’Éternel",
+      "Dans ses alliances"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:12 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-100",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:13",
+    "verseText": "Voir Sophonie 3:13.",
+    "question": "Que ne commettra plus le reste d’Israël ?",
+    "choices": [
+      "L’iniquité",
+      "Le travail",
+      "La prière"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:13 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-101",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:13",
+    "verseText": "Voir Sophonie 3:13.",
+    "question": "Que ne dira plus ce reste ?",
+    "choices": [
+      "Des paroles de louange",
+      "Un langage pur",
+      "Des paroles de mensonge"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Sophonie 3:13 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-102",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:13",
+    "verseText": "Voir Sophonie 3:13.",
+    "question": "Qu’est-ce qui ne se trouvera plus dans leur bouche ?",
+    "choices": [
+      "Une langue trompeuse",
+      "Un chant nouveau",
+      "Une épée aiguë"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:13 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-103",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:13",
+    "verseText": "Voir Sophonie 3:13.",
+    "question": "Comment est décrite leur condition finale ?",
+    "choices": [
+      "Ils paîtront, se reposeront, et personne ne les troublera",
+      "Ils erreront sans repos",
+      "Ils serviront les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:13 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-104",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:14",
+    "verseText": "Voir Sophonie 3:14.",
+    "question": "Quel appel est adressé à la fille de Sion ?",
+    "choices": [
+      "Jeûne et pleure",
+      "Pousse des cris de joie",
+      "Cache-toi dans les rochers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:14 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-105",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:14",
+    "verseText": "Voir Sophonie 3:14.",
+    "question": "Quelle autre expression accompagne cet appel à la joie ?",
+    "choices": [
+      "Réjouis-toi et triomphe de tout ton cœur",
+      "Bats-toi et conquiers",
+      "Tais-toi et attends"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:14 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-106",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:14",
+    "verseText": "Voir Sophonie 3:14.",
+    "question": "Quelle formule désigne le peuple dans cet appel ?",
+    "choices": [
+      "Fille de Jérusalem",
+      "Fille de Moab",
+      "Fille d’Assur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:14 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-107",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:15",
+    "verseText": "Voir Sophonie 3:15.",
+    "question": "Qu’a fait l’Éternel au sujet des sentences contre Sion ?",
+    "choices": [
+      "Il les a confirmées",
+      "Il les a écartées",
+      "Il les a vendues"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:15 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-108",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:15",
+    "verseText": "Voir Sophonie 3:15.",
+    "question": "Qu’a-t-il fait de l’ennemi ?",
+    "choices": [
+      "Il l’a chassé",
+      "Il l’a couronné",
+      "Il l’a caché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:15 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-109",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:15",
+    "verseText": "Voir Sophonie 3:15.",
+    "question": "Qui est dit être au milieu de Sion ?",
+    "choices": [
+      "Le roi d’Assyrie",
+      "Le roi d’Israël, l’Éternel",
+      "Le roi d’Égypte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:15 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-110",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:15",
+    "verseText": "Voir Sophonie 3:15.",
+    "question": "Quel effet est promis au sujet du malheur ?",
+    "choices": [
+      "Tu n’as plus à craindre le malheur",
+      "Tu en verras davantage",
+      "Tu y seras livré sans fin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:15 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-111",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:16",
+    "verseText": "Voir Sophonie 3:16.",
+    "question": "Quel ordre est donné à Jérusalem « en ce jour-là » ?",
+    "choices": [
+      "Ne crains rien",
+      "Quitte la ville",
+      "Cache tes enfants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:16 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-112",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:16",
+    "verseText": "Voir Sophonie 3:16.",
+    "question": "Quel ordre est donné à Sion au sujet des mains ?",
+    "choices": [
+      "Que tes mains se fortifient",
+      "Que tes mains ne s’affaiblissent pas",
+      "Que tes mains frappent les nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:16 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-113",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:17",
+    "verseText": "Voir Sophonie 3:17.",
+    "question": "Comment l’Éternel est-il décrit au milieu de toi ?",
+    "choices": [
+      "Un héros qui sauve",
+      "Un juge qui condamne",
+      "Un marchand qui vend"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:17 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-114",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:17",
+    "verseText": "Voir Sophonie 3:17.",
+    "question": "Que fera l’Éternel à ton sujet ?",
+    "choices": [
+      "Il se taira par son amour",
+      "Il t’oubliera par colère",
+      "Il s’éloignera pour toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:17 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-115",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:17",
+    "verseText": "Voir Sophonie 3:17.",
+    "question": "Que fera-t-il encore à ton sujet ?",
+    "choices": [
+      "Il dansera en silence",
+      "Il aura de la tristesse",
+      "Il aura de la joie"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Sophonie 3:17 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-116",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:17",
+    "verseText": "Voir Sophonie 3:17.",
+    "question": "Comment est-il dit qu’il se réjouira ?",
+    "choices": [
+      "Avec des chants de triomphe",
+      "Avec des menaces",
+      "Avec des lamentations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:17 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-117",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:18",
+    "verseText": "Voir Sophonie 3:18.",
+    "question": "Que fera l’Éternel concernant ceux qui sont dans la tristesse loin des fêtes ?",
+    "choices": [
+      "Je les rassemblerai",
+      "Je les retrancherai",
+      "Je les livrerai aux rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:18 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-118",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:18",
+    "verseText": "Voir Sophonie 3:18.",
+    "question": "Quelle précision est donnée sur ces personnes rassemblées ?",
+    "choices": [
+      "Ils sont d’entre toi",
+      "Ils sont d’Édom",
+      "Ils sont de Ninive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:18 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-119",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:19",
+    "verseText": "Voir Sophonie 3:19.",
+    "question": "Que fera l’Éternel « en ce temps-là » à l’égard de tes oppresseurs ?",
+    "choices": [
+      "Il agira contre tous tes oppresseurs",
+      "Il pactisera avec eux",
+      "Il les oubliera sans jugement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:19 (LSG 1910)."
+  },
+  {
+    "id": "sophonie-N-120",
+    "book": "Sophonie",
+    "chapter": 3,
+    "verseRef": "Sophonie 3:19",
+    "verseText": "Voir Sophonie 3:19.",
+    "question": "Que fera-t-il pour ceux qui boitent ?",
+    "choices": [
+      "Il les dispersera",
+      "Il les sauvera",
+      "Il les fera taire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Sophonie 3:19 (LSG 1910)."
+  }
+]

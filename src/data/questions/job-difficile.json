@@ -1,0 +1,2942 @@
+[
+  {
+    "id": "JOB-D-001",
+    "book": "Job",
+    "chapter": 1,
+    "verseRef": "Job 1:8",
+    "verseText": "Voir Job 1:8.",
+    "question": "Dans la scène céleste, que dit l’Éternel au sujet de Job ?",
+    "choices": [
+      "« Il n’y a personne comme lui sur la terre, c’est un homme intègre et droit… »",
+      "« Il est le plus puissant des rois de l’Orient. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 1:8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-002",
+    "book": "Job",
+    "chapter": 1,
+    "verseRef": "Job 1:9",
+    "verseText": "Voir Job 1:9.",
+    "question": "Quel argument Satan avance-t-il sur la piété de Job ?",
+    "choices": [
+      "« Est-ce d’une manière désintéressée que Job craint Dieu ? »",
+      "« Job craint Dieu parce qu’il a peur des hommes. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 1:9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-003",
+    "book": "Job",
+    "chapter": 1,
+    "verseRef": "Job 1:21",
+    "verseText": "Voir Job 1:21.",
+    "question": "Quelle expression Job utilise-t-il en apprenant sa ruine pour reconnaître sa condition ?",
+    "choices": [
+      "« Nu je suis sorti du sein de ma mère, et nu j’y retournerai. »",
+      "« Je suis poussière et je disparaîtrai dans la mer. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 1:21 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-004",
+    "book": "Job",
+    "chapter": 2,
+    "verseRef": "Job 2:8",
+    "verseText": "Voir Job 2:8.",
+    "question": "Après la seconde épreuve, où Job s’assied-il ?",
+    "choices": [
+      "Sur la cendre",
+      "Sur un trône, pour être consolé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 2:8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-005",
+    "book": "Job",
+    "chapter": 2,
+    "verseRef": "Job 2:10",
+    "verseText": "Voir Job 2:10.",
+    "question": "Quelle formule conclut la réaction de Job face aux paroles de sa femme ?",
+    "choices": [
+      "« En tout cela Job ne pécha point par ses lèvres. »",
+      "« En tout cela Job pécha et blasphéma. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 2:10 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-006",
+    "book": "Job",
+    "chapter": 2,
+    "verseRef": "Job 2:11",
+    "verseText": "Voir Job 2:11.",
+    "question": "Quelle précision est donnée sur l’accord des trois amis avant leur arrivée ?",
+    "choices": [
+      "Ils convinrent de se rendre auprès de Job pour le plaindre et le consoler",
+      "Ils convinrent de l’accuser publiquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 2:11 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-007",
+    "book": "Job",
+    "chapter": 3,
+    "verseRef": "Job 3:1",
+    "verseText": "Voir Job 3:1.",
+    "question": "Quand Job ouvre la bouche au chapitre 3, quel acte est mentionné en premier ?",
+    "choices": [
+      "Il maudit le jour de sa naissance",
+      "Il bénit le jour de son mariage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 3:1 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-008",
+    "book": "Job",
+    "chapter": 4,
+    "verseRef": "Job 4:12-16",
+    "verseText": "Voir Job 4:12-16.",
+    "question": "Quel ami fonde une partie de son discours sur une vision nocturne terrifiante ?",
+    "choices": [
+      "Éliphaz",
+      "Bildad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 4:12-16 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-009",
+    "book": "Job",
+    "chapter": 4,
+    "verseRef": "Job 4:15",
+    "verseText": "Voir Job 4:15.",
+    "question": "Dans cette vision, que se passe-t-il « devant sa face » selon Éliphaz ?",
+    "choices": [
+      "Un esprit passa, les cheveux se hérissèrent",
+      "Une lumière apparut et un chant se fit entendre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 4:15 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-010",
+    "book": "Job",
+    "chapter": 4,
+    "verseRef": "Job 4:18",
+    "verseText": "Voir Job 4:18.",
+    "question": "Quel principe Éliphaz énonce sur Dieu et les serviteurs célestes ?",
+    "choices": [
+      "« Il ne se fie pas à ses serviteurs, il trouve de la folie chez ses anges »",
+      "« Les anges ne peuvent jamais être repris »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 4:18 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-011",
+    "book": "Job",
+    "chapter": 11,
+    "verseRef": "Job 11:8",
+    "verseText": "Voir Job 11:8.",
+    "question": "Quelle image Tsophar utilise-t-il pour dire que la connaissance de Dieu dépasse l’homme ?",
+    "choices": [
+      "« Plus haute que les cieux… plus profonde que le séjour des morts… »",
+      "« Plus petite qu’un grain de sable… »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 11:8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-012",
+    "book": "Job",
+    "chapter": 13,
+    "verseRef": "Job 13:15",
+    "verseText": "Voir Job 13:15.",
+    "question": "Selon Job, quelle déclaration résume sa confiance au milieu de la souffrance ?",
+    "choices": [
+      "« Même s’il me tue, je ne cesserai d’espérer en lui »",
+      "« Je n’ai plus aucun espoir en Dieu »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 13:15 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-013",
+    "book": "Job",
+    "chapter": 19,
+    "verseRef": "Job 19:23",
+    "verseText": "Voir Job 19:23.",
+    "question": "Quel souhait Job exprime au sujet de ses paroles et d’un écrit durable ?",
+    "choices": [
+      "Qu’elles soient écrites, inscrites dans un livre",
+      "Qu’elles soient oubliées aussitôt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 19:23 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-014",
+    "book": "Job",
+    "chapter": 19,
+    "verseRef": "Job 19:25",
+    "verseText": "Voir Job 19:25.",
+    "question": "Dans Job 19, quel détail suit immédiatement « Je sais que mon rédempteur est vivant » ?",
+    "choices": [
+      "« Et qu’il se lèvera le dernier sur la terre »",
+      "« Et qu’il m’enverra au loin »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 19:25 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-015",
+    "book": "Job",
+    "chapter": 19,
+    "verseRef": "Job 19:26-27",
+    "verseText": "Voir Job 19:26-27.",
+    "question": "Job affirme qu’après sa peau détruite, que verra-t-il ?",
+    "choices": [
+      "Dieu, et mes yeux le verront",
+      "Un ange seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 19:26-27 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-016",
+    "book": "Job",
+    "chapter": 28,
+    "verseRef": "Job 28:23",
+    "verseText": "Voir Job 28:23.",
+    "question": "Où Job place-t-il la sagesse, après avoir dit qu’on ne la trouve pas dans le pays des vivants ?",
+    "choices": [
+      "Dieu en connaît le chemin, lui seul sait où elle réside",
+      "Elle est cachée dans l’or d’Ophir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 28:23 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-017",
+    "book": "Job",
+    "chapter": 28,
+    "verseRef": "Job 28:14",
+    "verseText": "Voir Job 28:14.",
+    "question": "Selon Job, que dit « l’abîme » à propos de la sagesse ?",
+    "choices": [
+      "« Elle n’est point en moi »",
+      "« Elle est en moi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 28:14 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-018",
+    "book": "Job",
+    "chapter": 29,
+    "verseRef": "Job 29:7-8",
+    "verseText": "Voir Job 29:7-8.",
+    "question": "Dans le portrait de sa vie passée, Job dit que quand il sortait vers la porte de la ville…",
+    "choices": [
+      "Les jeunes gens se retiraient, les vieillards se levaient",
+      "Tous se moquaient de lui et le chassaient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 29:7-8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-019",
+    "book": "Job",
+    "chapter": 29,
+    "verseRef": "Job 29:15",
+    "verseText": "Voir Job 29:15.",
+    "question": "Job se compare à quoi lorsqu’il dit son rôle envers les affligés ?",
+    "choices": [
+      "« J’étais des yeux pour l’aveugle, des pieds pour le boiteux »",
+      "« J’étais une épée pour le guerrier »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 29:15 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-020",
+    "book": "Job",
+    "chapter": 30,
+    "verseRef": "Job 30:1-8",
+    "verseText": "Voir Job 30:1-8.",
+    "question": "Dans Job 30, quel contraste Job décrit-il au sujet de ceux qui se moquent de lui ?",
+    "choices": [
+      "Des hommes plus vils, qu’on aurait chassés du pays",
+      "Des rois et des princes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 30:1-8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-021",
+    "book": "Job",
+    "chapter": 31,
+    "verseRef": "Job 31:1",
+    "verseText": "Voir Job 31:1.",
+    "question": "Dans sa défense (Job 31), quel engagement Job prend-il « quant à ses yeux » ?",
+    "choices": [
+      "« J’avais fait alliance avec mes yeux; comment aurais-je arrêté mes regards sur une vierge ? »",
+      "« J’avais juré de ne jamais lire »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 31:1 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-022",
+    "book": "Job",
+    "chapter": 31,
+    "verseRef": "Job 31:13-15",
+    "verseText": "Voir Job 31:13-15.",
+    "question": "Toujours en Job 31, que dit Job au sujet de la justice envers ses serviteurs ?",
+    "choices": [
+      "Il craint de mépriser leur droit quand Dieu se lèvera",
+      "Il dit qu’un maître n’a aucun compte à rendre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 31:13-15 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-023",
+    "book": "Job",
+    "chapter": 32,
+    "verseRef": "Job 32:1-3",
+    "verseText": "Voir Job 32:1-3.",
+    "question": "Quel fait déclenche la prise de parole d’Élihu après le débat ?",
+    "choices": [
+      "Job se justifie plutôt que Dieu, et les amis ne trouvent plus de réponse",
+      "Job quitte la ville et s’enfuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 32:1-3 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-024",
+    "book": "Job",
+    "chapter": 32,
+    "verseRef": "Job 32:4-6",
+    "verseText": "Voir Job 32:4-6.",
+    "question": "Pourquoi Élihu avait-il attendu avant de parler ?",
+    "choices": [
+      "Parce qu’ils étaient plus âgés que lui",
+      "Parce qu’il avait peur de la tempête"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 32:4-6 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-025",
+    "book": "Job",
+    "chapter": 32,
+    "verseRef": "Job 32:8-9",
+    "verseText": "Voir Job 32:8-9.",
+    "question": "Selon Élihu, d’où vient l’intelligence chez l’homme ?",
+    "choices": [
+      "« Le souffle du Tout-Puissant donne l’intelligence »",
+      "« L’intelligence vient seulement des années »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 32:8-9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-026",
+    "book": "Job",
+    "chapter": 33,
+    "verseRef": "Job 33:14",
+    "verseText": "Voir Job 33:14.",
+    "question": "Élihu explique que Dieu parle à l’homme d’une manière, puis d’une autre… mais que fait l’homme ?",
+    "choices": [
+      "Il n’y prend point garde",
+      "Il comprend toujours parfaitement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 33:14 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-027",
+    "book": "Job",
+    "chapter": 33,
+    "verseRef": "Job 33:15",
+    "verseText": "Voir Job 33:15.",
+    "question": "Dans les moyens que Dieu emploie, Élihu mentionne « un songe, une vision nocturne » quand…",
+    "choices": [
+      "Le sommeil tombe sur les hommes",
+      "Les hommes chantent au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 33:15 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-028",
+    "book": "Job",
+    "chapter": 33,
+    "verseRef": "Job 33:18",
+    "verseText": "Voir Job 33:18.",
+    "question": "Selon Élihu, quel but Dieu poursuit-il en avertissant l’homme ?",
+    "choices": [
+      "Détourner son âme de la fosse et sa vie des coups de l’épée",
+      "Le rendre riche immédiatement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 33:18 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-029",
+    "book": "Job",
+    "chapter": 33,
+    "verseRef": "Job 33:23",
+    "verseText": "Voir Job 33:23.",
+    "question": "Élihu parle d’un médiateur : « S’il se trouve pour lui un ange… » faisant quoi ?",
+    "choices": [
+      "Montrer à l’homme la voie qu’il doit suivre",
+      "Lui apprendre la guerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 33:23 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-030",
+    "book": "Job",
+    "chapter": 34,
+    "verseRef": "Job 34:12",
+    "verseText": "Voir Job 34:12.",
+    "question": "À propos de Dieu, Élihu affirme :",
+    "choices": [
+      "« Certainement Dieu n’agit pas méchamment, le Tout-Puissant ne commet pas l’iniquité »",
+      "« Dieu agit parfois injustement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 34:12 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-031",
+    "book": "Job",
+    "chapter": 36,
+    "verseRef": "Job 36:26",
+    "verseText": "Voir Job 36:26.",
+    "question": "Élihu dit que Dieu est grand, mais quel détail ajoute-t-il sur le nombre de ses années ?",
+    "choices": [
+      "Il est impénétrable pour nous",
+      "Il est exactement comptable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 36:26 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-032",
+    "book": "Job",
+    "chapter": 37,
+    "verseRef": "Job 37:6",
+    "verseText": "Voir Job 37:6.",
+    "question": "Dans Job 37, Élihu décrit un ordre : Dieu dit à la neige…",
+    "choices": [
+      "« Tombe sur la terre »",
+      "« Retourne au ciel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 37:6 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-033",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:4",
+    "verseText": "Voir Job 38:4.",
+    "question": "Quand l’Éternel répond du milieu de la tempête, quelle première grande oeuvre cite-t-il ?",
+    "choices": [
+      "La fondation de la terre",
+      "La sortie d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:4 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-034",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:7",
+    "verseText": "Voir Job 38:7.",
+    "question": "Dieu demande à Job : « Qui en a posé la mesure… ? » et mentionne quoi comme scène d’allégresse ?",
+    "choices": [
+      "Les étoiles du matin éclatant en chants d’allégresse et les fils de Dieu poussant des cris de joie",
+      "Les rois de la terre s’assemblant en armes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:7 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-035",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:9",
+    "verseText": "Voir Job 38:9.",
+    "question": "Dieu interroge Job sur la mer : quand elle sortit, qu’est-ce qui lui servit de « langes » ?",
+    "choices": [
+      "La nuée pour vêtement, et l’obscurité pour langes",
+      "Le sable pour vêtement, et le feu pour langes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-036",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:19-20",
+    "verseText": "Voir Job 38:19-20.",
+    "question": "L’Éternel parle de la lumière et des ténèbres : que demande-t-il à Job ?",
+    "choices": [
+      "S’il connaît le chemin de la demeure de la lumière et le lieu des ténèbres",
+      "S’il connaît le nom de tous les anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:19-20 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-037",
+    "book": "Job",
+    "chapter": 39,
+    "verseRef": "Job 39:1",
+    "verseText": "Voir Job 39:1.",
+    "question": "Dans Job 39, Dieu questionne Job sur le bouquetin : quel fait est demandé ?",
+    "choices": [
+      "S’il connaît le temps où les bouquetins mettent bas",
+      "S’il a déjà dompté un lion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 39:1 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-038",
+    "book": "Job",
+    "chapter": 39,
+    "verseRef": "Job 39:9-10",
+    "verseText": "Voir Job 39:9-10.",
+    "question": "Toujours en Job 39, quelle bête est décrite comme ne pouvant être attachée au sillon ?",
+    "choices": [
+      "Le buffle",
+      "La brebis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 39:9-10 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-039",
+    "book": "Job",
+    "chapter": 39,
+    "verseRef": "Job 39:22",
+    "verseText": "Voir Job 39:22.",
+    "question": "Quel animal est décrit comme « se rit de la crainte, n’a peur de rien » au combat ?",
+    "choices": [
+      "Le cheval",
+      "La tourterelle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 39:22 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-040",
+    "book": "Job",
+    "chapter": 40,
+    "verseRef": "Job 40:2",
+    "verseText": "Voir Job 40:2.",
+    "question": "Dans Job 40, que reproche l’Éternel à « celui qui dispute contre le Tout-Puissant » ?",
+    "choices": [
+      "Vouloir le corriger",
+      "Trop prier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 40:2 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-041",
+    "book": "Job",
+    "chapter": 40,
+    "verseRef": "Job 40:4",
+    "verseText": "Voir Job 40:4.",
+    "question": "Quelle est la réponse immédiate de Job après cette réprimande ?",
+    "choices": [
+      "Il met la main sur sa bouche",
+      "Il quitte la cendre et danse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 40:4 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-042",
+    "book": "Job",
+    "chapter": 40,
+    "verseRef": "Job 40:16",
+    "verseText": "Voir Job 40:16.",
+    "question": "À propos du Béhémoth, quelle image décrit sa force principale ?",
+    "choices": [
+      "« Sa force est dans ses reins, et sa vigueur dans les muscles de son ventre »",
+      "« Sa force est dans ses ailes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 40:16 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-043",
+    "book": "Job",
+    "chapter": 41,
+    "verseRef": "Job 41:1",
+    "verseText": "Voir Job 41:1.",
+    "question": "À propos du Léviathan, Dieu demande si on peut…",
+    "choices": [
+      "Le pêcher avec un hameçon",
+      "Le porter sur l’épaule comme un agneau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 41:1 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-044",
+    "book": "Job",
+    "chapter": 41,
+    "verseRef": "Job 41:20-21",
+    "verseText": "Voir Job 41:20-21.",
+    "question": "Dans la description du Léviathan, quelle image de sa respiration est donnée ?",
+    "choices": [
+      "« Sa narine fait jaillir une fumée… un souffle allume des charbons »",
+      "« Sa narine répand du parfum »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 41:20-21 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-045",
+    "book": "Job",
+    "chapter": 41,
+    "verseRef": "Job 41:33",
+    "verseText": "Voir Job 41:33.",
+    "question": "Quelle conclusion Dieu énonce au sujet du Léviathan : « Sur la terre… » ?",
+    "choices": [
+      "« Nul n’est son maître » (il est sans pareil)",
+      "« Il est le plus faible des animaux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 41:33 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-046",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:2",
+    "verseText": "Voir Job 42:2.",
+    "question": "À la fin, Job reconnaît quelle limite de l’homme face à Dieu ?",
+    "choices": [
+      "« Je reconnais que tu peux tout, et que rien ne s’oppose à tes pensées »",
+      "« Je reconnais que tu ne peux pas tout »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:2 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-047",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:3",
+    "verseText": "Voir Job 42:3.",
+    "question": "Job cite la parole : « Quel est celui qui a la folie d’obscurcir mes desseins ? » puis confesse quoi ?",
+    "choices": [
+      "Avoir parlé sans comprendre, de merveilles qui le dépassent",
+      "Avoir gardé le silence parfait"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:3 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-048",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:5",
+    "verseText": "Voir Job 42:5.",
+    "question": "Après la correction divine, Job dit : « Mon oreille avait entendu parler de toi… »",
+    "choices": [
+      "« … mais maintenant mon oeil t’a vu »",
+      "« … et maintenant je ne te connais plus »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:5 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-049",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:7",
+    "verseText": "Voir Job 42:7.",
+    "question": "Quel verdict l’Éternel prononce-t-il sur Éliphaz et ses deux amis ?",
+    "choices": [
+      "« Vous n’avez pas parlé de moi avec droiture, comme l’a fait mon serviteur Job »",
+      "« Vous avez mieux parlé que Job »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:7 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-050",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:8",
+    "verseText": "Voir Job 42:8.",
+    "question": "Quelle offrande spécifique Dieu demande-t-il aux amis ?",
+    "choices": [
+      "Sept taureaux et sept béliers",
+      "Un seul agneau et une colombe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-051",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:8-9",
+    "verseText": "Voir Job 42:8-9.",
+    "question": "Quel rôle Job doit-il accomplir pour qu’ils soient acceptés ?",
+    "choices": [
+      "Job priera pour eux",
+      "Job les chassera du pays"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:8-9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-052",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:10",
+    "verseText": "Voir Job 42:10.",
+    "question": "Le texte précise que l’Éternel rétablit la situation de Job à quel moment ?",
+    "choices": [
+      "Lorsqu’il eut prié pour ses amis",
+      "Lorsqu’il eut quitté le pays d’Uz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:10 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-053",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:16",
+    "verseText": "Voir Job 42:16.",
+    "question": "Combien d’années Job vit-il après sa restauration ?",
+    "choices": [
+      "Cent quarante ans",
+      "Soixante-dix ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:16 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-054",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:16",
+    "verseText": "Voir Job 42:16.",
+    "question": "Que voit Job avant de mourir, selon le texte ?",
+    "choices": [
+      "Ses fils et les fils de ses fils jusqu’à la quatrième génération",
+      "Le temple de Salomon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:16 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-055",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:17",
+    "verseText": "Voir Job 42:17.",
+    "question": "Quelle formule clôt le livre au sujet de la mort de Job ?",
+    "choices": [
+      "« Job mourut âgé et rassasié de jours »",
+      "« Job mourut dans la jeunesse »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:17 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-056",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:12",
+    "verseText": "Voir Job 42:12.",
+    "question": "Parmi les biens doublés, combien Job possède-t-il de paires de boeufs à la fin ?",
+    "choices": [
+      "Mille paires",
+      "Cinq cents paires"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:12 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-057",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:12",
+    "verseText": "Voir Job 42:12.",
+    "question": "Parmi les biens doublés, combien Job possède-t-il d’anesses à la fin ?",
+    "choices": [
+      "Mille",
+      "Cinq cents"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Job 42:12 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-058",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:15",
+    "verseText": "Voir Job 42:15.",
+    "question": "Que dit le texte à propos des filles de Job concernant l’héritage ?",
+    "choices": [
+      "Leur père leur accorda une part d’héritage parmi leurs frères",
+      "Elles n’eurent aucune part d’héritage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:15 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-059",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:15",
+    "verseText": "Voir Job 42:15.",
+    "question": "Quel constat est fait sur la beauté des filles de Job ?",
+    "choices": [
+      "On ne trouvait pas dans tout le pays d’aussi belles femmes",
+      "Elles étaient craintes pour leur colère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:15 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-060",
+    "book": "Job",
+    "chapter": 1,
+    "verseRef": "Job 1:13",
+    "verseText": "Voir Job 1:13.",
+    "question": "Dans la première épreuve, quel détail exact est donné sur le lieu où les enfants festoyaient ?",
+    "choices": [
+      "Ils mangeaient et buvaient dans la maison de celui qui était premier-né",
+      "Ils festoyaient tous au palais du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 1:13 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-061",
+    "book": "Job",
+    "chapter": 6,
+    "verseRef": "Job 6:3",
+    "verseText": "Voir Job 6:3.",
+    "question": "Dans Job 6, Job affirme que sa calamité serait plus lourde que quoi ?",
+    "choices": [
+      "Le sable des mers",
+      "Les montagnes d’Arabie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 6:3 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-062",
+    "book": "Job",
+    "chapter": 13,
+    "verseRef": "Job 13:24",
+    "verseText": "Voir Job 13:24.",
+    "question": "Quelle expression Job emploie-t-il pour dire que Dieu l’attaque comme un ennemi ?",
+    "choices": [
+      "« Il me traite comme son ennemi »",
+      "« Il m’élève comme son prince »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 13:24 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-063",
+    "book": "Job",
+    "chapter": 7,
+    "verseRef": "Job 7:4",
+    "verseText": "Voir Job 7:4.",
+    "question": "Dans Job 7, comment Job décrit-il ses nuits ?",
+    "choices": [
+      "« Quand je me couche, je dis : Quand me lèverai-je ?… je suis rassasié d’agitations jusqu’à l’aurore »",
+      "« Je dors en paix jusqu’au matin »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 7:4 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-064",
+    "book": "Job",
+    "chapter": 7,
+    "verseRef": "Job 7:19",
+    "verseText": "Voir Job 7:19.",
+    "question": "Dans Job 7, Job demande à Dieu : « Quand détourneras-tu de moi… » quoi ?",
+    "choices": [
+      "Ton regard, et me laisseras-tu avaler ma salive ?",
+      "Tes anges, et me donneras-tu de l’or ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 7:19 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-065",
+    "book": "Job",
+    "chapter": 8,
+    "verseRef": "Job 8:14",
+    "verseText": "Voir Job 8:14.",
+    "question": "Dans Job 8, quelle image de fragilité Bildad donne-t-il sur l’espérance de l’impie ?",
+    "choices": [
+      "« Son assurance est une toile d’araignée »",
+      "« Son assurance est un roc »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 8:14 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-066",
+    "book": "Job",
+    "chapter": 9,
+    "verseRef": "Job 9:8",
+    "verseText": "Voir Job 9:8.",
+    "question": "Dans Job 9, Job dit que Dieu « marche… » où, sans qu’il l’aperçoive ?",
+    "choices": [
+      "Sur les hauteurs de la mer",
+      "Sur les plaines de Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 9:8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-067",
+    "book": "Job",
+    "chapter": 9,
+    "verseRef": "Job 9:9",
+    "verseText": "Voir Job 9:9.",
+    "question": "Dans Job 9, quel trio de constellations est nommé ?",
+    "choices": [
+      "La Grande Ourse, l’Orion, les Pléiades",
+      "Le Bélier, le Taureau, les Gémeaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 9:9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-068",
+    "book": "Job",
+    "chapter": 10,
+    "verseRef": "Job 10:21-22",
+    "verseText": "Voir Job 10:21-22.",
+    "question": "Dans Job 10, comment Job décrit-il la « lumière » du pays où il va ?",
+    "choices": [
+      "« Un pays d’épaisses ténèbres, où l’ombre de la mort règne… et où la lumière est comme les ténèbres »",
+      "« Un pays de soleil éclatant »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 10:21-22 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-069",
+    "book": "Job",
+    "chapter": 11,
+    "verseRef": "Job 11:6",
+    "verseText": "Voir Job 11:6.",
+    "question": "Dans Job 11, Tsophar dit que Dieu « oublie… » quoi de l’iniquité de Job ?",
+    "choices": [
+      "Une partie",
+      "Toute"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 11:6 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-070",
+    "book": "Job",
+    "chapter": 12,
+    "verseRef": "Job 12:7-8",
+    "verseText": "Voir Job 12:7-8.",
+    "question": "Dans Job 12, Job affirme que même « les… » apprennent quelque chose sur Dieu. Lesquelles ?",
+    "choices": [
+      "Les bêtes, les oiseaux, la terre, et les poissons de la mer",
+      "Les rois et les armées seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 12:7-8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-071",
+    "book": "Job",
+    "chapter": 13,
+    "verseRef": "Job 13:21",
+    "verseText": "Voir Job 13:21.",
+    "question": "Dans Job 13, Job demande que Dieu lui accorde deux choses avant qu’il ne se cache. Lesquelles ?",
+    "choices": [
+      "Écarter sa main, et ne plus l’effrayer",
+      "Lui donner richesse, et lui donner pouvoir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 13:21 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-072",
+    "book": "Job",
+    "chapter": 14,
+    "verseRef": "Job 14:7",
+    "verseText": "Voir Job 14:7.",
+    "question": "Dans Job 14, quelle comparaison Job fait-il avec un arbre coupé ?",
+    "choices": [
+      "Il y a de l’espérance pour l’arbre: coupé, il peut encore reverdir",
+      "L’arbre coupé ne repousse jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 14:7 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-073",
+    "book": "Job",
+    "chapter": 14,
+    "verseRef": "Job 14:10",
+    "verseText": "Voir Job 14:10.",
+    "question": "Dans Job 14, Job parle de l’homme : « Il… » quoi, puis « où est-il ? »",
+    "choices": [
+      "Meurt, et il perd sa force",
+      "Dort, et il se relève aussitôt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 14:10 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-074",
+    "book": "Job",
+    "chapter": 15,
+    "verseRef": "Job 15:7",
+    "verseText": "Voir Job 15:7.",
+    "question": "Dans Job 15, Éliphaz demande : « Es-tu né le premier des hommes ? » et ajoute quoi ?",
+    "choices": [
+      "« As-tu été formé avant les collines ? »",
+      "« As-tu traversé la mer Rouge ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 15:7 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-075",
+    "book": "Job",
+    "chapter": 16,
+    "verseRef": "Job 16:13",
+    "verseText": "Voir Job 16:13.",
+    "question": "Dans Job 16, Job dit : « Il a dressé… » quoi contre lui ?",
+    "choices": [
+      "Ses archers",
+      "Ses serviteurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 16:13 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-076",
+    "book": "Job",
+    "chapter": 16,
+    "verseRef": "Job 16:16",
+    "verseText": "Voir Job 16:16.",
+    "question": "Dans Job 16, quel détail Job mentionne-t-il sur son visage et ses paupières ?",
+    "choices": [
+      "Son visage est enflammé par les pleurs, et l’ombre de la mort est sur ses paupières",
+      "Son visage rayonne, et ses yeux brillent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 16:16 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-077",
+    "book": "Job",
+    "chapter": 17,
+    "verseRef": "Job 17:6",
+    "verseText": "Voir Job 17:6.",
+    "question": "Dans Job 17, Job dit que Dieu a fait de lui quoi pour les peuples ?",
+    "choices": [
+      "« Un objet de sarcasme pour les peuples »",
+      "« Un sujet de louange pour les peuples »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 17:6 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-078",
+    "book": "Job",
+    "chapter": 18,
+    "verseRef": "Job 18:11",
+    "verseText": "Voir Job 18:11.",
+    "question": "Dans Job 18, Bildad parle du méchant : « La terreur… » fait quoi autour de lui ?",
+    "choices": [
+      "L’assiège de toutes parts",
+      "Le protège de toutes parts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 18:11 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-079",
+    "book": "Job",
+    "chapter": 20,
+    "verseRef": "Job 20:16",
+    "verseText": "Voir Job 20:16.",
+    "question": "Dans Job 20, Tsophar décrit le méchant qui « suce… » quoi ?",
+    "choices": [
+      "Le venin des aspics",
+      "Le miel des rochers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 20:16 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-080",
+    "book": "Job",
+    "chapter": 21,
+    "verseRef": "Job 21:14",
+    "verseText": "Voir Job 21:14.",
+    "question": "Dans Job 21, Job ironise : quelle phrase attribue-t-il aux méchants envers Dieu ?",
+    "choices": [
+      "« Retire-toi de nous; nous ne voulons pas connaître tes voies »",
+      "« Enseigne-nous tes voies jour et nuit »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 21:14 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-081",
+    "book": "Job",
+    "chapter": 22,
+    "verseRef": "Job 22:7",
+    "verseText": "Voir Job 22:7.",
+    "question": "Dans Job 22, Éliphaz accuse Job : à l’homme altéré, tu n’as pas donné quoi ?",
+    "choices": [
+      "De l’eau",
+      "Du vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 22:7 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-082",
+    "book": "Job",
+    "chapter": 23,
+    "verseRef": "Job 23:10",
+    "verseText": "Voir Job 23:10.",
+    "question": "Dans Job 23, Job affirme au sujet du chemin de Dieu : « Il sait… » quoi ?",
+    "choices": [
+      "La voie que je suis",
+      "Le nom de mes parents"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 23:10 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-083",
+    "book": "Job",
+    "chapter": 24,
+    "verseRef": "Job 24:2",
+    "verseText": "Voir Job 24:2.",
+    "question": "Dans Job 24, Job décrit des hommes : « Ils… » quoi aux limites du champ ?",
+    "choices": [
+      "Déplacent les bornes",
+      "Plantent des bornes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 24:2 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-084",
+    "book": "Job",
+    "chapter": 26,
+    "verseRef": "Job 26:7",
+    "verseText": "Voir Job 26:7.",
+    "question": "Dans Job 26, Job décrit la terre : Dieu la « suspend… » sur quoi ?",
+    "choices": [
+      "Sur le vide",
+      "Sur des colonnes d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 26:7 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-085",
+    "book": "Job",
+    "chapter": 27,
+    "verseRef": "Job 27:5",
+    "verseText": "Voir Job 27:5.",
+    "question": "Dans Job 27, Job affirme : « Jusqu’à mon dernier soupir… » quoi ne s’éloignera pas de lui ?",
+    "choices": [
+      "Mes lèvres ne se départiront point de l’intégrité",
+      "Mes lèvres ne diront que des mensonges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 27:5 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-086",
+    "book": "Job",
+    "chapter": 28,
+    "verseRef": "Job 28:15-16",
+    "verseText": "Voir Job 28:15-16.",
+    "question": "Dans Job 28, quelle liste est donnée pour dire que l’or ne suffit pas à la sagesse ?",
+    "choices": [
+      "Or, argent, onyx précieux, saphir",
+      "Bois, pierres, tissus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 28:15-16 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-087",
+    "book": "Job",
+    "chapter": 29,
+    "verseRef": "Job 29:8",
+    "verseText": "Voir Job 29:8.",
+    "question": "Dans Job 29, Job dit que quand il sortait, les jeunes gens faisaient quoi ?",
+    "choices": [
+      "Ils se retiraient",
+      "Ils l’insultaient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 29:8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-088",
+    "book": "Job",
+    "chapter": 30,
+    "verseRef": "Job 30:19",
+    "verseText": "Voir Job 30:19.",
+    "question": "Dans Job 30, Job dit : « Dieu m’a jeté… » où ?",
+    "choices": [
+      "Dans la boue",
+      "Dans l’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 30:19 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-089",
+    "book": "Job",
+    "chapter": 31,
+    "verseRef": "Job 31:9-10",
+    "verseText": "Voir Job 31:9-10.",
+    "question": "Dans Job 31, Job déclare : si son coeur a été séduit par une femme, quel châtiment accepte-t-il ?",
+    "choices": [
+      "Que sa femme tourne la meule pour un autre, et que d’autres la déshonorent",
+      "Qu’on lui donne un nouveau troupeau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 31:9-10 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-090",
+    "book": "Job",
+    "chapter": 31,
+    "verseRef": "Job 31:26-27",
+    "verseText": "Voir Job 31:26-27.",
+    "question": "Dans Job 31, Job parle de l’idolâtrie du soleil et de la lune : quel geste mentionne-t-il ?",
+    "choices": [
+      "Porter la main à sa bouche pour l’embrasser",
+      "Frapper des mains et danser"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 31:26-27 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-091",
+    "book": "Job",
+    "chapter": 32,
+    "verseRef": "Job 32:9",
+    "verseText": "Voir Job 32:9.",
+    "question": "Dans Job 32, Élihu dit que la sagesse n’est pas le privilège de qui ?",
+    "choices": [
+      "Des grands, ni l’intelligence des vieillards",
+      "Des pauvres, ni des enfants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 32:9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-092",
+    "book": "Job",
+    "chapter": 33,
+    "verseRef": "Job 33:28",
+    "verseText": "Voir Job 33:28.",
+    "question": "Dans Job 33, Élihu dit que Dieu délivre l’âme de l’homme de quoi ?",
+    "choices": [
+      "De la fosse",
+      "Du sommeil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 33:28 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-093",
+    "book": "Job",
+    "chapter": 34,
+    "verseRef": "Job 34:19",
+    "verseText": "Voir Job 34:19.",
+    "question": "Dans Job 34, Élihu affirme que Dieu ne fait pas quoi envers personne ?",
+    "choices": [
+      "Il ne fait acception de personne",
+      "Il choisit selon la richesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 34:19 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-094",
+    "book": "Job",
+    "chapter": 36,
+    "verseRef": "Job 36:18",
+    "verseText": "Voir Job 36:18.",
+    "question": "Dans Job 36, Élihu décrit le danger : si l’on se laisse séduire par l’abondance, elle pourrait faire quoi ?",
+    "choices": [
+      "Te faire dévier",
+      "Te rendre saint automatiquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 36:18 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-095",
+    "book": "Job",
+    "chapter": 37,
+    "verseRef": "Job 37:3",
+    "verseText": "Voir Job 37:3.",
+    "question": "Dans Job 37, Élihu dit que Dieu fait quoi « sous les cieux » avec la foudre ?",
+    "choices": [
+      "Il la lance jusqu’aux extrémités de la terre",
+      "Il la garde enfermée au nord"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 37:3 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-096",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:8",
+    "verseText": "Voir Job 38:8.",
+    "question": "Dans Job 38, Dieu demande : qui a renfermé la mer avec des portes ?",
+    "choices": [
+      "Dieu lui-même (question rhétorique à Job)",
+      "Job par sa sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-097",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:22-23",
+    "verseText": "Voir Job 38:22-23.",
+    "question": "Dans Job 38, Dieu parle des « trésors » de quoi ?",
+    "choices": [
+      "De la neige et de la grêle",
+      "De l’or et de l’encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:22-23 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-098",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:31",
+    "verseText": "Voir Job 38:31.",
+    "question": "Dans Job 38, Dieu interroge Job : peux-tu nouer les liens des Pléiades ou détacher quoi ?",
+    "choices": [
+      "Les cordages de l’Orion",
+      "Les chaînes de la lune"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:31 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-099",
+    "book": "Job",
+    "chapter": 39,
+    "verseRef": "Job 39:7",
+    "verseText": "Voir Job 39:7.",
+    "question": "Dans Job 39, quel animal est décrit comme méprisant la foule de la ville et n’entendant pas les cris du charretier ?",
+    "choices": [
+      "L’âne sauvage",
+      "Le corbeau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 39:7 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-100",
+    "book": "Job",
+    "chapter": 39,
+    "verseRef": "Job 39:13-17",
+    "verseText": "Voir Job 39:13-17.",
+    "question": "Dans Job 39, quel oiseau est décrit comme abandonnant ses oeufs à la terre, faute de sagesse ?",
+    "choices": [
+      "L’autruche",
+      "La colombe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 39:13-17 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-101",
+    "book": "Job",
+    "chapter": 40,
+    "verseRef": "Job 40:15",
+    "verseText": "Voir Job 40:15.",
+    "question": "Dans Job 40, Dieu dit : « Regarde le Béhémoth… » il mange quoi comme le boeuf ?",
+    "choices": [
+      "De l’herbe",
+      "De la chair"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 40:15 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-102",
+    "book": "Job",
+    "chapter": 40,
+    "verseRef": "Job 40:17",
+    "verseText": "Voir Job 40:17.",
+    "question": "Dans Job 40, quelle description est donnée de la queue du Béhémoth ?",
+    "choices": [
+      "« Il plie sa queue aussi ferme qu’un cèdre »",
+      "« Il cache sa queue comme une plume »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 40:17 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-103",
+    "book": "Job",
+    "chapter": 41,
+    "verseRef": "Job 41:2",
+    "verseText": "Voir Job 41:2.",
+    "question": "Dans Job 41, Dieu demande si l’on peut mettre quoi dans les narines du Léviathan ?",
+    "choices": [
+      "Un jonc",
+      "Une couronne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 41:2 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-104",
+    "book": "Job",
+    "chapter": 41,
+    "verseRef": "Job 41:26-29",
+    "verseText": "Voir Job 41:26-29.",
+    "question": "Dans Job 41, que dit le texte sur les traits, lances et harpons contre le Léviathan ?",
+    "choices": [
+      "Ils sont comme de la paille et du bois pour lui",
+      "Ils le transpercent facilement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 41:26-29 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-105",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:3",
+    "verseText": "Voir Job 42:3.",
+    "question": "Dans Job 42, Job confesse : « J’ai parlé… » de quoi ?",
+    "choices": [
+      "De merveilles qui me dépassent et que je ne conçois pas",
+      "De choses simples que je maîtrise"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:3 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-106",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:3",
+    "verseText": "Voir Job 42:3.",
+    "question": "Dans Job 42, quelle action Job demande-t-il pardon d’avoir faite ?",
+    "choices": [
+      "D’avoir parlé sans intelligence",
+      "D’avoir refusé tout sacrifice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:3 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-107",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:11",
+    "verseText": "Voir Job 42:11.",
+    "question": "Dans Job 42, quel nom est cité en premier parmi les proches qui viennent consoler Job après sa restauration ?",
+    "choices": [
+      "Ses frères, ses soeurs, et ses anciennes connaissances",
+      "Les rois d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:11 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-108",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:11",
+    "verseText": "Voir Job 42:11.",
+    "question": "Dans Job 42, quel cadeau chacun offre-t-il à Job ?",
+    "choices": [
+      "Une pièce d’argent et un anneau d’or",
+      "Un taureau et un bélier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:11 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-109",
+    "book": "Job",
+    "chapter": 24,
+    "verseRef": "Job 24:7",
+    "verseText": "Voir Job 24:7.",
+    "question": "Dans Job 24, Job décrit les pauvres : ils passent la nuit nus, faute de quoi ?",
+    "choices": [
+      "De vêtements",
+      "De pain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 24:7 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-110",
+    "book": "Job",
+    "chapter": 26,
+    "verseRef": "Job 26:13",
+    "verseText": "Voir Job 26:13.",
+    "question": "Dans Job 26, Job dit : « Par son souffle… » fait quoi au serpent fugitif ?",
+    "choices": [
+      "Sa main a percé le serpent fugitif",
+      "Sa main l’a couronné de gloire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 26:13 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-111",
+    "book": "Job",
+    "chapter": 15,
+    "verseRef": "Job 15:16",
+    "verseText": "Voir Job 15:16.",
+    "question": "Dans Job 15, quel mot Éliphaz emploie-t-il pour parler de l’homme devant Dieu ?",
+    "choices": [
+      "« L’homme, qui n’est qu’impureté »",
+      "« L’homme, qui est sans défaut »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 15:16 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-112",
+    "book": "Job",
+    "chapter": 18,
+    "verseRef": "Job 18:6",
+    "verseText": "Voir Job 18:6.",
+    "question": "Dans Job 18, Bildad parle du méchant : « La lumière… » fait quoi dans sa tente ?",
+    "choices": [
+      "S’obscurcit",
+      "Grandit et éclaire les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 18:6 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-113",
+    "book": "Job",
+    "chapter": 20,
+    "verseRef": "Job 20:15",
+    "verseText": "Voir Job 20:15.",
+    "question": "Dans Job 20, Tsophar déclare que le méchant rendra quoi ?",
+    "choices": [
+      "Il rendra ce qu’il a dévoré",
+      "Il gardera tout pour toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 20:15 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-114",
+    "book": "Job",
+    "chapter": 21,
+    "verseRef": "Job 21:13",
+    "verseText": "Voir Job 21:13.",
+    "question": "Dans Job 21, Job décrit la fin de certains méchants : ils descendent quoi ?",
+    "choices": [
+      "En paix dans le séjour des morts",
+      "En guerre sur un champ de bataille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 21:13 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-115",
+    "book": "Job",
+    "chapter": 23,
+    "verseRef": "Job 23:14",
+    "verseText": "Voir Job 23:14.",
+    "question": "Dans Job 23, Job dit que Dieu accomplit quoi à son sujet ?",
+    "choices": [
+      "Ce qu’il a résolu pour moi",
+      "Ce que mes amis ont résolu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 23:14 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-116",
+    "book": "Job",
+    "chapter": 31,
+    "verseRef": "Job 31:28",
+    "verseText": "Voir Job 31:28.",
+    "question": "Dans Job 31, Job dit : s’il a mis sa confiance dans l’or, cela serait quoi ?",
+    "choices": [
+      "Une iniquité digne des juges",
+      "Un acte de sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 31:28 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-117",
+    "book": "Job",
+    "chapter": 33,
+    "verseRef": "Job 33:24",
+    "verseText": "Voir Job 33:24.",
+    "question": "Dans Job 33, Élihu décrit une délivrance : Dieu dit « Délivre-le… » de quoi, car j’ai trouvé une rançon ?",
+    "choices": [
+      "De la fosse",
+      "De la faim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 33:24 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-118",
+    "book": "Job",
+    "chapter": 36,
+    "verseRef": "Job 36:27",
+    "verseText": "Voir Job 36:27.",
+    "question": "Dans Job 36, Élihu dit : Dieu attire les gouttes d’eau, elles distillent quoi ?",
+    "choices": [
+      "La pluie",
+      "Le feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 36:27 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-119",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:36",
+    "verseText": "Voir Job 38:36.",
+    "question": "Dans Job 38, Dieu demande à Job : « Qui a mis… » quoi dans l’ibis ?",
+    "choices": [
+      "De la sagesse",
+      "De l’orgueil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:36 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-120",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:12",
+    "verseText": "Voir Job 42:12.",
+    "question": "Dans Job 42, que dit le texte : l’Éternel bénit les dernières années de Job comment ?",
+    "choices": [
+      "Plus que les premières",
+      "Moins que les premières"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:12 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-121",
+    "book": "Job",
+    "chapter": 1,
+    "verseRef": "Job 1:11",
+    "verseText": "Voir Job 1:11.",
+    "question": "Quel défi Satan lance-t-il : si Dieu frappe Job, que fera-t-il « en face » de Dieu ?",
+    "choices": [
+      "« Je suis sûr qu’il te maudit en face »",
+      "« Je suis sûr qu’il te bénit en face »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 1:11 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-122",
+    "book": "Job",
+    "chapter": 2,
+    "verseRef": "Job 2:4",
+    "verseText": "Voir Job 2:4.",
+    "question": "Quelle seconde formule Satan répète-t-il au sujet de Job après l’attaque sur sa personne ?",
+    "choices": [
+      "« Peau pour peau ! »",
+      "« Pain pour pain ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 2:4 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-123",
+    "book": "Job",
+    "chapter": 10,
+    "verseRef": "Job 10:20",
+    "verseText": "Voir Job 10:20.",
+    "question": "Quel souhait Job exprime au sujet de la parole et du silence de Dieu ?",
+    "choices": [
+      "« Laisse-moi, afin que je reprenne un peu courage »",
+      "« Parle sans cesse, afin que je m’effondre »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 10:20 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-124",
+    "book": "Job",
+    "chapter": 21,
+    "verseRef": "Job 21:34",
+    "verseText": "Voir Job 21:34.",
+    "question": "Quel langage Job refuse-t-il d’accepter comme venant de ses amis ?",
+    "choices": [
+      "« De vaines consolations »",
+      "« Des oracles sacrés »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 21:34 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-125",
+    "book": "Job",
+    "chapter": 19,
+    "verseRef": "Job 19:6",
+    "verseText": "Voir Job 19:6.",
+    "question": "Quel reproche Job adresse-t-il : ses amis ont fait quoi à sa cause ?",
+    "choices": [
+      "« Vous violez mon droit »",
+      "« Vous défendez mon droit »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 19:6 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-126",
+    "book": "Job",
+    "chapter": 19,
+    "verseRef": "Job 19:6",
+    "verseText": "Voir Job 19:6.",
+    "question": "Quelle image Job utilise-t-il sur Dieu qui « l’a entouré » ?",
+    "choices": [
+      "« Il m’a environné de ses filets »",
+      "« Il m’a entouré de ses trésors »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 19:6 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-127",
+    "book": "Job",
+    "chapter": 23,
+    "verseRef": "Job 23:8-9",
+    "verseText": "Voir Job 23:8-9.",
+    "question": "Quel détail Job donne-t-il sur l’éloignement de Dieu dans sa recherche ?",
+    "choices": [
+      "« Je vais à l’orient, il n’y est pas; à l’occident, je ne l’aperçois pas »",
+      "« Je le vois toujours au même lieu »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 23:8-9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-128",
+    "book": "Job",
+    "chapter": 23,
+    "verseRef": "Job 23:9",
+    "verseText": "Voir Job 23:9.",
+    "question": "Que dit Job : Dieu fait quoi « au midi » et « au nord » ?",
+    "choices": [
+      "« Au midi, je le cherche, et je ne le vois pas; au nord, il agit, et je ne l’aperçois pas »",
+      "« Au midi et au nord, il se montre en plein jour »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 23:9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-129",
+    "book": "Job",
+    "chapter": 23,
+    "verseRef": "Job 23:12",
+    "verseText": "Voir Job 23:12.",
+    "question": "Quelle phrase Job emploie-t-il sur la parole divine qu’il garde en lui ?",
+    "choices": [
+      "« J’ai fait plier ma volonté aux paroles de sa bouche »",
+      "« J’ai effacé ses paroles de mon coeur »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 23:12 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-130",
+    "book": "Job",
+    "chapter": 21,
+    "verseRef": "Job 21:8",
+    "verseText": "Voir Job 21:8.",
+    "question": "Quel contraste Job expose-t-il sur les méchants et leurs enfants ?",
+    "choices": [
+      "« Leur postérité s’affermit avec eux… »",
+      "« Leur postérité disparaît dès l’enfance… »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 21:8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-131",
+    "book": "Job",
+    "chapter": 24,
+    "verseRef": "Job 24:15",
+    "verseText": "Voir Job 24:15.",
+    "question": "Quel acte nocturne Job attribue-t-il à l’adultère ?",
+    "choices": [
+      "Il dit : « Nul oeil ne me verra », et met un voile sur son visage",
+      "Il confesse tout publiquement au matin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 24:15 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-132",
+    "book": "Job",
+    "chapter": 24,
+    "verseRef": "Job 24:17",
+    "verseText": "Voir Job 24:17.",
+    "question": "Quelle sentence Job donne-t-il sur la lumière de l’adultère ?",
+    "choices": [
+      "« Le matin lui est comme l’ombre de la mort »",
+      "« Le matin lui est comme la fête »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 24:17 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-133",
+    "book": "Job",
+    "chapter": 25,
+    "verseRef": "Job 25:2",
+    "verseText": "Voir Job 25:2.",
+    "question": "Quelle affirmation Bildad fait-il sur l’ordre du ciel sous Dieu ?",
+    "choices": [
+      "« Il fait la paix dans ses hautes régions »",
+      "« Il fait la guerre dans ses hautes régions »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 25:2 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-134",
+    "book": "Job",
+    "chapter": 25,
+    "verseRef": "Job 25:4",
+    "verseText": "Voir Job 25:4.",
+    "question": "Quelle question Bildad pose-t-il sur la pureté de l’homme ?",
+    "choices": [
+      "« Comment l’homme serait-il juste devant Dieu ? »",
+      "« Comment l’homme serait-il égal à Dieu ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 25:4 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-135",
+    "book": "Job",
+    "chapter": 26,
+    "verseRef": "Job 26:7",
+    "verseText": "Voir Job 26:7.",
+    "question": "Quel fait cosmique Job proclame-t-il : Dieu « suspend » quoi et comment ?",
+    "choices": [
+      "« Il suspend la terre sur le vide »",
+      "« Il suspend la terre sur des piliers d’or »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 26:7 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-136",
+    "book": "Job",
+    "chapter": 26,
+    "verseRef": "Job 26:12",
+    "verseText": "Voir Job 26:12.",
+    "question": "Quel acte Job attribue-t-il à Dieu sur la mer en terme de jugement ?",
+    "choices": [
+      "« Par son souffle, il calme la mer »",
+      "« Par son souffle, il détruit la mer sans raison »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 26:12 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-137",
+    "book": "Job",
+    "chapter": 26,
+    "verseRef": "Job 26:13",
+    "verseText": "Voir Job 26:13.",
+    "question": "Quel détail Job donne-t-il sur « le serpent fugitif » ?",
+    "choices": [
+      "« Sa main a percé le serpent fugitif »",
+      "« Sa main a nourri le serpent fugitif »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 26:13 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-138",
+    "book": "Job",
+    "chapter": 27,
+    "verseRef": "Job 27:3-4",
+    "verseText": "Voir Job 27:3-4.",
+    "question": "Quelle condition Job pose : tant qu’il a « un souffle », que refusera-t-il ?",
+    "choices": [
+      "Dire que ses amis ont raison contre lui",
+      "Parler encore de Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 27:3-4 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-139",
+    "book": "Job",
+    "chapter": 27,
+    "verseRef": "Job 27:8",
+    "verseText": "Voir Job 27:8.",
+    "question": "Quelle est la question Job pose sur l’impie quand Dieu retire son âme ?",
+    "choices": [
+      "« Quelle est l’espérance de l’impie… quand Dieu lui retire son âme ? »",
+      "« Quelle est la richesse de l’impie… quand Dieu lui donne des troupeaux ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 27:8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-140",
+    "book": "Job",
+    "chapter": 27,
+    "verseRef": "Job 27:9",
+    "verseText": "Voir Job 27:9.",
+    "question": "Quel verdict Job donne-t-il sur le cri de l’impie dans la détresse ?",
+    "choices": [
+      "« Dieu l’exaucera-t-il, quand l’angoisse viendra sur lui ? » (implication : non)",
+      "« Dieu l’exaucera toujours »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 27:9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-141",
+    "book": "Job",
+    "chapter": 28,
+    "verseRef": "Job 28:9",
+    "verseText": "Voir Job 28:9.",
+    "question": "Quel exploit du mineur est cité : il « renverse » quoi ?",
+    "choices": [
+      "« Il renverse les montagnes par la racine »",
+      "« Il renverse les villes par l’épée »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 28:9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-142",
+    "book": "Job",
+    "chapter": 28,
+    "verseRef": "Job 28:10",
+    "verseText": "Voir Job 28:10.",
+    "question": "Que fait le mineur aux rochers, selon Job ?",
+    "choices": [
+      "« Il creuse des galeries »",
+      "« Il les polit avec de l’huile »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 28:10 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-143",
+    "book": "Job",
+    "chapter": 28,
+    "verseRef": "Job 28:11",
+    "verseText": "Voir Job 28:11.",
+    "question": "Qu’arrive-t-il aux cours d’eau d’après Job ?",
+    "choices": [
+      "« Il arrête les cours d’eau, et ce qui est caché il l’amène à la lumière »",
+      "« Il fait déborder les cours d’eau pour tout détruire »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 28:11 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-144",
+    "book": "Job",
+    "chapter": 28,
+    "verseRef": "Job 28:28",
+    "verseText": "Voir Job 28:28.",
+    "question": "Quel titre Job donne-t-il à la sagesse en conclusion ?",
+    "choices": [
+      "« La crainte du Seigneur, c’est la sagesse; s’éloigner du mal, c’est l’intelligence »",
+      "« L’or, c’est la sagesse; le pouvoir, c’est l’intelligence »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 28:28 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-145",
+    "book": "Job",
+    "chapter": 29,
+    "verseRef": "Job 29:11",
+    "verseText": "Voir Job 29:11.",
+    "question": "Quel témoignage Job dit-il recevoir de la ville ?",
+    "choices": [
+      "« L’oreille qui m’entendait me disait heureux »",
+      "« L’oreille qui m’entendait me maudissait »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 29:11 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-146",
+    "book": "Job",
+    "chapter": 29,
+    "verseRef": "Job 29:17",
+    "verseText": "Voir Job 29:17.",
+    "question": "Quel geste de justice Job affirme-t-il face au pauvre ?",
+    "choices": [
+      "« Je brisais la mâchoire de l’inique, et je lui arrachais la proie entre les dents »",
+      "« Je laissais l’inique régner sans obstacle »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 29:17 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-147",
+    "book": "Job",
+    "chapter": 30,
+    "verseRef": "Job 30:20",
+    "verseText": "Voir Job 30:20.",
+    "question": "Quel cri Job adresse-t-il à Dieu sans réponse ?",
+    "choices": [
+      "« Je crie vers toi, et tu ne me réponds pas »",
+      "« Je crie vers toi, et tu me couronnes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 30:20 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-148",
+    "book": "Job",
+    "chapter": 30,
+    "verseRef": "Job 30:21",
+    "verseText": "Voir Job 30:21.",
+    "question": "Quelle plainte Job exprime sur l’action de Dieu contre lui ?",
+    "choices": [
+      "« Tu es devenu cruel pour moi »",
+      "« Tu es devenu faible pour moi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 30:21 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-149",
+    "book": "Job",
+    "chapter": 30,
+    "verseRef": "Job 30:26",
+    "verseText": "Voir Job 30:26.",
+    "question": "Quel retournement Job décrit-il entre attente et réalité ?",
+    "choices": [
+      "« J’espérais le bonheur, et le malheur est venu »",
+      "« J’espérais le malheur, et le bonheur est venu »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 30:26 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-150",
+    "book": "Job",
+    "chapter": 31,
+    "verseRef": "Job 31:24",
+    "verseText": "Voir Job 31:24.",
+    "question": "Quel serment Job prononce sur l’or ?",
+    "choices": [
+      "« Si j’ai mis ma confiance dans l’or »",
+      "« Si j’ai méprisé l’or »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 31:24 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-151",
+    "book": "Job",
+    "chapter": 31,
+    "verseRef": "Job 31:29",
+    "verseText": "Voir Job 31:29.",
+    "question": "Quel autre aveu Job rejette-t-il : se réjouir de quoi ?",
+    "choices": [
+      "« Si je me suis réjoui de la ruine de celui qui me haïssait »",
+      "« Si je me suis réjoui de la paix du juste »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 31:29 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-152",
+    "book": "Job",
+    "chapter": 31,
+    "verseRef": "Job 31:30",
+    "verseText": "Voir Job 31:30.",
+    "question": "Quel contrôle Job affirme-t-il sur ses paroles contre ses ennemis ?",
+    "choices": [
+      "Il n’a pas demandé leur mort par une imprécation",
+      "Il a toujours appelé à leur mort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 31:30 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-153",
+    "book": "Job",
+    "chapter": 31,
+    "verseRef": "Job 31:33",
+    "verseText": "Voir Job 31:33.",
+    "question": "À quoi Job compare-t-il le fait de cacher ses fautes ?",
+    "choices": [
+      "« Comme Adam »",
+      "« Comme David »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 31:33 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-154",
+    "book": "Job",
+    "chapter": 31,
+    "verseRef": "Job 31:34",
+    "verseText": "Voir Job 31:34.",
+    "question": "Pourquoi Job ne restait-il pas silencieux « à la porte » ?",
+    "choices": [
+      "Le mépris des familles ne l’effrayait pas",
+      "Il craignait la pauvreté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 31:34 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-155",
+    "book": "Job",
+    "chapter": 32,
+    "verseRef": "Job 32:21",
+    "verseText": "Voir Job 32:21.",
+    "question": "Que déclare Élihu sur la flatterie et l’impartialité ?",
+    "choices": [
+      "« Je ne ferai acception de personne, et je ne flatterai personne »",
+      "« Je flatterai les puissants pour être écouté »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 32:21 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-156",
+    "book": "Job",
+    "chapter": 32,
+    "verseRef": "Job 32:22",
+    "verseText": "Voir Job 32:22.",
+    "question": "Quelle crainte Élihu associe-t-il à la flatterie ?",
+    "choices": [
+      "« Mon créateur m’enlèverait bientôt »",
+      "« Mes amis m’abandonneraient bientôt »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 32:22 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-157",
+    "book": "Job",
+    "chapter": 33,
+    "verseRef": "Job 33:29",
+    "verseText": "Voir Job 33:29.",
+    "question": "Quelle répétition Élihu donne-t-il sur l’action de Dieu envers l’homme ?",
+    "choices": [
+      "« Dieu agit deux fois, trois fois, avec l’homme »",
+      "« Dieu agit une fois seulement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 33:29 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-158",
+    "book": "Job",
+    "chapter": 33,
+    "verseRef": "Job 33:30",
+    "verseText": "Voir Job 33:30.",
+    "question": "Quel but Élihu donne-t-il : détourner l’âme de quoi ?",
+    "choices": [
+      "De la fosse",
+      "Du sommeil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 33:30 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-159",
+    "book": "Job",
+    "chapter": 34,
+    "verseRef": "Job 34:21",
+    "verseText": "Voir Job 34:21.",
+    "question": "Quelle affirmation Élihu fait-il sur l’observation divine ?",
+    "choices": [
+      "« Ses yeux sont sur les voies de l’homme »",
+      "« Ses yeux ne voient pas l’homme »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 34:21 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-160",
+    "book": "Job",
+    "chapter": 35,
+    "verseRef": "Job 35:10",
+    "verseText": "Voir Job 35:10.",
+    "question": "Quel rôle Élihu attribue à Dieu dans la nuit ?",
+    "choices": [
+      "« Dieu, mon créateur, qui donne des chants dans la nuit »",
+      "« Dieu, qui supprime toute nuit »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 35:10 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-161",
+    "book": "Job",
+    "chapter": 35,
+    "verseRef": "Job 35:11",
+    "verseText": "Voir Job 35:11.",
+    "question": "Quel contraste Élihu établit sur l’enseignement de Dieu ?",
+    "choices": [
+      "« Il nous instruit plus que les bêtes de la terre »",
+      "« Il nous instruit moins que les poissons »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 35:11 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-162",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:22",
+    "verseText": "Voir Job 38:22.",
+    "question": "Quelle question Dieu pose à Job sur la neige ?",
+    "choices": [
+      "« Es-tu parvenu jusqu’aux trésors de la neige ? »",
+      "« As-tu créé la neige de tes mains ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:22 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-163",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:22-23",
+    "verseText": "Voir Job 38:22-23.",
+    "question": "Quelle autre réserve Dieu mentionne-t-il avec la neige ?",
+    "choices": [
+      "Les trésors de la grêle",
+      "Les trésors de l’or d’Ophir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:22-23 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-164",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:23",
+    "verseText": "Voir Job 38:23.",
+    "question": "Quel usage Dieu donne-t-il à la grêle selon ses paroles ?",
+    "choices": [
+      "Pour le temps de la détresse, pour le jour du combat et de la guerre",
+      "Pour arroser les jardins des rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:23 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-165",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:28",
+    "verseText": "Voir Job 38:28.",
+    "question": "Quelle question Dieu pose sur l’origine de la pluie ?",
+    "choices": [
+      "« La pluie a-t-elle un père ? »",
+      "« La pluie vient-elle des hommes ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:28 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-166",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:28",
+    "verseText": "Voir Job 38:28.",
+    "question": "Quelle question Dieu pose sur la rosée ?",
+    "choices": [
+      "« Qui engendre les gouttes de la rosée ? »",
+      "« Qui vend les gouttes de la rosée ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:28 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-167",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:30",
+    "verseText": "Voir Job 38:30.",
+    "question": "Quelle image Dieu donne-t-il sur les eaux durcies ?",
+    "choices": [
+      "« De la pierre l’eau se durcit »",
+      "« L’eau devient du feu »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:30 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-168",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:35",
+    "verseText": "Voir Job 38:35.",
+    "question": "Quel défi Dieu lance au sujet des éclairs ?",
+    "choices": [
+      "« Peux-tu lancer des éclairs ? »",
+      "« Peux-tu arrêter le vent ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:35 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-169",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:35",
+    "verseText": "Voir Job 38:35.",
+    "question": "Quel résultat est décrit si Job lançait des éclairs ?",
+    "choices": [
+      "« Ils te diraient : Nous voici ! »",
+      "« Ils te diraient : Nous fuyons ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:35 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-170",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:36",
+    "verseText": "Voir Job 38:36.",
+    "question": "Quelle question Dieu pose sur la sagesse cachée « au fond de l’être » ?",
+    "choices": [
+      "« Qui a mis la sagesse dans le coeur ? »",
+      "« Qui a donné l’or aux montagnes ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:36 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-171",
+    "book": "Job",
+    "chapter": 38,
+    "verseRef": "Job 38:41",
+    "verseText": "Voir Job 38:41.",
+    "question": "Quel oiseau Dieu évoque quand il demande : qui nourrit sa couvée ?",
+    "choices": [
+      "Le corbeau",
+      "La colombe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 38:41 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-172",
+    "book": "Job",
+    "chapter": 39,
+    "verseRef": "Job 39:25",
+    "verseText": "Voir Job 39:25.",
+    "question": "Quel portrait Dieu fait-il du cheval : que dit-il qu’il « renifle » ?",
+    "choices": [
+      "« Il renifle dans l’ardeur le combat »",
+      "« Il renifle l’eau du fleuve »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 39:25 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-173",
+    "book": "Job",
+    "chapter": 39,
+    "verseRef": "Job 39:19",
+    "verseText": "Voir Job 39:19.",
+    "question": "Quelle image Dieu emploie sur la force du cheval ?",
+    "choices": [
+      "« Est-ce toi qui donnes au cheval la vigueur ? »",
+      "« Est-ce toi qui donnes au cheval la sagesse des anciens ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 39:19 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-174",
+    "book": "Job",
+    "chapter": 40,
+    "verseRef": "Job 40:12",
+    "verseText": "Voir Job 40:12.",
+    "question": "Quel défi Dieu pose à Job concernant l’orgueil des méchants ?",
+    "choices": [
+      "« Abaisse d’un regard les hautains »",
+      "« Couronne d’un regard les méchants »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 40:12 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-175",
+    "book": "Job",
+    "chapter": 40,
+    "verseRef": "Job 40:11",
+    "verseText": "Voir Job 40:11.",
+    "question": "Quelle action Dieu demande à Job s’il avait la puissance divine ?",
+    "choices": [
+      "« Répands les flots de ta colère »",
+      "« Répands les flots de ton huile »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 40:11 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-176",
+    "book": "Job",
+    "chapter": 40,
+    "verseRef": "Job 40:14",
+    "verseText": "Voir Job 40:14.",
+    "question": "Quel résultat Dieu annonce : si Job maîtrisait les orgueilleux, Dieu ferait quoi ?",
+    "choices": [
+      "« Alors je te rendrai hommage »",
+      "« Alors je te condamnerai »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 40:14 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-177",
+    "book": "Job",
+    "chapter": 41,
+    "verseRef": "Job 41:8",
+    "verseText": "Voir Job 41:8.",
+    "question": "Quelle invitation Dieu donne-t-il à Job au sujet du Léviathan ?",
+    "choices": [
+      "« Mets seulement ta main sur lui; tu n’oseras plus l’attaquer »",
+      "« Prends-le comme un agneau »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 41:8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-178",
+    "book": "Job",
+    "chapter": 41,
+    "verseRef": "Job 41:9",
+    "verseText": "Voir Job 41:9.",
+    "question": "Quel verdict Dieu donne-t-il sur l’espérance de vaincre le Léviathan ?",
+    "choices": [
+      "« L’espérance de le dompter est trompeuse »",
+      "« L’espérance de le dompter est certaine »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 41:9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-179",
+    "book": "Job",
+    "chapter": 41,
+    "verseRef": "Job 41:9",
+    "verseText": "Voir Job 41:9.",
+    "question": "Quel constat Dieu fait-il sur la crainte devant le Léviathan ?",
+    "choices": [
+      "« À sa seule vue, on est terrassé »",
+      "« À sa seule vue, on rit »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 41:9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-180",
+    "book": "Job",
+    "chapter": 41,
+    "verseRef": "Job 41:34",
+    "verseText": "Voir Job 41:34.",
+    "question": "Quelle conclusion Dieu donne-t-il sur le Léviathan et l’orgueil ?",
+    "choices": [
+      "« Il est roi sur tous les fils de l’orgueil »",
+      "« Il est serviteur des fils de l’orgueil »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 41:34 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-181",
+    "book": "Job",
+    "chapter": 1,
+    "verseRef": "Job 1:12",
+    "verseText": "Voir Job 1:12.",
+    "question": "Quelle limite Dieu fixe-t-il à Satan lors de la première permission ?",
+    "choices": [
+      "« Seulement, ne porte pas la main sur lui »",
+      "« Seulement, ne touche pas à ses biens »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 1:12 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-182",
+    "book": "Job",
+    "chapter": 1,
+    "verseRef": "Job 1:9",
+    "verseText": "Voir Job 1:9.",
+    "question": "Que dit Satan pour expliquer la piété de Job comme intéressée ?",
+    "choices": [
+      "« Est-ce d’une manière désintéressée que Job craint Dieu ? »",
+      "« Job craint Dieu sans aucune raison »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 1:9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-183",
+    "book": "Job",
+    "chapter": 1,
+    "verseRef": "Job 1:10",
+    "verseText": "Voir Job 1:10.",
+    "question": "Quelle expression précise décrit les biens de Job comme protégés ?",
+    "choices": [
+      "« N’as-tu pas élevé une haie autour de lui… ? »",
+      "« N’as-tu pas bâti un palais pour lui… ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 1:10 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-184",
+    "book": "Job",
+    "chapter": 1,
+    "verseRef": "Job 1:21",
+    "verseText": "Voir Job 1:21.",
+    "question": "Quelle phrase exact Job prononce-t-il sur sa naissance et sa fin ?",
+    "choices": [
+      "« Nu je suis sorti du sein de ma mère, et nu j’y retournerai »",
+      "« Nu je suis sorti de la terre, et nu je monterai aux cieux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 1:21 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-185",
+    "book": "Job",
+    "chapter": 1,
+    "verseRef": "Job 1:22",
+    "verseText": "Voir Job 1:22.",
+    "question": "Quelle conclusion le narrateur donne-t-il sur Job après les premières pertes ?",
+    "choices": [
+      "« En tout cela Job ne pécha point »",
+      "« En tout cela Job blasphéma ouvertement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 1:22 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-186",
+    "book": "Job",
+    "chapter": 2,
+    "verseRef": "Job 2:6",
+    "verseText": "Voir Job 2:6.",
+    "question": "Quelle permission Dieu accorde-t-il à Satan lors de la seconde épreuve ?",
+    "choices": [
+      "« Le voici, je te le livre; seulement, épargne sa vie »",
+      "« Le voici, je te le livre; seulement, épargne ses biens »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 2:6 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-187",
+    "book": "Job",
+    "chapter": 2,
+    "verseRef": "Job 2:10",
+    "verseText": "Voir Job 2:10.",
+    "question": "Quel verdict est porté sur Job après sa réponse à sa femme ?",
+    "choices": [
+      "« En tout cela Job ne pécha point par ses lèvres »",
+      "« En tout cela Job pécha par ses lèvres »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 2:10 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-188",
+    "book": "Job",
+    "chapter": 2,
+    "verseRef": "Job 2:13",
+    "verseText": "Voir Job 2:13.",
+    "question": "Quel détail précise la durée du silence des amis avant de parler ?",
+    "choices": [
+      "Sept jours et sept nuits",
+      "Trois jours et trois nuits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 2:13 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-189",
+    "book": "Job",
+    "chapter": 4,
+    "verseRef": "Job 4:7",
+    "verseText": "Voir Job 4:7.",
+    "question": "Quel constat Éliphaz pose-t-il sous forme de question sur l’innocent ?",
+    "choices": [
+      "« Qui a péri étant innocent ? »",
+      "« Qui a vécu sans jamais souffrir ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 4:7 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-190",
+    "book": "Job",
+    "chapter": 5,
+    "verseRef": "Job 5:8",
+    "verseText": "Voir Job 5:8.",
+    "question": "Selon Éliphaz, quelle règle de conduite est donnée à Job ?",
+    "choices": [
+      "« Pour moi, j’aurais recours à Dieu »",
+      "« Pour moi, j’aurais recours aux idoles »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 5:8 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-191",
+    "book": "Job",
+    "chapter": 6,
+    "verseRef": "Job 6:25",
+    "verseText": "Voir Job 6:25.",
+    "question": "Quelle définition Job donne-t-il de la droiture des paroles ?",
+    "choices": [
+      "« Les paroles droites sont pénétrantes »",
+      "« Les paroles droites sont inutiles »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 6:25 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-192",
+    "book": "Job",
+    "chapter": 6,
+    "verseRef": "Job 6:14",
+    "verseText": "Voir Job 6:14.",
+    "question": "Quel reproche Job fait-il à ses amis en parlant de la crainte du Tout-Puissant ?",
+    "choices": [
+      "« Celui qui souffre a droit à la pitié… même quand il abandonnerait la crainte du Tout-Puissant »",
+      "« Celui qui souffre n’a droit à aucune pitié »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 6:14 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-193",
+    "book": "Job",
+    "chapter": 7,
+    "verseRef": "Job 7:17",
+    "verseText": "Voir Job 7:17.",
+    "question": "Quelle question Job pose sur l’attention que Dieu donne à l’homme ?",
+    "choices": [
+      "« Qu’est-ce que l’homme, pour que tu en fasses tant de cas ? »",
+      "« Qu’est-ce que l’homme, pour qu’il règne sur la terre ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 7:17 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-194",
+    "book": "Job",
+    "chapter": 7,
+    "verseRef": "Job 7:18",
+    "verseText": "Voir Job 7:18.",
+    "question": "Quelle image Job emploie-t-il pour dire que Dieu l’observe sans relâche ?",
+    "choices": [
+      "« Tous les instants tu l’éprouves »",
+      "« Tous les siècles tu l’oublies »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 7:18 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-195",
+    "book": "Job",
+    "chapter": 9,
+    "verseRef": "Job 9:33",
+    "verseText": "Voir Job 9:33.",
+    "question": "Quel rôle Job souhaite-t-il pour qu’un débat soit possible entre Dieu et lui ?",
+    "choices": [
+      "« Il n’y a point entre nous d’arbitre »",
+      "« Il y a toujours entre nous un arbitre »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 9:33 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-196",
+    "book": "Job",
+    "chapter": 9,
+    "verseRef": "Job 9:24",
+    "verseText": "Voir Job 9:24.",
+    "question": "Quel jugement Job prononce-t-il sur le monde livré à l’impunité ?",
+    "choices": [
+      "« La terre est livrée au pouvoir du méchant; il voile la face des juges »",
+      "« La terre est livrée au pouvoir du juste; il révèle la face des juges »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 9:24 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-197",
+    "book": "Job",
+    "chapter": 10,
+    "verseRef": "Job 10:12",
+    "verseText": "Voir Job 10:12.",
+    "question": "Quelle parole Job prononce-t-il sur l’action de Dieu dans son corps ?",
+    "choices": [
+      "« Tu m’as accordé la vie et la grâce »",
+      "« Tu m’as retiré la vie et la grâce »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 10:12 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-198",
+    "book": "Job",
+    "chapter": 23,
+    "verseRef": "Job 23:5",
+    "verseText": "Voir Job 23:5.",
+    "question": "Quel aveu Job fait-il sur ce qu’il voudrait dire à Dieu en procès ?",
+    "choices": [
+      "« Je saurai ce qu’il me répondra »",
+      "« Je ne saurai jamais ce qu’il me répondra »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 23:5 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-199",
+    "book": "Job",
+    "chapter": 23,
+    "verseRef": "Job 23:10",
+    "verseText": "Voir Job 23:10.",
+    "question": "Quelle formule Job utilise-t-il pour exprimer l’issue de l’épreuve ?",
+    "choices": [
+      "« Je sortirai pur comme l’or »",
+      "« Je sortirai faible comme la poussière »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 23:10 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-200",
+    "book": "Job",
+    "chapter": 23,
+    "verseRef": "Job 23:12",
+    "verseText": "Voir Job 23:12.",
+    "question": "Quel constat Job fait-il sur la fidélité à la parole divine ?",
+    "choices": [
+      "« Je n’ai point abandonné les commandements de ses lèvres »",
+      "« J’ai abandonné les commandements de ses lèvres »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 23:12 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-201",
+    "book": "Job",
+    "chapter": 28,
+    "verseRef": "Job 28:3",
+    "verseText": "Voir Job 28:3.",
+    "question": "Quelle expression décrit le mineur qui explore la profondeur ?",
+    "choices": [
+      "« Il met un terme aux ténèbres »",
+      "« Il met un terme à la lumière »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 28:3 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-202",
+    "book": "Job",
+    "chapter": 28,
+    "verseRef": "Job 28:9",
+    "verseText": "Voir Job 28:9.",
+    "question": "Quel exploit est attribué à l’homme qui fouille la terre ?",
+    "choices": [
+      "« Il renverse les montagnes par la racine »",
+      "« Il fait flotter les montagnes sur la mer »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 28:9 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-203",
+    "book": "Job",
+    "chapter": 28,
+    "verseRef": "Job 28:11",
+    "verseText": "Voir Job 28:11.",
+    "question": "Quel résultat est donné après l’action sur les cours d’eau ?",
+    "choices": [
+      "« Ce qui est caché il l’amène à la lumière »",
+      "« Ce qui est caché il l’enfouit davantage »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 28:11 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-204",
+    "book": "Job",
+    "chapter": 28,
+    "verseRef": "Job 28:28",
+    "verseText": "Voir Job 28:28.",
+    "question": "Quelle conclusion divine est donnée sur la sagesse et l’intelligence ?",
+    "choices": [
+      "« La crainte du Seigneur, c’est la sagesse; s’éloigner du mal, c’est l’intelligence »",
+      "« La puissance du riche, c’est la sagesse; s’éloigner des pauvres, c’est l’intelligence »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 28:28 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-205",
+    "book": "Job",
+    "chapter": 29,
+    "verseRef": "Job 29:17",
+    "verseText": "Voir Job 29:17.",
+    "question": "Quel geste Job décrit-il contre l’inique quand il rendait justice ?",
+    "choices": [
+      "« Je brisais la mâchoire de l’inique »",
+      "« Je bénissais la mâchoire de l’inique »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 29:17 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-206",
+    "book": "Job",
+    "chapter": 30,
+    "verseRef": "Job 30:20",
+    "verseText": "Voir Job 30:20.",
+    "question": "Quelle plainte Job formule-t-il sur sa prière sans réponse ?",
+    "choices": [
+      "« Je crie vers toi, et tu ne me réponds pas »",
+      "« Je crie vers toi, et tu me réponds aussitôt »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 30:20 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-207",
+    "book": "Job",
+    "chapter": 30,
+    "verseRef": "Job 30:21",
+    "verseText": "Voir Job 30:21.",
+    "question": "Quel constat Job fait-il sur la transformation de Dieu envers lui ?",
+    "choices": [
+      "« Tu es devenu cruel pour moi »",
+      "« Tu es devenu faible pour moi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 30:21 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-208",
+    "book": "Job",
+    "chapter": 31,
+    "verseRef": "Job 31:24",
+    "verseText": "Voir Job 31:24.",
+    "question": "Quel serment Job prononce sur l’or comme objet de confiance ?",
+    "choices": [
+      "« Si j’ai mis ma confiance dans l’or »",
+      "« Si j’ai mis ma confiance dans la poussière »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 31:24 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-209",
+    "book": "Job",
+    "chapter": 31,
+    "verseRef": "Job 31:29",
+    "verseText": "Voir Job 31:29.",
+    "question": "Quelle faute Job refuse-t-il au sujet de son ennemi ?",
+    "choices": [
+      "« Si je me suis réjoui de la ruine de celui qui me haïssait »",
+      "« Si je me suis réjoui de sa victoire sur moi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 31:29 (LSG 1910)."
+  },
+  {
+    "id": "JOB-D-210",
+    "book": "Job",
+    "chapter": 42,
+    "verseRef": "Job 42:17",
+    "verseText": "Voir Job 42:17.",
+    "question": "Quelle déclaration finale sur l’âge de Job conclut le livre ?",
+    "choices": [
+      "« Job mourut âgé et rassasié de jours »",
+      "« Job mourut jeune et privé de jours »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 42:17 (LSG 1910)."
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "joel-N-001",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:1",
+    "verseText": "Voir Joël 1:1.",
+    "question": "À qui la parole de l’Éternel fut-elle adressée dans ce livre ?",
+    "choices": [
+      "À Joël, fils de Pethuel",
+      "À Amos, berger de Tekoa",
+      "À Abdias, serviteur de l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 1:1 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-002",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:2",
+    "verseText": "Voir Joël 1:2.",
+    "question": "Quel groupe est directement interpellé en premier par l’appel : « Écoutez ceci » ?",
+    "choices": [
+      "Les sacrificateurs",
+      "Les vieillards",
+      "Les prophètes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Joël 1:2 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-003",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:3",
+    "verseText": "Voir Joël 1:3.",
+    "question": "Que devait-on faire de l’événement pour les générations suivantes ?",
+    "choices": [
+      "L’écrire sur des tables de pierre",
+      "Le raconter aux enfants, puis aux générations qui suivraient",
+      "L’ensevelir dans le silence"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Joël 1:3 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-004",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:4",
+    "verseText": "Voir Joël 1:4.",
+    "question": "Quels quatre fléaux sont cités dans la chaîne de dévastation ?",
+    "choices": [
+      "Le gazam, la sauterelle, le jélek, le hasil",
+      "Le feu, la grêle, la peste, l’épée",
+      "Les loups, les lions, les ours, les serpents"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 1:4 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-005",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:5",
+    "verseText": "Voir Joël 1:5.",
+    "question": "À cause de quoi les buveurs de vin devaient-ils gémir ?",
+    "choices": [
+      "Parce que le vin était devenu amer",
+      "Parce que le moût leur était enlevé de la bouche",
+      "Parce que les coupes avaient été brisées"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Joël 1:5 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-006",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:6",
+    "verseText": "Voir Joël 1:6.",
+    "question": "À quoi sont comparées les dents du peuple venu fondre sur le pays ?",
+    "choices": [
+      "Aux dents d’un loup",
+      "Aux dents d’un lion et aux mâchoires d’une lionne",
+      "Aux dents d’un serpent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Joël 1:6 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-007",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:7",
+    "verseText": "Voir Joël 1:7.",
+    "question": "Que dit le texte de la vigne après la dévastation ?",
+    "choices": [
+      "Elle fut replantée aussitôt",
+      "Les rameaux de la vigne ont blanchi",
+      "Elle donna plus de fruits qu’avant"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Joël 1:7 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-008",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:8",
+    "verseText": "Voir Joël 1:8.",
+    "question": "À quoi la lamentation est-elle comparée au début du chapitre 1 ?",
+    "choices": [
+      "À une vierge qui se revêt d’un sac pour pleurer l’ami de sa jeunesse",
+      "À un roi qui perd sa couronne",
+      "À un berger qui cherche une brebis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 1:8 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-009",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:9",
+    "verseText": "Voir Joël 1:9.",
+    "question": "Qu’est-ce qui disparaît de la maison de l’Éternel, plongeant les sacrificateurs dans le deuil ?",
+    "choices": [
+      "L’encens et les chandeliers",
+      "Offrandes et libations",
+      "Les trompettes et les cymbales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Joël 1:9 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-010",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:10",
+    "verseText": "Voir Joël 1:10.",
+    "question": "Quels trois produits sont déclarés atteints : « détruits / tari / desséchée » ?",
+    "choices": [
+      "Les blés, le moût, l’huile",
+      "Le miel, le lait, l’eau",
+      "L’orge, le sel, le vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 1:10 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-011",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:11",
+    "verseText": "Voir Joël 1:11.",
+    "question": "Pourquoi les vignerons gémissent-ils avec les laboureurs ?",
+    "choices": [
+      "Parce que la moisson des champs est perdue",
+      "Parce que le temple est fermé",
+      "Parce que les murailles sont tombées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 1:11 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-012",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:12",
+    "verseText": "Voir Joël 1:12.",
+    "question": "Quels arbres sont explicitement cités comme flétris avec la vigne et le figuier ?",
+    "choices": [
+      "Le grenadier, le palmier, le pommier",
+      "Le cèdre, le cyprès, l’olivier",
+      "Le sycomore, l’acacia, le chêne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 1:12 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-013",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:12",
+    "verseText": "Voir Joël 1:12.",
+    "question": "Quelle conséquence morale est énoncée : « La joie a cessé… » ?",
+    "choices": [
+      "Parmi les fils de l’homme",
+      "Parmi les anciens seulement",
+      "Parmi les armées des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 1:12 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-014",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:13",
+    "verseText": "Voir Joël 1:13.",
+    "question": "Quel ordre est donné aux sacrificateurs pour la nuit ?",
+    "choices": [
+      "Passer la nuit revêtus de sacs",
+      "Dormir dans le palais du roi",
+      "Monter la garde aux portes de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 1:13 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-015",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:14",
+    "verseText": "Voir Joël 1:14.",
+    "question": "Que fallait-il publier avec une convocation solennelle ?",
+    "choices": [
+      "Un décret royal",
+      "Un jeûne",
+      "Une fête des prémices"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Joël 1:14 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-016",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:14",
+    "verseText": "Voir Joël 1:14.",
+    "question": "Où devait se faire l’assemblée pour crier à l’Éternel ?",
+    "choices": [
+      "Dans la maison de l’Éternel, votre Dieu",
+      "Dans la vallée de Josaphat",
+      "À la porte de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 1:14 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-017",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:15",
+    "verseText": "Voir Joël 1:15.",
+    "question": "Comment est décrit l’arrivée du jour de l’Éternel ?",
+    "choices": [
+      "Comme un ravage du Tout-Puissant",
+      "Comme une pluie douce et lente",
+      "Comme un songe paisible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 1:15 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-018",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:16",
+    "verseText": "Voir Joël 1:16.",
+    "question": "Qu’est-ce qui a disparu de la maison de Dieu avec la nourriture enlevée ?",
+    "choices": [
+      "La joie et l’allégresse",
+      "La sagesse et la science",
+      "Les chants et les harpes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 1:16 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-019",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:17",
+    "verseText": "Voir Joël 1:17.",
+    "question": "Où les semences ont-elles séché ?",
+    "choices": [
+      "Dans les greniers",
+      "Sous les mottes",
+      "Dans les pressoirs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Joël 1:17 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-020",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:17",
+    "verseText": "Voir Joël 1:17.",
+    "question": "Pourquoi les magasins sont-ils en ruines dans la plainte ?",
+    "choices": [
+      "Car il n’y a point de blé",
+      "Car les murailles sont brûlées",
+      "Car la mer a débordé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 1:17 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-021",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:18",
+    "verseText": "Voir Joël 1:18.",
+    "question": "Quel animal est cité avec les troupeaux de bœufs dans la souffrance ?",
+    "choices": [
+      "Les chevaux",
+      "Les troupeaux de brebis",
+      "Les chameaux"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Joël 1:18 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-022",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:19",
+    "verseText": "Voir Joël 1:19.",
+    "question": "Vers qui le cri est-il adressé : « C’est vers toi que je crie » ?",
+    "choices": [
+      "Vers le roi",
+      "Vers l’Éternel",
+      "Vers les nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Joël 1:19 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-023",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:19",
+    "verseText": "Voir Joël 1:19.",
+    "question": "Qu’est-ce qui a dévoré les plaines du désert ?",
+    "choices": [
+      "La grêle",
+      "Le feu",
+      "Les loups"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Joël 1:19 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-024",
+    "book": "Joël",
+    "chapter": 1,
+    "verseRef": "Joël 1:20",
+    "verseText": "Voir Joël 1:20.",
+    "question": "Pourquoi les bêtes des champs crient-elles aussi ?",
+    "choices": [
+      "Car les torrents sont à sec",
+      "Car la lune est en sang",
+      "Car le portique est fermé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 1:20 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-025",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:1",
+    "verseText": "Voir Joël 2:1.",
+    "question": "Où faut-il sonner de la trompette au début du chapitre 2 ?",
+    "choices": [
+      "À Jéricho",
+      "En Sion",
+      "À Samarie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Joël 2:1 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-026",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:1",
+    "verseText": "Voir Joël 2:1.",
+    "question": "Pourquoi tous les habitants du pays doivent-ils trembler ?",
+    "choices": [
+      "Car le jour de l’Éternel vient, car il est proche",
+      "Car les murs s’écroulent",
+      "Car une famine de quarante ans commence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:1 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-027",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:2",
+    "verseText": "Voir Joël 2:2.",
+    "question": "Comment le jour est-il qualifié dans Joël 2:2 ?",
+    "choices": [
+      "Jour de ténèbres et d’obscurité",
+      "Jour de joie et de danse",
+      "Jour de paix et de repos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:2 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-028",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:2",
+    "verseText": "Voir Joël 2:2.",
+    "question": "À quoi le peuple qui vient est-il comparé dans sa progression sur les montagnes ?",
+    "choices": [
+      "À l’aurore qui se répand sur les montagnes",
+      "À une rivière qui déborde",
+      "À une colombe qui vole"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:2 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-029",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:3",
+    "verseText": "Voir Joël 2:3.",
+    "question": "Comment était le pays auparavant, avant de devenir « un désert affreux » ?",
+    "choices": [
+      "Comme un jardin d’Éden",
+      "Comme une mer agitée",
+      "Comme une montagne stérile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:3 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-030",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:4",
+    "verseText": "Voir Joël 2:4.",
+    "question": "À les voir, à quoi « on dirait » ces envahisseurs ?",
+    "choices": [
+      "Des chevaux",
+      "Des serpents",
+      "Des aigles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:4 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-031",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:5",
+    "verseText": "Voir Joël 2:5.",
+    "question": "Quel bruit évoque leur avancée selon le texte ?",
+    "choices": [
+      "Un bruit de chars sur le sommet des montagnes",
+      "Un murmure d’eau dans les torrents",
+      "Une flûte au milieu du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:5 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-032",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:5",
+    "verseText": "Voir Joël 2:5.",
+    "question": "Quelle image est employée : « comme une armée puissante… » ?",
+    "choices": [
+      "Qui se prépare au combat",
+      "Qui se disperse en paix",
+      "Qui se cache dans les champs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:5 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-033",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:6",
+    "verseText": "Voir Joël 2:6.",
+    "question": "Que se passe-t-il sur les visages des peuples devant eux ?",
+    "choices": [
+      "Tous les visages pâlissent",
+      "Tous les visages rayonnent",
+      "Tous les visages rient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:6 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-034",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:7",
+    "verseText": "Voir Joël 2:7.",
+    "question": "Comment leur discipline de marche est-elle décrite ?",
+    "choices": [
+      "Chacun va son chemin, sans s’écarter de sa route",
+      "Ils errent sans direction",
+      "Ils s’endorment sur la route"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:7 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-035",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:9",
+    "verseText": "Voir Joël 2:9.",
+    "question": "Par où entrent-ils « comme un voleur » ?",
+    "choices": [
+      "Par les portes ouvertes",
+      "Par les fenêtres",
+      "Par les puits"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Joël 2:9 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-036",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:10",
+    "verseText": "Voir Joël 2:10.",
+    "question": "Quels astres sont mentionnés comme s’obscurcissant dans la scène du chapitre 2 ?",
+    "choices": [
+      "Le soleil et la lune",
+      "La mer et la terre",
+      "Le vent et la pluie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:10 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-037",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:11",
+    "verseText": "Voir Joël 2:11.",
+    "question": "Que dit le texte du camp de l’Éternel ?",
+    "choices": [
+      "Il est immense",
+      "Il est désert",
+      "Il est invisible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:11 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-038",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:11",
+    "verseText": "Voir Joël 2:11.",
+    "question": "Quel jugement est porté sur le jour de l’Éternel ?",
+    "choices": [
+      "Il est grand, il est terrible",
+      "Il est court, il est doux",
+      "Il est lointain, il est oublié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:11 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-039",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:11",
+    "verseText": "Voir Joël 2:11.",
+    "question": "Quelle question conclut cette annonce : « Qui pourra… » ?",
+    "choices": [
+      "Qui pourra le soutenir ?",
+      "Qui pourra le raconter ?",
+      "Qui pourra le changer ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:11 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-040",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:12",
+    "verseText": "Voir Joël 2:12.",
+    "question": "Par quelle exhortation commence l’appel à la repentance ?",
+    "choices": [
+      "Revenez à moi de tout votre cœur",
+      "Bâtissez des murailles plus hautes",
+      "Prenez des épées et des lances"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:12 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-041",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:12",
+    "verseText": "Voir Joël 2:12.",
+    "question": "Avec quoi fallait-il revenir à l’Éternel selon Joël 2:12 ?",
+    "choices": [
+      "Avec des jeûnes, avec des pleurs et des lamentations",
+      "Avec des chants et des tambours",
+      "Avec des pierres précieuses et de l’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:12 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-042",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:13",
+    "verseText": "Voir Joël 2:13.",
+    "question": "Que faut-il déchirer, et non quoi ?",
+    "choices": [
+      "Déchirez vos cœurs et non vos vêtements",
+      "Déchirez vos vêtements et non vos cœurs",
+      "Déchirez vos tentes et non vos filets"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:13 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-043",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:13",
+    "verseText": "Voir Joël 2:13.",
+    "question": "Comment Dieu est-il décrit : « compatissant et… » ?",
+    "choices": [
+      "Compatissant et miséricordieux",
+      "Compatissant et indifférent",
+      "Compatissant et changeant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:13 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-044",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:13",
+    "verseText": "Voir Joël 2:13.",
+    "question": "Qu’est-il dit de sa colère et de sa bonté ?",
+    "choices": [
+      "Lent à la colère et riche en bonté",
+      "Rapide à la colère et pauvre en bonté",
+      "Inconstant dans la colère et la bonté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:13 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-045",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:14",
+    "verseText": "Voir Joël 2:14.",
+    "question": "Que peut-il laisser « après lui » si Dieu se repent ?",
+    "choices": [
+      "La bénédiction, des offrandes et des libations",
+      "Une épée et un bouclier",
+      "Une famine et une peste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:14 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-046",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:16",
+    "verseText": "Voir Joël 2:16.",
+    "question": "Qui devait être assemblé, y compris « même… » ?",
+    "choices": [
+      "Les enfants, même les nourrissons à la mamelle",
+      "Les rois, même les étrangers",
+      "Les marchands, même les soldats"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:16 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-047",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:16",
+    "verseText": "Voir Joël 2:16.",
+    "question": "Qu’est-ce qui devait sortir : l’époux et l’épouse, d’où ?",
+    "choices": [
+      "L’époux de sa demeure, l’épouse de sa chambre",
+      "L’époux du temple, l’épouse de la ville",
+      "L’époux des champs, l’épouse des vignes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:16 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-048",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:17",
+    "verseText": "Voir Joël 2:17.",
+    "question": "Où les sacrificateurs devaient-ils pleurer ?",
+    "choices": [
+      "Entre le portique et l’autel",
+      "Dans la vallée de Sittim",
+      "Sur les murailles de Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:17 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-049",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:17",
+    "verseText": "Voir Joël 2:17.",
+    "question": "Quelle prière centrale est formulée : « Éternel, … » ?",
+    "choices": [
+      "Éternel, épargne ton peuple !",
+      "Éternel, rends-nous riches !",
+      "Éternel, donne-nous un roi !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:17 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-050",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:17",
+    "verseText": "Voir Joël 2:17.",
+    "question": "Que demandaient-ils concernant l’héritage ?",
+    "choices": [
+      "Ne livre pas ton héritage à l’opprobre, aux railleries des nations",
+      "Livre ton héritage aux nations pour la paix",
+      "Cache ton héritage sous la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:17 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-051",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:18",
+    "verseText": "Voir Joël 2:18.",
+    "question": "Que fait l’Éternel envers son pays après l’appel ?",
+    "choices": [
+      "Il est ému de jalousie pour son pays",
+      "Il l’abandonne aux nations",
+      "Il le rend stérile à jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:18 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-052",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:19",
+    "verseText": "Voir Joël 2:19.",
+    "question": "Quels trois biens Dieu promet-il d’envoyer ?",
+    "choices": [
+      "Du blé, du moût et de l’huile",
+      "De l’or, de l’argent et des pierres",
+      "Du pain, du miel et du lait"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:19 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-053",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:20",
+    "verseText": "Voir Joël 2:20.",
+    "question": "Quel ennemi Dieu promet-il d’éloigner ?",
+    "choices": [
+      "L’ennemi du nord",
+      "L’ennemi de l’ouest",
+      "L’ennemi de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:20 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-054",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:20",
+    "verseText": "Voir Joël 2:20.",
+    "question": "Où ira l’avant-garde de cet ennemi repoussé ?",
+    "choices": [
+      "Dans la mer orientale",
+      "Dans la mer occidentale",
+      "Dans les torrents de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:20 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-055",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:20",
+    "verseText": "Voir Joël 2:20.",
+    "question": "Où ira l’arrière-garde de cet ennemi repoussé ?",
+    "choices": [
+      "Dans la mer occidentale",
+      "Dans la mer orientale",
+      "Dans la vallée de Josaphat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:20 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-056",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:21",
+    "verseText": "Voir Joël 2:21.",
+    "question": "Que doit dire la terre : « Terre, … » ?",
+    "choices": [
+      "Ne crains pas",
+      "Tremble toujours",
+      "Cache-toi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:21 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-057",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:21",
+    "verseText": "Voir Joël 2:21.",
+    "question": "Pourquoi la terre doit-elle se réjouir selon Joël 2:21 ?",
+    "choices": [
+      "Car l’Éternel fait de grandes choses",
+      "Car les nations sont déjà jugées",
+      "Car l’or remplit les maisons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:21 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-058",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:22",
+    "verseText": "Voir Joël 2:22.",
+    "question": "Qu’arrivera-t-il aux plaines du désert pour rassurer les bêtes des champs ?",
+    "choices": [
+      "Elles reverdiront",
+      "Elles brûleront encore",
+      "Elles seront inondées de sel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:22 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-059",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:22",
+    "verseText": "Voir Joël 2:22.",
+    "question": "Qu’est-ce que le figuier et la vigne donneront selon Joël 2:22 ?",
+    "choices": [
+      "Leurs richesses",
+      "Leur amertume",
+      "Leurs épines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:22 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-060",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:23",
+    "verseText": "Voir Joël 2:23.",
+    "question": "Quelle double promesse de pluie est annoncée aux enfants de Sion ?",
+    "choices": [
+      "La pluie de la première et de l’arrière-saison",
+      "La pluie de la nuit et du matin",
+      "La pluie d’un seul jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:23 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-061",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:23",
+    "verseText": "Voir Joël 2:23.",
+    "question": "Que promet Dieu de faire de la pluie au bon temps, pour les enfants de Sion ?",
+    "choices": [
+      "Il fera descendre la pluie, la pluie de la première et de l’arrière-saison",
+      "Il fera tomber une grêle continuelle",
+      "Il retiendra toute pluie jusqu’à la fin des temps"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:23 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-062",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:24",
+    "verseText": "Voir Joël 2:24.",
+    "question": "De quoi les aires devaient-elles se remplir selon la promesse ?",
+    "choices": [
+      "De blé",
+      "De pierres",
+      "De cendre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:24 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-063",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:24",
+    "verseText": "Voir Joël 2:24.",
+    "question": "Que devaient faire les cuves sous l’effet de la restauration ?",
+    "choices": [
+      "Regorger de moût et d’huile",
+      "Déborder d’eau salée",
+      "Se vider entièrement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:24 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-064",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:25",
+    "verseText": "Voir Joël 2:25.",
+    "question": "Comment Dieu qualifie-t-il les fléaux qu’il avait envoyés contre le peuple ?",
+    "choices": [
+      "Sa grande armée",
+      "Une petite troupe",
+      "Une simple brise"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:25 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-065",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:26",
+    "verseText": "Voir Joël 2:26.",
+    "question": "Quel résultat est promis après la restauration : « Vous mangerez… » ?",
+    "choices": [
+      "Vous mangerez et vous vous rassasierez",
+      "Vous mangerez et vous serez malades",
+      "Vous mangerez et vous serez pauvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:26 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-066",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:26-27",
+    "verseText": "Voir Joël 2:26-27.",
+    "question": "Quel est l’effet sur le peuple après avoir loué l’Éternel pour ses merveilles ?",
+    "choices": [
+      "Mon peuple ne sera plus jamais dans la confusion",
+      "Mon peuple sera livré sans cesse aux nations",
+      "Mon peuple n’aura plus de chants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:26-27 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-067",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:27",
+    "verseText": "Voir Joël 2:27.",
+    "question": "Quelle certitude Dieu veut-il faire comprendre à Israël après ces actes ?",
+    "choices": [
+      "Que l’Éternel est au milieu d’Israël",
+      "Que l’Éternel s’est retiré pour toujours",
+      "Que l’Éternel ne parle plus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:27 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-068",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:28",
+    "verseText": "Voir Joël 2:28.",
+    "question": "Sur qui Dieu promet-il de répandre son Esprit ?",
+    "choices": [
+      "Sur toute chair",
+      "Sur les sacrificateurs seuls",
+      "Sur les rois seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:28 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-069",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:28",
+    "verseText": "Voir Joël 2:28.",
+    "question": "Quel don est annoncé pour les fils et les filles ?",
+    "choices": [
+      "Ils prophétiseront",
+      "Ils deviendront rois",
+      "Ils bâtiront des tours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:28 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-070",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:28",
+    "verseText": "Voir Joël 2:28.",
+    "question": "Que feront les vieillards selon la promesse liée à l’Esprit ?",
+    "choices": [
+      "Ils auront des songes",
+      "Ils iront en exil",
+      "Ils se tairont à jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:28 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-071",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:28",
+    "verseText": "Voir Joël 2:28.",
+    "question": "Que verront les jeunes gens selon la même promesse ?",
+    "choices": [
+      "Des visions",
+      "Des armées de chevaux",
+      "Des trésors cachés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:28 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-072",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:29",
+    "verseText": "Voir Joël 2:29.",
+    "question": "Sur quels deux groupes humbles Dieu dit-il aussi répandre son Esprit ?",
+    "choices": [
+      "Les serviteurs et les servantes",
+      "Les princes et les marchands",
+      "Les étrangers et les rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:29 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-073",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:30",
+    "verseText": "Voir Joël 2:30.",
+    "question": "Quels signes seront montrés « dans les cieux et sur la terre » ?",
+    "choices": [
+      "Du sang, du feu, et des colonnes de fumée",
+      "Du lait, du miel, et des eaux abondantes",
+      "De l’or, de l’argent, et des pierres précieuses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:30 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-074",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:31",
+    "verseText": "Voir Joël 2:31.",
+    "question": "En quoi le soleil se changera-t-il avant le jour de l’Éternel ?",
+    "choices": [
+      "En ténèbres",
+      "En neige",
+      "En or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:31 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-075",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:31",
+    "verseText": "Voir Joël 2:31.",
+    "question": "En quoi la lune se changera-t-elle avant ce jour ?",
+    "choices": [
+      "En sang",
+      "En eau",
+      "En brume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:31 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-076",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:32",
+    "verseText": "Voir Joël 2:32.",
+    "question": "Quelle promesse est faite à celui qui invoque le nom de l’Éternel ?",
+    "choices": [
+      "Il sera sauvé",
+      "Il sera oublié",
+      "Il sera réduit au silence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:32 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-077",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:32",
+    "verseText": "Voir Joël 2:32.",
+    "question": "Où le salut est-il annoncé comme se trouvant ?",
+    "choices": [
+      "Sur la montagne de Sion et à Jérusalem",
+      "À Babylone et à Ninive",
+      "Dans les îles lointaines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:32 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-078",
+    "book": "Joël",
+    "chapter": 2,
+    "verseRef": "Joël 2:32",
+    "verseText": "Voir Joël 2:32.",
+    "question": "Qui recevra la délivrance selon la dernière partie du verset ?",
+    "choices": [
+      "Ceux que l’Éternel appellera",
+      "Tous les peuples sans distinction",
+      "Seulement les rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:32 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-079",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:1",
+    "verseText": "Voir Joël 3:1.",
+    "question": "Que fera Dieu « en ces jours-là » à l’égard de Juda et de Jérusalem ?",
+    "choices": [
+      "Il ramènera les captifs",
+      "Il détruira la ville immédiatement",
+      "Il fermera le temple pour toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:1 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-080",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:2",
+    "verseText": "Voir Joël 3:2.",
+    "question": "Où Dieu dit-il qu’il fera descendre toutes les nations ?",
+    "choices": [
+      "Dans la vallée de Josaphat",
+      "Dans la vallée d’Élah",
+      "Sur la montagne d’Horeb"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:2 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-081",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:2",
+    "verseText": "Voir Joël 3:2.",
+    "question": "Pourquoi Dieu entre-t-il en jugement avec les nations selon Joël 3:2 ?",
+    "choices": [
+      "À cause de son peuple, d’Israël, qu’elles ont dispersé, et de son pays qu’elles se sont partagé",
+      "Parce qu’elles ont construit des murailles trop hautes",
+      "Parce qu’elles ont cessé de planter des vignes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:2 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-082",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:3",
+    "verseText": "Voir Joël 3:3.",
+    "question": "Qu’ont-elles fait des garçons selon la dénonciation ?",
+    "choices": [
+      "Elles ont donné le jeune garçon pour une prostituée",
+      "Elles l’ont couronné roi",
+      "Elles l’ont envoyé comme prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:3 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-083",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:3",
+    "verseText": "Voir Joël 3:3.",
+    "question": "Qu’ont-elles fait des jeunes filles selon la même dénonciation ?",
+    "choices": [
+      "Elles ont vendu la jeune fille pour du vin, et elles ont bu",
+      "Elles l’ont honorée dans le temple",
+      "Elles l’ont protégée dans la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:3 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-084",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:4",
+    "verseText": "Voir Joël 3:4.",
+    "question": "Quels peuples sont nommés ensemble dans l’interpellation : « Et vous, … » ?",
+    "choices": [
+      "Tyr, Sidon, et tous les districts des Philistins",
+      "Moab, Ammon, et Édom",
+      "Assyrie, Babylonie, et Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:4 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-085",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:4",
+    "verseText": "Voir Joël 3:4.",
+    "question": "Quelle question Dieu pose-t-il à ces peuples : « Voulez-vous vous… » ?",
+    "choices": [
+      "Venger sur moi ?",
+      "Soumettre à moi ?",
+      "Unir à moi ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:4 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-086",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:4",
+    "verseText": "Voir Joël 3:4.",
+    "question": "Qu’arrivera-t-il si les nations veulent se venger, selon Dieu ?",
+    "choices": [
+      "Je ferai bien vite retomber votre vengeance sur vos têtes",
+      "Je vous donnerai la paix immédiatement",
+      "Je vous laisserai régner sur Sion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:4 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-087",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:5",
+    "verseText": "Voir Joël 3:5.",
+    "question": "Qu’ont-elles pris, selon l’accusation, en parlant de l’argent et de l’or ?",
+    "choices": [
+      "Mon argent et mon or",
+      "Leur propre trésor",
+      "Les offrandes du désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:5 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-088",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:5",
+    "verseText": "Voir Joël 3:5.",
+    "question": "Où ces richesses ont-elles été emmenées ?",
+    "choices": [
+      "Dans vos temples",
+      "Dans les champs",
+      "Dans les maisons des pauvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:5 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-089",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:6",
+    "verseText": "Voir Joël 3:6.",
+    "question": "À qui ont-elles vendu les fils de Juda et de Jérusalem ?",
+    "choices": [
+      "Aux enfants des Grecs",
+      "Aux enfants des Égyptiens",
+      "Aux enfants des Mèdes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:6 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-090",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:6",
+    "verseText": "Voir Joël 3:6.",
+    "question": "Pourquoi les ont-elles vendus, selon la phrase finale ?",
+    "choices": [
+      "Pour les éloigner de leur territoire",
+      "Pour les ramener en Juda",
+      "Pour les établir à Sion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:6 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-091",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:7",
+    "verseText": "Voir Joël 3:7.",
+    "question": "D’où Dieu dit-il qu’il les réveillera (ceux vendus) ?",
+    "choices": [
+      "Du lieu où vous les avez vendus",
+      "Du désert de Sinaï",
+      "Des montagnes d’Ararat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:7 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-092",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:7",
+    "verseText": "Voir Joël 3:7.",
+    "question": "Que fera Dieu de la récompense des nations selon Joël 3:7 ?",
+    "choices": [
+      "Il la fera retomber sur leur tête",
+      "Il l’effacera entièrement",
+      "Il la transformera en bénédiction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:7 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-093",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:8",
+    "verseText": "Voir Joël 3:8.",
+    "question": "À qui Dieu dit-il qu’il vendra leurs fils et leurs filles ?",
+    "choices": [
+      "Aux fils de Juda",
+      "Aux fils d’Édom",
+      "Aux fils des Philistins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:8 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-094",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:8",
+    "verseText": "Voir Joël 3:8.",
+    "question": "À qui les fils de Juda les vendront-ils ensuite ?",
+    "choices": [
+      "Aux Sabéens, nation lointaine",
+      "Aux Assyriens, nation proche",
+      "Aux Moabites, nation voisine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:8 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-095",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:8",
+    "verseText": "Voir Joël 3:8.",
+    "question": "Quel motif est donné pour l’accomplissement : « Car… » ?",
+    "choices": [
+      "Car l’Éternel a parlé",
+      "Car les nations ont juré",
+      "Car les montagnes ont tremblé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:8 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-096",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:9",
+    "verseText": "Voir Joël 3:9.",
+    "question": "Quel ordre est donné aux nations concernant la guerre ?",
+    "choices": [
+      "Publiez ces choses parmi les nations… préparez la guerre",
+      "Cachez ces choses parmi les nations… fuyez la guerre",
+      "Oubliez ces choses parmi les nations… cherchez le repos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:9 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-097",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:9",
+    "verseText": "Voir Joël 3:9.",
+    "question": "Que faut-il « réveiller » parmi ces nations ?",
+    "choices": [
+      "Les héros",
+      "Les enfants",
+      "Les vieillards"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:9 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-098",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:9",
+    "verseText": "Voir Joël 3:9.",
+    "question": "Que doivent faire « tous les hommes de guerre » ?",
+    "choices": [
+      "S’approcher, monter",
+      "Se disperser, descendre",
+      "Dormir, se taire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:9 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-099",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:10",
+    "verseText": "Voir Joël 3:10.",
+    "question": "Quels outils agricoles doivent être changés en armes ?",
+    "choices": [
+      "De vos hoyaux forgez des épées, et de vos serpes des lances",
+      "De vos charrues forgez des harpes, et de vos pierres des flûtes",
+      "De vos paniers forgez des boucliers, et de vos jarres des arcs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:10 (LSG 1910)."
+  },
+  {
+    "id": "joel-N-100",
+    "book": "Joël",
+    "chapter": 3,
+    "verseRef": "Joël 3:10",
+    "verseText": "Voir Joël 3:10.",
+    "question": "Quelle déclaration hardie doit faire même le faible ?",
+    "choices": [
+      "Que le faible dise : Je suis fort !",
+      "Que le faible dise : Je suis roi !",
+      "Que le faible dise : Je suis sage !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 3:10 (LSG 1910)."
+  }
+]

@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "1jean-D-001",
+    "book": "1 Jean",
+    "chapter": 1,
+    "verseRef": "1 Jean 1:1",
+    "verseText": "Voir 1 Jean 1:1.",
+    "question": "Quelle formule décrit ce que l’auteur annonce à ses lecteurs, en commençant par « Ce qui était dès le commencement » ?",
+    "choices": [
+      "« ce que nous avons entendu, ce que nous avons vu de nos yeux, ce que nous avons contemplé et que nos mains ont touché »",
+      "« ce que nous avons reçu de la part de celui qui est saint, et que nous avons tous de la connaissance »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 1:1 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-002",
+    "book": "1 Jean",
+    "chapter": 1,
+    "verseRef": "1 Jean 1:3",
+    "verseText": "Voir 1 Jean 1:3.",
+    "question": "Selon le texte, quelle expression complète précise la communion annoncée ?",
+    "choices": [
+      "« notre communion est avec le Père et avec son Fils Jésus-Christ »",
+      "« notre communion est avec l’Esprit, l’eau et le sang »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-003",
+    "book": "1 Jean",
+    "chapter": 1,
+    "verseRef": "1 Jean 1:6",
+    "verseText": "Voir 1 Jean 1:6.",
+    "question": "Quelle option reprend exactement l’enchaînement « nous mentons » suivi de la conséquence immédiate ?",
+    "choices": [
+      "« nous mentons, et nous ne pratiquons pas la vérité »",
+      "« nous mentons, et la semence de Dieu demeure en nous »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-004",
+    "book": "1 Jean",
+    "chapter": 1,
+    "verseRef": "1 Jean 1:7",
+    "verseText": "Voir 1 Jean 1:7.",
+    "question": "Dans la condition « si nous marchons dans la lumière », que produit le sang de Jésus, son Fils ?",
+    "choices": [
+      "« nous purifie de tout péché »",
+      "« nous donne l’intelligence pour connaître le Véritable »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 1:7 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-005",
+    "book": "1 Jean",
+    "chapter": 1,
+    "verseRef": "1 Jean 1:9",
+    "verseText": "Voir 1 Jean 1:9.",
+    "question": "Que dit exactement l’auteur si nous confessons nos péchés, au sujet de la fidélité et de la justice de Dieu ?",
+    "choices": [
+      "« il est fidèle et juste pour nous les pardonner, et pour nous purifier de toute iniquité »",
+      "« il est fidèle et juste pour nous donner la vie à ce frère »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-006",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:1",
+    "verseText": "Voir 1 Jean 2:1.",
+    "question": "Quelle expression complète qualifie Jésus-Christ dans « nous avons un avocat auprès du Père » ?",
+    "choices": [
+      "« Jésus-Christ le juste »",
+      "« Jésus-Christ le Dieu véritable »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:1 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-007",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:2",
+    "verseText": "Voir 1 Jean 2:2.",
+    "question": "Quel contraste exact est donné entre « pour les nôtres » et l’extension mentionnée ensuite ?",
+    "choices": [
+      "« aussi pour ceux du monde entier »",
+      "« aussi pour ceux qui commettent un péché qui ne mène point à la mort »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:2 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-008",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:7",
+    "verseText": "Voir 1 Jean 2:7.",
+    "question": "Quelle proposition correspond à la définition du « commandement ancien » ?",
+    "choices": [
+      "« ce commandement ancien, c’est la parole que vous avez entendue »",
+      "« ce commandement ancien, c’est la vie éternelle »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:7 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-009",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:8",
+    "verseText": "Voir 1 Jean 2:8.",
+    "question": "Dans l’énoncé sur le « commandement nouveau », quel signe accompagne la disparition des ténèbres ?",
+    "choices": [
+      "« la lumière véritable paraît déjà »",
+      "« le monde passe, et sa convoitise aussi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:8 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-010",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:10",
+    "verseText": "Voir 1 Jean 2:10.",
+    "question": "Quelle précision suit immédiatement « Celui qui aime son frère demeure dans la lumière » ?",
+    "choices": [
+      "« et aucune occasion de chute n’est en lui »",
+      "« et le malin ne le touche pas »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:10 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-011",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:11",
+    "verseText": "Voir 1 Jean 2:11.",
+    "question": "Selon le texte, pourquoi celui qui hait son frère ne sait-il pas où il va ?",
+    "choices": [
+      "« parce que les ténèbres ont aveuglé ses yeux »",
+      "« parce que la crainte suppose un châtiment »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:11 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-012",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:13",
+    "verseText": "Voir 1 Jean 2:13.",
+    "question": "Dans la série « Je vous écris… », quel motif est associé aux « pères » ?",
+    "choices": [
+      "« parce que vous avez connu celui qui est dès le commencement »",
+      "« parce que vos péchés vous sont pardonnés à cause de son nom »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:13 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-013",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:14",
+    "verseText": "Voir 1 Jean 2:14.",
+    "question": "Que dit le texte des « jeunes gens » dans la phrase « Je vous ai écrit… » qui suit « parce que vous êtes forts » ?",
+    "choices": [
+      "« et que la parole de Dieu demeure en vous, et que vous avez vaincu le malin »",
+      "« et que l’onction demeure en vous, et que vous n’avez pas besoin qu’on vous enseigne »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:14 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-014",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:15",
+    "verseText": "Voir 1 Jean 2:15.",
+    "question": "Selon le texte, quelle conclusion est tirée si quelqu’un aime le monde ?",
+    "choices": [
+      "« l’amour du Père n’est point en lui »",
+      "« l’amour est parfait en lui »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:15 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-015",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:16",
+    "verseText": "Voir 1 Jean 2:16.",
+    "question": "Quelle option donne l’origine correcte de « la convoitise de la chair, la convoitise des yeux, et l’orgueil de la vie » ?",
+    "choices": [
+      "« ne vient point du Père, mais vient du monde »",
+      "« vient du Père, et demeure éternellement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:16 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-016",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:18",
+    "verseText": "Voir 1 Jean 2:18.",
+    "question": "Dans « Petits enfants, c’est la dernière heure », quel fait présent est mis en avant ?",
+    "choices": [
+      "« il y a maintenant plusieurs antéchrists »",
+      "« il y a maintenant plusieurs faux prophètes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:18 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-017",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:19",
+    "verseText": "Voir 1 Jean 2:19.",
+    "question": "Quelle raison hypothétique est donnée pour expliquer qu’ils ne sont pas restés ?",
+    "choices": [
+      "« s’ils eussent été des nôtres, ils seraient demeurés avec nous »",
+      "« s’ils eussent été des nôtres, ils auraient reçu l’onction »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:19 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-018",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:21",
+    "verseText": "Voir 1 Jean 2:21.",
+    "question": "Que déclare l’auteur avoir écrit « non que vous ne connaissiez pas la vérité » ?",
+    "choices": [
+      "« mais parce que vous la connaissez, et parce qu’aucun mensonge ne vient de la vérité »",
+      "« mais parce que vous êtes forts, et que la parole de Dieu demeure en vous »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:21 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-019",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:22",
+    "verseText": "Voir 1 Jean 2:22.",
+    "question": "Quelle définition exacte identifie « l’antéchrist » dans le texte ?",
+    "choices": [
+      "« celui qui nie le Père et le Fils »",
+      "« celui qui ne confesse pas Jésus-Christ venu en chair »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:22 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-020",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:23",
+    "verseText": "Voir 1 Jean 2:23.",
+    "question": "Quelle relation est affirmée pour « quiconque confesse le Fils » ?",
+    "choices": [
+      "« a aussi le Père »",
+      "« n’a pas non plus le Père »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:23 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-021",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:24",
+    "verseText": "Voir 1 Jean 2:24.",
+    "question": "Quelle formulation exacte décrit la condition et le résultat liés à « ce que vous avez entendu dès le commencement » ?",
+    "choices": [
+      "« Si ce que vous avez entendu dès le commencement demeure en vous, vous demeurerez aussi dans le Fils et dans le Père »",
+      "« Si ce que vous avez entendu dès le commencement demeure en vous, vous triompherez du monde »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:24 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-022",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:25",
+    "verseText": "Voir 1 Jean 2:25.",
+    "question": "Quel énoncé correspond à « la promesse qu’il nous a faite » ?",
+    "choices": [
+      "« c’est la vie éternelle »",
+      "« c’est l’assurance au jour du jugement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:25 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-023",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:27",
+    "verseText": "Voir 1 Jean 2:27.",
+    "question": "Dans la phrase sur l’onction, quelle double affirmation est donnée sur sa nature ?",
+    "choices": [
+      "« elle est véritable et qu’elle n’est point un mensonge »",
+      "« elle est pénible et qu’elle n’est point une lumière »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:27 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-024",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:28",
+    "verseText": "Voir 1 Jean 2:28.",
+    "question": "Quel est le but mentionné en lien avec « à son avènement » ?",
+    "choices": [
+      "« nous ne soyons pas confus et éloignés de lui »",
+      "« nous ne commettions pas un péché qui mène à la mort »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:28 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-025",
+    "book": "1 Jean",
+    "chapter": 2,
+    "verseRef": "1 Jean 2:29",
+    "verseText": "Voir 1 Jean 2:29.",
+    "question": "Quelle conclusion est liée à « quiconque pratique la justice » ?",
+    "choices": [
+      "« est né de lui »",
+      "« est du diable »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 2:29 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-026",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:1",
+    "verseText": "Voir 1 Jean 3:1.",
+    "question": "Selon le texte, pourquoi le monde ne connaît-il pas les enfants de Dieu ?",
+    "choices": [
+      "« c’est qu’il ne l’a pas connu »",
+      "« c’est qu’il l’a connu dès le commencement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:1 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-027",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:2",
+    "verseText": "Voir 1 Jean 3:2.",
+    "question": "Quel lien exact unit « lorsque cela sera manifesté » et « nous le verrons » ?",
+    "choices": [
+      "« nous serons semblables à lui, parce que nous le verrons tel qu’il est »",
+      "« nous serons semblables à lui, parce que nous aurons reçu l’onction »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:2 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-028",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:4",
+    "verseText": "Voir 1 Jean 3:4.",
+    "question": "Que dit le texte du péché en relation avec la loi ?",
+    "choices": [
+      "« le péché est la transgression de la loi »",
+      "« le péché est l’orgueil de la vie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:4 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-029",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:5",
+    "verseText": "Voir 1 Jean 3:5.",
+    "question": "Quelle affirmation exacte suit « Jésus a paru pour ôter les péchés » ?",
+    "choices": [
+      "« et il n’y a point en lui de péché »",
+      "« et il ne peut pécher, parce qu’il est né de Dieu »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:5 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-030",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:6",
+    "verseText": "Voir 1 Jean 3:6.",
+    "question": "Quel contraste direct est donné entre « demeure en lui » et « pèche » ?",
+    "choices": [
+      "« Quiconque demeure en lui ne pèche point »",
+      "« Quiconque demeure en lui ne marche point dans la lumière »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:6 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-031",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:7",
+    "verseText": "Voir 1 Jean 3:7.",
+    "question": "Quelle mise en garde est adressée aux « petits enfants » contre la séduction ?",
+    "choices": [
+      "« que personne ne vous séduise »",
+      "« n’ajoutez pas foi à tout esprit »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:7 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-032",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:8",
+    "verseText": "Voir 1 Jean 3:8.",
+    "question": "Quelle raison est donnée pour dire que « celui qui pèche est du diable » ?",
+    "choices": [
+      "« car le diable pèche dès le commencement »",
+      "« car le diable ne le touche pas »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:8 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-033",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:9",
+    "verseText": "Voir 1 Jean 3:9.",
+    "question": "Quelle explication est donnée sur l’impossibilité de pécher dans le verset concerné ?",
+    "choices": [
+      "« il ne peut pécher, parce qu’il est né de Dieu »",
+      "« il ne peut pécher, parce qu’il a reçu le témoignage des hommes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:9 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-034",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:10",
+    "verseText": "Voir 1 Jean 3:10.",
+    "question": "Selon le texte, comment se reconnaissent « les enfants de Dieu » et « les enfants du diable » ?",
+    "choices": [
+      "« Quiconque ne pratique pas la justice n’est pas de Dieu, non plus que celui qui n’aime pas son frère »",
+      "« Quiconque ne demande pas selon sa volonté n’est pas de Dieu, non plus que celui qui aime le monde »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:10 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-035",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:12",
+    "verseText": "Voir 1 Jean 3:12.",
+    "question": "Quelle instruction oppose explicitement l’exemple de Caïn ?",
+    "choices": [
+      "« ne pas ressembler à Caïn, qui était du malin, et qui tua son frère »",
+      "« ne pas ressembler au monde, qui écoute ceux du monde »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:12 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-036",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:12",
+    "verseText": "Voir 1 Jean 3:12.",
+    "question": "Quelle question du texte introduit la motivation du meurtre de Caïn ?",
+    "choices": [
+      "« Et pourquoi le tua-t-il ? »",
+      "« Et pourquoi le monde vous hait ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:12 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-037",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:13",
+    "verseText": "Voir 1 Jean 3:13.",
+    "question": "Selon l’auteur, quel avertissement est donné face à la haine du monde ?",
+    "choices": [
+      "« Ne vous étonnez pas, frères, si le monde vous hait »",
+      "« N’aimez point le monde, ni les choses qui sont dans le monde »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:13 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-038",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:14",
+    "verseText": "Voir 1 Jean 3:14.",
+    "question": "Quelle preuve est donnée pour « passés de la mort à la vie » ?",
+    "choices": [
+      "« parce que nous aimons les frères »",
+      "« parce que nous avons reçu l’onction »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:14 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-039",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:15",
+    "verseText": "Voir 1 Jean 3:15.",
+    "question": "Comment le texte qualifie-t-il « quiconque hait son frère » ?",
+    "choices": [
+      "« est un meurtrier »",
+      "« est un menteur »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:15 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-040",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:15",
+    "verseText": "Voir 1 Jean 3:15.",
+    "question": "Quel fait est affirmé au sujet de la « vie éternelle » chez le meurtrier ?",
+    "choices": [
+      "« aucun meurtrier n’a la vie éternelle demeurant en lui »",
+      "« aucun meurtrier n’a la vie éternelle auprès du Père »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:15 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-041",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:16",
+    "verseText": "Voir 1 Jean 3:16.",
+    "question": "Quelle obligation est tirée du fait que « il a donné sa vie pour nous » ?",
+    "choices": [
+      "« nous aussi, nous devons donner notre vie pour les frères »",
+      "« nous aussi, nous devons éprouver les esprits »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:16 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-042",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:17",
+    "verseText": "Voir 1 Jean 3:17.",
+    "question": "Quel reproche implicite est posé par la question « comment l’amour de Dieu demeure-t-il en lui ? » ?",
+    "choices": [
+      "« voyant son frère dans le besoin, il lui ferme ses entrailles »",
+      "« voyant son frère dans le besoin, il le confesse devant Dieu »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:17 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-043",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:19",
+    "verseText": "Voir 1 Jean 3:19.",
+    "question": "Quelle expression exacte associe la connaissance de l’appartenance à la vérité et l’apaisement du cœur ?",
+    "choices": [
+      "« nous rassurerons nos cœurs devant lui »",
+      "« nous nous séduisons nous-mêmes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:19 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-044",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:20",
+    "verseText": "Voir 1 Jean 3:20.",
+    "question": "Quelle comparaison est faite entre Dieu et notre cœur quand celui-ci nous condamne ?",
+    "choices": [
+      "« Dieu est plus grand que notre cœur, et il connaît toutes choses »",
+      "« Dieu est amour, et il n’y a point en lui de ténèbres »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:20 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-045",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:21",
+    "verseText": "Voir 1 Jean 3:21.",
+    "question": "Quelle condition est donnée pour avoir « de l’assurance devant Dieu » ?",
+    "choices": [
+      "« si notre cœur ne nous condamne pas »",
+      "« si nous disons que nous n’avons pas péché »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:21 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-046",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:22",
+    "verseText": "Voir 1 Jean 3:22.",
+    "question": "Quel lien le texte établit-il entre recevoir ce que l’on demande et le comportement ?",
+    "choices": [
+      "« parce que nous gardons ses commandements et que nous faisons ce qui lui est agréable »",
+      "« parce que nous avons reçu le témoignage des hommes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:22 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-047",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:23",
+    "verseText": "Voir 1 Jean 3:23.",
+    "question": "Quel est « son commandement » présenté en deux volets dans un même verset ?",
+    "choices": [
+      "« que nous croyions au nom de son Fils Jésus-Christ, et que nous nous aimions les uns les autres »",
+      "« que nous n’aimions point le monde, et que nous gardions les idoles »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:23 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-048",
+    "book": "1 Jean",
+    "chapter": 3,
+    "verseRef": "1 Jean 3:24",
+    "verseText": "Voir 1 Jean 3:24.",
+    "question": "Selon le texte, par quoi connaissons-nous que Dieu demeure en nous ?",
+    "choices": [
+      "« par l’Esprit qu’il nous a donné »",
+      "« par l’eau et le sang »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 3:24 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-049",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:1",
+    "verseText": "Voir 1 Jean 4:1.",
+    "question": "Quelle injonction ouvre l’exhortation sur les esprits ?",
+    "choices": [
+      "« n’ajoutez pas foi à tout esprit ; mais éprouvez les esprits »",
+      "« n’aimez pas en paroles et avec la langue ; mais en actions et avec vérité »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:1 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-050",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:2",
+    "verseText": "Voir 1 Jean 4:2.",
+    "question": "Selon le texte, quel critère reconnaît « l’Esprit de Dieu » ?",
+    "choices": [
+      "« tout esprit qui confesse Jésus-Christ venu en chair est de Dieu »",
+      "« tout esprit qui dit : J’aime Dieu, est de Dieu »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:2 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-051",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:3",
+    "verseText": "Voir 1 Jean 4:3.",
+    "question": "Quelle formulation identifie « celui de l’antéchrist » dans l’enseignement sur les esprits ?",
+    "choices": [
+      "« tout esprit qui ne confesse pas Jésus n’est pas de Dieu »",
+      "« tout esprit qui nie que Jésus est le Christ n’est pas de Dieu »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:3 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-052",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:4",
+    "verseText": "Voir 1 Jean 4:4.",
+    "question": "Quelle raison est donnée pour dire « vous les avez vaincus » ?",
+    "choices": [
+      "« parce que celui qui est en vous est plus grand que celui qui est dans le monde »",
+      "« parce que le monde passe, et sa convoitise aussi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:4 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-053",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:5-6",
+    "verseText": "Voir 1 Jean 4:5-6.",
+    "question": "Quel contraste est donné entre « Eux » et « Nous » au sujet de l’écoute ?",
+    "choices": [
+      "« Eux… le monde les écoute » / « Nous… celui qui connaît Dieu nous écoute »",
+      "« Eux… Dieu les écoute » / « Nous… le monde nous écoute »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:5-6 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-054",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:7",
+    "verseText": "Voir 1 Jean 4:7.",
+    "question": "Quelle affirmation fondamentale est donnée comme motif de l’amour fraternel ?",
+    "choices": [
+      "« car l’amour est de Dieu »",
+      "« car la crainte n’est pas dans l’amour »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:7 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-055",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:8",
+    "verseText": "Voir 1 Jean 4:8.",
+    "question": "Quelle option reprend exactement la raison donnée pour « Celui qui n’aime pas » ?",
+    "choices": [
+      "« n’a pas connu Dieu, car Dieu est amour »",
+      "« n’a pas connu Dieu, car Dieu est lumière »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:8 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-056",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:9",
+    "verseText": "Voir 1 Jean 4:9.",
+    "question": "Comment l’amour de Dieu est-il dit avoir été manifesté envers nous ?",
+    "choices": [
+      "« Dieu a envoyé son Fils unique dans le monde, afin que nous vivions par lui »",
+      "« Dieu a donné l’intelligence pour connaître le Véritable, afin que nous vivions par lui »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:9 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-057",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:10",
+    "verseText": "Voir 1 Jean 4:10.",
+    "question": "Quelle définition exacte est donnée de l’amour dans « Et cet amour consiste » ?",
+    "choices": [
+      "« non point en ce que nous avons aimé Dieu, mais en ce qu’il nous a aimés et a envoyé son Fils comme victime expiatoire pour nos péchés »",
+      "« non point en ce que nous avons connu Dieu, mais en ce que nous avons reçu l’onction et la connaissance »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:10 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-058",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:12",
+    "verseText": "Voir 1 Jean 4:12.",
+    "question": "Quelle affirmation est donnée au sujet de la vision de Dieu et de l’amour fraternel ?",
+    "choices": [
+      "« Personne n’a jamais vu Dieu ; si nous nous aimons les uns les autres, Dieu demeure en nous, et son amour est parfait en nous »",
+      "« Personne n’a jamais vu Dieu ; si nous confessons nos péchés, Dieu demeure en nous, et son amour est parfait en nous »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:12 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-059",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:13",
+    "verseText": "Voir 1 Jean 4:13.",
+    "question": "Selon le texte, en quoi reconnaissons-nous que nous demeurons en lui ?",
+    "choices": [
+      "« en ce qu’il nous a donné de son Esprit »",
+      "« en ce que nous avons reçu le témoignage des hommes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:13 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-060",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:21",
+    "verseText": "Voir 1 Jean 5:21.",
+    "question": "Quel dernier avertissement clôt l’épître ?",
+    "choices": [
+      "« Petits enfants, gardez-vous des idoles »",
+      "« Petits enfants, n’ajoutez pas foi à tout esprit »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:21 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-061",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:18",
+    "verseText": "Voir 1 Jean 4:18.",
+    "question": "Quel énoncé correspond exactement à la clause finale du verset sur l’amour parfait et la crainte ?",
+    "choices": [
+      "« celui qui craint n’est pas parfait dans l’amour »",
+      "« celui qui craint est né de Dieu et connaît Dieu »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:18 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-062",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:19",
+    "verseText": "Voir 1 Jean 4:19.",
+    "question": "Dans l’ordre du texte, quelle cause est donnée pour « nous l’aimons » ?",
+    "choices": [
+      "« parce qu’il nous a aimés le premier »",
+      "« parce que nous avons aimé Dieu le premier »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:19 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-063",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:20",
+    "verseText": "Voir 1 Jean 4:20.",
+    "question": "Quel enchaînement exact relie la parole « J’aime Dieu » et la conclusion portée sur la personne ?",
+    "choices": [
+      "« et qu’il haïsse son frère, c’est un menteur »",
+      "« et qu’il pratique la justice, c’est un menteur »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:20 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-064",
+    "book": "1 Jean",
+    "chapter": 4,
+    "verseRef": "1 Jean 4:21",
+    "verseText": "Voir 1 Jean 4:21.",
+    "question": "Quel commandement est formulé avec « aussi » en parlant de l’amour du frère ?",
+    "choices": [
+      "« que celui qui aime Dieu aime aussi son frère »",
+      "« que celui qui aime le monde aime aussi son frère »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:21 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-065",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:6",
+    "verseText": "Voir 1 Jean 5:6.",
+    "question": "Quel couple de termes apparaît ensemble pour décrire la venue de Jésus-Christ ?",
+    "choices": [
+      "« de l’eau et du sang »",
+      "« de la lumière et de la vie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:6 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-066",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:6",
+    "verseText": "Voir 1 Jean 5:6.",
+    "question": "Dans le verset sur le témoignage, quelle définition est donnée de l’Esprit ?",
+    "choices": [
+      "« l’Esprit est la vérité »",
+      "« l’Esprit est l’amour »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:6 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-067",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:8",
+    "verseText": "Voir 1 Jean 5:8.",
+    "question": "Selon le texte, quels sont les trois qui rendent témoignage ?",
+    "choices": [
+      "« l’Esprit, l’eau et le sang »",
+      "« le Père, le Fils et le monde »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:8 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-068",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:8",
+    "verseText": "Voir 1 Jean 5:8.",
+    "question": "Quelle conclusion exacte est donnée sur l’accord entre les trois témoins ?",
+    "choices": [
+      "« les trois sont d’accord »",
+      "« les trois sont en désaccord »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:8 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-069",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:10",
+    "verseText": "Voir 1 Jean 5:10.",
+    "question": "Où se trouve le témoignage chez celui qui croit au Fils de Dieu ?",
+    "choices": [
+      "« en lui-même »",
+      "« dans le monde »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:10 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-070",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:10",
+    "verseText": "Voir 1 Jean 5:10.",
+    "question": "Quel est l’effet déclaré de ne pas croire Dieu, selon l’expression du texte ?",
+    "choices": [
+      "« le fait menteur »",
+      "« le fait juste »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:10 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-071",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:11",
+    "verseText": "Voir 1 Jean 5:11.",
+    "question": "Quelle formulation exacte associe le don de Dieu et l’emplacement de la vie éternelle ?",
+    "choices": [
+      "« Dieu nous a donné la vie éternelle, et cette vie est dans son Fils »",
+      "« Dieu nous a donné la vie éternelle, et cette vie est dans le monde »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:11 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-072",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:12",
+    "verseText": "Voir 1 Jean 5:12.",
+    "question": "Quelle alternative correspond exactement à la phrase complète sur « avoir le Fils » ?",
+    "choices": [
+      "« Celui qui a le Fils a la vie »",
+      "« Celui qui a le Fils n’a point de péché »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:12 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-073",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:12",
+    "verseText": "Voir 1 Jean 5:12.",
+    "question": "Quelle alternative correspond exactement à la phrase complète sur « ne pas avoir le Fils de Dieu » ?",
+    "choices": [
+      "« celui qui n’a pas le Fils de Dieu n’a pas la vie »",
+      "« celui qui n’a pas le Fils de Dieu a la vie éternelle »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:12 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-074",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:14",
+    "verseText": "Voir 1 Jean 5:14.",
+    "question": "Dans l’assurance au sujet de la prière, quel critère gouverne l’écoute ?",
+    "choices": [
+      "« si nous demandons quelque chose selon sa volonté »",
+      "« si nous demandons quelque chose selon notre convoitise »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:14 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-075",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:15",
+    "verseText": "Voir 1 Jean 5:15.",
+    "question": "Quelle conséquence est donnée à la connaissance qu’il écoute, « quelles que soient les choses que nous demandions » ?",
+    "choices": [
+      "« nous possédons la chose que nous lui avons demandée »",
+      "« nous n’avons pas besoin qu’on nous enseigne »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:15 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-076",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:16",
+    "verseText": "Voir 1 Jean 5:16.",
+    "question": "Quelle précision du texte limite la demande de prière au sujet du « péché qui mène à la mort » ?",
+    "choices": [
+      "« Ce n’est pas au sujet de ce péché-là que je dis de prier »",
+      "« Ce n’est pas au sujet de ce péché-là que je dis de parler »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:16 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-077",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:17",
+    "verseText": "Voir 1 Jean 5:17.",
+    "question": "Quelle formulation exacte relie « toute iniquité » et « un péché » ?",
+    "choices": [
+      "« Toute iniquité est un péché »",
+      "« Toute iniquité n’est pas un péché »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:17 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-078",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:17",
+    "verseText": "Voir 1 Jean 5:17.",
+    "question": "Comment le texte qualifie-t-il le péché qui ne mène pas à la mort ?",
+    "choices": [
+      "« il y a tel péché qui ne mène pas à la mort »",
+      "« il n’y a aucun péché qui ne mène pas à la mort »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:17 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-079",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:18",
+    "verseText": "Voir 1 Jean 5:18.",
+    "question": "Quel énoncé exact est affirmé au sujet de « quiconque est né de Dieu » et du péché ?",
+    "choices": [
+      "« ne pèche point »",
+      "« pèche dès le commencement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:18 (LSG 1910)."
+  },
+  {
+    "id": "1jean-D-080",
+    "book": "1 Jean",
+    "chapter": 5,
+    "verseRef": "1 Jean 5:19",
+    "verseText": "Voir 1 Jean 5:19.",
+    "question": "Quelle affirmation finale précise l’état du monde entier ?",
+    "choices": [
+      "« le monde entier est sous la puissance du malin »",
+      "« le monde entier est sous la puissance de l’amour »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 5:19 (LSG 1910)."
+  }
+]

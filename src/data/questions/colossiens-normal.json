@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "colossiens-N-001",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:1",
+    "verseText": "Voir Colossiens 1:1.",
+    "question": "Quels sont les deux expéditeurs nommés au début de l’épître ?",
+    "choices": [
+      "Paul et Timothée",
+      "Pierre et Jean",
+      "Jacques et Jude"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:1 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-002",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:2",
+    "verseText": "Voir Colossiens 1:2.",
+    "question": "À qui l’épître est-elle adressée, selon l’expression complète utilisée ?",
+    "choices": [
+      "Aux saints et fidèles frères en Christ qui sont à Colosses",
+      "Aux anciens et diacres qui sont à Colosses",
+      "Aux serviteurs et affranchis qui sont à Colosses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:2 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-003",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:2",
+    "verseText": "Voir Colossiens 1:2.",
+    "question": "Quelle formule de bénédiction ouvre la lettre après la salutation ?",
+    "choices": [
+      "Grâce et paix vous soient données de la part de Dieu notre Père",
+      "Miséricorde et vérité vous soient données de la part de Dieu notre Père",
+      "Force et joie vous soient données de la part de Dieu notre Père"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:2 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-004",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:4",
+    "verseText": "Voir Colossiens 1:4.",
+    "question": "Pour quelle raison Paul dit-il rendre grâces en priant pour eux ?",
+    "choices": [
+      "Ayant été informé de leur foi en Jésus-Christ et de leur charité pour tous les saints",
+      "Ayant été informé de leur richesse et de leur sagesse",
+      "Ayant été informé de leurs combats et de leurs voyages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:4 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-005",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:5",
+    "verseText": "Voir Colossiens 1:5.",
+    "question": "Quelle réalité est présentée comme la source de leur charité et de leur foi, selon Paul ?",
+    "choices": [
+      "L’espérance qui leur est réservée dans les cieux",
+      "La crainte du jugement immédiat",
+      "La promesse d’un royaume terrestre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:5 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-006",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:5",
+    "verseText": "Voir Colossiens 1:5.",
+    "question": "Par quel moyen ont-ils entendu parler de cette espérance, selon le texte ?",
+    "choices": [
+      "Par la parole de la vérité, l’Évangile",
+      "Par des songes et des visions",
+      "Par des traditions des anciens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:5 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-007",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:6",
+    "verseText": "Voir Colossiens 1:6.",
+    "question": "Comment l’Évangile est-il décrit dans son action parmi eux ?",
+    "choices": [
+      "Il porte des fruits et il va grandissant",
+      "Il trouble les consciences et il divise",
+      "Il remplit de craintes et il réduit au silence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:6 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-008",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:7",
+    "verseText": "Voir Colossiens 1:7.",
+    "question": "Qui est présenté comme celui dont ils ont appris l’Évangile ?",
+    "choices": [
+      "Épaphras, notre bien-aimé compagnon de service",
+      "Luc, le médecin bien-aimé",
+      "Tychique, le frère bien-aimé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:7 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-009",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:7",
+    "verseText": "Voir Colossiens 1:7.",
+    "question": "Quel rôle Épaphras est-il appelé à tenir « pour vous » ?",
+    "choices": [
+      "Un fidèle ministre de Christ",
+      "Un ancien de Jérusalem",
+      "Un prophète parmi les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:7 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-010",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:8",
+    "verseText": "Voir Colossiens 1:8.",
+    "question": "Qu’a-t-il fait connaître à Paul concernant les Colossiens ?",
+    "choices": [
+      "Votre charité dans l’Esprit",
+      "Votre science dans la loi",
+      "Votre force dans les combats"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:8 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-011",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:9",
+    "verseText": "Voir Colossiens 1:9.",
+    "question": "À partir de quand Paul dit-il ne pas cesser de prier pour eux ?",
+    "choices": [
+      "Du jour où nous en avons été informés",
+      "Du jour où nous vous avons baptisés",
+      "Du jour où nous sommes arrivés à Colosses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:9 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-012",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:9",
+    "verseText": "Voir Colossiens 1:9.",
+    "question": "Que demande-t-il qu’ils soient remplis de connaître ?",
+    "choices": [
+      "Sa volonté, en toute sagesse et intelligence spirituelle",
+      "Les mystères des anges, en toute puissance et autorité",
+      "Les coutumes des nations, en toute prudence et éloquence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:9 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-013",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:10",
+    "verseText": "Voir Colossiens 1:10.",
+    "question": "Dans quel but cette connaissance est-elle demandée ?",
+    "choices": [
+      "Pour marcher d’une manière digne du Seigneur et lui être entièrement agréables",
+      "Pour être considérés comme sages parmi les hommes",
+      "Pour surpasser les autres assemblées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:10 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-014",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:10",
+    "verseText": "Voir Colossiens 1:10.",
+    "question": "Quelle expression décrit leur croissance spirituelle en lien avec Dieu ?",
+    "choices": [
+      "Croissant par la connaissance de Dieu",
+      "Brillant par l’éloquence des discours",
+      "Dominant par la force des armes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:10 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-015",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:11",
+    "verseText": "Voir Colossiens 1:11.",
+    "question": "Par quoi Paul souhaite-t-il qu’ils soient fortifiés ?",
+    "choices": [
+      "Par sa puissance glorieuse",
+      "Par leur volonté naturelle",
+      "Par la faveur des autorités"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:11 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-016",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:11",
+    "verseText": "Voir Colossiens 1:11.",
+    "question": "Pour quelles qualités cette fortification est-elle liée, selon le verset ?",
+    "choices": [
+      "Pour être toujours et avec joie persévérants et patients",
+      "Pour être rapides et audacieux dans les décisions",
+      "Pour être craints et respectés de tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:11 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-017",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:12",
+    "verseText": "Voir Colossiens 1:12.",
+    "question": "À qui doivent-ils rendre grâces, selon Paul ?",
+    "choices": [
+      "Au Père",
+      "Aux apôtres",
+      "Aux anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:12 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-018",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:12",
+    "verseText": "Voir Colossiens 1:12.",
+    "question": "Que le Père a-t-il rendu possible concernant les croyants ?",
+    "choices": [
+      "Les rendre capables d’avoir part à l’héritage des saints dans la lumière",
+      "Les rendre capables de gouverner les nations",
+      "Les rendre capables de connaître tous les secrets"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:12 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-019",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:13",
+    "verseText": "Voir Colossiens 1:13.",
+    "question": "De quoi Dieu « nous a-t-il délivrés » ?",
+    "choices": [
+      "De la puissance des ténèbres",
+      "De la pauvreté matérielle",
+      "De l’oppression des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:13 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-020",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:13",
+    "verseText": "Voir Colossiens 1:13.",
+    "question": "Vers quoi Dieu « nous a-t-il transportés » ?",
+    "choices": [
+      "Dans le royaume du Fils de son amour",
+      "Dans le royaume de ce monde",
+      "Dans le royaume d’Israël restauré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:13 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-021",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:14",
+    "verseText": "Voir Colossiens 1:14.",
+    "question": "Qu’obtient-on « en lui » selon Paul ?",
+    "choices": [
+      "La rédemption, la rémission des péchés",
+      "La science parfaite, l’absence d’épreuve",
+      "La gloire terrestre, la richesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:14 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-022",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:15",
+    "verseText": "Voir Colossiens 1:15.",
+    "question": "Comment Christ est-il décrit par rapport à Dieu ?",
+    "choices": [
+      "L’image du Dieu invisible",
+      "Le serviteur du Dieu invisible",
+      "Le messager du Dieu invisible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:15 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-023",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:15",
+    "verseText": "Voir Colossiens 1:15.",
+    "question": "Quelle position Christ occupe-t-il par rapport à la création ?",
+    "choices": [
+      "Le premier-né de toute la création",
+      "Le dernier-né de toute la création",
+      "Le chef des nations seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:15 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-024",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:16",
+    "verseText": "Voir Colossiens 1:16.",
+    "question": "Où les choses ont-elles été créées « en lui » selon la liste donnée ?",
+    "choices": [
+      "Dans les cieux et sur la terre",
+      "Dans la mer et dans les abîmes",
+      "Dans le désert et sur les montagnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:16 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-025",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:16",
+    "verseText": "Voir Colossiens 1:16.",
+    "question": "Quels types de réalités invisibles sont explicitement cités ?",
+    "choices": [
+      "Trônes, dignités, dominations, autorités",
+      "Prophéties, songes, révélations, oracles",
+      "Serments, lois, fêtes, sabbats"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:16 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-026",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:16",
+    "verseText": "Voir Colossiens 1:16.",
+    "question": "Quelle double relation à Christ est affirmée à propos de toutes choses ?",
+    "choices": [
+      "Elles ont été créées par lui et pour lui",
+      "Elles ont été jugées contre lui et malgré lui",
+      "Elles ont été cachées loin de lui et sans lui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:16 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-027",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:17",
+    "verseText": "Voir Colossiens 1:17.",
+    "question": "Que dit Paul de Christ par rapport à toutes choses ?",
+    "choices": [
+      "Il est avant toutes choses",
+      "Il est après toutes choses",
+      "Il est égal à toutes choses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:17 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-028",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:17",
+    "verseText": "Voir Colossiens 1:17.",
+    "question": "Qu’arrive-t-il à toutes choses « en lui » ?",
+    "choices": [
+      "Elles subsistent",
+      "Elles disparaissent",
+      "Elles se transforment en anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:17 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-029",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:18",
+    "verseText": "Voir Colossiens 1:18.",
+    "question": "Quelle image est utilisée pour décrire la relation de Christ à l’Église ?",
+    "choices": [
+      "Il est le chef du corps, de l’Église",
+      "Il est le gardien du temple, de l’Église",
+      "Il est le juge du peuple, de l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:18 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-030",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:18",
+    "verseText": "Voir Colossiens 1:18.",
+    "question": "Comment Christ est-il désigné quant au commencement et à la résurrection ?",
+    "choices": [
+      "Le commencement, le premier-né d’entre les morts",
+      "Le modèle, le premier-né des anges",
+      "Le prophète, le premier-né des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:18 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-031",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:18",
+    "verseText": "Voir Colossiens 1:18.",
+    "question": "Quel but est donné pour cette primauté ?",
+    "choices": [
+      "Afin d’être en tout le premier",
+      "Afin d’être en tout le plus caché",
+      "Afin d’être en tout le moins connu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:18 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-032",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:19",
+    "verseText": "Voir Colossiens 1:19.",
+    "question": "Qu’a-t-il plu à Dieu de faire habiter en Christ ?",
+    "choices": [
+      "Toute plénitude",
+      "Toute rigueur",
+      "Toute crainte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:19 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-033",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:20",
+    "verseText": "Voir Colossiens 1:20.",
+    "question": "Quel effet de la croix est mis en avant dans la réconciliation ?",
+    "choices": [
+      "Ayant fait la paix par le sang de sa croix",
+      "Ayant donné la loi par la parole de sa bouche",
+      "Ayant établi le temple par l’œuvre de ses mains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:20 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-034",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:20",
+    "verseText": "Voir Colossiens 1:20.",
+    "question": "Sur quelles réalités porte cette réconciliation, selon le verset ?",
+    "choices": [
+      "Sur la terre et dans les cieux",
+      "Sur la mer et sous la terre",
+      "Sur les nations et sur les langues"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:20 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-035",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:21",
+    "verseText": "Voir Colossiens 1:21.",
+    "question": "Comment les Colossiens sont-ils décrits avant la réconciliation ?",
+    "choices": [
+      "Autrefois éloignés et ennemis par vos pensées et par vos mauvaises œuvres",
+      "Autrefois ignorants et faibles par manque d’instruction",
+      "Autrefois pauvres et méprisés par les hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:21 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-036",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:22",
+    "verseText": "Voir Colossiens 1:22.",
+    "question": "Par quel moyen la réconciliation est-elle dite accomplie ?",
+    "choices": [
+      "Par la mort dans le corps de sa chair",
+      "Par la force des armées",
+      "Par la sagesse des philosophes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:22 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-037",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:22",
+    "verseText": "Voir Colossiens 1:22.",
+    "question": "Dans quel état Paul dit-il vouloir les présenter devant Dieu ?",
+    "choices": [
+      "Saints, irrépréhensibles et sans reproche",
+      "Riches, puissants et honorés",
+      "Savants, éloquents et admirés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:22 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-038",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:23",
+    "verseText": "Voir Colossiens 1:23.",
+    "question": "Quelle condition est posée à la persévérance ?",
+    "choices": [
+      "Si du moins vous demeurez fondés et inébranlables dans la foi",
+      "Si du moins vous observez les fêtes et les nouvelles lunes",
+      "Si du moins vous voyagez vers Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:23 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-039",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:23",
+    "verseText": "Voir Colossiens 1:23.",
+    "question": "De quoi ne doivent-ils pas se laisser détourner ?",
+    "choices": [
+      "De l’espérance de l’Évangile",
+      "Des coutumes de leurs pères",
+      "Des décisions des autorités"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:23 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-040",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:23",
+    "verseText": "Voir Colossiens 1:23.",
+    "question": "Comment Paul situe-t-il cet Évangile par rapport au monde créé ?",
+    "choices": [
+      "Il a été prêché à toute créature sous le ciel",
+      "Il a été caché à toute créature sous le ciel",
+      "Il a été réservé à un seul peuple sous le ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:23 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-041",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:24",
+    "verseText": "Voir Colossiens 1:24.",
+    "question": "De quoi Paul dit-il se réjouir concernant ses souffrances ?",
+    "choices": [
+      "Il souffre pour eux",
+      "Il souffre pour sa propre gloire",
+      "Il souffre pour éviter le travail"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:24 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-042",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:24",
+    "verseText": "Voir Colossiens 1:24.",
+    "question": "Que dit-il « achever » en ses souffrances ?",
+    "choices": [
+      "Ce qui manque aux souffrances de Christ, pour son corps qui est l’Église",
+      "Ce qui manque aux prophéties, pour son peuple",
+      "Ce qui manque aux sacrifices, pour le temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:24 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-043",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:25",
+    "verseText": "Voir Colossiens 1:25.",
+    "question": "Quelle mission Paul dit-il avoir reçue pour l’Église ?",
+    "choices": [
+      "Selon la charge que Dieu m’a donnée auprès de vous, afin que j’annonçasse pleinement la parole de Dieu",
+      "Selon l’honneur que les hommes m’ont accordé, afin que je règne sur vous",
+      "Selon la force que j’ai acquise, afin que je commande parmi vous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:25 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-044",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:26",
+    "verseText": "Voir Colossiens 1:26.",
+    "question": "Comment est décrit le « mystère » concernant son histoire ?",
+    "choices": [
+      "Caché de tout temps et dans tous les âges",
+      "Révélé par la nature et par les astres",
+      "Transmis par les rois et par les sages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:26 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-045",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:26",
+    "verseText": "Voir Colossiens 1:26.",
+    "question": "À qui ce mystère est-il maintenant manifesté ?",
+    "choices": [
+      "À ses saints",
+      "Aux princes de ce monde",
+      "Aux philosophes de la Grèce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:26 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-046",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:27",
+    "verseText": "Voir Colossiens 1:27.",
+    "question": "Quel contenu central résume ce mystère chez les croyants des nations ?",
+    "choices": [
+      "Christ en vous, l’espérance de la gloire",
+      "La loi en vous, la force du salut",
+      "L’ange en vous, la paix du monde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:27 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-047",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:28",
+    "verseText": "Voir Colossiens 1:28.",
+    "question": "Quelle action Paul dit-il faire envers « tout homme » au sujet de Christ ?",
+    "choices": [
+      "Nous l’annonçons, exhortant tout homme et instruisant tout homme",
+      "Nous le cachons, éprouvant tout homme et jugeant tout homme",
+      "Nous le vendons, flattant tout homme et séduisant tout homme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:28 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-048",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:28",
+    "verseText": "Voir Colossiens 1:28.",
+    "question": "Dans quel but Paul annonce-t-il ainsi Christ ?",
+    "choices": [
+      "Afin de présenter à Dieu tout homme devenu parfait en Christ",
+      "Afin de rendre tout homme riche en ce monde",
+      "Afin d’établir tout homme chef dans l’assemblée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:28 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-049",
+    "book": "Colossiens",
+    "chapter": 1,
+    "verseRef": "Colossiens 1:29",
+    "verseText": "Voir Colossiens 1:29.",
+    "question": "Par quelle énergie Paul dit-il travailler ?",
+    "choices": [
+      "Selon la force qui agit puissamment en moi",
+      "Selon l’aide des autorités de la ville",
+      "Selon la sagesse des maîtres de rhétorique"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:29 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-050",
+    "book": "Colossiens",
+    "chapter": 2,
+    "verseRef": "Colossiens 2:1",
+    "verseText": "Voir Colossiens 2:1.",
+    "question": "Pour quels groupes Paul dit-il avoir un grand combat ?",
+    "choices": [
+      "Pour ceux de Laodicée et pour tous ceux qui n’ont pas vu son visage",
+      "Pour ceux de Rome et pour les soldats de César",
+      "Pour ceux de Jérusalem et pour les sacrificateurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 2:1 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-051",
+    "book": "Colossiens",
+    "chapter": 2,
+    "verseRef": "Colossiens 2:2",
+    "verseText": "Voir Colossiens 2:2.",
+    "question": "Quel est le premier but mentionné pour ce combat ?",
+    "choices": [
+      "Afin que leurs cœurs soient consolés",
+      "Afin que leurs biens soient augmentés",
+      "Afin que leurs ennemis soient détruits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 2:2 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-052",
+    "book": "Colossiens",
+    "chapter": 2,
+    "verseRef": "Colossiens 2:2",
+    "verseText": "Voir Colossiens 2:2.",
+    "question": "À quoi Paul veut-il qu’ils soient unis ?",
+    "choices": [
+      "Étant unis dans la charité",
+      "Étant unis dans la peur",
+      "Étant unis dans la richesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 2:2 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-053",
+    "book": "Colossiens",
+    "chapter": 2,
+    "verseRef": "Colossiens 2:2",
+    "verseText": "Voir Colossiens 2:2.",
+    "question": "Vers quelle richesse Paul oriente-t-il leur compréhension ?",
+    "choices": [
+      "Toutes les richesses d’une pleine intelligence",
+      "Toutes les richesses d’un trésor terrestre",
+      "Toutes les richesses d’une renommée humaine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 2:2 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-054",
+    "book": "Colossiens",
+    "chapter": 2,
+    "verseRef": "Colossiens 2:2",
+    "verseText": "Voir Colossiens 2:2.",
+    "question": "Quel est l’objet de cette intelligence selon le verset ?",
+    "choices": [
+      "Pour connaître le mystère de Dieu, savoir Christ",
+      "Pour connaître les cycles des astres, savoir le temps",
+      "Pour connaître les coutumes des nations, savoir la politique"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 2:2 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-055",
+    "book": "Colossiens",
+    "chapter": 2,
+    "verseRef": "Colossiens 2:3",
+    "verseText": "Voir Colossiens 2:3.",
+    "question": "Où se trouvent « tous les trésors » mentionnés ?",
+    "choices": [
+      "En Christ sont cachés tous les trésors de la sagesse et de la science",
+      "Dans le temple sont cachés tous les trésors de l’or et de l’argent",
+      "Dans la mer sont cachés tous les trésors des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 2:3 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-056",
+    "book": "Colossiens",
+    "chapter": 2,
+    "verseRef": "Colossiens 2:4",
+    "verseText": "Voir Colossiens 2:4.",
+    "question": "Quel danger Paul veut-il prévenir par ses paroles ?",
+    "choices": [
+      "Que personne ne vous séduise par des discours persuasifs",
+      "Que personne ne vous attaque par des armes",
+      "Que personne ne vous accuse devant les juges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 2:4 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-057",
+    "book": "Colossiens",
+    "chapter": 2,
+    "verseRef": "Colossiens 2:5",
+    "verseText": "Voir Colossiens 2:5.",
+    "question": "Comment Paul décrit-il sa présence envers eux ?",
+    "choices": [
+      "Absent de corps, mais présent en esprit",
+      "Présent de corps, mais absent en esprit",
+      "Absent de corps, et absent en esprit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 2:5 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-058",
+    "book": "Colossiens",
+    "chapter": 2,
+    "verseRef": "Colossiens 2:5",
+    "verseText": "Voir Colossiens 2:5.",
+    "question": "De quoi se réjouit-il en les considérant ?",
+    "choices": [
+      "De votre bon ordre et de la fermeté de votre foi en Christ",
+      "De votre puissance et de votre richesse",
+      "De votre célébrité et de votre influence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 2:5 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-059",
+    "book": "Colossiens",
+    "chapter": 2,
+    "verseRef": "Colossiens 2:6",
+    "verseText": "Voir Colossiens 2:6.",
+    "question": "Quelle exhortation résume la continuité de leur marche chrétienne ?",
+    "choices": [
+      "Comme vous avez reçu le Seigneur Jésus-Christ, marchez en lui",
+      "Comme vous avez reçu la loi, marchez dans les rites",
+      "Comme vous avez reçu la sagesse, marchez dans les débats"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 2:6 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-060",
+    "book": "Colossiens",
+    "chapter": 2,
+    "verseRef": "Colossiens 2:7",
+    "verseText": "Voir Colossiens 2:7.",
+    "question": "Par quelles images Paul décrit-il l’enracinement et l’affermissement attendus ?",
+    "choices": [
+      "Enracinés et fondés en lui, affermis par la foi, selon les instructions qui vous ont été données",
+      "Enflammés et exaltés en lui, affermis par la parole des hommes, selon les traditions",
+      "Éprouvés et errants en lui, affermis par les visions, selon les songes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 2:7 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-061",
+    "book": "Colossiens",
+    "chapter": 3,
+    "verseRef": "Colossiens 3:24",
+    "verseText": "Voir Colossiens 3:24.",
+    "question": "Sachant ce qu’ils recevront du Seigneur, quelle chose est appelée « l’héritage » ?",
+    "choices": [
+      "L’héritage pour récompense",
+      "L’héritage des nations",
+      "L’héritage des richesses terrestres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 3:24 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-062",
+    "book": "Colossiens",
+    "chapter": 3,
+    "verseRef": "Colossiens 3:23",
+    "verseText": "Voir Colossiens 3:23.",
+    "question": "Pour qui le texte ordonne-t-il d’agir « de bon cœur » et non « pour des hommes » ?",
+    "choices": [
+      "Pour le Seigneur",
+      "Pour les maîtres terrestres",
+      "Pour les anciens de l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 3:23 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-063",
+    "book": "Colossiens",
+    "chapter": 3,
+    "verseRef": "Colossiens 3:24",
+    "verseText": "Voir Colossiens 3:24.",
+    "question": "Quelle affirmation brève conclut l’instruction sur le service rendu ?",
+    "choices": [
+      "Servez Christ, le Seigneur",
+      "Servez la loi, le commandement",
+      "Servez les anges, les autorités"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 3:24 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-064",
+    "book": "Colossiens",
+    "chapter": 3,
+    "verseRef": "Colossiens 3:25",
+    "verseText": "Voir Colossiens 3:25.",
+    "question": "Quel principe est donné à propos de celui qui agit injustement ?",
+    "choices": [
+      "Il recevra selon son injustice",
+      "Il sera couvert par ses traditions",
+      "Il sera justifié par ses efforts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 3:25 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-065",
+    "book": "Colossiens",
+    "chapter": 3,
+    "verseRef": "Colossiens 3:25",
+    "verseText": "Voir Colossiens 3:25.",
+    "question": "Quelle déclaration accompagne le principe du jugement, sans favoritisme ?",
+    "choices": [
+      "Il n’y a point d’acception de personnes",
+      "Il y a acception selon l’ancienneté",
+      "Il y a acception selon la science"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 3:25 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-066",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:1",
+    "verseText": "Voir Colossiens 4:1.",
+    "question": "Que doivent accorder les maîtres à leurs serviteurs, selon l’ordre direct ?",
+    "choices": [
+      "Ce qui est juste et équitable",
+      "Ce qui est sévère et douloureux",
+      "Ce qui est secret et réservé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:1 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-067",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:1",
+    "verseText": "Voir Colossiens 4:1.",
+    "question": "Quelle connaissance motive le commandement adressé aux maîtres ?",
+    "choices": [
+      "Vous aussi vous avez un maître dans le ciel",
+      "Vous aussi vous avez une loi dans le temple",
+      "Vous aussi vous avez un roi sur la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:1 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-068",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:2",
+    "verseText": "Voir Colossiens 4:2.",
+    "question": "Quelle consigne principale concerne la prière ?",
+    "choices": [
+      "Persévérez dans la prière",
+      "Remettez la prière à plus tard",
+      "Remplacez la prière par des rites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:2 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-069",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:2",
+    "verseText": "Voir Colossiens 4:2.",
+    "question": "Comment faut-il « veiller » dans la prière, selon le verset ?",
+    "choices": [
+      "Avec actions de grâces",
+      "Avec crainte des hommes",
+      "Avec silence absolu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:2 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-070",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:3",
+    "verseText": "Voir Colossiens 4:3.",
+    "question": "Pour quoi Paul demande-t-il qu’on prie « en même temps » pour lui et ses compagnons ?",
+    "choices": [
+      "Afin que Dieu nous ouvre une porte pour la parole",
+      "Afin que Dieu nous donne des richesses",
+      "Afin que Dieu nous assure un voyage paisible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:3 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-071",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:3",
+    "verseText": "Voir Colossiens 4:3.",
+    "question": "Quel mystère Paul dit-il vouloir annoncer quand une « porte » s’ouvre ?",
+    "choices": [
+      "Le mystère de Christ",
+      "Le mystère des temps",
+      "Le mystère des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:3 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-072",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:3",
+    "verseText": "Voir Colossiens 4:3.",
+    "question": "Pour quelle raison Paul dit-il être « dans les chaînes » ?",
+    "choices": [
+      "Pour lequel je suis dans les chaînes",
+      "Pour lequel je suis honoré des princes",
+      "Pour lequel je suis établi juge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:3 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-073",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:4",
+    "verseText": "Voir Colossiens 4:4.",
+    "question": "Quelle responsabilité Paul mentionne-t-il concernant sa manière de parler ?",
+    "choices": [
+      "Le faire connaître comme je dois en parler",
+      "Le taire comme je dois me cacher",
+      "Le changer comme je dois l’adapter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:4 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-074",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:5",
+    "verseText": "Voir Colossiens 4:5.",
+    "question": "Comment faut-il se conduire envers « ceux du dehors » ?",
+    "choices": [
+      "Avec sagesse",
+      "Avec mépris",
+      "Avec violence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:5 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-075",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:5",
+    "verseText": "Voir Colossiens 4:5.",
+    "question": "Quelle action est demandée au sujet du temps ?",
+    "choices": [
+      "Rachetez le temps",
+      "Perdez le temps",
+      "Cachez le temps"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:5 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-076",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:6",
+    "verseText": "Voir Colossiens 4:6.",
+    "question": "Comment la parole du croyant doit-elle être qualifiée « toujours » ?",
+    "choices": [
+      "Toujours accompagnée de grâce",
+      "Toujours accompagnée de menaces",
+      "Toujours accompagnée de plaintes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:6 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-077",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:6",
+    "verseText": "Voir Colossiens 4:6.",
+    "question": "Par quoi la parole doit-elle être « assaisonnée » ?",
+    "choices": [
+      "De sel",
+      "D’amertume",
+      "De crainte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:6 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-078",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:6",
+    "verseText": "Voir Colossiens 4:6.",
+    "question": "Dans quel but la parole doit-elle être ainsi réglée ?",
+    "choices": [
+      "Afin que vous sachiez comment il faut répondre à chacun",
+      "Afin que vous dominiez tous les débats",
+      "Afin que vous soyez loués des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:6 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-079",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:7",
+    "verseText": "Voir Colossiens 4:7.",
+    "question": "Qui doit communiquer aux destinataires tout ce qui concerne Paul ?",
+    "choices": [
+      "Tychique",
+      "Démas",
+      "Archippe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:7 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-080",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:7",
+    "verseText": "Voir Colossiens 4:7.",
+    "question": "Comment Tychique est-il qualifié dans sa relation aux destinataires ?",
+    "choices": [
+      "Le bien-aimé frère et le fidèle ministre",
+      "Le chef des anciens et le docteur de la loi",
+      "Le prophète des nations et l’arbitre des disputes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:7 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-081",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:7",
+    "verseText": "Voir Colossiens 4:7.",
+    "question": "En quel nom Tychique est-il appelé « compagnon de service » ?",
+    "choices": [
+      "Dans le Seigneur",
+      "Dans la loi",
+      "Dans le monde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:7 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-082",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:8",
+    "verseText": "Voir Colossiens 4:8.",
+    "question": "Pourquoi Paul dit-il envoyer Tychique « exprès » ?",
+    "choices": [
+      "Pour que vous connaissiez notre situation, et pour qu’il console vos cœurs",
+      "Pour qu’il exige un salaire, et pour qu’il juge vos œuvres",
+      "Pour qu’il établisse une fête, et pour qu’il impose des ordonnances"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:8 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-083",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:9",
+    "verseText": "Voir Colossiens 4:9.",
+    "question": "Avec qui Tychique est-il envoyé vers les Colossiens ?",
+    "choices": [
+      "Onésime",
+      "Barnabas",
+      "Silas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:9 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-084",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:9",
+    "verseText": "Voir Colossiens 4:9.",
+    "question": "Comment Onésime est-il décrit par Paul ?",
+    "choices": [
+      "Le fidèle et bien-aimé frère",
+      "Le maître sévère et redouté",
+      "Le juge puissant et honoré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:9 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-085",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:9",
+    "verseText": "Voir Colossiens 4:9.",
+    "question": "Quelle précision est donnée au sujet d’Onésime par rapport aux destinataires ?",
+    "choices": [
+      "Qui est des vôtres",
+      "Qui est de César",
+      "Qui est d’Antioche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:9 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-086",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:9",
+    "verseText": "Voir Colossiens 4:9.",
+    "question": "Que feront Tychique et Onésime concernant les nouvelles ?",
+    "choices": [
+      "Ils vous informeront de tout ce qui se passe ici",
+      "Ils vous cacheront tout ce qui se passe ici",
+      "Ils vous écriront seulement des paraboles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:9 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-087",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:10",
+    "verseText": "Voir Colossiens 4:10.",
+    "question": "Qui est appelé « mon compagnon de captivité » parmi ceux qui saluent ?",
+    "choices": [
+      "Aristarque",
+      "Luc",
+      "Nymphas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:10 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-088",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:10",
+    "verseText": "Voir Colossiens 4:10.",
+    "question": "Quelle relation familiale est précisée concernant Marc ?",
+    "choices": [
+      "Le cousin de Barnabas",
+      "Le frère de Tychique",
+      "Le fils d’Archippe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:10 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-089",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:10",
+    "verseText": "Voir Colossiens 4:10.",
+    "question": "Quel ordre précis est associé à la venue éventuelle de Marc ?",
+    "choices": [
+      "S’il va chez vous, accueillez-le",
+      "S’il va chez vous, interrogez-le",
+      "S’il va chez vous, renvoyez-le"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:10 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-090",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:11",
+    "verseText": "Voir Colossiens 4:11.",
+    "question": "Quel autre homme est nommé avec un double nom dans les salutations ?",
+    "choices": [
+      "Jésus, appelé Justus",
+      "Paul, appelé Saul",
+      "Pierre, appelé Simon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:11 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-091",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:11",
+    "verseText": "Voir Colossiens 4:11.",
+    "question": "De quel groupe Paul dit-il que ces hommes sont « du nombre » ?",
+    "choices": [
+      "Des circoncis",
+      "Des sadducéens",
+      "Des Nazaréens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:11 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-092",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:11",
+    "verseText": "Voir Colossiens 4:11.",
+    "question": "Pour quel royaume Paul dit-il qu’ils ont travaillé avec lui ?",
+    "choices": [
+      "Pour le royaume de Dieu",
+      "Pour le royaume d’Israël",
+      "Pour le royaume des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:11 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-093",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:11",
+    "verseText": "Voir Colossiens 4:11.",
+    "question": "Que dit Paul de l’effet qu’ils ont eu pour lui ?",
+    "choices": [
+      "Ils ont été pour moi une consolation",
+      "Ils ont été pour moi une accusation",
+      "Ils ont été pour moi une honte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:11 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-094",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:12",
+    "verseText": "Voir Colossiens 4:12.",
+    "question": "Comment Épaphras est-il désigné dans les salutations de la fin ?",
+    "choices": [
+      "Serviteur de Jésus-Christ",
+      "Prêtre du temple",
+      "Gouverneur des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:12 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-095",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:12",
+    "verseText": "Voir Colossiens 4:12.",
+    "question": "Quelle action Épaphras « ne cesse »-t-il de faire pour eux ?",
+    "choices": [
+      "Combattre pour vous dans ses prières",
+      "Gouverner pour vous dans la cité",
+      "Enseigner pour vous dans les écoles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:12 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-096",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:12",
+    "verseText": "Voir Colossiens 4:12.",
+    "question": "Quel objectif est visé par ce combat dans les prières ?",
+    "choices": [
+      "Que, parfaits et pleinement persuadés, vous persistiez dans une entière soumission à la volonté de Dieu",
+      "Que, puissants et redoutés, vous persistiez dans une domination sur les nations",
+      "Que, riches et honorés, vous persistiez dans la gloire terrestre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:12 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-097",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:13",
+    "verseText": "Voir Colossiens 4:13.",
+    "question": "Pour quels autres lieux Paul dit-il qu’Épaphras a une grande sollicitude, en plus des Colossiens ?",
+    "choices": [
+      "Laodicée et Hiérapolis",
+      "Rome et Césarée",
+      "Jérusalem et Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:13 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-098",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:14",
+    "verseText": "Voir Colossiens 4:14.",
+    "question": "Quel homme est appelé « le médecin bien-aimé » ?",
+    "choices": [
+      "Luc",
+      "Marc",
+      "Aristarque"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:14 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-099",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:14",
+    "verseText": "Voir Colossiens 4:14.",
+    "question": "Qui est nommé avec Luc dans la même salutation ?",
+    "choices": [
+      "Démas",
+      "Timothée",
+      "Épaphras"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:14 (LSG 1910)."
+  },
+  {
+    "id": "colossiens-N-100",
+    "book": "Colossiens",
+    "chapter": 4,
+    "verseRef": "Colossiens 4:15",
+    "verseText": "Voir Colossiens 4:15.",
+    "question": "Où se trouve l’Église mentionnée au sujet de Nymphas ?",
+    "choices": [
+      "Dans sa maison",
+      "Dans le temple",
+      "Dans le palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 4:15 (LSG 1910)."
+  }
+]

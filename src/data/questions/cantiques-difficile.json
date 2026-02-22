@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "cantiques-D-001",
+    "book": "Cantiques",
+    "chapter": 1,
+    "verseRef": "Cantiques 1:2",
+    "verseText": "Voir Cantiques 1:2.",
+    "question": "Quelle formule exacte ouvre la demande passionnée de la bien-aimée ?",
+    "choices": [
+      "Qu’il me baise des baisers de sa bouche!",
+      "Qu’il me donne les baisers de sa bouche!"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 1:2 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-002",
+    "book": "Cantiques",
+    "chapter": 1,
+    "verseRef": "Cantiques 1:4",
+    "verseText": "Voir Cantiques 1:4.",
+    "question": "Quelle affirmation exacte suit « Entraîne-moi après toi! » ?",
+    "choices": [
+      "Nous courrons!",
+      "Nous marcherons!"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 1:4 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-003",
+    "book": "Cantiques",
+    "chapter": 1,
+    "verseRef": "Cantiques 1:5",
+    "verseText": "Voir Cantiques 1:5.",
+    "question": "Quel groupe est explicitement interpellé quand elle se décrit « noire, mais belle » ?",
+    "choices": [
+      "Filles de Jérusalem",
+      "Filles de Sion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 1:5 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-004",
+    "book": "Cantiques",
+    "chapter": 1,
+    "verseRef": "Cantiques 1:6",
+    "verseText": "Voir Cantiques 1:6.",
+    "question": "Qu’est-ce que « le soleil » a fait selon son explication ?",
+    "choices": [
+      "Il m’a brûlée",
+      "Il m’a éclairée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 1:6 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-005",
+    "book": "Cantiques",
+    "chapter": 1,
+    "verseRef": "Cantiques 1:9",
+    "verseText": "Voir Cantiques 1:9.",
+    "question": "Quel animal est cité dans la comparaison liée aux chars de Pharaon ?",
+    "choices": [
+      "Jument",
+      "Gazelle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 1:9 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-006",
+    "book": "Cantiques",
+    "chapter": 1,
+    "verseRef": "Cantiques 1:11",
+    "verseText": "Voir Cantiques 1:11.",
+    "question": "Quel métal est associé aux « points » promis dans l’ornement ?",
+    "choices": [
+      "Argent",
+      "Airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 1:11 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-007",
+    "book": "Cantiques",
+    "chapter": 1,
+    "verseRef": "Cantiques 1:12",
+    "verseText": "Voir Cantiques 1:12.",
+    "question": "Quel parfum est nommé quand « le roi est dans son entourage » ?",
+    "choices": [
+      "Nard",
+      "Aloès"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 1:12 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-008",
+    "book": "Cantiques",
+    "chapter": 1,
+    "verseRef": "Cantiques 1:14",
+    "verseText": "Voir Cantiques 1:14.",
+    "question": "Quel lieu est associé à la « grappe de troëne » ?",
+    "choices": [
+      "En-Guédi",
+      "Baal-Hamon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 1:14 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-009",
+    "book": "Cantiques",
+    "chapter": 1,
+    "verseRef": "Cantiques 1:17",
+    "verseText": "Voir Cantiques 1:17.",
+    "question": "Quel matériau décrit les « lambris » des maisons ?",
+    "choices": [
+      "Cyprès",
+      "Cèdres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 1:17 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-010",
+    "book": "Cantiques",
+    "chapter": 2,
+    "verseRef": "Cantiques 2:1",
+    "verseText": "Voir Cantiques 2:1.",
+    "question": "Quelle plante précise la bien-aimée mentionne-t-elle en Cantique 2:1 ?",
+    "choices": [
+      "Narcisse de Saron",
+      "Rose de Saron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 2:1 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-011",
+    "book": "Cantiques",
+    "chapter": 2,
+    "verseRef": "Cantiques 2:4",
+    "verseText": "Voir Cantiques 2:4.",
+    "question": "Quel objet symbolique est « l’amour » dans la maison du vin ?",
+    "choices": [
+      "La bannière qu’il déploie sur moi",
+      "Le sceau sur mon cœur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 2:4 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-012",
+    "book": "Cantiques",
+    "chapter": 2,
+    "verseRef": "Cantiques 2:5",
+    "verseText": "Voir Cantiques 2:5.",
+    "question": "Avec quoi demande-t-elle d’être fortifiée ?",
+    "choices": [
+      "Avec des pommes",
+      "Avec des grenades"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 2:5 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-013",
+    "book": "Cantiques",
+    "chapter": 2,
+    "verseRef": "Cantiques 2:7",
+    "verseText": "Voir Cantiques 2:7.",
+    "question": "Quelle est la formulation exacte de l’injonction répétée aux filles de Jérusalem ?",
+    "choices": [
+      "Ne réveillez pas, ne réveillez pas l’amour",
+      "Ne réveillez pas, ne troublez pas l’amour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 2:7 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-014",
+    "book": "Cantiques",
+    "chapter": 2,
+    "verseRef": "Cantiques 2:8",
+    "verseText": "Voir Cantiques 2:8.",
+    "question": "Sur quoi le bien-aimé « bondit-il » ?",
+    "choices": [
+      "Sur les collines",
+      "Sur les vallées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 2:8 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-015",
+    "book": "Cantiques",
+    "chapter": 2,
+    "verseRef": "Cantiques 2:9",
+    "verseText": "Voir Cantiques 2:9.",
+    "question": "Par quoi regarde-t-il lorsqu’il est derrière le mur ?",
+    "choices": [
+      "Par le treillis",
+      "Par la porte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 2:9 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-016",
+    "book": "Cantiques",
+    "chapter": 2,
+    "verseRef": "Cantiques 2:10",
+    "verseText": "Voir Cantiques 2:10.",
+    "question": "Quelle phrase exacte revient deux fois dans Cantique 2:10–13 ?",
+    "choices": [
+      "Lève-toi, mon amie, ma belle, et viens!",
+      "Viens, mon amie, ma belle, et lève-toi!"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 2:10 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-017",
+    "book": "Cantiques",
+    "chapter": 2,
+    "verseRef": "Cantiques 2:12",
+    "verseText": "Voir Cantiques 2:12.",
+    "question": "Quel oiseau est mentionné quand « le temps de chanter est arrivé » ?",
+    "choices": [
+      "Tourterelle",
+      "Colombe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 2:12 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-018",
+    "book": "Cantiques",
+    "chapter": 2,
+    "verseRef": "Cantiques 2:13",
+    "verseText": "Voir Cantiques 2:13.",
+    "question": "Qu’est-ce qui « exhale leur parfum » dans la scène du printemps ?",
+    "choices": [
+      "Les vignes en fleur",
+      "Les noyers en fruit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 2:13 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-019",
+    "book": "Cantiques",
+    "chapter": 2,
+    "verseRef": "Cantiques 2:14",
+    "verseText": "Voir Cantiques 2:14.",
+    "question": "Où la colombe se tient-elle, selon l’image utilisée ?",
+    "choices": [
+      "Dans les fentes du rocher",
+      "Dans les jardins fermés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 2:14 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-020",
+    "book": "Cantiques",
+    "chapter": 2,
+    "verseRef": "Cantiques 2:15",
+    "verseText": "Voir Cantiques 2:15.",
+    "question": "Que doivent capturer « les petits renards » ?",
+    "choices": [
+      "Les renards qui ravagent les vignes",
+      "Les loups qui ravagent les troupeaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 2:15 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-021",
+    "book": "Cantiques",
+    "chapter": 2,
+    "verseRef": "Cantiques 2:16",
+    "verseText": "Voir Cantiques 2:16.",
+    "question": "Quelle est la formule exacte d’appartenance réciproque ?",
+    "choices": [
+      "Mon bien-aimé est à moi, et je suis à lui",
+      "Je suis à mon bien-aimé, et il est à moi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 2:16 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-022",
+    "book": "Cantiques",
+    "chapter": 2,
+    "verseRef": "Cantiques 2:17",
+    "verseText": "Voir Cantiques 2:17.",
+    "question": "Comment le bien-aimé doit-il être « semblable » avant le rafraîchissement du jour ?",
+    "choices": [
+      "A la gazelle ou au faon des biches",
+      "Au lion ou au léopard des montagnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 2:17 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-023",
+    "book": "Cantiques",
+    "chapter": 3,
+    "verseRef": "Cantiques 3:1",
+    "verseText": "Voir Cantiques 3:1.",
+    "question": "Que fait-elle « pendant les nuits » sur sa couche ?",
+    "choices": [
+      "Elle cherche celui que son cœur aime",
+      "Elle oublie celui que son cœur aime"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 3:1 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-024",
+    "book": "Cantiques",
+    "chapter": 3,
+    "verseRef": "Cantiques 3:2",
+    "verseText": "Voir Cantiques 3:2.",
+    "question": "Quel endroit précis veut-elle parcourir en se levant ?",
+    "choices": [
+      "Le tour de la ville",
+      "Le tour du désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 3:2 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-025",
+    "book": "Cantiques",
+    "chapter": 3,
+    "verseRef": "Cantiques 3:4",
+    "verseText": "Voir Cantiques 3:4.",
+    "question": "Quel élément exact mentionne-t-elle quand elle le trouve enfin ?",
+    "choices": [
+      "Je l’ai saisi, et je ne l’ai point lâché",
+      "Je l’ai appelé, et je ne l’ai point lâché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 3:4 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-026",
+    "book": "Cantiques",
+    "chapter": 3,
+    "verseRef": "Cantiques 3:4",
+    "verseText": "Voir Cantiques 3:4.",
+    "question": "Dans quel endroit exact l’amène-t-elle après l’avoir saisi ?",
+    "choices": [
+      "Dans la chambre de celle qui m’a conçue",
+      "Dans les appartements du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 3:4 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-027",
+    "book": "Cantiques",
+    "chapter": 3,
+    "verseRef": "Cantiques 3:6",
+    "verseText": "Voir Cantiques 3:6.",
+    "question": "D’où monte « celle » décrite dans Cantique 3:6 ?",
+    "choices": [
+      "Du désert",
+      "Du Liban"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 3:6 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-028",
+    "book": "Cantiques",
+    "chapter": 3,
+    "verseRef": "Cantiques 3:7",
+    "verseText": "Voir Cantiques 3:7.",
+    "question": "Combien d’hommes entourent la litière de Salomon (attention au chiffre) ?",
+    "choices": [
+      "Soixante",
+      "Quatre-vingts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 3:7 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-029",
+    "book": "Cantiques",
+    "chapter": 3,
+    "verseRef": "Cantiques 3:8",
+    "verseText": "Voir Cantiques 3:8.",
+    "question": "Quel objet portent-ils « sur sa hanche » ?",
+    "choices": [
+      "L’épée",
+      "Le bouclier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 3:8 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-030",
+    "book": "Cantiques",
+    "chapter": 3,
+    "verseRef": "Cantiques 3:9",
+    "verseText": "Voir Cantiques 3:9.",
+    "question": "De quel bois la litière est-elle faite ?",
+    "choices": [
+      "Bois du Liban",
+      "Bois de cèdre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 3:9 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-031",
+    "book": "Cantiques",
+    "chapter": 3,
+    "verseRef": "Cantiques 3:10",
+    "verseText": "Voir Cantiques 3:10.",
+    "question": "Quel tissu/couleur décrit le siège ?",
+    "choices": [
+      "Pourpre",
+      "Cramoisi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 3:10 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-032",
+    "book": "Cantiques",
+    "chapter": 3,
+    "verseRef": "Cantiques 3:11",
+    "verseText": "Voir Cantiques 3:11.",
+    "question": "Qui a couronné Salomon, selon le texte ?",
+    "choices": [
+      "Sa mère",
+      "Son épouse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 3:11 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-033",
+    "book": "Cantiques",
+    "chapter": 4,
+    "verseRef": "Cantiques 4:1",
+    "verseText": "Voir Cantiques 4:1.",
+    "question": "Où sont les yeux « des colombes » dans Cantique 4:1 ?",
+    "choices": [
+      "Derrière ton voile",
+      "Au bord des ruisseaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 4:1 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-034",
+    "book": "Cantiques",
+    "chapter": 4,
+    "verseRef": "Cantiques 4:1",
+    "verseText": "Voir Cantiques 4:1.",
+    "question": "Sur quels flancs « le troupeau de chèvres » est-il suspendu ?",
+    "choices": [
+      "Aux flancs de la montagne de Galaad",
+      "Aux flancs de la montagne de Carmel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 4:1 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-035",
+    "book": "Cantiques",
+    "chapter": 4,
+    "verseRef": "Cantiques 4:2",
+    "verseText": "Voir Cantiques 4:2.",
+    "question": "D’où remontent les brebis comparées aux dents ?",
+    "choices": [
+      "De l’abreuvoir",
+      "Du désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 4:2 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-036",
+    "book": "Cantiques",
+    "chapter": 4,
+    "verseRef": "Cantiques 4:4",
+    "verseText": "Voir Cantiques 4:4.",
+    "question": "Combien de boucliers sont suspendus à la tour de David ?",
+    "choices": [
+      "Mille boucliers",
+      "Cent boucliers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 4:4 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-037",
+    "book": "Cantiques",
+    "chapter": 4,
+    "verseRef": "Cantiques 4:6",
+    "verseText": "Voir Cantiques 4:6.",
+    "question": "Quel lieu est explicitement « la montagne de la myrrhe » ?",
+    "choices": [
+      "J’irai à la montagne de la myrrhe",
+      "Je descendrai à la montagne de la myrrhe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 4:6 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-038",
+    "book": "Cantiques",
+    "chapter": 4,
+    "verseRef": "Cantiques 4:7",
+    "verseText": "Voir Cantiques 4:7.",
+    "question": "Quelle phrase exacte affirme la perfection de la bien-aimée ?",
+    "choices": [
+      "Tu es toute belle, mon amie, et il n’y a point en toi de défaut",
+      "Tu es belle, mon amie, et il n’y a point en toi de défaut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 4:7 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-039",
+    "book": "Cantiques",
+    "chapter": 4,
+    "verseRef": "Cantiques 4:8",
+    "verseText": "Voir Cantiques 4:8.",
+    "question": "Quels sommets sont cités ensemble (attention aux noms) ?",
+    "choices": [
+      "Amana, Senir et Hermon",
+      "Amana, Sion et Hermon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 4:8 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-040",
+    "book": "Cantiques",
+    "chapter": 4,
+    "verseRef": "Cantiques 4:12",
+    "verseText": "Voir Cantiques 4:12.",
+    "question": "Quel duo d’images décrit la bien-aimée en Cantique 4:12 ?",
+    "choices": [
+      "Jardin fermé / fontaine scellée",
+      "Jardin ouvert / fontaine scellée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 4:12 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-041",
+    "book": "Cantiques",
+    "chapter": 4,
+    "verseRef": "Cantiques 4:14",
+    "verseText": "Voir Cantiques 4:14.",
+    "question": "Quelle liste commence « Le nard et le safran » ?",
+    "choices": [
+      "Le nard et le safran, le roseau aromatique et le cinnamome",
+      "Le nard et le safran, le roseau d’or et le cinnamome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 4:14 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-042",
+    "book": "Cantiques",
+    "chapter": 4,
+    "verseRef": "Cantiques 4:16",
+    "verseText": "Voir Cantiques 4:16.",
+    "question": "Quels vents sont invoqués par leur nom propre ?",
+    "choices": [
+      "Aquilon et autan",
+      "Aquilon et zéphyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 4:16 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-043",
+    "book": "Cantiques",
+    "chapter": 4,
+    "verseRef": "Cantiques 4:16",
+    "verseText": "Voir Cantiques 4:16.",
+    "question": "Que doit faire le bien-aimé dans le jardin, selon l’appel final ?",
+    "choices": [
+      "Manger de ses fruits excellents",
+      "Boire du vin parfumé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 4:16 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-044",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:1",
+    "verseText": "Voir Cantiques 5:1.",
+    "question": "Quelle invitation collective termine Cantique 5:1 ?",
+    "choices": [
+      "Mangez, amis, buvez, enivrez-vous d’amour!",
+      "Mangez, amis, buvez, réjouissez-vous de vin!"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:1 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-045",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:2",
+    "verseText": "Voir Cantiques 5:2.",
+    "question": "Quelle est la formulation exacte de son état au début de Cantique 5:2 ?",
+    "choices": [
+      "J’étais endormie, mais mon cœur veillait…",
+      "J’étais éveillée, mais mon cœur dormait…"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:2 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-046",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:4",
+    "verseText": "Voir Cantiques 5:4.",
+    "question": "Par où le bien-aimé passe-t-il la main ?",
+    "choices": [
+      "Par la fenêtre",
+      "Par le verrou"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:4 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-047",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:5",
+    "verseText": "Voir Cantiques 5:5.",
+    "question": "Sur quoi la myrrhe se répand-elle lorsqu’elle ouvre ?",
+    "choices": [
+      "Sur la poignée du verrou",
+      "Sur les colonnes d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:5 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-048",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:6",
+    "verseText": "Voir Cantiques 5:6.",
+    "question": "Que dit-elle après avoir ouvert, concernant l’absence du bien-aimé ?",
+    "choices": [
+      "Il s’en était allé, il avait disparu",
+      "Il était entré, il avait parlé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:6 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-049",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:7",
+    "verseText": "Voir Cantiques 5:7.",
+    "question": "Que lui font les gardes avant d’enlever son voile ?",
+    "choices": [
+      "Ils l’ont frappée, ils l’ont blessée",
+      "Ils l’ont cherchée, ils l’ont trouvée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:7 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-050",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:9",
+    "verseText": "Voir Cantiques 5:9.",
+    "question": "Quelle question exacte les filles de Jérusalem posent en Cantique 5:9 ?",
+    "choices": [
+      "Qu’a ton bien-aimé de plus qu’un autre, ô la plus belle des femmes?",
+      "Où est allé ton bien-aimé, ô la plus belle des femmes?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:9 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-051",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:10",
+    "verseText": "Voir Cantiques 5:10.",
+    "question": "Comment est décrit le bien-aimé en Cantique 5:10 ?",
+    "choices": [
+      "Blanc et vermeil",
+      "Pur et fidèle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:10 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-052",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:11",
+    "verseText": "Voir Cantiques 5:11.",
+    "question": "De quoi est faite sa tête, selon l’image ?",
+    "choices": [
+      "De l’or pur",
+      "D’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:11 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-053",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:12",
+    "verseText": "Voir Cantiques 5:12.",
+    "question": "Quelle comparaison exacte décrit ses yeux en Cantique 5:12 ?",
+    "choices": [
+      "Comme des colombes au bord des ruisseaux, se baignant dans le lait",
+      "Comme des colombes au bord des ruisseaux, se baignant dans le vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:12 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-054",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:14",
+    "verseText": "Voir Cantiques 5:14.",
+    "question": "Quelle image décrit ses mains en Cantique 5:14 ?",
+    "choices": [
+      "Des anneaux d’or, garnis de chrysolithes",
+      "Des anneaux d’or, garnis de saphirs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:14 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-055",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:16",
+    "verseText": "Voir Cantiques 5:16.",
+    "question": "Quelle phrase résume sa conclusion admirative ?",
+    "choices": [
+      "Son palais n’est que douceur, et toute sa personne est pleine de charme",
+      "Sa bouche n’est que douceur, et toute sa personne est pleine de force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:16 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-056",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:2",
+    "verseText": "Voir Cantiques 6:2.",
+    "question": "Où le bien-aimé est-il descendu, selon la réponse donnée ?",
+    "choices": [
+      "À son jardin, au parterre d’aromates",
+      "À sa vigne, à Baal-Hamon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:2 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-057",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:8",
+    "verseText": "Voir Cantiques 6:8.",
+    "question": "Quel nombre exact de « concubines » est donné ?",
+    "choices": [
+      "Quatre-vingts",
+      "Soixante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:8 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-058",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:9",
+    "verseText": "Voir Cantiques 6:9.",
+    "question": "Comment la bien-aimée unique est-elle qualifiée ?",
+    "choices": [
+      "Ma colombe, ma parfaite",
+      "Ma sœur, ma fiancée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:9 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-059",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:10",
+    "verseText": "Voir Cantiques 6:10.",
+    "question": "Quelle triple comparaison décrit celle qui apparaît en Cantique 6:10 ?",
+    "choices": [
+      "Comme l’aurore, belle comme la lune, pure comme le soleil",
+      "Comme l’aurore, belle comme le soleil, pure comme la lune"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:10 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-060",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:11",
+    "verseText": "Voir Cantiques 6:11.",
+    "question": "Quel lieu est mentionné quand elle descend observer la verdure ?",
+    "choices": [
+      "Le jardin des noyers",
+      "Le jardin des grenadiers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:11 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-061",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:9",
+    "verseText": "Voir Cantiques 5:9.",
+    "question": "Quelle formulation exacte les filles de Jérusalem emploient-elles pour comparer le bien-aimé ?",
+    "choices": [
+      "Qu’a ton bien-aimé de plus qu’un autre, ô la plus belle des femmes?",
+      "Qu’a ton bien-aimé de plus que les autres, ô la plus belle des femmes?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:9 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-062",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:10",
+    "verseText": "Voir Cantiques 5:10.",
+    "question": "Quelle expression exacte décrit le bien-aimé au début du portrait ?",
+    "choices": [
+      "Blanc et vermeil, distingué entre dix mille",
+      "Blanc et vermeil, distingué parmi dix mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:10 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-063",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:11",
+    "verseText": "Voir Cantiques 5:11.",
+    "question": "Quelle est la formulation exacte au sujet de ses boucles ?",
+    "choices": [
+      "Ses boucles sont flottantes, noires comme le corbeau",
+      "Ses boucles sont ondoyantes, noires comme le corbeau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:11 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-064",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:13",
+    "verseText": "Voir Cantiques 5:13.",
+    "question": "Comment le texte qualifie-t-il ses joues, mot pour mot au début ?",
+    "choices": [
+      "Ses joues sont comme des parterres d’aromates",
+      "Ses joues sont comme des jardins d’aromates"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:13 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-065",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:13",
+    "verseText": "Voir Cantiques 5:13.",
+    "question": "Qu’est-ce qui « distille la myrrhe » dans la phrase exacte ?",
+    "choices": [
+      "Ses lèvres",
+      "Son palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:13 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-066",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:14",
+    "verseText": "Voir Cantiques 5:14.",
+    "question": "Quelle formulation exacte décrit son ventre/corps ?",
+    "choices": [
+      "Son corps est de l’ivoire poli, couvert de saphirs",
+      "Son corps est d’ivoire poli, couvert de saphirs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:14 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-067",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:15",
+    "verseText": "Voir Cantiques 5:15.",
+    "question": "Sur quoi reposent ses jambes dans l’image ?",
+    "choices": [
+      "Sur des bases d’or pur",
+      "Sur des bases d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:15 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-068",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:15",
+    "verseText": "Voir Cantiques 5:15.",
+    "question": "Quel comparatif exact est utilisé pour son aspect ?",
+    "choices": [
+      "Il a l’aspect du Liban, distingué comme les cèdres",
+      "Il a l’aspect du Liban, élevé comme les cèdres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:15 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-069",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:16",
+    "verseText": "Voir Cantiques 5:16.",
+    "question": "Quelle phrase exacte parle de son palais ?",
+    "choices": [
+      "Son palais n’est que douceur",
+      "Son palais n’est que délices"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:16 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-070",
+    "book": "Cantiques",
+    "chapter": 5,
+    "verseRef": "Cantiques 5:16",
+    "verseText": "Voir Cantiques 5:16.",
+    "question": "Quel double titre est donné à la fin de la description ?",
+    "choices": [
+      "Voilà mon bien-aimé, voilà mon ami",
+      "Voilà mon bien-aimé, voilà mon seigneur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 5:16 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-071",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:1",
+    "verseText": "Voir Cantiques 6:1.",
+    "question": "Quelle formulation exacte les filles de Jérusalem emploient-elles pour chercher avec elle ?",
+    "choices": [
+      "Nous le chercherons avec toi",
+      "Nous irons le chercher avec toi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:1 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-072",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:2",
+    "verseText": "Voir Cantiques 6:2.",
+    "question": "Où le bien-aimé est-il descendu selon la phrase exacte ?",
+    "choices": [
+      "À son jardin, au parterre d’aromates",
+      "Dans son jardin, au parterre d’aromates"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:2 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-073",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:2",
+    "verseText": "Voir Cantiques 6:2.",
+    "question": "Quel est le but de sa descente, tel que formulé ?",
+    "choices": [
+      "Pour paître son troupeau dans les jardins, et pour cueillir des lis",
+      "Pour paître son troupeau dans le jardin, et pour cueillir des lis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:2 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-074",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:3",
+    "verseText": "Voir Cantiques 6:3.",
+    "question": "Quelle formule exacte réaffirme l’appartenance réciproque en Cantique 6:3 ?",
+    "choices": [
+      "Je suis à mon bien-aimé, et mon bien-aimé est à moi",
+      "Je suis à mon bien-aimé, et mon bien-aimé est avec moi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:3 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-075",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:4",
+    "verseText": "Voir Cantiques 6:4.",
+    "question": "Quels lieux sont cités ensemble dans l’éloge « belle comme… » ?",
+    "choices": [
+      "Thirtsa et Jérusalem",
+      "Thirtsa et Sion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:4 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-076",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:5",
+    "verseText": "Voir Cantiques 6:5.",
+    "question": "Quelle expression exacte décrit son effet produit par les yeux ?",
+    "choices": [
+      "Tes yeux me troublent",
+      "Tes yeux me blessent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:5 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-077",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:5",
+    "verseText": "Voir Cantiques 6:5.",
+    "question": "Quel lieu est mentionné dans l’image du troupeau de chèvres ?",
+    "choices": [
+      "Galaad",
+      "Hermon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:5 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-078",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:6",
+    "verseText": "Voir Cantiques 6:6.",
+    "question": "Quelle formulation exacte précise l’état des brebis dans l’image des dents ?",
+    "choices": [
+      "Toutes portent des jumeaux, aucune d’elles n’est stérile",
+      "Toutes portent des jumeaux, aucune n’est stérile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:6 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-079",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:7",
+    "verseText": "Voir Cantiques 6:7.",
+    "question": "Quelle image exacte est donnée pour la joue derrière le voile ?",
+    "choices": [
+      "Comme une moitié de grenade",
+      "Comme une grenade entière"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:7 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-080",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:8",
+    "verseText": "Voir Cantiques 6:8.",
+    "question": "Quel nombre exact de reines est cité ?",
+    "choices": [
+      "Soixante",
+      "Quatre-vingts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:8 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-081",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:8",
+    "verseText": "Voir Cantiques 6:8.",
+    "question": "Quel nombre exact de concubines est cité ?",
+    "choices": [
+      "Quatre-vingts",
+      "Soixante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:8 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-082",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:8",
+    "verseText": "Voir Cantiques 6:8.",
+    "question": "Quelle formulation exacte mentionne les jeunes filles ?",
+    "choices": [
+      "Et des jeunes filles sans nombre",
+      "Et des jeunes filles en grand nombre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:8 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-083",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:9",
+    "verseText": "Voir Cantiques 6:9.",
+    "question": "Quelle formule exacte qualifie l’unique bien-aimée ?",
+    "choices": [
+      "Ma colombe, ma parfaite",
+      "Ma colombe, ma fidèle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:9 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-084",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:9",
+    "verseText": "Voir Cantiques 6:9.",
+    "question": "De qui est-elle « l’unique » selon le verset ?",
+    "choices": [
+      "De sa mère",
+      "De son bien-aimé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:9 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-085",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:9",
+    "verseText": "Voir Cantiques 6:9.",
+    "question": "Quelle suite exacte concerne les jeunes filles lorsqu’elles la voient ?",
+    "choices": [
+      "Elles la disent heureuse",
+      "Elles la disent bénie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:9 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-086",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:10",
+    "verseText": "Voir Cantiques 6:10.",
+    "question": "Quelle phrase exacte décrit « celle qui apparaît » dans Cantique 6:10 (ordre des comparaisons) ?",
+    "choices": [
+      "Comme l’aurore, belle comme la lune, pure comme le soleil",
+      "Comme l’aurore, pure comme le soleil, belle comme la lune"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:10 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-087",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:10",
+    "verseText": "Voir Cantiques 6:10.",
+    "question": "Quelle fin exacte complète la comparaison en Cantique 6:10 ?",
+    "choices": [
+      "Terrible comme des troupes sous leurs bannières",
+      "Terrible comme des armées sous leurs bannières"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:10 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-088",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:11",
+    "verseText": "Voir Cantiques 6:11.",
+    "question": "Où dit-elle être descendue pour voir la verdure ?",
+    "choices": [
+      "Au jardin des noyers",
+      "Au jardin des cèdres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:11 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-089",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:11",
+    "verseText": "Voir Cantiques 6:11.",
+    "question": "Quelles vérifications précises veut-elle faire dans la vallée ?",
+    "choices": [
+      "Si la vigne pousse, si les grenadiers fleurissent",
+      "Si les figuiers verdissent, si les lis fleurissent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:11 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-090",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:12",
+    "verseText": "Voir Cantiques 6:12.",
+    "question": "Quelle phrase exacte décrit le transport soudain de son âme ?",
+    "choices": [
+      "Mon âme m’avait transportée sur les chars de mon noble peuple",
+      "Mon âme m’avait portée sur les chars de mon noble peuple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:12 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-091",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:13",
+    "verseText": "Voir Cantiques 6:13.",
+    "question": "Quelle double injonction exacte est adressée à la Sulamithe ?",
+    "choices": [
+      "Reviens, reviens, Sulamithe!",
+      "Reviens donc, Sulamithe!"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:13 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-092",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:13",
+    "verseText": "Voir Cantiques 6:13.",
+    "question": "Quelle raison exacte est donnée pour qu’elle revienne ?",
+    "choices": [
+      "Afin que nous la regardions",
+      "Afin que nous l’aimions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:13 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-093",
+    "book": "Cantiques",
+    "chapter": 6,
+    "verseRef": "Cantiques 6:13",
+    "verseText": "Voir Cantiques 6:13.",
+    "question": "Dans la question finale, à quoi est comparée la Sulamithe ?",
+    "choices": [
+      "À une danse de deux chœurs",
+      "À une danse de trois chœurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 6:13 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-094",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:1",
+    "verseText": "Voir Cantiques 7:1.",
+    "question": "Quel titre exact accompagne l’exclamation sur ses pieds ?",
+    "choices": [
+      "Fille de prince",
+      "Fille de roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:1 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-095",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:1",
+    "verseText": "Voir Cantiques 7:1.",
+    "question": "Quelle comparaison exacte est donnée pour les hanches ?",
+    "choices": [
+      "Comme des colliers, ouvrage des mains d’un artiste",
+      "Comme des bracelets, ouvrage des mains d’un artiste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:1 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-096",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:2",
+    "verseText": "Voir Cantiques 7:2.",
+    "question": "Quelle est la formulation exacte de l’image du nombril ?",
+    "choices": [
+      "Une coupe ronde, qui ne manque pas de vin aromatisé",
+      "Une coupe ronde, qui ne manque pas de vin parfumé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:2 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-097",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:2",
+    "verseText": "Voir Cantiques 7:2.",
+    "question": "Quelle image exacte décrit le ventre ?",
+    "choices": [
+      "Un tas de froment, entouré de lis",
+      "Un tas de froment, entouré d’épines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:2 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-098",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:3",
+    "verseText": "Voir Cantiques 7:3.",
+    "question": "Comment sont décrits « tes deux seins » en Cantique 7:3 ?",
+    "choices": [
+      "Comme deux faons, jumeaux d’une gazelle",
+      "Comme deux faons, jumeaux d’une biche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:3 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-099",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:4",
+    "verseText": "Voir Cantiques 7:4.",
+    "question": "À quoi le cou est-il comparé en Cantique 7:4 ?",
+    "choices": [
+      "À une tour d’ivoire",
+      "À une tour d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:4 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-100",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:4",
+    "verseText": "Voir Cantiques 7:4.",
+    "question": "Dans quel lieu sont les étangs associés aux yeux ?",
+    "choices": [
+      "Hesbon",
+      "Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:4 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-101",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:4",
+    "verseText": "Voir Cantiques 7:4.",
+    "question": "Près de quelle porte ces étangs sont-ils situés ?",
+    "choices": [
+      "La porte de Bath-Rabbim",
+      "La porte des Eaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:4 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-102",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:4",
+    "verseText": "Voir Cantiques 7:4.",
+    "question": "À quoi le nez est-il comparé, avec son orientation ?",
+    "choices": [
+      "À la tour du Liban, qui regarde du côté de Damas",
+      "À la tour du Liban, qui regarde du côté de Tyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:4 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-103",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:5",
+    "verseText": "Voir Cantiques 7:5.",
+    "question": "À quoi la tête est-elle comparée en Cantique 7:5 ?",
+    "choices": [
+      "Au Carmel",
+      "Au Liban"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:5 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-104",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:5",
+    "verseText": "Voir Cantiques 7:5.",
+    "question": "Quelle couleur/image est utilisée pour les cheveux ?",
+    "choices": [
+      "Comme de la pourpre",
+      "Comme de l’or pur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:5 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-105",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:5",
+    "verseText": "Voir Cantiques 7:5.",
+    "question": "Quel effet précis produit la chevelure sur le roi ?",
+    "choices": [
+      "Le roi est lié par des tresses",
+      "Le roi est conduit par des tresses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:5 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-106",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:6",
+    "verseText": "Voir Cantiques 7:6.",
+    "question": "Comment commence l’exclamation admirative en Cantique 7:6 ?",
+    "choices": [
+      "Que tu es belle, que tu es aimable, mon amour, au milieu des délices!",
+      "Que tu es belle, que tu es aimable, ma sœur, au milieu des délices!"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:6 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-107",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:7",
+    "verseText": "Voir Cantiques 7:7.",
+    "question": "À quoi la taille est-elle comparée en Cantique 7:7 ?",
+    "choices": [
+      "À un palmier",
+      "À un grenadier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:7 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-108",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:7",
+    "verseText": "Voir Cantiques 7:7.",
+    "question": "À quoi les seins sont-ils comparés dans la même phrase ?",
+    "choices": [
+      "À des grappes",
+      "À des lis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:7 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-109",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:8",
+    "verseText": "Voir Cantiques 7:8.",
+    "question": "Quelle phrase exacte annonce l’action liée au palmier ?",
+    "choices": [
+      "Je monterai au palmier, j’en saisirai les rameaux",
+      "Je monterai au palmier, j’en cueillerai les fruits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:8 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-110",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:8",
+    "verseText": "Voir Cantiques 7:8.",
+    "question": "Quelle odeur est associée au souffle dans l’image ?",
+    "choices": [
+      "L’odeur des pommes",
+      "L’odeur des figues"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:8 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-111",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:9",
+    "verseText": "Voir Cantiques 7:9.",
+    "question": "Quel est l’objet de comparaison du palais en Cantique 7:9 ?",
+    "choices": [
+      "Le vin excellent",
+      "Le miel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:9 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-112",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:9",
+    "verseText": "Voir Cantiques 7:9.",
+    "question": "Pour qui ce vin « coule-t-il aisément » ?",
+    "choices": [
+      "Pour mon bien-aimé",
+      "Pour les amis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:9 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-113",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:9",
+    "verseText": "Voir Cantiques 7:9.",
+    "question": "Que fait-il « sur les lèvres de ceux qui s’endorment » ?",
+    "choices": [
+      "Il coule",
+      "Il brûle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:9 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-114",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:10",
+    "verseText": "Voir Cantiques 7:10.",
+    "question": "Quelle formule exacte commence Cantique 7:10 ?",
+    "choices": [
+      "Je suis à mon bien-aimé",
+      "Je suis à mon ami"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:10 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-115",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:10",
+    "verseText": "Voir Cantiques 7:10.",
+    "question": "Vers qui se porte le désir, selon la phrase ?",
+    "choices": [
+      "Vers moi",
+      "Vers lui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:10 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-116",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:11",
+    "verseText": "Voir Cantiques 7:11.",
+    "question": "Où propose-t-elle de passer la nuit en Cantique 7:11 ?",
+    "choices": [
+      "Dans les villages",
+      "Dans les vignes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:11 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-117",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:12",
+    "verseText": "Voir Cantiques 7:12.",
+    "question": "À quel moment propose-t-elle de se lever pour aller aux vignes ?",
+    "choices": [
+      "De bon matin",
+      "À midi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:12 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-118",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:12",
+    "verseText": "Voir Cantiques 7:12.",
+    "question": "Qu’est-ce qu’elle promet de donner dans les vignes ?",
+    "choices": [
+      "Mes amours",
+      "Mes parfums"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:12 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-119",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:13",
+    "verseText": "Voir Cantiques 7:13.",
+    "question": "Quel fruit est mentionné avec les mandragores ?",
+    "choices": [
+      "Les meilleurs fruits",
+      "Les raisins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:13 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-120",
+    "book": "Cantiques",
+    "chapter": 7,
+    "verseRef": "Cantiques 7:13",
+    "verseText": "Voir Cantiques 7:13.",
+    "question": "Où sont ces « meilleurs fruits » selon la phrase ?",
+    "choices": [
+      "À nos portes",
+      "Dans nos mains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 7:13 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-121",
+    "book": "Cantiques",
+    "chapter": 8,
+    "verseRef": "Cantiques 8:1",
+    "verseText": "Voir Cantiques 8:1.",
+    "question": "Quelle formulation exacte ouvre le souhait de Cantique 8:1 ?",
+    "choices": [
+      "Oh! que tu fusses mon frère, allaité des mamelles de ma mère!",
+      "Oh! que tu fusses mon frère, nourri des mamelles de ma mère!"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 8:1 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-122",
+    "book": "Cantiques",
+    "chapter": 8,
+    "verseRef": "Cantiques 8:1",
+    "verseText": "Voir Cantiques 8:1.",
+    "question": "Quel effet social est explicitement évoqué après l’embrassade dehors ?",
+    "choices": [
+      "Et l’on ne me mépriserait pas",
+      "Et l’on ne me reprendrait pas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 8:1 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-123",
+    "book": "Cantiques",
+    "chapter": 8,
+    "verseRef": "Cantiques 8:2",
+    "verseText": "Voir Cantiques 8:2.",
+    "question": "Quel double breuvage est nommé exactement en Cantique 8:2 ?",
+    "choices": [
+      "Du vin parfumé, du moût de mes grenades",
+      "Du vin excellent, du moût de mes grenades"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 8:2 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-124",
+    "book": "Cantiques",
+    "chapter": 8,
+    "verseRef": "Cantiques 8:4",
+    "verseText": "Voir Cantiques 8:4.",
+    "question": "Quelle expression exacte clôt l’adjuration de Cantique 8:4 ?",
+    "choices": [
+      "Jusqu’à ce qu’il le veuille",
+      "Jusqu’à ce qu’elle le veuille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 8:4 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-125",
+    "book": "Cantiques",
+    "chapter": 8,
+    "verseRef": "Cantiques 8:5",
+    "verseText": "Voir Cantiques 8:5.",
+    "question": "Dans Cantique 8:5, sur qui « celle-ci » s’appuie-t-elle en montant ?",
+    "choices": [
+      "Sur son bien-aimé",
+      "Sur son ami"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 8:5 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-126",
+    "book": "Cantiques",
+    "chapter": 8,
+    "verseRef": "Cantiques 8:5",
+    "verseText": "Voir Cantiques 8:5.",
+    "question": "Sous quel arbre le réveil est-il situé (mot exact) ?",
+    "choices": [
+      "Un pommier",
+      "Un figuier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 8:5 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-127",
+    "book": "Cantiques",
+    "chapter": 8,
+    "verseRef": "Cantiques 8:6",
+    "verseText": "Voir Cantiques 8:6.",
+    "question": "Quelle formule exacte demande le sceau « sur ton cœur » et « sur ton bras » ?",
+    "choices": [
+      "Mets-moi comme un sceau sur ton cœur, comme un sceau sur ton bras",
+      "Mets-moi pour sceau sur ton cœur, pour sceau sur ton bras"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 8:6 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-128",
+    "book": "Cantiques",
+    "chapter": 8,
+    "verseRef": "Cantiques 8:6",
+    "verseText": "Voir Cantiques 8:6.",
+    "question": "Quelle comparaison exacte associe « la jalousie » ?",
+    "choices": [
+      "La jalousie est inflexible comme le séjour des morts",
+      "La jalousie est forte comme le séjour des morts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 8:6 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-129",
+    "book": "Cantiques",
+    "chapter": 8,
+    "verseRef": "Cantiques 8:6",
+    "verseText": "Voir Cantiques 8:6.",
+    "question": "Comment le texte nomme-t-il les flammes de l’amour ?",
+    "choices": [
+      "Ses ardeurs sont des ardeurs de feu, une flamme de l’Éternel",
+      "Ses ardeurs sont des ardeurs de feu, une flamme du Seigneur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 8:6 (LSG 1910)."
+  },
+  {
+    "id": "cantiques-D-130",
+    "book": "Cantiques",
+    "chapter": 8,
+    "verseRef": "Cantiques 8:7",
+    "verseText": "Voir Cantiques 8:7.",
+    "question": "Quelle conséquence est donnée si l’homme offrait tous les biens de sa maison pour l’amour ?",
+    "choices": [
+      "Il ne pourrait que le mépriser",
+      "Il ne pourrait que l’admirer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantiques 8:7 (LSG 1910)."
+  }
+]

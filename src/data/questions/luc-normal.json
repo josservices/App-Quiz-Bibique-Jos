@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "luc-N-001",
+    "book": "Luc",
+    "chapter": 1,
+    "verseRef": "Luc 1:3",
+    "verseText": "Voir Luc 1:3.",
+    "question": "À qui Luc adresse-t-il son récit en le qualifiant d’« excellent » ?",
+    "choices": [
+      "Excellent Théophile",
+      "Excellent Agrippa",
+      "Excellent Félix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 1:3 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-002",
+    "book": "Luc",
+    "chapter": 1,
+    "verseRef": "Luc 1:9",
+    "verseText": "Voir Luc 1:9.",
+    "question": "Quel service Zacharie accomplissait-il quand le sort lui échut d’entrer dans le temple du Seigneur ?",
+    "choices": [
+      "Offrir l’encens",
+      "Présenter les pains de proposition",
+      "Allumer le chandelier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 1:9 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-003",
+    "book": "Luc",
+    "chapter": 1,
+    "verseRef": "Luc 1:24",
+    "verseText": "Voir Luc 1:24.",
+    "question": "Combien de temps Élisabeth se cacha-t-elle après être devenue enceinte ?",
+    "choices": [
+      "Trois mois",
+      "Cinq mois",
+      "Sept mois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 1:24 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-004",
+    "book": "Luc",
+    "chapter": 1,
+    "verseRef": "Luc 1:26",
+    "verseText": "Voir Luc 1:26.",
+    "question": "Dans quelle ville de Galilée l’ange Gabriel fut-il envoyé vers une vierge fiancée ?",
+    "choices": [
+      "Capernaüm",
+      "Nazareth",
+      "Chorazin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 1:26 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-005",
+    "book": "Luc",
+    "chapter": 1,
+    "verseRef": "Luc 1:31",
+    "verseText": "Voir Luc 1:31.",
+    "question": "Quel nom Marie devait-elle donner à l’enfant annoncé par l’ange ?",
+    "choices": [
+      "Emmanuel",
+      "Jésus",
+      "Jean"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 1:31 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-006",
+    "book": "Luc",
+    "chapter": 1,
+    "verseRef": "Luc 1:36",
+    "verseText": "Voir Luc 1:36.",
+    "question": "Quel lien de parenté l’ange indique-t-il entre Élisabeth et Marie ?",
+    "choices": [
+      "Sa tante",
+      "Sa cousine",
+      "Sa sœur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 1:36 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-007",
+    "book": "Luc",
+    "chapter": 1,
+    "verseRef": "Luc 1:41",
+    "verseText": "Voir Luc 1:41.",
+    "question": "Quel événement se produit dès qu’Élisabeth entend la salutation de Marie ?",
+    "choices": [
+      "Son enfant tressaillit dans son sein",
+      "Zacharie parla aussitôt",
+      "Les voisins se rassemblèrent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 1:41 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-008",
+    "book": "Luc",
+    "chapter": 1,
+    "verseRef": "Luc 1:38",
+    "verseText": "Voir Luc 1:38.",
+    "question": "Quelle expression Marie emploie-t-elle pour se désigner devant l’ange ?",
+    "choices": [
+      "La fille d’Israël",
+      "La servante du Seigneur",
+      "La reine de Juda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 1:38 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-009",
+    "book": "Luc",
+    "chapter": 1,
+    "verseRef": "Luc 1:59",
+    "verseText": "Voir Luc 1:59.",
+    "question": "Quel nom les parents et voisins voulaient-ils donner à l’enfant d’Élisabeth ?",
+    "choices": [
+      "Zacharie",
+      "Hérode",
+      "Élie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 1:59 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-010",
+    "book": "Luc",
+    "chapter": 1,
+    "verseRef": "Luc 1:63",
+    "verseText": "Voir Luc 1:63.",
+    "question": "Que fit Zacharie pour indiquer le nom de son fils après être resté muet ?",
+    "choices": [
+      "Il écrivit sur une tablette",
+      "Il fit un signe au sacrificateur",
+      "Il leva les mains vers le ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 1:63 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-011",
+    "book": "Luc",
+    "chapter": 1,
+    "verseRef": "Luc 1:7",
+    "verseText": "Voir Luc 1:7.",
+    "question": "Dans quel âge de la vie Zacharie et Élisabeth étaient-ils, selon le récit ?",
+    "choices": [
+      "Dans la force de l’âge",
+      "Avancés en âge",
+      "Tout jeunes encore"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 1:7 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-012",
+    "book": "Luc",
+    "chapter": 2,
+    "verseRef": "Luc 2:1",
+    "verseText": "Voir Luc 2:1.",
+    "question": "Quel empereur publia un édit ordonnant un recensement de toute la terre ?",
+    "choices": [
+      "Tibère",
+      "César Auguste",
+      "Claude"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 2:1 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-013",
+    "book": "Luc",
+    "chapter": 2,
+    "verseRef": "Luc 2:4",
+    "verseText": "Voir Luc 2:4.",
+    "question": "Où Joseph se rendit-il pour se faire inscrire avec Marie ?",
+    "choices": [
+      "Jéricho",
+      "Bethléhem",
+      "Césarée"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 2:4 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-014",
+    "book": "Luc",
+    "chapter": 2,
+    "verseRef": "Luc 2:12",
+    "verseText": "Voir Luc 2:12.",
+    "question": "Quel signe l’ange donne-t-il aux bergers pour reconnaître l’enfant ?",
+    "choices": [
+      "Un enfant emmailloté et couché dans une crèche",
+      "Un enfant au milieu des docteurs",
+      "Un enfant portant une couronne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 2:12 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-015",
+    "book": "Luc",
+    "chapter": 2,
+    "verseRef": "Luc 2:11",
+    "verseText": "Voir Luc 2:11.",
+    "question": "Quel titre l’ange attribue-t-il à l’enfant né dans la ville de David ?",
+    "choices": [
+      "Prophète du Très-Haut",
+      "Sauveur",
+      "Grand prêtre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 2:11 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-016",
+    "book": "Luc",
+    "chapter": 2,
+    "verseRef": "Luc 2:20",
+    "verseText": "Voir Luc 2:20.",
+    "question": "Quel chant les bergers prononcent-ils après avoir vu l’enfant et raconté ce qui leur avait été dit ?",
+    "choices": [
+      "Ils bénirent et glorifièrent Dieu",
+      "Ils offrirent un sacrifice au temple",
+      "Ils se rendirent à Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 2:20 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-017",
+    "book": "Luc",
+    "chapter": 2,
+    "verseRef": "Luc 2:24",
+    "verseText": "Voir Luc 2:24.",
+    "question": "Quel sacrifice Joseph et Marie offrirent-ils selon ce qui est prescrit ?",
+    "choices": [
+      "Un agneau sans défaut",
+      "Deux tourterelles ou deux jeunes pigeons",
+      "Dix pains sans levain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 2:24 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-018",
+    "book": "Luc",
+    "chapter": 2,
+    "verseRef": "Luc 2:25",
+    "verseText": "Voir Luc 2:25.",
+    "question": "Comment s’appelait l’homme juste et pieux qui attendait la consolation d’Israël ?",
+    "choices": [
+      "Siméon",
+      "Nicodème",
+      "Gamaliel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 2:25 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-019",
+    "book": "Luc",
+    "chapter": 2,
+    "verseRef": "Luc 2:36",
+    "verseText": "Voir Luc 2:36.",
+    "question": "De quelle tribu était Anne, la prophétesse ?",
+    "choices": [
+      "Juda",
+      "Aser",
+      "Lévi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 2:36 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-020",
+    "book": "Luc",
+    "chapter": 2,
+    "verseRef": "Luc 2:42",
+    "verseText": "Voir Luc 2:42.",
+    "question": "Quel âge Jésus avait-il lorsqu’il monta à Jérusalem selon la coutume de la fête ?",
+    "choices": [
+      "Dix ans",
+      "Douze ans",
+      "Quatorze ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 2:42 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-021",
+    "book": "Luc",
+    "chapter": 2,
+    "verseRef": "Luc 2:46",
+    "verseText": "Voir Luc 2:46.",
+    "question": "Où les parents retrouvèrent-ils Jésus après l’avoir cherché ?",
+    "choices": [
+      "Dans la synagogue de Nazareth",
+      "Dans le temple, au milieu des docteurs",
+      "Au bord du Jourdain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 2:46 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-022",
+    "book": "Luc",
+    "chapter": 2,
+    "verseRef": "Luc 2:49",
+    "verseText": "Voir Luc 2:49.",
+    "question": "Quelle parole Jésus adresse-t-il à ses parents pour expliquer sa présence ?",
+    "choices": [
+      "Il faut que je sois aux affaires de mon Père",
+      "Il faut que je prêche aussi aux autres villes",
+      "Il faut que le Fils de l’homme souffre beaucoup"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 2:49 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-023",
+    "book": "Luc",
+    "chapter": 3,
+    "verseRef": "Luc 3:2-3",
+    "verseText": "Voir Luc 3:2-3.",
+    "question": "Quel aliment Jean mangeait-il dans le désert, selon la description ?",
+    "choices": [
+      "Du pain et du vin",
+      "Des sauterelles et du miel sauvage",
+      "Des figues et des dattes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 3:2-3 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-024",
+    "book": "Luc",
+    "chapter": 3,
+    "verseRef": "Luc 3:11",
+    "verseText": "Voir Luc 3:11.",
+    "question": "Que répondit Jean aux foules quand elles lui demandaient ce qu’elles devaient faire ?",
+    "choices": [
+      "Que celui qui a deux tuniques partage avec celui qui n’en a point",
+      "Qu’ils offrent des holocaustes chaque jour",
+      "Qu’ils cessent de voyager le jour du sabbat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 3:11 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-025",
+    "book": "Luc",
+    "chapter": 3,
+    "verseRef": "Luc 3:13",
+    "verseText": "Voir Luc 3:13.",
+    "question": "Quelle mise en garde Jean donne-t-il aux publicains venus pour être baptisés ?",
+    "choices": [
+      "N’exigez rien au delà de ce qui vous a été ordonné",
+      "Ne mangez pas de choses impures",
+      "Ne traversez pas le Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 3:13 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-026",
+    "book": "Luc",
+    "chapter": 3,
+    "verseRef": "Luc 3:14",
+    "verseText": "Voir Luc 3:14.",
+    "question": "Quel conseil Jean donne-t-il aux soldats qui l’interrogeaient ?",
+    "choices": [
+      "Ne commettez ni extorsion ni fraude, et contentez-vous de votre solde",
+      "Ne portez pas d’épée en public",
+      "Quittez l’armée et devenez pêcheurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 3:14 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-027",
+    "book": "Luc",
+    "chapter": 3,
+    "verseRef": "Luc 3:22",
+    "verseText": "Voir Luc 3:22.",
+    "question": "Après le baptême de Jésus, quelle forme visible accompagne la descente du Saint-Esprit ?",
+    "choices": [
+      "Une flamme",
+      "Une colombe",
+      "Une nuée sombre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 3:22 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-028",
+    "book": "Luc",
+    "chapter": 4,
+    "verseRef": "Luc 4:10",
+    "verseText": "Voir Luc 4:10.",
+    "question": "Dans la tentation, quel ouvrage le diable cite-t-il pour appuyer sa proposition sur le temple ?",
+    "choices": [
+      "Les Proverbes",
+      "Les Psaumes",
+      "L’Ecclésiaste"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 4:10 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-029",
+    "book": "Luc",
+    "chapter": 4,
+    "verseRef": "Luc 4:16",
+    "verseText": "Voir Luc 4:16.",
+    "question": "Dans quelle ville Jésus commença-t-il à enseigner dans la synagogue « selon sa coutume » ?",
+    "choices": [
+      "Nazareth",
+      "Bethsaïda",
+      "Lydda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 4:16 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-030",
+    "book": "Luc",
+    "chapter": 4,
+    "verseRef": "Luc 4:26",
+    "verseText": "Voir Luc 4:26.",
+    "question": "Quel exemple Jésus rappelle-t-il au sujet d’Élie et d’une veuve ?",
+    "choices": [
+      "La veuve de Sarepta, dans le pays de Sidon",
+      "La veuve de Bethléhem, en Juda",
+      "La veuve de Jéricho, en Pérée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 4:26 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-031",
+    "book": "Luc",
+    "chapter": 4,
+    "verseRef": "Luc 4:39",
+    "verseText": "Voir Luc 4:39.",
+    "question": "Quel miracle Jésus fit-il à la belle-mère de Simon ?",
+    "choices": [
+      "Il la ressuscita",
+      "Il réprima la fièvre",
+      "Il lui rendit la vue"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 4:39 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-032",
+    "book": "Luc",
+    "chapter": 4,
+    "verseRef": "Luc 4:42",
+    "verseText": "Voir Luc 4:42.",
+    "question": "À quel moment Jésus se retirait-il souvent pour prier, selon le récit ?",
+    "choices": [
+      "Quand il faisait encore nuit",
+      "À la sixième heure",
+      "Au coucher du soleil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 4:42 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-033",
+    "book": "Luc",
+    "chapter": 5,
+    "verseRef": "Luc 5:6",
+    "verseText": "Voir Luc 5:6.",
+    "question": "Quel signe étonna Simon lors de la pêche, avant qu’il tombe aux genoux de Jésus ?",
+    "choices": [
+      "Les filets se rompaient",
+      "Le vent s’arrêta",
+      "Un poisson porta une pièce d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 5:6 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-034",
+    "book": "Luc",
+    "chapter": 5,
+    "verseRef": "Luc 5:10",
+    "verseText": "Voir Luc 5:10.",
+    "question": "Quelle parole Jésus dit-il à Simon après la pêche miraculeuse ?",
+    "choices": [
+      "Ne crains point; désormais tu seras pêcheur d’hommes",
+      "Va, et ne pèche plus",
+      "Suis-moi, et je te donnerai du repos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 5:10 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-035",
+    "book": "Luc",
+    "chapter": 5,
+    "verseRef": "Luc 5:27",
+    "verseText": "Voir Luc 5:27.",
+    "question": "Quel homme Jésus appela-t-il lorsqu’il le vit assis au lieu des péages ?",
+    "choices": [
+      "Zachée",
+      "Lévi",
+      "Barnabas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 5:27 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-036",
+    "book": "Luc",
+    "chapter": 5,
+    "verseRef": "Luc 5:36",
+    "verseText": "Voir Luc 5:36.",
+    "question": "Quelle image Jésus utilise-t-il pour parler de l’impossibilité de mêler l’ancien et le nouveau ?",
+    "choices": [
+      "Un filet et des poissons",
+      "Un vieux vêtement et une pièce neuve",
+      "Un champ et une semence"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 5:36 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-037",
+    "book": "Luc",
+    "chapter": 6,
+    "verseRef": "Luc 6:1",
+    "verseText": "Voir Luc 6:1.",
+    "question": "Quel jour les disciples arrachèrent-ils des épis en passant à travers des blés ?",
+    "choices": [
+      "Un jour de fête",
+      "Un jour de sabbat",
+      "Le premier jour de la semaine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 6:1 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-038",
+    "book": "Luc",
+    "chapter": 6,
+    "verseRef": "Luc 6:21",
+    "verseText": "Voir Luc 6:21.",
+    "question": "Quelle béatitude Jésus prononce-t-il au sujet de ceux qui ont faim maintenant ?",
+    "choices": [
+      "Ils seront rassasiés",
+      "Ils verront Dieu",
+      "Ils hériteront la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 6:21 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-039",
+    "book": "Luc",
+    "chapter": 6,
+    "verseRef": "Luc 6:38",
+    "verseText": "Voir Luc 6:38.",
+    "question": "Quelle mesure Jésus associe-t-il à l’acte de donner ?",
+    "choices": [
+      "Une mesure pleine, serrée, secouée et qui déborde",
+      "Une mesure légère et inégale",
+      "Une mesure cachée et scellée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 6:38 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-040",
+    "book": "Luc",
+    "chapter": 7,
+    "verseRef": "Luc 7:1-6",
+    "verseText": "Voir Luc 7:1-6.",
+    "question": "Quel centenier demanda une guérison sans que Jésus entre dans sa maison ?",
+    "choices": [
+      "Celui de Césarée",
+      "Celui de Capernaüm",
+      "Celui de Jérusalem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 7:1-6 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-041",
+    "book": "Luc",
+    "chapter": 7,
+    "verseRef": "Luc 7:6",
+    "verseText": "Voir Luc 7:6.",
+    "question": "Quelle parole le centenier fit-il dire à Jésus à propos de sa dignité ?",
+    "choices": [
+      "Je ne suis pas digne que tu entres sous mon toit",
+      "Je suis digne car j’ai bâti le temple",
+      "Je suis digne car je jeûne deux fois la semaine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 7:6 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-042",
+    "book": "Luc",
+    "chapter": 7,
+    "verseRef": "Luc 7:11-15",
+    "verseText": "Voir Luc 7:11-15.",
+    "question": "Dans quelle ville Jésus ressuscita-t-il le fils unique d’une veuve ?",
+    "choices": [
+      "Naïn",
+      "Emmaüs",
+      "Béthanie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 7:11-15 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-043",
+    "book": "Luc",
+    "chapter": 7,
+    "verseRef": "Luc 7:38",
+    "verseText": "Voir Luc 7:38.",
+    "question": "Que fit la femme pécheresse aux pieds de Jésus dans la maison du pharisien ?",
+    "choices": [
+      "Elle les lava de ses larmes et les essuya avec ses cheveux",
+      "Elle les oignit d’huile et les couvrit de poussière",
+      "Elle les frappa de sa main en signe de repentance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 7:38 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-044",
+    "book": "Luc",
+    "chapter": 7,
+    "verseRef": "Luc 7:50",
+    "verseText": "Voir Luc 7:50.",
+    "question": "Quelle conclusion Jésus donne-t-il à la femme après cet acte ?",
+    "choices": [
+      "Ta foi t’a sauvée, va en paix",
+      "Retourne à ton mari",
+      "Va prêcher dans la synagogue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 7:50 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-045",
+    "book": "Luc",
+    "chapter": 8,
+    "verseRef": "Luc 8:15",
+    "verseText": "Voir Luc 8:15.",
+    "question": "Dans la parabole du semeur, où la semence porte-t-elle du fruit ?",
+    "choices": [
+      "Sur le chemin",
+      "Dans la bonne terre",
+      "Parmi les épines"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 8:15 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-046",
+    "book": "Luc",
+    "chapter": 6,
+    "verseRef": "Luc 6:13",
+    "verseText": "Voir Luc 6:13.",
+    "question": "Quel nom Jésus donna-t-il aux douze lorsqu’il les choisit ?",
+    "choices": [
+      "Scribes",
+      "Apôtres",
+      "Diacres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 6:13 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-047",
+    "book": "Luc",
+    "chapter": 8,
+    "verseRef": "Luc 8:25",
+    "verseText": "Voir Luc 8:25.",
+    "question": "Lors de la tempête apaisée, quel reproche Jésus adresse-t-il aux disciples ?",
+    "choices": [
+      "Où est votre foi ?",
+      "Pourquoi êtes-vous si lents à croire ?",
+      "N’avez-vous pas compris les paraboles ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 8:25 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-048",
+    "book": "Luc",
+    "chapter": 8,
+    "verseRef": "Luc 8:33",
+    "verseText": "Voir Luc 8:33.",
+    "question": "Dans le pays des Géraséniens, où se tenaient les démons après être sortis de l’homme ?",
+    "choices": [
+      "Dans un désert aride",
+      "Dans un troupeau de pourceaux",
+      "Dans une maison abandonnée"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 8:33 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-049",
+    "book": "Luc",
+    "chapter": 8,
+    "verseRef": "Luc 8:54",
+    "verseText": "Voir Luc 8:54.",
+    "question": "Quel geste Jésus accomplit-il pour la fille de Jaïrus avant qu’elle se lève ?",
+    "choices": [
+      "Il lui donna de l’eau",
+      "Il la saisit par la main",
+      "Il l’oignit d’huile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 8:54 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-050",
+    "book": "Luc",
+    "chapter": 9,
+    "verseRef": "Luc 9:3",
+    "verseText": "Voir Luc 9:3.",
+    "question": "Quel objet Jésus interdit-il d’emporter en chemin lors de l’envoi des douze ?",
+    "choices": [
+      "Une épée",
+      "Un bâton",
+      "Une lampe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 9:3 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-051",
+    "book": "Luc",
+    "chapter": 9,
+    "verseRef": "Luc 9:9",
+    "verseText": "Voir Luc 9:9.",
+    "question": "Que demanda Hérode en entendant parler de Jésus, selon le texte ?",
+    "choices": [
+      "À le voir",
+      "À l’arrêter immédiatement",
+      "À lui écrire une lettre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 9:9 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-052",
+    "book": "Luc",
+    "chapter": 9,
+    "verseRef": "Luc 9:13",
+    "verseText": "Voir Luc 9:13.",
+    "question": "Combien de pains étaient disponibles avant que Jésus nourrisse la foule ?",
+    "choices": [
+      "Trois",
+      "Cinq",
+      "Sept"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 9:13 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-053",
+    "book": "Luc",
+    "chapter": 9,
+    "verseRef": "Luc 9:20",
+    "verseText": "Voir Luc 9:20.",
+    "question": "Quelle confession Pierre prononce-t-il quand Jésus demande qui il est ?",
+    "choices": [
+      "Le Christ de Dieu",
+      "Le prophète promis",
+      "Le roi des Juifs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 9:20 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-054",
+    "book": "Luc",
+    "chapter": 9,
+    "verseRef": "Luc 9:30",
+    "verseText": "Voir Luc 9:30.",
+    "question": "Qui apparut avec Jésus dans la gloire lors de la transfiguration ?",
+    "choices": [
+      "Moïse et Élie",
+      "Abraham et Isaac",
+      "David et Salomon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 9:30 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-055",
+    "book": "Luc",
+    "chapter": 9,
+    "verseRef": "Luc 9:39-42",
+    "verseText": "Voir Luc 9:39-42.",
+    "question": "En descendant de la montagne, quel mal affligeait le fils amené à Jésus ?",
+    "choices": [
+      "Il était paralysé des jambes",
+      "Un esprit le saisissait et le tourmentait",
+      "Il était aveugle de naissance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 9:39-42 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-056",
+    "book": "Luc",
+    "chapter": 9,
+    "verseRef": "Luc 9:46",
+    "verseText": "Voir Luc 9:46.",
+    "question": "Quel sujet les disciples discutèrent-ils, provoquant l’enseignement de Jésus ?",
+    "choices": [
+      "Qui était le plus grand",
+      "Qui devait partir en premier",
+      "Qui avait le plus donné aux pauvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 9:46 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-057",
+    "book": "Luc",
+    "chapter": 11,
+    "verseRef": "Luc 11:3",
+    "verseText": "Voir Luc 11:3.",
+    "question": "Dans la prière enseignée, que demande-t-on pour le pain ?",
+    "choices": [
+      "Donne-nous chaque jour notre pain quotidien",
+      "Donne-nous aujourd’hui le pain des fêtes",
+      "Donne-nous demain notre pain de la semaine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 11:3 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-058",
+    "book": "Luc",
+    "chapter": 11,
+    "verseRef": "Luc 11:9",
+    "verseText": "Voir Luc 11:9.",
+    "question": "Selon Jésus, que doit-on faire quand on frappe et qu’on demande ?",
+    "choices": [
+      "Chercher, demander et frapper",
+      "Jeûner, prier et se taire",
+      "Donner, vendre et partir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 11:9 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-059",
+    "book": "Luc",
+    "chapter": 15,
+    "verseRef": "Luc 15:6-7",
+    "verseText": "Voir Luc 15:6-7.",
+    "question": "Quelle parabole Jésus donne-t-il pour montrer la joie au retour d’un pécheur qui se repent ?",
+    "choices": [
+      "La brebis perdue",
+      "Le bon Samaritain",
+      "Les dix vierges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 15:6-7 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-060",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:8",
+    "verseText": "Voir Luc 19:8.",
+    "question": "Quel acte Zachée annonce-t-il en signe de changement devant le Seigneur ?",
+    "choices": [
+      "Il donnera aux pauvres la moitié de ses biens",
+      "Il offrira des sacrifices chaque jour",
+      "Il quittera Jéricho pour toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:8 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-061",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:4",
+    "verseText": "Voir Luc 12:4.",
+    "question": "Quel sujet Jésus donne-t-il comme raison de ne pas craindre ceux qui tuent le corps ?",
+    "choices": [
+      "Ils ne peuvent rien faire de plus",
+      "Ils peuvent aussi détruire l’âme",
+      "Ils peuvent fermer le ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:4 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-062",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:5",
+    "verseText": "Voir Luc 12:5.",
+    "question": "Après avoir averti de craindre, quel pouvoir Jésus attribue-t-il à celui qu’il faut craindre ?",
+    "choices": [
+      "Il a le pouvoir de jeter dans la géhenne",
+      "Il a le pouvoir de changer les pierres en pains",
+      "Il a le pouvoir de faire pleuvoir le feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:5 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-063",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:6",
+    "verseText": "Voir Luc 12:6.",
+    "question": "Combien de passereaux sont mentionnés comme vendus pour deux sous ?",
+    "choices": [
+      "Trois",
+      "Cinq",
+      "Sept"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 12:6 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-064",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:8",
+    "verseText": "Voir Luc 12:8.",
+    "question": "Que promet Jésus à celui qui le confessera devant les hommes ?",
+    "choices": [
+      "Le Fils de l’homme le confessera devant les anges de Dieu",
+      "Il recevra aussitôt des richesses",
+      "Il ne verra jamais la mort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:8 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-065",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:15",
+    "verseText": "Voir Luc 12:15.",
+    "question": "Quel avertissement Jésus donne-t-il à propos de l’avarice ?",
+    "choices": [
+      "La vie d’un homme ne dépend pas de ses biens",
+      "La vie d’un homme dépend de son travail",
+      "La vie d’un homme dépend de ses amis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:15 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-066",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:18",
+    "verseText": "Voir Luc 12:18.",
+    "question": "Dans la parabole de l’homme riche, que décide-t-il de faire avec ses récoltes ?",
+    "choices": [
+      "Abattre ses greniers et en bâtir de plus grands",
+      "Donner tout aux pauvres sur-le-champ",
+      "Partir en voyage et tout laisser"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:18 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-067",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:20",
+    "verseText": "Voir Luc 12:20.",
+    "question": "Quelle parole Dieu adresse-t-il à cet homme riche ?",
+    "choices": [
+      "Insensé ! cette nuit même ton âme te sera redemandée",
+      "Sage ! tes projets prospéreront",
+      "Heureux ! tu as été fidèle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:20 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-068",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:24",
+    "verseText": "Voir Luc 12:24.",
+    "question": "Que dit Jésus au sujet des corbeaux, pour enseigner la confiance ?",
+    "choices": [
+      "Dieu les nourrit",
+      "Ils amassent dans des greniers",
+      "Ils filent la laine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:24 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-069",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:30",
+    "verseText": "Voir Luc 12:30.",
+    "question": "De quoi Jésus dit-il que le Père sait que ses disciples ont besoin ?",
+    "choices": [
+      "Du royaume et de la justice",
+      "De ces choses",
+      "De la gloire des hommes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 12:30 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-070",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:35",
+    "verseText": "Voir Luc 12:35.",
+    "question": "Quel ordre Jésus donne-t-il concernant l’attente du maître qui revient des noces ?",
+    "choices": [
+      "Que vos reins soient ceints, et vos lampes allumées",
+      "Que vos maisons soient fermées, et vos portes scellées",
+      "Que vos vêtements soient déchirés, et vos têtes couvertes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:35 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-071",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:37",
+    "verseText": "Voir Luc 12:37.",
+    "question": "Quel comportement est loué chez les serviteurs quand le maître arrive ?",
+    "choices": [
+      "Les trouver veillant",
+      "Les trouver dormant",
+      "Les trouver en voyage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:37 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-072",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:38",
+    "verseText": "Voir Luc 12:38.",
+    "question": "À quel moment du jour le maître peut-il venir dans l’exemple du voleur ?",
+    "choices": [
+      "À la troisième veille",
+      "Au midi exact",
+      "Au lever du soleil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:38 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-073",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:39",
+    "verseText": "Voir Luc 12:39.",
+    "question": "Quelle conséquence Jésus annonce-t-il si le maître de maison avait su à quelle heure le voleur viendrait ?",
+    "choices": [
+      "Il n’aurait pas laissé percer sa maison",
+      "Il aurait quitté la ville",
+      "Il aurait appelé les pharisiens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:39 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-074",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:48",
+    "verseText": "Voir Luc 12:48.",
+    "question": "Que sera demandé à celui à qui il a été beaucoup donné ?",
+    "choices": [
+      "Beaucoup",
+      "Peu",
+      "Rien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:48 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-075",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:51",
+    "verseText": "Voir Luc 12:51.",
+    "question": "Quelle image Jésus emploie-t-il pour décrire sa mission concernant la division ?",
+    "choices": [
+      "Mettre la paix sur la terre",
+      "Mettre la division",
+      "Construire un temple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 12:51 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-076",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:52",
+    "verseText": "Voir Luc 12:52.",
+    "question": "Combien de personnes sont mentionnées dans une maison comme pouvant être divisées ?",
+    "choices": [
+      "Quatre",
+      "Cinq",
+      "Six"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 12:52 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-077",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:54",
+    "verseText": "Voir Luc 12:54.",
+    "question": "Quelle observation météorologique Jésus associe-t-il au nuage qui se lève de l’occident ?",
+    "choices": [
+      "Il vient de la pluie",
+      "Il vient de la neige",
+      "Il vient du tonnerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:54 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-078",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:58",
+    "verseText": "Voir Luc 12:58.",
+    "question": "Quel conseil Jésus donne-t-il sur le chemin avec son adversaire ?",
+    "choices": [
+      "Efforce-toi de t’accorder avec lui",
+      "Attends le tribunal sans rien dire",
+      "Réclame justice par la force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:58 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-079",
+    "book": "Luc",
+    "chapter": 12,
+    "verseRef": "Luc 12:59",
+    "verseText": "Voir Luc 12:59.",
+    "question": "Dans l’exemple du paiement, quelle somme est citée comme la dernière à rendre ?",
+    "choices": [
+      "Le dernier denier",
+      "Le dernier sicle",
+      "La dernière drachme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 12:59 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-080",
+    "book": "Luc",
+    "chapter": 13,
+    "verseRef": "Luc 13:4",
+    "verseText": "Voir Luc 13:4.",
+    "question": "Quel événement Jésus cite-t-il à propos de ceux sur qui la tour tomba ?",
+    "choices": [
+      "La tour de Siloé tomba et les tua",
+      "Le temple s’écroula sur eux",
+      "La muraille de Jéricho les écrasa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 13:4 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-081",
+    "book": "Luc",
+    "chapter": 13,
+    "verseRef": "Luc 13:7",
+    "verseText": "Voir Luc 13:7.",
+    "question": "Dans la parabole du figuier, depuis combien d’années le maître cherche-t-il du fruit ?",
+    "choices": [
+      "Deux ans",
+      "Trois ans",
+      "Cinq ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 13:7 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-082",
+    "book": "Luc",
+    "chapter": 13,
+    "verseRef": "Luc 13:8",
+    "verseText": "Voir Luc 13:8.",
+    "question": "Que demande le vigneron pour le figuier avant qu’on le coupe ?",
+    "choices": [
+      "Laisser encore cette année",
+      "Laisser encore sept jours",
+      "Laisser encore trois mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 13:8 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-083",
+    "book": "Luc",
+    "chapter": 13,
+    "verseRef": "Luc 13:10",
+    "verseText": "Voir Luc 13:10.",
+    "question": "Quel jour Jésus enseignait-il lorsqu’il guérit la femme courbée ?",
+    "choices": [
+      "Un jour de fête",
+      "Un jour de sabbat",
+      "Le premier jour de la semaine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 13:10 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-084",
+    "book": "Luc",
+    "chapter": 13,
+    "verseRef": "Luc 13:11",
+    "verseText": "Voir Luc 13:11.",
+    "question": "Combien d’années cette femme avait-elle un esprit d’infirmité ?",
+    "choices": [
+      "Douze ans",
+      "Dix-huit ans",
+      "Vingt ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 13:11 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-085",
+    "book": "Luc",
+    "chapter": 13,
+    "verseRef": "Luc 13:15",
+    "verseText": "Voir Luc 13:15.",
+    "question": "Comment Jésus appelle-t-il ceux qui s’indignent de la guérison au sabbat ?",
+    "choices": [
+      "Hypocrites",
+      "Insensés",
+      "Aveugles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 13:15 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-086",
+    "book": "Luc",
+    "chapter": 13,
+    "verseRef": "Luc 13:19",
+    "verseText": "Voir Luc 13:19.",
+    "question": "À quoi Jésus compare-t-il le royaume de Dieu en parlant d’une petite semence ?",
+    "choices": [
+      "Un grain de moutarde",
+      "Un grain de blé",
+      "Un grain d’orge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 13:19 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-087",
+    "book": "Luc",
+    "chapter": 13,
+    "verseRef": "Luc 13:21",
+    "verseText": "Voir Luc 13:21.",
+    "question": "Dans l’image du levain, combien de mesures de farine sont mentionnées ?",
+    "choices": [
+      "Deux",
+      "Trois",
+      "Quatre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 13:21 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-088",
+    "book": "Luc",
+    "chapter": 13,
+    "verseRef": "Luc 13:23",
+    "verseText": "Voir Luc 13:23.",
+    "question": "Quelle question est posée à Jésus au sujet du salut ?",
+    "choices": [
+      "Y a-t-il peu de gens qui soient sauvés ?",
+      "Quand viendra la fin du monde ?",
+      "Qui est mon prochain ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 13:23 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-089",
+    "book": "Luc",
+    "chapter": 13,
+    "verseRef": "Luc 13:24",
+    "verseText": "Voir Luc 13:24.",
+    "question": "Quelle porte Jésus ordonne-t-il de chercher à entrer ?",
+    "choices": [
+      "La porte large",
+      "La porte étroite",
+      "La porte du temple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 13:24 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-090",
+    "book": "Luc",
+    "chapter": 13,
+    "verseRef": "Luc 13:32",
+    "verseText": "Voir Luc 13:32.",
+    "question": "Quel titre Jésus donne-t-il à Hérode en réponse au message qu’il doit partir ?",
+    "choices": [
+      "Ce renard",
+      "Ce lion",
+      "Ce loup"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 13:32 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-091",
+    "book": "Luc",
+    "chapter": 13,
+    "verseRef": "Luc 13:34",
+    "verseText": "Voir Luc 13:34.",
+    "question": "Dans la lamentation sur Jérusalem, à quoi Jésus compare-t-il son désir de rassembler les enfants ?",
+    "choices": [
+      "Comme une poule rassemble sa couvée sous ses ailes",
+      "Comme un berger rassemble ses troupeaux",
+      "Comme un roi rassemble son armée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 13:34 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-092",
+    "book": "Luc",
+    "chapter": 14,
+    "verseRef": "Luc 14:10",
+    "verseText": "Voir Luc 14:10.",
+    "question": "Dans l’exhortation à l’humilité, quelle place est recommandée lors d’un festin ?",
+    "choices": [
+      "La première place",
+      "La dernière place",
+      "La place du milieu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 14:10 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-093",
+    "book": "Luc",
+    "chapter": 14,
+    "verseRef": "Luc 14:12",
+    "verseText": "Voir Luc 14:12.",
+    "question": "Quand faut-il inviter des gens qui ne peuvent pas rendre l’invitation ?",
+    "choices": [
+      "Lors d’un deuil",
+      "Quand tu donnes un festin",
+      "Quand tu voyages"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 14:12 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-094",
+    "book": "Luc",
+    "chapter": 14,
+    "verseRef": "Luc 14:13",
+    "verseText": "Voir Luc 14:13.",
+    "question": "Qui Jésus cite-t-il comme invités à la place des amis et des riches dans son conseil ?",
+    "choices": [
+      "Les pauvres, les estropiés, les boiteux, les aveugles",
+      "Les scribes, les docteurs, les sacrificateurs",
+      "Les marchands, les soldats, les juges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 14:13 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-095",
+    "book": "Luc",
+    "chapter": 14,
+    "verseRef": "Luc 14:18",
+    "verseText": "Voir Luc 14:18.",
+    "question": "Dans la parabole du grand souper, quel excuse donne l’un des invités ?",
+    "choices": [
+      "J’ai acheté un champ",
+      "J’ai acheté une barque",
+      "J’ai acheté un troupeau de chèvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 14:18 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-096",
+    "book": "Luc",
+    "chapter": 14,
+    "verseRef": "Luc 14:19",
+    "verseText": "Voir Luc 14:19.",
+    "question": "Quelle autre excuse est donnée par un invité au grand souper ?",
+    "choices": [
+      "J’ai acheté cinq paires de bœufs",
+      "J’ai acheté dix talents d’or",
+      "J’ai acheté un pressoir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 14:19 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-097",
+    "book": "Luc",
+    "chapter": 14,
+    "verseRef": "Luc 14:20",
+    "verseText": "Voir Luc 14:20.",
+    "question": "Quel motif empêche un autre invité de venir au grand souper ?",
+    "choices": [
+      "Je viens de me marier",
+      "Je suis devenu malade",
+      "Je dois monter à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 14:20 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-098",
+    "book": "Luc",
+    "chapter": 14,
+    "verseRef": "Luc 14:23",
+    "verseText": "Voir Luc 14:23.",
+    "question": "Quelle consigne le maître donne-t-il pour remplir sa maison ?",
+    "choices": [
+      "Va dans les chemins et le long des haies, et contrains-les d’entrer",
+      "Va au temple et appelle les sacrificateurs",
+      "Va au désert et cherche un prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 14:23 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-099",
+    "book": "Luc",
+    "chapter": 14,
+    "verseRef": "Luc 14:27",
+    "verseText": "Voir Luc 14:27.",
+    "question": "Quelle condition Jésus énonce-t-il au sujet de porter sa croix ?",
+    "choices": [
+      "Porter sa croix et venir après moi",
+      "Porter sa croix et retourner chez soi",
+      "Porter sa croix et s’asseoir en paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 14:27 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-100",
+    "book": "Luc",
+    "chapter": 14,
+    "verseRef": "Luc 14:28",
+    "verseText": "Voir Luc 14:28.",
+    "question": "Dans l’exemple du bâtisseur, que fait-on avant de bâtir une tour ?",
+    "choices": [
+      "S’asseoir pour calculer la dépense",
+      "Chercher des ouvriers au marché",
+      "Faire un vœu public au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 14:28 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-101",
+    "book": "Luc",
+    "chapter": 14,
+    "verseRef": "Luc 14:31",
+    "verseText": "Voir Luc 14:31.",
+    "question": "Dans l’exemple du roi qui va à la guerre, quel nombre est opposé à dix mille ?",
+    "choices": [
+      "Douze mille",
+      "Vingt mille",
+      "Trente mille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 14:31 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-102",
+    "book": "Luc",
+    "chapter": 15,
+    "verseRef": "Luc 15:8",
+    "verseText": "Voir Luc 15:8.",
+    "question": "Dans la parabole de la drachme perdue, combien de drachmes la femme possédait-elle ?",
+    "choices": [
+      "Dix",
+      "Douze",
+      "Vingt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 15:8 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-103",
+    "book": "Luc",
+    "chapter": 15,
+    "verseRef": "Luc 15:9",
+    "verseText": "Voir Luc 15:9.",
+    "question": "Après avoir retrouvé la drachme, qui la femme appelle-t-elle ?",
+    "choices": [
+      "Ses voisins",
+      "Ses amies et ses voisines",
+      "Les docteurs de la loi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Luc 15:9 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-104",
+    "book": "Luc",
+    "chapter": 15,
+    "verseRef": "Luc 15:12",
+    "verseText": "Voir Luc 15:12.",
+    "question": "Dans la parabole du fils prodigue, que demande le plus jeune fils ?",
+    "choices": [
+      "La part de biens qui doit lui revenir",
+      "Une place parmi les serviteurs",
+      "Un champ à cultiver"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 15:12 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-105",
+    "book": "Luc",
+    "chapter": 15,
+    "verseRef": "Luc 15:13",
+    "verseText": "Voir Luc 15:13.",
+    "question": "Comment est décrite la vie du fils prodigue dans le pays éloigné ?",
+    "choices": [
+      "Il dissipa son bien en vivant dans la débauche",
+      "Il travailla comme berger fidèle",
+      "Il devint chef de synagogue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 15:13 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-106",
+    "book": "Luc",
+    "chapter": 15,
+    "verseRef": "Luc 15:15",
+    "verseText": "Voir Luc 15:15.",
+    "question": "Quel travail le fils prodigue obtient-il dans le pays après la famine ?",
+    "choices": [
+      "Garder les pourceaux",
+      "Garder les brebis",
+      "Garder les vignes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 15:15 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-107",
+    "book": "Luc",
+    "chapter": 15,
+    "verseRef": "Luc 15:16",
+    "verseText": "Voir Luc 15:16.",
+    "question": "Qu’aurait-il désiré manger quand il gardait les pourceaux ?",
+    "choices": [
+      "Les gousses que mangeaient les pourceaux",
+      "Le pain des serviteurs",
+      "Les fruits du champ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 15:16 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-108",
+    "book": "Luc",
+    "chapter": 15,
+    "verseRef": "Luc 15:24",
+    "verseText": "Voir Luc 15:24.",
+    "question": "Quelle parole le père prononce-t-il en voyant revenir son fils ?",
+    "choices": [
+      "Mon fils était mort, et il est revenu à la vie",
+      "Mon fils a gagné un royaume",
+      "Mon fils a vaincu ses ennemis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 15:24 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-109",
+    "book": "Luc",
+    "chapter": 15,
+    "verseRef": "Luc 15:22",
+    "verseText": "Voir Luc 15:22.",
+    "question": "Quel vêtement le père ordonne-t-il de mettre au fils ?",
+    "choices": [
+      "La plus belle robe",
+      "Un manteau de poil",
+      "Un habit de deuil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 15:22 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-110",
+    "book": "Luc",
+    "chapter": 15,
+    "verseRef": "Luc 15:22",
+    "verseText": "Voir Luc 15:22.",
+    "question": "Quel objet le père ordonne-t-il de mettre au doigt du fils ?",
+    "choices": [
+      "Une bague",
+      "Un bracelet",
+      "Un sceau d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 15:22 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-111",
+    "book": "Luc",
+    "chapter": 16,
+    "verseRef": "Luc 16:5",
+    "verseText": "Voir Luc 16:5.",
+    "question": "Dans la parabole de l’économe infidèle, que fait l’économe quand il sait qu’il va être ôté ?",
+    "choices": [
+      "Il appelle les débiteurs de son maître",
+      "Il vend la maison de son maître",
+      "Il s’enfuit dans le désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 16:5 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-112",
+    "book": "Luc",
+    "chapter": 16,
+    "verseRef": "Luc 16:6",
+    "verseText": "Voir Luc 16:6.",
+    "question": "Dans les réductions de dettes, quelle quantité d’huile est mentionnée pour le premier débiteur ?",
+    "choices": [
+      "Cent mesures d’huile",
+      "Cinquante mesures d’huile",
+      "Dix mesures d’huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 16:6 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-113",
+    "book": "Luc",
+    "chapter": 16,
+    "verseRef": "Luc 16:7",
+    "verseText": "Voir Luc 16:7.",
+    "question": "Quelle quantité de blé est mentionnée pour un autre débiteur ?",
+    "choices": [
+      "Cent mesures de blé",
+      "Quatre-vingt mesures de blé",
+      "Vingt mesures de blé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 16:7 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-114",
+    "book": "Luc",
+    "chapter": 16,
+    "verseRef": "Luc 16:10",
+    "verseText": "Voir Luc 16:10.",
+    "question": "Que dit Jésus au sujet de la fidélité dans les petites choses ?",
+    "choices": [
+      "Celui qui est fidèle dans les petites choses l’est aussi dans les grandes",
+      "Celui qui est fidèle dans les petites choses n’a pas besoin d’être fidèle ailleurs",
+      "Celui qui est fidèle dans les petites choses sera dispensé de rendre compte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 16:10 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-115",
+    "book": "Luc",
+    "chapter": 16,
+    "verseRef": "Luc 16:13",
+    "verseText": "Voir Luc 16:13.",
+    "question": "Quel avertissement Jésus donne-t-il sur deux maîtres ?",
+    "choices": [
+      "Nul serviteur ne peut servir deux maîtres",
+      "Tout serviteur peut servir deux maîtres s’il est prudent",
+      "Servir deux maîtres est le signe de la sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 16:13 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-116",
+    "book": "Luc",
+    "chapter": 16,
+    "verseRef": "Luc 16:20",
+    "verseText": "Voir Luc 16:20.",
+    "question": "Quel personnage est nommé comme pauvre dans l’histoire du riche et du mendiant ?",
+    "choices": [
+      "Lazare",
+      "Zachée",
+      "Jonas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 16:20 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-117",
+    "book": "Luc",
+    "chapter": 16,
+    "verseRef": "Luc 16:22",
+    "verseText": "Voir Luc 16:22.",
+    "question": "Où le mendiant est-il porté après sa mort ?",
+    "choices": [
+      "Dans le sein d’Abraham",
+      "Dans le temple",
+      "Dans le désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 16:22 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-118",
+    "book": "Luc",
+    "chapter": 16,
+    "verseRef": "Luc 16:24",
+    "verseText": "Voir Luc 16:24.",
+    "question": "Quel désir le riche exprime-t-il à propos de Lazare ?",
+    "choices": [
+      "Qu’il trempe le bout de son doigt dans l’eau",
+      "Qu’il lui apporte du pain",
+      "Qu’il le délivre de ses chaînes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 16:24 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-119",
+    "book": "Luc",
+    "chapter": 16,
+    "verseRef": "Luc 16:29",
+    "verseText": "Voir Luc 16:29.",
+    "question": "Quel message Abraham donne-t-il au sujet de Moïse et des prophètes ?",
+    "choices": [
+      "Ils les ont; qu’ils les écoutent",
+      "Ils les ont; qu’ils les brûlent",
+      "Ils les ont; qu’ils les vendent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 16:29 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-120",
+    "book": "Luc",
+    "chapter": 16,
+    "verseRef": "Luc 16:31",
+    "verseText": "Voir Luc 16:31.",
+    "question": "Quel signe Abraham dit-il insuffisant pour convaincre ceux qui n’écoutent pas ?",
+    "choices": [
+      "Quelqu’un ressusciterait des morts",
+      "Une étoile apparaîtrait dans le ciel",
+      "Une mer s’ouvrirait devant eux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 16:31 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-121",
+    "book": "Luc",
+    "chapter": 18,
+    "verseRef": "Luc 18:38",
+    "verseText": "Voir Luc 18:38.",
+    "question": "Quel cri l’aveugle près de Jéricho adresse-t-il à Jésus ?",
+    "choices": [
+      "Jésus, Fils de David, aie pitié de moi !",
+      "Seigneur, augmente ma foi !",
+      "Maître, que dois-je faire pour être sauvé ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 18:38 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-122",
+    "book": "Luc",
+    "chapter": 18,
+    "verseRef": "Luc 18:41",
+    "verseText": "Voir Luc 18:41.",
+    "question": "Que demande Jésus à l’aveugle quand il l’a fait approcher ?",
+    "choices": [
+      "Que veux-tu que je te fasse ?",
+      "Pourquoi cries-tu ainsi ?",
+      "Qui t’a conduit ici ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 18:41 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-123",
+    "book": "Luc",
+    "chapter": 18,
+    "verseRef": "Luc 18:41",
+    "verseText": "Voir Luc 18:41.",
+    "question": "Quelle réponse l’aveugle donne-t-il à la question de Jésus ?",
+    "choices": [
+      "Seigneur, que je recouvre la vue",
+      "Seigneur, que je marche sans faiblir",
+      "Seigneur, que je sois délivré de mes dettes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 18:41 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-124",
+    "book": "Luc",
+    "chapter": 18,
+    "verseRef": "Luc 18:43",
+    "verseText": "Voir Luc 18:43.",
+    "question": "Après la guérison, quelle réaction immédiate est attribuée à l’homme qui avait recouvré la vue ?",
+    "choices": [
+      "Il suivit Jésus, glorifiant Dieu",
+      "Il retourna chez lui sans parler",
+      "Il alla offrir un sacrifice à Césarée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 18:43 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-125",
+    "book": "Luc",
+    "chapter": 18,
+    "verseRef": "Luc 18:34",
+    "verseText": "Voir Luc 18:34.",
+    "question": "Quelle attitude des disciples est mentionnée quand Jésus annonce ce qui doit lui arriver ?",
+    "choices": [
+      "Ils ne comprirent rien à ces choses",
+      "Ils comprirent tout dès le premier mot",
+      "Ils s’en réjouirent ouvertement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 18:34 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-126",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:17",
+    "verseText": "Voir Luc 19:17.",
+    "question": "Dans la parabole des mines, quel rang reçoit la mine qui a produit dix autres ?",
+    "choices": [
+      "Autorité sur dix villes",
+      "Autorité sur cinq villes",
+      "Autorité sur deux villes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:17 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-127",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:19",
+    "verseText": "Voir Luc 19:19.",
+    "question": "Dans la parabole des mines, quelle réponse reçoit celui dont la mine a produit cinq autres ?",
+    "choices": [
+      "Autorité sur cinq villes",
+      "Autorité sur dix villes",
+      "Autorité sur une ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:19 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-128",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:21",
+    "verseText": "Voir Luc 19:21.",
+    "question": "Que dit le serviteur qui rend la mine sans profit, expliquant sa crainte ?",
+    "choices": [
+      "Je te craignais, parce que tu es un homme sévère",
+      "Je te craignais, parce que tu changes d’avis",
+      "Je te craignais, parce que tu es faible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:21 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-129",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:20",
+    "verseText": "Voir Luc 19:20.",
+    "question": "Où le serviteur dit-il avoir gardé la mine du maître ?",
+    "choices": [
+      "Dans un linge",
+      "Dans une bourse",
+      "Dans une jarre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:20 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-130",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:30",
+    "verseText": "Voir Luc 19:30.",
+    "question": "Quel animal les disciples trouvent-ils attaché, comme Jésus l’avait annoncé ?",
+    "choices": [
+      "Un ânon",
+      "Un chameau",
+      "Un bœuf"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:30 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-131",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:31",
+    "verseText": "Voir Luc 19:31.",
+    "question": "Quelle formule les disciples doivent-ils répondre si on leur demande pourquoi ils détachent l’animal ?",
+    "choices": [
+      "Le Seigneur en a besoin",
+      "Le peuple en a besoin",
+      "Le temple en a besoin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:31 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-132",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:38",
+    "verseText": "Voir Luc 19:38.",
+    "question": "Quelle acclamation la multitude des disciples élève-t-elle en se réjouissant ?",
+    "choices": [
+      "Béni soit le roi qui vient au nom du Seigneur !",
+      "Béni soit le prêtre qui vient au nom du Seigneur !",
+      "Béni soit le juge qui vient au nom du Seigneur !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:38 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-133",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:40",
+    "verseText": "Voir Luc 19:40.",
+    "question": "Que répond Jésus quand des pharisiens lui demandent de reprendre ses disciples ?",
+    "choices": [
+      "Si eux se taisent, les pierres crieront",
+      "Si eux se taisent, les arbres parleront",
+      "Si eux se taisent, les anges pleureront"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:40 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-134",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:41",
+    "verseText": "Voir Luc 19:41.",
+    "question": "Quel sentiment est attribué à Jésus lorsqu’il s’approche de la ville et la voit ?",
+    "choices": [
+      "Il pleura sur elle",
+      "Il se mit à rire",
+      "Il détourna ses yeux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:41 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-135",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:43",
+    "verseText": "Voir Luc 19:43.",
+    "question": "Quelle conséquence Jésus annonce-t-il au sujet de la ville, à cause de l’ignorance du temps de sa visite ?",
+    "choices": [
+      "Tes ennemis t’environneront de tranchées",
+      "Tes ennemis te donneront la paix",
+      "Tes ennemis te feront riche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:43 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-136",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:46",
+    "verseText": "Voir Luc 19:46.",
+    "question": "Quel reproche Jésus exprime-t-il en purifiant le temple ?",
+    "choices": [
+      "Vous en avez fait une caverne de voleurs",
+      "Vous en avez fait un palais de rois",
+      "Vous en avez fait une salle de fête"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:46 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-137",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:45",
+    "verseText": "Voir Luc 19:45.",
+    "question": "Quel groupe Jésus chasse-t-il du temple, selon le récit ?",
+    "choices": [
+      "Ceux qui vendaient",
+      "Ceux qui priaient",
+      "Ceux qui lisaient la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:45 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-138",
+    "book": "Luc",
+    "chapter": 19,
+    "verseRef": "Luc 19:48",
+    "verseText": "Voir Luc 19:48.",
+    "question": "Qu’est-ce que le peuple faisait, selon le texte, en entendant Jésus ?",
+    "choices": [
+      "Il était suspendu à ses lèvres",
+      "Il dormait dans les parvis",
+      "Il quittait la ville en masse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:48 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-139",
+    "book": "Luc",
+    "chapter": 20,
+    "verseRef": "Luc 20:24",
+    "verseText": "Voir Luc 20:24.",
+    "question": "Quel objet Jésus demande-t-il qu’on lui montre pour répondre à la question sur le tribut ?",
+    "choices": [
+      "Un denier",
+      "Un sicle",
+      "Une drachme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 20:24 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-140",
+    "book": "Luc",
+    "chapter": 20,
+    "verseRef": "Luc 20:24",
+    "verseText": "Voir Luc 20:24.",
+    "question": "De qui le denier porte-t-il l’effigie et l’inscription, selon la réponse donnée ?",
+    "choices": [
+      "De César",
+      "D’Hérode",
+      "De Pilate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 20:24 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-141",
+    "book": "Luc",
+    "chapter": 20,
+    "verseRef": "Luc 20:25",
+    "verseText": "Voir Luc 20:25.",
+    "question": "Quelle conclusion Jésus tire-t-il à propos de ce qu’il faut rendre ?",
+    "choices": [
+      "À César ce qui est à César, et à Dieu ce qui est à Dieu",
+      "À Dieu ce qui est à César, et à César ce qui est à Dieu",
+      "À personne ce qui est à personne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 20:25 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-142",
+    "book": "Luc",
+    "chapter": 20,
+    "verseRef": "Luc 20:29-31",
+    "verseText": "Voir Luc 20:29-31.",
+    "question": "Quel exemple les sadducéens utilisent-ils pour parler du mariage et de la résurrection ?",
+    "choices": [
+      "Une femme mariée successivement à sept frères",
+      "Un homme ayant dix enfants",
+      "Un couple sans postérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 20:29-31 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-143",
+    "book": "Luc",
+    "chapter": 20,
+    "verseRef": "Luc 20:35",
+    "verseText": "Voir Luc 20:35.",
+    "question": "Comment Jésus décrit-il ceux qui seront jugés dignes d’avoir part au siècle à venir ?",
+    "choices": [
+      "Ils ne prendront ni femmes ni maris",
+      "Ils bâtiront des maisons splendides",
+      "Ils ne mourront plus jamais sur la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 20:35 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-144",
+    "book": "Luc",
+    "chapter": 14,
+    "verseRef": "Luc 14:5",
+    "verseText": "Voir Luc 14:5.",
+    "question": "Quel animal est mentionné dans l’enseignement sur l’aide à une bête tombée ?",
+    "choices": [
+      "Un âne",
+      "Un chameau",
+      "Un cerf"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 14:5 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-145",
+    "book": "Luc",
+    "chapter": 20,
+    "verseRef": "Luc 20:47",
+    "verseText": "Voir Luc 20:47.",
+    "question": "Quel avertissement Jésus donne-t-il sur les scribes au sujet des veuves ?",
+    "choices": [
+      "Ils dévorent les maisons des veuves",
+      "Ils protègent les maisons des veuves",
+      "Ils construisent les maisons des veuves"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 20:47 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-146",
+    "book": "Luc",
+    "chapter": 21,
+    "verseRef": "Luc 21:2",
+    "verseText": "Voir Luc 21:2.",
+    "question": "Dans l’offrande au trésor, qui Jésus remarque-t-il comme ayant mis peu, mais donnant davantage ?",
+    "choices": [
+      "Une pauvre veuve",
+      "Un jeune scribe",
+      "Un riche marchand"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 21:2 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-147",
+    "book": "Luc",
+    "chapter": 21,
+    "verseRef": "Luc 21:4",
+    "verseText": "Voir Luc 21:4.",
+    "question": "Quelle justification Jésus donne-t-il sur l’offrande de la veuve ?",
+    "choices": [
+      "Elle a mis de son nécessaire",
+      "Elle a mis de son superflu",
+      "Elle a mis de ses intérêts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 21:4 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-148",
+    "book": "Luc",
+    "chapter": 21,
+    "verseRef": "Luc 21:20",
+    "verseText": "Voir Luc 21:20.",
+    "question": "Quel signe Jésus annonce-t-il avant des événements redoutables, concernant Jérusalem ?",
+    "choices": [
+      "Jérusalem sera investie par des armées",
+      "Jérusalem sera décorée de couronnes",
+      "Jérusalem sera entourée de fleuves"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 21:20 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-149",
+    "book": "Luc",
+    "chapter": 21,
+    "verseRef": "Luc 21:21",
+    "verseText": "Voir Luc 21:21.",
+    "question": "Quel conseil Jésus donne-t-il à ceux qui seront en Judée lors de ces jours ?",
+    "choices": [
+      "Qu’ils s’enfuient dans les montagnes",
+      "Qu’ils se rassemblent dans le temple",
+      "Qu’ils descendent vers la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 21:21 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-150",
+    "book": "Luc",
+    "chapter": 21,
+    "verseRef": "Luc 21:22",
+    "verseText": "Voir Luc 21:22.",
+    "question": "Quelle expression Jésus utilise-t-il pour décrire cette période de jugement ?",
+    "choices": [
+      "Des jours de vengeance",
+      "Des jours de réjouissance",
+      "Des jours de moisson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 21:22 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-151",
+    "book": "Luc",
+    "chapter": 21,
+    "verseRef": "Luc 21:25",
+    "verseText": "Voir Luc 21:25.",
+    "question": "Quel phénomène cosmique Jésus mentionne-t-il parmi les signes ?",
+    "choices": [
+      "Des signes dans le soleil, dans la lune et dans les étoiles",
+      "La lune changera en sang pour toujours",
+      "Les étoiles tomberont une à une sur la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 21:25 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-152",
+    "book": "Luc",
+    "chapter": 21,
+    "verseRef": "Luc 21:29",
+    "verseText": "Voir Luc 21:29.",
+    "question": "Quelle parabole Jésus donne-t-il pour encourager l’observation des signes ?",
+    "choices": [
+      "Le figuier et tous les arbres",
+      "Le semeur et la semence",
+      "La brebis et le troupeau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 21:29 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-153",
+    "book": "Luc",
+    "chapter": 21,
+    "verseRef": "Luc 21:31",
+    "verseText": "Voir Luc 21:31.",
+    "question": "Que dit Jésus sur la proximité du royaume lorsque certains signes se produisent ?",
+    "choices": [
+      "Le royaume de Dieu est proche",
+      "Le royaume de Dieu est lointain",
+      "Le royaume de Dieu est caché pour toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 21:31 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-154",
+    "book": "Luc",
+    "chapter": 21,
+    "verseRef": "Luc 21:34",
+    "verseText": "Voir Luc 21:34.",
+    "question": "Dans l’avertissement final, de quoi Jésus dit-il de se garder pour ne pas s’appesantir ?",
+    "choices": [
+      "Des excès du manger et du boire, et des soucis de la vie",
+      "Du travail des champs et des voyages",
+      "Des prières et des jeûnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 21:34 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-155",
+    "book": "Luc",
+    "chapter": 21,
+    "verseRef": "Luc 21:37",
+    "verseText": "Voir Luc 21:37.",
+    "question": "Quel endroit Jésus fréquente-t-il la nuit pendant cette période d’enseignement ?",
+    "choices": [
+      "La montagne appelée montagne des Oliviers",
+      "La montagne appelée Sinaï",
+      "La montagne appelée Carmel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 21:37 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-156",
+    "book": "Luc",
+    "chapter": 21,
+    "verseRef": "Luc 21:38",
+    "verseText": "Voir Luc 21:38.",
+    "question": "Quel moment du jour est mentionné pour l’arrivée du peuple vers Jésus ?",
+    "choices": [
+      "Dès le matin",
+      "À la troisième veille",
+      "À la dixième heure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 21:38 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-157",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:12",
+    "verseText": "Voir Luc 22:12.",
+    "question": "Quel nom est donné au lieu où Jésus envoie préparer la Pâque ?",
+    "choices": [
+      "Une grande chambre haute",
+      "Un atelier de charpentier",
+      "Une grotte près du torrent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:12 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-158",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:10",
+    "verseText": "Voir Luc 22:10.",
+    "question": "Quel signe Jésus donne-t-il aux disciples pour trouver le lieu préparé ?",
+    "choices": [
+      "Un homme portant une cruche d’eau",
+      "Un homme conduisant un bœuf",
+      "Un homme tenant une lampe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:10 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-159",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:15",
+    "verseText": "Voir Luc 22:15.",
+    "question": "Quelle parole Jésus exprime-t-il sur son désir de manger la Pâque ?",
+    "choices": [
+      "J’ai désiré vivement manger cette Pâque avec vous",
+      "J’ai désiré peu manger cette Pâque avec vous",
+      "J’ai refusé de manger cette Pâque avec vous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:15 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-160",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:16",
+    "verseText": "Voir Luc 22:16.",
+    "question": "Que dit Jésus qu’il ne fera plus avant l’accomplissement dans le royaume de Dieu ?",
+    "choices": [
+      "Il ne la mangera plus",
+      "Il ne priera plus",
+      "Il ne parlera plus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:16 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-161",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:17",
+    "verseText": "Voir Luc 22:17.",
+    "question": "Après avoir rendu grâces, que dit Jésus au sujet de la coupe ?",
+    "choices": [
+      "Partagez-la entre vous",
+      "Gardez-la pour Judas",
+      "Versez-la sur l’autel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:17 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-162",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:18",
+    "verseText": "Voir Luc 22:18.",
+    "question": "Que dit Jésus au sujet du fruit de la vigne ?",
+    "choices": [
+      "Il n’en boira plus jusqu’à ce que le royaume de Dieu soit venu",
+      "Il en boira chaque sabbat",
+      "Il en boira seulement à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:18 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-163",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:24",
+    "verseText": "Voir Luc 22:24.",
+    "question": "Quel différend surgit parmi les disciples pendant le repas ?",
+    "choices": [
+      "Ils disputaient pour savoir qui était regardé comme le plus grand",
+      "Ils disputaient sur le prix du denier",
+      "Ils disputaient sur le lieu de la montagne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:24 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-164",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:25",
+    "verseText": "Voir Luc 22:25.",
+    "question": "Quel titre Jésus donne-t-il à ceux qui dominent les nations ?",
+    "choices": [
+      "Bienfaiteurs",
+      "Prophètes",
+      "Nazaréens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:25 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-165",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:29",
+    "verseText": "Voir Luc 22:29.",
+    "question": "Quelle promesse Jésus fait-il à ses disciples au sujet du royaume ?",
+    "choices": [
+      "Je dispose du royaume en votre faveur",
+      "Je retire le royaume de votre faveur",
+      "Je cache le royaume à votre génération"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:29 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-166",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:34",
+    "verseText": "Voir Luc 22:34.",
+    "question": "Combien de fois Jésus annonce-t-il que Pierre le reniera avant un certain chant ?",
+    "choices": [
+      "Trois fois",
+      "Deux fois",
+      "Quatre fois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:34 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-167",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:32",
+    "verseText": "Voir Luc 22:32.",
+    "question": "Dans l’avertissement à Pierre, quel but Jésus mentionne-t-il au sujet de sa prière ?",
+    "choices": [
+      "Afin que ta foi ne défaille point",
+      "Afin que ton courage ne diminue point",
+      "Afin que ton sommeil ne te quitte point"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:32 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-168",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:38",
+    "verseText": "Voir Luc 22:38.",
+    "question": "Quand les disciples répondent qu’ils ont des épées, que dit Jésus ?",
+    "choices": [
+      "Cela suffit",
+      "Prenez-en encore",
+      "Jetez-les au feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:38 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-169",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:40",
+    "verseText": "Voir Luc 22:40.",
+    "question": "Quel ordre Jésus donne-t-il à ses disciples avant de prier dans ce lieu ?",
+    "choices": [
+      "Priez, afin que vous ne tombiez pas en tentation",
+      "Veillez, afin que vous ne soyez pas vus",
+      "Partez, afin que vous ne souffriez pas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:40 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-170",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:43",
+    "verseText": "Voir Luc 22:43.",
+    "question": "Quelle apparition surnaturelle est mentionnée pendant l’agonie de Jésus ?",
+    "choices": [
+      "Un ange du ciel lui apparut, pour le fortifier",
+      "Une nuée descendit sur lui",
+      "Un feu tomba du ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:43 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-171",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:44",
+    "verseText": "Voir Luc 22:44.",
+    "question": "Quelle description est donnée de sa sueur durant cette lutte ?",
+    "choices": [
+      "Comme des grumeaux de sang",
+      "Comme de la pluie légère",
+      "Comme de la rosée du matin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:44 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-172",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:45",
+    "verseText": "Voir Luc 22:45.",
+    "question": "Quelle excuse Jésus donne-t-il aux disciples trouvés endormis ?",
+    "choices": [
+      "Ils étaient accablés de tristesse",
+      "Ils étaient rassasiés de pain",
+      "Ils étaient épuisés de voyage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:45 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-173",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:47",
+    "verseText": "Voir Luc 22:47.",
+    "question": "Par quel signe Judas désigne-t-il Jésus à ceux qui viennent l’arrêter ?",
+    "choices": [
+      "Un baiser",
+      "Un vêtement déchiré",
+      "Une torche allumée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:47 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-174",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:48",
+    "verseText": "Voir Luc 22:48.",
+    "question": "Que dit Jésus à propos du baiser de Judas ?",
+    "choices": [
+      "Judas, c’est par un baiser que tu livres le Fils de l’homme !",
+      "Judas, c’est par une épée que tu livres le Fils de l’homme !",
+      "Judas, c’est par un denier que tu livres le Fils de l’homme !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:48 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-175",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:50",
+    "verseText": "Voir Luc 22:50.",
+    "question": "Quel acte de violence se produit lors de l’arrestation, touchant un serviteur ?",
+    "choices": [
+      "Son oreille droite est coupée",
+      "Son bras gauche est brisé",
+      "Son œil est aveuglé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:50 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-176",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:51",
+    "verseText": "Voir Luc 22:51.",
+    "question": "Que fait Jésus à l’oreille du serviteur après l’avoir touchée ?",
+    "choices": [
+      "Il le guérit",
+      "Il l’endurcit",
+      "Il l’effraie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:51 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-177",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:52",
+    "verseText": "Voir Luc 22:52.",
+    "question": "Quel reproche Jésus adresse-t-il à ceux qui viennent avec des épées et des bâtons ?",
+    "choices": [
+      "Comme après un brigand, vous êtes sortis",
+      "Comme après un roi, vous êtes venus",
+      "Comme après un prophète, vous vous êtes cachés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:52 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-178",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:53",
+    "verseText": "Voir Luc 22:53.",
+    "question": "Quelle parole Jésus prononce-t-il sur ce moment de son arrestation ?",
+    "choices": [
+      "C’est ici votre heure, et la puissance des ténèbres",
+      "C’est ici votre gloire, et la force des hommes",
+      "C’est ici votre paix, et la joie du peuple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:53 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-179",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:62",
+    "verseText": "Voir Luc 22:62.",
+    "question": "Après le reniement, que fait Pierre en sortant ?",
+    "choices": [
+      "Il pleura amèrement",
+      "Il se mit à chanter",
+      "Il s’endormit aussitôt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:62 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-180",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:63",
+    "verseText": "Voir Luc 22:63.",
+    "question": "Quel traitement Jésus reçoit-il de ceux qui le gardent ?",
+    "choices": [
+      "Ils le frappaient et l’insultaient",
+      "Ils le couronnaient et l’acclamaient",
+      "Ils le relâchaient et le suivaient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:63 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-181",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:64",
+    "verseText": "Voir Luc 22:64.",
+    "question": "Après avoir voilé le visage de Jésus, quelle question ceux qui le frappaient lui posaient-ils ?",
+    "choices": [
+      "Devine qui t’a frappé",
+      "Dis-nous quel est ton nom",
+      "Montre-nous un signe du ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:64 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-182",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:66",
+    "verseText": "Voir Luc 22:66.",
+    "question": "Quand le jour fut venu, quel groupe s’assembla pour faire amener Jésus devant eux ?",
+    "choices": [
+      "Le collège des anciens du peuple, les principaux sacrificateurs et les scribes",
+      "Les publicains, les soldats et les marchands",
+      "Les pharisiens seuls, avec leurs disciples"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:66 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-183",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:67",
+    "verseText": "Voir Luc 22:67.",
+    "question": "Quelle demande les membres du sanhédrin adressent-ils à Jésus au sujet de son identité ?",
+    "choices": [
+      "Si tu es le Christ, dis-le nous",
+      "Si tu es Élie, montre-le nous",
+      "Si tu es Moïse, dis-le nous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:67 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-184",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:69",
+    "verseText": "Voir Luc 22:69.",
+    "question": "Quelle affirmation Jésus fait-il sur le Fils de l’homme dans cette audience ?",
+    "choices": [
+      "Désormais le Fils de l’homme sera assis à la droite de la puissance de Dieu",
+      "Désormais le Fils de l’homme sera caché dans le désert",
+      "Désormais le Fils de l’homme sera couronné à Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:69 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-185",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:70",
+    "verseText": "Voir Luc 22:70.",
+    "question": "Quelle question finale tous lui posent-ils dans cette même scène ?",
+    "choices": [
+      "Tu es donc le Fils de Dieu ?",
+      "Tu es donc le fils de Joseph ?",
+      "Tu es donc le chef des prêtres ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:70 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-186",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:70",
+    "verseText": "Voir Luc 22:70.",
+    "question": "Quelle réponse Jésus donne-t-il à cette question sur le Fils de Dieu ?",
+    "choices": [
+      "Vous le dites, je le suis",
+      "Je ne le suis pas",
+      "Je l’ignore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:70 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-187",
+    "book": "Luc",
+    "chapter": 22,
+    "verseRef": "Luc 22:71",
+    "verseText": "Voir Luc 22:71.",
+    "question": "Quelle conclusion le groupe tire-t-il alors à propos du besoin de témoignage ?",
+    "choices": [
+      "Qu’avons-nous encore besoin de témoignage ?",
+      "Nous cherchons encore un témoin",
+      "Nous n’avons jamais eu de témoin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 22:71 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-188",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:1",
+    "verseText": "Voir Luc 23:1.",
+    "question": "À qui Jésus est-il conduit après cette audience collective ?",
+    "choices": [
+      "Pilate",
+      "Caïphe",
+      "Nicodème"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:1 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-189",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:2",
+    "verseText": "Voir Luc 23:2.",
+    "question": "Quel reproche est explicitement formulé concernant le tribut, dans l’accusation devant Pilate ?",
+    "choices": [
+      "Empêchant de payer le tribut à César",
+      "Encourageant à payer le tribut à César",
+      "Fixant lui-même le tribut à César"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:2 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-190",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:2",
+    "verseText": "Voir Luc 23:2.",
+    "question": "Quel titre Jésus est-il accusé de se donner devant Pilate ?",
+    "choices": [
+      "Christ, roi",
+      "Grand prêtre, roi",
+      "Prophète, juge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:2 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-191",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:3",
+    "verseText": "Voir Luc 23:3.",
+    "question": "Quelle question Pilate pose-t-il directement à Jésus ?",
+    "choices": [
+      "Es-tu le roi des Juifs ?",
+      "Es-tu le fils d’Abraham ?",
+      "Es-tu un sacrificateur ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:3 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-192",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:3",
+    "verseText": "Voir Luc 23:3.",
+    "question": "Quelle réponse Jésus fait-il à Pilate sur ce point ?",
+    "choices": [
+      "Tu le dis",
+      "Je le nie",
+      "Je l’ai oublié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:3 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-193",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:4",
+    "verseText": "Voir Luc 23:4.",
+    "question": "Quelle déclaration Pilate fait-il aux principaux sacrificateurs et à la foule après l’interrogatoire ?",
+    "choices": [
+      "Je ne trouve rien de coupable en cet homme",
+      "Je trouve cet homme digne de mort",
+      "Je trouve cet homme digne d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:4 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-194",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:5",
+    "verseText": "Voir Luc 23:5.",
+    "question": "Quel motif d’accusation est ajouté au sujet du territoire où Jésus agit ?",
+    "choices": [
+      "Il soulève le peuple en enseignant par toute la Judée, depuis la Galilée jusqu’ici",
+      "Il soulève l’Égypte en enseignant par toute la Samarie",
+      "Il soulève Rome en enseignant par toute l’Asie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:5 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-195",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:7",
+    "verseText": "Voir Luc 23:7.",
+    "question": "En apprenant l’origine galiléenne, vers quel dirigeant Pilate envoie-t-il Jésus ?",
+    "choices": [
+      "Hérode",
+      "Agrippa",
+      "Félix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:7 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-196",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:8",
+    "verseText": "Voir Luc 23:8.",
+    "question": "Comment est décrite la réaction d’Hérode lorsqu’il voit Jésus ?",
+    "choices": [
+      "Il en eut une grande joie",
+      "Il en eut une grande colère",
+      "Il en eut une grande crainte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:8 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-197",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:8",
+    "verseText": "Voir Luc 23:8.",
+    "question": "Pourquoi Hérode désirait-il voir Jésus depuis longtemps ?",
+    "choices": [
+      "Parce qu’il espérait le voir faire quelque miracle",
+      "Parce qu’il voulait l’entendre parler de Moïse",
+      "Parce qu’il voulait lui donner un royaume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:8 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-198",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:9",
+    "verseText": "Voir Luc 23:9.",
+    "question": "Que fait Jésus face aux nombreuses questions d’Hérode ?",
+    "choices": [
+      "Il ne lui répondit rien",
+      "Il répondit longuement",
+      "Il demanda un délai"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:9 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-199",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:11",
+    "verseText": "Voir Luc 23:11.",
+    "question": "Quel traitement Hérode et ses gardes infligent-ils à Jésus avant de le renvoyer ?",
+    "choices": [
+      "Ils le traitèrent avec mépris, et se moquèrent de lui",
+      "Ils l’honorèrent et le couronnèrent",
+      "Ils le laissèrent libre et le suivirent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:11 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-200",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:11",
+    "verseText": "Voir Luc 23:11.",
+    "question": "Quel vêtement Hérode fait-il mettre à Jésus ?",
+    "choices": [
+      "Un habit éclatant",
+      "Un manteau de poil",
+      "Un sac de cendre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:11 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-201",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:12",
+    "verseText": "Voir Luc 23:12.",
+    "question": "Quel changement se produit entre Hérode et Pilate ce même jour ?",
+    "choices": [
+      "Ils devinrent amis",
+      "Ils devinrent ennemis",
+      "Ils se séparèrent à jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:12 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-202",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:17",
+    "verseText": "Voir Luc 23:17.",
+    "question": "Quelle coutume est mentionnée par Pilate au sujet d’un relâchement ?",
+    "choices": [
+      "Il devait leur relâcher un prisonnier à la fête",
+      "Il devait leur donner un sacrifice à la fête",
+      "Il devait leur imposer un jeûne à la fête"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:17 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-203",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:18",
+    "verseText": "Voir Luc 23:18.",
+    "question": "Quel nom est donné au prisonnier que la foule réclame à la place de Jésus ?",
+    "choices": [
+      "Barabbas",
+      "Barnabas",
+      "Bartholomée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:18 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-204",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:19",
+    "verseText": "Voir Luc 23:19.",
+    "question": "Pour quel crime Barabbas avait-il été mis en prison, selon le texte ?",
+    "choices": [
+      "Pour une sédition qui avait eu lieu dans la ville, et pour meurtre",
+      "Pour vol de pains, et pour fraude",
+      "Pour blasphème, et pour idolâtrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:19 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-205",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:16",
+    "verseText": "Voir Luc 23:16.",
+    "question": "Quel acte Pilate fait-il exécuter sur Jésus avant de le livrer ?",
+    "choices": [
+      "Il le fit battre de verges",
+      "Il le fit conduire au désert",
+      "Il le fit enfermer dans le temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:16 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-206",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:21",
+    "verseText": "Voir Luc 23:21.",
+    "question": "Quelle parole la foule répète-t-elle au sujet de Jésus, malgré la déclaration de Pilate ?",
+    "choices": [
+      "Crucifie, crucifie-le !",
+      "Bénis, bénis-le !",
+      "Guéris, guéris-le !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:21 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-207",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:24",
+    "verseText": "Voir Luc 23:24.",
+    "question": "Quelle décision Pilate prend-il finalement sous la pression ?",
+    "choices": [
+      "Il prononça que ce qu’ils demandaient serait fait",
+      "Il prononça qu’ils seraient punis",
+      "Il prononça qu’ils seraient dispersés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:24 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-208",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:26",
+    "verseText": "Voir Luc 23:26.",
+    "question": "Quel homme est saisi pour porter la croix derrière Jésus ?",
+    "choices": [
+      "Simon de Cyrène",
+      "André de Béthsaïda",
+      "Joseph d’Arimathée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:26 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-209",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:27",
+    "verseText": "Voir Luc 23:27.",
+    "question": "Quel groupe suit Jésus en grande multitude pendant qu’il est conduit ?",
+    "choices": [
+      "Le peuple et des femmes",
+      "Les soldats et les marchands",
+      "Les lévites et les scribes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:27 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-210",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:28",
+    "verseText": "Voir Luc 23:28.",
+    "question": "À qui Jésus dit-il de ne pas pleurer sur lui, mais sur elles-mêmes ?",
+    "choices": [
+      "Aux filles de Jérusalem",
+      "Aux mères de Galilée",
+      "Aux veuves de Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:28 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-211",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:31",
+    "verseText": "Voir Luc 23:31.",
+    "question": "Quelle image Jésus emploie-t-il pour comparer le bois vert et le bois sec ?",
+    "choices": [
+      "Si l’on fait ces choses au bois vert, qu’arrivera-t-il au bois sec ?",
+      "Si l’on arrose le bois sec, le vert brûlera",
+      "Si l’on coupe le bois vert, le sec poussera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:31 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-212",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:32",
+    "verseText": "Voir Luc 23:32.",
+    "question": "Combien de malfaiteurs sont menés avec Jésus pour être mis à mort ?",
+    "choices": [
+      "Deux",
+      "Trois",
+      "Quatre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:32 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-213",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:33",
+    "verseText": "Voir Luc 23:33.",
+    "question": "Comment s’appelle le lieu où ils le crucifient, selon Luc ?",
+    "choices": [
+      "Le lieu appelé le Crâne",
+      "Le lieu appelé Golgotha",
+      "Le lieu appelé Béthanie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:33 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-214",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:34",
+    "verseText": "Voir Luc 23:34.",
+    "question": "Quelle prière Jésus prononce-t-il au moment de l’exécution ?",
+    "choices": [
+      "Père, pardonne-leur, car ils ne savent ce qu’ils font",
+      "Père, frappe-les, car ils savent ce qu’ils font",
+      "Père, oublie-les, car ils se repentent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:34 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-215",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:34",
+    "verseText": "Voir Luc 23:34.",
+    "question": "Que font les soldats des vêtements de Jésus ?",
+    "choices": [
+      "Ils les partagèrent, en tirant au sort",
+      "Ils les vendirent au marché",
+      "Ils les brûlèrent en public"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:34 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-216",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:38",
+    "verseText": "Voir Luc 23:38.",
+    "question": "Quelle inscription est placée au-dessus de Jésus ?",
+    "choices": [
+      "Celui-ci est le roi des Juifs",
+      "Celui-ci est le fils de David",
+      "Celui-ci est le prophète de Galilée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:38 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-217",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:36",
+    "verseText": "Voir Luc 23:36.",
+    "question": "Quel acte les soldats font-ils en se moquant de Jésus ?",
+    "choices": [
+      "Ils s’approchaient et lui présentaient du vinaigre",
+      "Ils lui donnaient du miel",
+      "Ils lui offraient de l’encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:36 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-218",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:43",
+    "verseText": "Voir Luc 23:43.",
+    "question": "Quelle promesse Jésus fait-il au malfaiteur qui l’implore de se souvenir de lui ?",
+    "choices": [
+      "Aujourd’hui tu seras avec moi dans le paradis",
+      "Demain tu seras avec moi dans le royaume",
+      "Un jour tu seras avec moi sur la montagne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:43 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-219",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:44",
+    "verseText": "Voir Luc 23:44.",
+    "question": "À partir de quelle heure l’obscurité survient-elle sur toute la terre ?",
+    "choices": [
+      "Environ la sixième heure",
+      "Environ la troisième heure",
+      "Environ la neuvième heure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:44 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-220",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:44",
+    "verseText": "Voir Luc 23:44.",
+    "question": "Jusqu’à quelle heure l’obscurité dure-t-elle ?",
+    "choices": [
+      "Jusqu’à la neuvième heure",
+      "Jusqu’à la sixième heure",
+      "Jusqu’à la onzième heure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:44 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-221",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:45",
+    "verseText": "Voir Luc 23:45.",
+    "question": "Quel phénomène est mentionné concernant le soleil pendant cette obscurité ?",
+    "choices": [
+      "Le soleil s’obscurcit",
+      "Le soleil se leva",
+      "Le soleil brûla plus fort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:45 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-222",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:45",
+    "verseText": "Voir Luc 23:45.",
+    "question": "Que devient le voile du temple à ce moment-là ?",
+    "choices": [
+      "Il se déchira par le milieu",
+      "Il fut cousu de nouveau",
+      "Il fut couvert d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:45 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-223",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:46",
+    "verseText": "Voir Luc 23:46.",
+    "question": "Quelles paroles Jésus prononce-t-il d’une voix forte avant d’expirer ?",
+    "choices": [
+      "Père, je remets mon esprit entre tes mains",
+      "Père, donne-moi du pain",
+      "Père, fais tomber le feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:46 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-224",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:47",
+    "verseText": "Voir Luc 23:47.",
+    "question": "Quelle réaction le centenier a-t-il en voyant ce qui est arrivé ?",
+    "choices": [
+      "Il glorifia Dieu",
+      "Il se moqua du peuple",
+      "Il s’enfuit en tremblant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:47 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-225",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:47",
+    "verseText": "Voir Luc 23:47.",
+    "question": "Quelle déclaration le centenier prononce-t-il au sujet de Jésus ?",
+    "choices": [
+      "Certainement, cet homme était juste",
+      "Certainement, cet homme était coupable",
+      "Certainement, cet homme était un soldat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:47 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-226",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:48",
+    "verseText": "Voir Luc 23:48.",
+    "question": "Que fait la foule en se retirant après ce spectacle ?",
+    "choices": [
+      "Elle s’en retourna, se frappant la poitrine",
+      "Elle s’en retourna, chantant des cantiques",
+      "Elle s’en retourna, allumant des flambeaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:48 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-227",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:49",
+    "verseText": "Voir Luc 23:49.",
+    "question": "Où se tiennent les connaissances de Jésus pendant ces événements ?",
+    "choices": [
+      "À distance",
+      "Au pied immédiat de la croix",
+      "Dans le temple, près du voile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:49 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-228",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:50-51",
+    "verseText": "Voir Luc 23:50-51.",
+    "question": "Qui est l’homme qualifié de « membre du sanhédrin, homme de bien et juste » ?",
+    "choices": [
+      "Joseph d’Arimathée",
+      "Nicodème de Jérusalem",
+      "Simon de Cyrène"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:50-51 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-229",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:53",
+    "verseText": "Voir Luc 23:53.",
+    "question": "Quel acte Joseph accomplit-il envers le corps de Jésus ?",
+    "choices": [
+      "Il le descendit, l’enveloppa d’un linceul, et le déposa dans un sépulcre taillé dans le roc",
+      "Il le laissa à la porte du temple",
+      "Il le remit aux soldats pour l’enterrer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:53 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-230",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:53",
+    "verseText": "Voir Luc 23:53.",
+    "question": "Quel détail est donné sur ce sépulcre ?",
+    "choices": [
+      "Personne n’y avait encore été mis",
+      "Beaucoup y avaient déjà été mis",
+      "Il était rempli d’aromates"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:53 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-231",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:54",
+    "verseText": "Voir Luc 23:54.",
+    "question": "Quel jour est mentionné au moment de la mise au tombeau ?",
+    "choices": [
+      "C’était le jour de la préparation",
+      "C’était le jour du grand jeûne",
+      "C’était le jour du recensement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:54 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-232",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:56",
+    "verseText": "Voir Luc 23:56.",
+    "question": "Que font les femmes après avoir vu le sépulcre et la manière dont le corps a été déposé ?",
+    "choices": [
+      "Elles préparèrent des aromates et des parfums",
+      "Elles préparèrent des pains et des poissons",
+      "Elles préparèrent des vêtements éclatants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:56 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-233",
+    "book": "Luc",
+    "chapter": 23,
+    "verseRef": "Luc 23:56",
+    "verseText": "Voir Luc 23:56.",
+    "question": "Que font ces femmes pendant le sabbat ?",
+    "choices": [
+      "Elles se reposèrent",
+      "Elles voyagèrent",
+      "Elles achetèrent au marché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 23:56 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-234",
+    "book": "Luc",
+    "chapter": 24,
+    "verseRef": "Luc 24:1",
+    "verseText": "Voir Luc 24:1.",
+    "question": "Quel moment est mentionné pour leur venue au sépulcre le premier jour de la semaine ?",
+    "choices": [
+      "De grand matin",
+      "À midi",
+      "Au coucher du soleil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 24:1 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-235",
+    "book": "Luc",
+    "chapter": 24,
+    "verseRef": "Luc 24:1",
+    "verseText": "Voir Luc 24:1.",
+    "question": "Qu’apportent-elles au sépulcre ?",
+    "choices": [
+      "Les aromates qu’elles avaient préparés",
+      "Des pains sans levain",
+      "Des vêtements neufs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 24:1 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-236",
+    "book": "Luc",
+    "chapter": 24,
+    "verseRef": "Luc 24:2",
+    "verseText": "Voir Luc 24:2.",
+    "question": "Que constatent-elles au sujet de la pierre ?",
+    "choices": [
+      "Elle avait été roulée de devant le sépulcre",
+      "Elle était scellée par du plomb",
+      "Elle avait été brisée en deux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 24:2 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-237",
+    "book": "Luc",
+    "chapter": 24,
+    "verseRef": "Luc 24:3",
+    "verseText": "Voir Luc 24:3.",
+    "question": "En entrant, que ne trouvent-elles pas dans le sépulcre ?",
+    "choices": [
+      "Le corps du Seigneur Jésus",
+      "Les aromates",
+      "Les disciples"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 24:3 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-238",
+    "book": "Luc",
+    "chapter": 24,
+    "verseRef": "Luc 24:4",
+    "verseText": "Voir Luc 24:4.",
+    "question": "Combien d’hommes apparaissent près d’elles pendant leur perplexité ?",
+    "choices": [
+      "Deux",
+      "Trois",
+      "Quatre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 24:4 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-239",
+    "book": "Luc",
+    "chapter": 24,
+    "verseRef": "Luc 24:4",
+    "verseText": "Voir Luc 24:4.",
+    "question": "Comment sont décrits les vêtements de ces hommes ?",
+    "choices": [
+      "En habits resplendissants",
+      "En habits de deuil",
+      "En habits de guerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 24:4 (LSG 1910)."
+  },
+  {
+    "id": "luc-N-240",
+    "book": "Luc",
+    "chapter": 24,
+    "verseRef": "Luc 24:5",
+    "verseText": "Voir Luc 24:5.",
+    "question": "Quelle question ces hommes posent-ils au sujet de Jésus ?",
+    "choices": [
+      "Pourquoi cherchez-vous parmi les morts celui qui est vivant ?",
+      "Pourquoi cherchez-vous parmi les vivants celui qui est mort ?",
+      "Pourquoi cherchez-vous au temple celui qui est vivant ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 24:5 (LSG 1910)."
+  }
+]

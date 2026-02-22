@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "matthieu-N-001",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:16",
+    "verseText": "Voir Matthieu 1:16.",
+    "question": "Qui Joseph est-il appelé dans la généalogie de Jésus-Christ ?",
+    "choices": [
+      "Fils de David",
+      "Fils de Jacob",
+      "Fils d’Abraham"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 1:16 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-002",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:5",
+    "verseText": "Voir Matthieu 1:5.",
+    "question": "De qui Boaz est-il dit qu’il l’engendra dans la généalogie ?",
+    "choices": [
+      "De Ruth",
+      "De Rahab",
+      "De Thamar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 1:5 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-003",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:21",
+    "verseText": "Voir Matthieu 1:21.",
+    "question": "Quel nom l’ange ordonne-t-il de donner à l’enfant de Marie ?",
+    "choices": [
+      "Emmanuel",
+      "Jésus",
+      "Jean"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 1:21 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-004",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:23",
+    "verseText": "Voir Matthieu 1:23.",
+    "question": "Quel est le nom donné à Jésus dans l’accomplissement cité : « On l’appellera… » ?",
+    "choices": [
+      "Nazaréen",
+      "Emmanuel",
+      "Christ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 1:23 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-005",
+    "book": "Matthieu",
+    "chapter": 2,
+    "verseRef": "Matthieu 2:1",
+    "verseText": "Voir Matthieu 2:1.",
+    "question": "Dans quel lieu Jésus naît-il selon le récit ?",
+    "choices": [
+      "Bethléhem en Judée",
+      "Nazareth en Galilée",
+      "Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 2:1 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-006",
+    "book": "Matthieu",
+    "chapter": 2,
+    "verseRef": "Matthieu 2:2",
+    "verseText": "Voir Matthieu 2:2.",
+    "question": "Que demandent les mages en arrivant à Jérusalem ?",
+    "choices": [
+      "Où est le roi des Juifs qui vient de naître ?",
+      "Où est le souverain sacrificateur ?",
+      "Où est le prophète Élie ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 2:2 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-007",
+    "book": "Matthieu",
+    "chapter": 2,
+    "verseRef": "Matthieu 2:2",
+    "verseText": "Voir Matthieu 2:2.",
+    "question": "Quel signe les mages disent-ils avoir vu ?",
+    "choices": [
+      "Une nuée lumineuse",
+      "Une étoile",
+      "Un son de trompette"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 2:2 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-008",
+    "book": "Matthieu",
+    "chapter": 2,
+    "verseRef": "Matthieu 2:3",
+    "verseText": "Voir Matthieu 2:3.",
+    "question": "Quel roi est troublé en entendant la question des mages ?",
+    "choices": [
+      "Hérode",
+      "César Auguste",
+      "Hérode Antipas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 2:3 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-009",
+    "book": "Matthieu",
+    "chapter": 2,
+    "verseRef": "Matthieu 2:11",
+    "verseText": "Voir Matthieu 2:11.",
+    "question": "Quel cadeau n’est PAS cité parmi ceux que les mages offrent ?",
+    "choices": [
+      "Or",
+      "Encens",
+      "Myrrhe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Matthieu 2:11 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-010",
+    "book": "Matthieu",
+    "chapter": 2,
+    "verseRef": "Matthieu 2:13",
+    "verseText": "Voir Matthieu 2:13.",
+    "question": "Dans quel pays Joseph reçoit-il l’ordre de fuir avec l’enfant et sa mère ?",
+    "choices": [
+      "Syrie",
+      "Égypte",
+      "Chypre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 2:13 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-011",
+    "book": "Matthieu",
+    "chapter": 2,
+    "verseRef": "Matthieu 2:15",
+    "verseText": "Voir Matthieu 2:15.",
+    "question": "Quel prophète est cité : « J’ai appelé mon fils hors… » ?",
+    "choices": [
+      "Jérémie",
+      "Osée",
+      "Ésaïe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 2:15 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-012",
+    "book": "Matthieu",
+    "chapter": 2,
+    "verseRef": "Matthieu 2:16",
+    "verseText": "Voir Matthieu 2:16.",
+    "question": "Quel âge vise l’ordre d’Hérode lorsqu’il fait mettre à mort les enfants ?",
+    "choices": [
+      "Depuis deux ans et au-dessous",
+      "Depuis un an et au-dessous",
+      "Depuis trois ans et au-dessous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 2:16 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-013",
+    "book": "Matthieu",
+    "chapter": 2,
+    "verseRef": "Matthieu 2:18",
+    "verseText": "Voir Matthieu 2:18.",
+    "question": "Quel lieu est mentionné dans la lamentation : « Rachel pleure ses enfants » ?",
+    "choices": [
+      "Rama",
+      "Béthel",
+      "Sichem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 2:18 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-014",
+    "book": "Matthieu",
+    "chapter": 2,
+    "verseRef": "Matthieu 2:23",
+    "verseText": "Voir Matthieu 2:23.",
+    "question": "Après la mort d’Hérode, où Joseph s’établit-il ?",
+    "choices": [
+      "Capernaüm",
+      "Nazareth",
+      "Bethsaïda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 2:23 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-015",
+    "book": "Matthieu",
+    "chapter": 3,
+    "verseRef": "Matthieu 3:4",
+    "verseText": "Voir Matthieu 3:4.",
+    "question": "Comment Jean-Baptiste est-il décrit quant à son vêtement ?",
+    "choices": [
+      "Lin fin",
+      "Poil de chameau",
+      "Peau de brebis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 3:4 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-016",
+    "book": "Matthieu",
+    "chapter": 3,
+    "verseRef": "Matthieu 3:4",
+    "verseText": "Voir Matthieu 3:4.",
+    "question": "Que mange Jean-Baptiste dans le désert ?",
+    "choices": [
+      "Sauterelles et miel sauvage",
+      "Pain d’orge et poisson",
+      "Figues et raisins secs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 3:4 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-017",
+    "book": "Matthieu",
+    "chapter": 3,
+    "verseRef": "Matthieu 3:11",
+    "verseText": "Voir Matthieu 3:11.",
+    "question": "Que dit Jean-Baptiste au sujet de celui qui vient après lui ?",
+    "choices": [
+      "Il est moins puissant que moi",
+      "Il est plus puissant que moi",
+      "Il n’est pas connu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 3:11 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-018",
+    "book": "Matthieu",
+    "chapter": 3,
+    "verseRef": "Matthieu 3:16",
+    "verseText": "Voir Matthieu 3:16.",
+    "question": "Quel signe apparaît lorsque Jésus est baptisé ?",
+    "choices": [
+      "Une colombe descendant",
+      "Une montagne tremble",
+      "Des pierres se fendent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 3:16 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-019",
+    "book": "Matthieu",
+    "chapter": 3,
+    "verseRef": "Matthieu 3:17",
+    "verseText": "Voir Matthieu 3:17.",
+    "question": "Quelle parole vient des cieux lors du baptême de Jésus ?",
+    "choices": [
+      "Celui-ci est mon Fils bien-aimé, en qui j’ai mis toute mon affection",
+      "Celui-ci est mon serviteur, je le soutiendrai",
+      "Celui-ci est le roi d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 3:17 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-020",
+    "book": "Matthieu",
+    "chapter": 4,
+    "verseRef": "Matthieu 4:2",
+    "verseText": "Voir Matthieu 4:2.",
+    "question": "Combien de jours Jésus jeûne-t-il au désert ?",
+    "choices": [
+      "Trente",
+      "Quarante",
+      "Cinquante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 4:2 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-021",
+    "book": "Matthieu",
+    "chapter": 4,
+    "verseRef": "Matthieu 4:4",
+    "verseText": "Voir Matthieu 4:4.",
+    "question": "Quelle réponse Jésus donne-t-il : « L’homme ne vivra pas de pain seulement, mais… » ?",
+    "choices": [
+      "De tout ce qui réjouit le cœur",
+      "De toute parole qui sort de la bouche de Dieu",
+      "De toute œuvre accomplie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 4:4 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-022",
+    "book": "Matthieu",
+    "chapter": 4,
+    "verseRef": "Matthieu 4:13",
+    "verseText": "Voir Matthieu 4:13.",
+    "question": "Dans quelle ville Jésus vient-il habiter après avoir quitté Nazareth ?",
+    "choices": [
+      "Capernaüm",
+      "Béthanie",
+      "Césarée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 4:13 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-023",
+    "book": "Matthieu",
+    "chapter": 4,
+    "verseRef": "Matthieu 4:18-19",
+    "verseText": "Voir Matthieu 4:18-19.",
+    "question": "Quels premiers disciples Jésus appelle-t-il en leur disant « Suivez-moi » ?",
+    "choices": [
+      "Pierre et André",
+      "Jacques et Jean",
+      "Philippe et Barthélemy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 4:18-19 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-024",
+    "book": "Matthieu",
+    "chapter": 4,
+    "verseRef": "Matthieu 4:19",
+    "verseText": "Voir Matthieu 4:19.",
+    "question": "Quelle activité Jésus promet-il à ceux qu’il appelle : « Je vous ferai… » ?",
+    "choices": [
+      "Moissonneurs",
+      "Pêcheurs d’hommes",
+      "Juges d’Israël"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 4:19 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-025",
+    "book": "Matthieu",
+    "chapter": 5,
+    "verseRef": "Matthieu 5:1",
+    "verseText": "Voir Matthieu 5:1.",
+    "question": "Où Jésus monte-t-il pour enseigner en voyant la foule ?",
+    "choices": [
+      "Sur la mer",
+      "Sur la montagne",
+      "Dans le désert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 5:1 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-026",
+    "book": "Matthieu",
+    "chapter": 5,
+    "verseRef": "Matthieu 5:3",
+    "verseText": "Voir Matthieu 5:3.",
+    "question": "Qui Jésus appelle « heureux » car « le royaume des cieux est à eux » ?",
+    "choices": [
+      "Ceux qui ont faim et soif de la justice",
+      "Les pauvres en esprit",
+      "Les miséricordieux"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 5:3 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-027",
+    "book": "Matthieu",
+    "chapter": 5,
+    "verseRef": "Matthieu 5:13",
+    "verseText": "Voir Matthieu 5:13.",
+    "question": "Quelle image Jésus emploie pour ses disciples : « Vous êtes… » ?",
+    "choices": [
+      "La lampe du temple",
+      "Le sel de la terre",
+      "Le pain du ciel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 5:13 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-028",
+    "book": "Matthieu",
+    "chapter": 6,
+    "verseRef": "Matthieu 6:9",
+    "verseText": "Voir Matthieu 6:9.",
+    "question": "Dans l’enseignement sur la prière, comment Jésus nomme-t-il Dieu ?",
+    "choices": [
+      "Père",
+      "Seigneur des armées",
+      "Roi d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 6:9 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-029",
+    "book": "Matthieu",
+    "chapter": 6,
+    "verseRef": "Matthieu 6:19",
+    "verseText": "Voir Matthieu 6:19.",
+    "question": "Quel avertissement Jésus donne-t-il au sujet des trésors ?",
+    "choices": [
+      "Ils s’évanouissent comme la vapeur",
+      "La teigne et la rouille les détruisent",
+      "Ils attirent le feu du ciel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 6:19 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-030",
+    "book": "Matthieu",
+    "chapter": 6,
+    "verseRef": "Matthieu 6:26",
+    "verseText": "Voir Matthieu 6:26.",
+    "question": "Quel oiseau Jésus cite-t-il pour parler de la nourriture donnée par le Père ?",
+    "choices": [
+      "Les colombes",
+      "Les oiseaux du ciel",
+      "Les corbeaux"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 6:26 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-031",
+    "book": "Matthieu",
+    "chapter": 6,
+    "verseRef": "Matthieu 6:28",
+    "verseText": "Voir Matthieu 6:28.",
+    "question": "Quelle plante Jésus cite-t-il pour parler du vêtement que Dieu donne ?",
+    "choices": [
+      "Les lis des champs",
+      "Les roses de Saron",
+      "Les vignes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 6:28 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-032",
+    "book": "Matthieu",
+    "chapter": 7,
+    "verseRef": "Matthieu 7:1",
+    "verseText": "Voir Matthieu 7:1.",
+    "question": "Quel principe Jésus donne-t-il sur le jugement ?",
+    "choices": [
+      "Ne jugez point, afin que vous ne soyez point jugés",
+      "Jugez avec rigueur, afin d’être justes",
+      "Ne répondez jamais au méchant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 7:1 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-033",
+    "book": "Matthieu",
+    "chapter": 7,
+    "verseRef": "Matthieu 7:5",
+    "verseText": "Voir Matthieu 7:5.",
+    "question": "Quel exemple Jésus donne-t-il avant d’ôter la paille du frère ?",
+    "choices": [
+      "Ôter la poutre de son œil",
+      "Jeûner sept jours",
+      "Offrir un sacrifice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 7:5 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-034",
+    "book": "Matthieu",
+    "chapter": 7,
+    "verseRef": "Matthieu 7:13-14",
+    "verseText": "Voir Matthieu 7:13-14.",
+    "question": "Quel contraste Jésus fait-il entre deux voies ?",
+    "choices": [
+      "Large et étroite",
+      "Haute et basse",
+      "Proche et lointaine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 7:13-14 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-035",
+    "book": "Matthieu",
+    "chapter": 7,
+    "verseRef": "Matthieu 7:24-25",
+    "verseText": "Voir Matthieu 7:24-25.",
+    "question": "Quelle maison subsiste quand vient la tempête selon l’image de Jésus ?",
+    "choices": [
+      "Celle bâtie sur le sable",
+      "Celle bâtie sur le roc",
+      "Celle bâtie sur la paille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 7:24-25 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-036",
+    "book": "Matthieu",
+    "chapter": 8,
+    "verseRef": "Matthieu 8:4",
+    "verseText": "Voir Matthieu 8:4.",
+    "question": "Après avoir guéri un lépreux, que Jésus lui ordonne-t-il de faire ?",
+    "choices": [
+      "Aller se montrer au sacrificateur",
+      "Retourner à sa maison en secret",
+      "Aller annoncer dans les villes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 8:4 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-037",
+    "book": "Matthieu",
+    "chapter": 8,
+    "verseRef": "Matthieu 8:10",
+    "verseText": "Voir Matthieu 8:10.",
+    "question": "Dans le récit du centenier, que loue Jésus particulièrement ?",
+    "choices": [
+      "Sa richesse",
+      "Sa foi",
+      "Son jeûne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 8:10 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-038",
+    "book": "Matthieu",
+    "chapter": 8,
+    "verseRef": "Matthieu 8:26-27",
+    "verseText": "Voir Matthieu 8:26-27.",
+    "question": "Quel miracle Jésus accomplit sur la mer qui étonne les disciples ?",
+    "choices": [
+      "Il change l’eau en vin",
+      "Il apaise les vents et la mer",
+      "Il fait surgir du pain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 8:26-27 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-039",
+    "book": "Matthieu",
+    "chapter": 8,
+    "verseRef": "Matthieu 8:32",
+    "verseText": "Voir Matthieu 8:32.",
+    "question": "Dans le pays des Gadaréniens, où entrent les démons ?",
+    "choices": [
+      "Dans un troupeau de brebis",
+      "Dans un troupeau de pourceaux",
+      "Dans des chiens errants"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 8:32 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-040",
+    "book": "Matthieu",
+    "chapter": 9,
+    "verseRef": "Matthieu 9:9",
+    "verseText": "Voir Matthieu 9:9.",
+    "question": "Quel métier Jésus voit-il exercer par Matthieu au moment de l’appeler ?",
+    "choices": [
+      "Pêcheur",
+      "Publicain au bureau des péages",
+      "Berger"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 9:9 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-041",
+    "book": "Matthieu",
+    "chapter": 9,
+    "verseRef": "Matthieu 9:12",
+    "verseText": "Voir Matthieu 9:12.",
+    "question": "Quel proverbe Jésus cite-t-il : « Ce ne sont pas… » ?",
+    "choices": [
+      "Les pauvres qui ont besoin de médecin",
+      "Les bien portants qui ont besoin de médecin",
+      "Les enfants qui ont besoin de pain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 9:12 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-042",
+    "book": "Matthieu",
+    "chapter": 9,
+    "verseRef": "Matthieu 9:25",
+    "verseText": "Voir Matthieu 9:25.",
+    "question": "Quel ordre Jésus donne-t-il à la fille du chef, avant qu’elle se lève ?",
+    "choices": [
+      "Lève-toi",
+      "Réjouis-toi",
+      "Chante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 9:25 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-043",
+    "book": "Matthieu",
+    "chapter": 9,
+    "verseRef": "Matthieu 9:27",
+    "verseText": "Voir Matthieu 9:27.",
+    "question": "Quel titre deux aveugles donnent-ils à Jésus en criant vers lui ?",
+    "choices": [
+      "Fils de David",
+      "Fils d’Abraham",
+      "Fils d’Aaron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 9:27 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-044",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:5",
+    "verseText": "Voir Matthieu 10:5.",
+    "question": "Quand Jésus envoie les douze, où leur dit-il de ne pas aller ?",
+    "choices": [
+      "Vers les brebis perdues de la maison d’Israël",
+      "Chez les païens et dans les villes des Samaritains",
+      "Vers les villes de Juda seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 10:5 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-045",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:7",
+    "verseText": "Voir Matthieu 10:7.",
+    "question": "Quel message les douze doivent-ils prêcher ?",
+    "choices": [
+      "Le royaume des cieux est proche",
+      "Le jugement est déjà venu",
+      "Le temple sera rebâti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:7 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-046",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:16",
+    "verseText": "Voir Matthieu 10:16.",
+    "question": "Quel animal Jésus cite-t-il : « Je vous envoie comme des brebis au milieu… » ?",
+    "choices": [
+      "Des lions",
+      "Des loups",
+      "Des ours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 10:16 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-047",
+    "book": "Matthieu",
+    "chapter": 11,
+    "verseRef": "Matthieu 11:11",
+    "verseText": "Voir Matthieu 11:11.",
+    "question": "Quel signe identifie Jean-Baptiste aux yeux de Jésus : « parmi ceux qui sont nés de femmes » ?",
+    "choices": [
+      "Nul n’a paru de plus grand que Jean-Baptiste",
+      "Nul n’a jeûné plus longtemps que Jean-Baptiste",
+      "Nul n’a souffert plus que Jean-Baptiste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 11:11 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-048",
+    "book": "Matthieu",
+    "chapter": 11,
+    "verseRef": "Matthieu 11:28",
+    "verseText": "Voir Matthieu 11:28.",
+    "question": "Quelle invitation Jésus adresse-t-il aux « fatigués et chargés » ?",
+    "choices": [
+      "Venez à moi",
+      "Allez au temple",
+      "Retournez en Galilée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 11:28 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-049",
+    "book": "Matthieu",
+    "chapter": 12,
+    "verseRef": "Matthieu 12:1",
+    "verseText": "Voir Matthieu 12:1.",
+    "question": "Quel jour les disciples arrachent-ils des épis en marchant ?",
+    "choices": [
+      "Le sabbat",
+      "Le premier jour de la semaine",
+      "Le jour des expiations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 12:1 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-050",
+    "book": "Matthieu",
+    "chapter": 12,
+    "verseRef": "Matthieu 12:39",
+    "verseText": "Voir Matthieu 12:39.",
+    "question": "Quel signe Jésus promet-il aux scribes et aux pharisiens, selon sa réponse ?",
+    "choices": [
+      "Le signe de Jonas",
+      "Le signe de Moïse",
+      "Le signe d’Élie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 12:39 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-051",
+    "book": "Matthieu",
+    "chapter": 12,
+    "verseRef": "Matthieu 12:50",
+    "verseText": "Voir Matthieu 12:50.",
+    "question": "Selon Jésus, qui est sa mère et qui sont ses frères ?",
+    "choices": [
+      "Ceux qui gardent le sabbat",
+      "Ceux qui font la volonté de son Père",
+      "Ceux qui donnent l’aumône"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 12:50 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-052",
+    "book": "Matthieu",
+    "chapter": 13,
+    "verseRef": "Matthieu 13:22",
+    "verseText": "Voir Matthieu 13:22.",
+    "question": "Dans la parabole du semeur, quelle cause rend la semence stérile parmi les épines ?",
+    "choices": [
+      "Les soucis du siècle et la séduction des richesses",
+      "La faim et la guerre",
+      "Le froid et la sécheresse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 13:22 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-053",
+    "book": "Matthieu",
+    "chapter": 13,
+    "verseRef": "Matthieu 13:38",
+    "verseText": "Voir Matthieu 13:38.",
+    "question": "Dans la parabole de l’ivraie, qui est identifié comme « le champ » ?",
+    "choices": [
+      "Le temple",
+      "Le monde",
+      "Israël"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 13:38 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-054",
+    "book": "Matthieu",
+    "chapter": 14,
+    "verseRef": "Matthieu 14:21",
+    "verseText": "Voir Matthieu 14:21.",
+    "question": "Quel miracle Jésus accomplit avec cinq pains et deux poissons ?",
+    "choices": [
+      "Il nourrit cinq mille hommes, sans compter les femmes et les enfants",
+      "Il nourrit quatre mille hommes, sans compter les femmes et les enfants",
+      "Il nourrit mille hommes, sans compter les femmes et les enfants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 14:21 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-055",
+    "book": "Matthieu",
+    "chapter": 14,
+    "verseRef": "Matthieu 14:29",
+    "verseText": "Voir Matthieu 14:29.",
+    "question": "Sur quoi Pierre marche-t-il quand Jésus lui dit « Viens » ?",
+    "choices": [
+      "Sur la terre",
+      "Sur les eaux",
+      "Sur le sable"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 14:29 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-056",
+    "book": "Matthieu",
+    "chapter": 15,
+    "verseRef": "Matthieu 15:2",
+    "verseText": "Voir Matthieu 15:2.",
+    "question": "Quelle tradition est reprochée aux pharisiens au sujet des mains ?",
+    "choices": [
+      "Ne pas se laver avant de manger",
+      "Ne pas jeûner avant de manger",
+      "Ne pas prier avant de manger"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 15:2 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-057",
+    "book": "Matthieu",
+    "chapter": 15,
+    "verseRef": "Matthieu 15:11",
+    "verseText": "Voir Matthieu 15:11.",
+    "question": "Quel terme Jésus emploie : « Ce n’est pas ce qui entre dans la bouche… » ?",
+    "choices": [
+      "Qui sanctifie l’homme",
+      "Qui souille l’homme",
+      "Qui couronne l’homme"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 15:11 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-058",
+    "book": "Matthieu",
+    "chapter": 16,
+    "verseRef": "Matthieu 16:16",
+    "verseText": "Voir Matthieu 16:16.",
+    "question": "Dans le récit de Césarée de Philippe, que confesse Pierre au sujet de Jésus ?",
+    "choices": [
+      "Tu es le prophète annoncé",
+      "Tu es le Christ, le Fils du Dieu vivant",
+      "Tu es le roi d’Israël"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 16:16 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-059",
+    "book": "Matthieu",
+    "chapter": 16,
+    "verseRef": "Matthieu 16:18",
+    "verseText": "Voir Matthieu 16:18.",
+    "question": "Quelle promesse Jésus fait-il concernant « les portes du séjour des morts » ?",
+    "choices": [
+      "Elles prévaudront contre elle",
+      "Elles ne prévaudront point contre elle",
+      "Elles l’emporteront pour un temps"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 16:18 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-060",
+    "book": "Matthieu",
+    "chapter": 17,
+    "verseRef": "Matthieu 17:3",
+    "verseText": "Voir Matthieu 17:3.",
+    "question": "Sur la montagne, quels personnages apparaissent parlant avec Jésus ?",
+    "choices": [
+      "Abraham et Isaac",
+      "Moïse et Élie",
+      "David et Salomon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 17:3 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-061",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:6",
+    "verseText": "Voir Matthieu 1:6.",
+    "question": "Quel roi est nommé comme père de David dans la généalogie ?",
+    "choices": [
+      "Jessé",
+      "Obed",
+      "Booz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 1:6 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-062",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:6",
+    "verseText": "Voir Matthieu 1:6.",
+    "question": "Qui est nommé comme père de Salomon dans la généalogie ?",
+    "choices": [
+      "David",
+      "Saül",
+      "Roboam"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 1:6 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-063",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:5",
+    "verseText": "Voir Matthieu 1:5.",
+    "question": "Quelle femme est mentionnée comme mère d’Obed dans la généalogie ?",
+    "choices": [
+      "Rahab",
+      "Ruth",
+      "Bath-Schéba"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 1:5 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-064",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:8",
+    "verseText": "Voir Matthieu 1:8.",
+    "question": "Quel nom est donné au fils d’Asa dans la généalogie ?",
+    "choices": [
+      "Josaphat",
+      "Ézéchias",
+      "Achaz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 1:8 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-065",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:8",
+    "verseText": "Voir Matthieu 1:8.",
+    "question": "Quel nom est donné au fils de Josaphat dans la généalogie ?",
+    "choices": [
+      "Joram",
+      "Ozias",
+      "Joatham"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 1:8 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-066",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:11",
+    "verseText": "Voir Matthieu 1:11.",
+    "question": "Quel nom est donné au fils de Josias dans la généalogie, au temps de la déportation à Babylone ?",
+    "choices": [
+      "Jéchonias",
+      "Zorobabel",
+      "Salathiel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 1:11 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-067",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:13",
+    "verseText": "Voir Matthieu 1:13.",
+    "question": "Quel nom suit immédiatement Zorobabel dans la généalogie ?",
+    "choices": [
+      "Abiud",
+      "Éliakim",
+      "Achim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 1:13 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-068",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:15",
+    "verseText": "Voir Matthieu 1:15.",
+    "question": "Quel nom est donné au père d’Éléazar dans la généalogie ?",
+    "choices": [
+      "Eliud",
+      "Matthan",
+      "Jacob"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 1:15 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-069",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:1",
+    "verseText": "Voir Matthieu 1:1.",
+    "question": "Quel terme décrit l’ouvrage cité : « Livre de la généalogie de… » ?",
+    "choices": [
+      "Jésus-Christ",
+      "Jésus de Nazareth",
+      "Jésus, fils de Joseph"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 1:1 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-070",
+    "book": "Matthieu",
+    "chapter": 1,
+    "verseRef": "Matthieu 1:11",
+    "verseText": "Voir Matthieu 1:11.",
+    "question": "Quel événement est mentionné comme repère : « la déportation à… » ?",
+    "choices": [
+      "Ninive",
+      "Babylone",
+      "Suse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Matthieu 1:11 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-071",
+    "book": "Matthieu",
+    "chapter": 2,
+    "verseRef": "Matthieu 2:22",
+    "verseText": "Voir Matthieu 2:22.",
+    "question": "Quel lieu est mentionné dans le récit comme résidence d’Archélaüs ?",
+    "choices": [
+      "Judée",
+      "Samarie",
+      "Pérée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 2:22 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-072",
+    "book": "Matthieu",
+    "chapter": 2,
+    "verseRef": "Matthieu 2:22",
+    "verseText": "Voir Matthieu 2:22.",
+    "question": "Quel territoire est mentionné comme destination finale de Joseph après avertissement ?",
+    "choices": [
+      "La Galilée",
+      "L’Idumée",
+      "La Décapole"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 2:22 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-073",
+    "book": "Matthieu",
+    "chapter": 3,
+    "verseRef": "Matthieu 3:7",
+    "verseText": "Voir Matthieu 3:7.",
+    "question": "Quel groupe est explicitement cité parmi ceux qui viennent vers Jean pour être baptisés ?",
+    "choices": [
+      "Pharisiens et sadducéens",
+      "Hérodiens et zélotes",
+      "Esséniens et samaritains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 3:7 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-074",
+    "book": "Matthieu",
+    "chapter": 3,
+    "verseRef": "Matthieu 3:8",
+    "verseText": "Voir Matthieu 3:8.",
+    "question": "Quel fruit Jean demande-t-il de produire ?",
+    "choices": [
+      "Un fruit digne de la repentance",
+      "Un fruit digne du sacrifice",
+      "Un fruit digne du sabbat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 3:8 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-075",
+    "book": "Matthieu",
+    "chapter": 3,
+    "verseRef": "Matthieu 3:12",
+    "verseText": "Voir Matthieu 3:12.",
+    "question": "Que Jean annonce-t-il tenir à la main de celui qui vient ?",
+    "choices": [
+      "Le van",
+      "L’épée",
+      "La balance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 3:12 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-076",
+    "book": "Matthieu",
+    "chapter": 3,
+    "verseRef": "Matthieu 3:12",
+    "verseText": "Voir Matthieu 3:12.",
+    "question": "Quel élément est menacé d’être brûlé « d’un feu qui ne s’éteint point » ?",
+    "choices": [
+      "La paille",
+      "Le blé",
+      "La grange"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 3:12 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-077",
+    "book": "Matthieu",
+    "chapter": 4,
+    "verseRef": "Matthieu 4:1",
+    "verseText": "Voir Matthieu 4:1.",
+    "question": "Quel lieu précis est mentionné quand Jésus est conduit pour être tenté ?",
+    "choices": [
+      "Le désert",
+      "Le temple",
+      "La mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 4:1 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-078",
+    "book": "Matthieu",
+    "chapter": 4,
+    "verseRef": "Matthieu 4:2",
+    "verseText": "Voir Matthieu 4:2.",
+    "question": "Quelle expression décrit la condition de Jésus après le jeûne ?",
+    "choices": [
+      "Il eut faim",
+      "Il eut soif",
+      "Il fut accablé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 4:2 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-079",
+    "book": "Matthieu",
+    "chapter": 4,
+    "verseRef": "Matthieu 4:7",
+    "verseText": "Voir Matthieu 4:7.",
+    "question": "Quel texte Jésus cite-t-il pour répondre au défi de se jeter en bas ?",
+    "choices": [
+      "Tu ne tenteras point le Seigneur, ton Dieu",
+      "Tu ne tueras point",
+      "Tu honoreras ton père et ta mère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 4:7 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-080",
+    "book": "Matthieu",
+    "chapter": 4,
+    "verseRef": "Matthieu 4:17",
+    "verseText": "Voir Matthieu 4:17.",
+    "question": "Quelle phrase résume le commencement de la prédication de Jésus ?",
+    "choices": [
+      "Repentez-vous, car le royaume des cieux est proche",
+      "Consolez-vous, car le salut est venu",
+      "Craignez, car le jour est arrivé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 4:17 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-081",
+    "book": "Matthieu",
+    "chapter": 7,
+    "verseRef": "Matthieu 7:24",
+    "verseText": "Voir Matthieu 7:24.",
+    "question": "Quel terme Jésus emploie pour désigner les hommes et femmes qui écouteront et mettront en pratique ses paroles ?",
+    "choices": [
+      "Un homme prudent",
+      "Un homme savant",
+      "Un homme puissant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 7:24 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-082",
+    "book": "Matthieu",
+    "chapter": 7,
+    "verseRef": "Matthieu 7:28",
+    "verseText": "Voir Matthieu 7:28.",
+    "question": "À la fin du discours, comment les foules réagissent-elles à l’enseignement ?",
+    "choices": [
+      "Elles étaient frappées de sa doctrine",
+      "Elles étaient irritées contre lui",
+      "Elles demandaient un signe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 7:28 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-083",
+    "book": "Matthieu",
+    "chapter": 7,
+    "verseRef": "Matthieu 7:29",
+    "verseText": "Voir Matthieu 7:29.",
+    "question": "Quel motif est donné pour l’étonnement : « car il enseignait comme… » ?",
+    "choices": [
+      "Ayant autorité, et non pas comme leurs scribes",
+      "Un prophète du désert",
+      "Un roi sur son trône"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 7:29 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-084",
+    "book": "Matthieu",
+    "chapter": 8,
+    "verseRef": "Matthieu 8:14",
+    "verseText": "Voir Matthieu 8:14.",
+    "question": "Quelle maladie est mentionnée chez la belle-mère de Pierre ?",
+    "choices": [
+      "Une forte fièvre",
+      "La lèpre",
+      "La paralysie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 8:14 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-085",
+    "book": "Matthieu",
+    "chapter": 8,
+    "verseRef": "Matthieu 8:15",
+    "verseText": "Voir Matthieu 8:15.",
+    "question": "Que fait Jésus pour guérir la belle-mère de Pierre ?",
+    "choices": [
+      "Il touche sa main",
+      "Il l’oint d’huile",
+      "Il lui impose un vêtement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 8:15 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-086",
+    "book": "Matthieu",
+    "chapter": 8,
+    "verseRef": "Matthieu 8:16",
+    "verseText": "Voir Matthieu 8:16.",
+    "question": "Quel moment de la journée est précisé lorsque beaucoup de démoniaques sont amenés à Jésus ?",
+    "choices": [
+      "Le soir",
+      "Le matin",
+      "À midi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 8:16 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-087",
+    "book": "Matthieu",
+    "chapter": 8,
+    "verseRef": "Matthieu 8:16",
+    "verseText": "Voir Matthieu 8:16.",
+    "question": "Par quel moyen Jésus chasse-t-il les esprits dans ce passage ?",
+    "choices": [
+      "Par sa parole",
+      "Par l’encens",
+      "Par l’eau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 8:16 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-088",
+    "book": "Matthieu",
+    "chapter": 8,
+    "verseRef": "Matthieu 8:21",
+    "verseText": "Voir Matthieu 8:21.",
+    "question": "Quel disciple demande : « Seigneur, permets-moi d’aller d’abord ensevelir mon père » ?",
+    "choices": [
+      "Un disciple",
+      "Un scribe",
+      "Un pharisien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 8:21 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-089",
+    "book": "Matthieu",
+    "chapter": 8,
+    "verseRef": "Matthieu 8:22",
+    "verseText": "Voir Matthieu 8:22.",
+    "question": "Quelle parole de Jésus répond à cette demande d’ensevelir le père ?",
+    "choices": [
+      "Suis-moi, et laisse les morts ensevelir leurs morts",
+      "Va, et reviens après sept jours",
+      "Va au temple, et offre un don"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 8:22 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-090",
+    "book": "Matthieu",
+    "chapter": 9,
+    "verseRef": "Matthieu 9:3",
+    "verseText": "Voir Matthieu 9:3.",
+    "question": "Quel groupe accuse Jésus de blasphème après qu’il a déclaré le pardon ?",
+    "choices": [
+      "Des scribes",
+      "Des sadducéens",
+      "Des hérodiens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 9:3 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-091",
+    "book": "Matthieu",
+    "chapter": 9,
+    "verseRef": "Matthieu 9:6",
+    "verseText": "Voir Matthieu 9:6.",
+    "question": "Quelle preuve Jésus donne-t-il en guérissant le paralytique ?",
+    "choices": [
+      "Que le Fils de l’homme a sur la terre le pouvoir de pardonner les péchés",
+      "Que la loi est abolie",
+      "Que les sacrifices sont inutiles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 9:6 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-092",
+    "book": "Matthieu",
+    "chapter": 9,
+    "verseRef": "Matthieu 9:9",
+    "verseText": "Voir Matthieu 9:9.",
+    "question": "Quel nom Jésus donne-t-il à Matthieu au moment de l’appel ?",
+    "choices": [
+      "Matthieu",
+      "Lévi",
+      "Nathanaël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 9:9 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-093",
+    "book": "Matthieu",
+    "chapter": 9,
+    "verseRef": "Matthieu 9:13",
+    "verseText": "Voir Matthieu 9:13.",
+    "question": "Quelle expression Jésus cite-t-il : « Je prends plaisir à… » ?",
+    "choices": [
+      "La miséricorde",
+      "La force",
+      "La vengeance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 9:13 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-094",
+    "book": "Matthieu",
+    "chapter": 9,
+    "verseRef": "Matthieu 9:15",
+    "verseText": "Voir Matthieu 9:15.",
+    "question": "Quelle image Jésus utilise-t-il pour expliquer la présence de l’époux ?",
+    "choices": [
+      "Les amis de l’époux",
+      "Les ouvriers de la vigne",
+      "Les sages du conseil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 9:15 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-095",
+    "book": "Matthieu",
+    "chapter": 9,
+    "verseRef": "Matthieu 9:38",
+    "verseText": "Voir Matthieu 9:38.",
+    "question": "Quel ordre Jésus donne-t-il aux disciples au sujet de la moisson ?",
+    "choices": [
+      "Priez donc le maître de la moisson d’envoyer des ouvriers dans sa moisson",
+      "Cherchez des armes pour vous défendre",
+      "Attendez dans le désert jusqu’à la nuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 9:38 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-096",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:1",
+    "verseText": "Voir Matthieu 10:1.",
+    "question": "Quel pouvoir Jésus donne-t-il aux douze au moment de les appeler ?",
+    "choices": [
+      "Chasser les esprits impurs, et guérir toute maladie et toute infirmité",
+      "Juger les nations immédiatement",
+      "Faire descendre le feu du ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:1 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-097",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:3",
+    "verseText": "Voir Matthieu 10:3.",
+    "question": "Qui est nommé « le publicain » dans la liste des douze ?",
+    "choices": [
+      "Matthieu",
+      "Pierre",
+      "Thomas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:3 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-098",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:4",
+    "verseText": "Voir Matthieu 10:4.",
+    "question": "Quel nom est donné au traître dans la liste des douze ?",
+    "choices": [
+      "Judas l’Iscariot",
+      "Simon le Cananéen",
+      "Jacques, fils d’Alphée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:4 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-099",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:8",
+    "verseText": "Voir Matthieu 10:8.",
+    "question": "Quelle consigne Jésus donne-t-il au sujet des guérisons et des dons reçus ?",
+    "choices": [
+      "Vous avez reçu gratuitement, donnez gratuitement",
+      "Vous avez reçu par mérite, donnez par mérite",
+      "Vous avez reçu par tradition, gardez pour vous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:8 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-100",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:10",
+    "verseText": "Voir Matthieu 10:10.",
+    "question": "Quel objet Jésus dit-il de ne pas prendre pour le voyage ?",
+    "choices": [
+      "Une tunique",
+      "Une épée",
+      "Une lampe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:10 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-101",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:13",
+    "verseText": "Voir Matthieu 10:13.",
+    "question": "Quel signe doit marquer la maison qui reçoit les envoyés ?",
+    "choices": [
+      "Que la paix vienne sur elle",
+      "Qu’elle soit consacrée par un sacrifice",
+      "Qu’elle soit fermée trois jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:13 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-102",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:14",
+    "verseText": "Voir Matthieu 10:14.",
+    "question": "Quelle action est ordonnée contre une ville qui ne reçoit pas les envoyés ?",
+    "choices": [
+      "Secouer la poussière de ses pieds",
+      "Briser ses portes",
+      "S’asseoir à sa porte et pleurer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:14 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-103",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:15",
+    "verseText": "Voir Matthieu 10:15.",
+    "question": "Quel sort Jésus dit-il plus supportable au jour du jugement que celui d’une ville qui refuse les envoyés ?",
+    "choices": [
+      "Le pays de Sodome et de Gomorrhe",
+      "La ville de Ninive",
+      "La terre d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:15 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-104",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:28",
+    "verseText": "Voir Matthieu 10:28.",
+    "question": "Que Jésus dit-il qu’il ne faut pas craindre de ceux qui tuent le corps ?",
+    "choices": [
+      "Ils ne peuvent tuer l’âme",
+      "Ils ne peuvent toucher la maison",
+      "Ils ne peuvent arrêter la pluie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:28 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-105",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:28",
+    "verseText": "Voir Matthieu 10:28.",
+    "question": "Quel être Jésus dit-il qu’il faut craindre ?",
+    "choices": [
+      "Celui qui peut faire périr l’âme et le corps dans la géhenne",
+      "Celui qui possède les richesses",
+      "Celui qui connaît les secrets"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:28 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-106",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:29",
+    "verseText": "Voir Matthieu 10:29.",
+    "question": "Combien de passereaux Jésus mentionne-t-il être vendus pour un as ?",
+    "choices": [
+      "Deux",
+      "Trois",
+      "Cinq"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:29 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-107",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:30",
+    "verseText": "Voir Matthieu 10:30.",
+    "question": "Quel détail Jésus ajoute-t-il au sujet des cheveux des disciples ?",
+    "choices": [
+      "Ils sont tous comptés",
+      "Ils sont tous tressés",
+      "Ils sont tous cachés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:30 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-108",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:34",
+    "verseText": "Voir Matthieu 10:34.",
+    "question": "Qu’est-ce que Jésus dit être venu apporter, selon sa déclaration explicite ?",
+    "choices": [
+      "Une épée",
+      "Une couronne",
+      "Un temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:34 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-109",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:35",
+    "verseText": "Voir Matthieu 10:35.",
+    "question": "Quel lien familial Jésus cite-t-il comme pouvant devenir opposition ?",
+    "choices": [
+      "L’homme contre son père",
+      "La mère contre son frère",
+      "Le fils contre son oncle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:35 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-110",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:37",
+    "verseText": "Voir Matthieu 10:37.",
+    "question": "Quelle condition Jésus pose-t-il à celui qui aime plus qu’il ne faut ses proches ?",
+    "choices": [
+      "Il n’est pas digne de moi",
+      "Il est déjà justifié",
+      "Il sera exempté de tribulation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:37 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-111",
+    "book": "Matthieu",
+    "chapter": 10,
+    "verseRef": "Matthieu 10:39",
+    "verseText": "Voir Matthieu 10:39.",
+    "question": "Quel principe Jésus donne-t-il sur « trouver » et « perdre » sa vie ?",
+    "choices": [
+      "Celui qui aura conservé sa vie la perdra, et celui qui aura perdu sa vie à cause de moi la retrouvera",
+      "Celui qui aura gagné sa vie la gardera toujours",
+      "Celui qui aura perdu sa vie ne la retrouvera jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 10:39 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-112",
+    "book": "Matthieu",
+    "chapter": 11,
+    "verseRef": "Matthieu 11:10",
+    "verseText": "Voir Matthieu 11:10.",
+    "question": "Quel titre Jésus attribue-t-il au messager annoncé : « Voici, j’envoie mon messager… » ?",
+    "choices": [
+      "Jean-Baptiste",
+      "Zacharie",
+      "Élisée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 11:10 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-113",
+    "book": "Matthieu",
+    "chapter": 11,
+    "verseRef": "Matthieu 11:17",
+    "verseText": "Voir Matthieu 11:17.",
+    "question": "Quels instruments Jésus mentionne-t-il pour décrire la réaction à la « flûte » ?",
+    "choices": [
+      "Vous n’avez pas dansé",
+      "Vous n’avez pas chanté",
+      "Vous n’avez pas prié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 11:17 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-114",
+    "book": "Matthieu",
+    "chapter": 11,
+    "verseRef": "Matthieu 11:18",
+    "verseText": "Voir Matthieu 11:18.",
+    "question": "Quel reproche est fait à Jean au sujet de sa manière de vivre ?",
+    "choices": [
+      "Il a un démon",
+      "Il est un blasphémateur",
+      "Il est un voleur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 11:18 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-115",
+    "book": "Matthieu",
+    "chapter": 11,
+    "verseRef": "Matthieu 11:19",
+    "verseText": "Voir Matthieu 11:19.",
+    "question": "Quel reproche est fait au Fils de l’homme dans la comparaison ?",
+    "choices": [
+      "Mangeur et buveur",
+      "Taciturne et muet",
+      "Pauvre et infirme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 11:19 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-116",
+    "book": "Matthieu",
+    "chapter": 11,
+    "verseRef": "Matthieu 11:19",
+    "verseText": "Voir Matthieu 11:19.",
+    "question": "Comment Jésus conclut-il la phrase : « La sagesse a été justifiée par… » ?",
+    "choices": [
+      "Ses œuvres",
+      "Ses paroles",
+      "Ses miracles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 11:19 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-117",
+    "book": "Matthieu",
+    "chapter": 12,
+    "verseRef": "Matthieu 12:15",
+    "verseText": "Voir Matthieu 12:15.",
+    "question": "Quel état Jésus décrit-il des foules qui viennent à lui et il les guérit tous ?",
+    "choices": [
+      "Ils le suivirent, et il les guérit tous",
+      "Ils le rejetèrent, et il s’en alla",
+      "Ils l’attachèrent, et il se tut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 12:15 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-118",
+    "book": "Matthieu",
+    "chapter": 12,
+    "verseRef": "Matthieu 12:19",
+    "verseText": "Voir Matthieu 12:19.",
+    "question": "Dans la citation d’Ésaïe, quel mot est employé : « Il ne contestera point… » ?",
+    "choices": [
+      "Il ne criera point",
+      "Il ne jurera point",
+      "Il ne mangera point"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 12:19 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-119",
+    "book": "Matthieu",
+    "chapter": 12,
+    "verseRef": "Matthieu 12:20",
+    "verseText": "Voir Matthieu 12:20.",
+    "question": "Dans la même citation, quel objet est mentionné : « Il n’éteindra point… » ?",
+    "choices": [
+      "Le lumignon qui fume",
+      "La lampe du temple",
+      "Le feu de l’autel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 12:20 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-120",
+    "book": "Matthieu",
+    "chapter": 12,
+    "verseRef": "Matthieu 12:20",
+    "verseText": "Voir Matthieu 12:20.",
+    "question": "Quelle image est employée : « Le roseau cassé… » ?",
+    "choices": [
+      "Il ne le rompra point",
+      "Il le brisera entièrement",
+      "Il l’attachera avec des cordes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 12:20 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-121",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:2",
+    "verseText": "Voir Matthieu 20:2.",
+    "question": "Dans la parabole des ouvriers, quel salaire le maître convient-il avec ceux embauchés dès le matin ?",
+    "choices": [
+      "Un denier par jour",
+      "Deux deniers par jour",
+      "Un sicle par jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:2 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-122",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:3",
+    "verseText": "Voir Matthieu 20:3.",
+    "question": "À quelle heure le maître voit-il d’autres ouvriers « sur la place sans rien faire » pour la première fois après le matin ?",
+    "choices": [
+      "Vers la troisième heure",
+      "Vers la sixième heure",
+      "Vers la neuvième heure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:3 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-123",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:6",
+    "verseText": "Voir Matthieu 20:6.",
+    "question": "À quelle heure le maître sort-il encore et trouve d’autres ouvriers pour sa vigne ?",
+    "choices": [
+      "Vers la onzième heure",
+      "Vers la septième heure",
+      "Vers la cinquième heure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:6 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-124",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:7",
+    "verseText": "Voir Matthieu 20:7.",
+    "question": "Que répondent les ouvriers restés sur la place quand on leur demande pourquoi ils y sont ?",
+    "choices": [
+      "Parce que personne ne nous a loués",
+      "Parce que nous attendons un signe",
+      "Parce que nous revenons du champ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:7 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-125",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:8",
+    "verseText": "Voir Matthieu 20:8.",
+    "question": "Dans quel ordre le maître demande-t-il de payer les ouvriers ?",
+    "choices": [
+      "Des derniers jusqu’aux premiers",
+      "Des premiers jusqu’aux derniers",
+      "Selon l’âge des ouvriers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:8 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-126",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:12",
+    "verseText": "Voir Matthieu 20:12.",
+    "question": "Quel reproche les ouvriers du matin adressent-ils au maître au sujet des derniers ?",
+    "choices": [
+      "Tu les as traités comme nous",
+      "Tu les as renvoyés sans salaire",
+      "Tu leur as donné trop peu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:12 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-127",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:15",
+    "verseText": "Voir Matthieu 20:15.",
+    "question": "Quelle question le maître pose-t-il pour justifier sa générosité ?",
+    "choices": [
+      "Ton œil est-il mauvais, parce que je suis bon ?",
+      "Ton cœur est-il dur, parce que je suis juste ?",
+      "Ta langue est-elle menteuse, parce que je suis vrai ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:15 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-128",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:16",
+    "verseText": "Voir Matthieu 20:16.",
+    "question": "Quel principe Jésus énonce-t-il immédiatement après cette parabole ?",
+    "choices": [
+      "Ainsi les derniers seront les premiers, et les premiers seront les derniers",
+      "Ainsi les forts domineront les faibles",
+      "Ainsi les sages hériteront seuls"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:16 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-129",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:17",
+    "verseText": "Voir Matthieu 20:17.",
+    "question": "En montant à Jérusalem, combien de disciples Jésus prend-il à part ?",
+    "choices": [
+      "Les douze",
+      "Les soixante-dix",
+      "Les trois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:17 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-130",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:18",
+    "verseText": "Voir Matthieu 20:18.",
+    "question": "À qui Jésus annonce-t-il que le Fils de l’homme sera livré ?",
+    "choices": [
+      "Aux principaux sacrificateurs et aux scribes",
+      "Aux publicains et aux soldats",
+      "Aux Pharisiens et aux Hérodiens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:18 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-131",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:18",
+    "verseText": "Voir Matthieu 20:18.",
+    "question": "Quelle peine est annoncée par Jésus comme décision des chefs ?",
+    "choices": [
+      "Ils le condamneront à mort",
+      "Ils le banniront du pays",
+      "Ils le mettront en prison sept jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:18 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-132",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:19",
+    "verseText": "Voir Matthieu 20:19.",
+    "question": "À quelles nations Jésus dit-il que le Fils de l’homme sera livré ensuite ?",
+    "choices": [
+      "Aux païens",
+      "Aux Samaritains",
+      "Aux Égyptiens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:19 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-133",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:19",
+    "verseText": "Voir Matthieu 20:19.",
+    "question": "Quelle action précise Jésus annonce-t-il après ces souffrances ?",
+    "choices": [
+      "Il ressuscitera le troisième jour",
+      "Il montera sur le trône de David",
+      "Il se retirera au désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:19 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-134",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:20",
+    "verseText": "Voir Matthieu 20:20.",
+    "question": "Qui vient avec une demande concernant deux places d’honneur ?",
+    "choices": [
+      "La mère des fils de Zébédée",
+      "La femme de Pierre",
+      "La sœur de Lazare"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:20 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-135",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:21",
+    "verseText": "Voir Matthieu 20:21.",
+    "question": "Que demande-t-elle pour ses deux fils ?",
+    "choices": [
+      "Être assis l’un à droite et l’autre à gauche dans le royaume",
+      "Recevoir des couronnes d’or",
+      "Juger les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:21 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-136",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:22",
+    "verseText": "Voir Matthieu 20:22.",
+    "question": "Quel terme Jésus emploie-t-il en parlant de ce qu’ils doivent boire ?",
+    "choices": [
+      "La coupe",
+      "Le vin nouveau",
+      "L’eau du Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:22 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-137",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:26",
+    "verseText": "Voir Matthieu 20:26.",
+    "question": "Quelle règle Jésus donne-t-il sur la grandeur parmi ses disciples ?",
+    "choices": [
+      "Celui qui veut être grand sera votre serviteur",
+      "Celui qui veut être grand prendra la première place",
+      "Celui qui veut être grand amassera des trésors"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:26 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-138",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:28",
+    "verseText": "Voir Matthieu 20:28.",
+    "question": "Quel but Jésus donne-t-il à sa venue concernant sa vie ?",
+    "choices": [
+      "Donner sa vie comme la rançon de plusieurs",
+      "Établir un royaume terrestre immédiat",
+      "Réformer le temple par la force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:28 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-139",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:30",
+    "verseText": "Voir Matthieu 20:30.",
+    "question": "En quittant Jéricho, combien d’aveugles sont assis au bord du chemin ?",
+    "choices": [
+      "Deux",
+      "Un",
+      "Trois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:30 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-140",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:30",
+    "verseText": "Voir Matthieu 20:30.",
+    "question": "Que crient-ils en appelant Jésus ?",
+    "choices": [
+      "Seigneur, aie pitié de nous, Fils de David !",
+      "Rabbi, enseigne-nous la loi !",
+      "Seigneur, donne-nous du pain !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:30 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-141",
+    "book": "Matthieu",
+    "chapter": 20,
+    "verseRef": "Matthieu 20:34",
+    "verseText": "Voir Matthieu 20:34.",
+    "question": "Quel geste de Jésus est mentionné avant leur guérison ?",
+    "choices": [
+      "Il toucha leurs yeux",
+      "Il leur imposa un manteau",
+      "Il leur donna de l’huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 20:34 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-142",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:1",
+    "verseText": "Voir Matthieu 21:1.",
+    "question": "Quel village est cité quand Jésus envoie deux disciples chercher une monture ?",
+    "choices": [
+      "Bethphagé",
+      "Béthanie",
+      "Emmaüs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:1 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-143",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:3",
+    "verseText": "Voir Matthieu 21:3.",
+    "question": "Quelle réponse les disciples doivent-ils donner si quelqu’un les interroge ?",
+    "choices": [
+      "Le Seigneur en a besoin",
+      "Le prophète l’a ordonné",
+      "Le roi l’exige"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:3 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-144",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:7",
+    "verseText": "Voir Matthieu 21:7.",
+    "question": "Quels animaux les disciples amènent-ils ?",
+    "choices": [
+      "L’ânesse et l’ânon",
+      "Le cheval et le mulet",
+      "Le bœuf et l’âne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:7 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-145",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:9",
+    "verseText": "Voir Matthieu 21:9.",
+    "question": "Quel cri la foule adresse-t-elle à Jésus lorsqu’il entre ?",
+    "choices": [
+      "Hosanna au Fils de David !",
+      "Gloire au roi de Rome !",
+      "Paix à César !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:9 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-146",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:10",
+    "verseText": "Voir Matthieu 21:10.",
+    "question": "Quand la ville est émue, que demande-t-on ?",
+    "choices": [
+      "Qui est celui-ci ?",
+      "Où est le temple ?",
+      "Quel est son prix ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:10 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-147",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:11",
+    "verseText": "Voir Matthieu 21:11.",
+    "question": "Comment la foule identifie-t-elle Jésus ?",
+    "choices": [
+      "Le prophète, de Nazareth en Galilée",
+      "Le sacrificateur, de Bethléhem en Judée",
+      "Le scribe, de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:11 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-148",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:12",
+    "verseText": "Voir Matthieu 21:12.",
+    "question": "Que renverse Jésus dans le temple ?",
+    "choices": [
+      "Les tables des changeurs",
+      "Les sièges des anciens",
+      "Les lampes d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:12 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-149",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:12",
+    "verseText": "Voir Matthieu 21:12.",
+    "question": "Quel commerce Jésus dénonce-t-il dans le temple ?",
+    "choices": [
+      "Les vendeurs de pigeons",
+      "Les vendeurs de poissons",
+      "Les vendeurs de laine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:12 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-150",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:13",
+    "verseText": "Voir Matthieu 21:13.",
+    "question": "Comment Jésus qualifie-t-il le temple en citant l’Écriture ?",
+    "choices": [
+      "Une maison de prière",
+      "Une forteresse d’Israël",
+      "Une école des prophètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:13 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-151",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:13",
+    "verseText": "Voir Matthieu 21:13.",
+    "question": "Que dit Jésus que le temple est devenu selon sa dénonciation ?",
+    "choices": [
+      "Une caverne de voleurs",
+      "Une maison de festins",
+      "Une place de marché légitime"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:13 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-152",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:14",
+    "verseText": "Voir Matthieu 21:14.",
+    "question": "Quels malades viennent à Jésus dans le temple et sont guéris ?",
+    "choices": [
+      "Des aveugles et des boiteux",
+      "Des sourds et des muets",
+      "Des lépreux et des paralytiques"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:14 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-153",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:15",
+    "verseText": "Voir Matthieu 21:15.",
+    "question": "Quelle phrase les enfants crient-ils dans le temple ?",
+    "choices": [
+      "Hosanna au Fils de David !",
+      "Béni soit Moïse !",
+      "Vive le grand prêtre !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:15 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-154",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:19",
+    "verseText": "Voir Matthieu 21:19.",
+    "question": "Quel arbre Jésus trouve-t-il près du chemin et où il ne trouve rien ?",
+    "choices": [
+      "Un figuier",
+      "Un olivier",
+      "Un cèdre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:19 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-155",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:19",
+    "verseText": "Voir Matthieu 21:19.",
+    "question": "Que dit Jésus : « Qu’il ne naisse jamais… » ?",
+    "choices": [
+      "De fruit sur toi",
+      "De feuilles sur toi",
+      "De branche sur toi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:19 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-156",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:19",
+    "verseText": "Voir Matthieu 21:19.",
+    "question": "Comment le figuier réagit-il immédiatement ?",
+    "choices": [
+      "Il sécha",
+      "Il fleurit",
+      "Il se déracina lentement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:19 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-157",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:22",
+    "verseText": "Voir Matthieu 21:22.",
+    "question": "En parlant de la prière, quelle condition Jésus associe à la réception ?",
+    "choices": [
+      "Croire",
+      "Jeûner",
+      "Voyager"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:22 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-158",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:23",
+    "verseText": "Voir Matthieu 21:23.",
+    "question": "Quelle question les principaux sacrificateurs et les anciens posent-ils à Jésus dans le temple ?",
+    "choices": [
+      "Par quelle autorité fais-tu ces choses ?",
+      "Pourquoi ne jeûnes-tu pas ?",
+      "Pourquoi guéris-tu le sabbat ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:23 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-159",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:25",
+    "verseText": "Voir Matthieu 21:25.",
+    "question": "Dans la contre-question de Jésus, quelle origine possible du baptême de Jean est citée ?",
+    "choices": [
+      "Du ciel",
+      "De Jéricho",
+      "De Rome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:25 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-160",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:29",
+    "verseText": "Voir Matthieu 21:29.",
+    "question": "Dans la parabole des deux fils, que répond le premier au commandement d’aller travailler ?",
+    "choices": [
+      "Je ne veux pas",
+      "J’y vais tout de suite",
+      "Je dois consulter mon père"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:29 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-161",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:29",
+    "verseText": "Voir Matthieu 21:29.",
+    "question": "Après coup, que fait finalement ce premier fils ?",
+    "choices": [
+      "Il s’en repentit, et il alla",
+      "Il se fâcha, et il partit",
+      "Il oublia, et il resta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:29 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-162",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:30",
+    "verseText": "Voir Matthieu 21:30.",
+    "question": "Dans la même parabole, que répond le second fils ?",
+    "choices": [
+      "Je veux bien, seigneur",
+      "Je ne veux pas",
+      "Attends demain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:30 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-163",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:30",
+    "verseText": "Voir Matthieu 21:30.",
+    "question": "Que fait pourtant ce second fils ensuite ?",
+    "choices": [
+      "Il n’alla pas",
+      "Il alla avec joie",
+      "Il envoya un autre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:30 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-164",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:39",
+    "verseText": "Voir Matthieu 21:39.",
+    "question": "Dans la parabole des vignerons, que font-ils au fils envoyé en dernier ?",
+    "choices": [
+      "Ils le tuèrent",
+      "Ils le couronnèrent",
+      "Ils le laissèrent partir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:39 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-165",
+    "book": "Matthieu",
+    "chapter": 21,
+    "verseRef": "Matthieu 21:42",
+    "verseText": "Voir Matthieu 21:42.",
+    "question": "Quelle expression Jésus cite-t-il au sujet de la pierre rejetée ?",
+    "choices": [
+      "Elle est devenue la principale de l’angle",
+      "Elle est devenue la plus lourde des pierres",
+      "Elle est devenue une pierre cachée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 21:42 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-166",
+    "book": "Matthieu",
+    "chapter": 22,
+    "verseRef": "Matthieu 22:5",
+    "verseText": "Voir Matthieu 22:5.",
+    "question": "Dans la parabole du festin des noces, quelle excuse est donnée par un invité appelé ?",
+    "choices": [
+      "J’ai acheté un champ",
+      "J’ai acheté une barque",
+      "J’ai vendu un troupeau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 22:5 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-167",
+    "book": "Matthieu",
+    "chapter": 22,
+    "verseRef": "Matthieu 22:5",
+    "verseText": "Voir Matthieu 22:5.",
+    "question": "Quelle autre excuse est mentionnée parmi ceux qui refusent l’invitation ?",
+    "choices": [
+      "J’ai acheté cinq paires de bœufs",
+      "J’ai acheté dix brebis",
+      "J’ai acheté une vigne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 22:5 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-168",
+    "book": "Matthieu",
+    "chapter": 22,
+    "verseRef": "Matthieu 22:5",
+    "verseText": "Voir Matthieu 22:5.",
+    "question": "Quelle excuse est liée au mariage ?",
+    "choices": [
+      "Je me suis marié, et c’est pourquoi je ne puis aller",
+      "Mon fils se marie, et je dois préparer la fête",
+      "Je vais demander la main, et je suis retenu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 22:5 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-169",
+    "book": "Matthieu",
+    "chapter": 22,
+    "verseRef": "Matthieu 22:19",
+    "verseText": "Voir Matthieu 22:19.",
+    "question": "Dans l’épisode du tribut, quelle pièce est montrée à Jésus ?",
+    "choices": [
+      "Un denier",
+      "Un sicle",
+      "Un talent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 22:19 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-170",
+    "book": "Matthieu",
+    "chapter": 22,
+    "verseRef": "Matthieu 22:20",
+    "verseText": "Voir Matthieu 22:20.",
+    "question": "Quelle question Jésus pose au sujet de la monnaie ?",
+    "choices": [
+      "De qui sont cette effigie et cette inscription ?",
+      "Combien vaut cette pièce ?",
+      "Qui l’a frappée ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 22:20 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-171",
+    "book": "Matthieu",
+    "chapter": 22,
+    "verseRef": "Matthieu 22:21",
+    "verseText": "Voir Matthieu 22:21.",
+    "question": "Quelle réponse donnent-ils à Jésus ?",
+    "choices": [
+      "De César",
+      "De Moïse",
+      "D’Hérode"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 22:21 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-172",
+    "book": "Matthieu",
+    "chapter": 22,
+    "verseRef": "Matthieu 22:37-38",
+    "verseText": "Voir Matthieu 22:37-38.",
+    "question": "Quel commandement Jésus appelle-t-il « le premier et le plus grand » ?",
+    "choices": [
+      "Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, et de toute ta pensée",
+      "Tu ne déroberas point",
+      "Tu ne porteras point de faux témoignage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 22:37-38 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-173",
+    "book": "Matthieu",
+    "chapter": 22,
+    "verseRef": "Matthieu 22:39",
+    "verseText": "Voir Matthieu 22:39.",
+    "question": "Quel commandement Jésus cite-t-il comme « le second, qui lui est semblable » ?",
+    "choices": [
+      "Tu aimeras ton prochain comme toi-même",
+      "Tu honoreras ton père et ta mère",
+      "Tu ne tueras point"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 22:39 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-174",
+    "book": "Matthieu",
+    "chapter": 22,
+    "verseRef": "Matthieu 22:40",
+    "verseText": "Voir Matthieu 22:40.",
+    "question": "Selon Jésus, de quoi dépendent « toute la loi et les prophètes » ?",
+    "choices": [
+      "De ces deux commandements",
+      "Des sacrifices du temple",
+      "Des traditions des anciens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 22:40 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-175",
+    "book": "Matthieu",
+    "chapter": 23,
+    "verseRef": "Matthieu 23:7",
+    "verseText": "Voir Matthieu 23:7.",
+    "question": "Quel titre Jésus donne-t-il aux chefs religieux en dénonçant leur recherche des honneurs ?",
+    "choices": [
+      "Ils aiment les salutations dans les places publiques",
+      "Ils aiment les champs et les maisons",
+      "Ils aiment les voyages et les banquets"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 23:7 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-176",
+    "book": "Matthieu",
+    "chapter": 23,
+    "verseRef": "Matthieu 23:9",
+    "verseText": "Voir Matthieu 23:9.",
+    "question": "Quel titre Jésus interdit-il de prendre au sens d’autorité suprême sur terre ?",
+    "choices": [
+      "Père",
+      "Juge",
+      "Roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 23:9 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-177",
+    "book": "Matthieu",
+    "chapter": 23,
+    "verseRef": "Matthieu 23:10",
+    "verseText": "Voir Matthieu 23:10.",
+    "question": "Quel mot Jésus ordonne-t-il de ne pas se faire appeler comme titre d’autorité ?",
+    "choices": [
+      "Conducteurs",
+      "Sacrificateurs",
+      "Lévites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 23:10 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-178",
+    "book": "Matthieu",
+    "chapter": 23,
+    "verseRef": "Matthieu 23:13",
+    "verseText": "Voir Matthieu 23:13.",
+    "question": "Quel jugement Jésus prononce-t-il sur ceux qui « ferment aux hommes le royaume des cieux » ?",
+    "choices": [
+      "Malheur à vous, scribes et pharisiens hypocrites !",
+      "Paix à vous, scribes et pharisiens !",
+      "Honneur à vous, scribes et pharisiens !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 23:13 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-179",
+    "book": "Matthieu",
+    "chapter": 23,
+    "verseRef": "Matthieu 23:27",
+    "verseText": "Voir Matthieu 23:27.",
+    "question": "À quoi Jésus compare-t-il les scribes et pharisiens hypocrites dans une image frappante ?",
+    "choices": [
+      "À des sépulcres blanchis",
+      "À des lampes d’or",
+      "À des arbres toujours verts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 23:27 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-180",
+    "book": "Matthieu",
+    "chapter": 23,
+    "verseRef": "Matthieu 23:27",
+    "verseText": "Voir Matthieu 23:27.",
+    "question": "Dans cette comparaison, de quoi sont-ils dits « pleins » au dedans ?",
+    "choices": [
+      "D’ossements de morts et de toute espèce d’impuretés",
+      "De bonnes œuvres et de justice",
+      "De pain et de vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 23:27 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-181",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:27",
+    "verseText": "Voir Matthieu 26:27.",
+    "question": "Après avoir pris la coupe, quelle action Jésus fait-il avant d’annoncer qu’il ne boira plus du fruit de la vigne ?",
+    "choices": [
+      "Il rendit grâces",
+      "Il jeûna",
+      "Il se lava les mains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:27 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-182",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:30",
+    "verseText": "Voir Matthieu 26:30.",
+    "question": "Après le repas, qu’est-il dit que Jésus et les disciples firent avant de sortir ?",
+    "choices": [
+      "Ils chantèrent les cantiques",
+      "Ils rompirent le pain une seconde fois",
+      "Ils offrirent un sacrifice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:30 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-183",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:30",
+    "verseText": "Voir Matthieu 26:30.",
+    "question": "Vers quel lieu Jésus et ses disciples se rendent-ils après avoir chanté les cantiques ?",
+    "choices": [
+      "La montagne des Oliviers",
+      "Le désert de Juda",
+      "Le Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:30 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-184",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:31",
+    "verseText": "Voir Matthieu 26:31.",
+    "question": "Quelle annonce Jésus fait-il au sujet des disciples cette nuit-là ?",
+    "choices": [
+      "Vous serez tous scandalisés à cause de moi",
+      "Vous serez tous couronnés avec moi",
+      "Vous serez tous envoyés immédiatement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:31 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-185",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:31",
+    "verseText": "Voir Matthieu 26:31.",
+    "question": "Quelle phrase Jésus cite-t-il : « Je frapperai… » ?",
+    "choices": [
+      "Le berger",
+      "Le roi",
+      "Le prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:31 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-186",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:32",
+    "verseText": "Voir Matthieu 26:32.",
+    "question": "Après sa résurrection, où Jésus dit-il qu’il ira avant les disciples ?",
+    "choices": [
+      "En Galilée",
+      "En Judée",
+      "À Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:32 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-187",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:33",
+    "verseText": "Voir Matthieu 26:33.",
+    "question": "Quelle assurance Pierre donne-t-il malgré l’avertissement de Jésus ?",
+    "choices": [
+      "Quand tu serais pour tous une occasion de chute, tu ne le seras jamais pour moi",
+      "Quand tu serais pour tous un sujet de joie, tu ne le seras jamais pour moi",
+      "Quand tu serais pour tous un mystère, tu ne le seras jamais pour moi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:33 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-188",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:34",
+    "verseText": "Voir Matthieu 26:34.",
+    "question": "Avant que le coq chante, combien de fois Jésus annonce-t-il que Pierre le reniera ?",
+    "choices": [
+      "Trois fois",
+      "Deux fois",
+      "Sept fois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:34 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-189",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:35",
+    "verseText": "Voir Matthieu 26:35.",
+    "question": "Quelle réponse Pierre donne-t-il à l’annonce du reniement ?",
+    "choices": [
+      "Quand il me faudrait mourir avec toi, je ne te renierai pas",
+      "Quand il me faudrait partir, je te renierai",
+      "Quand il me faudrait me cacher, je te suivrai de loin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:35 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-190",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:36",
+    "verseText": "Voir Matthieu 26:36.",
+    "question": "Quel lieu Jésus atteint-il ensuite avec ses disciples ?",
+    "choices": [
+      "Gethsémané",
+      "Béthanie",
+      "Capernaüm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:36 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-191",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:36",
+    "verseText": "Voir Matthieu 26:36.",
+    "question": "Quelle consigne Jésus donne-t-il aux disciples en arrivant à ce lieu ?",
+    "choices": [
+      "Asseyez-vous ici, pendant que je m’éloignerai pour prier",
+      "Allez acheter du pain",
+      "Retournez à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:36 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-192",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:37",
+    "verseText": "Voir Matthieu 26:37.",
+    "question": "Quels trois disciples Jésus prend-il avec lui à part ?",
+    "choices": [
+      "Pierre, Jacques et Jean",
+      "André, Philippe et Thomas",
+      "Matthieu, Simon et Jude"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:37 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-193",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:37",
+    "verseText": "Voir Matthieu 26:37.",
+    "question": "Quel état est attribué à Jésus au début de cette scène ?",
+    "choices": [
+      "Il commença à éprouver de la tristesse et des angoisses",
+      "Il se réjouit et chanta",
+      "Il dormit paisiblement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:37 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-194",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:38",
+    "verseText": "Voir Matthieu 26:38.",
+    "question": "Quelle expression Jésus emploie-t-il : « Mon âme est… » ?",
+    "choices": [
+      "Triste jusqu’à la mort",
+      "Forte jusqu’à la fin",
+      "Pure au-dessus de tout"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:38 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-195",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:39",
+    "verseText": "Voir Matthieu 26:39.",
+    "question": "Quelle demande Jésus formule-t-il au Père concernant « cette coupe » ?",
+    "choices": [
+      "Qu’elle s’éloigne de moi",
+      "Qu’elle vienne sur moi",
+      "Qu’elle soit partagée entre tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:39 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-196",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:39",
+    "verseText": "Voir Matthieu 26:39.",
+    "question": "Quelle clause Jésus ajoute-t-il à sa demande ?",
+    "choices": [
+      "Toutefois, non pas ce que je veux, mais ce que tu veux",
+      "Toutefois, que ma volonté soit faite",
+      "Toutefois, que les disciples décident"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:39 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-197",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:40",
+    "verseText": "Voir Matthieu 26:40.",
+    "question": "Que trouve Jésus en revenant vers les disciples ?",
+    "choices": [
+      "Ils dormaient",
+      "Ils jeûnaient",
+      "Ils discutaient vivement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:40 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-198",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:40",
+    "verseText": "Voir Matthieu 26:40.",
+    "question": "Quelle question Jésus adresse-t-il à Pierre au sujet de la veille ?",
+    "choices": [
+      "Ainsi, vous n’avez pu veiller une heure avec moi !",
+      "Ainsi, vous avez veillé trois heures avec moi !",
+      "Ainsi, vous avez prié pour moi toute la nuit !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:40 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-199",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:41",
+    "verseText": "Voir Matthieu 26:41.",
+    "question": "Quel avertissement Jésus donne-t-il sur l’esprit et la chair ?",
+    "choices": [
+      "L’esprit est bien disposé, mais la chair est faible",
+      "L’esprit est faible, mais la chair est forte",
+      "L’esprit et la chair sont égaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:41 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-200",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:42",
+    "verseText": "Voir Matthieu 26:42.",
+    "question": "Quelle parole Jésus dit-il lors de la seconde prière concernant la coupe ?",
+    "choices": [
+      "Si cette coupe ne peut s’éloigner sans que je la boive, que ta volonté soit faite !",
+      "Si cette coupe peut s’éloigner, que ma volonté soit faite !",
+      "Si cette coupe doit rester, que les anges la boivent !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:42 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-201",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:43",
+    "verseText": "Voir Matthieu 26:43.",
+    "question": "Pourquoi les disciples sont-ils encore trouvés endormis ?",
+    "choices": [
+      "Parce que leurs yeux étaient appesantis",
+      "Parce qu’ils étaient malades",
+      "Parce qu’ils étaient partis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:43 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-202",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:44",
+    "verseText": "Voir Matthieu 26:44.",
+    "question": "Combien de fois Jésus s’éloigne-t-il pour prier en répétant les mêmes paroles ?",
+    "choices": [
+      "Trois fois",
+      "Deux fois",
+      "Une fois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:44 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-203",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:45",
+    "verseText": "Voir Matthieu 26:45.",
+    "question": "Quelle phrase Jésus déclare-t-il quand il revient la dernière fois ?",
+    "choices": [
+      "Voici, l’heure est proche",
+      "Voici, la fête commence",
+      "Voici, le royaume s’établit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:45 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-204",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:50",
+    "verseText": "Voir Matthieu 26:50.",
+    "question": "Quel titre Jésus donne-t-il à celui qui le livre en s’approchant ?",
+    "choices": [
+      "Mon ami",
+      "Mon juge",
+      "Mon frère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:50 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-205",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:49",
+    "verseText": "Voir Matthieu 26:49.",
+    "question": "Quel signe Judas utilise-t-il pour désigner Jésus ?",
+    "choices": [
+      "Un baiser",
+      "Un manteau jeté",
+      "Un cri vers la foule"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:49 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-206",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:51",
+    "verseText": "Voir Matthieu 26:51.",
+    "question": "Quelle action un compagnon de Jésus commet-il contre le serviteur du souverain sacrificateur ?",
+    "choices": [
+      "Il lui emporta l’oreille",
+      "Il lui brisa la main",
+      "Il lui creva les yeux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:51 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-207",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:52",
+    "verseText": "Voir Matthieu 26:52.",
+    "question": "Que dit Jésus à propos de ceux qui prennent l’épée ?",
+    "choices": [
+      "Ils périront par l’épée",
+      "Ils régneront par l’épée",
+      "Ils seront justifiés par l’épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:52 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-208",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:53",
+    "verseText": "Voir Matthieu 26:53.",
+    "question": "Quelle ressource Jésus dit-il pouvoir demander au Père ?",
+    "choices": [
+      "Plus de douze légions d’anges",
+      "Des armées de chars",
+      "Des trésors d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:53 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-209",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:54",
+    "verseText": "Voir Matthieu 26:54.",
+    "question": "Quelle expression Jésus utilise-t-il sur l’accomplissement des Écritures ?",
+    "choices": [
+      "Il faut donc que cela arrive ainsi",
+      "Il est possible que cela n’arrive pas",
+      "Il ne faut pas que cela arrive ainsi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:54 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-210",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:55",
+    "verseText": "Voir Matthieu 26:55.",
+    "question": "Que dit Jésus au sujet de son arrestation et de son enseignement au temple ?",
+    "choices": [
+      "Je me suis assis tous les jours parmi vous, enseignant dans le temple, et vous ne m’avez pas saisi",
+      "Je me suis caché tous les jours loin de vous, et vous m’avez saisi",
+      "Je ne suis jamais allé au temple, et vous m’avez saisi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:55 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-211",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:56",
+    "verseText": "Voir Matthieu 26:56.",
+    "question": "Quelle réaction générale des disciples est mentionnée lors de l’arrestation ?",
+    "choices": [
+      "Tous les disciples l’abandonnèrent, et prirent la fuite",
+      "Tous les disciples restèrent jusqu’au bout",
+      "Tous les disciples se mirent à chanter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:56 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-212",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:57",
+    "verseText": "Voir Matthieu 26:57.",
+    "question": "Où Jésus est-il conduit après son arrestation ?",
+    "choices": [
+      "Chez Caïphe, le souverain sacrificateur",
+      "Chez Hérode, le tétrarque",
+      "Chez Pilate, le procurateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:57 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-213",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:59",
+    "verseText": "Voir Matthieu 26:59.",
+    "question": "Que cherchent les principaux sacrificateurs et tout le sanhédrin contre Jésus ?",
+    "choices": [
+      "Un faux témoignage",
+      "Une lettre de Rome",
+      "Un signe du ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:59 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-214",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:60",
+    "verseText": "Voir Matthieu 26:60.",
+    "question": "Malgré de faux témoignages, qu’est-il dit qu’ils ne trouvèrent pas au début ?",
+    "choices": [
+      "Ils n’en trouvèrent point",
+      "Ils en trouvèrent beaucoup",
+      "Ils en trouvèrent assez"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:60 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-215",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:61",
+    "verseText": "Voir Matthieu 26:61.",
+    "question": "Quel propos deux témoins rapportent-ils au sujet du temple ?",
+    "choices": [
+      "Je puis détruire le temple de Dieu et le rebâtir en trois jours",
+      "Je puis sanctifier le temple de Dieu et le remplir en trois jours",
+      "Je puis fermer le temple de Dieu et l’ouvrir en trois jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:61 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-216",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:62",
+    "verseText": "Voir Matthieu 26:62.",
+    "question": "Quelle question le souverain sacrificateur pose-t-il à Jésus sur ces accusations ?",
+    "choices": [
+      "Ne réponds-tu rien ?",
+      "Ne te réjouis-tu pas ?",
+      "Ne réclames-tu pas un juge ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:62 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-217",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:63",
+    "verseText": "Voir Matthieu 26:63.",
+    "question": "Quelle attitude de Jésus est mentionnée devant ces questions ?",
+    "choices": [
+      "Jésus garda le silence",
+      "Jésus répondit aussitôt",
+      "Jésus s’enfuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:63 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-218",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:63",
+    "verseText": "Voir Matthieu 26:63.",
+    "question": "Sur quelle déclaration le souverain sacrificateur adjure-t-il Jésus ?",
+    "choices": [
+      "Si tu es le Christ, le Fils de Dieu",
+      "Si tu es Élie, le prophète",
+      "Si tu es Moïse, le serviteur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:63 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-219",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:64",
+    "verseText": "Voir Matthieu 26:64.",
+    "question": "Quelle réponse brève Jésus donne-t-il à l’adjuration ?",
+    "choices": [
+      "Tu l’as dit",
+      "Je l’ignore",
+      "Tu mens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:64 (LSG 1910)."
+  },
+  {
+    "id": "matthieu-N-220",
+    "book": "Matthieu",
+    "chapter": 26,
+    "verseRef": "Matthieu 26:64",
+    "verseText": "Voir Matthieu 26:64.",
+    "question": "Quelle scène Jésus annonce-t-il : « vous verrez… » ?",
+    "choices": [
+      "Le Fils de l’homme assis à la droite de la puissance, et venant sur les nuées du ciel",
+      "Le Fils de l’homme montant sur le trône de César, et venant par la mer",
+      "Le Fils de l’homme entrant dans le temple avec une armée, et venant par le désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 26:64 (LSG 1910)."
+  }
+]

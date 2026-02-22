@@ -1,0 +1,3782 @@
+[
+  {
+    "id": "generalitebible-N-001",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 4:15",
+    "verseText": "Voir Genèse 4:15.",
+    "question": "Quel signe Dieu donna-t-il à Caïn, après l’avoir chassé ?",
+    "choices": [
+      "Il mit sur lui un signe pour que quiconque le trouverait ne le tuât point",
+      "Il lui donna une marque de sang sur le front",
+      "Il le fit habiter dans une ville fortifiée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 4:15 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-002",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 15:5",
+    "verseText": "Voir Genèse 15:5.",
+    "question": "Qu’est-ce que l’Éternel dit à Abram de regarder pour illustrer sa postérité ?",
+    "choices": [
+      "La poussière de la terre",
+      "Les étoiles du ciel",
+      "Les grains de sable de la mer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 15:5 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-003",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 32:28",
+    "verseText": "Voir Genèse 32:28.",
+    "question": "Après la lutte, quel nom Jacob reçut-il ?",
+    "choices": [
+      "Israël",
+      "Juda",
+      "Éphraïm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 32:28 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-004",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Nombres 21:8",
+    "verseText": "Voir Nombres 21:8.",
+    "question": "Quel objet Moïse fit-il sur l’ordre de l’Éternel pour que quiconque le regarderait eût la vie ?",
+    "choices": [
+      "Un serpent d’airain",
+      "Une verge de fer",
+      "Un autel d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 21:8 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-005",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Samuel 16:2",
+    "verseText": "Voir 1 Samuel 16:2.",
+    "question": "Qu’est-ce que l’Éternel demanda à Samuel d’apporter en allant vers Isaï ?",
+    "choices": [
+      "Une génisse",
+      "Un bélier",
+      "Deux tourterelles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 16:2 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-006",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Juges 6:37",
+    "verseText": "Voir Juges 6:37.",
+    "question": "Quel fut le signe demandé par Gédéon concernant la toison ?",
+    "choices": [
+      "La rosée seulement sur la toison et la sécheresse sur tout le terrain",
+      "La rosée seulement sur tout le terrain et la sécheresse sur la toison",
+      "La rosée sur la toison et sur tout le terrain à la fois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 6:37 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-007",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ruth 4:17",
+    "verseText": "Voir Ruth 4:17.",
+    "question": "Quel nom donna Naomi à l’enfant de Ruth, selon les femmes ?",
+    "choices": [
+      "Obed",
+      "Boaz",
+      "Isaï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ruth 4:17 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-008",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Samuel 17:40",
+    "verseText": "Voir 1 Samuel 17:40.",
+    "question": "Quel instrument David prit-il pour combattre Goliath ?",
+    "choices": [
+      "Une épée",
+      "Une fronde",
+      "Une lance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Samuel 17:40 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-009",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Samuel 12:6",
+    "verseText": "Voir 2 Samuel 12:6.",
+    "question": "Quel jugement David prononça-t-il contre l’homme riche de la parabole de Nathan ?",
+    "choices": [
+      "Il doit rendre au quadruple",
+      "Il doit rendre au double",
+      "Il doit être vendu comme esclave"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 12:6 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-010",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Rois 3:9",
+    "verseText": "Voir 1 Rois 3:9.",
+    "question": "Qu’est-ce que Salomon demanda à Dieu à Gabaon ?",
+    "choices": [
+      "Une longue vie",
+      "Un cœur intelligent pour juger",
+      "De grandes richesses"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 1 Rois 3:9 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-011",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Rois 17:1",
+    "verseText": "Voir 1 Rois 17:1.",
+    "question": "Quel prophète annonça à Achab qu’il ne pleuvrait pas sinon à sa parole ?",
+    "choices": [
+      "Elie",
+      "Elisée",
+      "Michée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 17:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-012",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Rois 5:10",
+    "verseText": "Voir 2 Rois 5:10.",
+    "question": "Par quel moyen l’Éternel conduisit-il Naaman à être purifié de sa lèpre ?",
+    "choices": [
+      "En se lavant sept fois dans le Jourdain",
+      "En offrant un sacrifice sur l’autel de Samarie",
+      "En touchant le manteau du prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:10 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-013",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Rois 20:12",
+    "verseText": "Voir 2 Rois 20:12.",
+    "question": "Quelle épreuve l’Éternel envoya-t-il au roi Ezéchias après sa guérison ?",
+    "choices": [
+      "Des ambassadeurs de Babylone vinrent le visiter",
+      "Une invasion immédiate de l’Assyrie",
+      "Une famine de sept années"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 20:12 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-014",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Chroniques 34:4",
+    "verseText": "Voir 2 Chroniques 34:4.",
+    "question": "Qu’est-ce que Josias fit des idoles, selon le récit ?",
+    "choices": [
+      "Il les brûla et en réduisit en poudre",
+      "Il les enterra loin de Jérusalem",
+      "Il les conserva dans le trésor du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-015",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Néhémie 2:7-8",
+    "verseText": "Voir Néhémie 2:7-8.",
+    "question": "Quel est l’objet principal que Néhémie demanda au roi avant de partir ?",
+    "choices": [
+      "Des lettres pour les gouverneurs et du bois d’Asaph",
+      "Une armée de mille hommes",
+      "Un trésor d’or pour rebâtir la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 2:7-8 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-016",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Esdras 1:3",
+    "verseText": "Voir Esdras 1:3.",
+    "question": "Quel décret de Cyrus est rapporté au sujet de la maison de l’Éternel ?",
+    "choices": [
+      "Qu’elle soit rebâtie à Jérusalem",
+      "Qu’elle soit transportée à Babylone",
+      "Qu’elle soit consacrée à Dagon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 1:3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-017",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Esther 4:11",
+    "verseText": "Voir Esther 4:11.",
+    "question": "Dans quelle action Esther s’exposa-t-elle en entrant vers le roi ?",
+    "choices": [
+      "Elle entra sans être appelée",
+      "Elle refusa de se prosterner",
+      "Elle déchira publiquement la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 4:11 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-018",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Job 1:16",
+    "verseText": "Voir Job 1:16.",
+    "question": "Quel est le premier malheur que Job décrivit comme lui étant survenu ?",
+    "choices": [
+      "Le feu de Dieu est tombé du ciel",
+      "Ses enfants furent emmenés captifs",
+      "Sa maison fut changée en désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 1:16 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-019",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Psaumes 84:5-7",
+    "verseText": "Voir Psaumes 84:5-7.",
+    "question": "Selon les Psaumes, que fait l’Éternel à l’homme dont la force est en lui ?",
+    "choices": [
+      "Il le conduit de force en force",
+      "Il le fait tomber à jamais",
+      "Il le rend muet devant ses ennemis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Psaumes 84:5-7 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-020",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Proverbes 15:1",
+    "verseText": "Voir Proverbes 15:1.",
+    "question": "Quel contraste Proverbes établit-il entre la réponse douce et une parole blessante ?",
+    "choices": [
+      "La réponse douce calme la fureur",
+      "La réponse douce produit la famine",
+      "La réponse douce augmente la honte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 15:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-021",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ecclésiaste 12:13",
+    "verseText": "Voir Ecclésiaste 12:13.",
+    "question": "Quelle conclusion l’Ecclésiaste donne-t-il à la fin concernant Dieu et les commandements ?",
+    "choices": [
+      "Crains Dieu et observe ses commandements",
+      "Cherche la richesse et la sagesse des hommes",
+      "Bâtis des maisons et amasse des trésors"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:13 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-022",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Cantique des cantiques 2:3",
+    "verseText": "Voir Cantique des cantiques 2:3.",
+    "question": "Dans le Cantique, comment l’épouse décrit-elle son bien-aimé parmi les jeunes hommes ?",
+    "choices": [
+      "Comme un cèdre du Liban",
+      "Comme un pommier parmi les arbres de la forêt",
+      "Comme une vigne parmi les champs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Cantique des cantiques 2:3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-023",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Esaïe 6:1",
+    "verseText": "Voir Esaïe 6:1.",
+    "question": "Quelle vision Esaïe eut-il au sujet du Seigneur dans le temple ?",
+    "choices": [
+      "Le Seigneur assis sur un trône très élevé",
+      "Le Seigneur marchant dans un jardin",
+      "Le Seigneur parlant du haut d’une montagne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esaïe 6:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-024",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Esaïe 7:14",
+    "verseText": "Voir Esaïe 7:14.",
+    "question": "Quel signe fut donné à Achaz selon Esaïe ?",
+    "choices": [
+      "Une vierge deviendra enceinte et enfantera un fils",
+      "Un feu descendra sur l’autel du roi",
+      "Un fleuve s’arrêtera devant Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esaïe 7:14 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-025",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jérémie 13:1",
+    "verseText": "Voir Jérémie 13:1.",
+    "question": "Dans Jérémie, quel objet symbolique l’Éternel fit-il acheter au prophète ?",
+    "choices": [
+      "Une ceinture de lin",
+      "Une couronne d’or",
+      "Une pierre précieuse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 13:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-026",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Lamentations 1:1",
+    "verseText": "Voir Lamentations 1:1.",
+    "question": "Quelle plainte centrale Lamentations exprime-t-il sur la ville ?",
+    "choices": [
+      "Comment ! elle est assise solitaire, la ville si peuplée !",
+      "Comment ! elle est devenue la joie des nations !",
+      "Comment ! elle est devenue un paradis de paix !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lamentations 1:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-027",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ezéchiel 3:17",
+    "verseText": "Voir Ezéchiel 3:17.",
+    "question": "Quel nom l’Éternel donna-t-il à Ezéchiel pour l’établir envers la maison d’Israël ?",
+    "choices": [
+      "Une sentinelle",
+      "Un roi",
+      "Un sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ezéchiel 3:17 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-028",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Daniel 1:12",
+    "verseText": "Voir Daniel 1:12.",
+    "question": "Quel aliment Daniel demanda-t-il à la place des mets du roi ?",
+    "choices": [
+      "Des légumes et de l’eau",
+      "Du pain et du miel",
+      "De la viande et du vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 1:12 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-029",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Daniel 4:25",
+    "verseText": "Voir Daniel 4:25.",
+    "question": "Quelle fut l’interprétation donnée au songe de Nebucadnetsar concernant l’arbre ?",
+    "choices": [
+      "Le roi serait abattu jusqu’à reconnaître que le Très-Haut domine",
+      "Le roi recevrait un nouveau royaume plus vaste",
+      "Le roi mourrait la nuit même sans avertissement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 4:25 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-030",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Osée 6:4",
+    "verseText": "Voir Osée 6:4.",
+    "question": "Dans Osée, à quoi l’Éternel compare-t-il l’amour d’Ephraïm ?",
+    "choices": [
+      "À une nuée du matin et à la rosée qui bientôt se dissipe",
+      "À un fleuve qui ne tarit jamais",
+      "À un roc inébranlable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 6:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-031",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Joël 2:28",
+    "verseText": "Voir Joël 2:28.",
+    "question": "Selon Joël, que promet l’Éternel de répandre sur toute chair ?",
+    "choices": [
+      "Son Esprit",
+      "De l’or et de l’argent",
+      "Des nations soumises"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:28 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-032",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Amos 2:6",
+    "verseText": "Voir Amos 2:6.",
+    "question": "Dans Amos, comment l’Éternel décrit-il ceux qui oppriment les faibles ?",
+    "choices": [
+      "Ils vendent le juste pour de l’argent",
+      "Ils bâtissent des maisons pour les pauvres",
+      "Ils relèvent la porte des humbles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 2:6 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-033",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Abdias 1:18",
+    "verseText": "Voir Abdias 1:18.",
+    "question": "Quel message Abdias annonce-t-il au sujet d’Esaü ?",
+    "choices": [
+      "Il sera entièrement exterminé",
+      "Il régnera sur Sion",
+      "Il deviendra sacrificateur à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Abdias 1:18 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-034",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jonas 2:1",
+    "verseText": "Voir Jonas 2:1.",
+    "question": "Que fit Jonas dans le poisson, selon le texte ?",
+    "choices": [
+      "Il pria l’Éternel",
+      "Il dormit sans parler",
+      "Il écrivit une lettre aux marins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 2:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-035",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Michée 6:8",
+    "verseText": "Voir Michée 6:8.",
+    "question": "Quel contraste Michée présente-t-il concernant ce que l’Éternel demande ?",
+    "choices": [
+      "Pratiquer la justice, aimer la miséricorde, marcher humblement",
+      "Offrir mille béliers et dix mille torrents d’huile",
+      "Amasser de l’or et bâtir des palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 6:8 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-036",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Nahum 1:3",
+    "verseText": "Voir Nahum 1:3.",
+    "question": "Dans Nahum, quel trait est attribué à l’Éternel au sujet de la colère ?",
+    "choices": [
+      "L’Éternel est lent à la colère",
+      "L’Éternel ne se met jamais en colère",
+      "L’Éternel oublie toute iniquité sans jugement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-037",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Habacuc 2:4",
+    "verseText": "Voir Habacuc 2:4.",
+    "question": "Quelle parole Habacuc reçoit-il au sujet du juste ?",
+    "choices": [
+      "Le juste vivra par sa foi",
+      "Le juste vivra par ses richesses",
+      "Le juste vivra par sa force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Habacuc 2:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-038",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Sophonie 1:15",
+    "verseText": "Voir Sophonie 1:15.",
+    "question": "Que Sophonie annonce-t-il comme jour particulier de l’Éternel ?",
+    "choices": [
+      "Un jour de colère",
+      "Un jour sans jugement",
+      "Un jour de festin perpétuel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:15 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-039",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Aggée 2:4",
+    "verseText": "Voir Aggée 2:4.",
+    "question": "Quelle exhortation Aggée donne-t-il au peuple et aux chefs ?",
+    "choices": [
+      "Fortifiez-vous… et travaillez",
+      "Fuyez… et cachez-vous",
+      "Taisez-vous… et ne bâtissez rien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-040",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Zacharie 5:1",
+    "verseText": "Voir Zacharie 5:1.",
+    "question": "Dans Zacharie, quel objet symbolique est vu volant ?",
+    "choices": [
+      "Un rouleau",
+      "Une épée",
+      "Une couronne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 5:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-041",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Malachie 1:7",
+    "verseText": "Voir Malachie 1:7.",
+    "question": "Quel reproche Malachie adresse-t-il concernant les offrandes ?",
+    "choices": [
+      "Ils offrent sur l’autel un pain souillé",
+      "Ils offrent des encens précieux",
+      "Ils offrent des dîmes au-dessus de la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:7 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-042",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Matthieu 22:37-39",
+    "verseText": "Voir Matthieu 22:37-39.",
+    "question": "Dans Matthieu, comment Jésus résume-t-il les deux plus grands commandements ?",
+    "choices": [
+      "Aimer Dieu et aimer son prochain",
+      "Jeûner et donner l’aumône",
+      "Offrir des sacrifices et garder le sabbat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 22:37-39 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-043",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Marc 11:20",
+    "verseText": "Voir Marc 11:20.",
+    "question": "Selon Marc, qu’arriva-t-il au figuier maudit ?",
+    "choices": [
+      "Il sécha jusqu’aux racines",
+      "Il porta du fruit le lendemain",
+      "Il fut arraché par le vent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 11:20 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-044",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Luc 1:67",
+    "verseText": "Voir Luc 1:67.",
+    "question": "Dans Luc, quel chant Zacharie prononça-t-il après la naissance de Jean ?",
+    "choices": [
+      "Il prophétisa, rempli du Saint-Esprit",
+      "Il fit un discours au temple",
+      "Il écrivit un psaume à César"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 1:67 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-045",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jean 2:9",
+    "verseText": "Voir Jean 2:9.",
+    "question": "Selon Jean, quel signe Jésus fit-il à Cana ?",
+    "choices": [
+      "Il changea l’eau en vin",
+      "Il multiplia les pains",
+      "Il calma la tempête"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 2:9 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-046",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Actes 5:5",
+    "verseText": "Voir Actes 5:5.",
+    "question": "Dans Actes, quel homme fut frappé pour avoir menti au Saint-Esprit ?",
+    "choices": [
+      "Ananias",
+      "Simon",
+      "Stéphanas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 5:5 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-047",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Romains 5:1",
+    "verseText": "Voir Romains 5:1.",
+    "question": "Selon Romains, quelle conséquence Paul associe-t-il à la justification par la foi ?",
+    "choices": [
+      "La paix avec Dieu",
+      "L’absence totale de souffrances",
+      "La richesse immédiate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 5:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-048",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Corinthiens 12:31",
+    "verseText": "Voir 1 Corinthiens 12:31.",
+    "question": "Dans 1 Corinthiens, quel don Paul place-t-il au-dessus des langues et des prophéties, comme voie par excellence ?",
+    "choices": [
+      "La charité",
+      "La science",
+      "La force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 12:31 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-049",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Corinthiens 9:7",
+    "verseText": "Voir 2 Corinthiens 9:7.",
+    "question": "Dans 2 Corinthiens, quelle attitude Dieu aime-t-il chez celui qui donne ?",
+    "choices": [
+      "Celui qui donne avec joie",
+      "Celui qui donne par contrainte",
+      "Celui qui donne pour être vu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Corinthiens 9:7 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-050",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Galates 5:22",
+    "verseText": "Voir Galates 5:22.",
+    "question": "Selon Galates, quel fruit est cité en premier dans la liste du fruit de l’Esprit ?",
+    "choices": [
+      "L’amour",
+      "La science",
+      "La puissance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 5:22 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-051",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ephésiens 6:11",
+    "verseText": "Voir Ephésiens 6:11.",
+    "question": "Dans Ephésiens, que doit revêtir le croyant pour pouvoir résister aux ruses du diable ?",
+    "choices": [
+      "L’armure de Dieu",
+      "La sagesse des Grecs",
+      "Les traditions des anciens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ephésiens 6:11 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-052",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Philippiens 4:7",
+    "verseText": "Voir Philippiens 4:7.",
+    "question": "Dans Philippiens, quelle paix est promise comme gardienne des cœurs ?",
+    "choices": [
+      "La paix de Dieu",
+      "La paix des hommes",
+      "La paix des richesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philippiens 4:7 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-053",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Colossiens 1:27",
+    "verseText": "Voir Colossiens 1:27.",
+    "question": "Selon Colossiens, comment Paul décrit-il la gloire du mystère parmi les païens ?",
+    "choices": [
+      "Christ en vous, l’espérance de la gloire",
+      "La loi en vous, l’espérance du salut",
+      "La sagesse en vous, l’espérance de la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 1:27 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-054",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Thessaloniciens 4:13",
+    "verseText": "Voir 1 Thessaloniciens 4:13.",
+    "question": "Dans 1 Thessaloniciens, comment Paul appelle-t-il les croyants au sujet des morts ?",
+    "choices": [
+      "Ne pas s’affliger comme les autres qui n’ont point d’espérance",
+      "Ne pas pleurer du tout",
+      "Oublier immédiatement les défunts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Thessaloniciens 4:13 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-055",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Thessaloniciens 3:14",
+    "verseText": "Voir 2 Thessaloniciens 3:14.",
+    "question": "Dans 2 Thessaloniciens, quelle attitude est prescrite envers celui qui refuse d’obéir à la parole ?",
+    "choices": [
+      "Ne pas avoir de communication avec lui, afin qu’il éprouve de la honte",
+      "Le chasser de la ville par la force",
+      "Le condamner sans lui parler"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Thessaloniciens 3:14 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-056",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Timothée 1:15",
+    "verseText": "Voir 1 Timothée 1:15.",
+    "question": "Dans 1 Timothée, quelle affirmation est dite certaine et digne d’être reçue ?",
+    "choices": [
+      "Jésus-Christ est venu dans le monde pour sauver les pécheurs",
+      "La richesse est le fondement de la foi",
+      "Le monde ne passera jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:15 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-057",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Timothée 3:16",
+    "verseText": "Voir 2 Timothée 3:16.",
+    "question": "Selon 2 Timothée, à quoi l’Écriture est-elle utile ?",
+    "choices": [
+      "À enseigner, à convaincre, à corriger, à instruire dans la justice",
+      "À enrichir, à divertir, à dominer",
+      "À établir des traditions humaines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Timothée 3:16 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-058",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Tite 2:11",
+    "verseText": "Voir Tite 2:11.",
+    "question": "Dans Tite, comment Paul décrit-il la grâce de Dieu ?",
+    "choices": [
+      "Elle apporte le salut à tous les hommes",
+      "Elle est réservée à une seule nation",
+      "Elle annule toute instruction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Tite 2:11 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-059",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Philémon 1:10",
+    "verseText": "Voir Philémon 1:10.",
+    "question": "Dans Philémon, quel nom Paul utilise-t-il pour parler d’Onésime ?",
+    "choices": [
+      "Mon enfant",
+      "Mon soldat",
+      "Mon juge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:10 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-060",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Hébreux 11:1",
+    "verseText": "Voir Hébreux 11:1.",
+    "question": "Dans Hébreux, quel est le sens donné au mot « foi » ?",
+    "choices": [
+      "Une ferme assurance des choses qu’on espère",
+      "Une opinion incertaine des choses qu’on voit",
+      "Une crainte des choses qu’on ignore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 11:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-061",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jacques 2:19",
+    "verseText": "Voir Jacques 2:19.",
+    "question": "Dans Jacques, quel exemple est donné pour illustrer la foi sans les œuvres ?",
+    "choices": [
+      "Les démons croient aussi, et ils tremblent",
+      "Les anges croient aussi, et ils chantent",
+      "Les hommes riches croient, et ils prospèrent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 2:19 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-062",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Pierre 3:9",
+    "verseText": "Voir 1 Pierre 3:9.",
+    "question": "Selon 1 Pierre, comment les croyants sont-ils appelés à réagir aux injures ?",
+    "choices": [
+      "En bénissant",
+      "En rendant injure pour injure",
+      "En gardant rancune"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Pierre 3:9 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-063",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Pierre 1:20",
+    "verseText": "Voir 2 Pierre 1:20.",
+    "question": "Dans 2 Pierre, quel contraste est fait au sujet de la prophétie ?",
+    "choices": [
+      "Aucune prophétie n’est d’une interprétation particulière",
+      "Toute prophétie vient d’une opinion humaine",
+      "La prophétie dépend du hasard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:20 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-064",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Jean 4:18",
+    "verseText": "Voir 1 Jean 4:18.",
+    "question": "Dans 1 Jean, quel signe manifeste l’amour parfait selon l’apôtre ?",
+    "choices": [
+      "Il bannit la crainte",
+      "Il augmente la peur",
+      "Il cache la vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:18 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-065",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jude 1:6",
+    "verseText": "Voir Jude 1:6.",
+    "question": "Dans Jude, quel exemple est cité d’un jugement sur des anges ?",
+    "choices": [
+      "Des anges qui n’ont pas gardé leur dignité",
+      "Des anges qui ont fondé une ville",
+      "Des anges qui ont écrit la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:6 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-066",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Apocalypse 1:5",
+    "verseText": "Voir Apocalypse 1:5.",
+    "question": "Dans l’Apocalypse, quel titre est donné à Jésus comme souverain des rois ?",
+    "choices": [
+      "Le souverain des rois de la terre",
+      "Le prince des prêtres du temple",
+      "Le chef des prophètes d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:5 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-067",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 28:30",
+    "verseText": "Voir Exode 28:30.",
+    "question": "Selon Exode, quel objet était placé sur le pectoral du jugement ?",
+    "choices": [
+      "L’urim et le thummim",
+      "Le bâton d’Aaron",
+      "Les tables de pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 28:30 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-068",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Lévitique 16:29",
+    "verseText": "Voir Lévitique 16:29.",
+    "question": "Dans Lévitique, quel jour est appelé « le grand jour des expiations » ?",
+    "choices": [
+      "Le dixième jour du septième mois",
+      "Le premier jour du premier mois",
+      "Le quatorzième jour du sixième mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 16:29 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-069",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Deutéronome 6:8",
+    "verseText": "Voir Deutéronome 6:8.",
+    "question": "Dans Deutéronome, que doit faire Israël à propos des paroles commandées ?",
+    "choices": [
+      "Les lier comme un signe sur ses mains",
+      "Les cacher sous une pierre",
+      "Les inscrire sur des armes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 6:8 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-070",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Josué 4:9",
+    "verseText": "Voir Josué 4:9.",
+    "question": "Dans Josué, quel monument fut dressé après le passage du Jourdain ?",
+    "choices": [
+      "Douze pierres",
+      "Une statue d’or",
+      "Sept autels"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 4:9 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-071",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Chroniques 15:19",
+    "verseText": "Voir 1 Chroniques 15:19.",
+    "question": "Dans 1 Chroniques, quel instrument David ordonna-t-il d’employer pour louer l’Éternel ?",
+    "choices": [
+      "Des cymbales retentissantes",
+      "Des trompettes de guerre seulement",
+      "Des tambours d’Egypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Chroniques 15:19 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-072",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Chroniques 6:20",
+    "verseText": "Voir 2 Chroniques 6:20.",
+    "question": "Dans 2 Chroniques, quelle prière Salomon fit-il à propos de la maison bâtie ?",
+    "choices": [
+      "Que le nom de l’Éternel y soit pour toujours",
+      "Que le roi y soit adoré",
+      "Que les nations y soient asservies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 6:20 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-073",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Esaïe 55:11",
+    "verseText": "Voir Esaïe 55:11.",
+    "question": "Selon Esaïe, comment est décrite la Parole qui sort de la bouche de l’Éternel ?",
+    "choices": [
+      "Elle ne retourne point à lui sans effet",
+      "Elle retourne toujours sans rien accomplir",
+      "Elle change selon les saisons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esaïe 55:11 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-074",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jérémie 32:9",
+    "verseText": "Voir Jérémie 32:9.",
+    "question": "Dans Jérémie, quel achat symbolique le prophète fit-il à Anathoth ?",
+    "choices": [
+      "Un champ",
+      "Une vigne",
+      "Une maison au palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 32:9 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-075",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ezéchiel 3:3",
+    "verseText": "Voir Ezéchiel 3:3.",
+    "question": "Dans Ezéchiel, quel signe le prophète fit-il en mangeant le rouleau ?",
+    "choices": [
+      "Il fut doux comme le miel dans sa bouche",
+      "Il le brûla sur un autel",
+      "Il le donna aux anciens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ezéchiel 3:3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-076",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Daniel 5:25",
+    "verseText": "Voir Daniel 5:25.",
+    "question": "Dans Daniel, quelle écriture mystérieuse apparut sur la muraille ?",
+    "choices": [
+      "Mené, mené, tekel, upharsin",
+      "Elohim, Elohim, sabaoth",
+      "Shalom, shalom, amen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 5:25 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-077",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jonas 3:4",
+    "verseText": "Voir Jonas 3:4.",
+    "question": "Dans Jonas, quel était le message central à Ninive ?",
+    "choices": [
+      "Encore quarante jours, et Ninive est détruite",
+      "Encore trois jours, et Ninive est sauvée",
+      "Encore sept jours, et Ninive règnera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 3:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-078",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Zacharie 9:9",
+    "verseText": "Voir Zacharie 9:9.",
+    "question": "Dans Zacharie, quelle promesse est donnée au sujet d’un roi venant à Jérusalem ?",
+    "choices": [
+      "Il est juste et victorieux, humble et monté sur un âne",
+      "Il vient avec mille chars et des chevaux",
+      "Il vient avec des trésors d’Egypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 9:9 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-079",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Matthieu 8:3",
+    "verseText": "Voir Matthieu 8:3.",
+    "question": "Dans Matthieu, quelle demande Jésus fait-il avant de guérir le lépreux ?",
+    "choices": [
+      "Il étendit la main et le toucha",
+      "Il lui demanda d’apporter de l’or",
+      "Il lui demanda de lire un rouleau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 8:3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-080",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Marc 7:13",
+    "verseText": "Voir Marc 7:13.",
+    "question": "Dans Marc, que répondit Jésus au sujet de la tradition qui annule la parole de Dieu ?",
+    "choices": [
+      "Vous anéantissez ainsi la parole de Dieu par votre tradition",
+      "Vous établissez la loi de Dieu par vos coutumes",
+      "Vous sanctifiez la parole par vos récits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 7:13 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-081",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Luc 19:4",
+    "verseText": "Voir Luc 19:4.",
+    "question": "Dans Luc, quel homme grimpa sur un sycomore pour voir Jésus ?",
+    "choices": [
+      "Zachée",
+      "Bartimée",
+      "Jonas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-082",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jean 5:2",
+    "verseText": "Voir Jean 5:2.",
+    "question": "Dans Jean, quel est le nom de la piscine où un infirme fut guéri ?",
+    "choices": [
+      "Béthesda",
+      "Siloé",
+      "Gihon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 5:2 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-083",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Actes 2:16",
+    "verseText": "Voir Actes 2:16.",
+    "question": "Dans Actes, quel discours Pierre fit-il le jour de la Pentecôte ?",
+    "choices": [
+      "Il cita le prophète Joël",
+      "Il cita uniquement Moïse",
+      "Il cita uniquement Esaïe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Actes 2:16 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-084",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Romains 12:1",
+    "verseText": "Voir Romains 12:1.",
+    "question": "Dans Romains, quel service est appelé « raisonnable » ?",
+    "choices": [
+      "Offrir vos corps comme un sacrifice vivant",
+      "Offrir des animaux sans cesse",
+      "Offrir des richesses au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 12:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-085",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Corinthiens 14:3",
+    "verseText": "Voir 1 Corinthiens 14:3.",
+    "question": "Dans 1 Corinthiens, quel élément Paul dit-il nécessaire pour que la prophétie édifie ?",
+    "choices": [
+      "Qu’elle serve à l’édification, à l’exhortation et à la consolation",
+      "Qu’elle soit obscure et incompréhensible",
+      "Qu’elle soit réservée aux chefs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Corinthiens 14:3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-086",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Corinthiens 10:4",
+    "verseText": "Voir 2 Corinthiens 10:4.",
+    "question": "Dans 2 Corinthiens, comment Paul décrit-il les armes du combat ?",
+    "choices": [
+      "Elles sont puissantes par la vertu de Dieu",
+      "Elles sont charnelles et faibles",
+      "Elles sont des ruses humaines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Corinthiens 10:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-087",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Galates 3:24",
+    "verseText": "Voir Galates 3:24.",
+    "question": "Dans Galates, quel est l’effet attribué à la loi comme rôle temporaire ?",
+    "choices": [
+      "Elle a été comme un pédagogue pour nous conduire à Christ",
+      "Elle a supprimé toute promesse",
+      "Elle a rendu inutile la foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Galates 3:24 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-088",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ephésiens 2:15",
+    "verseText": "Voir Ephésiens 2:15.",
+    "question": "Dans Ephésiens, qu’est-ce qui est dit avoir été aboli par Christ ?",
+    "choices": [
+      "La loi des ordonnances dans ses prescriptions",
+      "Les promesses faites aux pères",
+      "Le besoin de la prière"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ephésiens 2:15 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-089",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Philippiens 2:8",
+    "verseText": "Voir Philippiens 2:8.",
+    "question": "Dans Philippiens, quel exemple Paul cite-t-il concernant l’humiliation de Christ ?",
+    "choices": [
+      "Il s’est humilié lui-même, se rendant obéissant jusqu’à la mort",
+      "Il s’est exalté lui-même avant la croix",
+      "Il a refusé toute obéissance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philippiens 2:8 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-090",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Colossiens 3:3",
+    "verseText": "Voir Colossiens 3:3.",
+    "question": "Dans Colossiens, où Paul dit-il que la vie des croyants est cachée ?",
+    "choices": [
+      "Avec Christ en Dieu",
+      "Dans le désert avec Moïse",
+      "Dans le temple de pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 3:3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-091",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Thessaloniciens 5:16",
+    "verseText": "Voir 1 Thessaloniciens 5:16.",
+    "question": "Dans 1 Thessaloniciens, quel ordre est donné concernant la joie ?",
+    "choices": [
+      "Soyez toujours joyeux",
+      "Soyez joyeux seulement en paix",
+      "Soyez joyeux seulement en secret"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Thessaloniciens 5:16 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-092",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Timothée 6:10",
+    "verseText": "Voir 1 Timothée 6:10.",
+    "question": "Dans 1 Timothée, quelle image est utilisée au sujet de l’amour de l’argent ?",
+    "choices": [
+      "Une racine de tous les maux",
+      "Une couronne de gloire",
+      "Une voie de sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:10 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-093",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Tite 3:5",
+    "verseText": "Voir Tite 3:5.",
+    "question": "Dans Tite, comment Paul décrit-il le lavage lié au salut ?",
+    "choices": [
+      "Le lavage de la régénération",
+      "Le lavage des mains avant le repas",
+      "Le lavage des pieds au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Tite 3:5 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-094",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Hébreux 4:12",
+    "verseText": "Voir Hébreux 4:12.",
+    "question": "Dans Hébreux, comment est qualifiée la parole de Dieu ?",
+    "choices": [
+      "Vivante et efficace",
+      "Vieille et inutile",
+      "Secrète et muette"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Hébreux 4:12 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-095",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jacques 3:5",
+    "verseText": "Voir Jacques 3:5.",
+    "question": "Dans Jacques, quel exemple montre la petitesse de la langue ?",
+    "choices": [
+      "Un petit feu qui embrase une grande forêt",
+      "Une pierre qui bâtit une ville",
+      "Une source qui ne coule pas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jacques 3:5 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-096",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Pierre 5:8",
+    "verseText": "Voir 1 Pierre 5:8.",
+    "question": "Dans 1 Pierre, comment est décrit le diable ?",
+    "choices": [
+      "Comme un lion rugissant",
+      "Comme une colombe paisible",
+      "Comme un agneau silencieux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Pierre 5:8 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-097",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Pierre 3:12",
+    "verseText": "Voir 2 Pierre 3:12.",
+    "question": "Dans 2 Pierre, comment est décrite l’attente des croyants face au jour de Dieu ?",
+    "choices": [
+      "Attendant et hâtant l’avènement du jour de Dieu",
+      "Craignant et fuyant le jour de Dieu",
+      "Niant et oubliant le jour de Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:12 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-098",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Jean 4:2",
+    "verseText": "Voir 1 Jean 4:2.",
+    "question": "Dans 1 Jean, quel test est donné pour reconnaître les esprits ?",
+    "choices": [
+      "Tout esprit qui confesse Jésus-Christ venu en chair est de Dieu",
+      "Tout esprit qui parle de sagesse est de Dieu",
+      "Tout esprit qui fait des miracles est de Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Jean 4:2 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-099",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jude 1:22",
+    "verseText": "Voir Jude 1:22.",
+    "question": "Dans Jude, quelle attitude est demandée envers ceux qui doutent ?",
+    "choices": [
+      "Ayez pitié de ceux qui doutent",
+      "Méprisez ceux qui doutent",
+      "Bannissez ceux qui doutent sans appel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jude 1:22 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-100",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Apocalypse 1:16",
+    "verseText": "Voir Apocalypse 1:16.",
+    "question": "Dans l’Apocalypse, quel est le premier objet mentionné comme étant dans la main droite de celui qui parle ?",
+    "choices": [
+      "Sept étoiles",
+      "Douze pierres",
+      "Trois couronnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:16 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-101",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Pierre 2:8",
+    "verseText": "Voir 1 Pierre 2:8.",
+    "question": "0. Quel objet est associé à « la pierre d’achoppement » et « le rocher de scandale » ?",
+    "choices": [
+      "Une pierre",
+      "Une épée",
+      "Une nuée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Pierre 2:8 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-102",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Job 1:21",
+    "verseText": "Voir Job 1:21.",
+    "question": "1. Quel livre dit : « L’Éternel a donné, et l’Éternel a ôté » ?",
+    "choices": [
+      "Job",
+      "Psaumes",
+      "Ecclésiaste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 1:21 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-103",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 9:13",
+    "verseText": "Voir Genèse 9:13.",
+    "question": "2. Quel livre dit : « Je mettrai mon arc dans la nuée » ?",
+    "choices": [
+      "Genèse",
+      "Exode",
+      "Nombres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 9:13 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-104",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 16:13-14",
+    "verseText": "Voir Genèse 16:13-14.",
+    "question": "3. Quel nom est donné au lieu où Hagar appelle l’Éternel : « Tu es le Dieu qui me voit » ?",
+    "choices": [
+      "Beer-Lachaï-roï",
+      "Beer-Schéba",
+      "Migdal-Éder"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 16:13-14 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-105",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 11:9",
+    "verseText": "Voir Genèse 11:9.",
+    "question": "4. Quelle ville est mentionnée comme lieu où l’Éternel « confondit le langage » ?",
+    "choices": [
+      "Babel",
+      "Ninive",
+      "Tyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 11:9 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-106",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Proverbes 9:10",
+    "verseText": "Voir Proverbes 9:10.",
+    "question": "5. Quel livre dit : « Le commencement de la sagesse, c’est la crainte de l’Éternel » ?",
+    "choices": [
+      "Proverbes",
+      "Job",
+      "Psaumes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 9:10 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-107",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Rois 3:11",
+    "verseText": "Voir 2 Rois 3:11.",
+    "question": "6. Quel est le nom du roi qui demande : « N’y a-t-il point ici un prophète de l’Éternel ? » et l’on répond : « Il y a encore Élisée » ?",
+    "choices": [
+      "Josaphat",
+      "Ézéchias",
+      "Joas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 3:11 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-108",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Psaumes 27:4",
+    "verseText": "Voir Psaumes 27:4.",
+    "question": "7. Quel livre dit : « Je te demande une chose… que j’habite dans la maison de l’Éternel tous les jours de ma vie » ?",
+    "choices": [
+      "Psaumes",
+      "Proverbes",
+      "Job"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Psaumes 27:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-109",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Proverbes 27:17",
+    "verseText": "Voir Proverbes 27:17.",
+    "question": "8. Quel livre dit : « Le fer aiguise le fer » ?",
+    "choices": [
+      "Proverbes",
+      "Ecclésiaste",
+      "Cantique des cantiques"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 27:17 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-110",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ésaïe 51:16",
+    "verseText": "Voir Ésaïe 51:16.",
+    "question": "9. Quel livre dit : « J’ai mis mes paroles dans ta bouche, et je t’ai couvert de l’ombre de ma main » ?",
+    "choices": [
+      "Ésaïe",
+      "Jérémie",
+      "Ézéchiel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 51:16 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-111",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 12:8",
+    "verseText": "Voir Genèse 12:8.",
+    "question": "Où Abram s’arrêta-t-il et y bâtit-il un autel à l’Éternel, après être sorti de Charan ?",
+    "choices": [
+      "Entre Béthel et Aï",
+      "Près de Gaza et d’Askalon",
+      "À côté de Sodome et Gomorrhe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 12:8 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-112",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jérémie 19:10",
+    "verseText": "Voir Jérémie 19:10.",
+    "question": "0. Quel objet Jérémie doit-il briser devant les hommes pour un signe ?",
+    "choices": [
+      "Une cruche de potier",
+      "Une table de cèdre",
+      "Une lampe d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 19:10 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-113",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ézéchiel 18:4",
+    "verseText": "Voir Ézéchiel 18:4.",
+    "question": "1. Quel livre dit : « L’âme qui pèche, c’est celle qui mourra » ?",
+    "choices": [
+      "Ézéchiel",
+      "Daniel",
+      "Osée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 18:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-114",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jérémie 31:33",
+    "verseText": "Voir Jérémie 31:33.",
+    "question": "2. Quel livre dit : « Je mettrai ma loi au dedans d’eux » ?",
+    "choices": [
+      "Jérémie",
+      "Ésaïe",
+      "Sophonie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:33 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-115",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Esdras 3:2-3",
+    "verseText": "Voir Esdras 3:2-3.",
+    "question": "3. Quel est le nom de la ville où le peuple « bâtit un autel à l’Éternel » après le retour, avant même les fondements du temple ?",
+    "choices": [
+      "Jérusalem",
+      "Béthel",
+      "Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 3:2-3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-116",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Néhémie 8:10",
+    "verseText": "Voir Néhémie 8:10.",
+    "question": "4. Quel livre dit : « La joie de l’Éternel sera votre force » ?",
+    "choices": [
+      "Néhémie",
+      "Esdras",
+      "Esther"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 8:10 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-117",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Esdras 1:1-3",
+    "verseText": "Voir Esdras 1:1-3.",
+    "question": "5. Quel est le nom du roi dont le cœur « fut animé » pour laisser remonter et rebâtir la maison de l’Éternel ?",
+    "choices": [
+      "Cyrus",
+      "Darius",
+      "Artaxerxès"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 1:1-3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-118",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Cantique des cantiques 8:6",
+    "verseText": "Voir Cantique des cantiques 8:6.",
+    "question": "6. Quel objet est mentionné dans : « Mets un sceau sur ton cœur, comme un sceau sur ton bras » ?",
+    "choices": [
+      "Un sceau",
+      "Une épée",
+      "Une harpe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantique des cantiques 8:6 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-119",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ecclésiaste 3:1",
+    "verseText": "Voir Ecclésiaste 3:1.",
+    "question": "7. Quel livre dit : « Il y a un temps pour tout » ?",
+    "choices": [
+      "Ecclésiaste",
+      "Proverbes",
+      "Job"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 3:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-120",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Psaumes 27:1",
+    "verseText": "Voir Psaumes 27:1.",
+    "question": "8. Quel livre dit : « L’Éternel est ma lumière et mon salut » ?",
+    "choices": [
+      "Psaumes",
+      "Job",
+      "Proverbes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Psaumes 27:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-121",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Proverbes 28:13",
+    "verseText": "Voir Proverbes 28:13.",
+    "question": "9. Quel livre dit : « Celui qui couvre ses transgressions ne prospère point » ?",
+    "choices": [
+      "Proverbes",
+      "Psaumes",
+      "Deutéronome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 28:13 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-122",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 28:10",
+    "verseText": "Voir Genèse 28:10.",
+    "question": "De quel lieu Jacob partit-il quand il vit en songe une échelle dressée sur la terre ?",
+    "choices": [
+      "Beer-Schéba",
+      "Hébron",
+      "Sichem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 28:10 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-123",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jérémie 29:11",
+    "verseText": "Voir Jérémie 29:11.",
+    "question": "0. Quel livre dit : « Les pensées de paix, et non de malheur » ?",
+    "choices": [
+      "Jérémie",
+      "Ésaïe",
+      "Daniel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 29:11 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-124",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jérémie 18:3",
+    "verseText": "Voir Jérémie 18:3.",
+    "question": "1. Quel est le nom du prophète qui dit : « Je suis descendu dans la maison du potier » ?",
+    "choices": [
+      "Jérémie",
+      "Ézéchiel",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 18:3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-125",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 15:11",
+    "verseText": "Voir Exode 15:11.",
+    "question": "2. Quel livre dit : « Qui est comme toi parmi les dieux, ô Éternel ? » ?",
+    "choices": [
+      "Exode",
+      "Deutéronome",
+      "Nombres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 15:11 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-126",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 13:21",
+    "verseText": "Voir Exode 13:21.",
+    "question": "3. Quel livre dit : « L’Éternel marcha devant eux, le jour dans une colonne de nuée » ?",
+    "choices": [
+      "Exode",
+      "Josué",
+      "Juges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 13:21 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-127",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 32:24",
+    "verseText": "Voir Exode 32:24.",
+    "question": "4. Quel objet Aaron jette-t-il « dans le feu » en racontant l’histoire du veau ?",
+    "choices": [
+      "L’or",
+      "Le bronze",
+      "L’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 32:24 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-128",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Lévitique 11:44",
+    "verseText": "Voir Lévitique 11:44.",
+    "question": "5. Quel livre dit : « Vous serez saints, car je suis saint » ?",
+    "choices": [
+      "Lévitique",
+      "Exode",
+      "Deutéronome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 11:44 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-129",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Nombres 14:18",
+    "verseText": "Voir Nombres 14:18.",
+    "question": "6. Quel livre dit : « L’Éternel est lent à la colère et riche en bonté » (dans une prière de Moïse) ?",
+    "choices": [
+      "Nombres",
+      "Lévitique",
+      "Deutéronome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 14:18 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-130",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Proverbes 16:31",
+    "verseText": "Voir Proverbes 16:31.",
+    "question": "7. Quel objet est décrit comme « une couronne de gloire » pour les cheveux gris ?",
+    "choices": [
+      "Les cheveux blancs",
+      "Un diadème d’or",
+      "Une tresse d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 16:31 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-131",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Proverbes 24:16",
+    "verseText": "Voir Proverbes 24:16.",
+    "question": "8. Quel livre dit : « Le juste tombe sept fois, et il se relève » ?",
+    "choices": [
+      "Proverbes",
+      "Job",
+      "Psaumes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 24:16 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-132",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Deutéronome 30:19",
+    "verseText": "Voir Deutéronome 30:19.",
+    "question": "9. Quel livre dit : « J’ai mis devant toi la vie et la mort » ?",
+    "choices": [
+      "Deutéronome",
+      "Lévitique",
+      "Josué"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 30:19 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-133",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 7:20",
+    "verseText": "Voir Exode 7:20.",
+    "question": "Où les eaux furent-elles changées en sang devant les yeux de Pharaon ?",
+    "choices": [
+      "Dans le fleuve",
+      "Dans le désert",
+      "Dans la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 7:20 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-134",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 17:6",
+    "verseText": "Voir Exode 17:6.",
+    "question": "0. Quel est le nom du mont où l’Éternel dit : « Voici, je me tiens devant toi sur le rocher » ?",
+    "choices": [
+      "Horeb",
+      "Nébo",
+      "Guilboa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 17:6 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-135",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Osée 4:6",
+    "verseText": "Voir Osée 4:6.",
+    "question": "1. Quel livre dit : « Mon peuple est détruit parce qu’il lui manque la connaissance » ?",
+    "choices": [
+      "Osée",
+      "Joël",
+      "Amos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 4:6 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-136",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Joël 2:28",
+    "verseText": "Voir Joël 2:28.",
+    "question": "2. Quel livre dit : « Je répandrai mon esprit sur toute chair » ?",
+    "choices": [
+      "Joël",
+      "Malachie",
+      "Zacharie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Joël 2:28 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-137",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Amos 1:2",
+    "verseText": "Voir Amos 1:2.",
+    "question": "3. Quel livre dit : « L’Éternel rugit de Sion » ?",
+    "choices": [
+      "Amos",
+      "Abdias",
+      "Sophonie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 1:2 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-138",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Habakuk 2:4",
+    "verseText": "Voir Habakuk 2:4.",
+    "question": "4. Quel livre dit : « Le juste vivra par sa fidélité » (formulation LS1910 dans le verset) ?",
+    "choices": [
+      "Habakuk",
+      "Aggée",
+      "Nahum"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Habakuk 2:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-139",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Psaumes 92:13",
+    "verseText": "Voir Psaumes 92:13.",
+    "question": "5. Quel livre dit : « Le juste fleurira comme le palmier » ?",
+    "choices": [
+      "Psaumes",
+      "Proverbes",
+      "Job"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Psaumes 92:13 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-140",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Matthieu 13:44",
+    "verseText": "Voir Matthieu 13:44.",
+    "question": "6. Quel objet Jésus compare-t-il au royaume : « semblable à un trésor caché dans un champ » ?",
+    "choices": [
+      "Un trésor caché",
+      "Une perle noire",
+      "Une épée cachée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 13:44 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-141",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Marc 4:24",
+    "verseText": "Voir Marc 4:24.",
+    "question": "7. Quel objet est mentionné : « Une mesure dont vous vous servez » (selon Jésus) ?",
+    "choices": [
+      "La mesure",
+      "La balance",
+      "La corde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 4:24 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-142",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Matthieu 13:38",
+    "verseText": "Voir Matthieu 13:38.",
+    "question": "8. Quel livre dit : « Le champ est le monde » ?",
+    "choices": [
+      "Matthieu",
+      "Marc",
+      "Luc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 13:38 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-143",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Philippiens 2:14",
+    "verseText": "Voir Philippiens 2:14.",
+    "question": "9. Quel livre dit : « Faites tout sans murmures ni hésitations » ?",
+    "choices": [
+      "Philippiens",
+      "Éphésiens",
+      "Colossiens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philippiens 2:14 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-144",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 28:29",
+    "verseText": "Voir Exode 28:29.",
+    "question": "Sur quoi Aaron devait-il porter les noms des fils d’Israël pour le mémorial ?",
+    "choices": [
+      "Sur le pectoral du jugement",
+      "Sur la tiare de lin",
+      "Sur la ceinture brodée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 28:29 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-145",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Colossiens 3:15",
+    "verseText": "Voir Colossiens 3:15.",
+    "question": "0. Quel livre dit : « La paix de Christ, à laquelle vous avez été appelés pour former un seul corps, règne dans vos cœurs » ?",
+    "choices": [
+      "Colossiens",
+      "Romains",
+      "1 Thessaloniciens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Colossiens 3:15 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-146",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 9:13",
+    "verseText": "Voir Genèse 9:13.",
+    "question": "1. Quel signe l’Éternel donne-t-il à Noé pour alliance avec toute chair ?",
+    "choices": [
+      "L’arc dans la nuée",
+      "Une colonne de feu",
+      "Une étoile au-dessus de l’arche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 9:13 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-147",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 26:20",
+    "verseText": "Voir Genèse 26:20.",
+    "question": "2. Quel est le nom du puits que les serviteurs d’Isaac appellent parce qu’on leur fit querelle ?",
+    "choices": [
+      "Esek",
+      "Rehoboth",
+      "Sitna"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 26:20 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-148",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 26:21",
+    "verseText": "Voir Genèse 26:21.",
+    "question": "3. Quel est le nom du puits appelé ainsi parce qu’on leur disputa encore ?",
+    "choices": [
+      "Sitna",
+      "Esek",
+      "Beer-Lachaï-roï"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 26:21 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-149",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 26:22",
+    "verseText": "Voir Genèse 26:22.",
+    "question": "4. Quel est le nom du puits nommé car l’Éternel leur fit de la place ?",
+    "choices": [
+      "Rehoboth",
+      "Esek",
+      "Mara"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 26:22 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-150",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 28:11",
+    "verseText": "Voir Genèse 28:11.",
+    "question": "5. Quel objet Jacob place-t-il sous sa tête quand il se couche en chemin ?",
+    "choices": [
+      "Une des pierres du lieu",
+      "Un sac de blé",
+      "Un bâton taillé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 28:11 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-151",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 28:17-19",
+    "verseText": "Voir Genèse 28:17-19.",
+    "question": "6. Quel est le nom donné à la porte du ciel par Jacob ?",
+    "choices": [
+      "Béthel",
+      "Peniel",
+      "Guilgal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 28:17-19 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-152",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 31:47",
+    "verseText": "Voir Genèse 31:47.",
+    "question": "7. Comment Laban appelle-t-il le monceau du témoignage, selon sa langue ?",
+    "choices": [
+      "Jegar-Sahadutha",
+      "Beer-Schéba",
+      "Migdal-Éder"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 31:47 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-153",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 31:47",
+    "verseText": "Voir Genèse 31:47.",
+    "question": "8. Comment Jacob appelle-t-il ce même monceau ?",
+    "choices": [
+      "Galaad",
+      "Sion",
+      "Élim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 31:47 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-154",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 32:30",
+    "verseText": "Voir Genèse 32:30.",
+    "question": "9. Quel est le nom de l’ange que Jacob dit avoir vu face à face en parlant du lieu ?",
+    "choices": [
+      "Il nomma ce lieu Peniel",
+      "Il nomma ce lieu Hébron",
+      "Il nomma ce lieu Sichem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 32:30 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-155",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Nombres 10:12",
+    "verseText": "Voir Nombres 10:12.",
+    "question": "Quel lieu est nommé comme le point de départ de la marche d’Israël après avoir quitté le Sinaï ?",
+    "choices": [
+      "Le désert de Paran",
+      "La montagne d’Édom",
+      "La plaine de Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 10:12 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-156",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Genèse 50:20",
+    "verseText": "Voir Genèse 50:20.",
+    "question": "0. Quelle parole Joseph dit-il à ses frères : « Vous aviez médité de me faire du mal » mais Dieu en quoi ?",
+    "choices": [
+      "Dieu l’a changé en bien",
+      "Dieu l’a oublié",
+      "Dieu l’a puni aussitôt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 50:20 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-157",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 4:6",
+    "verseText": "Voir Exode 4:6.",
+    "question": "1. Quel est le signe sur la main de Moïse qui devient blanche comme la neige ?",
+    "choices": [
+      "Sa main devint lépreuse",
+      "Sa main devint brûlante",
+      "Sa main devint dure comme la pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 4:6 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-158",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 15:23",
+    "verseText": "Voir Exode 15:23.",
+    "question": "2. Quel est le nom de l’endroit où les eaux sont amères avant d’être rendues douces ?",
+    "choices": [
+      "Mara",
+      "Élim",
+      "Succoth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 15:23 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-159",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 15:25",
+    "verseText": "Voir Exode 15:25.",
+    "question": "3. Quel est l’objet que Moïse jette dans les eaux pour les adoucir ?",
+    "choices": [
+      "Un bois",
+      "De la farine",
+      "Du sel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 15:25 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-160",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 15:27",
+    "verseText": "Voir Exode 15:27.",
+    "question": "4. Quel est le nom de l’endroit où Israël trouve douze sources d’eau ?",
+    "choices": [
+      "Élim",
+      "Mara",
+      "Réphidim"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 15:27 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-161",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 16:31",
+    "verseText": "Voir Exode 16:31.",
+    "question": "5. Quelle est la forme de la manne décrite au désert ?",
+    "choices": [
+      "Comme de la graine de coriandre",
+      "Comme du sable noir",
+      "Comme des fruits mûrs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 16:31 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-162",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 17:7",
+    "verseText": "Voir Exode 17:7.",
+    "question": "6. Quel est le nom du lieu où Israël murmure faute d’eau et où Moïse frappe le rocher ?",
+    "choices": [
+      "Massa et Meriba",
+      "Guilgal et Béthel",
+      "Silo et Nob"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 17:7 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-163",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 25:10",
+    "verseText": "Voir Exode 25:10.",
+    "question": "7. Quel est le nom du bois prescrit pour l’arche ?",
+    "choices": [
+      "Bois de sittim",
+      "Bois de cèdre",
+      "Bois de sycomore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 25:10 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-164",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 25:16",
+    "verseText": "Voir Exode 25:16.",
+    "question": "8. Quel contenu doit être mis dans l’arche selon l’ordre donné ?",
+    "choices": [
+      "Le témoignage",
+      "Le livre des rois",
+      "L’encens parfumé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 25:16 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-165",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Exode 32:24",
+    "verseText": "Voir Exode 32:24.",
+    "question": "9. Quel objet Aaron jette-t-il dans le feu selon son récit du veau ?",
+    "choices": [
+      "L’or",
+      "La myrrhe",
+      "Le lin fin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 32:24 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-166",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Josué 3:17",
+    "verseText": "Voir Josué 3:17.",
+    "question": "Entre quelles eaux Josué commanda-t-il aux sacrificateurs de s’arrêter en portant l’arche ?",
+    "choices": [
+      "Au milieu du Jourdain",
+      "Au bord de la mer Rouge",
+      "Dans les eaux de Meriba"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 3:17 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-167",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Lévitique 11:44",
+    "verseText": "Voir Lévitique 11:44.",
+    "question": "0. Quelle est la raison donnée pour le commandement : « Vous serez saints » ?",
+    "choices": [
+      "Car je suis saint",
+      "Car vous êtes nombreux",
+      "Car vous êtes forts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 11:44 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-168",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Lévitique 11:4",
+    "verseText": "Voir Lévitique 11:4.",
+    "question": "1. Quel animal est déclaré impur car il rumine mais n’a pas le pied fendu ?",
+    "choices": [
+      "Le chameau",
+      "Le mouton",
+      "Le chevreau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 11:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-169",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Lévitique 16:31",
+    "verseText": "Voir Lévitique 16:31.",
+    "question": "2. Comment est nommé le grand jour du Lévitique : « ce sera pour vous… » ?",
+    "choices": [
+      "Un sabbat, un jour de repos",
+      "Un jour de marché",
+      "Un jour de victoire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 16:31 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-170",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Lévitique 16:34",
+    "verseText": "Voir Lévitique 16:34.",
+    "question": "3. Quel est le lieu où le grand sacrificateur entre une fois l’an selon l’instruction ?",
+    "choices": [
+      "Le lieu très saint",
+      "Le parvis extérieur",
+      "La porte de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 16:34 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-171",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Nombres 14:18",
+    "verseText": "Voir Nombres 14:18.",
+    "question": "4. Quelle expression Moïse cite-t-il sur l’Éternel : « lent à la colère et riche en bonté » ?",
+    "choices": [
+      "Lent à la colère et riche en bonté",
+      "Prompt à punir et pauvre en grâce",
+      "Indifférent et silencieux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 14:18 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-172",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Nombres 17:8",
+    "verseText": "Voir Nombres 17:8.",
+    "question": "5. Quel signe est produit par la verge d’Aaron déposée devant le témoignage ?",
+    "choices": [
+      "Elle fleurit et porta des amandes",
+      "Elle se brisa en deux",
+      "Elle devint une épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 17:8 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-173",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Nombres 21:17",
+    "verseText": "Voir Nombres 21:17.",
+    "question": "6. Quel chant Israël entonne-t-il au sujet du puits ?",
+    "choices": [
+      "Monte, puits !",
+      "Descends, mer !",
+      "Grandis, montagne !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nombres 21:17 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-174",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Deutéronome 6:4",
+    "verseText": "Voir Deutéronome 6:4.",
+    "question": "7. Quel est le cri de foi central : « L’Éternel, notre Dieu, est… » ?",
+    "choices": [
+      "Le seul Éternel",
+      "Un parmi d’autres",
+      "Un dieu lointain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 6:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-175",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Deutéronome 6:8",
+    "verseText": "Voir Deutéronome 6:8.",
+    "question": "8. Que dit Moïse sur les paroles : « tu les lieras… » comme quoi sur la main ?",
+    "choices": [
+      "Comme un signe",
+      "Comme un ornement",
+      "Comme une arme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 6:8 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-176",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Deutéronome 30:19",
+    "verseText": "Voir Deutéronome 30:19.",
+    "question": "9. Quel contraste Moïse présente-t-il : « J’ai mis devant toi… » ?",
+    "choices": [
+      "La vie et la mort",
+      "La richesse et la pauvreté",
+      "La pluie et la neige"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 30:19 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-177",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Samuel 7:12",
+    "verseText": "Voir 1 Samuel 7:12.",
+    "question": "Quel lieu Samuel désigna-t-il comme celui où Israël avait été délivré, en dressant une pierre ?",
+    "choices": [
+      "Entre Mitspa et Schen",
+      "Entre Rama et Guilgal",
+      "Entre Jéricho et Béthel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 7:12 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-178",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Deutéronome 30:14",
+    "verseText": "Voir Deutéronome 30:14.",
+    "question": "0. Quelle caractéristique de la parole est donnée : « elle est… » ?",
+    "choices": [
+      "Tout près de toi",
+      "Trop loin de toi",
+      "Cachée à jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Deutéronome 30:14 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-179",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Josué 10:13",
+    "verseText": "Voir Josué 10:13.",
+    "question": "1. Quel événement extraordinaire est rapporté : « le soleil s’arrêta » (avec la lune) ?",
+    "choices": [
+      "Le soleil s’arrêta",
+      "La mer s’ouvrit",
+      "Le feu tomba sur l’autel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 10:13 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-180",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Josué 6:4",
+    "verseText": "Voir Josué 6:4.",
+    "question": "2. Quel objet est mentionné pour la prise de Jéricho : des trompettes de quoi ?",
+    "choices": [
+      "Corne de bélier",
+      "Argent pur",
+      "Bois d’olivier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Josué 6:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-181",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Juges 9:8-9",
+    "verseText": "Voir Juges 9:8-9.",
+    "question": "3. Dans la parabole de Jotham, quel arbre est d’abord invité à régner ?",
+    "choices": [
+      "L’olivier",
+      "Le figuier",
+      "La vigne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 9:8-9 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-182",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Juges 15:15",
+    "verseText": "Voir Juges 15:15.",
+    "question": "4. Quel objet Samson utilise-t-il pour frapper mille hommes ?",
+    "choices": [
+      "Une mâchoire d’âne, fraîche",
+      "Une lance de fer",
+      "Une fronde de cuir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 15:15 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-183",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Juges 7:20",
+    "verseText": "Voir Juges 7:20.",
+    "question": "5. Quel objet Gédéon et les siens tiennent-ils lorsqu’ils sonnent ?",
+    "choices": [
+      "Des trompettes",
+      "Des harpes",
+      "Des tambourins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Juges 7:20 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-184",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Samuel 10:1",
+    "verseText": "Voir 1 Samuel 10:1.",
+    "question": "6. Quel est l’objet que Samuel prend pour oindre Saül ?",
+    "choices": [
+      "Une fiole d’huile",
+      "Une coupe d’eau",
+      "Une pierre sacrée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 10:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-185",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Samuel 21:1",
+    "verseText": "Voir 1 Samuel 21:1.",
+    "question": "7. Quel est le nom du prêtre auprès duquel David reçoit les pains ?",
+    "choices": [
+      "Achimélec",
+      "Abiathar",
+      "Zadok"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Samuel 21:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-186",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Samuel 23:17",
+    "verseText": "Voir 2 Samuel 23:17.",
+    "question": "8. Quelle parole David dit-il en refusant de boire l’eau apportée au péril de la vie ?",
+    "choices": [
+      "Est-ce le sang des hommes ?",
+      "Est-ce l’or des rois ?",
+      "Est-ce la force des guerriers ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 23:17 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-187",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Samuel 12:13",
+    "verseText": "Voir 2 Samuel 12:13.",
+    "question": "9. Quelle confession David fait-il à Nathan après la parabole ?",
+    "choices": [
+      "J’ai péché contre l’Éternel",
+      "J’ai vaincu mes ennemis",
+      "J’ai gardé ma justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 12:13 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-188",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jonas 1:4",
+    "verseText": "Voir Jonas 1:4.",
+    "question": "D’où l’Éternel fit-il venir un grand vent pour jeter une grande tempête sur la mer ?",
+    "choices": [
+      "De l’Éternel",
+      "Des marins",
+      "Des habitants de Ninive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jonas 1:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-189",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Rois 3:9",
+    "verseText": "Voir 1 Rois 3:9.",
+    "question": "0. Que demande Salomon à Dieu au lieu de richesses ?",
+    "choices": [
+      "Un cœur intelligent",
+      "Un trésor immense",
+      "Une longue guerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 3:9 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-190",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Rois 18:32",
+    "verseText": "Voir 1 Rois 18:32.",
+    "question": "1. Quel détail Élie ajoute-t-il à l’autel avant que le feu tombe ?",
+    "choices": [
+      "Il fit un fossé autour de l’autel",
+      "Il bâtit une tour autour de l’autel",
+      "Il posa un voile sur l’autel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 18:32 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-191",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Chroniques 7:1",
+    "verseText": "Voir 2 Chroniques 7:1.",
+    "question": "2. Quel signe suit la prière de Salomon lors de la dédicace ?",
+    "choices": [
+      "Le feu descendit du ciel",
+      "La mer s’arrêta",
+      "La lune devint sang"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 7:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-192",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Rois 6:5",
+    "verseText": "Voir 2 Rois 6:5.",
+    "question": "3. Quel objet est perdu dans l’eau chez les fils des prophètes et retrouvé par Élisée ?",
+    "choices": [
+      "Le fer d’une hache",
+      "La lame d’une épée",
+      "Un anneau d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:5 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-193",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Rois 4:3",
+    "verseText": "Voir 2 Rois 4:3.",
+    "question": "4. Quel nom portent les récipients que la veuve doit emprunter en grand nombre ?",
+    "choices": [
+      "Des vases",
+      "Des outres de vin",
+      "Des paniers de blé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 4:3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-194",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Rois 19:14",
+    "verseText": "Voir 2 Rois 19:14.",
+    "question": "5. Quel geste Ézéchias fait-il avec la lettre de l’Assyrien ?",
+    "choices": [
+      "Il la déploya devant l’Éternel",
+      "Il la scella et la cacha",
+      "Il la remit à ses ennemis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 19:14 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-195",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Esdras 1:7",
+    "verseText": "Voir Esdras 1:7.",
+    "question": "6. Quel objet est rendu par Cyrus parmi ce qui venait de la maison de l’Éternel ?",
+    "choices": [
+      "Les ustensiles de la maison de l’Éternel",
+      "Les chars de guerre",
+      "Les boucliers des rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esdras 1:7 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-196",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Néhémie 8:10",
+    "verseText": "Voir Néhémie 8:10.",
+    "question": "7. Quelle parole est donnée au peuple : « La joie de l’Éternel sera votre… » ?",
+    "choices": [
+      "Force",
+      "Couronne",
+      "Épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 8:10 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-197",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Néhémie 4:17",
+    "verseText": "Voir Néhémie 4:17.",
+    "question": "8. Dans quel contexte le peuple bâtit-il « d’une main » et tient-il quoi « de l’autre » ?",
+    "choices": [
+      "Une arme",
+      "Une lyre",
+      "Un encensoir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 4:17 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-198",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Esther 5:14",
+    "verseText": "Voir Esther 5:14.",
+    "question": "9. Quel objet Haman prépare-t-il pour Mardochée ?",
+    "choices": [
+      "Une potence",
+      "Un cachot",
+      "Un bûcher d’encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Esther 5:14 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-199",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Samuel 2:11",
+    "verseText": "Voir 2 Samuel 2:11.",
+    "question": "Dans quelle ville David régna-t-il sept ans et six mois sur Juda ?",
+    "choices": [
+      "À Hébron",
+      "À Gabaon",
+      "À Sichem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Samuel 2:11 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-200",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Job 1:21",
+    "verseText": "Voir Job 1:21.",
+    "question": "0. Quelle déclaration Job fait-il à la perte de tout : « L’Éternel a donné… » ?",
+    "choices": [
+      "L’Éternel a donné, et l’Éternel a ôté",
+      "L’Éternel a caché, et l’Éternel a menti",
+      "L’Éternel a perdu, et l’Éternel a cherché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 1:21 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-201",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Job 40:4",
+    "verseText": "Voir Job 40:4.",
+    "question": "1. Quel geste Job annonce-t-il après avoir parlé ?",
+    "choices": [
+      "Je mettrai ma main sur ma bouche",
+      "Je déchirerai mes vêtements",
+      "Je brûlerai mon encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Job 40:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-202",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Psaumes 119:105",
+    "verseText": "Voir Psaumes 119:105.",
+    "question": "2. Quel objet est comparé à la parole : « une lampe à mes pieds » ?",
+    "choices": [
+      "Une lampe",
+      "Une couronne",
+      "Une épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Psaumes 119:105 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-203",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Psaumes 48:3",
+    "verseText": "Voir Psaumes 48:3.",
+    "question": "3. Quel est le lieu qualifié « la cité du grand Roi » ?",
+    "choices": [
+      "Sion",
+      "Béthel",
+      "Guilgal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Psaumes 48:3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-204",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Psaumes 1:3",
+    "verseText": "Voir Psaumes 1:3.",
+    "question": "4. Quel est l’image du juste : « il est comme un arbre… » planté près de quoi ?",
+    "choices": [
+      "Des courants d’eaux",
+      "Des collines sèches",
+      "Des chemins pierreux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Psaumes 1:3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-205",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Proverbes 11:22",
+    "verseText": "Voir Proverbes 11:22.",
+    "question": "5. Quelle comparaison Proverbes donne-t-il pour une femme belle sans discrétion ?",
+    "choices": [
+      "Un anneau d’or au groin d’un pourceau",
+      "Une perle dans la poussière",
+      "Une lampe sous le boisseau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 11:22 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-206",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Proverbes 3:15",
+    "verseText": "Voir Proverbes 3:15.",
+    "question": "6. Quelle vérité Proverbes énonce-t-il sur la sagesse : « elle vaut mieux que… » ?",
+    "choices": [
+      "Les perles",
+      "Les troupeaux",
+      "Les chars"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 3:15 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-207",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Proverbes 16:9",
+    "verseText": "Voir Proverbes 16:9.",
+    "question": "7. Que dit Proverbes sur le cœur de l’homme et les pas ?",
+    "choices": [
+      "C’est l’Éternel qui dirige ses pas",
+      "C’est le hasard qui dirige ses pas",
+      "C’est l’or qui dirige ses pas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 16:9 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-208",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Proverbes 20:22",
+    "verseText": "Voir Proverbes 20:22.",
+    "question": "8. Quelle action Proverbes interdit-il en disant : « Ne dis pas… » ?",
+    "choices": [
+      "Je rendrai le mal",
+      "Je chercherai la paix",
+      "Je ferai miséricorde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 20:22 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-209",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ecclésiaste 4:12",
+    "verseText": "Voir Ecclésiaste 4:12.",
+    "question": "9. Quelle image Ecclésiaste donne-t-il de la solidité d’une union ?",
+    "choices": [
+      "Une corde à trois brins",
+      "Une pierre à deux faces",
+      "Une lance à quatre pointes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 4:12 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-210",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Rois 9:2",
+    "verseText": "Voir 1 Rois 9:2.",
+    "question": "Où l’Éternel apparut-il à Salomon la seconde fois, comme il lui était apparu à Gabaon ?",
+    "choices": [
+      "À Jérusalem",
+      "À Thirtsa",
+      "À Béthel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 9:2 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-211",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ecclésiaste 3:1",
+    "verseText": "Voir Ecclésiaste 3:1.",
+    "question": "0. Quel principe Ecclésiaste annonce-t-il sur le temps ?",
+    "choices": [
+      "Il y a un temps pour tout",
+      "Il n’y a pas de temps",
+      "Le temps ne change rien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 3:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-212",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Cantique des cantiques 8:6",
+    "verseText": "Voir Cantique des cantiques 8:6.",
+    "question": "1. Quel objet est demandé : « Mets un sceau sur ton cœur » ?",
+    "choices": [
+      "Un sceau",
+      "Une chaîne",
+      "Un sceptre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Cantique des cantiques 8:6 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-213",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ésaïe 1:3",
+    "verseText": "Voir Ésaïe 1:3.",
+    "question": "2. Quel reproche Ésaïe formule-t-il : « Le bœuf connaît son possesseur » mais Israël quoi ?",
+    "choices": [
+      "Israël ne connaît rien",
+      "Israël comprend tout",
+      "Israël ne souffre point"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 1:3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-214",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ésaïe 6:6",
+    "verseText": "Voir Ésaïe 6:6.",
+    "question": "3. Quel objet tient le séraphin pour toucher les lèvres du prophète ?",
+    "choices": [
+      "Un charbon ardent",
+      "Une pierre froide",
+      "Une goutte d’huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 6:6 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-215",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ésaïe 55:11",
+    "verseText": "Voir Ésaïe 55:11.",
+    "question": "4. Quelle image Ésaïe utilise-t-il pour la parole : « comme la pluie et la neige… » ?",
+    "choices": [
+      "Elle ne retourne point à moi sans effet",
+      "Elle se perd dans le désert",
+      "Elle s’éteint au matin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ésaïe 55:11 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-216",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jérémie 31:33",
+    "verseText": "Voir Jérémie 31:33.",
+    "question": "5. Quelle promesse l’Éternel énonce-t-il : « Je mettrai ma loi… » ?",
+    "choices": [
+      "Au dedans d’eux",
+      "Sur les étoiles",
+      "Dans les mers profondes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 31:33 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-217",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jérémie 23:29",
+    "verseText": "Voir Jérémie 23:29.",
+    "question": "6. Quelle comparaison Jérémie donne-t-il de la parole : « n’est-elle pas… » ?",
+    "choices": [
+      "Comme un marteau qui brise le roc",
+      "Comme une corde qui lie les rois",
+      "Comme une eau qui endort les hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 23:29 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-218",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jérémie 32:9",
+    "verseText": "Voir Jérémie 32:9.",
+    "question": "7. Quel objet Jérémie achète-t-il comme signe ?",
+    "choices": [
+      "Un champ",
+      "Un navire",
+      "Une couronne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jérémie 32:9 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-219",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ézéchiel 18:4",
+    "verseText": "Voir Ézéchiel 18:4.",
+    "question": "8. Quelle sentence Ézéchiel exprime-t-il : « L’âme qui pèche… » ?",
+    "choices": [
+      "C’est celle qui mourra",
+      "C’est celle qui rira",
+      "C’est celle qui régnera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 18:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-220",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ézéchiel 37:16",
+    "verseText": "Voir Ézéchiel 37:16.",
+    "question": "9. Quel signe Ézéchiel reçoit-il : prendre quoi et écrire dessus ?",
+    "choices": [
+      "Deux bois",
+      "Deux pierres",
+      "Deux trompettes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 37:16 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-221",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "1 Rois 19:8-12",
+    "verseText": "Voir 1 Rois 19:8-12.",
+    "question": "Où l’Éternel fit-il entendre une voix de faible murmure à Elie ?",
+    "choices": [
+      "À l’Horeb, la montagne de Dieu",
+      "À Beer-Schéba",
+      "À Dothan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Rois 19:8-12 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-222",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Ézéchiel 48:35",
+    "verseText": "Voir Ézéchiel 48:35.",
+    "question": "0. Quel nom final est donné à la ville dans la vision d’Ézéchiel ?",
+    "choices": [
+      "L’Éternel est ici",
+      "La paix est loin",
+      "La force des rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ézéchiel 48:35 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-223",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Daniel 3:5",
+    "verseText": "Voir Daniel 3:5.",
+    "question": "1. Quel instrument est cité parmi ceux de l’adoration ordonnée par le roi ?",
+    "choices": [
+      "La cornemuse",
+      "La harpe de David seule",
+      "Le tambour du désert seul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Daniel 3:5 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-224",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Habakuk 1:2",
+    "verseText": "Voir Habakuk 1:2.",
+    "question": "2. Quelle plainte Habakuk formule-t-il : « Jusqu’à quand… » à cause de quoi ?",
+    "choices": [
+      "La violence",
+      "La sécheresse",
+      "La mer agitée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Habakuk 1:2 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-225",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Amos 1:3",
+    "verseText": "Voir Amos 1:3.",
+    "question": "3. Quel jugement Amos annonce-t-il selon une formule répétée ?",
+    "choices": [
+      "Pour trois crimes… et pour quatre",
+      "Pour un crime… et pour deux",
+      "Pour sept crimes… et pour huit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 1:3 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-226",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Amos 7:7-8",
+    "verseText": "Voir Amos 7:7-8.",
+    "question": "4. Quel objet Amos voit-il dressé pour mesurer ?",
+    "choices": [
+      "Un niveau",
+      "Une règle d’or",
+      "Une corde de lin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:7-8 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-227",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Osée 6:4",
+    "verseText": "Voir Osée 6:4.",
+    "question": "5. Quelle comparaison Osée fait-il de la piété du peuple ?",
+    "choices": [
+      "Comme la nuée du matin",
+      "Comme un rocher de fer",
+      "Comme un fleuve éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 6:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-228",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Osée 4:6",
+    "verseText": "Voir Osée 4:6.",
+    "question": "6. Quelle parole est dite sur le peuple : « détruit parce qu’il lui manque… » ?",
+    "choices": [
+      "La connaissance",
+      "La richesse",
+      "La force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Osée 4:6 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-229",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Nahum 1:1",
+    "verseText": "Voir Nahum 1:1.",
+    "question": "7. Quel lieu est visé comme titre de l’oracle de Nahum ?",
+    "choices": [
+      "Ninive",
+      "Jérusalem",
+      "Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:1 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-230",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Nahum 1:7",
+    "verseText": "Voir Nahum 1:7.",
+    "question": "8. Quelle déclaration Nahum fait-il sur l’Éternel au jour de la détresse ?",
+    "choices": [
+      "Il est un refuge",
+      "Il est un piège",
+      "Il est un silence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:7 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-231",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Michée 6:8",
+    "verseText": "Voir Michée 6:8.",
+    "question": "9. Quelle exigence Michée résume-t-il : pratiquer… aimer… marcher… ?",
+    "choices": [
+      "La justice, la miséricorde, humblement avec ton Dieu",
+      "La gloire, la guerre, hardiment avec ton roi",
+      "La richesse, le commerce, vivement avec ta force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 6:8 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-232",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Rois 5:12",
+    "verseText": "Voir 2 Rois 5:12.",
+    "question": "Quel fleuve les Syriens proposèrent-ils à Naaman à la place du Jourdain ?",
+    "choices": [
+      "L’Abana et le Parpar",
+      "Le Tigre et l’Euphrate",
+      "Le Nil et le Jabbok"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:12 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-233",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Sophonie 1:15",
+    "verseText": "Voir Sophonie 1:15.",
+    "question": "0. Quel jour Sophonie décrit-il comme « jour de colère » ?",
+    "choices": [
+      "Le jour de l’Éternel",
+      "Le jour des moissons",
+      "Le jour des noces"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 1:15 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-234",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Sophonie 3:12-13",
+    "verseText": "Voir Sophonie 3:12-13.",
+    "question": "1. Quel « peuple » Sophonie annonce-t-il comme « humble et petit » ?",
+    "choices": [
+      "Le reste d’Israël",
+      "Les nations voisines",
+      "Les rois de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Sophonie 3:12-13 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-235",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Aggée 2:9",
+    "verseText": "Voir Aggée 2:9.",
+    "question": "2. Quelle promesse Aggée donne-t-il sur « cette maison » ?",
+    "choices": [
+      "La gloire de cette dernière maison sera plus grande",
+      "La gloire de cette maison sera détruite sans retour",
+      "La gloire de cette maison sera égale à zéro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:9 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-236",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Zacharie 5:1-2",
+    "verseText": "Voir Zacharie 5:1-2.",
+    "question": "3. Quel objet Zacharie voit-il « volant » avec des dimensions données ?",
+    "choices": [
+      "Un rouleau volant",
+      "Un bouclier volant",
+      "Une lance volante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 5:1-2 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-237",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Zacharie 4:6",
+    "verseText": "Voir Zacharie 4:6.",
+    "question": "4. Quelle parole Zacharie rapporte-t-il : « non par la puissance… mais par… » ?",
+    "choices": [
+      "Mon Esprit",
+      "Mon épée",
+      "Mon or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 4:6 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-238",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Malachie 3:16",
+    "verseText": "Voir Malachie 3:16.",
+    "question": "5. Quel « livre » Malachie mentionne-t-il pour ceux qui craignent l’Éternel ?",
+    "choices": [
+      "Un livre de souvenir",
+      "Un livre de guerre",
+      "Un livre de commerce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 3:16 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-239",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Malachie 1:11",
+    "verseText": "Voir Malachie 1:11.",
+    "question": "6. Quel est le propos de Malachie sur le nom de l’Éternel parmi les nations ?",
+    "choices": [
+      "Mon nom sera grand parmi les nations",
+      "Mon nom sera oublié parmi les nations",
+      "Mon nom sera caché parmi les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Malachie 1:11 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-240",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Matthieu 4:4",
+    "verseText": "Voir Matthieu 4:4.",
+    "question": "7. Selon Jésus, de quoi l’homme ne vivra-t-il pas seulement ?",
+    "choices": [
+      "De pain",
+      "D’eau",
+      "D’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 4:4 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-241",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Matthieu 5:15",
+    "verseText": "Voir Matthieu 5:15.",
+    "question": "8. Où met-on la lampe selon Jésus ?",
+    "choices": [
+      "Sur le chandelier",
+      "Sous la table",
+      "Dans un sac"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 5:15 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-242",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Matthieu 13:44",
+    "verseText": "Voir Matthieu 13:44.",
+    "question": "9. Dans une parabole, à quoi Jésus compare-t-il le royaume : un trésor caché où ?",
+    "choices": [
+      "Dans un champ",
+      "Dans une maison",
+      "Dans un temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 13:44 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-243",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "2 Chroniques 26:19",
+    "verseText": "Voir 2 Chroniques 26:19.",
+    "question": "Où l’Éternel frappa-t-il Ozias de lèpre ?",
+    "choices": [
+      "Dans la maison de l’Éternel, près de l’autel des parfums",
+      "Dans le palais du roi, près du trône",
+      "À la porte de la ville, près des juges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 26:19 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-244",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Matthieu 13:38",
+    "verseText": "Voir Matthieu 13:38.",
+    "question": "0. Quel Jésus dit-il être « le champ » dans l’explication de la parabole ?",
+    "choices": [
+      "Le monde",
+      "Le temple",
+      "La synagogue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Matthieu 13:38 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-245",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Marc 4:24",
+    "verseText": "Voir Marc 4:24.",
+    "question": "1. Quelle règle Jésus donne-t-il sur « la mesure » ?",
+    "choices": [
+      "On vous mesurera avec la mesure dont vous vous serez servis",
+      "On vous oubliera selon vos paroles",
+      "On vous punira selon votre âge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 4:24 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-246",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Marc 4:27",
+    "verseText": "Voir Marc 4:27.",
+    "question": "2. Dans l’image de la semence qui lève, quel détail est dit de l’homme ?",
+    "choices": [
+      "Il ne sait comment",
+      "Il sait parfaitement",
+      "Il l’empêche toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Marc 4:27 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-247",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Luc 15:7",
+    "verseText": "Voir Luc 15:7.",
+    "question": "3. Quelle comparaison Jésus emploie-t-il : « les quatre-vingt-dix-neuf justes » n’ont pas besoin de quoi ?",
+    "choices": [
+      "De repentance",
+      "De pain",
+      "De repos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 15:7 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-248",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Luc 1:32",
+    "verseText": "Voir Luc 1:32.",
+    "question": "4. Quel titre l’ange annonce-t-il pour Jésus ?",
+    "choices": [
+      "Fils du Très-Haut",
+      "Fils de David seulement",
+      "Fils des prêtres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 1:32 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-249",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Luc 19:10",
+    "verseText": "Voir Luc 19:10.",
+    "question": "5. Quel est le but du Fils de l’homme selon Luc ?",
+    "choices": [
+      "Chercher et sauver ce qui était perdu",
+      "Juger et condamner ce qui était faible",
+      "Bâtir et garder ce qui était riche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Luc 19:10 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-250",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jean 1:29",
+    "verseText": "Voir Jean 1:29.",
+    "question": "6. Quel titre Jean-Baptiste donne-t-il à Jésus ?",
+    "choices": [
+      "L’Agneau de Dieu",
+      "Le prêtre d’Aaron",
+      "Le juge de Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 1:29 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-251",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Jean 20:25",
+    "verseText": "Voir Jean 20:25.",
+    "question": "7. Quel endroit Thomas veut-il toucher ?",
+    "choices": [
+      "Le côté de Jésus",
+      "Le front de Jésus",
+      "Les pieds de Jésus seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Jean 20:25 (LSG 1910)."
+  },
+  {
+    "id": "generalitebible-N-252",
+    "book": "Généralitée de la Bible",
+    "chapter": 0,
+    "verseRef": "Romains 6:23",
+    "verseText": "Voir Romains 6:23.",
+    "question": "8. Quel jugement est déclaré en Romains : « le salaire du péché, c’est… » ?",
+    "choices": [
+      "La mort",
+      "La honte",
+      "La pauvreté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 6:23 (LSG 1910)."
+  }
+]

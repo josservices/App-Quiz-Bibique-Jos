@@ -1,0 +1,1277 @@
+[
+  {
+    "id": "2pierre-N-001",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:1",
+    "verseText": "Voir 2 Pierre 1:1.",
+    "question": "Comment Pierre se présente-t-il au début de la lettre ?",
+    "choices": [
+      "Simon Pierre, serviteur et apôtre de Jésus Christ",
+      "Simon Pierre, prophète et sacrificateur de l'Éternel",
+      "Simon Pierre, évangéliste et docteur des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-002",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:1",
+    "verseText": "Voir 2 Pierre 1:1.",
+    "question": "À qui la lettre est-elle adressée, selon l’expression employée ?",
+    "choices": [
+      "À ceux qui ont reçu en partage une foi du même prix que la nôtre",
+      "À ceux qui ont reçu la loi gravée sur des tables de pierre",
+      "À ceux qui ont vu des signes et des prodiges en Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-003",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:1",
+    "verseText": "Voir 2 Pierre 1:1.",
+    "question": "Par quoi cette foi est-elle reçue « en partage » ?",
+    "choices": [
+      "Par la justice de notre Dieu et du Sauveur Jésus Christ",
+      "Par les oeuvres de la chair et la sagesse des hommes",
+      "Par la force des armes et la gloire des royaumes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-004",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:2",
+    "verseText": "Voir 2 Pierre 1:2.",
+    "question": "Que souhaite Pierre que soit « multiplié » aux destinataires ?",
+    "choices": [
+      "La grâce et la paix",
+      "La richesse et l'honneur",
+      "La santé et la puissance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:2 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-005",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:2",
+    "verseText": "Voir 2 Pierre 1:2.",
+    "question": "Par quoi la grâce et la paix doivent-elles être multipliées ?",
+    "choices": [
+      "Par la connaissance de Dieu et de Jésus notre Seigneur",
+      "Par la crainte des hommes et les traditions",
+      "Par le zèle sans intelligence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:2 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-006",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:3",
+    "verseText": "Voir 2 Pierre 1:3.",
+    "question": "Selon Pierre, que donne la divine puissance ?",
+    "choices": [
+      "Tout ce qui contribue à la vie et à la piété",
+      "Tout ce qui assure la domination sur les nations",
+      "Tout ce qui garantit l'absence d'épreuves"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-007",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:3",
+    "verseText": "Voir 2 Pierre 1:3.",
+    "question": "Au moyen de quoi cette donation est-elle accordée ?",
+    "choices": [
+      "Au moyen de la connaissance de celui qui nous a appelés",
+      "Au moyen de la circoncision et des ordonnances",
+      "Au moyen des oeuvres de la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-008",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:3",
+    "verseText": "Voir 2 Pierre 1:3.",
+    "question": "Par quoi Dieu a-t-il appelé, selon l’expression exacte ?",
+    "choices": [
+      "Par sa propre gloire et par sa vertu",
+      "Par la sagesse du siècle présent",
+      "Par la contrainte et la peur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-009",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:4",
+    "verseText": "Voir 2 Pierre 1:4.",
+    "question": "Que nous assurent « les plus grandes et les plus précieuses promesses » ?",
+    "choices": [
+      "De sa part les plus grandes et les plus précieuses promesses",
+      "La suppression de toute tentation sur la terre",
+      "Une justice fondée sur la chair"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:4 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-010",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:4",
+    "verseText": "Voir 2 Pierre 1:4.",
+    "question": "Quel but est donné pour ces promesses ?",
+    "choices": [
+      "Que vous deveniez participants de la nature divine",
+      "Que vous deveniez maîtres des royaumes de ce monde",
+      "Que vous soyez exempts de toute discipline"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:4 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-011",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:4",
+    "verseText": "Voir 2 Pierre 1:4.",
+    "question": "De quoi faut-il fuir pour devenir participants de la nature divine ?",
+    "choices": [
+      "La corruption qui existe dans le monde par la convoitise",
+      "La persécution des hommes pieux",
+      "Le travail des mains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:4 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-012",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:5",
+    "verseText": "Voir 2 Pierre 1:5.",
+    "question": "Que demande Pierre « à cause de cela même » ?",
+    "choices": [
+      "Faites tous vos efforts pour joindre à votre foi la vertu",
+      "Faites tous vos efforts pour obtenir la louange des hommes",
+      "Faites tous vos efforts pour éviter toute souffrance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:5 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-013",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:5",
+    "verseText": "Voir 2 Pierre 1:5.",
+    "question": "Quelle qualité est à joindre à la vertu dans l’enchaînement ?",
+    "choices": [
+      "La science",
+      "La joie",
+      "La force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:5 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-014",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:6",
+    "verseText": "Voir 2 Pierre 1:6.",
+    "question": "Quelle qualité Pierre place-t-il après la science ?",
+    "choices": [
+      "La tempérance",
+      "La douceur",
+      "La libéralité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:6 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-015",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:6",
+    "verseText": "Voir 2 Pierre 1:6.",
+    "question": "Quelle qualité est à joindre à la tempérance ?",
+    "choices": [
+      "La patience",
+      "La hardiesse",
+      "La prospérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:6 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-016",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:6",
+    "verseText": "Voir 2 Pierre 1:6.",
+    "question": "Quelle qualité Pierre met-il après la patience ?",
+    "choices": [
+      "La piété",
+      "La puissance",
+      "La liberté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:6 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-017",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:7",
+    "verseText": "Voir 2 Pierre 1:7.",
+    "question": "Quelle qualité Pierre met-il après la piété ?",
+    "choices": [
+      "L'amour fraternel",
+      "La gloire",
+      "La richesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:7 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-018",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:7",
+    "verseText": "Voir 2 Pierre 1:7.",
+    "question": "Quelle qualité vient après l'amour fraternel ?",
+    "choices": [
+      "La charité",
+      "La science",
+      "La tempérance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:7 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-019",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:8",
+    "verseText": "Voir 2 Pierre 1:8.",
+    "question": "Si ces choses sont en vous « avec abondance », que ne feront-elles pas ?",
+    "choices": [
+      "Elles ne vous laisseront point oisifs ni stériles",
+      "Elles ne vous laisseront point éprouvés",
+      "Elles ne vous laisseront point enseignés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-020",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:8",
+    "verseText": "Voir 2 Pierre 1:8.",
+    "question": "Pour quoi ne laisseront-elles point oisifs ni stériles ?",
+    "choices": [
+      "Pour la connaissance de notre Seigneur Jésus Christ",
+      "Pour l'accomplissement des traditions des pères",
+      "Pour l'honneur auprès des autorités"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:8 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-021",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:9",
+    "verseText": "Voir 2 Pierre 1:9.",
+    "question": "Comment est décrit celui en qui ces choses ne sont point ?",
+    "choices": [
+      "Il est aveugle, il ne voit pas de loin",
+      "Il est faible, il ne parle pas en public",
+      "Il est pauvre, il ne possède rien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:9 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-022",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:9",
+    "verseText": "Voir 2 Pierre 1:9.",
+    "question": "Qu’a-t-il « mis en oubli » ?",
+    "choices": [
+      "La purification de ses anciens péchés",
+      "Les oeuvres de la loi",
+      "Le souvenir de ses biens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:9 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-023",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:10",
+    "verseText": "Voir 2 Pierre 1:10.",
+    "question": "À quoi Pierre exhorte-t-il les frères à s’appliquer davantage ?",
+    "choices": [
+      "À affermir leur vocation et leur élection",
+      "À juger leurs frères plus sévèrement",
+      "À rechercher les premiers sièges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-024",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:10",
+    "verseText": "Voir 2 Pierre 1:10.",
+    "question": "Quelle conséquence est associée au fait d’affermir vocation et élection ?",
+    "choices": [
+      "Vous ne broncherez jamais",
+      "Vous n'aurez jamais de tentations",
+      "Vous n'aurez jamais d'adversaires"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-025",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:11",
+    "verseText": "Voir 2 Pierre 1:11.",
+    "question": "Qu’est-ce qui sera « pleinement accordé » en faisant cela ?",
+    "choices": [
+      "L'entrée dans le royaume éternel de notre Seigneur et Sauveur Jésus Christ",
+      "La domination sur les nations de la terre",
+      "La délivrance de toute maladie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:11 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-026",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:12",
+    "verseText": "Voir 2 Pierre 1:12.",
+    "question": "De quoi Pierre prendra-t-il soin envers ses lecteurs ?",
+    "choices": [
+      "De leur rappeler ces choses",
+      "De leur annoncer de nouvelles traditions",
+      "De leur imposer des jeûnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:12 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-027",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:12",
+    "verseText": "Voir 2 Pierre 1:12.",
+    "question": "Dans quoi dit-il que les lecteurs sont affermis ?",
+    "choices": [
+      "Dans la vérité présente",
+      "Dans la sagesse du monde",
+      "Dans la justice de la chair"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:12 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-028",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:13",
+    "verseText": "Voir 2 Pierre 1:13.",
+    "question": "Que regarde-t-il comme un devoir tant qu’il est « dans cette tente » ?",
+    "choices": [
+      "Les tenir en éveil par des avertissements",
+      "Leur promettre une liberté charnelle",
+      "Leur enseigner des fables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:13 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-029",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:14",
+    "verseText": "Voir 2 Pierre 1:14.",
+    "question": "Que sait-il au sujet de cette tente ?",
+    "choices": [
+      "Qu'il la quittera subitement",
+      "Qu'elle sera réparée par des hommes",
+      "Qu'elle sera honorée par le monde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:14 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-030",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:14",
+    "verseText": "Voir 2 Pierre 1:14.",
+    "question": "Comment Pierre dit-il l’avoir su ?",
+    "choices": [
+      "Ainsi que notre Seigneur Jésus Christ me l'a fait connaître",
+      "Ainsi que les docteurs me l'ont confirmé",
+      "Ainsi que les anges me l'ont révélé au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:14 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-031",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:15",
+    "verseText": "Voir 2 Pierre 1:15.",
+    "question": "Quel soin Pierre promet-il après son départ ?",
+    "choices": [
+      "Que vous puissiez toujours vous souvenir de ces choses",
+      "Que vous puissiez toujours éviter les autorités",
+      "Que vous puissiez toujours multiplier les richesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:15 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-032",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:16",
+    "verseText": "Voir 2 Pierre 1:16.",
+    "question": "Par quoi n’ont-ils pas fait connaître la puissance et l’avènement du Seigneur ?",
+    "choices": [
+      "En suivant des fables habilement conçues",
+      "En observant les jours et les mois",
+      "En recherchant les signes dans le ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:16 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-033",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:16",
+    "verseText": "Voir 2 Pierre 1:16.",
+    "question": "Comment ont-ils fait connaître la puissance et l’avènement ?",
+    "choices": [
+      "Comme ayant vu sa majesté de nos propres yeux",
+      "Comme l'ayant appris par des traditions humaines",
+      "Comme l'ayant déduit par la philosophie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:16 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-034",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:17",
+    "verseText": "Voir 2 Pierre 1:17.",
+    "question": "Que reçut Jésus de Dieu le Père ?",
+    "choices": [
+      "Honneur et gloire",
+      "Or et argent",
+      "Pouvoir terrestre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:17 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-035",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:17",
+    "verseText": "Voir 2 Pierre 1:17.",
+    "question": "Dans quelle circonstance a-t-il reçu honneur et gloire ?",
+    "choices": [
+      "Quand la gloire magnifique lui fit entendre une voix",
+      "Quand il fut conduit devant Pilate",
+      "Quand il entra à Jérusalem sur un ânon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:17 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-036",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:17",
+    "verseText": "Voir 2 Pierre 1:17.",
+    "question": "Quelle parole la voix prononça-t-elle ?",
+    "choices": [
+      "Celui-ci est mon Fils bien-aimé, en qui j'ai mis toute mon affection",
+      "Celui-ci est mon serviteur, je le soutiendrai toujours",
+      "Celui-ci est mon prophète, écoutez-le seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:17 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-037",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:18",
+    "verseText": "Voir 2 Pierre 1:18.",
+    "question": "D’où venait la voix entendue ?",
+    "choices": [
+      "Du ciel",
+      "De la mer",
+      "Du désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:18 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-038",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:18",
+    "verseText": "Voir 2 Pierre 1:18.",
+    "question": "Où étaient-ils lorsque cette voix fut entendue ?",
+    "choices": [
+      "Avec lui sur la sainte montagne",
+      "Dans la cour du temple",
+      "Au bord du Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:18 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-039",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:19",
+    "verseText": "Voir 2 Pierre 1:19.",
+    "question": "Quelle réalité tiennent-ils pour « d’autant plus certaine » ?",
+    "choices": [
+      "La parole prophétique",
+      "La tradition des anciens",
+      "La sagesse des Grecs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:19 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-040",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:19",
+    "verseText": "Voir 2 Pierre 1:19.",
+    "question": "À quoi Pierre compare-t-il la parole prophétique à laquelle on prête attention ?",
+    "choices": [
+      "À une lampe qui brille dans un lieu obscur",
+      "À une épée qui frappe sans cesse",
+      "À une pluie qui arrose une terre sèche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:19 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-041",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:19",
+    "verseText": "Voir 2 Pierre 1:19.",
+    "question": "Jusqu’à quand faut-il prêter attention à cette lampe ?",
+    "choices": [
+      "Jusqu'à ce que le jour vienne à paraître et que l'étoile du matin se lève dans vos coeurs",
+      "Jusqu'à ce que la mer soit apaisée et que les vents cessent",
+      "Jusqu'à ce que les nations se soumettent à Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:19 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-042",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:20",
+    "verseText": "Voir 2 Pierre 1:20.",
+    "question": "Que doivent-ils savoir « tout d'abord » au sujet de la prophétie ?",
+    "choices": [
+      "Qu'aucune prophétie de l'Écriture ne peut être un objet d'interprétation particulière",
+      "Qu'elle est réservée à quelques initiés",
+      "Qu'elle dépend de la sagesse des scribes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:20 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-043",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:21",
+    "verseText": "Voir 2 Pierre 1:21.",
+    "question": "Par quoi une prophétie n’a-t-elle jamais été apportée ?",
+    "choices": [
+      "Par une volonté d'homme",
+      "Par la loi de Moïse",
+      "Par le ministère des sacrificateurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:21 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-044",
+    "book": "2 Pierre",
+    "chapter": 1,
+    "verseRef": "2 Pierre 1:21",
+    "verseText": "Voir 2 Pierre 1:21.",
+    "question": "Comment des hommes ont-ils parlé de la part de Dieu ?",
+    "choices": [
+      "Poussés par le Saint Esprit",
+      "Éclairés par la philosophie",
+      "Contraints par les rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 1:21 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-045",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:1",
+    "verseText": "Voir 2 Pierre 2:1.",
+    "question": "Quel type de personnes Pierre annonce-t-il « parmi vous » ?",
+    "choices": [
+      "De faux docteurs",
+      "De vrais prophètes",
+      "De sages conducteurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-046",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:1",
+    "verseText": "Voir 2 Pierre 2:1.",
+    "question": "Que feront ces faux docteurs ?",
+    "choices": [
+      "Ils introduiront des sectes pernicieuses",
+      "Ils établiront la justice dans la ville",
+      "Ils multiplieront la charité envers tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-047",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:1",
+    "verseText": "Voir 2 Pierre 2:1.",
+    "question": "Que feront-ils vis-à-vis du maître ?",
+    "choices": [
+      "Ils renieront le maître qui les a rachetés",
+      "Ils honoreront le maître qui les a instruits",
+      "Ils serviront le maître dans la vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-048",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:1",
+    "verseText": "Voir 2 Pierre 2:1.",
+    "question": "Que s’attireront-ils en reniant le maître ?",
+    "choices": [
+      "Une ruine soudaine",
+      "Une paix durable",
+      "Une gloire terrestre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-049",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:2",
+    "verseText": "Voir 2 Pierre 2:2.",
+    "question": "Dans quoi plusieurs les suivront-ils ?",
+    "choices": [
+      "Dans leurs dissolutions",
+      "Dans leurs prières publiques",
+      "Dans leurs jeûnes réguliers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:2 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-050",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:2",
+    "verseText": "Voir 2 Pierre 2:2.",
+    "question": "À cause d’eux, que deviendra la voie de la vérité ?",
+    "choices": [
+      "Elle sera calomniée",
+      "Elle sera exaltée",
+      "Elle sera inconnue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:2 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-051",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:3",
+    "verseText": "Voir 2 Pierre 2:3.",
+    "question": "Pour quel motif agiront-ils ainsi envers les croyants ?",
+    "choices": [
+      "Par cupidité",
+      "Par zèle pour la loi",
+      "Par compassion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-052",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:3",
+    "verseText": "Voir 2 Pierre 2:3.",
+    "question": "Au moyen de quoi trafiqueront-ils des croyants ?",
+    "choices": [
+      "De paroles trompeuses",
+      "De signes et de prodiges",
+      "De sacrifices au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-053",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:3",
+    "verseText": "Voir 2 Pierre 2:3.",
+    "question": "Que dit Pierre de leur condamnation ?",
+    "choices": [
+      "Elle les menace depuis longtemps",
+      "Elle a été annulée par leur science",
+      "Elle dépend du jugement des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-054",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:3",
+    "verseText": "Voir 2 Pierre 2:3.",
+    "question": "Que dit-il de leur ruine ?",
+    "choices": [
+      "Elle ne sommeille point",
+      "Elle est oubliée à jamais",
+      "Elle est repoussée indéfiniment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-055",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:4",
+    "verseText": "Voir 2 Pierre 2:4.",
+    "question": "Quel exemple Pierre donne-t-il concernant des êtres spirituels ?",
+    "choices": [
+      "Dieu n'a pas épargné les anges qui ont péché",
+      "Dieu a exalté les anges rebelles",
+      "Dieu a ignoré la rébellion des anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:4 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-056",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:4",
+    "verseText": "Voir 2 Pierre 2:4.",
+    "question": "Où ces anges ont-ils été précipités ?",
+    "choices": [
+      "Dans les abîmes de ténèbres",
+      "Dans les lieux célestes de lumière",
+      "Dans les eaux profondes de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:4 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-057",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:4",
+    "verseText": "Voir 2 Pierre 2:4.",
+    "question": "Pour quoi Dieu réserve-t-il ces anges ?",
+    "choices": [
+      "Pour le jugement",
+      "Pour gouverner les nations",
+      "Pour annoncer la paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:4 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-058",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:5",
+    "verseText": "Voir 2 Pierre 2:5.",
+    "question": "Quel exemple Pierre donne-t-il au sujet de l’ancien monde ?",
+    "choices": [
+      "Dieu a sauvé Noé, lui huitième, ce prédicateur de la justice",
+      "Dieu a sauvé le roi de Sodome, lui huitième, chef des armées",
+      "Dieu a sauvé Balaam, lui huitième, prophète des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:5 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-059",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:5",
+    "verseText": "Voir 2 Pierre 2:5.",
+    "question": "Qu’a fait Dieu à l’ancien monde selon Pierre ?",
+    "choices": [
+      "Il fit venir le déluge sur un monde d'impies",
+      "Il envoya une famine sur un peuple fidèle",
+      "Il répandit la paix sur les moqueurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:5 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-060",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:6",
+    "verseText": "Voir 2 Pierre 2:6.",
+    "question": "Que fit Dieu aux villes de Sodome et de Gomorrhe ?",
+    "choices": [
+      "Il les a condamnées à la destruction et réduites en cendres",
+      "Il les a fortifiées contre leurs ennemis",
+      "Il les a établies comme modèle de justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:6 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-061",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:19",
+    "verseText": "Voir 2 Pierre 2:19.",
+    "question": "Que dit Pierre de ces faux docteurs quant à la « source » qu’ils promettent ?",
+    "choices": [
+      "Ils leur promettent la liberté",
+      "Ils leur promettent la paix",
+      "Ils leur promettent la justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:19 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-062",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:19",
+    "verseText": "Voir 2 Pierre 2:19.",
+    "question": "Comment Pierre décrit-il ces prometteurs de liberté quant à leur propre état ?",
+    "choices": [
+      "Eux-mêmes sont esclaves de la corruption",
+      "Eux-mêmes sont affermis dans la vérité présente",
+      "Eux-mêmes sont sans tache et irrépréhensibles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:19 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-063",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:19",
+    "verseText": "Voir 2 Pierre 2:19.",
+    "question": "Quel principe Pierre énonce-t-il au sujet de celui par qui on est vaincu ?",
+    "choices": [
+      "On est esclave de celui qui vous a vaincu",
+      "On est libre de celui qui vous a vaincu",
+      "On est juge de celui qui vous a vaincu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:19 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-064",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:20",
+    "verseText": "Voir 2 Pierre 2:20.",
+    "question": "Après avoir échappé aux souillures du monde, par quoi certains y retombent-ils ?",
+    "choices": [
+      "Par la connaissance du Seigneur et Sauveur Jésus Christ",
+      "Par la crainte des hommes",
+      "Par la sagesse du siècle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:20 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-065",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:20",
+    "verseText": "Voir 2 Pierre 2:20.",
+    "question": "Quel est l’état final de ceux qui sont « vaincus » après s’être engagés de nouveau ?",
+    "choices": [
+      "Leur dernière condition est pire que la première",
+      "Leur dernière condition est meilleure que la première",
+      "Leur dernière condition est égale à la première"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:20 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-066",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:21",
+    "verseText": "Voir 2 Pierre 2:21.",
+    "question": "Que dit Pierre qu’il aurait mieux valu pour eux ?",
+    "choices": [
+      "N'avoir pas connu la voie de la justice",
+      "N'avoir pas connu la loi de Moïse",
+      "N'avoir pas connu la ville de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:21 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-067",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:21",
+    "verseText": "Voir 2 Pierre 2:21.",
+    "question": "Après avoir connu la voie de la justice, de quoi se détournent-ils ?",
+    "choices": [
+      "Du saint commandement qui leur avait été donné",
+      "De la parole prophétique annoncée d’avance",
+      "Du ministère des anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:21 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-068",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:22",
+    "verseText": "Voir 2 Pierre 2:22.",
+    "question": "Quel proverbe Pierre cite-t-il au sujet du chien ?",
+    "choices": [
+      "Le chien est retourné à ce qu'il avait vomi",
+      "Le chien a gardé fidèlement la maison",
+      "Le chien s'est assis aux portes du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:22 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-069",
+    "book": "2 Pierre",
+    "chapter": 2,
+    "verseRef": "2 Pierre 2:22",
+    "verseText": "Voir 2 Pierre 2:22.",
+    "question": "Quel proverbe Pierre cite-t-il au sujet de la truie ?",
+    "choices": [
+      "La truie lavée s'est vautrée dans le bourbier",
+      "La truie lavée s'est tenue dans la bergerie",
+      "La truie lavée a fui le troupeau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 2:22 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-070",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:1",
+    "verseText": "Voir 2 Pierre 3:1.",
+    "question": "Quel but Pierre donne-t-il en écrivant cette seconde lettre ?",
+    "choices": [
+      "Réveiller par des avertissements une saine intelligence",
+      "Enseigner des fables habilement conçues",
+      "Établir des sectes pernicieuses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:1 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-071",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:2",
+    "verseText": "Voir 2 Pierre 3:2.",
+    "question": "De quoi Pierre veut-il que les lecteurs se souviennent ?",
+    "choices": [
+      "Des paroles dites d'avance par les saints prophètes",
+      "Des traditions des anciens",
+      "Des visions des sages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:2 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-072",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:2",
+    "verseText": "Voir 2 Pierre 3:2.",
+    "question": "De qui vient le commandement mentionné avec ces paroles ?",
+    "choices": [
+      "Du Seigneur et Sauveur, par vos apôtres",
+      "De César, par ses officiers",
+      "De Moïse, par les sacrificateurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:2 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-073",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:3",
+    "verseText": "Voir 2 Pierre 3:3.",
+    "question": "Quelle catégorie de personnes doit venir « dans les derniers jours » ?",
+    "choices": [
+      "Des moqueurs",
+      "Des prophètes",
+      "Des rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-074",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:3",
+    "verseText": "Voir 2 Pierre 3:3.",
+    "question": "Selon quoi marcheront ces moqueurs ?",
+    "choices": [
+      "Selon leurs propres convoitises",
+      "Selon la vérité présente",
+      "Selon la justice de Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:3 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-075",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:4",
+    "verseText": "Voir 2 Pierre 3:4.",
+    "question": "Quelle question ces moqueurs posent-ils concernant la promesse ?",
+    "choices": [
+      "Où est la promesse de son avènement ?",
+      "Où est la promesse de la loi ?",
+      "Où est la promesse de la terre ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:4 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-076",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:4",
+    "verseText": "Voir 2 Pierre 3:4.",
+    "question": "Selon Pierre, que disent les moqueurs au sujet des pères ?",
+    "choices": [
+      "Les pères sont morts",
+      "Les pères ont été justifiés",
+      "Les pères ont été enlevés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:4 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-077",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:5",
+    "verseText": "Voir 2 Pierre 3:5.",
+    "question": "Par quoi les cieux existèrent-ils autrefois, selon Pierre ?",
+    "choices": [
+      "Par la parole de Dieu",
+      "Par la volonté des hommes",
+      "Par la sagesse des philosophes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:5 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-078",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:5",
+    "verseText": "Voir 2 Pierre 3:5.",
+    "question": "Comment Pierre décrit-il la terre dans cette même phrase ?",
+    "choices": [
+      "Tirée de l'eau et formée au moyen de l'eau",
+      "Tirée du feu et formée au moyen du feu",
+      "Tirée du désert et formée au moyen du vent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:5 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-079",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:6",
+    "verseText": "Voir 2 Pierre 3:6.",
+    "question": "Par quoi le monde d'alors périt-il ?",
+    "choices": [
+      "Submergé par l'eau",
+      "Consumée par le feu",
+      "Renversé par un tremblement de terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:6 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-080",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:7",
+    "verseText": "Voir 2 Pierre 3:7.",
+    "question": "Pour quel événement les cieux et la terre d’à présent sont-ils réservés ?",
+    "choices": [
+      "Pour le feu",
+      "Pour l’eau",
+      "Pour la paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:7 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-081",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:9",
+    "verseText": "Voir 2 Pierre 3:9.",
+    "question": "Que dit Pierre que le Seigneur ne fait pas au sujet de la promesse ?",
+    "choices": [
+      "Il ne tarde pas dans l'accomplissement de la promesse",
+      "Il ne change pas le contenu de la promesse",
+      "Il ne révèle pas le sens de la promesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:9 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-082",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:9",
+    "verseText": "Voir 2 Pierre 3:9.",
+    "question": "Pourquoi le Seigneur use-t-il de patience, selon Pierre ?",
+    "choices": [
+      "Ne voulant pas qu'aucun périsse, mais voulant que tous arrivent à la repentance",
+      "Voulant que plusieurs périssent, afin que peu soient sauvés",
+      "Ne voulant pas que les nations soient averties"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:9 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-083",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:10",
+    "verseText": "Voir 2 Pierre 3:10.",
+    "question": "Comment Pierre dit-il que le jour du Seigneur viendra ?",
+    "choices": [
+      "Comme un voleur",
+      "Comme un éclair visible de tous",
+      "Comme un songe paisible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:10 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-084",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:10",
+    "verseText": "Voir 2 Pierre 3:10.",
+    "question": "Que deviendront les éléments, selon la formulation de Pierre ?",
+    "choices": [
+      "Dissous par l'ardeur",
+      "Changés en eau",
+      "Cachés dans les abîmes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:10 (LSG 1910)."
+  },
+  {
+    "id": "2pierre-N-085",
+    "book": "2 Pierre",
+    "chapter": 3,
+    "verseRef": "2 Pierre 3:13",
+    "verseText": "Voir 2 Pierre 3:13.",
+    "question": "Quelle attente Pierre associe-t-il à la promesse ?",
+    "choices": [
+      "De nouveaux cieux et une nouvelle terre, où la justice habitera",
+      "Un royaume terrestre où la richesse habitera",
+      "Une ville sans épreuves où la chair habitera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Pierre 3:13 (LSG 1910)."
+  }
+]

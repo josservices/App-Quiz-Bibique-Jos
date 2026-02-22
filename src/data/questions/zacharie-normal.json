@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "zacharie-N-001",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:1",
+    "verseText": "Voir Zacharie 1:1.",
+    "question": "À quel mois la parole de l’Éternel fut-elle adressée à Zacharie, la seconde année de Darius ?",
+    "choices": [
+      "Au huitième mois",
+      "Au premier mois",
+      "Au douzième mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 1:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-002",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:1",
+    "verseText": "Voir Zacharie 1:1.",
+    "question": "De qui Zacharie est-il présenté comme le fils ?",
+    "choices": [
+      "Bérékia",
+      "Jotsadak",
+      "Shealthiel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 1:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-003",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:2",
+    "verseText": "Voir Zacharie 1:2.",
+    "question": "Contre qui l’Éternel dit-il avoir été « très irrité » ?",
+    "choices": [
+      "Contre les nations orgueilleuses",
+      "Contre vos pères",
+      "Contre les sacrificateurs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-004",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:3",
+    "verseText": "Voir Zacharie 1:3.",
+    "question": "Quel appel l’Éternel adresse-t-il au peuple ?",
+    "choices": [
+      "Bâtissez des villes fortes",
+      "Revenez à moi",
+      "Cherchez l’or et l’argent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-005",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:4",
+    "verseText": "Voir Zacharie 1:4.",
+    "question": "Quel avertissement est donné concernant « vos pères » ?",
+    "choices": [
+      "Ils ont bâti le temple",
+      "Ne soyez pas comme vos pères",
+      "Ils ont vaincu toutes les nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-006",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:5",
+    "verseText": "Voir Zacharie 1:5.",
+    "question": "Quelle question est posée au sujet des pères ?",
+    "choices": [
+      "Où sont-ils ?",
+      "Qui les a conduits ?",
+      "Quand reviendront-ils ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 1:5 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-007",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:7",
+    "verseText": "Voir Zacharie 1:7.",
+    "question": "À quel jour du mois de Schebat la parole fut-elle adressée à Zacharie ?",
+    "choices": [
+      "Le dixième jour",
+      "Le vingt-quatrième jour",
+      "Le trentième jour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-008",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:8",
+    "verseText": "Voir Zacharie 1:8.",
+    "question": "Sur quel animal l’homme de la vision nocturne était-il monté ?",
+    "choices": [
+      "Un chameau",
+      "Un cheval roux",
+      "Un âne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-009",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:8",
+    "verseText": "Voir Zacharie 1:8.",
+    "question": "Parmi quoi l’homme se tenait-il dans la vision ?",
+    "choices": [
+      "Parmi des myrtes",
+      "Parmi des cèdres",
+      "Parmi des oliviers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 1:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-010",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:8",
+    "verseText": "Voir Zacharie 1:8.",
+    "question": "Quels chevaux étaient derrière lui ?",
+    "choices": [
+      "Noirs, gris et tachetés",
+      "Roux, fauves et blancs",
+      "Blancs et rouges seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-011",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:9",
+    "verseText": "Voir Zacharie 1:9.",
+    "question": "Qui promet à Zacharie de lui faire voir qui sont les chevaux ?",
+    "choices": [
+      "Le souverain sacrificateur",
+      "L’ange qui parlait avec lui",
+      "Le roi Darius"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:9 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-012",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:10",
+    "verseText": "Voir Zacharie 1:10.",
+    "question": "Que dit l’homme parmi les myrtes au sujet de ceux que l’Éternel a envoyés ?",
+    "choices": [
+      "Pour compter les sacrifices",
+      "Pour parcourir la terre",
+      "Pour bâtir des murailles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-013",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:11",
+    "verseText": "Voir Zacharie 1:11.",
+    "question": "Quel constat font-ils après avoir parcouru la terre ?",
+    "choices": [
+      "Toute la terre est en guerre",
+      "Toute la terre est en repos et tranquille",
+      "Toute la terre est dévastée"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:11 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-014",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:12",
+    "verseText": "Voir Zacharie 1:12.",
+    "question": "Depuis combien d’années l’Éternel dit-il être irrité contre Jérusalem et les villes de Juda ?",
+    "choices": [
+      "Quarante ans",
+      "Soixante-dix ans",
+      "Cent ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:12 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-015",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:13",
+    "verseText": "Voir Zacharie 1:13.",
+    "question": "Comment l’Éternel répond-il à l’ange qui parlait avec Zacharie ?",
+    "choices": [
+      "Par des paroles de jugement",
+      "Par de bonnes paroles, par des paroles de consolation",
+      "Par le silence"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:13 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-016",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:14",
+    "verseText": "Voir Zacharie 1:14.",
+    "question": "Pour quelles villes l’Éternel dit-il être ému d’une grande jalousie ?",
+    "choices": [
+      "Jérusalem et Sion",
+      "Béthel et Guilgal",
+      "Ninive et Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 1:14 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-017",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:15",
+    "verseText": "Voir Zacharie 1:15.",
+    "question": "Contre qui l’Éternel dit-il être saisi d’une grande irritation ?",
+    "choices": [
+      "Contre les nations orgueilleuses",
+      "Contre les lévites",
+      "Contre les enfants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 1:15 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-018",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:16",
+    "verseText": "Voir Zacharie 1:16.",
+    "question": "Que promet l’Éternel concernant sa maison ?",
+    "choices": [
+      "Elle sera brûlée",
+      "Elle sera rebâtie",
+      "Elle sera vendue"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:16 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-019",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:16",
+    "verseText": "Voir Zacharie 1:16.",
+    "question": "Quel instrument est mentionné : « le ___ sera étendu sur Jérusalem » ?",
+    "choices": [
+      "Le cordeau",
+      "Le filet",
+      "Le glaive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 1:16 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-020",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:18",
+    "verseText": "Voir Zacharie 1:18.",
+    "question": "Combien de cornes Zacharie voit-il ensuite ?",
+    "choices": [
+      "Deux",
+      "Quatre",
+      "Sept"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:18 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-021",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:19",
+    "verseText": "Voir Zacharie 1:19.",
+    "question": "Que représentent les cornes, selon l’ange ?",
+    "choices": [
+      "Les rois de Juda",
+      "Celles qui ont dispersé Juda, Israël et Jérusalem",
+      "Les chérubins du sanctuaire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:19 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-022",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:20",
+    "verseText": "Voir Zacharie 1:20.",
+    "question": "Combien de forgerons l’Éternel montre-t-il à Zacharie ?",
+    "choices": [
+      "Quatre",
+      "Trois",
+      "Douze"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 1:20 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-023",
+    "book": "Zacharie",
+    "chapter": 1,
+    "verseRef": "Zacharie 1:21",
+    "verseText": "Voir Zacharie 1:21.",
+    "question": "Pourquoi les forgerons sont-ils venus ?",
+    "choices": [
+      "Pour bâtir des tours",
+      "Pour effrayer et abattre les cornes des nations",
+      "Pour enseigner la loi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 1:21 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-024",
+    "book": "Zacharie",
+    "chapter": 2,
+    "verseRef": "Zacharie 2:1",
+    "verseText": "Voir Zacharie 2:1.",
+    "question": "Que voit Zacharie au début de la vision suivante ?",
+    "choices": [
+      "Un chandelier d’or",
+      "Un homme avec un cordeau",
+      "Une porte de bronze"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 2:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-025",
+    "book": "Zacharie",
+    "chapter": 2,
+    "verseRef": "Zacharie 2:2",
+    "verseText": "Voir Zacharie 2:2.",
+    "question": "Que veut mesurer cet homme ?",
+    "choices": [
+      "La mer",
+      "Jérusalem",
+      "Le désert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 2:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-026",
+    "book": "Zacharie",
+    "chapter": 2,
+    "verseRef": "Zacharie 2:4",
+    "verseText": "Voir Zacharie 2:4.",
+    "question": "Comment Jérusalem est-elle annoncée à cause de la multitude d’hommes et de bêtes ?",
+    "choices": [
+      "Comme une ville sans murailles",
+      "Comme une ville fortifiée de fer",
+      "Comme une ville déserte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 2:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-027",
+    "book": "Zacharie",
+    "chapter": 2,
+    "verseRef": "Zacharie 2:5",
+    "verseText": "Voir Zacharie 2:5.",
+    "question": "Que dit l’Éternel qu’il sera pour Jérusalem ?",
+    "choices": [
+      "Un fleuve autour d’elle",
+      "Une muraille de feu",
+      "Un rempart de pierre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 2:5 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-028",
+    "book": "Zacharie",
+    "chapter": 2,
+    "verseRef": "Zacharie 2:6",
+    "verseText": "Voir Zacharie 2:6.",
+    "question": "D’où l’Éternel dit-il avoir dispersé son peuple ?",
+    "choices": [
+      "Aux quatre vents des cieux",
+      "Aux deux rives du Jourdain",
+      "Sur une seule montagne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 2:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-029",
+    "book": "Zacharie",
+    "chapter": 2,
+    "verseRef": "Zacharie 2:7",
+    "verseText": "Voir Zacharie 2:7.",
+    "question": "Quel appel est lancé à ceux qui habitent « la fille de Babylone » ?",
+    "choices": [
+      "Restez et bâtissez",
+      "Sauve-toi, Sion !",
+      "Faites alliance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 2:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-030",
+    "book": "Zacharie",
+    "chapter": 2,
+    "verseRef": "Zacharie 2:8",
+    "verseText": "Voir Zacharie 2:8.",
+    "question": "Comment l’Éternel parle-t-il de celui qui touche son peuple ?",
+    "choices": [
+      "Il touche la prunelle de son œil",
+      "Il touche une pierre sacrée",
+      "Il touche la poussière du sol"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 2:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-031",
+    "book": "Zacharie",
+    "chapter": 3,
+    "verseRef": "Zacharie 3:1",
+    "verseText": "Voir Zacharie 3:1.",
+    "question": "Qui Zacharie voit-il debout devant l’ange de l’Éternel ?",
+    "choices": [
+      "Josué, le souverain sacrificateur",
+      "Zorobabel, le gouverneur",
+      "Aggée, le prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-032",
+    "book": "Zacharie",
+    "chapter": 3,
+    "verseRef": "Zacharie 3:1",
+    "verseText": "Voir Zacharie 3:1.",
+    "question": "Qui se tient à sa droite pour l’accuser ?",
+    "choices": [
+      "Un ange puissant",
+      "Satan",
+      "Un roi païen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-033",
+    "book": "Zacharie",
+    "chapter": 3,
+    "verseRef": "Zacharie 3:3",
+    "verseText": "Voir Zacharie 3:3.",
+    "question": "De quoi Josué est-il revêtu dans la vision ?",
+    "choices": [
+      "D’habits somptueux",
+      "D’habits sales",
+      "D’une armure"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 3:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-034",
+    "book": "Zacharie",
+    "chapter": 3,
+    "verseRef": "Zacharie 3:4",
+    "verseText": "Voir Zacharie 3:4.",
+    "question": "Que commande l’ange au sujet des vêtements de Josué ?",
+    "choices": [
+      "Qu’on les déchire",
+      "Qu’on les ôte",
+      "Qu’on les teigne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 3:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-035",
+    "book": "Zacharie",
+    "chapter": 3,
+    "verseRef": "Zacharie 3:4",
+    "verseText": "Voir Zacharie 3:4.",
+    "question": "Que dit l’ange : « Je t’enlève ton iniquité, et je te revêts d’___ » ?",
+    "choices": [
+      "Habits de fête",
+      "Habits précieux",
+      "Habits de deuil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 3:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-036",
+    "book": "Zacharie",
+    "chapter": 3,
+    "verseRef": "Zacharie 3:5",
+    "verseText": "Voir Zacharie 3:5.",
+    "question": "Que demande Zacharie qu’on mette sur la tête de Josué ?",
+    "choices": [
+      "Une couronne",
+      "Un turban pur",
+      "Un bandeau d’or"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 3:5 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-037",
+    "book": "Zacharie",
+    "chapter": 3,
+    "verseRef": "Zacharie 3:7",
+    "verseText": "Voir Zacharie 3:7.",
+    "question": "Quelle condition est donnée à Josué pour gouverner la maison de l’Éternel ?",
+    "choices": [
+      "Offrir cent sacrifices",
+      "Marcher dans les voies de l’Éternel et observer ses ordres",
+      "Vaincre les nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 3:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-038",
+    "book": "Zacharie",
+    "chapter": 3,
+    "verseRef": "Zacharie 3:8",
+    "verseText": "Voir Zacharie 3:8.",
+    "question": "Quel nom est donné au serviteur que l’Éternel fait venir ?",
+    "choices": [
+      "L’Épée",
+      "Germe",
+      "Lion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 3:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-039",
+    "book": "Zacharie",
+    "chapter": 3,
+    "verseRef": "Zacharie 3:9",
+    "verseText": "Voir Zacharie 3:9.",
+    "question": "Combien d’yeux sont sur la pierre posée devant Josué ?",
+    "choices": [
+      "Sept",
+      "Dix",
+      "Douze"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 3:9 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-040",
+    "book": "Zacharie",
+    "chapter": 3,
+    "verseRef": "Zacharie 3:10",
+    "verseText": "Voir Zacharie 3:10.",
+    "question": "Quelle promesse de paix est formulée : chacun invitera son prochain sous ___ ?",
+    "choices": [
+      "Le cèdre et le palmier",
+      "La vigne et le figuier",
+      "Le chêne et l’olivier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 3:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-041",
+    "book": "Zacharie",
+    "chapter": 4,
+    "verseRef": "Zacharie 4:2",
+    "verseText": "Voir Zacharie 4:2.",
+    "question": "Dans la vision du chandelier, que voit Zacharie ?",
+    "choices": [
+      "Un chandelier tout d’or",
+      "Un autel de pierre",
+      "Un voile de pourpre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 4:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-042",
+    "book": "Zacharie",
+    "chapter": 4,
+    "verseRef": "Zacharie 4:2",
+    "verseText": "Voir Zacharie 4:2.",
+    "question": "Que se trouve au-dessus du chandelier ?",
+    "choices": [
+      "Un vase",
+      "Une couronne",
+      "Un livre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 4:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-043",
+    "book": "Zacharie",
+    "chapter": 4,
+    "verseRef": "Zacharie 4:2",
+    "verseText": "Voir Zacharie 4:2.",
+    "question": "Combien de lampes le chandelier a-t-il ?",
+    "choices": [
+      "Sept",
+      "Douze",
+      "Trois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 4:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-044",
+    "book": "Zacharie",
+    "chapter": 4,
+    "verseRef": "Zacharie 4:3",
+    "verseText": "Voir Zacharie 4:3.",
+    "question": "Qu’y a-t-il près du chandelier ?",
+    "choices": [
+      "Deux oliviers",
+      "Deux colonnes",
+      "Deux épées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 4:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-045",
+    "book": "Zacharie",
+    "chapter": 4,
+    "verseRef": "Zacharie 4:6",
+    "verseText": "Voir Zacharie 4:6.",
+    "question": "Quelle parole célèbre est donnée concernant l’œuvre ?",
+    "choices": [
+      "Par la force et par l’épée",
+      "Ni par la puissance ni par la force, mais par mon esprit",
+      "Par l’or et par l’argent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 4:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-046",
+    "book": "Zacharie",
+    "chapter": 4,
+    "verseRef": "Zacharie 4:7",
+    "verseText": "Voir Zacharie 4:7.",
+    "question": "Comment est appelée la grande montagne devant Zorobabel ?",
+    "choices": [
+      "Un désert",
+      "Une plaine",
+      "Un abîme"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 4:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-047",
+    "book": "Zacharie",
+    "chapter": 4,
+    "verseRef": "Zacharie 4:10",
+    "verseText": "Voir Zacharie 4:10.",
+    "question": "Quel objet Zorobabel tient-il symboliquement pour l’achèvement ?",
+    "choices": [
+      "Le cordeau",
+      "Le niveau",
+      "La truelle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 4:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-048",
+    "book": "Zacharie",
+    "chapter": 4,
+    "verseRef": "Zacharie 4:10",
+    "verseText": "Voir Zacharie 4:10.",
+    "question": "Que sont les « sept » mentionnés qui parcourent toute la terre ?",
+    "choices": [
+      "Les sept lampes",
+      "Les sept yeux de l’Éternel",
+      "Les sept trompettes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 4:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-049",
+    "book": "Zacharie",
+    "chapter": 4,
+    "verseRef": "Zacharie 4:14",
+    "verseText": "Voir Zacharie 4:14.",
+    "question": "Comment sont appelés les deux oliviers, selon l’explication ?",
+    "choices": [
+      "Les deux rois de l’orient",
+      "Les deux oints qui se tiennent devant le Seigneur",
+      "Les deux sacrificateurs de Béthel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 4:14 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-050",
+    "book": "Zacharie",
+    "chapter": 5,
+    "verseRef": "Zacharie 5:1",
+    "verseText": "Voir Zacharie 5:1.",
+    "question": "Dans la vision suivante, que voit Zacharie voler ?",
+    "choices": [
+      "Un rouleau",
+      "Une couronne",
+      "Un flambeau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 5:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-051",
+    "book": "Zacharie",
+    "chapter": 5,
+    "verseRef": "Zacharie 5:2",
+    "verseText": "Voir Zacharie 5:2.",
+    "question": "Quelle est la longueur du rouleau volant ?",
+    "choices": [
+      "Vingt coudées",
+      "Dix coudées",
+      "Trente coudées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 5:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-052",
+    "book": "Zacharie",
+    "chapter": 5,
+    "verseRef": "Zacharie 5:2",
+    "verseText": "Voir Zacharie 5:2.",
+    "question": "Quelle est la largeur du rouleau volant ?",
+    "choices": [
+      "Dix coudées",
+      "Cinq coudées",
+      "Quinze coudées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 5:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-053",
+    "book": "Zacharie",
+    "chapter": 5,
+    "verseRef": "Zacharie 5:3",
+    "verseText": "Voir Zacharie 5:3.",
+    "question": "Contre qui la malédiction est-elle annoncée, d’un côté du rouleau ?",
+    "choices": [
+      "Contre celui qui vole",
+      "Contre celui qui jeûne",
+      "Contre celui qui bâtit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 5:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-054",
+    "book": "Zacharie",
+    "chapter": 5,
+    "verseRef": "Zacharie 5:3",
+    "verseText": "Voir Zacharie 5:3.",
+    "question": "Contre qui est-elle annoncée de l’autre côté ?",
+    "choices": [
+      "Celui qui ment aux portes",
+      "Celui qui jure faussement",
+      "Celui qui refuse l’aumône"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 5:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-055",
+    "book": "Zacharie",
+    "chapter": 5,
+    "verseRef": "Zacharie 5:6",
+    "verseText": "Voir Zacharie 5:6.",
+    "question": "Que voit Zacharie ensuite sortir ?",
+    "choices": [
+      "Un épha",
+      "Un autel",
+      "Une arche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 5:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-056",
+    "book": "Zacharie",
+    "chapter": 5,
+    "verseRef": "Zacharie 5:7",
+    "verseText": "Voir Zacharie 5:7.",
+    "question": "Qu’y a-t-il au-dessus de l’ouverture de l’épha ?",
+    "choices": [
+      "Une pierre précieuse",
+      "Un talent de plomb",
+      "Un voile de lin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 5:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-057",
+    "book": "Zacharie",
+    "chapter": 5,
+    "verseRef": "Zacharie 5:7",
+    "verseText": "Voir Zacharie 5:7.",
+    "question": "Qui est assise au milieu de l’épha ?",
+    "choices": [
+      "La sagesse",
+      "Une femme",
+      "Une reine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 5:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-058",
+    "book": "Zacharie",
+    "chapter": 5,
+    "verseRef": "Zacharie 5:8",
+    "verseText": "Voir Zacharie 5:8.",
+    "question": "Comment l’ange appelle-t-il cette femme ?",
+    "choices": [
+      "La violence",
+      "La méchanceté",
+      "L’idolâtrie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 5:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-059",
+    "book": "Zacharie",
+    "chapter": 5,
+    "verseRef": "Zacharie 5:8",
+    "verseText": "Voir Zacharie 5:8.",
+    "question": "Avec quoi l’épha est-il rejeté en bas ?",
+    "choices": [
+      "Avec de la pierre",
+      "Avec le plomb",
+      "Avec du fer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 5:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-060",
+    "book": "Zacharie",
+    "chapter": 5,
+    "verseRef": "Zacharie 5:11",
+    "verseText": "Voir Zacharie 5:11.",
+    "question": "Où l’épha doit-il être transporté pour y être établi ?",
+    "choices": [
+      "Au pays de Schinear",
+      "Au pays de Moab",
+      "Au pays d’Édom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 5:11 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-061",
+    "book": "Zacharie",
+    "chapter": 6,
+    "verseRef": "Zacharie 6:10",
+    "verseText": "Voir Zacharie 6:10.",
+    "question": "Qui sont les deux hommes envoyés pour prendre de l’or et de l’argent chez ceux revenus de Babylone ?",
+    "choices": [
+      "Heldai et Tobija",
+      "Esdras et Néhémie",
+      "Éliakim et Azaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 6:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-062",
+    "book": "Zacharie",
+    "chapter": 6,
+    "verseRef": "Zacharie 6:10",
+    "verseText": "Voir Zacharie 6:10.",
+    "question": "Chez qui Zacharie doit-il aller le même jour pour cette action ?",
+    "choices": [
+      "Chez Josias, fils de Sophonie",
+      "Chez Schallum, fils de Qoré",
+      "Chez Hilkija, fils d’Anathoth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 6:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-063",
+    "book": "Zacharie",
+    "chapter": 6,
+    "verseRef": "Zacharie 6:11",
+    "verseText": "Voir Zacharie 6:11.",
+    "question": "Que doit-on faire avec l’or et l’argent reçus ?",
+    "choices": [
+      "Les fondre en lingots",
+      "Faire des couronnes",
+      "Les mettre dans le trésor du roi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 6:11 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-064",
+    "book": "Zacharie",
+    "chapter": 6,
+    "verseRef": "Zacharie 6:11",
+    "verseText": "Voir Zacharie 6:11.",
+    "question": "Sur la tête de qui faut-il placer les couronnes ?",
+    "choices": [
+      "Josué, fils de Jotsadak, le souverain sacrificateur",
+      "Zacharie, fils de Bérékia",
+      "Zorobabel, fils de Schealthiel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 6:11 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-065",
+    "book": "Zacharie",
+    "chapter": 6,
+    "verseRef": "Zacharie 6:12",
+    "verseText": "Voir Zacharie 6:12.",
+    "question": "Quel est le nom de l’homme annoncé qui doit bâtir le temple de l’Éternel ?",
+    "choices": [
+      "Germe",
+      "Shilo",
+      "Consolateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 6:12 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-066",
+    "book": "Zacharie",
+    "chapter": 6,
+    "verseRef": "Zacharie 6:13",
+    "verseText": "Voir Zacharie 6:13.",
+    "question": "Quelle dignité est dite être sur le trône, dans la prophétie sur Germe ?",
+    "choices": [
+      "La royauté seulement",
+      "La sacrificature seulement",
+      "La sacrificature sur son trône"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Zacharie 6:13 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-067",
+    "book": "Zacharie",
+    "chapter": 6,
+    "verseRef": "Zacharie 6:13",
+    "verseText": "Voir Zacharie 6:13.",
+    "question": "Entre qui « une parfaite union » doit-elle régner ?",
+    "choices": [
+      "Entre Juda et Israël",
+      "Entre l’un et l’autre",
+      "Entre les nations et Jérusalem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 6:13 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-068",
+    "book": "Zacharie",
+    "chapter": 6,
+    "verseRef": "Zacharie 6:14",
+    "verseText": "Voir Zacharie 6:14.",
+    "question": "Où doivent être déposées les couronnes en mémoire ?",
+    "choices": [
+      "Dans la maison de l’Éternel",
+      "Dans la maison du roi",
+      "Dans la porte des eaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 6:14 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-069",
+    "book": "Zacharie",
+    "chapter": 7,
+    "verseRef": "Zacharie 7:1",
+    "verseText": "Voir Zacharie 7:1.",
+    "question": "En quel mois la question sur le jeûne est-elle posée, la quatrième année du roi Darius ?",
+    "choices": [
+      "Au neuvième mois",
+      "Au septième mois",
+      "Au premier mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 7:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-070",
+    "book": "Zacharie",
+    "chapter": 7,
+    "verseRef": "Zacharie 7:1",
+    "verseText": "Voir Zacharie 7:1.",
+    "question": "À quelle date du mois ce message est-il daté ?",
+    "choices": [
+      "Le premier jour",
+      "Le quatrième jour",
+      "Le dixième jour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 7:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-071",
+    "book": "Zacharie",
+    "chapter": 7,
+    "verseRef": "Zacharie 7:2",
+    "verseText": "Voir Zacharie 7:2.",
+    "question": "Qui le peuple de Béthel envoie-t-il pour implorer l’Éternel ?",
+    "choices": [
+      "Scharézer et Reguem-Mélec",
+      "Hanan et Obed-Édom",
+      "Gedalia et Baruc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 7:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-072",
+    "book": "Zacharie",
+    "chapter": 7,
+    "verseRef": "Zacharie 7:3",
+    "verseText": "Voir Zacharie 7:3.",
+    "question": "Quelle question est posée aux sacrificateurs et aux prophètes ?",
+    "choices": [
+      "Faut-il rebâtir l’autel ?",
+      "Dois-je pleurer au cinquième mois et faire abstinence ?",
+      "Doit-on chasser les étrangers du pays ?"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 7:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-073",
+    "book": "Zacharie",
+    "chapter": 7,
+    "verseRef": "Zacharie 7:5",
+    "verseText": "Voir Zacharie 7:5.",
+    "question": "Quel reproche l’Éternel fait-il au sujet de ces jeûnes ?",
+    "choices": [
+      "Vous jeûniez pour moi ? pour moi ?",
+      "Vous jeûniez pour le temple ?",
+      "Vous jeûniez pour les pauvres ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 7:5 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-074",
+    "book": "Zacharie",
+    "chapter": 7,
+    "verseRef": "Zacharie 7:6",
+    "verseText": "Voir Zacharie 7:6.",
+    "question": "Quand ils mangent et boivent, pour qui le font-ils selon la question divine ?",
+    "choices": [
+      "Pour l’Éternel seul",
+      "Pour eux-mêmes",
+      "Pour les nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 7:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-075",
+    "book": "Zacharie",
+    "chapter": 7,
+    "verseRef": "Zacharie 7:7",
+    "verseText": "Voir Zacharie 7:7.",
+    "question": "Quelles paroles l’Éternel rappelle-t-il avoir proclamées autrefois ?",
+    "choices": [
+      "Des chants de victoire",
+      "Des paroles par les premiers prophètes",
+      "Des paroles des rois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 7:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-076",
+    "book": "Zacharie",
+    "chapter": 7,
+    "verseRef": "Zacharie 7:9",
+    "verseText": "Voir Zacharie 7:9.",
+    "question": "Quel commandement résume l’Éternel pour les relations humaines ?",
+    "choices": [
+      "Rendez à chacun la vérité et la justice",
+      "Prenez la force par les armes",
+      "Multipliez les serments"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 7:9 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-077",
+    "book": "Zacharie",
+    "chapter": 7,
+    "verseRef": "Zacharie 7:10",
+    "verseText": "Voir Zacharie 7:10.",
+    "question": "Contre qui il est interdit de méditer du mal dans son cœur ?",
+    "choices": [
+      "Contre son prochain",
+      "Contre ses enfants",
+      "Contre les étrangers seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 7:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-078",
+    "book": "Zacharie",
+    "chapter": 7,
+    "verseRef": "Zacharie 7:11",
+    "verseText": "Voir Zacharie 7:11.",
+    "question": "Que dit le peuple avoir fait avec l’oreille ?",
+    "choices": [
+      "Il a prêté l’oreille",
+      "Il a rendu l’oreille dure",
+      "Il a chanté"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 7:11 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-079",
+    "book": "Zacharie",
+    "chapter": 7,
+    "verseRef": "Zacharie 7:12",
+    "verseText": "Voir Zacharie 7:12.",
+    "question": "À quoi ont-ils rendu leur cœur semblable ?",
+    "choices": [
+      "À la cire",
+      "Au diamant",
+      "À l’argile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 7:12 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-080",
+    "book": "Zacharie",
+    "chapter": 7,
+    "verseRef": "Zacharie 7:14",
+    "verseText": "Voir Zacharie 7:14.",
+    "question": "Par quel moyen l’Éternel dit-il les avoir dispersés ?",
+    "choices": [
+      "Par des peuples amis",
+      "Par une tempête parmi toutes les nations",
+      "Par un fleuve débordé"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 7:14 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-081",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:3",
+    "verseText": "Voir Zacharie 8:3.",
+    "question": "Quelle promesse l’Éternel fait-il : « Je reviens à ___ » ?",
+    "choices": [
+      "Jérusalem",
+      "Samarie",
+      "Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-082",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:3",
+    "verseText": "Voir Zacharie 8:3.",
+    "question": "Comment Jérusalem est-elle appelée dans cette promesse ?",
+    "choices": [
+      "La ville de paix",
+      "La ville de vérité",
+      "La ville de conquête"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 8:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-083",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:3",
+    "verseText": "Voir Zacharie 8:3.",
+    "question": "Comment la montagne de l’Éternel des armées est-elle appelée ?",
+    "choices": [
+      "Montagne sainte",
+      "Montagne de fer",
+      "Montagne de brume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-084",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:4",
+    "verseText": "Voir Zacharie 8:4.",
+    "question": "Qui doit encore s’asseoir dans les rues de Jérusalem, selon la promesse ?",
+    "choices": [
+      "Des vieillards et des vieillES",
+      "Des juges et des soldats",
+      "Des marchands et des princes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-085",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:4",
+    "verseText": "Voir Zacharie 8:4.",
+    "question": "Pourquoi chacun d’eux a-t-il un bâton à la main ?",
+    "choices": [
+      "À cause de la longueur des jours",
+      "À cause de la guerre",
+      "À cause des troupeaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-086",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:5",
+    "verseText": "Voir Zacharie 8:5.",
+    "question": "De quoi les places de la ville seront-elles remplies ?",
+    "choices": [
+      "De chars et de chevaux",
+      "De garçons et de filles qui joueront",
+      "De marchands de nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 8:5 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-087",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:7",
+    "verseText": "Voir Zacharie 8:7.",
+    "question": "Quel peuple l’Éternel dit-il sauver ?",
+    "choices": [
+      "Son peuple du pays de l’orient et du pays du soleil couchant",
+      "Son peuple du pays du midi seulement",
+      "Son peuple du pays de l’Arabie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-088",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:8",
+    "verseText": "Voir Zacharie 8:8.",
+    "question": "Quel lien d’alliance est réaffirmé : « Ils seront ___ » ?",
+    "choices": [
+      "Mes ennemis",
+      "Mon peuple",
+      "Mes serviteurs du roi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 8:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-089",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:9",
+    "verseText": "Voir Zacharie 8:9.",
+    "question": "Quelle exhortation est donnée : « Que vos mains ___ » ?",
+    "choices": [
+      "S’abaissent",
+      "Se fortifient",
+      "Se cachent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 8:9 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-090",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:10",
+    "verseText": "Voir Zacharie 8:10.",
+    "question": "Quel fait est rappelé : avant ces jours, que manquait-il pour les hommes et les bêtes ?",
+    "choices": [
+      "Le salaire",
+      "La sagesse",
+      "La santé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-091",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:10",
+    "verseText": "Voir Zacharie 8:10.",
+    "question": "Que dit l’Éternel au sujet de la paix d’alors ?",
+    "choices": [
+      "Il n’y avait pas de paix contre l’ennemi",
+      "Il y avait une paix parfaite",
+      "La paix était achetée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-092",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:11",
+    "verseText": "Voir Zacharie 8:11.",
+    "question": "Comment l’Éternel promet-il de traiter désormais le reste de ce peuple ?",
+    "choices": [
+      "Comme dans les premiers jours",
+      "Comme des étrangers",
+      "Comme des esclaves"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:11 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-093",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:12",
+    "verseText": "Voir Zacharie 8:12.",
+    "question": "Quels éléments sont promis : « la semence de paix » ?",
+    "choices": [
+      "La vigne donnera son fruit, la terre ses produits, les cieux leur rosée",
+      "Les mers donneront leurs poissons, le désert ses fleurs",
+      "Les montagnes donneront de l’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:12 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-094",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:13",
+    "verseText": "Voir Zacharie 8:13.",
+    "question": "Quel contraste est annoncé : de quoi Juda et Israël seront-ils délivrés ?",
+    "choices": [
+      "D’être une malédiction",
+      "D’être une armée",
+      "D’être un royaume païen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:13 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-095",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:15",
+    "verseText": "Voir Zacharie 8:15.",
+    "question": "Quelle exhortation accompagne cela ?",
+    "choices": [
+      "Ne craignez pas",
+      "Fuyez la ville",
+      "Cachez les portes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:15 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-096",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:16",
+    "verseText": "Voir Zacharie 8:16.",
+    "question": "Quelles paroles sont ordonnées : « Dites ___ à votre prochain » ?",
+    "choices": [
+      "La vérité",
+      "Des fables",
+      "Des ruses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:16 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-097",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:16",
+    "verseText": "Voir Zacharie 8:16.",
+    "question": "Quel jugement doit-on rendre dans les portes ?",
+    "choices": [
+      "Un jugement de paix",
+      "Un jugement de colère",
+      "Un jugement secret"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:16 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-098",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:17",
+    "verseText": "Voir Zacharie 8:17.",
+    "question": "Qu’est-il interdit d’aimer, selon l’Éternel ?",
+    "choices": [
+      "Le blé et le vin",
+      "Le faux serment",
+      "Les étrangers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 8:17 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-099",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:19",
+    "verseText": "Voir Zacharie 8:19.",
+    "question": "Quels jeûnes doivent devenir « joie et allégresse » ?",
+    "choices": [
+      "Du quatrième, du cinquième, du septième et du dixième mois",
+      "Du premier et du troisième mois seulement",
+      "Du deuxième et du sixième mois seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:19 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-100",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:19",
+    "verseText": "Voir Zacharie 8:19.",
+    "question": "Qu’est-ce qui est ordonné d’aimer pour cela ?",
+    "choices": [
+      "La vérité et la paix",
+      "La richesse et la force",
+      "Le silence et l’isolement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:19 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-101",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:22",
+    "verseText": "Voir Zacharie 8:22.",
+    "question": "Quel scénario est annoncé concernant les peuples ?",
+    "choices": [
+      "Ils viendront seulement une fois l’an",
+      "Beaucoup de peuples et de puissantes nations viendront chercher l’Éternel",
+      "Ils détruiront Jérusalem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 8:22 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-102",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:23",
+    "verseText": "Voir Zacharie 8:23.",
+    "question": "Combien d’hommes de toutes les langues des nations saisiront le pan d’un Juif ?",
+    "choices": [
+      "Dix",
+      "Cinq",
+      "Douze"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 8:23 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-103",
+    "book": "Zacharie",
+    "chapter": 8,
+    "verseRef": "Zacharie 8:23",
+    "verseText": "Voir Zacharie 8:23.",
+    "question": "Quelle raison donnent-ils pour aller avec lui ?",
+    "choices": [
+      "Nous craignons votre armée",
+      "Nous avons appris que Dieu est avec vous",
+      "Nous avons trouvé votre sagesse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 8:23 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-104",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:9",
+    "verseText": "Voir Zacharie 9:9.",
+    "question": "Quel titre est donné au personnage venant à Sion avec justice et salut ?",
+    "choices": [
+      "Ton roi",
+      "Ton juge",
+      "Ton prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 9:9 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-105",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:9",
+    "verseText": "Voir Zacharie 9:9.",
+    "question": "Sur quoi vient-il monté ?",
+    "choices": [
+      "Sur un cheval de guerre",
+      "Sur un âne, sur un ânon, le petit d’une ânesse",
+      "Sur un chameau"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 9:9 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-106",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:10",
+    "verseText": "Voir Zacharie 9:10.",
+    "question": "Que dit l’Éternel qu’il retranchera d’Éphraïm ?",
+    "choices": [
+      "Le sceptre",
+      "Les chars",
+      "Les vignes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 9:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-107",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:10",
+    "verseText": "Voir Zacharie 9:10.",
+    "question": "Que dit-il qu’il retranchera de Jérusalem ?",
+    "choices": [
+      "Les chevaux",
+      "Les puits",
+      "Les greniers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 9:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-108",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:10",
+    "verseText": "Voir Zacharie 9:10.",
+    "question": "Que deviendra l’arc de guerre ?",
+    "choices": [
+      "Il sera consacré",
+      "Il sera anéanti",
+      "Il sera vendu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 9:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-109",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:10",
+    "verseText": "Voir Zacharie 9:10.",
+    "question": "À qui dominera-t-il, selon l’annonce ?",
+    "choices": [
+      "D’une mer à l’autre",
+      "D’une montagne à l’autre",
+      "D’un désert à l’autre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 9:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-110",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:11",
+    "verseText": "Voir Zacharie 9:11.",
+    "question": "Par quoi l’Éternel dit-il renvoyer les captifs de la fosse sans eau ?",
+    "choices": [
+      "Par le sang de ton alliance",
+      "Par la force du roi",
+      "Par les richesses du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 9:11 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-111",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:12",
+    "verseText": "Voir Zacharie 9:12.",
+    "question": "Comment sont appelés les captifs à qui l’on dit de retourner ?",
+    "choices": [
+      "Captifs de la sagesse",
+      "Captifs de l’espérance",
+      "Captifs de la vengeance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 9:12 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-112",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:12",
+    "verseText": "Voir Zacharie 9:12.",
+    "question": "Que promet l’Éternel : « Je te rendrai ___ » ?",
+    "choices": [
+      "Le double",
+      "La moitié",
+      "Rien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 9:12 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-113",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:13",
+    "verseText": "Voir Zacharie 9:13.",
+    "question": "Quel symbole est donné : Juda est bandé comme quoi ?",
+    "choices": [
+      "Un arc",
+      "Une harpe",
+      "Un javelot"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 9:13 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-114",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:13",
+    "verseText": "Voir Zacharie 9:13.",
+    "question": "Avec quoi Éphraïm est-il rempli dans cette image ?",
+    "choices": [
+      "Avec un glaive",
+      "Avec un carquois",
+      "Avec un fouet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 9:13 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-115",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:14",
+    "verseText": "Voir Zacharie 9:14.",
+    "question": "Quelle expression décrit les cris de l’Éternel des armées au combat ?",
+    "choices": [
+      "Il sonnera de la trompette",
+      "Il frappera du tambour",
+      "Il gardera le silence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 9:14 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-116",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:14",
+    "verseText": "Voir Zacharie 9:14.",
+    "question": "De quelle manière l’Éternel marche-t-il dans cette scène ?",
+    "choices": [
+      "Dans les tourbillons du midi",
+      "Dans la neige du nord",
+      "Dans la poussière d’orient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 9:14 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-117",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:15",
+    "verseText": "Voir Zacharie 9:15.",
+    "question": "De quoi le peuple sera-t-il abreuvé comme par du vin, selon l’image ?",
+    "choices": [
+      "Du sang de leurs ennemis",
+      "Du miel des montagnes",
+      "De l’eau des puits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 9:15 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-118",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:15",
+    "verseText": "Voir Zacharie 9:15.",
+    "question": "Comment le peuple sera-t-il rempli, selon l’image ?",
+    "choices": [
+      "Comme une coupe",
+      "Comme un filet",
+      "Comme une lance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 9:15 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-119",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:16",
+    "verseText": "Voir Zacharie 9:16.",
+    "question": "À quoi sont-ils comparés dans la promesse de beauté ?",
+    "choices": [
+      "À des pierres précieuses sur sa terre",
+      "À des briques d’airain",
+      "À des roseaux du fleuve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 9:16 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-120",
+    "book": "Zacharie",
+    "chapter": 9,
+    "verseRef": "Zacharie 9:17",
+    "verseText": "Voir Zacharie 9:17.",
+    "question": "Quelle exclamation conclut cette promesse de prospérité ?",
+    "choices": [
+      "Que son bonheur est grand, que sa beauté est grande !",
+      "Que sa force est terrible, que sa colère est grande !",
+      "Que son secret est profond, que sa nuit est longue !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 9:17 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-121",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:1",
+    "verseText": "Voir Zacharie 10:1.",
+    "question": "Que demande-t-on à l’Éternel au temps de la pluie du printemps ?",
+    "choices": [
+      "La pluie",
+      "Du feu",
+      "Une armée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-122",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:1",
+    "verseText": "Voir Zacharie 10:1.",
+    "question": "Que fait l’Éternel des armées selon cette promesse ?",
+    "choices": [
+      "Il fait les éclairs",
+      "Il cache les nuages",
+      "Il ferme les sources"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-123",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:1",
+    "verseText": "Voir Zacharie 10:1.",
+    "question": "Quel type de pluie est promis à chacun ?",
+    "choices": [
+      "Une pluie de grêle",
+      "Une pluie abondante",
+      "Une pluie rare"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-124",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:2",
+    "verseText": "Voir Zacharie 10:2.",
+    "question": "Que produisent les idoles, selon le texte ?",
+    "choices": [
+      "La vérité",
+      "Des oracles de néant",
+      "La paix"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-125",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:2",
+    "verseText": "Voir Zacharie 10:2.",
+    "question": "Que voient les devins, selon le reproche ?",
+    "choices": [
+      "La vérité",
+      "Le mensonge",
+      "La loi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-126",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:2",
+    "verseText": "Voir Zacharie 10:2.",
+    "question": "Comment sont décrites leurs consolations ?",
+    "choices": [
+      "Vaines",
+      "Fortes",
+      "Saintes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-127",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:2",
+    "verseText": "Voir Zacharie 10:2.",
+    "question": "Pourquoi le peuple est-il errant ?",
+    "choices": [
+      "Parce qu’il n’a pas de roi",
+      "Parce qu’il n’a pas de pasteur",
+      "Parce qu’il n’a pas de temple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-128",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:3",
+    "verseText": "Voir Zacharie 10:3.",
+    "question": "Contre qui l’Éternel déclare-t-il que sa colère s’est enflammée ?",
+    "choices": [
+      "Contre les pasteurs",
+      "Contre les enfants",
+      "Contre les étrangers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-129",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:3",
+    "verseText": "Voir Zacharie 10:3.",
+    "question": "Qui l’Éternel dit-il punir ?",
+    "choices": [
+      "Les brebis",
+      "Les boucs",
+      "Les colombes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-130",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:3",
+    "verseText": "Voir Zacharie 10:3.",
+    "question": "Quel titre est donné à Juda, visité par l’Éternel ?",
+    "choices": [
+      "Le troupeau de sa gloire",
+      "La pierre de sa maison",
+      "La lampe de son autel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-131",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:4",
+    "verseText": "Voir Zacharie 10:4.",
+    "question": "De qui sort « la pierre angulaire » ?",
+    "choices": [
+      "D’Israël",
+      "De Juda",
+      "De Babylone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-132",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:4",
+    "verseText": "Voir Zacharie 10:4.",
+    "question": "De qui sort « le clou » ?",
+    "choices": [
+      "De Juda",
+      "De Moab",
+      "De la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-133",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:4",
+    "verseText": "Voir Zacharie 10:4.",
+    "question": "De qui sort « l’arc de guerre » ?",
+    "choices": [
+      "De Juda",
+      "D’Édom",
+      "De Damas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-134",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:5",
+    "verseText": "Voir Zacharie 10:5.",
+    "question": "Que deviendront-ils au combat ?",
+    "choices": [
+      "Comme de vaillants hommes",
+      "Comme des prisonniers",
+      "Comme des muets"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:5 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-135",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:5",
+    "verseText": "Voir Zacharie 10:5.",
+    "question": "Où fouleront-ils l’ennemi, selon l’image ?",
+    "choices": [
+      "Dans l’herbe",
+      "Dans la boue des rues",
+      "Dans l’eau des fleuves"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:5 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-136",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:5",
+    "verseText": "Voir Zacharie 10:5.",
+    "question": "Que fera l’Éternel avec eux au combat ?",
+    "choices": [
+      "Il les abandonnera",
+      "Il sera avec eux",
+      "Il les dispersera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:5 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-137",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:5",
+    "verseText": "Voir Zacharie 10:5.",
+    "question": "Que deviendront les cavaliers ?",
+    "choices": [
+      "Confus",
+      "Fortifiés",
+      "Couronnés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:5 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-138",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:6",
+    "verseText": "Voir Zacharie 10:6.",
+    "question": "Que dit l’Éternel qu’il fortifiera ?",
+    "choices": [
+      "La maison de Juda",
+      "Les murailles de Tyr",
+      "Le royaume de Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-139",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:6",
+    "verseText": "Voir Zacharie 10:6.",
+    "question": "Qui dit-il qu’il sauvera ?",
+    "choices": [
+      "La maison de Joseph",
+      "La maison d’Assur",
+      "La maison de Pharaon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-140",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:6",
+    "verseText": "Voir Zacharie 10:6.",
+    "question": "Quelle action de miséricorde est promise ?",
+    "choices": [
+      "Je les ferai revenir",
+      "Je les détruirai",
+      "Je les vendrai"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-141",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:6",
+    "verseText": "Voir Zacharie 10:6.",
+    "question": "Comment seront-ils traités, comme si quoi n’avait pas été ?",
+    "choices": [
+      "Comme si je ne les avais pas rejetés",
+      "Comme s’ils n’avaient pas péché",
+      "Comme si le temple n’avait pas été brûlé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-142",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:6",
+    "verseText": "Voir Zacharie 10:6.",
+    "question": "Pourquoi ?",
+    "choices": [
+      "Car je suis l’Éternel, leur Dieu, et je les exaucerai",
+      "Car ils ont beaucoup offert",
+      "Car les nations les craignent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-143",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:7",
+    "verseText": "Voir Zacharie 10:7.",
+    "question": "À quoi Éphraïm sera-t-il semblable ?",
+    "choices": [
+      "À un lion",
+      "À un héros",
+      "À un roseau"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-144",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:7",
+    "verseText": "Voir Zacharie 10:7.",
+    "question": "Comment leur cœur sera-t-il ?",
+    "choices": [
+      "Dans l’allégresse, comme par du vin",
+      "Dans le deuil, comme par la cendre",
+      "Dans la peur, comme par l’épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-145",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:7",
+    "verseText": "Voir Zacharie 10:7.",
+    "question": "Que verront leurs fils ?",
+    "choices": [
+      "La ruine",
+      "Cela, et ils se réjouiront",
+      "Des murailles nouvelles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-146",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:7",
+    "verseText": "Voir Zacharie 10:7.",
+    "question": "En qui leur cœur se réjouira-t-il ?",
+    "choices": [
+      "En Darius",
+      "En l’Éternel",
+      "En leurs armes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-147",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:8",
+    "verseText": "Voir Zacharie 10:8.",
+    "question": "Quel geste est mentionné : « Je sifflerai après eux » pour quoi faire ?",
+    "choices": [
+      "Les disperser",
+      "Les rassembler",
+      "Les juger"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-148",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:8",
+    "verseText": "Voir Zacharie 10:8.",
+    "question": "Pourquoi l’Éternel dit-il les rassembler ?",
+    "choices": [
+      "Car je les ai rachetés",
+      "Car ils ont bâti",
+      "Car ils ont juré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-149",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:8",
+    "verseText": "Voir Zacharie 10:8.",
+    "question": "Qu’est-il dit de leur nombre ?",
+    "choices": [
+      "Ils diminueront",
+      "Ils multiplieront",
+      "Ils resteront peu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-150",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:9",
+    "verseText": "Voir Zacharie 10:9.",
+    "question": "Où l’Éternel dit-il les semer ?",
+    "choices": [
+      "Parmi les peuples",
+      "Dans une seule ville",
+      "Sur une montagne sainte seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:9 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-151",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:9",
+    "verseText": "Voir Zacharie 10:9.",
+    "question": "Que feront-ils au loin, avec leurs enfants ?",
+    "choices": [
+      "Ils oublieront l’Éternel",
+      "Ils se souviendront de moi et ils vivront",
+      "Ils périront en route"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:9 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-152",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:10",
+    "verseText": "Voir Zacharie 10:10.",
+    "question": "De quel pays l’Éternel les fera-t-il revenir ?",
+    "choices": [
+      "Du pays d’Égypte",
+      "Du pays de Canaan",
+      "Du pays de Médie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-153",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:10",
+    "verseText": "Voir Zacharie 10:10.",
+    "question": "De quel autre lieu les rassemblera-t-il ?",
+    "choices": [
+      "D’Assyrie",
+      "De Tyr",
+      "De Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-154",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:10",
+    "verseText": "Voir Zacharie 10:10.",
+    "question": "Vers quel pays les fera-t-il venir ?",
+    "choices": [
+      "Galaad et le Liban",
+      "Édom et Séir",
+      "Aram et Damas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-155",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:10",
+    "verseText": "Voir Zacharie 10:10.",
+    "question": "Quelle difficulté est annoncée : le lieu ne suffira pas pour eux ?",
+    "choices": [
+      "Oui, il ne suffira pas",
+      "Non, il sera trop vaste",
+      "Il sera désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-156",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:11",
+    "verseText": "Voir Zacharie 10:11.",
+    "question": "Dans quoi passera-t-il, selon la promesse ?",
+    "choices": [
+      "Dans la mer de détresse",
+      "Dans le désert de feu",
+      "Dans la montagne de fer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:11 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-157",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:11",
+    "verseText": "Voir Zacharie 10:11.",
+    "question": "Que frappera-t-il dans la mer ?",
+    "choices": [
+      "Les lions",
+      "Les flots",
+      "Les étoiles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:11 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-158",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:11",
+    "verseText": "Voir Zacharie 10:11.",
+    "question": "Que deviendront « toutes les profondeurs du fleuve » ?",
+    "choices": [
+      "Elles se dessécheront",
+      "Elles grossiront",
+      "Elles déborderont"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:11 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-159",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:11",
+    "verseText": "Voir Zacharie 10:11.",
+    "question": "Que sera abaissé : « l’orgueil d’Assyrie » et quoi d’Égypte s’éloignera ?",
+    "choices": [
+      "Le sceptre",
+      "Le trône",
+      "Le sang"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:11 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-160",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:12",
+    "verseText": "Voir Zacharie 10:12.",
+    "question": "Par qui l’Éternel dit-il les fortifier ?",
+    "choices": [
+      "Par moi",
+      "Par l’Éternel",
+      "Par leurs rois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 10:12 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-161",
+    "book": "Zacharie",
+    "chapter": 10,
+    "verseRef": "Zacharie 10:12",
+    "verseText": "Voir Zacharie 10:12.",
+    "question": "En quel nom marcheront-ils ?",
+    "choices": [
+      "Au nom de l’Éternel",
+      "Au nom des idoles",
+      "Au nom des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 10:12 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-162",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:1",
+    "verseText": "Voir Zacharie 11:1.",
+    "question": "Quel appel est lancé au Liban ?",
+    "choices": [
+      "Ouvre tes portes",
+      "Ferme tes portes",
+      "Renverse tes tours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-163",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:1",
+    "verseText": "Voir Zacharie 11:1.",
+    "question": "Que doit dévorer le feu, selon cet appel ?",
+    "choices": [
+      "Tes cèdres",
+      "Tes vignes",
+      "Tes troupeaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-164",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:2",
+    "verseText": "Voir Zacharie 11:2.",
+    "question": "Pourquoi le cyprès doit-il se lamenter ?",
+    "choices": [
+      "Car le cèdre est tombé",
+      "Car l’or est volé",
+      "Car la mer est montée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-165",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:2",
+    "verseText": "Voir Zacharie 11:2.",
+    "question": "Qu’est-ce qui est ravagé, selon le texte ?",
+    "choices": [
+      "La forêt magnifique",
+      "La montagne sainte",
+      "La ville de vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-166",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:3",
+    "verseText": "Voir Zacharie 11:3.",
+    "question": "Qui pousse des gémissements, car leur magnificence est détruite ?",
+    "choices": [
+      "Les pasteurs",
+      "Les rois",
+      "Les prophètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-167",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:3",
+    "verseText": "Voir Zacharie 11:3.",
+    "question": "D’où vient le bruit du rugissement ?",
+    "choices": [
+      "Des lions",
+      "Des taureaux",
+      "Des aigles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-168",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:3",
+    "verseText": "Voir Zacharie 11:3.",
+    "question": "Quel lieu est mentionné : « la fierté du Jourdain » ?",
+    "choices": [
+      "Elle est détruite",
+      "Elle est élevée",
+      "Elle est cachée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-169",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:4",
+    "verseText": "Voir Zacharie 11:4.",
+    "question": "Quel ordre est donné à Zacharie ?",
+    "choices": [
+      "Pais les brebis destinées à la boucherie",
+      "Bâtis une muraille de feu",
+      "Mesure la ville de vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-170",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:5",
+    "verseText": "Voir Zacharie 11:5.",
+    "question": "Que font ceux qui les achètent, sans se tenir pour coupables ?",
+    "choices": [
+      "Ils les bénissent",
+      "Ils les égorgent",
+      "Ils les relâchent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 11:5 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-171",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:5",
+    "verseText": "Voir Zacharie 11:5.",
+    "question": "Que disent ceux qui les vendent ?",
+    "choices": [
+      "Béni soit l’Éternel, je suis riche !",
+      "Maudit soit l’Éternel, je suis pauvre !",
+      "Loué soit le roi, je suis fort !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:5 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-172",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:5",
+    "verseText": "Voir Zacharie 11:5.",
+    "question": "Comment les pasteurs traitent-ils le troupeau ?",
+    "choices": [
+      "Ils l’épargnent",
+      "Ils n’en ont point pitié",
+      "Ils le protègent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 11:5 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-173",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:6",
+    "verseText": "Voir Zacharie 11:6.",
+    "question": "Quelle décision divine est annoncée concernant les habitants du pays ?",
+    "choices": [
+      "Je ne les épargnerai plus",
+      "Je les bénirai tous",
+      "Je les oublierai"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-174",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:6",
+    "verseText": "Voir Zacharie 11:6.",
+    "question": "Entre quelles mains l’Éternel livrera-t-il les hommes ?",
+    "choices": [
+      "Entre les mains de leurs pasteurs et de leur roi",
+      "Entre les mains des prophètes et des anciens",
+      "Entre les mains des étrangers seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-175",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:6",
+    "verseText": "Voir Zacharie 11:6.",
+    "question": "Comment le pays sera-t-il frappé ?",
+    "choices": [
+      "Il sera frappé, et je ne délivrerai pas",
+      "Il sera guéri, et je délivrerai",
+      "Il sera fortifié, et je protégerai"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-176",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:7",
+    "verseText": "Voir Zacharie 11:7.",
+    "question": "Quels deux bâtons Zacharie prend-il pour paître ?",
+    "choices": [
+      "Grâce et Union",
+      "Force et Justice",
+      "Paix et Vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-177",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:8",
+    "verseText": "Voir Zacharie 11:8.",
+    "question": "Combien de pasteurs retranche-t-il en un mois ?",
+    "choices": [
+      "Trois",
+      "Sept",
+      "Douze"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-178",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:8",
+    "verseText": "Voir Zacharie 11:8.",
+    "question": "Quel sentiment Zacharie décrit-il envers eux ?",
+    "choices": [
+      "Mon âme était impatiente à leur égard",
+      "Mon âme les aimait",
+      "Mon âme les craignait"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-179",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:8",
+    "verseText": "Voir Zacharie 11:8.",
+    "question": "Quel est leur sentiment envers Zacharie ?",
+    "choices": [
+      "Ils avaient du dégoût pour moi",
+      "Ils m’honoraient",
+      "Ils me suivaient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-180",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:9",
+    "verseText": "Voir Zacharie 11:9.",
+    "question": "Quelle décision prend Zacharie concernant le troupeau ?",
+    "choices": [
+      "Je ne vous paîtrai plus",
+      "Je vous paîtrai toujours",
+      "Je vous bénirai sans cesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:9 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-181",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:12",
+    "verseText": "Voir Zacharie 11:12.",
+    "question": "Que demande Zacharie pour salaire après avoir paître le troupeau ?",
+    "choices": [
+      "Donnez-moi mon salaire",
+      "Donnez-moi un temple",
+      "Donnez-moi une épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:12 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-182",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:12",
+    "verseText": "Voir Zacharie 11:12.",
+    "question": "Combien de sicles d’argent lui pèsent-ils comme salaire ?",
+    "choices": [
+      "Trente sicles d’argent",
+      "Cinquante sicles d’argent",
+      "Dix sicles d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:12 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-183",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:13",
+    "verseText": "Voir Zacharie 11:13.",
+    "question": "À qui l’Éternel dit-il de jeter ce prix ?",
+    "choices": [
+      "Au trésor",
+      "Au potier",
+      "Au sacrificateur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Zacharie 11:13 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-184",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:13",
+    "verseText": "Voir Zacharie 11:13.",
+    "question": "Comment l’Éternel qualifie-t-il ce prix ?",
+    "choices": [
+      "Le prix magnifique auquel j’ai été estimé",
+      "Le prix misérable auquel j’ai été estimé",
+      "Le prix secret auquel j’ai été caché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:13 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-185",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:13",
+    "verseText": "Voir Zacharie 11:13.",
+    "question": "Où Zacharie jette-t-il les trente sicles d’argent ?",
+    "choices": [
+      "Dans la maison de l’Éternel",
+      "À la porte de la ville",
+      "Dans le palais du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:13 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-186",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:14",
+    "verseText": "Voir Zacharie 11:14.",
+    "question": "Quel est le nom du second bâton que Zacharie brise ?",
+    "choices": [
+      "Union",
+      "Grâce",
+      "Vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:14 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-187",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:14",
+    "verseText": "Voir Zacharie 11:14.",
+    "question": "Que brise-t-il en brisant ce bâton ?",
+    "choices": [
+      "L’alliance entre Juda et Israël",
+      "La muraille de Jérusalem",
+      "Les portes du Liban"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:14 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-188",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:11",
+    "verseText": "Voir Zacharie 11:11.",
+    "question": "Quel état du troupeau est mentionné : ils reconnurent quoi ?",
+    "choices": [
+      "Que c’était la parole de l’Éternel",
+      "Que c’était la parole des nations",
+      "Que c’était un songe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:11 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-189",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:15",
+    "verseText": "Voir Zacharie 11:15.",
+    "question": "Quel objet l’Éternel demande-t-il à Zacharie de prendre encore ?",
+    "choices": [
+      "Les ustensiles d’un pasteur insensé",
+      "Les armes d’un guerrier",
+      "Les vêtements d’un sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:15 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-190",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:16",
+    "verseText": "Voir Zacharie 11:16.",
+    "question": "Quel type de pasteur l’Éternel suscite-t-il dans le pays ?",
+    "choices": [
+      "Un pasteur insensé",
+      "Un pasteur fidèle",
+      "Un pasteur étranger"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:16 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-191",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:16",
+    "verseText": "Voir Zacharie 11:16.",
+    "question": "Que ne visitera pas ce pasteur, selon la description ?",
+    "choices": [
+      "Celles qui périssent",
+      "Celles qui prospèrent",
+      "Celles qui vieillissent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:16 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-192",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:16",
+    "verseText": "Voir Zacharie 11:16.",
+    "question": "Que ne cherchera pas ce pasteur ?",
+    "choices": [
+      "Les plus jeunes",
+      "Les plus fortes",
+      "Les plus riches"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:16 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-193",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:16",
+    "verseText": "Voir Zacharie 11:16.",
+    "question": "Que ne guérira-t-il pas ?",
+    "choices": [
+      "La blessée",
+      "La malade",
+      "La muette"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:16 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-194",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:16",
+    "verseText": "Voir Zacharie 11:16.",
+    "question": "Que ne soutiendra-t-il pas ?",
+    "choices": [
+      "Celle qui demeure debout",
+      "Celle qui tombe",
+      "Celle qui fuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:16 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-195",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:16",
+    "verseText": "Voir Zacharie 11:16.",
+    "question": "Que mangera-t-il à la place ?",
+    "choices": [
+      "La chair des plus grasses",
+      "La chair des plus faibles",
+      "Le pain des pauvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:16 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-196",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:16",
+    "verseText": "Voir Zacharie 11:16.",
+    "question": "Que fera-t-il des ongles de leurs pieds ?",
+    "choices": [
+      "Il les brisera",
+      "Il les guérira",
+      "Il les couronnera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:16 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-197",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:17",
+    "verseText": "Voir Zacharie 11:17.",
+    "question": "Quelle menace est prononcée contre le pasteur de néant ?",
+    "choices": [
+      "L’épée sur son bras et sur son œil droit",
+      "Le feu sur sa tête et sur son cœur",
+      "La peste sur sa bouche et sur ses mains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:17 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-198",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:17",
+    "verseText": "Voir Zacharie 11:17.",
+    "question": "Que deviendra son bras ?",
+    "choices": [
+      "Il se desséchera entièrement",
+      "Il deviendra puissant",
+      "Il sera guéri"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:17 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-199",
+    "book": "Zacharie",
+    "chapter": 11,
+    "verseRef": "Zacharie 11:17",
+    "verseText": "Voir Zacharie 11:17.",
+    "question": "Que deviendra son œil droit ?",
+    "choices": [
+      "Il s’éteindra entièrement",
+      "Il verra double",
+      "Il brillera davantage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 11:17 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-200",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:2",
+    "verseText": "Voir Zacharie 12:2.",
+    "question": "Quel symbole Jérusalem deviendra-t-elle pour tous les peuples, selon l’annonce ?",
+    "choices": [
+      "Une coupe d’étourdissement",
+      "Une source de vin",
+      "Une muraille de bronze"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-201",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:1",
+    "verseText": "Voir Zacharie 12:1.",
+    "question": "Qui est présenté comme créant l’esprit de l’homme au dedans de lui ?",
+    "choices": [
+      "L’Éternel",
+      "Un ange",
+      "Un prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-202",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:2",
+    "verseText": "Voir Zacharie 12:2.",
+    "question": "Qu’est-ce que l’Éternel dit faire de Jérusalem pour tous les peuples d’alentour ?",
+    "choices": [
+      "Une coupe d’étourdissement",
+      "Une coupe de bénédiction",
+      "Une coupe de joie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-203",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:2",
+    "verseText": "Voir Zacharie 12:2.",
+    "question": "Avec quoi Jérusalem sera-t-elle aussi en siège, selon l’annonce ?",
+    "choices": [
+      "Avec Juda",
+      "Avec Moab",
+      "Avec l’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-204",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:3",
+    "verseText": "Voir Zacharie 12:3.",
+    "question": "Que deviendra Jérusalem pour tous les peuples, au jour annoncé ?",
+    "choices": [
+      "Une pierre pesante",
+      "Une porte d’airain",
+      "Une ville sans murailles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-205",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:3",
+    "verseText": "Voir Zacharie 12:3.",
+    "question": "Que feront tous ceux qui la soulèveront ?",
+    "choices": [
+      "Ils se blesseront",
+      "Ils la porteront facilement",
+      "Ils s’enrichiront"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-206",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:4",
+    "verseText": "Voir Zacharie 12:4.",
+    "question": "Qu’arrivera-t-il à tout cheval, selon l’Éternel ?",
+    "choices": [
+      "L’étonnement",
+      "La sagesse",
+      "La paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-207",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:4",
+    "verseText": "Voir Zacharie 12:4.",
+    "question": "Qu’arrivera-t-il aux cavaliers ?",
+    "choices": [
+      "La folie",
+      "La victoire",
+      "La richesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-208",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:4",
+    "verseText": "Voir Zacharie 12:4.",
+    "question": "Sur qui l’Éternel dit-il ouvrir les yeux ?",
+    "choices": [
+      "Sur la maison de Juda",
+      "Sur la maison de Moab",
+      "Sur l’armée d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-209",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:4",
+    "verseText": "Voir Zacharie 12:4.",
+    "question": "De quoi l’Éternel frappera-t-il les chevaux des peuples ?",
+    "choices": [
+      "D’aveuglement",
+      "De force",
+      "De paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-210",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:5",
+    "verseText": "Voir Zacharie 12:5.",
+    "question": "Que diront dans leur cœur les chefs de Juda ?",
+    "choices": [
+      "Les habitants de Jérusalem sont ma force par l’Éternel des armées, leur Dieu",
+      "Les habitants de Jérusalem sont faibles et abandonnés",
+      "Les habitants de Jérusalem sont riches par leur commerce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:5 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-211",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:6",
+    "verseText": "Voir Zacharie 12:6.",
+    "question": "À quoi l’Éternel fera-t-il les chefs de Juda « en ce jour-là » ?",
+    "choices": [
+      "À un foyer ardent sous du bois",
+      "À une torche dans une gerbe",
+      "Aux deux images à la fois"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Zacharie 12:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-212",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:6",
+    "verseText": "Voir Zacharie 12:6.",
+    "question": "Que feront-ils à droite et à gauche parmi tous les peuples d’alentour ?",
+    "choices": [
+      "Ils les consumeront",
+      "Ils les serviront",
+      "Ils fuiront"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-213",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:6",
+    "verseText": "Voir Zacharie 12:6.",
+    "question": "Où Jérusalem restera-t-elle encore ?",
+    "choices": [
+      "À sa place, à Jérusalem",
+      "En exil, à Babylone",
+      "Sur la montagne d’Édom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:6 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-214",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:7",
+    "verseText": "Voir Zacharie 12:7.",
+    "question": "Qui l’Éternel sauvera-t-il premièrement ?",
+    "choices": [
+      "Les tentes de Juda",
+      "Les tentes de Benjamin",
+      "Les tentes de Lévi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-215",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:7",
+    "verseText": "Voir Zacharie 12:7.",
+    "question": "Pourquoi les tentes de Juda sont-elles sauvées premièrement ?",
+    "choices": [
+      "Afin que la gloire de la maison de David et la gloire des habitants de Jérusalem ne s’élèvent pas au-dessus de Juda",
+      "Afin que Juda domine toutes les nations",
+      "Afin que le temple soit détruit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:7 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-216",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:8",
+    "verseText": "Voir Zacharie 12:8.",
+    "question": "Que sera l’Éternel pour les habitants de Jérusalem en ce jour-là ?",
+    "choices": [
+      "Un bouclier",
+      "Un roi",
+      "Un marchand"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-217",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:8",
+    "verseText": "Voir Zacharie 12:8.",
+    "question": "Qui sera comme David parmi eux ?",
+    "choices": [
+      "Le plus faible",
+      "Le plus vigoureux",
+      "Le plus ancien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-218",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:8",
+    "verseText": "Voir Zacharie 12:8.",
+    "question": "Que sera la maison de David devant eux ?",
+    "choices": [
+      "Comme Dieu",
+      "Comme un peuple ordinaire",
+      "Comme une armée étrangère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-219",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:8",
+    "verseText": "Voir Zacharie 12:8.",
+    "question": "Comme qui la maison de David sera-t-elle, selon la comparaison ?",
+    "choices": [
+      "Comme l’ange de l’Éternel",
+      "Comme un chérubin",
+      "Comme un seraphin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:8 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-220",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:9",
+    "verseText": "Voir Zacharie 12:9.",
+    "question": "Que cherchera l’Éternel à faire à toutes les nations qui viendront contre Jérusalem ?",
+    "choices": [
+      "Les détruire",
+      "Les bénir",
+      "Les cacher"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:9 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-221",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:10",
+    "verseText": "Voir Zacharie 12:10.",
+    "question": "Que répandra l’Éternel sur la maison de David et sur les habitants de Jérusalem ?",
+    "choices": [
+      "Un esprit de grâce et de supplication",
+      "Un esprit de sommeil et d’oubli",
+      "Un esprit de colère et de guerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-222",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:10",
+    "verseText": "Voir Zacharie 12:10.",
+    "question": "Qui regarderont-ils, dans leur deuil ?",
+    "choices": [
+      "Celui qu’ils ont percé",
+      "Celui qu’ils ont couronné",
+      "Celui qu’ils ont chassé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-223",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:10",
+    "verseText": "Voir Zacharie 12:10.",
+    "question": "Quel deuil est comparé au deuil pour un fils unique ?",
+    "choices": [
+      "Le deuil à Jérusalem",
+      "Le deuil à Samarie",
+      "Le deuil en Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-224",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:10",
+    "verseText": "Voir Zacharie 12:10.",
+    "question": "À quoi est comparée l’amertume ?",
+    "choices": [
+      "À celle qu’on éprouve pour un premier-né",
+      "À celle qu’on éprouve pour un voisin",
+      "À celle qu’on éprouve pour une récolte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:10 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-225",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:11",
+    "verseText": "Voir Zacharie 12:11.",
+    "question": "Quel exemple de grande lamentation est cité « dans la vallée de Meguiddon » ?",
+    "choices": [
+      "Hadadrimmon",
+      "Ribla",
+      "Guilgal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:11 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-226",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:12",
+    "verseText": "Voir Zacharie 12:12.",
+    "question": "Comment le pays se lamentera-t-il, selon la formule répétée ?",
+    "choices": [
+      "Chaque famille à part, et leurs femmes à part",
+      "Toutes les familles ensemble, et leurs femmes ensemble",
+      "Seulement les prêtres, en silence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:12 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-227",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:12",
+    "verseText": "Voir Zacharie 12:12.",
+    "question": "Quelle famille est citée en premier dans la lamentation ?",
+    "choices": [
+      "La famille de la maison de David",
+      "La famille de la maison de Saül",
+      "La famille de la maison d’Achab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:12 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-228",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:12",
+    "verseText": "Voir Zacharie 12:12.",
+    "question": "Quelle autre famille est citée avec celle de David ?",
+    "choices": [
+      "La famille de la maison de Nathan",
+      "La famille de la maison de Samuel",
+      "La famille de la maison de Job"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:12 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-229",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:13",
+    "verseText": "Voir Zacharie 12:13.",
+    "question": "Quelle famille est citée ensuite après David et Nathan ?",
+    "choices": [
+      "La famille de la maison de Lévi",
+      "La famille de la maison de Ruben",
+      "La famille de la maison d’Éphraïm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:13 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-230",
+    "book": "Zacharie",
+    "chapter": 12,
+    "verseRef": "Zacharie 12:13",
+    "verseText": "Voir Zacharie 12:13.",
+    "question": "Quelle famille est citée avec la maison de Lévi ?",
+    "choices": [
+      "La famille de Schimeï",
+      "La famille de Koré",
+      "La famille de Guerschon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 12:13 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-231",
+    "book": "Zacharie",
+    "chapter": 13,
+    "verseRef": "Zacharie 13:1",
+    "verseText": "Voir Zacharie 13:1.",
+    "question": "Qu’est-ce qui sera ouvert « en ce jour-là » pour la maison de David et les habitants de Jérusalem ?",
+    "choices": [
+      "Une source",
+      "Une porte",
+      "Une muraille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 13:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-232",
+    "book": "Zacharie",
+    "chapter": 13,
+    "verseRef": "Zacharie 13:1",
+    "verseText": "Voir Zacharie 13:1.",
+    "question": "Pour quoi cette source sera-t-elle ouverte ?",
+    "choices": [
+      "Pour le péché et pour l’impureté",
+      "Pour la richesse et pour la force",
+      "Pour le commerce et pour la paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 13:1 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-233",
+    "book": "Zacharie",
+    "chapter": 13,
+    "verseRef": "Zacharie 13:2",
+    "verseText": "Voir Zacharie 13:2.",
+    "question": "Que fera l’Éternel des armées « en ce jour-là » des noms des idoles ?",
+    "choices": [
+      "Il les retranchera du pays",
+      "Il les multipliera",
+      "Il les bénira"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 13:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-234",
+    "book": "Zacharie",
+    "chapter": 13,
+    "verseRef": "Zacharie 13:2",
+    "verseText": "Voir Zacharie 13:2.",
+    "question": "Que deviendront les idoles après cela ?",
+    "choices": [
+      "On ne s’en souviendra plus",
+      "On les honorera davantage",
+      "Elles gouverneront le pays"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 13:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-235",
+    "book": "Zacharie",
+    "chapter": 13,
+    "verseRef": "Zacharie 13:2",
+    "verseText": "Voir Zacharie 13:2.",
+    "question": "Que fera l’Éternel aussi disparaître du pays ?",
+    "choices": [
+      "Les prophètes et l’esprit d’impureté",
+      "Les rois et les princes",
+      "Les troupeaux et les moissons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 13:2 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-236",
+    "book": "Zacharie",
+    "chapter": 13,
+    "verseRef": "Zacharie 13:3",
+    "verseText": "Voir Zacharie 13:3.",
+    "question": "Que feront le père et la mère si leur fils prophétise encore ?",
+    "choices": [
+      "Ils le feront mourir",
+      "Ils l’enverront au désert",
+      "Ils le couronneront"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 13:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-237",
+    "book": "Zacharie",
+    "chapter": 13,
+    "verseRef": "Zacharie 13:3",
+    "verseText": "Voir Zacharie 13:3.",
+    "question": "Pourquoi le feront-ils mourir, selon leur parole ?",
+    "choices": [
+      "Parce que tu dis des mensonges au nom de l’Éternel",
+      "Parce que tu refuses de bâtir le temple",
+      "Parce que tu ne jeûnes pas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 13:3 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-238",
+    "book": "Zacharie",
+    "chapter": 13,
+    "verseRef": "Zacharie 13:4",
+    "verseText": "Voir Zacharie 13:4.",
+    "question": "Que fera le faux prophète en ce jour-là au sujet de sa vision ?",
+    "choices": [
+      "Il en aura honte",
+      "Il s’en glorifiera",
+      "Il la vendra"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 13:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-239",
+    "book": "Zacharie",
+    "chapter": 13,
+    "verseRef": "Zacharie 13:4",
+    "verseText": "Voir Zacharie 13:4.",
+    "question": "Quel vêtement ne portera-t-il plus pour mentir ?",
+    "choices": [
+      "Un manteau de poil",
+      "Un manteau de lin",
+      "Une robe royale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 13:4 (LSG 1910)."
+  },
+  {
+    "id": "zacharie-N-240",
+    "book": "Zacharie",
+    "chapter": 13,
+    "verseRef": "Zacharie 13:5",
+    "verseText": "Voir Zacharie 13:5.",
+    "question": "Que dira-t-il de lui-même : « Je suis ___ » ?",
+    "choices": [
+      "Laboureur",
+      "Roi",
+      "Sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Zacharie 13:5 (LSG 1910)."
+  }
+]

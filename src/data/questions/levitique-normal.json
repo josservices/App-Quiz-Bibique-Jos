@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "LEV-N-001",
+    "book": "Lévitique",
+    "chapter": 1,
+    "verseRef": "Lévitique 1:3-4",
+    "verseText": "Voir Lévitique 1:3-4.",
+    "question": "Dans l’holocauste du gros bétail, que devait faire l’adorateur à l’entrée de la tente d’assignation ?",
+    "choices": [
+      "Verser de l’huile sur la tête de l’animal",
+      "Poser sa main sur la tête de la victime",
+      "Tourner trois fois autour de l’autel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 1:3-4 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-002",
+    "book": "Lévitique",
+    "chapter": 1,
+    "verseRef": "Lévitique 1:9",
+    "verseText": "Voir Lévitique 1:9.",
+    "question": "Quel élément devait être lavé à l’eau avant d’être brûlé sur l’autel, dans l’holocauste ?",
+    "choices": [
+      "Les cornes",
+      "Les entrailles et les jambes",
+      "La peau et la queue"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 1:9 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-003",
+    "book": "Lévitique",
+    "chapter": 2,
+    "verseRef": "Lévitique 2:11",
+    "verseText": "Voir Lévitique 2:11.",
+    "question": "Dans l’offrande végétale, quel ingrédient ne devait jamais y être mis ?",
+    "choices": [
+      "Du sel",
+      "Du levain",
+      "De l’encens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 2:11 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-004",
+    "book": "Lévitique",
+    "chapter": 2,
+    "verseRef": "Lévitique 2:13",
+    "verseText": "Voir Lévitique 2:13.",
+    "question": "Quel symbole d’alliance devait accompagner toute offrande ?",
+    "choices": [
+      "Le miel",
+      "Le sel",
+      "Le vin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 2:13 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-005",
+    "book": "Lévitique",
+    "chapter": 3,
+    "verseRef": "Lévitique 3:16-17",
+    "verseText": "Voir Lévitique 3:16-17.",
+    "question": "Quelle partie du sacrifice d’actions de grâces appartenait à l’Éternel ?",
+    "choices": [
+      "La graisse (parties grasses)",
+      "Toute la viande",
+      "La peau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 3:16-17 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-006",
+    "book": "Lévitique",
+    "chapter": 4,
+    "verseRef": "Lévitique 4:2-3",
+    "verseText": "Voir Lévitique 4:2-3.",
+    "question": "Quand quelqu’un péchait « par erreur » et devait apporter un sacrifice pour le péché, quel type d’offre est mentionné ?",
+    "choices": [
+      "Offrande de culpabilité uniquement",
+      "Sacrifice d’expiation selon le cas",
+      "Interdiction de tout sacrifice"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 4:2-3 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-007",
+    "book": "Lévitique",
+    "chapter": 4,
+    "verseRef": "Lévitique 4:6",
+    "verseText": "Voir Lévitique 4:6.",
+    "question": "Pour le péché du sacrificateur oint, où le sang devait-il être aspergé ?",
+    "choices": [
+      "Sur le peuple, à la porte du camp",
+      "Devant le voile du sanctuaire",
+      "Sur les vêtements du sacrificateur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 4:6 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-008",
+    "book": "Lévitique",
+    "chapter": 4,
+    "verseRef": "Lévitique 4:25",
+    "verseText": "Voir Lévitique 4:25.",
+    "question": "Quel élément de l’autel devait recevoir du sang dans le sacrifice pour le péché ?",
+    "choices": [
+      "Le bassin d’airain",
+      "Les cornes de l’autel",
+      "Le chandelier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 4:25 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-009",
+    "book": "Lévitique",
+    "chapter": 5,
+    "verseRef": "Lévitique 5:7",
+    "verseText": "Voir Lévitique 5:7.",
+    "question": "Si l’offrande pour le péché était trop coûteuse, quelle alternative était permise ?",
+    "choices": [
+      "Deux tourterelles ou deux jeunes pigeons",
+      "Un bélier sans défaut",
+      "Une gerbe de blé uniquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 5:7 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-010",
+    "book": "Lévitique",
+    "chapter": 6,
+    "verseRef": "Lévitique 6:5",
+    "verseText": "Voir Lévitique 6:5.",
+    "question": "Quand quelqu’un volait et voulait réparer, que devait-il ajouter au remboursement ?",
+    "choices": [
+      "Le double",
+      "Le cinquième en plus",
+      "Rien, seulement confesser"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 6:5 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-011",
+    "book": "Lévitique",
+    "chapter": 6,
+    "verseRef": "Lévitique 6:12-13",
+    "verseText": "Voir Lévitique 6:12-13.",
+    "question": "Concernant le feu de l’autel des holocaustes, quelle règle devait être respectée ?",
+    "choices": [
+      "Il ne devait jamais s’éteindre",
+      "Il devait s’éteindre chaque sabbat",
+      "Il ne devait brûler qu’aux fêtes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 6:12-13 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-012",
+    "book": "Lévitique",
+    "chapter": 10,
+    "verseRef": "Lévitique 10:9",
+    "verseText": "Voir Lévitique 10:9.",
+    "question": "De quoi Aaron et ses fils devaient-ils s’abstenir quand ils entraient dans la tente d’assignation ?",
+    "choices": [
+      "De pain et d’eau",
+      "De vin et de boissons enivrantes",
+      "De viande et de lait"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 10:9 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-013",
+    "book": "Lévitique",
+    "chapter": 10,
+    "verseRef": "Lévitique 10:1-2",
+    "verseText": "Voir Lévitique 10:1-2.",
+    "question": "Quel acte de Nadab et Abihu a provoqué leur jugement ?",
+    "choices": [
+      "Ils ont offert un « feu étranger »",
+      "Ils ont mangé le pain de proposition",
+      "Ils ont touché l’arche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 10:1-2 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-014",
+    "book": "Lévitique",
+    "chapter": 11,
+    "verseRef": "Lévitique 11:3",
+    "verseText": "Voir Lévitique 11:3.",
+    "question": "Quels animaux terrestres étaient déclarés purs à manger ?",
+    "choices": [
+      "Ceux qui ont le sabot fendu et qui ruminent",
+      "Ceux qui ont des griffes et qui chassent",
+      "Ceux qui vivent en troupeaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 11:3 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-015",
+    "book": "Lévitique",
+    "chapter": 11,
+    "verseRef": "Lévitique 11:9",
+    "verseText": "Voir Lévitique 11:9.",
+    "question": "Quels animaux aquatiques étaient permis ?",
+    "choices": [
+      "Tous les poissons sans exception",
+      "Ceux qui ont nageoires et écailles",
+      "Ceux qui vivent dans les rivières seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 11:9 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-016",
+    "book": "Lévitique",
+    "chapter": 12,
+    "verseRef": "Lévitique 12:2",
+    "verseText": "Voir Lévitique 12:2.",
+    "question": "Quel signe rendait une femme impure après la naissance d’un garçon ?",
+    "choices": [
+      "Elle était impure sept jours",
+      "Elle était impure un jour seulement",
+      "Elle était impure quarante jours stricts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 12:2 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-017",
+    "book": "Lévitique",
+    "chapter": 12,
+    "verseRef": "Lévitique 12:8",
+    "verseText": "Voir Lévitique 12:8.",
+    "question": "Pour la purification après l’accouchement, quel sacrifice était prévu pour une femme pauvre ?",
+    "choices": [
+      "Un jeune taureau",
+      "Deux tourterelles ou deux jeunes pigeons",
+      "Un bélier et un bouc"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 12:8 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-018",
+    "book": "Lévitique",
+    "chapter": 13,
+    "verseRef": "Lévitique 13:4",
+    "verseText": "Voir Lévitique 13:4.",
+    "question": "Comment le sacrificateur devait-il examiner une plaie de lèpre au début ?",
+    "choices": [
+      "Il déclarait impur immédiatement",
+      "Il faisait enfermer sept jours",
+      "Il envoyait au désert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 13:4 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-019",
+    "book": "Lévitique",
+    "chapter": 13,
+    "verseRef": "Lévitique 13:45",
+    "verseText": "Voir Lévitique 13:45.",
+    "question": "Quelle parole devait prononcer celui qui était lépreux, selon la loi ?",
+    "choices": [
+      "« Je suis malade »",
+      "« Impur ! Impur ! »",
+      "« Approchez et priez »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 13:45 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-020",
+    "book": "Lévitique",
+    "chapter": 14,
+    "verseRef": "Lévitique 14:7",
+    "verseText": "Voir Lévitique 14:7.",
+    "question": "Dans la purification du lépreux, quel oiseau était lâché dans les champs ?",
+    "choices": [
+      "Le premier, vivant, après aspersion",
+      "Celui qui avait été égorgé",
+      "Aucun oiseau n’était lâché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 14:7 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-021",
+    "book": "Lévitique",
+    "chapter": 14,
+    "verseRef": "Lévitique 14:37",
+    "verseText": "Voir Lévitique 14:37.",
+    "question": "Qu’est-ce qui rendait une maison suspecte de lèpre selon la loi ?",
+    "choices": [
+      "Des taches verdâtres ou rougeâtres",
+      "Une odeur de fumée",
+      "La présence d’animaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 14:37 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-022",
+    "book": "Lévitique",
+    "chapter": 15,
+    "verseRef": "Lévitique 15:13",
+    "verseText": "Voir Lévitique 15:13.",
+    "question": "Après l’écoulement (impureté), que devait faire la personne au 7e jour ?",
+    "choices": [
+      "Se laver et laver ses vêtements",
+      "Offrir immédiatement un taureau",
+      "Aller au désert seul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 15:13 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-023",
+    "book": "Lévitique",
+    "chapter": 16,
+    "verseRef": "Lévitique 16:29-30",
+    "verseText": "Voir Lévitique 16:29-30.",
+    "question": "Quel jour est appelé « jour des expiations » ?",
+    "choices": [
+      "Le 1er jour du 7e mois",
+      "Le 10e jour du 7e mois",
+      "Le 15e jour du 7e mois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 16:29-30 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-024",
+    "book": "Lévitique",
+    "chapter": 16,
+    "verseRef": "Lévitique 16:17",
+    "verseText": "Voir Lévitique 16:17.",
+    "question": "Sur quoi Aaron devait-il faire l’expiation au jour des expiations ?",
+    "choices": [
+      "Lui-même, sa maison, et l’assemblée d’Israël",
+      "Les nations voisines",
+      "Les récoltes uniquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 16:17 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-025",
+    "book": "Lévitique",
+    "chapter": 17,
+    "verseRef": "Lévitique 17:11",
+    "verseText": "Voir Lévitique 17:11.",
+    "question": "À qui appartenait le sang, interdit de consommation ?",
+    "choices": [
+      "Au roi",
+      "À l’Éternel, car la vie est dans le sang",
+      "Aux sacrificateurs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 17:11 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-026",
+    "book": "Lévitique",
+    "chapter": 18,
+    "verseRef": "Lévitique 18:21",
+    "verseText": "Voir Lévitique 18:21.",
+    "question": "Quelle consigne est donnée concernant l’offrande des enfants à Moloc ?",
+    "choices": [
+      "C’était autorisé une fois l’an",
+      "C’était strictement interdit",
+      "Cela dépendait des tribus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 18:21 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-027",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:18",
+    "verseText": "Voir Lévitique 19:18.",
+    "question": "Quel commandement résume l’attitude envers le prochain ?",
+    "choices": [
+      "« Tu aimeras ton prochain comme toi-même »",
+      "« Tu te vengeras de ton prochain »",
+      "« Tu te sépareras de tout prochain »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 19:18 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-028",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:9-10",
+    "verseText": "Voir Lévitique 19:9-10.",
+    "question": "Que devait-on faire en récoltant, envers les pauvres et l’étranger ?",
+    "choices": [
+      "Tout ramasser soigneusement",
+      "Laisser les coins du champ et la glanure",
+      "Donner la moitié au roi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 19:9-10 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-029",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:35-36",
+    "verseText": "Voir Lévitique 19:35-36.",
+    "question": "Quel interdit concerne la justice ?",
+    "choices": [
+      "Favoriser le pauvre par pitié",
+      "Avoir deux poids et deux mesures",
+      "Juger en présence de témoins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 19:35-36 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-030",
+    "book": "Lévitique",
+    "chapter": 24,
+    "verseRef": "Lévitique 24:16",
+    "verseText": "Voir Lévitique 24:16.",
+    "question": "Quelle peine est mentionnée pour le blasphème contre le Nom ?",
+    "choices": [
+      "Une amende",
+      "La lapidation",
+      "L’exil d’un an"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 24:16 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-031",
+    "book": "Lévitique",
+    "chapter": 24,
+    "verseRef": "Lévitique 24:2-4",
+    "verseText": "Voir Lévitique 24:2-4.",
+    "question": "Quel élément devait brûler continuellement dans le sanctuaire, alimenté avec de l’huile pure ?",
+    "choices": [
+      "Le feu de l’autel d’or",
+      "Les lampes du chandelier",
+      "L’encensoir du souverain sacrificateur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 24:2-4 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-032",
+    "book": "Lévitique",
+    "chapter": 24,
+    "verseRef": "Lévitique 24:5-6",
+    "verseText": "Voir Lévitique 24:5-6.",
+    "question": "Combien de pains devait-on mettre en rangées devant l’Éternel (pains de proposition) ?",
+    "choices": [
+      "7",
+      "10",
+      "12"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Lévitique 24:5-6 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-033",
+    "book": "Lévitique",
+    "chapter": 25,
+    "verseRef": "Lévitique 25:4",
+    "verseText": "Voir Lévitique 25:4.",
+    "question": "Tous les combien d’années la terre devait-elle se reposer ?",
+    "choices": [
+      "5 ans",
+      "7 ans",
+      "10 ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 25:4 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-034",
+    "book": "Lévitique",
+    "chapter": 25,
+    "verseRef": "Lévitique 25:10",
+    "verseText": "Voir Lévitique 25:10.",
+    "question": "Quelle année était proclamée « liberté » dans le pays ?",
+    "choices": [
+      "La 20e",
+      "La 50e (jubile)",
+      "La 70e"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 25:10 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-035",
+    "book": "Lévitique",
+    "chapter": 25,
+    "verseRef": "Lévitique 25:35",
+    "verseText": "Voir Lévitique 25:35.",
+    "question": "Quelle attitude est demandée envers un compatriote devenu pauvre ?",
+    "choices": [
+      "Le dominer durement",
+      "Le soutenir, comme un étranger et un habitant",
+      "Le vendre définitivement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 25:35 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-036",
+    "book": "Lévitique",
+    "chapter": 26,
+    "verseRef": "Lévitique 26:1-2",
+    "verseText": "Voir Lévitique 26:1-2.",
+    "question": "Quel avertissement est donné concernant les idoles ?",
+    "choices": [
+      "Les fabriquer pour les fêtes",
+      "Ne pas en faire et garder les sabbats",
+      "Les offrir aux étrangers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 26:1-2 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-037",
+    "book": "Lévitique",
+    "chapter": 26,
+    "verseRef": "Lévitique 26:4",
+    "verseText": "Voir Lévitique 26:4.",
+    "question": "Quelle bénédiction agricole est promise en cas d’obéissance ?",
+    "choices": [
+      "Le désert deviendra mer",
+      "La terre donnera ses produits",
+      "Les étoiles tomberont"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 26:4 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-038",
+    "book": "Lévitique",
+    "chapter": 26,
+    "verseRef": "Lévitique 26:11",
+    "verseText": "Voir Lévitique 26:11.",
+    "question": "Quelle expression décrit la présence de Dieu au milieu du peuple ?",
+    "choices": [
+      "« Je mettrai ma demeure au milieu de vous »",
+      "« Je détruirai votre tente »",
+      "« Je ne vous verrai plus »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 26:11 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-039",
+    "book": "Lévitique",
+    "chapter": 27,
+    "verseRef": "Lévitique 27:10",
+    "verseText": "Voir Lévitique 27:10.",
+    "question": "Qu’est-ce qui devait être fait avec un animal consacré, s’il était échangé ?",
+    "choices": [
+      "L’échange annulait la consécration",
+      "Les deux devenaient consacrés",
+      "Aucun n’était consacré"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 27:10 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-040",
+    "book": "Lévitique",
+    "chapter": 27,
+    "verseRef": "Lévitique 27:13",
+    "verseText": "Voir Lévitique 27:13.",
+    "question": "Quel pourcentage devait être ajouté si quelqu’un voulait racheter une chose vouée par estimation ?",
+    "choices": [
+      "Un dixième",
+      "Un cinquième",
+      "Un tiers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 27:13 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-041",
+    "book": "Lévitique",
+    "chapter": 7,
+    "verseRef": "Lévitique 7:15",
+    "verseText": "Voir Lévitique 7:15.",
+    "question": "Lorsqu’un sacrifice d’actions de grâces était offert, quand devait-on manger la viande ?",
+    "choices": [
+      "Le troisième jour",
+      "Le même jour",
+      "Le septième jour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 7:15 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-042",
+    "book": "Lévitique",
+    "chapter": 7,
+    "verseRef": "Lévitique 7:23-27",
+    "verseText": "Voir Lévitique 7:23-27.",
+    "question": "Quel interdit s’applique à la graisse et au sang ?",
+    "choices": [
+      "Les manger est recommandé",
+      "Il est interdit d’en manger",
+      "Seul le roi peut en manger"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 7:23-27 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-043",
+    "book": "Lévitique",
+    "chapter": 9,
+    "verseRef": "Lévitique 9:22-24",
+    "verseText": "Voir Lévitique 9:22-24.",
+    "question": "À quel moment la gloire de l’Éternel apparut à tout le peuple lors de l’inauguration ?",
+    "choices": [
+      "Quand Aaron leva ses mains et bénit le peuple",
+      "Quand Moïse quitta l’Égypte",
+      "Quand le peuple s’assit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 9:22-24 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-044",
+    "book": "Lévitique",
+    "chapter": 11,
+    "verseRef": "Lévitique 11:44",
+    "verseText": "Voir Lévitique 11:44.",
+    "question": "Pourquoi le peuple devait-il se sanctifier ?",
+    "choices": [
+      "Pour devenir célèbre",
+      "Parce que Dieu est saint",
+      "Pour éviter le travail"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 11:44 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-045",
+    "book": "Lévitique",
+    "chapter": 21,
+    "verseRef": "Lévitique 21:1-3",
+    "verseText": "Voir Lévitique 21:1-3.",
+    "question": "Que devait faire un sacrificateur pour ne pas se rendre impur par un mort ?",
+    "choices": [
+      "S’approcher de tout mort",
+      "S’abstenir, sauf pour ses proches parents",
+      "Toucher les os pour prier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 21:1-3 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-046",
+    "book": "Lévitique",
+    "chapter": 22,
+    "verseRef": "Lévitique 22:3",
+    "verseText": "Voir Lévitique 22:3.",
+    "question": "Qui ne devait pas s’approcher des choses très saintes s’il avait une souillure ?",
+    "choices": [
+      "Tout étranger seulement",
+      "Tout descendant d’Aaron impur",
+      "Les Lévites uniquement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 22:3 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-047",
+    "book": "Lévitique",
+    "chapter": 8,
+    "verseRef": "Lévitique 8:24 (cf. consécration; la loi lévitique situe l’entrée au service à 25 ans dans Nombres, mais ici la consécration d’Aaron est en Lv 8 — donc on reste sur Lv : ce point serait ambigu → je ne le retiens pas.)",
+    "verseText": "Voir Lévitique 8:24 (cf. consécration; la loi lévitique situe l’entrée au service à 25 ans dans Nombres, mais ici la consécration d’Aaron est en Lv 8 — donc on reste sur Lv : ce point serait ambigu → je ne le retiens pas.).",
+    "question": "Quel âge est donné pour le service lié à l’assemblée du tabernacle (présentation des Lévites) ?",
+    "choices": [
+      "10 ans",
+      "25 ans",
+      "50 ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 8:24 (cf. consécration; la loi lévitique situe l’entrée au service à 25 ans dans Nombres, mais ici la consécration d’Aaron est en Lv 8 — donc on reste sur Lv : ce point serait ambigu → je ne le retiens pas.) (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-048",
+    "book": "Lévitique",
+    "chapter": 8,
+    "verseRef": "Lévitique 8:33-35",
+    "verseText": "Voir Lévitique 8:33-35.",
+    "question": "Que devaient faire Aaron et ses fils pendant sept jours à l’entrée de la tente d’assignation ?",
+    "choices": [
+      "Dormir hors du camp",
+      "Ne pas sortir, gardant ce que l’Éternel ordonne",
+      "Jeûner sans interruption"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 8:33-35 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-049",
+    "book": "Lévitique",
+    "chapter": 11,
+    "verseRef": "Lévitique 11:29-30",
+    "verseText": "Voir Lévitique 11:29-30.",
+    "question": "Quel animal était explicitement cité comme impur parmi les reptiles terrestres ?",
+    "choices": [
+      "Le lion",
+      "Le lézard (parmi la liste)",
+      "Le bœuf"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 11:29-30 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-050",
+    "book": "Lévitique",
+    "chapter": 11,
+    "verseRef": "Lévitique 11:24-25",
+    "verseText": "Voir Lévitique 11:24-25.",
+    "question": "Qu’est-ce qui rendait impure une personne après avoir touché une bête morte impure ?",
+    "choices": [
+      "Rien, si elle se lavait les mains",
+      "Elle était impure jusqu’au soir",
+      "Elle devenait impure sept ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 11:24-25 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-051",
+    "book": "Lévitique",
+    "chapter": 11,
+    "verseRef": "Lévitique 11:47",
+    "verseText": "Voir Lévitique 11:47.",
+    "question": "Quel est le but explicitement donné des lois de pureté alimentaire ?",
+    "choices": [
+      "Distinguer ce qui est impur et ce qui est pur",
+      "Augmenter la richesse",
+      "Former une armée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 11:47 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-052",
+    "book": "Lévitique",
+    "chapter": 2,
+    "verseRef": "Lévitique 2:1-2",
+    "verseText": "Voir Lévitique 2:1-2.",
+    "question": "Quelle offrande devait accompagner souvent une offrande végétale ?",
+    "choices": [
+      "L’encens",
+      "Le poisson",
+      "Le fromage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 2:1-2 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-053",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:28",
+    "verseText": "Voir Lévitique 19:28.",
+    "question": "Qu’est-ce qui était interdit comme pratique païenne sur le corps ?",
+    "choices": [
+      "Porter des sandales",
+      "Faire des incisions pour un mort",
+      "Planter une vigne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 19:28 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-054",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:14",
+    "verseText": "Voir Lévitique 19:14.",
+    "question": "Quel comportement envers le sourd et l’aveugle est interdit ?",
+    "choices": [
+      "Les héberger",
+      "Maudire le sourd et mettre une pierre devant l’aveugle",
+      "Les instruire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 19:14 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-055",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:33-34",
+    "verseText": "Voir Lévitique 19:33-34.",
+    "question": "Comment devait-on traiter l’étranger résidant parmi Israël ?",
+    "choices": [
+      "Comme un ennemi",
+      "Comme un indigène : l’aimer comme soi-même",
+      "L’exclure des villes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 19:33-34 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-056",
+    "book": "Lévitique",
+    "chapter": 25,
+    "verseRef": "Lévitique 25:4-5",
+    "verseText": "Voir Lévitique 25:4-5.",
+    "question": "Qu’est-ce qui devait être fait au nom du repos sabbatique de la terre ?",
+    "choices": [
+      "Semer sans arrêt",
+      "Ne pas semer, ne pas tailler la vigne",
+      "Brûler les récoltes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 25:4-5 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-057",
+    "book": "Lévitique",
+    "chapter": 25,
+    "verseRef": "Lévitique 25:23-27",
+    "verseText": "Voir Lévitique 25:23-27.",
+    "question": "Quel principe devait guider la vente d’un terrain en Israël ?",
+    "choices": [
+      "Vente définitive sans retour",
+      "Le terrain appartient à l’Éternel ; on vend selon les années jusqu’au jubilé",
+      "On vend seulement aux étrangers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 25:23-27 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-058",
+    "book": "Lévitique",
+    "chapter": 25,
+    "verseRef": "Lévitique 25:14",
+    "verseText": "Voir Lévitique 25:14.",
+    "question": "Quel avertissement est donné contre l’oppression du prochain ?",
+    "choices": [
+      "« Tu dominera durement »",
+      "« Tu ne l’opprimeras point »",
+      "« Tu le taxeras doublement »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 25:14 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-059",
+    "book": "Lévitique",
+    "chapter": 23,
+    "verseRef": "Lévitique 23:34",
+    "verseText": "Voir Lévitique 23:34.",
+    "question": "Dans les fêtes solennelles, quelle fête est au 15e jour du 7e mois et dure sept jours ?",
+    "choices": [
+      "La Pâque",
+      "La fête des tabernacles (des huttes)",
+      "La Pentecôte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 23:34 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-060",
+    "book": "Lévitique",
+    "chapter": 18,
+    "verseRef": "Lévitique 18:4-5",
+    "verseText": "Voir Lévitique 18:4-5.",
+    "question": "Quelle pratique résume l’objectif des statuts : marcher dans les ordonnances de Dieu ?",
+    "choices": [
+      "Copier les coutumes d’Égypte et de Canaan",
+      "Observer les lois de l’Éternel et les mettre en pratique",
+      "Faire ce qui plaît aux nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 18:4-5 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-061",
+    "book": "Lévitique",
+    "chapter": 4,
+    "verseRef": "Lévitique 4:29",
+    "verseText": "Voir Lévitique 4:29.",
+    "question": "Dans la loi du sacrifice d’expiation, que devait faire celui qui offrait la victime avec sa main ?",
+    "choices": [
+      "Toucher le voile du sanctuaire",
+      "Poser sa main sur la tête de la victime",
+      "Tremper la victime dans l’eau vive"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 4:29 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-062",
+    "book": "Lévitique",
+    "chapter": 5,
+    "verseRef": "Lévitique 5:11",
+    "verseText": "Voir Lévitique 5:11.",
+    "question": "Lorsqu’une offrande de farine était présentée en sacrifice pour le péché (cas de pauvreté), quel élément manquait volontairement ?",
+    "choices": [
+      "Le sel",
+      "L’encens",
+      "La farine fine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 5:11 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-063",
+    "book": "Lévitique",
+    "chapter": 5,
+    "verseRef": "Lévitique 5:5",
+    "verseText": "Voir Lévitique 5:5.",
+    "question": "Dans la loi des sacrifices, quelle attitude est demandée à celui qui apporte une offrande quand il découvre une impureté ?",
+    "choices": [
+      "Il doit la cacher et continuer",
+      "Il doit confesser en quoi il a péché",
+      "Il doit quitter Israël définitivement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 5:5 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-064",
+    "book": "Lévitique",
+    "chapter": 1,
+    "verseRef": "Lévitique 1:6",
+    "verseText": "Voir Lévitique 1:6.",
+    "question": "Pour l’holocauste, qui devait dépouiller la victime et la couper par morceaux ?",
+    "choices": [
+      "Le roi d’Israël",
+      "Les sacrificateurs, fils d’Aaron",
+      "Les étrangers du camp"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 1:6 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-065",
+    "book": "Lévitique",
+    "chapter": 1,
+    "verseRef": "Lévitique 1:11",
+    "verseText": "Voir Lévitique 1:11.",
+    "question": "Dans l’holocauste d’ovins (brebis ou chèvres), où devait-on égorger la victime ?",
+    "choices": [
+      "Dans la ville du sacrificateur",
+      "Au côté septentrional de l’autel, devant l’Éternel",
+      "Au milieu du camp"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 1:11 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-066",
+    "book": "Lévitique",
+    "chapter": 17,
+    "verseRef": "Lévitique 17:3-4",
+    "verseText": "Voir Lévitique 17:3-4.",
+    "question": "En parlant de l’interdit de manger la chair avec le sang, quel lieu est visé pour l’immolation légitime ?",
+    "choices": [
+      "Dans n’importe quelle maison",
+      "À l’entrée de la tente d’assignation",
+      "Au sommet d’une montagne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 17:3-4 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-067",
+    "book": "Lévitique",
+    "chapter": 22,
+    "verseRef": "Lévitique 22:32",
+    "verseText": "Voir Lévitique 22:32.",
+    "question": "Quel avertissement est donné sur la “profanation” du nom de Dieu dans les règles de sainteté ?",
+    "choices": [
+      "« Vous profanerez mon nom »",
+      "« Vous ne profanerez point mon saint nom »",
+      "« Mon nom n’a pas d’importance »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 22:32 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-068",
+    "book": "Lévitique",
+    "chapter": 22,
+    "verseRef": "Lévitique 22:21",
+    "verseText": "Voir Lévitique 22:21.",
+    "question": "À propos des offrandes d’animaux, quelle condition est requise pour qu’un animal soit “agréé” ?",
+    "choices": [
+      "Qu’il soit sans défaut",
+      "Qu’il soit le plus grand du troupeau",
+      "Qu’il ait une marque spéciale au front"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 22:21 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-069",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:23-25",
+    "verseText": "Voir Lévitique 19:23-25.",
+    "question": "Que devait faire Israël lorsqu’il entrait dans le pays, avant de consommer les produits du pays selon la loi des fruits ?",
+    "choices": [
+      "Offrir les prémices d’abord, puis attendre selon la règle",
+      "Manger immédiatement sans restriction",
+      "Détruire les arbres fruitiers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 19:23-25 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-070",
+    "book": "Lévitique",
+    "chapter": 18,
+    "verseRef": "Lévitique 18:24-28",
+    "verseText": "Voir Lévitique 18:24-28.",
+    "question": "Dans le chapitre sur les relations, quelle mise en garde est donnée contre les pratiques des nations, à cause de leurs “abominations” ?",
+    "choices": [
+      "Le pays les “vomira”",
+      "Le pays deviendra un désert sans pluie",
+      "Le pays les enrichira"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 18:24-28 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-071",
+    "book": "Lévitique",
+    "chapter": 23,
+    "verseRef": "Lévitique 23:3",
+    "verseText": "Voir Lévitique 23:3.",
+    "question": "Dans la loi sur le sabbat, quelle affirmation est donnée pour rappeler son caractère sacré ?",
+    "choices": [
+      "« C’est un jour de commerce »",
+      "« C’est un sabbat, un repos, une sainte convocation »",
+      "« C’est un jour ordinaire »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 23:3 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-072",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:27",
+    "verseText": "Voir Lévitique 19:27.",
+    "question": "Quel comportement était exigé envers les cheveux ou la barbe dans une interdiction de rites païens ?",
+    "choices": [
+      "Se raser totalement chaque mois",
+      "Ne pas arrondir les coins de la chevelure ni raser les coins de la barbe",
+      "Se laisser pousser sans jamais couper"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 19:27 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-073",
+    "book": "Lévitique",
+    "chapter": 25,
+    "verseRef": "Lévitique 25:47-49",
+    "verseText": "Voir Lévitique 25:47-49.",
+    "question": "Dans la loi sur l’esclavage, quelle règle s’applique si un Israélite se vend à un étranger résidant ?",
+    "choices": [
+      "Il ne pourra jamais être racheté",
+      "Il pourra être racheté, lui ou sa famille proche",
+      "Il doit fuir automatiquement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 25:47-49 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-074",
+    "book": "Lévitique",
+    "chapter": 25,
+    "verseRef": "Lévitique 25:28",
+    "verseText": "Voir Lévitique 25:28.",
+    "question": "Dans la loi du jubilé, qu’arrive-t-il aux propriétés vendues ?",
+    "choices": [
+      "Elles reviennent lors du jubilé",
+      "Elles appartiennent définitivement à l’acheteur",
+      "Elles deviennent propriété du sanctuaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 25:28 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-075",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:11",
+    "verseText": "Voir Lévitique 19:11.",
+    "question": "Dans la loi sur la sainteté, quelle instruction concerne la vérité et le mensonge ?",
+    "choices": [
+      "« Vous mentirez pour vous protéger »",
+      "« Vous ne déroberez point, et vous ne mentirez point »",
+      "« Vous mentirez aux étrangers seulement »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 19:11 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-076",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:17",
+    "verseText": "Voir Lévitique 19:17.",
+    "question": "Quelle attitude est interdite envers son frère lorsque quelqu’un voit une faute ?",
+    "choices": [
+      "Le reprendre ouvertement",
+      "Le haïr dans son cœur",
+      "Prier en silence seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 19:17 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-077",
+    "book": "Lévitique",
+    "chapter": 22,
+    "verseRef": "Lévitique 22:6-7",
+    "verseText": "Voir Lévitique 22:6-7.",
+    "question": "Quelle précaution devait être prise quand on mangeait une offrande sainte ?",
+    "choices": [
+      "Tout le monde pouvait en manger librement",
+      "Aucun impur ne devait en manger",
+      "Les étrangers de passage devaient en manger"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 22:6-7 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-078",
+    "book": "Lévitique",
+    "chapter": 23,
+    "verseRef": "Lévitique 23:42",
+    "verseText": "Voir Lévitique 23:42.",
+    "question": "Dans la fête des tabernacles, combien de temps Israël devait-il demeurer dans des huttes ?",
+    "choices": [
+      "Trois jours",
+      "Sept jours",
+      "Quarante jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 23:42 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-079",
+    "book": "Lévitique",
+    "chapter": 27,
+    "verseRef": "Lévitique 27:28",
+    "verseText": "Voir Lévitique 27:28.",
+    "question": "Dans la loi sur les vœux, comment était traité un “interdit” voué à l’Éternel ?",
+    "choices": [
+      "Il pouvait être vendu à volonté",
+      "Il ne pouvait être ni vendu ni racheté",
+      "Il devait être mangé par le peuple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 27:28 (LSG 1910)."
+  },
+  {
+    "id": "LEV-N-080",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:32",
+    "verseText": "Voir Lévitique 19:32.",
+    "question": "Quel est le sens pratique du commandement : « Tu te lèveras devant les cheveux blancs » ?",
+    "choices": [
+      "Honorer la vieillesse et craindre Dieu",
+      "Éviter toute personne âgée",
+      "Donner une offrande chaque jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 19:32 (LSG 1910)."
+  }
+]

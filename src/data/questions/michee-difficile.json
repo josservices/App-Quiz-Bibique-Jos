@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "michee-D-001",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:1",
+    "verseText": "Voir Michée 1:1.",
+    "question": "La prophétie initiale est annoncée sur quelles deux villes ?",
+    "choices": [
+      "Samarie et Jérusalem",
+      "Ninive et Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:1 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-002",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:1",
+    "verseText": "Voir Michée 1:1.",
+    "question": "Michée reçoit la parole de l’Éternel au temps de quels rois ?",
+    "choices": [
+      "Jotham, Achaz, Ézéchias",
+      "Ozias, Joas, Josias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:1 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-003",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:2",
+    "verseText": "Voir Michée 1:2.",
+    "question": "Dans l’appel du début, la terre doit être…",
+    "choices": [
+      "attentive, avec tout ce qui est en elle",
+      "silencieuse, avec tout ce qui est sur elle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:2 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-004",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:2",
+    "verseText": "Voir Michée 1:2.",
+    "question": "Le Seigneur est dit être témoin « dans le palais de… »",
+    "choices": [
+      "sa sainteté",
+      "sa justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:2 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-005",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:3",
+    "verseText": "Voir Michée 1:3.",
+    "question": "La description dit : l’Éternel « sort de sa demeure », puis…",
+    "choices": [
+      "il descend et marche sur les hauteurs de la terre",
+      "il monte et s’assoit sur la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:3 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-006",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:8",
+    "verseText": "Voir Michée 1:8.",
+    "question": "Michée dit vouloir marcher…",
+    "choices": [
+      "nu et dépouillé",
+      "vêtu d’un manteau royal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:8 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-007",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:8",
+    "verseText": "Voir Michée 1:8.",
+    "question": "Dans son deuil, Michée mentionne la plainte de…",
+    "choices": [
+      "dragons et autruches",
+      "lions et aigles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:8 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-008",
+    "book": "Michée",
+    "chapter": 2,
+    "verseRef": "Michée 2:1",
+    "verseText": "Voir Michée 2:1.",
+    "question": "Ceux qui méditent le mal le font surtout…",
+    "choices": [
+      "sur leur couche, puis l’exécutent au pouvoir de leur main",
+      "au marché, puis l’oublient au matin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 2:1 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-009",
+    "book": "Michée",
+    "chapter": 2,
+    "verseRef": "Michée 2:2",
+    "verseText": "Voir Michée 2:2.",
+    "question": "Leur convoitise vise les champs, et ils les…",
+    "choices": [
+      "enlèvent",
+      "rachètent légalement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 2:2 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-010",
+    "book": "Michée",
+    "chapter": 2,
+    "verseRef": "Michée 2:12",
+    "verseText": "Voir Michée 2:12.",
+    "question": "Le rassemblement promis compare Israël à…",
+    "choices": [
+      "un troupeau dans la bergerie",
+      "un fleuve dans la vallée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 2:12 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-011",
+    "book": "Michée",
+    "chapter": 2,
+    "verseRef": "Michée 2:13",
+    "verseText": "Voir Michée 2:13.",
+    "question": "Celui qui marche à leur tête est nommé…",
+    "choices": [
+      "le briseur",
+      "le semeur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 2:13 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-012",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:2",
+    "verseText": "Voir Michée 3:2.",
+    "question": "Les chefs sont accusés de…",
+    "choices": [
+      "haïr le bien et aimer le mal",
+      "aimer le bien et haïr la paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:2 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-013",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:4",
+    "verseText": "Voir Michée 3:4.",
+    "question": "Quand ces chefs crient à l’Éternel, le texte dit qu’il…",
+    "choices": [
+      "ne leur répondra pas",
+      "leur enverra une délivrance immédiate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:4 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-014",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:5",
+    "verseText": "Voir Michée 3:5.",
+    "question": "Les faux prophètes crient « Paix ! » quand…",
+    "choices": [
+      "ils ont à manger",
+      "ils ont peur du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:5 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-015",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:6",
+    "verseText": "Voir Michée 3:6.",
+    "question": "Le jugement contre eux annonce…",
+    "choices": [
+      "la nuit, sans vision",
+      "le plein jour, sans reproche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:6 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-016",
+    "book": "Michée",
+    "chapter": 4,
+    "verseRef": "Michée 4:1",
+    "verseText": "Voir Michée 4:1.",
+    "question": "La montagne de la maison de l’Éternel sera…",
+    "choices": [
+      "établie au sommet des montagnes",
+      "cachée au fond des vallées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 4:1 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-017",
+    "book": "Michée",
+    "chapter": 4,
+    "verseRef": "Michée 4:2",
+    "verseText": "Voir Michée 4:2.",
+    "question": "Les nations diront : « Allons, et montons… » pour apprendre…",
+    "choices": [
+      "les voies de l’Éternel",
+      "les lois d’Assur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 4:2 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-018",
+    "book": "Michée",
+    "chapter": 4,
+    "verseRef": "Michée 4:3",
+    "verseText": "Voir Michée 4:3.",
+    "question": "La transformation des armes annonce : épées → … ; lances → …",
+    "choices": [
+      "hoyaux ; serpes",
+      "faucilles ; socs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 4:3 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-019",
+    "book": "Michée",
+    "chapter": 4,
+    "verseRef": "Michée 4:4",
+    "verseText": "Voir Michée 4:4.",
+    "question": "La sécurité est exprimée par l’image : chacun…",
+    "choices": [
+      "sous sa vigne et sous son figuier",
+      "sur sa muraille et sous son bouclier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 4:4 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-020",
+    "book": "Michée",
+    "chapter": 4,
+    "verseRef": "Michée 4:14",
+    "verseText": "Voir Michée 4:14.",
+    "question": "La « fille de troupes » est invitée à…",
+    "choices": [
+      "rassembler ses troupes",
+      "disperser ses troupes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 4:14 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-021",
+    "book": "Michée",
+    "chapter": 4,
+    "verseRef": "Michée 4:14",
+    "verseText": "Voir Michée 4:14.",
+    "question": "Le juge d’Israël est frappé…",
+    "choices": [
+      "sur la joue avec la verge",
+      "sur la tête avec l’épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 4:14 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-022",
+    "book": "Michée",
+    "chapter": 5,
+    "verseRef": "Michée 5:1",
+    "verseText": "Voir Michée 5:1.",
+    "question": "« Bethléhem Éphrata » est décrite comme…",
+    "choices": [
+      "petite entre les milliers de Juda",
+      "grande entre les royaumes de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 5:1 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-023",
+    "book": "Michée",
+    "chapter": 5,
+    "verseRef": "Michée 5:1",
+    "verseText": "Voir Michée 5:1.",
+    "question": "Celui qui dominera sur Israël a une origine qui remonte…",
+    "choices": [
+      "aux temps anciens, aux jours de l’éternité",
+      "au jour où Saül fut oint"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 5:1 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-024",
+    "book": "Michée",
+    "chapter": 5,
+    "verseRef": "Michée 5:2",
+    "verseText": "Voir Michée 5:2.",
+    "question": "« C’est pourquoi il les livrera » jusqu’à…",
+    "choices": [
+      "l’enfantement de celle qui doit enfanter",
+      "l’édification du second temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 5:2 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-025",
+    "book": "Michée",
+    "chapter": 5,
+    "verseRef": "Michée 5:3",
+    "verseText": "Voir Michée 5:3.",
+    "question": "Il gouvernera avec…",
+    "choices": [
+      "la force de l’Éternel",
+      "la ruse des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 5:3 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-026",
+    "book": "Michée",
+    "chapter": 5,
+    "verseRef": "Michée 5:3",
+    "verseText": "Voir Michée 5:3.",
+    "question": "Il sera glorifié jusqu’aux…",
+    "choices": [
+      "extrémités de la terre",
+      "portes de Jérusalem seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 5:3 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-027",
+    "book": "Michée",
+    "chapter": 5,
+    "verseRef": "Michée 5:9",
+    "verseText": "Voir Michée 5:9.",
+    "question": "Dans un jour annoncé, l’Éternel retranche…",
+    "choices": [
+      "les chevaux du milieu de toi",
+      "les brebis du milieu de toi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 5:9 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-028",
+    "book": "Michée",
+    "chapter": 5,
+    "verseRef": "Michée 5:10",
+    "verseText": "Voir Michée 5:10.",
+    "question": "Dans ce même contexte, l’Éternel renverse…",
+    "choices": [
+      "tes villes fortes",
+      "tes autels de pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 5:10 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-029",
+    "book": "Michée",
+    "chapter": 6,
+    "verseRef": "Michée 6:6",
+    "verseText": "Voir Michée 6:6.",
+    "question": "Dans la controverse de l’Éternel, le peuple envisage de venir avec…",
+    "choices": [
+      "des holocaustes et des veaux d’un an",
+      "des grappes et des figues"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 6:6 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-030",
+    "book": "Michée",
+    "chapter": 6,
+    "verseRef": "Michée 6:7",
+    "verseText": "Voir Michée 6:7.",
+    "question": "L’hyperbole mentionne : « mille béliers » et…",
+    "choices": [
+      "des myriades de torrents d’huile",
+      "des milliers de chars de fer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 6:7 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-031",
+    "book": "Michée",
+    "chapter": 6,
+    "verseRef": "Michée 6:7",
+    "verseText": "Voir Michée 6:7.",
+    "question": "La question extrême évoque offrir…",
+    "choices": [
+      "le premier-né pour sa transgression",
+      "le voisin pour sa dette"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 6:7 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-032",
+    "book": "Michée",
+    "chapter": 6,
+    "verseRef": "Michée 6:8",
+    "verseText": "Voir Michée 6:8.",
+    "question": "Les trois exigences résumées sont : justice, miséricorde, et…",
+    "choices": [
+      "marcher humblement avec ton Dieu",
+      "offrir des sacrifices chaque matin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 6:8 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-033",
+    "book": "Michée",
+    "chapter": 6,
+    "verseRef": "Michée 6:11",
+    "verseText": "Voir Michée 6:11.",
+    "question": "Le reproche commercial vise…",
+    "choices": [
+      "balances fausses et sac de poids trompeurs",
+      "balances lourdes et sacs de blé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 6:11 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-034",
+    "book": "Michée",
+    "chapter": 6,
+    "verseRef": "Michée 6:12",
+    "verseText": "Voir Michée 6:12.",
+    "question": "Les riches sont dits « pleins de… »",
+    "choices": [
+      "violence",
+      "sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 6:12 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-035",
+    "book": "Michée",
+    "chapter": 6,
+    "verseRef": "Michée 6:14",
+    "verseText": "Voir Michée 6:14.",
+    "question": "Jugement annoncé : « tu mangeras, et… »",
+    "choices": [
+      "tu ne seras pas rassasié",
+      "tu seras rassasié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 6:14 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-036",
+    "book": "Michée",
+    "chapter": 6,
+    "verseRef": "Michée 6:15",
+    "verseText": "Voir Michée 6:15.",
+    "question": "Jugement annoncé : « tu sèmeras, et… »",
+    "choices": [
+      "tu ne moissonneras pas",
+      "tu moissonneras en abondance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 6:15 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-037",
+    "book": "Michée",
+    "chapter": 6,
+    "verseRef": "Michée 6:15",
+    "verseText": "Voir Michée 6:15.",
+    "question": "Jugement annoncé : « tu presseras l’olive, et… »",
+    "choices": [
+      "tu ne t’oindras pas d’huile",
+      "tu t’oindras d’huile en fête"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 6:15 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-038",
+    "book": "Michée",
+    "chapter": 6,
+    "verseRef": "Michée 6:15",
+    "verseText": "Voir Michée 6:15.",
+    "question": "Jugement annoncé : « tu presseras le moût, et… »",
+    "choices": [
+      "tu ne boiras pas le vin",
+      "tu boiras le vin nouveau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 6:15 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-039",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:1",
+    "verseText": "Voir Michée 7:1.",
+    "question": "Michée se compare à quelqu’un qui cherche…",
+    "choices": [
+      "les grappillages après la récolte",
+      "l’eau au désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:1 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-040",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:2",
+    "verseText": "Voir Michée 7:2.",
+    "question": "Michée dit : « L’homme de bien a… »",
+    "choices": [
+      "disparu du pays",
+      "rempli la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:2 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-041",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:5",
+    "verseText": "Voir Michée 7:5.",
+    "question": "Conseil de prudence : « Ne te fie pas à… »",
+    "choices": [
+      "un ami",
+      "un étranger seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:5 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-042",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:6",
+    "verseText": "Voir Michée 7:6.",
+    "question": "La rupture familiale cite : « le fils outrage… »",
+    "choices": [
+      "son père",
+      "son oncle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:6 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-043",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:7",
+    "verseText": "Voir Michée 7:7.",
+    "question": "Malgré tout, Michée déclare : « Pour moi, je regarderai vers… »",
+    "choices": [
+      "l’Éternel",
+      "les princes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:7 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-044",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:7",
+    "verseText": "Voir Michée 7:7.",
+    "question": "Même dans l’attente, il affirme : « Mon Dieu… »",
+    "choices": [
+      "m’exaucera",
+      "m’oubliera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:7 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-045",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:8",
+    "verseText": "Voir Michée 7:8.",
+    "question": "Face à l’échec, il dit : « Quand je suis tombé, je… »",
+    "choices": [
+      "me relèverai",
+      "resterai à terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:8 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-046",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:8",
+    "verseText": "Voir Michée 7:8.",
+    "question": "Dans les ténèbres, il confesse : « L’Éternel est… »",
+    "choices": [
+      "ma lumière",
+      "mon épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:8 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-047",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:18",
+    "verseText": "Voir Michée 7:18.",
+    "question": "L’expression « Quel Dieu est semblable à toi » se trouve…",
+    "choices": [
+      "dans la conclusion du livre",
+      "dans l’ouverture du livre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:18 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-048",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:18",
+    "verseText": "Voir Michée 7:18.",
+    "question": "Dieu y est décrit comme celui qui…",
+    "choices": [
+      "pardonne l’iniquité et oublie les péchés du reste de son héritage",
+      "punit sans relâche le reste de son héritage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:18 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-049",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:18",
+    "verseText": "Voir Michée 7:18.",
+    "question": "La raison donnée : il ne garde pas sa colère à toujours car il…",
+    "choices": [
+      "prend plaisir à la miséricorde",
+      "dépend des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:18 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-050",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:19",
+    "verseText": "Voir Michée 7:19.",
+    "question": "Il est annoncé : « Il mettra sous ses pieds nos… »",
+    "choices": [
+      "iniquités",
+      "ennemis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:19 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-051",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:19",
+    "verseText": "Voir Michée 7:19.",
+    "question": "Il est annoncé : « Tu jetteras au fond de la mer tous leurs… »",
+    "choices": [
+      "péchés",
+      "trésors"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:19 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-052",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:20",
+    "verseText": "Voir Michée 7:20.",
+    "question": "La fin promet : fidélité à… et bonté à…",
+    "choices": [
+      "Jacob ; Abraham",
+      "Moïse ; Aaron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:20 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-053",
+    "book": "Michée",
+    "chapter": 7,
+    "verseRef": "Michée 7:20",
+    "verseText": "Voir Michée 7:20.",
+    "question": "Cette promesse finale renvoie à ce que Dieu a juré…",
+    "choices": [
+      "à nos pères aux jours d’autrefois",
+      "aux rois d’Assyrie aux jours récents"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 7:20 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-054",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:5",
+    "verseText": "Voir Michée 1:5.",
+    "question": "Dans le début du livre, la transgression de Jacob est associée à…",
+    "choices": [
+      "Samarie",
+      "Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:5 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-055",
+    "book": "Michée",
+    "chapter": 4,
+    "verseRef": "Michée 4:3",
+    "verseText": "Voir Michée 4:3.",
+    "question": "Dans le chapitre 4, Dieu « juge entre… »",
+    "choices": [
+      "beaucoup de peuples",
+      "une seule nation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 4:3 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-056",
+    "book": "Michée",
+    "chapter": 4,
+    "verseRef": "Michée 4:3",
+    "verseText": "Voir Michée 4:3.",
+    "question": "La conséquence de la paix est formulée : « une nation ne tirera plus… »",
+    "choices": [
+      "l’épée contre une autre nation",
+      "des flèches contre Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 4:3 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-057",
+    "book": "Michée",
+    "chapter": 4,
+    "verseRef": "Michée 4:4",
+    "verseText": "Voir Michée 4:4.",
+    "question": "L’image de sûreté précise : « et nul ne… »",
+    "choices": [
+      "les troublera",
+      "les dirigera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 4:4 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-058",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:5",
+    "verseText": "Voir Michée 3:5.",
+    "question": "Dans le chapitre 3, l’accusation contre certains prophètes inclut qu’ils…",
+    "choices": [
+      "déclarent la guerre à celui qui ne met rien dans leur bouche",
+      "se taisent toujours devant le peuple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:5 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-059",
+    "book": "Michée",
+    "chapter": 2,
+    "verseRef": "Michée 2:12",
+    "verseText": "Voir Michée 2:12.",
+    "question": "Dans le chapitre 2, la comparaison du rassemblement parle aussi du peuple…",
+    "choices": [
+      "bruyant au milieu de sa prairie",
+      "muet au fond d’une grotte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 2:12 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-060",
+    "book": "Michée",
+    "chapter": 6,
+    "verseRef": "Michée 6:5",
+    "verseText": "Voir Michée 6:5.",
+    "question": "Dans le chapitre 6, l’appel de Dieu rappelle explicitement l’épisode…",
+    "choices": [
+      "Balak–Balaam",
+      "Saül–Samuel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 6:5 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-061",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:6",
+    "verseText": "Voir Michée 1:6.",
+    "question": "Samarie deviendra, selon l’annonce, “un monceau de…”",
+    "choices": [
+      "pierres dans les champs",
+      "cendres au désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:6 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-062",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:6",
+    "verseText": "Voir Michée 1:6.",
+    "question": "Les pierres de Samarie seront “jetées dans…”",
+    "choices": [
+      "la vallée",
+      "la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:6 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-063",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:6",
+    "verseText": "Voir Michée 1:6.",
+    "question": "Le texte précise : l’Éternel “mettra à nu ses…”",
+    "choices": [
+      "fondements",
+      "portes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:6 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-064",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:7",
+    "verseText": "Voir Michée 1:7.",
+    "question": "Les images taillées seront…",
+    "choices": [
+      "brisées",
+      "consacrées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:7 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-065",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:7",
+    "verseText": "Voir Michée 1:7.",
+    "question": "Les “dons impurs” seront brûlés…",
+    "choices": [
+      "au feu",
+      "par la pluie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:7 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-066",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:9",
+    "verseText": "Voir Michée 1:9.",
+    "question": "La plaie est dite incurable car elle “s’étend jusqu’à…”",
+    "choices": [
+      "Juda, jusqu’à la porte de Jérusalem",
+      "l’Égypte, jusqu’au Nil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:9 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-067",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:10",
+    "verseText": "Voir Michée 1:10.",
+    "question": "L’ordre au sujet de Gath est : “Ne l’annoncez point…”",
+    "choices": [
+      "dans Gath",
+      "à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:10 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-068",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:10",
+    "verseText": "Voir Michée 1:10.",
+    "question": "“Dans la maison d’Aphra…” :",
+    "choices": [
+      "ne pleurez point",
+      "sonnez de la trompette"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:10 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-069",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:11",
+    "verseText": "Voir Michée 1:11.",
+    "question": "“Habitante de Schaphir” doit passer…",
+    "choices": [
+      "dans la nudité et la honte",
+      "dans la paix et la gloire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:11 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-070",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:11",
+    "verseText": "Voir Michée 1:11.",
+    "question": "“L’habitante de Tsaanan n’ose…”",
+    "choices": [
+      "sortir",
+      "entrer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:11 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-071",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:11",
+    "verseText": "Voir Michée 1:11.",
+    "question": "“Beth-Haétsel vous enlève…”",
+    "choices": [
+      "son appui",
+      "sa couronne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:11 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-072",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:12",
+    "verseText": "Voir Michée 1:12.",
+    "question": "“L’habitante de Maroth s’attend anxieusement…”",
+    "choices": [
+      "au bonheur",
+      "à la vengeance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:12 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-073",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:12",
+    "verseText": "Voir Michée 1:12.",
+    "question": "Le malheur “descend de…”",
+    "choices": [
+      "l’Éternel",
+      "l’Assyrien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:12 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-074",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:13",
+    "verseText": "Voir Michée 1:13.",
+    "question": "À Lachis, l’ordre est : “Attèle les…”",
+    "choices": [
+      "coursiers à ton char",
+      "chameaux à ton char"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:13 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-075",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:13",
+    "verseText": "Voir Michée 1:13.",
+    "question": "Lachis est appelée “la cause du péché de…”",
+    "choices": [
+      "la fille de Sion",
+      "la fille de Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:13 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-076",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:14",
+    "verseText": "Voir Michée 1:14.",
+    "question": "“Morescheth-Gath” doit “donner des…”",
+    "choices": [
+      "présents de séparation",
+      "sacrifices de paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:14 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-077",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:14",
+    "verseText": "Voir Michée 1:14.",
+    "question": "“Les maisons d’Akzib” seront “une source de…”",
+    "choices": [
+      "tromperie pour les rois d’Israël",
+      "paix pour les rois de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:14 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-078",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:15",
+    "verseText": "Voir Michée 1:15.",
+    "question": "L’Éternel fera venir “un…” à “habitante de Maréscha”",
+    "choices": [
+      "héritier",
+      "juge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:15 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-079",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:15",
+    "verseText": "Voir Michée 1:15.",
+    "question": "“La gloire d’Israël viendra jusqu’à…”",
+    "choices": [
+      "Adullam",
+      "Béthel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:15 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-080",
+    "book": "Michée",
+    "chapter": 1,
+    "verseRef": "Michée 1:16",
+    "verseText": "Voir Michée 1:16.",
+    "question": "Le geste de deuil ordonné : “Rase-toi, et…”",
+    "choices": [
+      "coupe tes cheveux",
+      "déchire tes vêtements"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 1:16 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-081",
+    "book": "Michée",
+    "chapter": 2,
+    "verseRef": "Michée 2:4",
+    "verseText": "Voir Michée 2:4.",
+    "question": "Le proverbe de lamentation commence par : “Nous sommes entièrement…”",
+    "choices": [
+      "dévastés",
+      "consolés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 2:4 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-082",
+    "book": "Michée",
+    "chapter": 2,
+    "verseRef": "Michée 2:4",
+    "verseText": "Voir Michée 2:4.",
+    "question": "La plainte dit : “Il mesure de nouveau nos champs pour…”",
+    "choices": [
+      "les partager",
+      "les sanctifier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 2:4 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-083",
+    "book": "Michée",
+    "chapter": 2,
+    "verseRef": "Michée 2:10",
+    "verseText": "Voir Michée 2:10.",
+    "question": "L’ordre “Levez-vous, marchez !” est donné car ce n’est pas “un lieu de…”",
+    "choices": [
+      "repos",
+      "jugement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 2:10 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-084",
+    "book": "Michée",
+    "chapter": 2,
+    "verseRef": "Michée 2:11",
+    "verseText": "Voir Michée 2:11.",
+    "question": "Le faux prophète promet : “Je te prophétiserai sur le…”",
+    "choices": [
+      "vin et la liqueur forte",
+      "blé et le miel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 2:11 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-085",
+    "book": "Michée",
+    "chapter": 2,
+    "verseRef": "Michée 2:8",
+    "verseText": "Voir Michée 2:8.",
+    "question": "“Son peuple s’est levé comme…”",
+    "choices": [
+      "un ennemi",
+      "un frère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 2:8 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-086",
+    "book": "Michée",
+    "chapter": 2,
+    "verseRef": "Michée 2:8",
+    "verseText": "Voir Michée 2:8.",
+    "question": "Le manteau est arraché “à ceux qui passent…”",
+    "choices": [
+      "tranquillement",
+      "en fuyant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 2:8 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-087",
+    "book": "Michée",
+    "chapter": 2,
+    "verseRef": "Michée 2:9",
+    "verseText": "Voir Michée 2:9.",
+    "question": "“Les femmes de mon peuple, vous les chassez…”",
+    "choices": [
+      "de la maison de ses délices",
+      "du parvis du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 2:9 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-088",
+    "book": "Michée",
+    "chapter": 2,
+    "verseRef": "Michée 2:9",
+    "verseText": "Voir Michée 2:9.",
+    "question": "Aux enfants, il est dit : “vous ôtez pour toujours…”",
+    "choices": [
+      "ma gloire",
+      "leur force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 2:9 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-089",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:9",
+    "verseText": "Voir Michée 3:9.",
+    "question": "Accusation aux chefs : “Vous avez en horreur…”",
+    "choices": [
+      "la justice",
+      "la vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:9 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-090",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:9",
+    "verseText": "Voir Michée 3:9.",
+    "question": "Ils “tordent…”",
+    "choices": [
+      "tout ce qui est droit",
+      "tout ce qui est ancien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:9 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-091",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:10",
+    "verseText": "Voir Michée 3:10.",
+    "question": "“Ils bâtissent Sion…”",
+    "choices": [
+      "avec le sang",
+      "avec la paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:10 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-092",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:11",
+    "verseText": "Voir Michée 3:11.",
+    "question": "“Ses chefs jugent…”",
+    "choices": [
+      "sur des présents",
+      "sur des serments"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:11 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-093",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:11",
+    "verseText": "Voir Michée 3:11.",
+    "question": "“Ses sacrificateurs enseignent…”",
+    "choices": [
+      "pour un salaire",
+      "pour la joie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:11 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-094",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:11",
+    "verseText": "Voir Michée 3:11.",
+    "question": "“Ses prophètes devinent…”",
+    "choices": [
+      "pour de l’argent",
+      "pour la sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:11 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-095",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:11",
+    "verseText": "Voir Michée 3:11.",
+    "question": "Leur assurance trompeuse : “L’Éternel n’est-il pas…”",
+    "choices": [
+      "au milieu de nous ?",
+      "contre nous ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:11 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-096",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:12",
+    "verseText": "Voir Michée 3:12.",
+    "question": "Conclusion du jugement : “Sion sera…”",
+    "choices": [
+      "labourée comme un champ",
+      "bâtie comme une forteresse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:12 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-097",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:12",
+    "verseText": "Voir Michée 3:12.",
+    "question": "“Jérusalem deviendra…”",
+    "choices": [
+      "un monceau de pierres",
+      "une cité d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:12 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-098",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:12",
+    "verseText": "Voir Michée 3:12.",
+    "question": "“La montagne de la maison…” deviendra",
+    "choices": [
+      "une hauteur boisée",
+      "un autel de feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:12 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-099",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:12",
+    "verseText": "Voir Michée 3:12.",
+    "question": "L’expression “une hauteur boisée” s’applique à…",
+    "choices": [
+      "la montagne de la maison",
+      "la vallée de Jizreel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:12 (LSG 1910)."
+  },
+  {
+    "id": "michee-D-100",
+    "book": "Michée",
+    "chapter": 3,
+    "verseRef": "Michée 3:11",
+    "verseText": "Voir Michée 3:11.",
+    "question": "Le passage qui regroupe présents, salaire et argent se trouve en…",
+    "choices": [
+      "Michée 3:11",
+      "Michée 7:8"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Michée 3:11 (LSG 1910)."
+  }
+]

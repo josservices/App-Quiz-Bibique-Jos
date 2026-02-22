@@ -1,0 +1,2942 @@
+[
+  {
+    "id": "2CH-D-001",
+    "book": "2 Chroniques",
+    "chapter": 1,
+    "verseRef": "2 Chroniques 1:2",
+    "verseText": "Voir 2 Chroniques 1:2.",
+    "question": "Comment Salomon nomme-t-il l’assemblée qu’il convoque à Gabaon ?",
+    "choices": [
+      "les chefs de milliers et de centaines, les juges, et les chefs de tout Israël",
+      "les seuls lévites et sacrificateurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 1:2 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-002",
+    "book": "2 Chroniques",
+    "chapter": 1,
+    "verseRef": "2 Chroniques 1:3",
+    "verseText": "Voir 2 Chroniques 1:3.",
+    "question": "Selon le texte, où se trouvait la tente d’assignation faite par Moïse ?",
+    "choices": [
+      "à Gabaon",
+      "à Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 1:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-003",
+    "book": "2 Chroniques",
+    "chapter": 1,
+    "verseRef": "2 Chroniques 1:4",
+    "verseText": "Voir 2 Chroniques 1:4.",
+    "question": "Où était l’arche de Dieu au temps de Salomon, selon le récit ?",
+    "choices": [
+      "David l’avait fait monter à Jérusalem",
+      "elle était restée à Silo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 1:4 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-004",
+    "book": "2 Chroniques",
+    "chapter": 1,
+    "verseRef": "2 Chroniques 1:5",
+    "verseText": "Voir 2 Chroniques 1:5.",
+    "question": "Qui avait fait l’autel d’airain qui se trouvait devant le tabernacle ?",
+    "choices": [
+      "Betsaleel, fils d’Uri, fils de Hur",
+      "Huram de Tyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 1:5 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-005",
+    "book": "2 Chroniques",
+    "chapter": 1,
+    "verseRef": "2 Chroniques 1:17",
+    "verseText": "Voir 2 Chroniques 1:17.",
+    "question": "Combien de sicles d’argent valait un char importé d’Égypte ?",
+    "choices": [
+      "six cents sicles d’argent",
+      "trois cents sicles d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 1:17 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-006",
+    "book": "2 Chroniques",
+    "chapter": 1,
+    "verseRef": "2 Chroniques 1:17",
+    "verseText": "Voir 2 Chroniques 1:17.",
+    "question": "Combien de sicles d’argent valait un cheval, selon le texte ?",
+    "choices": [
+      "cent cinquante sicles d’argent",
+      "cinquante sicles d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 1:17 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-007",
+    "book": "2 Chroniques",
+    "chapter": 2,
+    "verseRef": "2 Chroniques 2:12",
+    "verseText": "Voir 2 Chroniques 2:12.",
+    "question": "À qui Huram dit-il que l’Éternel a donné un fils sage à David ?",
+    "choices": [
+      "à Salomon",
+      "à Roboam"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 2:12 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-008",
+    "book": "2 Chroniques",
+    "chapter": 2,
+    "verseRef": "2 Chroniques 2:14",
+    "verseText": "Voir 2 Chroniques 2:14.",
+    "question": "Comment Huram décrit-il l’homme habile qu’il envoie ?",
+    "choices": [
+      "fils d’une femme d’entre les filles de Dan, et d’un père Tyrien",
+      "fils d’une femme de Juda et d’un père Égyptien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 2:14 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-009",
+    "book": "2 Chroniques",
+    "chapter": 2,
+    "verseRef": "2 Chroniques 2:18",
+    "verseText": "Voir 2 Chroniques 2:18.",
+    "question": "Quel était le nombre des tailleurs de pierres dans la montagne ?",
+    "choices": [
+      "quatre-vingt mille",
+      "soixante-dix mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 2:18 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-010",
+    "book": "2 Chroniques",
+    "chapter": 2,
+    "verseRef": "2 Chroniques 2:18",
+    "verseText": "Voir 2 Chroniques 2:18.",
+    "question": "Combien de surveillants Salomon établit-il sur le peuple ?",
+    "choices": [
+      "trois mille six cents",
+      "trois mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 2:18 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-011",
+    "book": "2 Chroniques",
+    "chapter": 3,
+    "verseRef": "2 Chroniques 3:17",
+    "verseText": "Voir 2 Chroniques 3:17.",
+    "question": "Quel était le nom d’une des deux colonnes dressées dans le portique ?",
+    "choices": [
+      "Jakin",
+      "Étan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 3:17 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-012",
+    "book": "2 Chroniques",
+    "chapter": 3,
+    "verseRef": "2 Chroniques 3:17",
+    "verseText": "Voir 2 Chroniques 3:17.",
+    "question": "Quel était le nom de l’autre colonne du portique ?",
+    "choices": [
+      "Boaz",
+      "Hiram"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 3:17 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-013",
+    "book": "2 Chroniques",
+    "chapter": 3,
+    "verseRef": "2 Chroniques 3:7",
+    "verseText": "Voir 2 Chroniques 3:7.",
+    "question": "En quel bois les portes du lieu très saint étaient-elles faites ?",
+    "choices": [
+      "en bois d’olivier",
+      "en bois de cèdre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 3:7 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-014",
+    "book": "2 Chroniques",
+    "chapter": 3,
+    "verseRef": "2 Chroniques 3:11-13",
+    "verseText": "Voir 2 Chroniques 3:11-13.",
+    "question": "Quel détail est donné sur la longueur des ailes des chérubins du lieu très saint ?",
+    "choices": [
+      "vingt coudées",
+      "dix coudées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 3:11-13 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-015",
+    "book": "2 Chroniques",
+    "chapter": 4,
+    "verseRef": "2 Chroniques 4:6",
+    "verseText": "Voir 2 Chroniques 4:6.",
+    "question": "Combien de bassins Salomon fit-il, et sur quoi les mit-il ?",
+    "choices": [
+      "dix bassins, posés sur dix bases",
+      "douze bassins, posés sur douze pierres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 4:6 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-016",
+    "book": "2 Chroniques",
+    "chapter": 4,
+    "verseRef": "2 Chroniques 4:4",
+    "verseText": "Voir 2 Chroniques 4:4.",
+    "question": "Sur quoi reposait la mer (le grand réservoir) ?",
+    "choices": [
+      "sur douze bœufs",
+      "sur douze lions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 4:4 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-017",
+    "book": "2 Chroniques",
+    "chapter": 4,
+    "verseRef": "2 Chroniques 4:5",
+    "verseText": "Voir 2 Chroniques 4:5.",
+    "question": "Que dit le texte au sujet de l’épaisseur de la mer ?",
+    "choices": [
+      "elle avait une paume d’épaisseur",
+      "elle avait une coudée d’épaisseur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 4:5 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-018",
+    "book": "2 Chroniques",
+    "chapter": 4,
+    "verseRef": "2 Chroniques 4:8",
+    "verseText": "Voir 2 Chroniques 4:8.",
+    "question": "Combien de tables Salomon fit-il pour y mettre les pains ?",
+    "choices": [
+      "dix tables",
+      "une table"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 4:8 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-019",
+    "book": "2 Chroniques",
+    "chapter": 5,
+    "verseRef": "2 Chroniques 5:12-13",
+    "verseText": "Voir 2 Chroniques 5:12-13.",
+    "question": "Quel instrument sonore est nommé avec les trompettes lors de la louange ?",
+    "choices": [
+      "les cymbales",
+      "les tambourins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 5:12-13 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-020",
+    "book": "2 Chroniques",
+    "chapter": 5,
+    "verseRef": "2 Chroniques 5:13",
+    "verseText": "Voir 2 Chroniques 5:13.",
+    "question": "Que firent les chantres « d’une seule voix » ?",
+    "choices": [
+      "ils firent retentir louanges et actions de grâces",
+      "ils annoncèrent la guerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 5:13 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-021",
+    "book": "2 Chroniques",
+    "chapter": 6,
+    "verseRef": "2 Chroniques 6:22-23",
+    "verseText": "Voir 2 Chroniques 6:22-23.",
+    "question": "Dans la prière de Salomon, quel cas concerne « un homme péchant contre son prochain » ?",
+    "choices": [
+      "il vient jurer devant l’autel dans cette maison",
+      "il doit s’exiler à Damas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 6:22-23 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-022",
+    "book": "2 Chroniques",
+    "chapter": 6,
+    "verseRef": "2 Chroniques 6:26",
+    "verseText": "Voir 2 Chroniques 6:26.",
+    "question": "Quel châtiment collectif est mentionné comme motif de prière : « quand la pluie sera arrêtée » ?",
+    "choices": [
+      "à cause du péché contre l’Éternel",
+      "à cause du manque de rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 6:26 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-023",
+    "book": "2 Chroniques",
+    "chapter": 6,
+    "verseRef": "2 Chroniques 6:28",
+    "verseText": "Voir 2 Chroniques 6:28.",
+    "question": "Quel motif est donné pour « la famine, la peste, la rouille, le blé noircissant, les sauterelles, les chenilles » ?",
+    "choices": [
+      "lorsque l’ennemi assiège dans le pays",
+      "lorsque les rois visitent l’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 6:28 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-024",
+    "book": "2 Chroniques",
+    "chapter": 7,
+    "verseRef": "2 Chroniques 7:3",
+    "verseText": "Voir 2 Chroniques 7:3.",
+    "question": "Quel verset contient la formule « Car il est bon, car sa miséricorde dure à toujours » à la dédicace ?",
+    "choices": [
+      "2 Chroniques 7:3",
+      "2 Chroniques 9:9"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 7:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-025",
+    "book": "2 Chroniques",
+    "chapter": 7,
+    "verseRef": "2 Chroniques 7:16",
+    "verseText": "Voir 2 Chroniques 7:16.",
+    "question": "Qu’indique l’Éternel sur « ce lieu » après l’apparition nocturne ?",
+    "choices": [
+      "« J’ai choisi et sanctifié ce lieu, pour que mon nom y réside à jamais »",
+      "« J’abandonne ce lieu pour toujours »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 7:16 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-026",
+    "book": "2 Chroniques",
+    "chapter": 7,
+    "verseRef": "2 Chroniques 7:17",
+    "verseText": "Voir 2 Chroniques 7:17.",
+    "question": "Quelle condition est posée à Salomon : « Si tu marches devant moi… » ?",
+    "choices": [
+      "en faisant tout ce que je t’ai commandé",
+      "en multipliant les chevaux d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 7:17 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-027",
+    "book": "2 Chroniques",
+    "chapter": 7,
+    "verseRef": "2 Chroniques 7:20",
+    "verseText": "Voir 2 Chroniques 7:20.",
+    "question": "Quel avertissement est donné si Israël se détourne ?",
+    "choices": [
+      "cette maison deviendra un sujet de sarcasme et de raillerie",
+      "cette maison sera agrandie par les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 7:20 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-028",
+    "book": "2 Chroniques",
+    "chapter": 8,
+    "verseRef": "2 Chroniques 8:1",
+    "verseText": "Voir 2 Chroniques 8:1.",
+    "question": "Quel fut le temps écoulé pour l’achèvement de la maison de l’Éternel et de la maison du roi ?",
+    "choices": [
+      "vingt ans",
+      "dix ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 8:1 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-029",
+    "book": "2 Chroniques",
+    "chapter": 8,
+    "verseRef": "2 Chroniques 8:13",
+    "verseText": "Voir 2 Chroniques 8:13.",
+    "question": "Quelle règle Salomon observe-t-il concernant les offrandes sur l’autel ?",
+    "choices": [
+      "selon l’ordonnance de Moïse, aux sabbats, aux nouvelles lunes et aux fêtes",
+      "seulement le jour des expiations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 8:13 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-030",
+    "book": "2 Chroniques",
+    "chapter": 8,
+    "verseRef": "2 Chroniques 8:18",
+    "verseText": "Voir 2 Chroniques 8:18.",
+    "question": "Où Salomon envoya-t-il des navires avec les serviteurs de Huram ?",
+    "choices": [
+      "à Ophir",
+      "à Ninive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 8:18 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-031",
+    "book": "2 Chroniques",
+    "chapter": 8,
+    "verseRef": "2 Chroniques 8:18",
+    "verseText": "Voir 2 Chroniques 8:18.",
+    "question": "Selon le texte, combien d’or rapporta-t-on d’Ophir ?",
+    "choices": [
+      "quatre cent cinquante talents d’or",
+      "cent vingt talents d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 8:18 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-032",
+    "book": "2 Chroniques",
+    "chapter": 9,
+    "verseRef": "2 Chroniques 9:18-19",
+    "verseText": "Voir 2 Chroniques 9:18-19.",
+    "question": "Quel détail est donné sur le trône de Salomon ?",
+    "choices": [
+      "il y avait six degrés, et douze lions se tenaient là",
+      "il y avait dix degrés, et des chérubins d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 9:18-19 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-033",
+    "book": "2 Chroniques",
+    "chapter": 9,
+    "verseRef": "2 Chroniques 9:27",
+    "verseText": "Voir 2 Chroniques 9:27.",
+    "question": "Quelle affirmation est faite sur l’argent aux jours de Salomon ?",
+    "choices": [
+      "le roi rendit l’argent aussi commun à Jérusalem que les pierres",
+      "l’argent fut interdit dans Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 9:27 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-034",
+    "book": "2 Chroniques",
+    "chapter": 9,
+    "verseRef": "2 Chroniques 9:20",
+    "verseText": "Voir 2 Chroniques 9:20.",
+    "question": "Quel objet d’or est explicitement mentionné parmi les ustensiles du roi ?",
+    "choices": [
+      "des coupes d’or",
+      "des encensoirs d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 9:20 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-035",
+    "book": "2 Chroniques",
+    "chapter": 10,
+    "verseRef": "2 Chroniques 10:18",
+    "verseText": "Voir 2 Chroniques 10:18.",
+    "question": "Après la révolte d’Israël, qui Roboam envoya-t-il, et que lui arriva-t-il ?",
+    "choices": [
+      "Hadoram, et les enfants d’Israël le lapidèrent",
+      "Achimélec, et il fut couronné"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 10:18 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-036",
+    "book": "2 Chroniques",
+    "chapter": 11,
+    "verseRef": "2 Chroniques 11:1",
+    "verseText": "Voir 2 Chroniques 11:1.",
+    "question": "Quel nombre d’hommes Roboam rassembla-t-il pour combattre Israël ?",
+    "choices": [
+      "cent quatre-vingt mille hommes d’élite",
+      "quatre cent mille hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 11:1 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-037",
+    "book": "2 Chroniques",
+    "chapter": 11,
+    "verseRef": "2 Chroniques 11:2-4",
+    "verseText": "Voir 2 Chroniques 11:2-4.",
+    "question": "Quel homme de Dieu interdit la guerre entre frères ?",
+    "choices": [
+      "Schemaeja",
+      "Ésaïe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 11:2-4 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-038",
+    "book": "2 Chroniques",
+    "chapter": 11,
+    "verseRef": "2 Chroniques 11:5",
+    "verseText": "Voir 2 Chroniques 11:5.",
+    "question": "Quelle conséquence est notée : « Roboam demeura à Jérusalem » et fit quoi ?",
+    "choices": [
+      "il fortifia des villes en Juda",
+      "il détruisit les villes d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 11:5 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-039",
+    "book": "2 Chroniques",
+    "chapter": 11,
+    "verseRef": "2 Chroniques 11:21",
+    "verseText": "Voir 2 Chroniques 11:21.",
+    "question": "Quel détail sur la famille de Roboam est donné (épouses/concubines) ?",
+    "choices": [
+      "il prit dix-huit femmes et soixante concubines",
+      "il prit une seule femme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 11:21 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-040",
+    "book": "2 Chroniques",
+    "chapter": 12,
+    "verseRef": "2 Chroniques 12:5",
+    "verseText": "Voir 2 Chroniques 12:5.",
+    "question": "Quel prophète annonce à Juda : « Vous vous êtes abandonnés à moi, je vous abandonne » ?",
+    "choices": [
+      "Schemaeja",
+      "Hanani"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 12:5 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-041",
+    "book": "2 Chroniques",
+    "chapter": 12,
+    "verseRef": "2 Chroniques 12:4",
+    "verseText": "Voir 2 Chroniques 12:4.",
+    "question": "Quel tribut Schischak imposa-t-il aux villes fortes de Juda ?",
+    "choices": [
+      "il prit les villes fortes",
+      "il donna des richesses à Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 12:4 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-042",
+    "book": "2 Chroniques",
+    "chapter": 13,
+    "verseRef": "2 Chroniques 13:3",
+    "verseText": "Voir 2 Chroniques 13:3.",
+    "question": "Combien d’hommes d’élite Jéroboam aligna-t-il contre Abija ?",
+    "choices": [
+      "huit cent mille hommes d’élite",
+      "quatre cent mille hommes d’élite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 13:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-043",
+    "book": "2 Chroniques",
+    "chapter": 13,
+    "verseRef": "2 Chroniques 13:9",
+    "verseText": "Voir 2 Chroniques 13:9.",
+    "question": "Abija reproche à Israël quel acte concernant la maison d’Aaron ?",
+    "choices": [
+      "ils ont chassé les sacrificateurs de l’Éternel, les fils d’Aaron",
+      "ils ont multiplié les sacrifices à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 13:9 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-044",
+    "book": "2 Chroniques",
+    "chapter": 13,
+    "verseRef": "2 Chroniques 13:14",
+    "verseText": "Voir 2 Chroniques 13:14.",
+    "question": "Quel signal des sacrificateurs accompagne l’attaque de Juda ?",
+    "choices": [
+      "ils sonnèrent des trompettes",
+      "ils éteignirent le chandelier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 13:14 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-045",
+    "book": "2 Chroniques",
+    "chapter": 13,
+    "verseRef": "2 Chroniques 13:18",
+    "verseText": "Voir 2 Chroniques 13:18.",
+    "question": "Quel résultat militaire précis est donné après la bataille ?",
+    "choices": [
+      "Israël ne put plus résister, et l’Éternel le frappa",
+      "Juda fut entièrement détruit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 13:18 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-046",
+    "book": "2 Chroniques",
+    "chapter": 15,
+    "verseRef": "2 Chroniques 15:16",
+    "verseText": "Voir 2 Chroniques 15:16.",
+    "question": "Sous Asa, quelle reine-mère fut déposée pour une idole ?",
+    "choices": [
+      "Maaca",
+      "Athalie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 15:16 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-047",
+    "book": "2 Chroniques",
+    "chapter": 15,
+    "verseRef": "2 Chroniques 15:16",
+    "verseText": "Voir 2 Chroniques 15:16.",
+    "question": "Quel objet Asa coupa-t-il et brûla-t-il au torrent de Cédron ?",
+    "choices": [
+      "l’idole de Maaca",
+      "le livre de la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 15:16 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-048",
+    "book": "2 Chroniques",
+    "chapter": 15,
+    "verseRef": "2 Chroniques 15:19",
+    "verseText": "Voir 2 Chroniques 15:19.",
+    "question": "À quelle année du règne d’Asa la guerre cessa-t-elle (période de repos mentionnée) ?",
+    "choices": [
+      "jusqu’à la trente-cinquième année",
+      "jusqu’à la dixième année"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 15:19 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-049",
+    "book": "2 Chroniques",
+    "chapter": 16,
+    "verseRef": "2 Chroniques 16:9",
+    "verseText": "Voir 2 Chroniques 16:9.",
+    "question": "Quel détail est donné sur les yeux de l’Éternel, dans la réprimande faite à Asa ?",
+    "choices": [
+      "ils parcourent toute la terre, pour soutenir ceux dont le cœur est tout entier à lui",
+      "ils ne regardent que Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 16:9 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-050",
+    "book": "2 Chroniques",
+    "chapter": 16,
+    "verseRef": "2 Chroniques 16:10",
+    "verseText": "Voir 2 Chroniques 16:10.",
+    "question": "Qu’arriva-t-il à Hanani après sa réprimande ?",
+    "choices": [
+      "Asa le mit en prison",
+      "Asa le fit roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 16:10 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-051",
+    "book": "2 Chroniques",
+    "chapter": 16,
+    "verseRef": "2 Chroniques 16:12",
+    "verseText": "Voir 2 Chroniques 16:12.",
+    "question": "Quel reproche final le texte formule-t-il sur Asa dans sa maladie ?",
+    "choices": [
+      "il ne chercha pas l’Éternel, mais consulta les médecins",
+      "il offrit trop d’encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 16:12 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-052",
+    "book": "2 Chroniques",
+    "chapter": 17,
+    "verseRef": "2 Chroniques 17:10",
+    "verseText": "Voir 2 Chroniques 17:10.",
+    "question": "Selon 2 Chroniques, quel effet eut la crainte de l’Éternel autour de Josaphat ?",
+    "choices": [
+      "elle fut sur tous les royaumes des pays qui entouraient Juda",
+      "elle disparut entièrement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 17:10 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-053",
+    "book": "2 Chroniques",
+    "chapter": 17,
+    "verseRef": "2 Chroniques 17:14",
+    "verseText": "Voir 2 Chroniques 17:14.",
+    "question": "Quel chef militaire est mentionné avec une grande armée sous Josaphat ?",
+    "choices": [
+      "Adna",
+      "Abner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 17:14 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-054",
+    "book": "2 Chroniques",
+    "chapter": 17,
+    "verseRef": "2 Chroniques 17:15",
+    "verseText": "Voir 2 Chroniques 17:15.",
+    "question": "Quel autre chef est dit « vaillant héros » avec deux cent quatre-vingt mille hommes ?",
+    "choices": [
+      "Jochanan",
+      "Joab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 17:15 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-055",
+    "book": "2 Chroniques",
+    "chapter": 17,
+    "verseRef": "2 Chroniques 17:16",
+    "verseText": "Voir 2 Chroniques 17:16.",
+    "question": "Quel troisième chef est mentionné avec deux cent mille hommes ?",
+    "choices": [
+      "Amasia, fils de Zicri",
+      "Achimélec, fils d’Abiathar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 17:16 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-056",
+    "book": "2 Chroniques",
+    "chapter": 18,
+    "verseRef": "2 Chroniques 18:21-22",
+    "verseText": "Voir 2 Chroniques 18:21-22.",
+    "question": "Quel choix Michée annonce-t-il concernant l’esprit dans la bouche des prophètes d’Achab ?",
+    "choices": [
+      "un esprit de mensonge",
+      "un esprit de paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 18:21-22 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-057",
+    "book": "2 Chroniques",
+    "chapter": 18,
+    "verseRef": "2 Chroniques 18:29",
+    "verseText": "Voir 2 Chroniques 18:29.",
+    "question": "Quelle recommandation Achab donne-t-il à Josaphat avant d’aller au combat ?",
+    "choices": [
+      "« Je me déguiserai… et toi, revêts tes habits »",
+      "« Va seul, je resterai ici »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 18:29 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-058",
+    "book": "2 Chroniques",
+    "chapter": 18,
+    "verseRef": "2 Chroniques 18:33",
+    "verseText": "Voir 2 Chroniques 18:33.",
+    "question": "Comment Achab fut-il frappé malgré son déguisement ?",
+    "choices": [
+      "un homme tira de son arc au hasard et le frappa",
+      "il tomba de cheval en fuyant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 18:33 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-059",
+    "book": "2 Chroniques",
+    "chapter": 19,
+    "verseRef": "2 Chroniques 19:2",
+    "verseText": "Voir 2 Chroniques 19:2.",
+    "question": "Quel jugement de Jéhu, fils de Hanani, est adressé à Josaphat ?",
+    "choices": [
+      "« Aiderais-tu le méchant, et aimerais-tu ceux qui haïssent l’Éternel ? »",
+      "« Tu as vaincu par ta force »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 19:2 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-060",
+    "book": "2 Chroniques",
+    "chapter": 19,
+    "verseRef": "2 Chroniques 19:5",
+    "verseText": "Voir 2 Chroniques 19:5.",
+    "question": "Quelle décision Josaphat prit-il ensuite concernant la justice ?",
+    "choices": [
+      "il établit des juges dans toutes les villes fortes de Juda",
+      "il supprima les juges de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 19:5 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-061",
+    "book": "2 Chroniques",
+    "chapter": 19,
+    "verseRef": "2 Chroniques 19:11",
+    "verseText": "Voir 2 Chroniques 19:11.",
+    "question": "Quel chef des sacrificateurs Josaphat établit-il pour les contestations « au nom de l’Éternel » ?",
+    "choices": [
+      "Amaria, le souverain sacrificateur",
+      "Jehojada, le souverain sacrificateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 19:11 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-062",
+    "book": "2 Chroniques",
+    "chapter": 19,
+    "verseRef": "2 Chroniques 19:10",
+    "verseText": "Voir 2 Chroniques 19:10.",
+    "question": "Quel ordre Josaphat donna-t-il aux Lévites et aux sacrificateurs à Jérusalem : « Dans toute cause… » ?",
+    "choices": [
+      "« vous avertirez vos frères, afin qu’ils ne se rendent point coupables envers l’Éternel »",
+      "« vous les laisserez faire selon leur coeur »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 19:10 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-063",
+    "book": "2 Chroniques",
+    "chapter": 20,
+    "verseRef": "2 Chroniques 20:9",
+    "verseText": "Voir 2 Chroniques 20:9.",
+    "question": "Quelle mention précise accompagne la prière de Josaphat au sujet de la maison bâtie au nom de l’Éternel ?",
+    "choices": [
+      "« car ton nom est dans cette maison »",
+      "« car l’or est dans cette maison »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 20:9 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-064",
+    "book": "2 Chroniques",
+    "chapter": 20,
+    "verseRef": "2 Chroniques 20:2",
+    "verseText": "Voir 2 Chroniques 20:2.",
+    "question": "Quelle expression désigne l’endroit où se tenait l’ennemi : « Hatsatson-Thamar, qui est… » ?",
+    "choices": [
+      "En-Guédi",
+      "Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 20:2 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-065",
+    "book": "2 Chroniques",
+    "chapter": 20,
+    "verseRef": "2 Chroniques 20:14",
+    "verseText": "Voir 2 Chroniques 20:14.",
+    "question": "À quelle tribu est rattaché Jachaziel dans la généalogie donnée ?",
+    "choices": [
+      "des Lévites, d’entre les fils d’Asaph",
+      "des fils de Benjamin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 20:14 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-066",
+    "book": "2 Chroniques",
+    "chapter": 20,
+    "verseRef": "2 Chroniques 20:16",
+    "verseText": "Voir 2 Chroniques 20:16.",
+    "question": "Quelle consigne fut donnée pour le combat : « Demain… » ?",
+    "choices": [
+      "« descendez contre eux »",
+      "« fuyez devant eux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 20:16 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-067",
+    "book": "2 Chroniques",
+    "chapter": 20,
+    "verseRef": "2 Chroniques 20:17",
+    "verseText": "Voir 2 Chroniques 20:17.",
+    "question": "Où Juda devait-il se tenir pour voir la délivrance ?",
+    "choices": [
+      "« placez-vous, tenez-vous là, et vous verrez la délivrance que l’Éternel vous accordera »",
+      "« cachez-vous dans les villes fortes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 20:17 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-068",
+    "book": "2 Chroniques",
+    "chapter": 20,
+    "verseRef": "2 Chroniques 20:22",
+    "verseText": "Voir 2 Chroniques 20:22.",
+    "question": "Quelle précision sur les ennemis est donnée : « les fils d’Ammon, de Moab et… » ?",
+    "choices": [
+      "« ceux de la montagne de Séir »",
+      "« ceux de la montagne de Nébo »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 20:22 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-069",
+    "book": "2 Chroniques",
+    "chapter": 20,
+    "verseRef": "2 Chroniques 20:28",
+    "verseText": "Voir 2 Chroniques 20:28.",
+    "question": "Quel ordre d’adoration est décrit au retour à Jérusalem ?",
+    "choices": [
+      "« ils allèrent à la maison de l’Éternel avec des luths, des harpes et des trompettes »",
+      "« ils allèrent à la maison de Baal avec des idoles »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 20:28 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-070",
+    "book": "2 Chroniques",
+    "chapter": 20,
+    "verseRef": "2 Chroniques 20:35",
+    "verseText": "Voir 2 Chroniques 20:35.",
+    "question": "Dans la fin du règne de Josaphat, quel roi d’Israël est nommé comme associé impie ?",
+    "choices": [
+      "Achazia",
+      "Ochozias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 20:35 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-071",
+    "book": "2 Chroniques",
+    "chapter": 20,
+    "verseRef": "2 Chroniques 20:36",
+    "verseText": "Voir 2 Chroniques 20:36.",
+    "question": "Où furent faits les navires destinés à aller à Tarsis ?",
+    "choices": [
+      "à Etsjon Guéber",
+      "à Joppé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 20:36 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-072",
+    "book": "2 Chroniques",
+    "chapter": 20,
+    "verseRef": "2 Chroniques 20:37",
+    "verseText": "Voir 2 Chroniques 20:37.",
+    "question": "Quel prophète est nommé « fils de Dodava, de Maréscha » ?",
+    "choices": [
+      "Éliézer",
+      "Hanani"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 20:37 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-073",
+    "book": "2 Chroniques",
+    "chapter": 21,
+    "verseRef": "2 Chroniques 21:12",
+    "verseText": "Voir 2 Chroniques 21:12.",
+    "question": "Quelle formulation exacte se trouve dans la lettre d’Élie adressée à Joram : « Ainsi parle… » ?",
+    "choices": [
+      "« l’Éternel, le Dieu de David, ton père »",
+      "« l’Éternel, le Dieu d’Abraham, ton frère »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 21:12 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-074",
+    "book": "2 Chroniques",
+    "chapter": 21,
+    "verseRef": "2 Chroniques 21:15",
+    "verseText": "Voir 2 Chroniques 21:15.",
+    "question": "Quelle description est donnée sur la fin de Joram : « il mourra… » ?",
+    "choices": [
+      "« dans de violentes douleurs »",
+      "« dans une paix parfaite »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 21:15 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-075",
+    "book": "2 Chroniques",
+    "chapter": 21,
+    "verseRef": "2 Chroniques 21:19",
+    "verseText": "Voir 2 Chroniques 21:19.",
+    "question": "Quel jugement est mentionné : « on ne fit point brûler des parfums… » pour Joram ?",
+    "choices": [
+      "comme on en avait fait pour ses pères",
+      "comme on en fit pour Ézéchias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 21:19 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-076",
+    "book": "2 Chroniques",
+    "chapter": 22,
+    "verseRef": "2 Chroniques 22:1",
+    "verseText": "Voir 2 Chroniques 22:1.",
+    "question": "Pourquoi Achazia régna-t-il à la place de Joram, le plus jeune ?",
+    "choices": [
+      "parce que la troupe venue au camp avec les Arabes avait tué tous les plus âgés",
+      "parce que les sacrificateurs l’avaient choisi au hasard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 22:1 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-077",
+    "book": "2 Chroniques",
+    "chapter": 22,
+    "verseRef": "2 Chroniques 22:3",
+    "verseText": "Voir 2 Chroniques 22:3.",
+    "question": "Quel détail est donné sur les conseils reçus par Achazia ?",
+    "choices": [
+      "« sa mère lui donnait des conseils impies »",
+      "« Jehojada lui donnait des conseils sages »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 22:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-078",
+    "book": "2 Chroniques",
+    "chapter": 22,
+    "verseRef": "2 Chroniques 22:2",
+    "verseText": "Voir 2 Chroniques 22:2.",
+    "question": "Quel lien familial est attribué à Athalie dans 2 Chroniques 22:2 ?",
+    "choices": [
+      "« fille d’Omri »",
+      "« fille de David »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 22:2 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-079",
+    "book": "2 Chroniques",
+    "chapter": 22,
+    "verseRef": "2 Chroniques 22:11",
+    "verseText": "Voir 2 Chroniques 22:11.",
+    "question": "Qui est nommé comme celui qui cacha Joas, et quel lien est précisé ?",
+    "choices": [
+      "Jehoschabeath, femme de Jehojada, car elle était soeur d’Achazia",
+      "Abija, femme d’Hilkija, car elle était soeur de Joas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 22:11 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-080",
+    "book": "2 Chroniques",
+    "chapter": 22,
+    "verseRef": "2 Chroniques 22:12",
+    "verseText": "Voir 2 Chroniques 22:12.",
+    "question": "Combien d’années Joas fut-il caché dans la maison de Dieu ?",
+    "choices": [
+      "six ans",
+      "sept ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 22:12 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-081",
+    "book": "2 Chroniques",
+    "chapter": 23,
+    "verseRef": "2 Chroniques 23:1",
+    "verseText": "Voir 2 Chroniques 23:1.",
+    "question": "Quel groupe Jehojada rassembla-t-il en alliance avec lui ?",
+    "choices": [
+      "les chefs de centaines",
+      "les marchands de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 23:1 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-082",
+    "book": "2 Chroniques",
+    "chapter": 23,
+    "verseRef": "2 Chroniques 23:3",
+    "verseText": "Voir 2 Chroniques 23:3.",
+    "question": "Où Jehojada fit-il venir tout Juda pour montrer le fils du roi ?",
+    "choices": [
+      "dans la maison de Dieu",
+      "dans la maison de Baal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 23:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-083",
+    "book": "2 Chroniques",
+    "chapter": 23,
+    "verseRef": "2 Chroniques 23:9",
+    "verseText": "Voir 2 Chroniques 23:9.",
+    "question": "Quel objet Jehojada remit-il aux chefs de centaines (provenant de David) ?",
+    "choices": [
+      "les lances et les boucliers, grands et petits",
+      "les trompettes d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 23:9 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-084",
+    "book": "2 Chroniques",
+    "chapter": 23,
+    "verseRef": "2 Chroniques 23:16",
+    "verseText": "Voir 2 Chroniques 23:16.",
+    "question": "Que fit Jehojada après le couronnement de Joas, selon le texte ?",
+    "choices": [
+      "il fit avec lui une alliance entre lui, tout le peuple et le roi",
+      "il l’envoya en exil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 23:16 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-085",
+    "book": "2 Chroniques",
+    "chapter": 23,
+    "verseRef": "2 Chroniques 23:17",
+    "verseText": "Voir 2 Chroniques 23:17.",
+    "question": "Quel nom est donné au prêtre de Baal mis à mort ?",
+    "choices": [
+      "Matthan",
+      "Zacharie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 23:17 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-086",
+    "book": "2 Chroniques",
+    "chapter": 24,
+    "verseRef": "2 Chroniques 24:1",
+    "verseText": "Voir 2 Chroniques 24:1.",
+    "question": "Quel âge avait Joas lorsqu’il commença à régner, et combien de temps régna-t-il ?",
+    "choices": [
+      "sept ans; quarante ans",
+      "vingt-cinq ans; vingt-neuf ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 24:1 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-087",
+    "book": "2 Chroniques",
+    "chapter": 24,
+    "verseRef": "2 Chroniques 24:2",
+    "verseText": "Voir 2 Chroniques 24:2.",
+    "question": "Quelle précision est donnée sur Joas : « Il fit ce qui est droit… » durant quel temps ?",
+    "choices": [
+      "« tout le temps que vécut Jehojada, le sacrificateur »",
+      "« tout le temps qu’il servit Baal »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 24:2 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-088",
+    "book": "2 Chroniques",
+    "chapter": 24,
+    "verseRef": "2 Chroniques 24:8",
+    "verseText": "Voir 2 Chroniques 24:8.",
+    "question": "Où plaçait-on le coffre pour recueillir l’argent ?",
+    "choices": [
+      "à la porte de la maison de l’Éternel, en dehors",
+      "dans le lieu très saint"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 24:8 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-089",
+    "book": "2 Chroniques",
+    "chapter": 24,
+    "verseRef": "2 Chroniques 24:11",
+    "verseText": "Voir 2 Chroniques 24:11.",
+    "question": "Quelle action est décrite quand le coffre était plein ?",
+    "choices": [
+      "on le vidait, on emportait l’argent, puis on le remettait à sa place",
+      "on le brûlait avec l’encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 24:11 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-090",
+    "book": "2 Chroniques",
+    "chapter": 24,
+    "verseRef": "2 Chroniques 24:20",
+    "verseText": "Voir 2 Chroniques 24:20.",
+    "question": "Quel nom complet est donné au prophète qui reprit Juda sous Joas ?",
+    "choices": [
+      "Zacharie, fils du sacrificateur Jehojada",
+      "Éliézer, fils de Dodava"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 24:20 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-091",
+    "book": "2 Chroniques",
+    "chapter": 24,
+    "verseRef": "2 Chroniques 24:21",
+    "verseText": "Voir 2 Chroniques 24:21.",
+    "question": "Quel lieu exact est mentionné pour la lapidation de Zacharie ?",
+    "choices": [
+      "« dans le parvis de la maison de l’Éternel »",
+      "« dans la maison du roi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 24:21 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-092",
+    "book": "2 Chroniques",
+    "chapter": 24,
+    "verseRef": "2 Chroniques 24:22",
+    "verseText": "Voir 2 Chroniques 24:22.",
+    "question": "Quel reproche final est adressé à Joas au sujet de Jehojada ?",
+    "choices": [
+      "« Joas ne se souvint pas de la bienveillance qu’avait eue pour lui Jehojada »",
+      "« Joas se souvint parfaitement de Jehojada »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 24:22 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-093",
+    "book": "2 Chroniques",
+    "chapter": 24,
+    "verseRef": "2 Chroniques 24:18",
+    "verseText": "Voir 2 Chroniques 24:18.",
+    "question": "Quelle conséquence est mentionnée après l’abandon de l’Éternel ?",
+    "choices": [
+      "« la colère de l’Éternel fut sur Juda et sur Jérusalem »",
+      "« la paix parfaite fut sur Juda et sur Jérusalem »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 24:18 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-094",
+    "book": "2 Chroniques",
+    "chapter": 24,
+    "verseRef": "2 Chroniques 24:23",
+    "verseText": "Voir 2 Chroniques 24:23.",
+    "question": "À quel moment les Syriens montèrent-ils contre Joas ?",
+    "choices": [
+      "« à la fin de l’année »",
+      "« au premier mois du premier jour »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 24:23 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-095",
+    "book": "2 Chroniques",
+    "chapter": 24,
+    "verseRef": "2 Chroniques 24:24",
+    "verseText": "Voir 2 Chroniques 24:24.",
+    "question": "Quel résultat le texte souligne concernant l’armée syrienne et Juda ?",
+    "choices": [
+      "« l’Éternel livra entre leurs mains une armée très nombreuse »",
+      "« Juda livra une armée très nombreuse aux Syriens »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 24:24 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-096",
+    "book": "2 Chroniques",
+    "chapter": 24,
+    "verseRef": "2 Chroniques 24:25",
+    "verseText": "Voir 2 Chroniques 24:25.",
+    "question": "Comment Joas fut-il laissé après l’attaque, avant la conspiration ?",
+    "choices": [
+      "« dans de grandes souffrances »",
+      "« rempli de force et de santé »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 24:25 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-097",
+    "book": "2 Chroniques",
+    "chapter": 24,
+    "verseRef": "2 Chroniques 24:25",
+    "verseText": "Voir 2 Chroniques 24:25.",
+    "question": "Où Joas fut-il tué par ses serviteurs ?",
+    "choices": [
+      "« dans la maison de Millo, sur le chemin qui descend à Silla »",
+      "« à la porte des chevaux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 24:25 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-098",
+    "book": "2 Chroniques",
+    "chapter": 24,
+    "verseRef": "2 Chroniques 24:25",
+    "verseText": "Voir 2 Chroniques 24:25.",
+    "question": "Quel détail est donné sur sa sépulture par rapport aux rois ?",
+    "choices": [
+      "« on ne l’enterra point dans les sépulcres des rois »",
+      "« on l’enterra dans les sépulcres des rois »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 24:25 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-099",
+    "book": "2 Chroniques",
+    "chapter": 25,
+    "verseRef": "2 Chroniques 25:1",
+    "verseText": "Voir 2 Chroniques 25:1.",
+    "question": "Quel âge avait Amatsia lorsqu’il devint roi, et combien de temps régna-t-il ?",
+    "choices": [
+      "vingt-cinq ans; vingt-neuf ans",
+      "seize ans; cinquante-deux ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 25:1 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-100",
+    "book": "2 Chroniques",
+    "chapter": 25,
+    "verseRef": "2 Chroniques 25:4",
+    "verseText": "Voir 2 Chroniques 25:4.",
+    "question": "Quelle règle d’Amatsia est formulée : « mais il ne fit pas mourir… » ?",
+    "choices": [
+      "les enfants des meurtriers",
+      "les meurtriers eux-mêmes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 25:4 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-101",
+    "book": "2 Chroniques",
+    "chapter": 25,
+    "verseRef": "2 Chroniques 25:5",
+    "verseText": "Voir 2 Chroniques 25:5.",
+    "question": "Quel nombre d’hommes Amatsia passa-t-il en revue, de vingt ans et au-dessus ?",
+    "choices": [
+      "trois cent mille hommes d’élite",
+      "cent quatre-vingt mille hommes d’élite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 25:5 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-102",
+    "book": "2 Chroniques",
+    "chapter": 25,
+    "verseRef": "2 Chroniques 25:6",
+    "verseText": "Voir 2 Chroniques 25:6.",
+    "question": "Combien de talents d’argent Amatsia prit-il pour enrôler cent mille hommes d’Israël ?",
+    "choices": [
+      "cent talents d’argent",
+      "dix talents d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 25:6 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-103",
+    "book": "2 Chroniques",
+    "chapter": 25,
+    "verseRef": "2 Chroniques 25:7",
+    "verseText": "Voir 2 Chroniques 25:7.",
+    "question": "Quelle parole l’homme de Dieu adressa-t-il à Amatsia sur la présence d’Israël ?",
+    "choices": [
+      "« l’Éternel n’est pas avec Israël, avec tous ces enfants d’Éphraïm »",
+      "« l’Éternel est avec Israël, et avec tous ces enfants d’Éphraïm »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 25:7 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-104",
+    "book": "2 Chroniques",
+    "chapter": 25,
+    "verseRef": "2 Chroniques 25:8",
+    "verseText": "Voir 2 Chroniques 25:8.",
+    "question": "Que dit l’homme de Dieu au sujet de la puissance de Dieu au combat ?",
+    "choices": [
+      "« car il y a en Dieu le pouvoir d’aider et de faire tomber »",
+      "« car il n’y a en Dieu aucun pouvoir »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 25:8 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-105",
+    "book": "2 Chroniques",
+    "chapter": 25,
+    "verseRef": "2 Chroniques 25:9",
+    "verseText": "Voir 2 Chroniques 25:9.",
+    "question": "Quelle somme Amatsia mentionne-t-il : « cent talents d’argent » donnés à qui ?",
+    "choices": [
+      "à la troupe d’Israël",
+      "à la troupe de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 25:9 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-106",
+    "book": "2 Chroniques",
+    "chapter": 25,
+    "verseRef": "2 Chroniques 25:9",
+    "verseText": "Voir 2 Chroniques 25:9.",
+    "question": "Quelle réponse l’homme de Dieu donne-t-il sur cette somme ?",
+    "choices": [
+      "« l’Éternel peut te donner bien plus que cela »",
+      "« l’Éternel ne peut rien te donner »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 25:9 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-107",
+    "book": "2 Chroniques",
+    "chapter": 25,
+    "verseRef": "2 Chroniques 25:10",
+    "verseText": "Voir 2 Chroniques 25:10.",
+    "question": "Que firent les hommes d’Israël renvoyés, selon le texte ?",
+    "choices": [
+      "ils s’irritèrent vivement et se retirèrent chez eux",
+      "ils se réjouirent et bénirent Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 25:10 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-108",
+    "book": "2 Chroniques",
+    "chapter": 26,
+    "verseRef": "2 Chroniques 26:16",
+    "verseText": "Voir 2 Chroniques 26:16.",
+    "question": "Quel acte d’orgueil d’Ozias est rapporté lorsqu’il fut puissant ?",
+    "choices": [
+      "il entra dans le temple de l’Éternel pour brûler des parfums sur l’autel des parfums",
+      "il détruisit l’autel d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 26:16 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-109",
+    "book": "2 Chroniques",
+    "chapter": 26,
+    "verseRef": "2 Chroniques 26:17",
+    "verseText": "Voir 2 Chroniques 26:17.",
+    "question": "Qui résista à Ozias dans le temple ?",
+    "choices": [
+      "Azaria, le sacrificateur, avec quatre-vingts sacrificateurs de l’Éternel",
+      "Hilkija, le sacrificateur, avec douze lévites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 26:17 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-110",
+    "book": "2 Chroniques",
+    "chapter": 26,
+    "verseRef": "2 Chroniques 26:19",
+    "verseText": "Voir 2 Chroniques 26:19.",
+    "question": "Quel signe frappa Ozias pendant qu’il s’irritait contre les sacrificateurs ?",
+    "choices": [
+      "la lèpre éclata sur son front",
+      "il tomba mort sur place"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 26:19 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-111",
+    "book": "2 Chroniques",
+    "chapter": 26,
+    "verseRef": "2 Chroniques 26:21",
+    "verseText": "Voir 2 Chroniques 26:21.",
+    "question": "Quelle conséquence permanente est donnée sur Ozias ?",
+    "choices": [
+      "« Le roi Ozias fut lépreux jusqu’au jour de sa mort »",
+      "« Le roi Ozias fut guéri le lendemain »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 26:21 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-112",
+    "book": "2 Chroniques",
+    "chapter": 27,
+    "verseRef": "2 Chroniques 27:2",
+    "verseText": "Voir 2 Chroniques 27:2.",
+    "question": "Quel roi « n’entra point dans le temple de l’Éternel » selon la remarque du texte ?",
+    "choices": [
+      "Jotham",
+      "Ézéchias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 27:2 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-113",
+    "book": "2 Chroniques",
+    "chapter": 29,
+    "verseRef": "2 Chroniques 29:7",
+    "verseText": "Voir 2 Chroniques 29:7.",
+    "question": "Quel roi ferma les portes du portique et éteignit les lampes, selon Ézéchias ?",
+    "choices": [
+      "Achaz",
+      "Josias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 29:7 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-114",
+    "book": "2 Chroniques",
+    "chapter": 29,
+    "verseRef": "2 Chroniques 29:10",
+    "verseText": "Voir 2 Chroniques 29:10.",
+    "question": "Quelle formule Ézéchias prononce-t-il : « J’ai donc l’intention… » ?",
+    "choices": [
+      "« de faire alliance avec l’Éternel, le Dieu d’Israël »",
+      "« de faire alliance avec le roi d’Assyrie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 29:10 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-115",
+    "book": "2 Chroniques",
+    "chapter": 29,
+    "verseRef": "2 Chroniques 29:25",
+    "verseText": "Voir 2 Chroniques 29:25.",
+    "question": "Selon l’ordonnance citée, de qui provenait l’ordre des instruments pour les Lévites ?",
+    "choices": [
+      "de David, de Gad le voyant du roi, et de Nathan, le prophète",
+      "de Moïse, de Josué, et de Samuel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 29:25 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-116",
+    "book": "2 Chroniques",
+    "chapter": 29,
+    "verseRef": "2 Chroniques 29:21",
+    "verseText": "Voir 2 Chroniques 29:21.",
+    "question": "Combien d’animaux furent offerts en sacrifice d’expiation au début de la restauration (taureaux/béliers/agneaux/boucs) ?",
+    "choices": [
+      "sept taureaux, sept béliers, sept agneaux et sept boucs",
+      "dix taureaux, dix béliers, dix agneaux et dix boucs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 29:21 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-117",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:14",
+    "verseText": "Voir 2 Chroniques 34:14.",
+    "question": "Quel livre Hilkija trouva-t-il lors de la sortie de l’argent dans la maison de l’Éternel ?",
+    "choices": [
+      "« le livre de la loi de l’Éternel donnée par Moïse »",
+      "« le livre des Proverbes de Salomon »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:14 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-118",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:15",
+    "verseText": "Voir 2 Chroniques 34:15.",
+    "question": "À qui Hilkija dit-il : « J’ai trouvé le livre de la loi… » ?",
+    "choices": [
+      "à Schaphan, le secrétaire",
+      "à Éliézer, le prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:15 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-119",
+    "book": "2 Chroniques",
+    "chapter": 29,
+    "verseRef": "2 Chroniques 29:19",
+    "verseText": "Voir 2 Chroniques 29:19.",
+    "question": "Quelle expression décrit le retour des ustensiles profanés sous Achaz, selon le rapport fait à Ézéchias ?",
+    "choices": [
+      "« Nous avons remis en état et purifié tous les ustensiles »",
+      "« Nous avons vendu tous les ustensiles »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 29:19 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-120",
+    "book": "2 Chroniques",
+    "chapter": 29,
+    "verseRef": "2 Chroniques 29:27",
+    "verseText": "Voir 2 Chroniques 29:27.",
+    "question": "Quel enchaînement est décrit au moment où le service recommence : chant et quoi encore ?",
+    "choices": [
+      "« le chant de l’Éternel commença, ainsi que les trompettes et les instruments de David, roi d’Israël »",
+      "« le silence commença, et les portes furent fermées »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 29:27 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-121",
+    "book": "2 Chroniques",
+    "chapter": 30,
+    "verseRef": "2 Chroniques 30:6",
+    "verseText": "Voir 2 Chroniques 30:6.",
+    "question": "Quelle formule exacte se trouve dans la proclamation d’Ézéchias : « Revenez… » ?",
+    "choices": [
+      "« Revenez à l’Éternel, le Dieu d’Abraham, d’Isaac et d’Israël »",
+      "« Revenez à Baal, le dieu des nations »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 30:6 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-122",
+    "book": "2 Chroniques",
+    "chapter": 30,
+    "verseRef": "2 Chroniques 30:6",
+    "verseText": "Voir 2 Chroniques 30:6.",
+    "question": "Quelle précision est donnée sur le but du retour à l’Éternel ?",
+    "choices": [
+      "« afin qu’il revienne à vous, reste échappé de la main des rois d’Assyrie »",
+      "« afin que l’Égypte vous protège »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 30:6 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-123",
+    "book": "2 Chroniques",
+    "chapter": 30,
+    "verseRef": "2 Chroniques 30:7",
+    "verseText": "Voir 2 Chroniques 30:7.",
+    "question": "Quelle exhortation est adressée : « Ne soyez pas… comme vos pères » ?",
+    "choices": [
+      "« qui ont péché contre l’Éternel, le Dieu de leurs pères »",
+      "« qui ont toujours gardé l’alliance »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 30:7 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-124",
+    "book": "2 Chroniques",
+    "chapter": 30,
+    "verseRef": "2 Chroniques 30:9",
+    "verseText": "Voir 2 Chroniques 30:9.",
+    "question": "Comment la bonté de l’Éternel est-elle présentée si le peuple revient ?",
+    "choices": [
+      "« Il ne détournera pas sa face de vous, si vous revenez à lui »",
+      "« Il détournera sa face même si vous revenez »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 30:9 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-125",
+    "book": "2 Chroniques",
+    "chapter": 30,
+    "verseRef": "2 Chroniques 30:3",
+    "verseText": "Voir 2 Chroniques 30:3.",
+    "question": "Quelle précision sur la sanctification des sacrificateurs est donnée au sujet de la Pâque ?",
+    "choices": [
+      "« les sacrificateurs s’étaient sanctifiés en assez grand nombre » n’avait pas eu lieu au premier mois",
+      "« les sacrificateurs s’étaient sanctifiés tous au premier mois »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 30:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-126",
+    "book": "2 Chroniques",
+    "chapter": 30,
+    "verseRef": "2 Chroniques 30:14",
+    "verseText": "Voir 2 Chroniques 30:14.",
+    "question": "Quelle action collective est décrite à propos des autels et des lieux d’encens à Jérusalem ?",
+    "choices": [
+      "« ils les jetèrent dans le torrent de Cédron »",
+      "« ils les placèrent devant l’arche »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 30:14 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-127",
+    "book": "2 Chroniques",
+    "chapter": 30,
+    "verseRef": "2 Chroniques 30:18",
+    "verseText": "Voir 2 Chroniques 30:18.",
+    "question": "Quelle raison est donnée pour la prière d’Ézéchias en faveur des impurs ?",
+    "choices": [
+      "« car une grande partie du peuple… n’était pas purifiée »",
+      "« car aucun sacrificateur n’était présent »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 30:18 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-128",
+    "book": "2 Chroniques",
+    "chapter": 30,
+    "verseRef": "2 Chroniques 30:18-19",
+    "verseText": "Voir 2 Chroniques 30:18-19.",
+    "question": "Quelle demande Ézéchias formule-t-il : « Que l’Éternel… » ?",
+    "choices": [
+      "« qui est bon, pardonne à tous ceux qui ont appliqué leur cœur à chercher Dieu »",
+      "« qui est bon, condamne tous ceux qui cherchent Dieu »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 30:18-19 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-129",
+    "book": "2 Chroniques",
+    "chapter": 30,
+    "verseRef": "2 Chroniques 30:20",
+    "verseText": "Voir 2 Chroniques 30:20.",
+    "question": "Comment le texte conclut-il l’issue de cette situation ?",
+    "choices": [
+      "« l’Éternel exauça Ézéchias, et pardonna au peuple »",
+      "« l’Éternel frappa le peuple sans remède »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 30:20 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-130",
+    "book": "2 Chroniques",
+    "chapter": 30,
+    "verseRef": "2 Chroniques 30:21",
+    "verseText": "Voir 2 Chroniques 30:21.",
+    "question": "Quel détail est donné sur la joie des Lévites pendant la fête ?",
+    "choices": [
+      "« les Lévites et les sacrificateurs louaient l’Éternel chaque jour, avec des instruments retentissants »",
+      "« les Lévites gardèrent le silence pendant sept jours »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 30:21 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-131",
+    "book": "2 Chroniques",
+    "chapter": 30,
+    "verseRef": "2 Chroniques 30:23",
+    "verseText": "Voir 2 Chroniques 30:23.",
+    "question": "Combien de jours supplémentaires furent célébrés, après les sept jours ?",
+    "choices": [
+      "sept autres jours",
+      "trois autres jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 30:23 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-132",
+    "book": "2 Chroniques",
+    "chapter": 30,
+    "verseRef": "2 Chroniques 30:26",
+    "verseText": "Voir 2 Chroniques 30:26.",
+    "question": "Quelle précision est donnée sur la joie unique à Jérusalem ?",
+    "choices": [
+      "« depuis le temps de Salomon, fils de David, roi d’Israël »",
+      "« depuis le temps de Moïse en Égypte »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 30:26 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-133",
+    "book": "2 Chroniques",
+    "chapter": 31,
+    "verseRef": "2 Chroniques 31:1",
+    "verseText": "Voir 2 Chroniques 31:1.",
+    "question": "Dans la réforme après la fête, quels lieux furent renversés « jusqu’à ce qu’ils eussent tout détruit » ?",
+    "choices": [
+      "« les hauts lieux et les autels »",
+      "« les portes du temple »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 31:1 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-134",
+    "book": "2 Chroniques",
+    "chapter": 31,
+    "verseRef": "2 Chroniques 31:4",
+    "verseText": "Voir 2 Chroniques 31:4.",
+    "question": "Quelle finalité est donnée à propos des portions pour les sacrificateurs et les Lévites ?",
+    "choices": [
+      "« afin qu’ils se consacrassent à la loi de l’Éternel »",
+      "« afin qu’ils fissent commerce aux portes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 31:4 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-135",
+    "book": "2 Chroniques",
+    "chapter": 31,
+    "verseRef": "2 Chroniques 31:7",
+    "verseText": "Voir 2 Chroniques 31:7.",
+    "question": "Entre quels mois les monceaux furent-ils formés, selon le texte ?",
+    "choices": [
+      "du troisième mois au septième mois",
+      "du premier mois au troisième mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 31:7 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-136",
+    "book": "2 Chroniques",
+    "chapter": 31,
+    "verseRef": "2 Chroniques 31:14",
+    "verseText": "Voir 2 Chroniques 31:14.",
+    "question": "Quel nom est donné au portier chargé des dons volontaires « à l’orient » ?",
+    "choices": [
+      "Koré, fils de Jimna",
+      "Matthan, fils de Baal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 31:14 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-137",
+    "book": "2 Chroniques",
+    "chapter": 32,
+    "verseRef": "2 Chroniques 32:5",
+    "verseText": "Voir 2 Chroniques 32:5.",
+    "question": "Quelle phrase d’Ézéchias est citée : « Il prit courage… » et fit quoi ?",
+    "choices": [
+      "« il fit une muraille tout autour, éleva des tours, et en bâtit une autre dehors »",
+      "« il détruisit les murs de Jérusalem »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 32:5 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-138",
+    "book": "2 Chroniques",
+    "chapter": 32,
+    "verseRef": "2 Chroniques 32:7",
+    "verseText": "Voir 2 Chroniques 32:7.",
+    "question": "Quel motif Ézéchias exprime-t-il : « Ne craignez point… » pourquoi ?",
+    "choices": [
+      "« car avec nous il y en a plus qu’avec lui »",
+      "« car nous sommes moins nombreux qu’avec lui »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 32:7 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-139",
+    "book": "2 Chroniques",
+    "chapter": 32,
+    "verseRef": "2 Chroniques 32:8",
+    "verseText": "Voir 2 Chroniques 32:8.",
+    "question": "Quelle distinction Ézéchias fait-il : « Avec lui est… mais avec nous est… » ?",
+    "choices": [
+      "« un bras de chair; mais avec nous est l’Éternel, notre Dieu »",
+      "« l’Éternel; mais avec nous un bras de chair »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 32:8 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-140",
+    "book": "2 Chroniques",
+    "chapter": 32,
+    "verseRef": "2 Chroniques 32:9",
+    "verseText": "Voir 2 Chroniques 32:9.",
+    "question": "Où Sanchérib envoya-t-il ses serviteurs pour parler au peuple ?",
+    "choices": [
+      "à Jérusalem, pendant qu’il était devant Lakis",
+      "à Samarie, pendant qu’il était devant Ninive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 32:9 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-141",
+    "book": "2 Chroniques",
+    "chapter": 32,
+    "verseRef": "2 Chroniques 32:11-12",
+    "verseText": "Voir 2 Chroniques 32:11-12.",
+    "question": "Quel blasphème est formulé : « Ézéchias vous séduit… » vers quoi ?",
+    "choices": [
+      "vers la confiance en l’Éternel pour la délivrance",
+      "vers l’obéissance à l’Assyrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 32:11-12 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-142",
+    "book": "2 Chroniques",
+    "chapter": 32,
+    "verseRef": "2 Chroniques 32:12",
+    "verseText": "Voir 2 Chroniques 32:12.",
+    "question": "Quel acte d’Ézéchias est mentionné par les Assyriens pour décourager le peuple ?",
+    "choices": [
+      "il ôta les hauts lieux et les autels et dit : « Vous vous prosternerez devant un seul autel »",
+      "il multiplia les idoles dans Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 32:12 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-143",
+    "book": "2 Chroniques",
+    "chapter": 32,
+    "verseRef": "2 Chroniques 32:18",
+    "verseText": "Voir 2 Chroniques 32:18.",
+    "question": "Comment les serviteurs de Sanchérib parlèrent-ils « en langue judaïque » ?",
+    "choices": [
+      "ils parlèrent en langue judaïque au peuple qui était sur la muraille",
+      "ils parlèrent en langue judaïque aux prêtres dans le lieu très saint"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 32:18 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-144",
+    "book": "2 Chroniques",
+    "chapter": 32,
+    "verseRef": "2 Chroniques 32:22",
+    "verseText": "Voir 2 Chroniques 32:22.",
+    "question": "Quel résumé est donné de la délivrance ?",
+    "choices": [
+      "« l’Éternel sauva Ézéchias et les habitants de Jérusalem… et il les protégea de tous côtés »",
+      "« l’Éternel livra Jérusalem au roi d’Assyrie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 32:22 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-145",
+    "book": "2 Chroniques",
+    "chapter": 32,
+    "verseRef": "2 Chroniques 32:23",
+    "verseText": "Voir 2 Chroniques 32:23.",
+    "question": "Quel détail est donné au sujet des présents après la délivrance ?",
+    "choices": [
+      "« beaucoup de gens apportèrent des offrandes à l’Éternel… et des objets précieux à Ézéchias »",
+      "« personne n’apporta rien à Jérusalem »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 32:23 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-146",
+    "book": "2 Chroniques",
+    "chapter": 32,
+    "verseRef": "2 Chroniques 32:25",
+    "verseText": "Voir 2 Chroniques 32:25.",
+    "question": "Quel péché intérieur est signalé chez Ézéchias après un signe ?",
+    "choices": [
+      "« son cœur s’éleva »",
+      "« son cœur s’humilia immédiatement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 32:25 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-147",
+    "book": "2 Chroniques",
+    "chapter": 32,
+    "verseRef": "2 Chroniques 32:26",
+    "verseText": "Voir 2 Chroniques 32:26.",
+    "question": "Quel acte d’humilité est rapporté ensuite ?",
+    "choices": [
+      "« Ézéchias s’humilia de ce que son cœur s’était élevé »",
+      "« Ézéchias se révolta contre l’Éternel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 32:26 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-148",
+    "book": "2 Chroniques",
+    "chapter": 33,
+    "verseRef": "2 Chroniques 33:5",
+    "verseText": "Voir 2 Chroniques 33:5.",
+    "question": "Quel fait est mentionné sur Manassé concernant l’armée des cieux ?",
+    "choices": [
+      "il bâtit des autels à toute l’armée des cieux dans les deux parvis de la maison de l’Éternel",
+      "il détruisit toute l’armée des cieux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 33:5 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-149",
+    "book": "2 Chroniques",
+    "chapter": 33,
+    "verseRef": "2 Chroniques 33:7",
+    "verseText": "Voir 2 Chroniques 33:7.",
+    "question": "Quel acte est mentionné : Manassé plaça quoi dans la maison de Dieu ?",
+    "choices": [
+      "une image taillée, l’idole qu’il avait faite",
+      "l’arche de l’alliance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 33:7 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-150",
+    "book": "2 Chroniques",
+    "chapter": 33,
+    "verseRef": "2 Chroniques 33:9",
+    "verseText": "Voir 2 Chroniques 33:9.",
+    "question": "Quel résultat le texte donne-t-il malgré les avertissements ?",
+    "choices": [
+      "Manassé séduisit Juda et les habitants de Jérusalem, et les fit égarer",
+      "Manassé ramena tout Juda à l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 33:9 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-151",
+    "book": "2 Chroniques",
+    "chapter": 33,
+    "verseRef": "2 Chroniques 33:12-13",
+    "verseText": "Voir 2 Chroniques 33:12-13.",
+    "question": "À quel moment Manassé reconnut-il l’Éternel comme Dieu ?",
+    "choices": [
+      "« lorsqu’il fut dans la détresse »",
+      "« lorsqu’il fut couronné »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 33:12-13 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-152",
+    "book": "2 Chroniques",
+    "chapter": 33,
+    "verseRef": "2 Chroniques 33:16",
+    "verseText": "Voir 2 Chroniques 33:16.",
+    "question": "Quel acte de restauration Manassé accomplit-il pour le culte ?",
+    "choices": [
+      "il rétablit l’autel de l’Éternel et y offrit des sacrifices d’actions de grâces",
+      "il supprima l’autel de l’Éternel définitivement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 33:16 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-153",
+    "book": "2 Chroniques",
+    "chapter": 33,
+    "verseRef": "2 Chroniques 33:17",
+    "verseText": "Voir 2 Chroniques 33:17.",
+    "question": "Quel constat est fait malgré cela sur le peuple ?",
+    "choices": [
+      "le peuple sacrifiait encore sur les hauts lieux, mais seulement à l’Éternel, son Dieu",
+      "le peuple sacrifiait seulement à Baal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 33:17 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-154",
+    "book": "2 Chroniques",
+    "chapter": 33,
+    "verseRef": "2 Chroniques 33:22",
+    "verseText": "Voir 2 Chroniques 33:22.",
+    "question": "Quel jugement est porté sur Amon : il marcha dans quelle voie ?",
+    "choices": [
+      "dans la voie de Manassé, son père, au commencement de sa vie",
+      "dans la voie de David, son père"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 33:22 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-155",
+    "book": "2 Chroniques",
+    "chapter": 33,
+    "verseRef": "2 Chroniques 33:23",
+    "verseText": "Voir 2 Chroniques 33:23.",
+    "question": "Quel contraste est précisé entre Amon et Manassé ?",
+    "choices": [
+      "Amon ne s’humilia pas devant l’Éternel, comme s’était humilié Manassé",
+      "Amon s’humilia plus que Manassé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 33:23 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-156",
+    "book": "2 Chroniques",
+    "chapter": 33,
+    "verseRef": "2 Chroniques 33:25",
+    "verseText": "Voir 2 Chroniques 33:25.",
+    "question": "Quel événement politique suit la conspiration contre Amon ?",
+    "choices": [
+      "le peuple du pays fit mourir tous ceux qui avaient conspiré, et il établit Josias roi",
+      "l’Assyrie établit un roi étranger à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 33:25 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-157",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:3",
+    "verseText": "Voir 2 Chroniques 34:3.",
+    "question": "Dans la huitième année de Josias, que commença-t-il à faire ?",
+    "choices": [
+      "il commença à chercher le Dieu de David, son père",
+      "il commença à servir l’armée des cieux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-158",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:3",
+    "verseText": "Voir 2 Chroniques 34:3.",
+    "question": "Dans la douzième année, il commença à purifier Juda et Jérusalem de quoi ?",
+    "choices": [
+      "des hauts lieux, des idoles, des images taillées et des images en fonte",
+      "des sacrifices et des holocaustes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-159",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:4",
+    "verseText": "Voir 2 Chroniques 34:4.",
+    "question": "Quel détail est donné sur les autels des Baals sous Josias ?",
+    "choices": [
+      "« il les renversa en sa présence »",
+      "« il les plaça dans le lieu très saint »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:4 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-160",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:4",
+    "verseText": "Voir 2 Chroniques 34:4.",
+    "question": "Quel acte est décrit sur les chammanim au-dessus des autels ?",
+    "choices": [
+      "il les abattit",
+      "il les consacra"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:4 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-161",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:4",
+    "verseText": "Voir 2 Chroniques 34:4.",
+    "question": "Quel traitement est fait des images taillées et des images en fonte ?",
+    "choices": [
+      "il les brisa, les réduisit en poudre, et répandit la poudre sur les sépulcres de ceux qui leur avaient sacrifié",
+      "il les emporta comme trésor du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:4 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-162",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:5",
+    "verseText": "Voir 2 Chroniques 34:5.",
+    "question": "Quel détail est donné sur les ossements des sacrificateurs ?",
+    "choices": [
+      "il brûla les ossements des sacrificateurs sur leurs autels",
+      "il enterra les ossements dans le lieu très saint"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:5 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-163",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:6",
+    "verseText": "Voir 2 Chroniques 34:6.",
+    "question": "Quel territoire est mentionné jusqu’où Josias fit ces actions ?",
+    "choices": [
+      "dans les villes de Manassé, d’Éphraïm et de Siméon, jusqu’à Nephthali, et dans leurs ruines tout autour",
+      "seulement dans Jérusalem, sans sortir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:6 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-164",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:12",
+    "verseText": "Voir 2 Chroniques 34:12.",
+    "question": "Quel détail est donné sur ceux qui travaillaient fidèlement à la restauration ?",
+    "choices": [
+      "les hommes agissaient avec fidélité",
+      "les hommes agissaient avec violence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:12 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-165",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:14",
+    "verseText": "Voir 2 Chroniques 34:14.",
+    "question": "Quel nom est donné au souverain sacrificateur qui trouva le livre ?",
+    "choices": [
+      "Hilkija",
+      "Jehojada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:14 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-166",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:15",
+    "verseText": "Voir 2 Chroniques 34:15.",
+    "question": "Quel nom est donné au secrétaire à qui Hilkija parla du livre ?",
+    "choices": [
+      "Schaphan",
+      "Conania"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:15 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-167",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:18",
+    "verseText": "Voir 2 Chroniques 34:18.",
+    "question": "Quel acte Schaphan fit-il devant le roi ?",
+    "choices": [
+      "il lut dans le livre devant le roi",
+      "il cacha le livre dans le parvis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:18 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-168",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:19",
+    "verseText": "Voir 2 Chroniques 34:19.",
+    "question": "Quel signe de deuil Josias manifesta-t-il à l’écoute de la loi ?",
+    "choices": [
+      "il déchira ses vêtements",
+      "il offrit mille taureaux immédiatement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:19 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-169",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:21",
+    "verseText": "Voir 2 Chroniques 34:21.",
+    "question": "Quel ordre Josias donna-t-il : « Allez… » faire quoi ?",
+    "choices": [
+      "consulter l’Éternel pour moi, pour ceux qui restent en Israël et en Juda",
+      "consulter le roi d’Assyrie pour un traité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:21 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-170",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:22",
+    "verseText": "Voir 2 Chroniques 34:22.",
+    "question": "Quelle identité est donnée pour Hulda ?",
+    "choices": [
+      "« Hulda, la prophétesse, femme de Schallum… gardien des vêtements »",
+      "« Hulda, reine de Juda, fille de David »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:22 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-171",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:24",
+    "verseText": "Voir 2 Chroniques 34:24.",
+    "question": "Quelle parole exacte de jugement est rapportée : « Voici, je fais venir… » sur quoi ?",
+    "choices": [
+      "« des malheurs sur ce lieu et sur ses habitants, toutes les malédictions écrites dans le livre qu’on a lu devant le roi de Juda »",
+      "« des bénédictions sur ce lieu, sans condition, selon les rois d’Israël »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:24 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-172",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:25",
+    "verseText": "Voir 2 Chroniques 34:25.",
+    "question": "Pourquoi la colère de l’Éternel ne s’éteindrait-elle pas, selon le texte ?",
+    "choices": [
+      "« parce qu’ils m’ont abandonné et qu’ils ont offert des parfums à d’autres dieux »",
+      "« parce qu’ils ont célébré la Pâque à Jérusalem »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:25 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-173",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:27",
+    "verseText": "Voir 2 Chroniques 34:27.",
+    "question": "Quel détail est donné sur l’attitude de Josias à l’écoute du message : « parce que… » ?",
+    "choices": [
+      "« ton cœur a été touché, et que tu t’es humilié devant Dieu »",
+      "« ton cœur s’est endurci, et tu as méprisé la loi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:27 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-174",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:27",
+    "verseText": "Voir 2 Chroniques 34:27.",
+    "question": "Quel signe extérieur Josias manifesta-t-il en entendant les paroles de la loi ?",
+    "choices": [
+      "« tu as déchiré tes vêtements »",
+      "« tu as revêtu des ornements d’or »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:27 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-175",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:28",
+    "verseText": "Voir 2 Chroniques 34:28.",
+    "question": "Quelle promesse personnelle est formulée à Josias : « je te recueillerai… » comment ?",
+    "choices": [
+      "« je te recueillerai auprès de tes pères, et tu seras recueilli en paix dans tes sépulcres »",
+      "« je te recueillerai en captivité à Babylone »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:28 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-176",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:30",
+    "verseText": "Voir 2 Chroniques 34:30.",
+    "question": "À quels groupes Josias fit-il lire « toutes les paroles du livre de l’alliance » ?",
+    "choices": [
+      "à tout le peuple, depuis le plus grand jusqu’au plus petit",
+      "uniquement aux sacrificateurs du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:30 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-177",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:31",
+    "verseText": "Voir 2 Chroniques 34:31.",
+    "question": "Où Josias se tint-il pour faire alliance ?",
+    "choices": [
+      "« à sa place »",
+      "« à la porte des chevaux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:31 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-178",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:31",
+    "verseText": "Voir 2 Chroniques 34:31.",
+    "question": "Quel engagement triple est explicitement cité dans l’alliance ?",
+    "choices": [
+      "« marcher après l’Éternel, observer ses commandements, ses ordonnances et ses lois, de tout son cœur et de toute son âme »",
+      "« lever une armée, bâtir des villes, multiplier les chevaux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:31 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-179",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:33",
+    "verseText": "Voir 2 Chroniques 34:33.",
+    "question": "Quelle action contraignante Josias fit-il dans tout le territoire d’Israël ?",
+    "choices": [
+      "« il fit disparaître toutes les abominations »",
+      "« il installa des autels à l’armée des cieux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:33 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-180",
+    "book": "2 Chroniques",
+    "chapter": 34,
+    "verseRef": "2 Chroniques 34:33",
+    "verseText": "Voir 2 Chroniques 34:33.",
+    "question": "Quel bilan le texte donne-t-il du règne de Josias après ces actes ?",
+    "choices": [
+      "« pendant toute sa vie, ils ne se détournèrent point de l’Éternel, le Dieu de leurs pères »",
+      "« pendant toute sa vie, ils servirent Baal publiquement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 34:33 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-181",
+    "book": "2 Chroniques",
+    "chapter": 35,
+    "verseRef": "2 Chroniques 35:3",
+    "verseText": "Voir 2 Chroniques 35:3.",
+    "question": "À qui Josias dit-il : « Placez l’arche sainte… » ?",
+    "choices": [
+      "« aux Lévites qui enseignaient tout Israël, et qui étaient consacrés à l’Éternel »",
+      "« aux archers de Juda »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 35:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-182",
+    "book": "2 Chroniques",
+    "chapter": 35,
+    "verseRef": "2 Chroniques 35:3",
+    "verseText": "Voir 2 Chroniques 35:3.",
+    "question": "Quel motif Josias donne-t-il à propos de l’arche : « vous n’aurez plus… » quoi ?",
+    "choices": [
+      "« à la porter sur les épaules »",
+      "« à la cacher dans les villes fortes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 35:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-183",
+    "book": "2 Chroniques",
+    "chapter": 35,
+    "verseRef": "2 Chroniques 35:3",
+    "verseText": "Voir 2 Chroniques 35:3.",
+    "question": "Quelle consigne est donnée aux serviteurs du temple : « Servez maintenant… » qui ?",
+    "choices": [
+      "« l’Éternel, votre Dieu, et son peuple Israël »",
+      "« le roi d’Égypte, et ses armées »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 35:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-184",
+    "book": "2 Chroniques",
+    "chapter": 35,
+    "verseRef": "2 Chroniques 35:4",
+    "verseText": "Voir 2 Chroniques 35:4.",
+    "question": "Quel principe d’organisation est donné pour le service : « selon les maisons de vos pères… » ?",
+    "choices": [
+      "« selon vos divisions, suivant l’écrit de David, roi d’Israël, et l’écrit de Salomon, son fils »",
+      "« selon les coutumes des nations voisines »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 35:4 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-185",
+    "book": "2 Chroniques",
+    "chapter": 35,
+    "verseRef": "2 Chroniques 35:14",
+    "verseText": "Voir 2 Chroniques 35:14.",
+    "question": "Quel détail est donné sur la préparation de la Pâque par les Lévites ?",
+    "choices": [
+      "« ils préparèrent pour eux-mêmes et pour les sacrificateurs »",
+      "« ils préparèrent seulement pour le roi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 35:14 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-186",
+    "book": "2 Chroniques",
+    "chapter": 35,
+    "verseRef": "2 Chroniques 35:14",
+    "verseText": "Voir 2 Chroniques 35:14.",
+    "question": "Pourquoi les Lévites préparèrent-ils pour les sacrificateurs, selon le texte ?",
+    "choices": [
+      "« parce que les sacrificateurs, fils d’Aaron, étaient occupés jusqu’à la nuit à offrir les holocaustes et les graisses »",
+      "« parce que les sacrificateurs étaient absents de Jérusalem »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 35:14 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-187",
+    "book": "2 Chroniques",
+    "chapter": 35,
+    "verseRef": "2 Chroniques 35:18",
+    "verseText": "Voir 2 Chroniques 35:18.",
+    "question": "Quel jugement comparatif est donné sur cette Pâque ?",
+    "choices": [
+      "« aucun des rois d’Israël n’avait célébré une Pâque semblable à celle que célébra Josias »",
+      "« plusieurs rois d’Israël avaient célébré une Pâque plus grande que Josias »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 35:18 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-188",
+    "book": "2 Chroniques",
+    "chapter": 35,
+    "verseRef": "2 Chroniques 35:19",
+    "verseText": "Voir 2 Chroniques 35:19.",
+    "question": "Quel détail de date est précisé pour cette Pâque exceptionnelle ?",
+    "choices": [
+      "« la dix-huitième année du règne de Josias »",
+      "« la première année du règne de Josias »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 35:19 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-189",
+    "book": "2 Chroniques",
+    "chapter": 35,
+    "verseRef": "2 Chroniques 35:22",
+    "verseText": "Voir 2 Chroniques 35:22.",
+    "question": "Quel lieu exact est cité pour la confrontation avec Néco ?",
+    "choices": [
+      "Meguiddo",
+      "Lakis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 35:22 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-190",
+    "book": "2 Chroniques",
+    "chapter": 35,
+    "verseRef": "2 Chroniques 35:22",
+    "verseText": "Voir 2 Chroniques 35:22.",
+    "question": "Quel reproche implicite est fait à Josias sur l’avertissement reçu ?",
+    "choices": [
+      "« il n’écouta point les paroles de Néco, qui venaient de la bouche de Dieu »",
+      "« il écouta parfaitement les paroles de Néco, et il obéit »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 35:22 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-191",
+    "book": "2 Chroniques",
+    "chapter": 35,
+    "verseRef": "2 Chroniques 35:24",
+    "verseText": "Voir 2 Chroniques 35:24.",
+    "question": "Quel détail de transport est donné après la blessure de Josias ?",
+    "choices": [
+      "« ses serviteurs l’ôtèrent du char, le mirent sur un second char, et le ramenèrent à Jérusalem »",
+      "« ses serviteurs le laissèrent sur le champ de bataille »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 35:24 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-192",
+    "book": "2 Chroniques",
+    "chapter": 35,
+    "verseRef": "2 Chroniques 35:25",
+    "verseText": "Voir 2 Chroniques 35:25.",
+    "question": "Quel témoignage est donné sur les lamentations au sujet de Josias ?",
+    "choices": [
+      "« tous les chantres et toutes les chanteuses parlent de Josias dans leurs lamentations, jusqu’à ce jour »",
+      "« personne ne fit de lamentations pour Josias »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 35:25 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-193",
+    "book": "2 Chroniques",
+    "chapter": 35,
+    "verseRef": "2 Chroniques 35:25",
+    "verseText": "Voir 2 Chroniques 35:25.",
+    "question": "Comment la source de ces lamentations est-elle qualifiée dans le texte ?",
+    "choices": [
+      "« elles sont écrites dans les Lamentations »",
+      "« elles sont écrites dans le livre de Moïse »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 35:25 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-194",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:3",
+    "verseText": "Voir 2 Chroniques 36:3.",
+    "question": "Quel acte politique Néco accomplit-il envers Joachaz à Jérusalem ?",
+    "choices": [
+      "« il le destitua à Jérusalem »",
+      "« il le couronna à Jérusalem »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-195",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:3",
+    "verseText": "Voir 2 Chroniques 36:3.",
+    "question": "Où Néco emmena-t-il Joachaz, selon le récit ?",
+    "choices": [
+      "à Ribla",
+      "à Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-196",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:3",
+    "verseText": "Voir 2 Chroniques 36:3.",
+    "question": "Quelle précision complète est donnée sur le tribut imposé par Néco ?",
+    "choices": [
+      "« cent talents d’argent et un talent d’or »",
+      "« dix talents d’argent et un talent d’or »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:3 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-197",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:4",
+    "verseText": "Voir 2 Chroniques 36:4.",
+    "question": "Quel changement de nom est explicitement mentionné ?",
+    "choices": [
+      "Néco changea le nom d’Éliakim en Jojakim",
+      "Néco changea le nom de Josias en Sédécias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:4 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-198",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:6",
+    "verseText": "Voir 2 Chroniques 36:6.",
+    "question": "Quelle action Nébucadnetsar fit-il à Jojakim ?",
+    "choices": [
+      "« il l’enchaîna avec des chaînes d’airain, pour le conduire à Babylone »",
+      "« il le laissa gouverner librement Juda »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:6 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-199",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:14",
+    "verseText": "Voir 2 Chroniques 36:14.",
+    "question": "Quelle expression décrit la conduite des chefs des sacrificateurs et du peuple avant la chute ?",
+    "choices": [
+      "« ils multiplièrent les transgressions, selon toutes les abominations des nations »",
+      "« ils gardèrent fidèlement l’alliance et la loi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:14 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-200",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:14",
+    "verseText": "Voir 2 Chroniques 36:14.",
+    "question": "Quel acte est dit au sujet de la maison de l’Éternel ?",
+    "choices": [
+      "« ils souillèrent la maison de l’Éternel »",
+      "« ils sanctifièrent la maison de l’Éternel davantage »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:14 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-201",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:15",
+    "verseText": "Voir 2 Chroniques 36:15.",
+    "question": "Comment l’Éternel envoya-t-il ses avertissements, et pourquoi ?",
+    "choices": [
+      "« par ses messagers… car il voulait épargner son peuple et sa demeure »",
+      "« par des rois étrangers… car il voulait détruire son peuple »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:15 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-202",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:16",
+    "verseText": "Voir 2 Chroniques 36:16.",
+    "question": "Quelle attitude du peuple est décrite face aux avertissements ?",
+    "choices": [
+      "« ils se moquèrent des messagers de Dieu, méprisèrent ses paroles et se raillèrent de ses prophètes »",
+      "« ils écoutèrent les prophètes et se repentirent tous »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:16 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-203",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:16",
+    "verseText": "Voir 2 Chroniques 36:16.",
+    "question": "Jusqu’à quel point la colère monta-t-elle, selon le texte ?",
+    "choices": [
+      "« jusqu’à ce qu’il n’y eût plus de remède »",
+      "« puis elle s’apaisa immédiatement »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:16 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-204",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:17",
+    "verseText": "Voir 2 Chroniques 36:17.",
+    "question": "Quel jugement militaire est résumé : que fit le roi des Chaldéens ?",
+    "choices": [
+      "« il tua leurs jeunes gens par l’épée dans la maison de leur sanctuaire »",
+      "« il bénit le sanctuaire et restaura la ville »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:17 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-205",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:19",
+    "verseText": "Voir 2 Chroniques 36:19.",
+    "question": "Quel détail est donné sur la destruction du temple ?",
+    "choices": [
+      "« ils brûlèrent la maison de Dieu »",
+      "« ils transportèrent la maison de Dieu en Assyrie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:19 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-206",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:19",
+    "verseText": "Voir 2 Chroniques 36:19.",
+    "question": "Quel détail est donné sur les murailles et les palais ?",
+    "choices": [
+      "« ils renversèrent les murailles de Jérusalem et brûlèrent au feu tous ses palais »",
+      "« ils fortifièrent les murailles et décorèrent les palais »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:19 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-207",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:20",
+    "verseText": "Voir 2 Chroniques 36:20.",
+    "question": "Quel groupe fut emmené à Babylone, selon le texte ?",
+    "choices": [
+      "« ceux qui échappèrent à l’épée »",
+      "« seulement les sacrificateurs »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:20 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-208",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:20",
+    "verseText": "Voir 2 Chroniques 36:20.",
+    "question": "Quel rôle ces captifs eurent-ils en Babylonie ?",
+    "choices": [
+      "« ils furent asservis à lui et à ses fils »",
+      "« ils furent établis rois et chefs »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:20 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-209",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:21",
+    "verseText": "Voir 2 Chroniques 36:21.",
+    "question": "Pourquoi la terre se reposa-t-elle, et quel cadre prophétique est invoqué ?",
+    "choices": [
+      "« jusqu’à ce qu’elle eût joui de ses sabbats… pour accomplir soixante-dix ans »",
+      "« parce qu’il n’y eut plus de rois pendant dix ans »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:21 (LSG 1910)."
+  },
+  {
+    "id": "2CH-D-210",
+    "book": "2 Chroniques",
+    "chapter": 36,
+    "verseRef": "2 Chroniques 36:22",
+    "verseText": "Voir 2 Chroniques 36:22.",
+    "question": "Quelle motivation est donnée pour l’édit de Cyrus dans le texte ?",
+    "choices": [
+      "« afin que s’accomplît la parole de l’Éternel prononcée par la bouche de Jérémie »",
+      "« afin que s’accomplît la parole du roi d’Égypte »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Chroniques 36:22 (LSG 1910)."
+  }
+]

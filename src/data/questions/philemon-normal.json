@@ -1,0 +1,902 @@
+[
+  {
+    "id": "philemon-N-001",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:1",
+    "verseText": "Voir Philémon 1:1.",
+    "question": "Comment Paul se présente-t-il dans la salutation ?",
+    "choices": [
+      "Apôtre de Jésus-Christ par la volonté de Dieu",
+      "Prisonnier de Jésus-Christ",
+      "Serviteur de Jésus-Christ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:1 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-002",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:1",
+    "verseText": "Voir Philémon 1:1.",
+    "question": "Qui est mentionné avec Paul comme “le frère” dans la salutation ?",
+    "choices": [
+      "Tite",
+      "Timothée",
+      "Épaphras"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:1 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-003",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:1",
+    "verseText": "Voir Philémon 1:1.",
+    "question": "Comment Philémon est-il qualifié dans l’adresse ?",
+    "choices": [
+      "Notre frère et notre compagnon de captivité",
+      "Notre bien-aimé et notre compagnon d’œuvre",
+      "Notre apôtre et notre consolateur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:1 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-004",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:2",
+    "verseText": "Voir Philémon 1:2.",
+    "question": "À qui Paul écrit-il aussi, désignée comme “la sœur” ?",
+    "choices": [
+      "Apphia",
+      "Marie",
+      "Lydie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:2 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-005",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:2",
+    "verseText": "Voir Philémon 1:2.",
+    "question": "Comment Archippe est-il qualifié dans l’adresse ?",
+    "choices": [
+      "Notre compagnon de captivité",
+      "Notre compagnon de combat",
+      "Notre compagnon de voyage"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:2 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-006",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:2",
+    "verseText": "Voir Philémon 1:2.",
+    "question": "Où se trouve l’Église mentionnée dans l’adresse ?",
+    "choices": [
+      "Dans ta ville",
+      "Dans ta maison",
+      "Dans ton cœur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:2 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-007",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:3",
+    "verseText": "Voir Philémon 1:3.",
+    "question": "De qui la grâce et la paix sont-elles dites venir ?",
+    "choices": [
+      "De Dieu seul",
+      "De Dieu notre Père et du Seigneur Jésus-Christ",
+      "Des apôtres et des anciens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:3 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-008",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:4",
+    "verseText": "Voir Philémon 1:4.",
+    "question": "À quel moment Paul dit-il rendre grâces à Dieu ?",
+    "choices": [
+      "Une fois par semaine",
+      "Continuellement",
+      "À chaque fête"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:4 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-009",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:4",
+    "verseText": "Voir Philémon 1:4.",
+    "question": "Que fait Paul lorsqu’il rend grâces à Dieu au sujet de Philémon ?",
+    "choices": [
+      "Il jeûne pour lui",
+      "Il fait mention de lui dans ses prières",
+      "Il lui envoie des lettres quotidiennes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:4 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-010",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:5",
+    "verseText": "Voir Philémon 1:5.",
+    "question": "De quoi Paul dit-il être informé concernant Philémon ?",
+    "choices": [
+      "De ses dons financiers et de ses voyages",
+      "De la foi qu’il a au Seigneur Jésus et de sa charité pour tous les saints",
+      "De ses visions et de ses jeûnes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:5 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-011",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:5",
+    "verseText": "Voir Philémon 1:5.",
+    "question": "Vers qui la foi de Philémon est-elle dirigée selon Paul ?",
+    "choices": [
+      "Vers l’Église de Jérusalem",
+      "Vers le Seigneur Jésus",
+      "Vers les anges"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:5 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-012",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:5",
+    "verseText": "Voir Philémon 1:5.",
+    "question": "Pour qui la charité de Philémon est-elle mentionnée ?",
+    "choices": [
+      "Pour les étrangers seulement",
+      "Pour tous les saints",
+      "Pour les anciens uniquement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:5 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-013",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:6",
+    "verseText": "Voir Philémon 1:6.",
+    "question": "Que demande Paul au sujet de la participation à la foi de Philémon ?",
+    "choices": [
+      "Qu’elle soit cachée et discrète",
+      "Qu’elle soit efficace pour la cause de Christ",
+      "Qu’elle soit réservée à sa maison"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:6 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-014",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:6",
+    "verseText": "Voir Philémon 1:6.",
+    "question": "Dans quel but Paul demande-t-il cette efficacité ?",
+    "choices": [
+      "Pour faire reconnaître en nous toute espèce de bien",
+      "Pour obtenir des richesses",
+      "Pour éviter les persécutions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:6 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-015",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:6",
+    "verseText": "Voir Philémon 1:6.",
+    "question": "Quelle expression complète “en faisant reconnaître en nous…” ?",
+    "choices": [
+      "Toute espèce de bien",
+      "Toute puissance de la loi",
+      "Toute sagesse des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:6 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-016",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:7",
+    "verseText": "Voir Philémon 1:7.",
+    "question": "Quelle double expérience Paul dit-il avoir éprouvée au sujet de la charité de Philémon ?",
+    "choices": [
+      "Joie et consolation",
+      "Crainte et tremblement",
+      "Colère et tristesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:7 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-017",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:7",
+    "verseText": "Voir Philémon 1:7.",
+    "question": "Pourquoi Paul parle-t-il de joie et de consolation au sujet de la charité de Philémon ?",
+    "choices": [
+      "Parce que des offrandes lui ont été envoyées",
+      "Parce que le cœur des saints a été tranquillisé par Philémon",
+      "Parce que la prison lui a été ouverte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:7 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-018",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:7",
+    "verseText": "Voir Philémon 1:7.",
+    "question": "Comment Paul appelle-t-il Philémon au moment d’évoquer le cœur des saints ?",
+    "choices": [
+      "Père",
+      "Frère",
+      "Fils"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:7 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-019",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:8",
+    "verseText": "Voir Philémon 1:8.",
+    "question": "Quelle liberté Paul dit-il avoir “en Christ” ?",
+    "choices": [
+      "Toute liberté de te prescrire ce qui est convenable",
+      "Toute liberté de condamner sans appel",
+      "Toute liberté de quitter la prison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:8 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-020",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:9",
+    "verseText": "Voir Philémon 1:9.",
+    "question": "Au nom de quoi Paul dit-il adresser sa prière “de préférence” ?",
+    "choices": [
+      "Au nom de la vérité",
+      "Au nom de la charité",
+      "Au nom de la loi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:9 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-021",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:9",
+    "verseText": "Voir Philémon 1:9.",
+    "question": "Par quel qualificatif Paul se décrit-il dans la même phrase que “vieillard” ?",
+    "choices": [
+      "Docteur",
+      "Prisonnier de Jésus-Christ",
+      "Prophète"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:9 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-022",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:10",
+    "verseText": "Voir Philémon 1:10.",
+    "question": "Comment Paul désigne-t-il Onésime dans sa requête ?",
+    "choices": [
+      "Mon compagnon de combat",
+      "Mon enfant",
+      "Mon adversaire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:10 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-023",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:10",
+    "verseText": "Voir Philémon 1:10.",
+    "question": "Dans quelles circonstances Paul dit-il avoir engendré Onésime ?",
+    "choices": [
+      "Étant dans les chaînes",
+      "Étant en voyage",
+      "Étant au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:10 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-024",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:11",
+    "verseText": "Voir Philémon 1:11.",
+    "question": "Quelle opposition Paul établit-il sur l’utilité d’Onésime ?",
+    "choices": [
+      "Autrefois utile, maintenant inutile",
+      "Autrefois inutile, maintenant utile",
+      "Autrefois fidèle, maintenant infidèle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:11 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-025",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:11",
+    "verseText": "Voir Philémon 1:11.",
+    "question": "À qui Onésime est-il dit “utile” maintenant ?",
+    "choices": [
+      "À toi seulement",
+      "À moi seulement",
+      "Et à toi et à moi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Philémon 1:11 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-026",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:12",
+    "verseText": "Voir Philémon 1:12.",
+    "question": "Que fait Paul à propos d’Onésime ?",
+    "choices": [
+      "Il le garde en secret",
+      "Il le renvoie",
+      "Il le juge publiquement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:12 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-027",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:12",
+    "verseText": "Voir Philémon 1:12.",
+    "question": "Comment Paul qualifie-t-il Onésime au moment de le renvoyer ?",
+    "choices": [
+      "Mon bouclier",
+      "Mes propres entrailles",
+      "Mon accusateur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:12 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-028",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:13",
+    "verseText": "Voir Philémon 1:13.",
+    "question": "Quel désir Paul exprime-t-il concernant Onésime ?",
+    "choices": [
+      "L’envoyer au loin",
+      "Le retenir auprès de lui",
+      "Le vendre à un autre maître"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:13 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-029",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:13",
+    "verseText": "Voir Philémon 1:13.",
+    "question": "Pour quel service Paul aurait-il voulu retenir Onésime ?",
+    "choices": [
+      "Pour qu’il me servît à ta place",
+      "Pour qu’il instruisît l’Église de ta maison",
+      "Pour qu’il garde mes biens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:13 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-030",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:13",
+    "verseText": "Voir Philémon 1:13.",
+    "question": "Dans quel état Paul dit-il être lorsqu’il parle des chaînes ?",
+    "choices": [
+      "Dans les chaînes pour l’Évangile",
+      "Dans les chaînes pour la loi",
+      "Dans les chaînes pour un crime"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:13 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-031",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:14",
+    "verseText": "Voir Philémon 1:14.",
+    "question": "Sans quoi Paul dit-il n’avoir rien voulu faire ?",
+    "choices": [
+      "Sans ton avis",
+      "Sans l’avis de Timothée",
+      "Sans l’accord de l’Église de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:14 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-032",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:14",
+    "verseText": "Voir Philémon 1:14.",
+    "question": "Quel but Paul donne-t-il à ce refus d’agir sans avis ?",
+    "choices": [
+      "Que ton bienfait soit public",
+      "Que ton bienfait ne soit pas comme forcé, mais volontaire",
+      "Que ton bienfait soit récompensé par les hommes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:14 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-033",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:14",
+    "verseText": "Voir Philémon 1:14.",
+    "question": "Quelle alternative Paul oppose-t-il à “comme forcé” ?",
+    "choices": [
+      "Comme rapide",
+      "Comme volontaire",
+      "Comme secret"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:14 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-034",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:15",
+    "verseText": "Voir Philémon 1:15.",
+    "question": "Quelle hypothèse Paul formule-t-il au sujet d’Onésime ?",
+    "choices": [
+      "Peut-être a-t-il été séparé de toi pour un temps",
+      "Peut-être a-t-il été malade longtemps",
+      "Peut-être a-t-il été envoyé par l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:15 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-035",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:15",
+    "verseText": "Voir Philémon 1:15.",
+    "question": "Quel résultat Paul associe-t-il à cette séparation “pour un temps” ?",
+    "choices": [
+      "Afin que tu le condamnes sans retour",
+      "Afin que tu le recouvres pour l’éternité",
+      "Afin que tu l’oublies pour toujours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:15 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-036",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:16",
+    "verseText": "Voir Philémon 1:16.",
+    "question": "Comment Paul demande-t-il que Philémon considère Onésime “non plus” ?",
+    "choices": [
+      "Comme un ennemi",
+      "Comme un esclave",
+      "Comme un étranger"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:16 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-037",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:16",
+    "verseText": "Voir Philémon 1:16.",
+    "question": "Au-dessus de quel statut Paul place-t-il Onésime ?",
+    "choices": [
+      "Supérieur à un esclave",
+      "Inférieur à un esclave",
+      "Égal à un soldat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:16 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-038",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:16",
+    "verseText": "Voir Philémon 1:16.",
+    "question": "Par quel lien Paul demande-t-il de recevoir Onésime ?",
+    "choices": [
+      "Comme un juge",
+      "Comme un frère bien-aimé",
+      "Comme un marchand"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:16 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-039",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:16",
+    "verseText": "Voir Philémon 1:16.",
+    "question": "Pour qui Onésime est-il “particulièrement” un frère bien-aimé ?",
+    "choices": [
+      "De moi particulièrement",
+      "De toi particulièrement",
+      "De Marc particulièrement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:16 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-040",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:16",
+    "verseText": "Voir Philémon 1:16.",
+    "question": "Où Paul dit-il que ce lien vaut “à plus forte raison” pour Philémon ?",
+    "choices": [
+      "Soit dans la chair, soit dans le Seigneur",
+      "Soit dans la ville, soit au désert",
+      "Soit dans l’enfance, soit dans la vieillesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:16 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-041",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:17",
+    "verseText": "Voir Philémon 1:17.",
+    "question": "Quelle condition Paul pose-t-il avant de demander “reçois-le comme moi-même” ?",
+    "choices": [
+      "Si donc tu me tiens pour ton ami",
+      "Si donc tu me crains comme juge",
+      "Si donc tu me dois de l’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:17 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-042",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:17",
+    "verseText": "Voir Philémon 1:17.",
+    "question": "Comment Paul demande-t-il de recevoir Onésime ?",
+    "choices": [
+      "Comme un serviteur ordinaire",
+      "Comme moi-même",
+      "Comme un étranger de passage"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:17 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-043",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:18",
+    "verseText": "Voir Philémon 1:18.",
+    "question": "Que demande Paul de faire si Onésime a fait quelque tort ?",
+    "choices": [
+      "Le punir publiquement",
+      "Le livrer aux autorités",
+      "Mettre cela sur le compte de Paul"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Philémon 1:18 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-044",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:18",
+    "verseText": "Voir Philémon 1:18.",
+    "question": "Quelle autre éventualité Paul mentionne-t-il en plus du tort ?",
+    "choices": [
+      "S’il t’a béni",
+      "S’il te doit quelque chose",
+      "S’il t’a honoré"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:18 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-045",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:19",
+    "verseText": "Voir Philémon 1:19.",
+    "question": "Que dit Paul écrire “de sa propre main” ?",
+    "choices": [
+      "Une condamnation",
+      "Je paierai",
+      "Une prophétie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:19 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-046",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:19",
+    "verseText": "Voir Philémon 1:19.",
+    "question": "Quelle formule Paul utilise-t-il avant “je l’écris de ma propre main” ?",
+    "choices": [
+      "Moi Paul",
+      "Moi Timothée",
+      "Moi Onésime"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:19 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-047",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:19",
+    "verseText": "Voir Philémon 1:19.",
+    "question": "Quel argument Paul ajoute-t-il “pour ne pas te dire” ?",
+    "choices": [
+      "Que tu me dois une visite",
+      "Que tu te dois toi-même à moi",
+      "Que tu as été séparé pour un temps"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:19 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-048",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:20",
+    "verseText": "Voir Philémon 1:20.",
+    "question": "Quel terme Paul emploie-t-il pour introduire sa demande d’avantage ?",
+    "choices": [
+      "Oui, frère",
+      "Or, frère",
+      "Hélas, frère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:20 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-049",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:20",
+    "verseText": "Voir Philémon 1:20.",
+    "question": "Dans quel cadre Paul veut-il obtenir cet avantage ?",
+    "choices": [
+      "Dans la loi",
+      "Dans le Seigneur",
+      "Dans la sagesse des hommes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:20 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-050",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:20",
+    "verseText": "Voir Philémon 1:20.",
+    "question": "Quelle demande Paul formule-t-il ensuite à propos de son cœur ?",
+    "choices": [
+      "Remplis mon cœur de crainte",
+      "Tranquillise mon cœur en Christ",
+      "Endurcis mon cœur pour le combat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:20 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-051",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:21",
+    "verseText": "Voir Philémon 1:21.",
+    "question": "Sur quoi Paul dit-il compter en écrivant ?",
+    "choices": [
+      "Sur ton obéissance",
+      "Sur ta richesse",
+      "Sur tes voyages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:21 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-052",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:21",
+    "verseText": "Voir Philémon 1:21.",
+    "question": "Que dit Paul savoir au sujet de ce que fera Philémon ?",
+    "choices": [
+      "Qu’il fera moins que ce qui est dit",
+      "Qu’il fera même au delà de ce que Paul dit",
+      "Qu’il ne fera rien"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:21 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-053",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:22",
+    "verseText": "Voir Philémon 1:22.",
+    "question": "Que demande Paul de préparer en même temps ?",
+    "choices": [
+      "Un repas",
+      "Un logement",
+      "Une lettre officielle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:22 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-054",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:22",
+    "verseText": "Voir Philémon 1:22.",
+    "question": "Quelle espérance Paul exprime-t-il concernant son retour ?",
+    "choices": [
+      "Espérer vous être rendu, grâce à vos prières",
+      "Espérer vous oublier, grâce au temps",
+      "Espérer vous dominer, grâce à la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:22 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-055",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:23",
+    "verseText": "Voir Philémon 1:23.",
+    "question": "Quel nom est donné comme “compagnon de captivité” ?",
+    "choices": [
+      "Marc",
+      "Épaphras",
+      "Luc"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:23 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-056",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:23",
+    "verseText": "Voir Philémon 1:23.",
+    "question": "En qui Épaphras est-il dit compagnon de captivité ?",
+    "choices": [
+      "En Moïse",
+      "En Jésus-Christ",
+      "En David"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:23 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-057",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:24",
+    "verseText": "Voir Philémon 1:24.",
+    "question": "Qui est mentionné en tête de ceux qui saluent Philémon après Épaphras ?",
+    "choices": [
+      "Marc",
+      "Aristarque",
+      "Démas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:24 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-058",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:24",
+    "verseText": "Voir Philémon 1:24.",
+    "question": "Quel groupe Paul attribue-t-il à Marc, Aristarque, Démas et Luc ?",
+    "choices": [
+      "Mes compagnons d’œuvre",
+      "Mes compagnons de captivité",
+      "Mes compagnons de route"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:24 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-059",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:25",
+    "verseText": "Voir Philémon 1:25.",
+    "question": "Quelle bénédiction finale Paul prononce-t-il ?",
+    "choices": [
+      "Que la foi soit avec votre esprit",
+      "Que la grâce de notre Seigneur Jésus-Christ soit avec votre esprit",
+      "Que la loi soit avec votre esprit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Philémon 1:25 (LSG 1910)."
+  },
+  {
+    "id": "philemon-N-060",
+    "book": "Philémon",
+    "chapter": 1,
+    "verseRef": "Philémon 1:25",
+    "verseText": "Voir Philémon 1:25.",
+    "question": "Avec quoi la grâce est-elle dite être dans la conclusion ?",
+    "choices": [
+      "Avec votre esprit",
+      "Avec votre maison",
+      "Avec vos biens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Philémon 1:25 (LSG 1910)."
+  }
+]

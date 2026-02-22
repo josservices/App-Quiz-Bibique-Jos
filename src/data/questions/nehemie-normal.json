@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "NEH-N-001",
+    "book": "Néhémie",
+    "chapter": 1,
+    "verseRef": "Néhémie 1:1",
+    "verseText": "Voir Néhémie 1:1.",
+    "question": "Dans quelle ville Néhémie se trouvait-il au mois de Kisleu, la vingtième année ?",
+    "choices": [
+      "Jérusalem",
+      "Suse, dans la capitale",
+      "Samarie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 1:1 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-002",
+    "book": "Néhémie",
+    "chapter": 1,
+    "verseRef": "Néhémie 1:2",
+    "verseText": "Voir Néhémie 1:2.",
+    "question": "Qui arriva de Juda et informa Néhémie au sujet des réchappés ?",
+    "choices": [
+      "Hanani, l’un de ses frères",
+      "Esdras, le scribe",
+      "Zorobabel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 1:2 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-003",
+    "book": "Néhémie",
+    "chapter": 1,
+    "verseRef": "Néhémie 1:3",
+    "verseText": "Voir Néhémie 1:3.",
+    "question": "Quel état était décrit pour Jérusalem au moment du récit de Hanani ?",
+    "choices": [
+      "Les murailles étaient restaurées et les portes gardées",
+      "Les murailles étaient en ruines et les portes consumées par le feu",
+      "Le temple était détruit et la ville désertée"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 1:3 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-004",
+    "book": "Néhémie",
+    "chapter": 2,
+    "verseRef": "Néhémie 2:1",
+    "verseText": "Voir Néhémie 2:1.",
+    "question": "À quel mois commence l’épisode où Néhémie présente le vin au roi ?",
+    "choices": [
+      "Kisleu",
+      "Nisan",
+      "Élul"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 2:1 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-005",
+    "book": "Néhémie",
+    "chapter": 2,
+    "verseRef": "Néhémie 2:1",
+    "verseText": "Voir Néhémie 2:1.",
+    "question": "Quel roi est nommé dans le récit du mois de Nisan ?",
+    "choices": [
+      "Cyrus",
+      "Darius",
+      "Artaxerxès"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Néhémie 2:1 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-006",
+    "book": "Néhémie",
+    "chapter": 2,
+    "verseRef": "Néhémie 2:4",
+    "verseText": "Voir Néhémie 2:4.",
+    "question": "Que répond Néhémie quand le roi lui demande ce qu’il veut ?",
+    "choices": [
+      "Il consulta les devins du royaume",
+      "Il pria le Dieu des cieux",
+      "Il demanda conseil aux chefs de Juda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 2:4 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-007",
+    "book": "Néhémie",
+    "chapter": 2,
+    "verseRef": "Néhémie 2:5",
+    "verseText": "Voir Néhémie 2:5.",
+    "question": "Quelle ville Néhémie demande-t-il à rebâtir ?",
+    "choices": [
+      "La ville où sont les sépulcres de ses pères",
+      "La citadelle de Samarie",
+      "La ville de Ninive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 2:5 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-008",
+    "book": "Néhémie",
+    "chapter": 2,
+    "verseRef": "Néhémie 2:8",
+    "verseText": "Voir Néhémie 2:8.",
+    "question": "À qui Néhémie demande-t-il une lettre pour fournir du bois de charpente ?",
+    "choices": [
+      "À Hanani",
+      "À Asaph, garde forestier du roi",
+      "À Schérébia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 2:8 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-009",
+    "book": "Néhémie",
+    "chapter": 2,
+    "verseRef": "Néhémie 2:9",
+    "verseText": "Voir Néhémie 2:9.",
+    "question": "De quoi le roi fait-il accompagner Néhémie lors de son départ ?",
+    "choices": [
+      "Des chantres et des Lévites",
+      "Des chefs de l’armée et des cavaliers",
+      "Des prophètes et des sacrificateurs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 2:9 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-010",
+    "book": "Néhémie",
+    "chapter": 2,
+    "verseRef": "Néhémie 2:13",
+    "verseText": "Voir Néhémie 2:13.",
+    "question": "Par quelle porte Néhémie sort-il de nuit lors de son inspection ?",
+    "choices": [
+      "La porte des eaux",
+      "La porte de la vallée",
+      "La porte des brebis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 2:13 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-011",
+    "book": "Néhémie",
+    "chapter": 2,
+    "verseRef": "Néhémie 2:13",
+    "verseText": "Voir Néhémie 2:13.",
+    "question": "Vers quelle source Néhémie se dirige-t-il pendant cette inspection nocturne ?",
+    "choices": [
+      "La source du dragon",
+      "La source de Beer-Schéba",
+      "La source de Gabaon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 2:13 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-012",
+    "book": "Néhémie",
+    "chapter": 2,
+    "verseRef": "Néhémie 2:13",
+    "verseText": "Voir Néhémie 2:13.",
+    "question": "Après la porte de la vallée, quel autre accès Néhémie mentionne-t-il cette nuit-là ?",
+    "choices": [
+      "La porte d’Éphraïm",
+      "La porte du fumier",
+      "La porte des poissons"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 2:13 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-013",
+    "book": "Néhémie",
+    "chapter": 2,
+    "verseRef": "Néhémie 2:14",
+    "verseText": "Voir Néhémie 2:14.",
+    "question": "Qu’est-ce qui empêcha la bête de Néhémie d’avancer à un moment donné ?",
+    "choices": [
+      "Une armée ennemie l’encerclait",
+      "Il n’y avait point de place par où elle pût passer",
+      "Le pont était rompu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 2:14 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-014",
+    "book": "Néhémie",
+    "chapter": 2,
+    "verseRef": "Néhémie 2:20",
+    "verseText": "Voir Néhémie 2:20.",
+    "question": "Quel message Néhémie adresse-t-il aux opposants : « Le Dieu des cieux… » ?",
+    "choices": [
+      "« …vous donnera le succès »",
+      "« …vous fera périr par l’épée »",
+      "« …vous chassera loin du pays »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 2:20 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-015",
+    "book": "Néhémie",
+    "chapter": 2,
+    "verseRef": "Néhémie 2:20",
+    "verseText": "Voir Néhémie 2:20.",
+    "question": "Que dit Néhémie aux ennemis au sujet de leur statut à Jérusalem ?",
+    "choices": [
+      "Ils auront une maison et un héritage",
+      "Ils n’ont ni part, ni droit, ni souvenir dans Jérusalem",
+      "Ils seront gardiens des portes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 2:20 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-016",
+    "book": "Néhémie",
+    "chapter": 3,
+    "verseRef": "Néhémie 3:1",
+    "verseText": "Voir Néhémie 3:1.",
+    "question": "Qui bâtit la porte des brebis au début de la liste des travaux ?",
+    "choices": [
+      "Éliaschib, le souverain sacrificateur, avec ses frères",
+      "Malkija, fils de Récab",
+      "Hanun, le sixième fils de Tsalaph"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-017",
+    "book": "Néhémie",
+    "chapter": 3,
+    "verseRef": "Néhémie 3:1",
+    "verseText": "Voir Néhémie 3:1.",
+    "question": "Entre quelles deux tours la porte des brebis est-elle consacrée ?",
+    "choices": [
+      "Entre la tour de Méa et la tour de Hananeel",
+      "Entre la tour des fours et la tour du roi",
+      "Entre la tour du dragon et la tour de Siloé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 3:1 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-018",
+    "book": "Néhémie",
+    "chapter": 3,
+    "verseRef": "Néhémie 3:3",
+    "verseText": "Voir Néhémie 3:3.",
+    "question": "Qui bâtit la porte des poissons ?",
+    "choices": [
+      "Les fils de Senaa",
+      "Les hommes de Jéricho",
+      "Les Néthiniens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 3:3 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-019",
+    "book": "Néhémie",
+    "chapter": 3,
+    "verseRef": "Néhémie 3:3",
+    "verseText": "Voir Néhémie 3:3.",
+    "question": "Que posèrent-ils sur la porte des poissons, en plus des battants ?",
+    "choices": [
+      "Les anneaux et les chaînes",
+      "Les verrous et les barres",
+      "Les cloches et les étendards"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 3:3 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-020",
+    "book": "Néhémie",
+    "chapter": 3,
+    "verseRef": "Néhémie 3:13",
+    "verseText": "Voir Néhémie 3:13.",
+    "question": "Qui réparèrent la porte de la vallée ?",
+    "choices": [
+      "Hanun et les habitants de Zanoach",
+      "Schallum et les portiers",
+      "Esdras et les chantres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 3:13 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-021",
+    "book": "Néhémie",
+    "chapter": 3,
+    "verseRef": "Néhémie 3:13",
+    "verseText": "Voir Néhémie 3:13.",
+    "question": "Quelle distance de mur fut ajoutée jusqu’à la porte du fumier ?",
+    "choices": [
+      "Mille coudées",
+      "Cent coudées",
+      "Dix mille coudées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 3:13 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-022",
+    "book": "Néhémie",
+    "chapter": 3,
+    "verseRef": "Néhémie 3:14",
+    "verseText": "Voir Néhémie 3:14.",
+    "question": "Qui répara la porte du fumier ?",
+    "choices": [
+      "Malkija, fils de Récab",
+      "Merémoth, fils d’Urie",
+      "Tsadok, fils de Baana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 3:14 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-023",
+    "book": "Néhémie",
+    "chapter": 3,
+    "verseRef": "Néhémie 3:15",
+    "verseText": "Voir Néhémie 3:15.",
+    "question": "Qui répara la porte de la source ?",
+    "choices": [
+      "Schallum, fils de Col Hozé",
+      "Hanania, fils de Schélémia",
+      "Rehum, fils de Bani"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 3:15 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-024",
+    "book": "Néhémie",
+    "chapter": 4,
+    "verseRef": "Néhémie 4:6",
+    "verseText": "Voir Néhémie 4:6.",
+    "question": "Dans quel état la muraille fut-elle rebâtie dans l’avancement des travaux ?",
+    "choices": [
+      "Jusqu’aux fondements seulement",
+      "Jusqu’à la moitié de sa hauteur",
+      "Jusqu’aux tours entièrement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 4:6 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-025",
+    "book": "Néhémie",
+    "chapter": 4,
+    "verseRef": "Néhémie 4:6",
+    "verseText": "Voir Néhémie 4:6.",
+    "question": "Quelle attitude du peuple est mentionnée pendant ces travaux ?",
+    "choices": [
+      "Le peuple prit à cœur ce travail",
+      "Le peuple se dispersa dans les champs",
+      "Le peuple refusa d’obéir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 4:6 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-026",
+    "book": "Néhémie",
+    "chapter": 4,
+    "verseRef": "Néhémie 4:7",
+    "verseText": "Voir Néhémie 4:7.",
+    "question": "Quels groupes furent très irrités en voyant la réparation avancer ?",
+    "choices": [
+      "Les Babyloniens, les Perses et les Mèdes",
+      "Sanballat, Tobija, les Arabes, les Ammonites et les Asdodiens",
+      "Les Philistins, les Édomites et les Syriens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 4:7 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-027",
+    "book": "Néhémie",
+    "chapter": 4,
+    "verseRef": "Néhémie 4:8",
+    "verseText": "Voir Néhémie 4:8.",
+    "question": "Que firent-ils tous ensemble contre Jérusalem ?",
+    "choices": [
+      "Ils se liguèrent pour venir attaquer Jérusalem",
+      "Ils envoyèrent des dons au temple",
+      "Ils demandèrent une alliance par écrit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 4:8 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-028",
+    "book": "Néhémie",
+    "chapter": 4,
+    "verseRef": "Néhémie 4:9",
+    "verseText": "Voir Néhémie 4:9.",
+    "question": "Quelle double action Néhémie mentionne-t-il face à la menace ?",
+    "choices": [
+      "Jeûnèrent et offrirent des sacrifices",
+      "Prièrent et établirent une garde jour et nuit",
+      "Consultèrent des prophètes et fermèrent le temple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 4:9 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-029",
+    "book": "Néhémie",
+    "chapter": 4,
+    "verseRef": "Néhémie 4:12",
+    "verseText": "Voir Néhémie 4:12.",
+    "question": "Combien de fois des Juifs vinrent-ils avertir Néhémie ?",
+    "choices": [
+      "Trois fois",
+      "Dix fois",
+      "Quarante fois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 4:12 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-030",
+    "book": "Néhémie",
+    "chapter": 4,
+    "verseRef": "Néhémie 4:14",
+    "verseText": "Voir Néhémie 4:14.",
+    "question": "Quelle exhortation Néhémie adresse-t-il : « Souvenez-vous du Seigneur… » ?",
+    "choices": [
+      "« …et cachez-vous dans les maisons »",
+      "« …grand et redoutable, et combattez pour vos frères… »",
+      "« …et fuyez vers le désert »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 4:14 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-031",
+    "book": "Néhémie",
+    "chapter": 4,
+    "verseRef": "Néhémie 4:20",
+    "verseText": "Voir Néhémie 4:20.",
+    "question": "Que devait-on faire « au son de la trompette » ?",
+    "choices": [
+      "Se disperser pour tromper l’ennemi",
+      "Se rassembler auprès de Néhémie, vers le lieu où on l’entendrait",
+      "Aller au temple pour offrir l’encens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 4:20 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-032",
+    "book": "Néhémie",
+    "chapter": 4,
+    "verseRef": "Néhémie 4:20",
+    "verseText": "Voir Néhémie 4:20.",
+    "question": "Que déclare Néhémie après l’ordre de rassemblement ?",
+    "choices": [
+      "« Notre Dieu combattra pour nous »",
+      "« Le roi combattra pour nous »",
+      "« Les nations seront nos alliées »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 4:20 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-033",
+    "book": "Néhémie",
+    "chapter": 4,
+    "verseRef": "Néhémie 4:17",
+    "verseText": "Voir Néhémie 4:17.",
+    "question": "Comment travaillaient ceux qui bâtissaient la muraille ?",
+    "choices": [
+      "D’une main ils travaillaient, de l’autre ils tenaient une arme",
+      "Ils travaillaient seulement de nuit",
+      "Ils travaillaient sans outils"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 4:17 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-034",
+    "book": "Néhémie",
+    "chapter": 5,
+    "verseRef": "Néhémie 5:7",
+    "verseText": "Voir Néhémie 5:7.",
+    "question": "Quelle accusation Néhémie fait-il aux grands : « Quoi! vous… » ?",
+    "choices": [
+      "« …doutez de la loi »",
+      "« …prêtez à intérêt à vos frères! »",
+      "« …refusez les sacrifices »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 5:7 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-035",
+    "book": "Néhémie",
+    "chapter": 5,
+    "verseRef": "Néhémie 5:11",
+    "verseText": "Voir Néhémie 5:11.",
+    "question": "Que demande Néhémie de rendre « aujourd’hui » ?",
+    "choices": [
+      "Le centième de l’argent, du blé, du moût et de l’huile comme intérêt",
+      "Les dîmes seulement",
+      "Les armes et les boucliers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 5:11 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-036",
+    "book": "Néhémie",
+    "chapter": 5,
+    "verseRef": "Néhémie 5:13",
+    "verseText": "Voir Néhémie 5:13.",
+    "question": "Que font-ils après la parole de Néhémie : « Toute l’assemblée dit… » ?",
+    "choices": [
+      "« Gloire au roi! »",
+      "« Amen! » et on célébra l’Éternel",
+      "« Malheur à nous! » et on pleura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 5:13 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-037",
+    "book": "Néhémie",
+    "chapter": 5,
+    "verseRef": "Néhémie 5:14",
+    "verseText": "Voir Néhémie 5:14.",
+    "question": "Pendant combien d’années Néhémie fut-il gouverneur (selon le passage) ?",
+    "choices": [
+      "Douze ans",
+      "Sept ans",
+      "Vingt ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 5:14 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-038",
+    "book": "Néhémie",
+    "chapter": 5,
+    "verseRef": "Néhémie 5:17",
+    "verseText": "Voir Néhémie 5:17.",
+    "question": "Combien d’hommes Néhémie dit-il avoir à sa table (sans compter d’autres) ?",
+    "choices": [
+      "Cent cinquante",
+      "Cinquante-deux",
+      "Quarante-deux mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 5:17 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-039",
+    "book": "Néhémie",
+    "chapter": 6,
+    "verseRef": "Néhémie 6:2",
+    "verseText": "Voir Néhémie 6:2.",
+    "question": "Quelle demande Sanballat et Guéschem envoient-ils ?",
+    "choices": [
+      "« Viens, et ayons ensemble une entrevue… »",
+      "« Envoie-nous des sacrificateurs… »",
+      "« Cesse de bâtir, et pars en exil… »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 6:2 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-040",
+    "book": "Néhémie",
+    "chapter": 6,
+    "verseRef": "Néhémie 6:2",
+    "verseText": "Voir Néhémie 6:2.",
+    "question": "Dans quelle vallée l’entrevue est-elle proposée ?",
+    "choices": [
+      "La vallée d’Acor",
+      "La vallée d’Ono",
+      "La vallée de Josaphat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 6:2 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-041",
+    "book": "Néhémie",
+    "chapter": 6,
+    "verseRef": "Néhémie 6:3",
+    "verseText": "Voir Néhémie 6:3.",
+    "question": "Quelle réponse Néhémie renvoie-t-il ?",
+    "choices": [
+      "« Je suis malade et je ne puis venir »",
+      "« J’ai un grand ouvrage à exécuter, et je ne puis descendre »",
+      "« Je viendrai après la fête »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 6:3 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-042",
+    "book": "Néhémie",
+    "chapter": 6,
+    "verseRef": "Néhémie 6:4",
+    "verseText": "Voir Néhémie 6:4.",
+    "question": "Combien de fois cette demande lui fut-elle adressée ?",
+    "choices": [
+      "Deux fois",
+      "Quatre fois",
+      "Douze fois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 6:4 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-043",
+    "book": "Néhémie",
+    "chapter": 6,
+    "verseRef": "Néhémie 6:5",
+    "verseText": "Voir Néhémie 6:5.",
+    "question": "Quelle forme de lettre Sanballat envoie-t-il la cinquième fois ?",
+    "choices": [
+      "Une lettre scellée",
+      "Une lettre ouverte",
+      "Une lettre écrite sur pierre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 6:5 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-044",
+    "book": "Néhémie",
+    "chapter": 6,
+    "verseRef": "Néhémie 6:6",
+    "verseText": "Voir Néhémie 6:6.",
+    "question": "Quel nom est cité comme affirmant la rumeur : « …affirme que… » ?",
+    "choices": [
+      "Gaschmu",
+      "Hanani",
+      "Asaph"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 6:6 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-045",
+    "book": "Néhémie",
+    "chapter": 6,
+    "verseRef": "Néhémie 6:6",
+    "verseText": "Voir Néhémie 6:6.",
+    "question": "Quelle rumeur est écrite dans la lettre ouverte ?",
+    "choices": [
+      "Que Néhémie veut devenir leur roi",
+      "Que Néhémie veut quitter Juda",
+      "Que Néhémie veut détruire le temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 6:6 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-046",
+    "book": "Néhémie",
+    "chapter": 6,
+    "verseRef": "Néhémie 6:8",
+    "verseText": "Voir Néhémie 6:8.",
+    "question": "Que répond Néhémie à Sanballat au sujet de ces paroles ?",
+    "choices": [
+      "« Tu dis vrai, je l’avoue »",
+      "« Ce que tu dis là n’est pas; c’est toi qui l’inventes! »",
+      "« Attendons le jugement des prêtres »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 6:8 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-047",
+    "book": "Néhémie",
+    "chapter": 6,
+    "verseRef": "Néhémie 6:15",
+    "verseText": "Voir Néhémie 6:15.",
+    "question": "Quel jour la muraille fut-elle achevée ?",
+    "choices": [
+      "Le vingt-cinquième jour du mois d’Élul",
+      "Le premier jour du mois de Nisan",
+      "Le dixième jour du mois de Kisleu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 6:15 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-048",
+    "book": "Néhémie",
+    "chapter": 6,
+    "verseRef": "Néhémie 6:15",
+    "verseText": "Voir Néhémie 6:15.",
+    "question": "En combien de jours la muraille fut-elle achevée ?",
+    "choices": [
+      "Trente jours",
+      "Cinquante-deux jours",
+      "Soixante-dix jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 6:15 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-049",
+    "book": "Néhémie",
+    "chapter": 7,
+    "verseRef": "Néhémie 7:1",
+    "verseText": "Voir Néhémie 7:1.",
+    "question": "Après la muraille rebâtie et les battants posés, quels officiants furent établis dans leurs fonctions ?",
+    "choices": [
+      "Les portiers, les chantres et les Lévites",
+      "Les prophètes, les juges et les rois",
+      "Les orfèvres, les parfumeurs et les marchands"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 7:1 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-050",
+    "book": "Néhémie",
+    "chapter": 7,
+    "verseRef": "Néhémie 7:2",
+    "verseText": "Voir Néhémie 7:2.",
+    "question": "À qui Néhémie donne-t-il des ordres pour Jérusalem ?",
+    "choices": [
+      "À Hanani et à Hanania, chef de la citadelle",
+      "À Sanballat et à Tobija",
+      "À Asaph et à Gaschmu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 7:2 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-051",
+    "book": "Néhémie",
+    "chapter": 7,
+    "verseRef": "Néhémie 7:2",
+    "verseText": "Voir Néhémie 7:2.",
+    "question": "Quel trait est attribué à Hanania, chef de la citadelle ?",
+    "choices": [
+      "Sa richesse et sa force",
+      "Sa fidélité et sa crainte de Dieu",
+      "Son éloquence et sa science"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 7:2 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-052",
+    "book": "Néhémie",
+    "chapter": 7,
+    "verseRef": "Néhémie 7:66",
+    "verseText": "Voir Néhémie 7:66.",
+    "question": "Quel était le total de l’assemblée tout entière ?",
+    "choices": [
+      "Quarante-deux mille trois cent soixante",
+      "Quarante-deux mille cent vingt-huit",
+      "Quarante-deux mille sept cent vingt et un"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 7:66 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-053",
+    "book": "Néhémie",
+    "chapter": 7,
+    "verseRef": "Néhémie 7:67",
+    "verseText": "Voir Néhémie 7:67.",
+    "question": "Combien y avait-il de chantres et chanteuses parmi eux ?",
+    "choices": [
+      "Cent quarante-huit",
+      "Deux cent quarante-cinq",
+      "Trois cent quatre-vingt-douze"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 7:67 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-054",
+    "book": "Néhémie",
+    "chapter": 7,
+    "verseRef": "Néhémie 7:69",
+    "verseText": "Voir Néhémie 7:69.",
+    "question": "Quel animal est listé au nombre de « quatre cent trente-cinq » ?",
+    "choices": [
+      "Des chameaux",
+      "Des chevaux",
+      "Des ânes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 7:69 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-055",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:4",
+    "verseText": "Voir Néhémie 8:4.",
+    "question": "Sur quoi Esdras, le scribe, était-il placé pour la lecture ?",
+    "choices": [
+      "Une chaire de pierre",
+      "Une estrade de bois, dressée à cette occasion",
+      "Une porte de la ville"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 8:4 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-056",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:5",
+    "verseText": "Voir Néhémie 8:5.",
+    "question": "Que fait tout le peuple lorsque Esdras ouvre le livre ?",
+    "choices": [
+      "Il s’assoit en silence",
+      "Il se tient en place",
+      "Il sort de la ville"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 8:5 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-057",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:6",
+    "verseText": "Voir Néhémie 8:6.",
+    "question": "Quelle réponse le peuple donne-t-il, en levant les mains ?",
+    "choices": [
+      "« Gloire! gloire! »",
+      "« Amen! amen! »",
+      "« Paix! paix! »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 8:6 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-058",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:7",
+    "verseText": "Voir Néhémie 8:7.",
+    "question": "Que faisaient les Lévites avec la loi, selon le texte ?",
+    "choices": [
+      "Ils la cachaient pour la protéger",
+      "Ils expliquaient la loi au peuple",
+      "Ils la brûlaient par crainte des ennemis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 8:7 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-059",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:10",
+    "verseText": "Voir Néhémie 8:10.",
+    "question": "Quel ordre est donné : « Allez, mangez… et buvez… » ?",
+    "choices": [
+      "Des pains sans levain et de l’eau",
+      "Des viandes grasses et des liqueurs douces",
+      "Du sel et des herbes amères"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 8:10 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-060",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:10",
+    "verseText": "Voir Néhémie 8:10.",
+    "question": "Quelle phrase conclut l’exhortation : « …car la joie de… » ?",
+    "choices": [
+      "« …du roi sera votre force »",
+      "« …l’Éternel sera votre force »",
+      "« …la ville sera votre force »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 8:10 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-061",
+    "book": "Néhémie",
+    "chapter": 7,
+    "verseRef": "Néhémie 7:3",
+    "verseText": "Voir Néhémie 7:3.",
+    "question": "Quel ordre Néhémie donne-t-il concernant l’ouverture des portes de Jérusalem ?",
+    "choices": [
+      "Qu’elles s’ouvrent dès l’aurore",
+      "Qu’on n’ouvre pas les portes avant que la chaleur du soleil soit venue",
+      "Qu’on ne les ouvre qu’au coucher du soleil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 7:3 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-062",
+    "book": "Néhémie",
+    "chapter": 7,
+    "verseRef": "Néhémie 7:3",
+    "verseText": "Voir Néhémie 7:3.",
+    "question": "Que devait-on faire des battants des portes après l’ouverture, selon l’ordre de Néhémie ?",
+    "choices": [
+      "Les laisser ouverts pour le commerce",
+      "Les fermer et les verrouiller",
+      "Les retirer et les déposer au temple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 7:3 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-063",
+    "book": "Néhémie",
+    "chapter": 7,
+    "verseRef": "Néhémie 7:4",
+    "verseText": "Voir Néhémie 7:4.",
+    "question": "Quel constat est fait sur Jérusalem juste avant la généalogie en Néhémie 7 ?",
+    "choices": [
+      "La ville était petite et le peuple nombreux",
+      "La ville était spacieuse et grande, mais le peuple peu nombreux",
+      "La ville était désertée et sans murailles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 7:4 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-064",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:1",
+    "verseText": "Voir Néhémie 8:1.",
+    "question": "Au premier jour du septième mois, où tout le peuple se rassemble-t-il ?",
+    "choices": [
+      "Sur la place qui est devant la porte des eaux",
+      "Sur la place devant la porte des poissons",
+      "Sur la place du palais du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 8:1 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-065",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:1",
+    "verseText": "Voir Néhémie 8:1.",
+    "question": "Quel livre demande-t-on d’apporter à Esdras ?",
+    "choices": [
+      "Le livre des prophètes",
+      "Le livre de la loi de Moïse",
+      "Le livre des chroniques des rois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 8:1 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-066",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:3",
+    "verseText": "Voir Néhémie 8:3.",
+    "question": "À quel moment de la journée Esdras lit-il la loi devant l’assemblée ?",
+    "choices": [
+      "Depuis midi jusqu’au soir",
+      "Depuis le matin jusqu’au milieu du jour",
+      "Depuis la nuit jusqu’à l’aube"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 8:3 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-067",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:14",
+    "verseText": "Voir Néhémie 8:14.",
+    "question": "Quel est le nom de la fête que l’on redécouvre en lisant la loi au septième mois ?",
+    "choices": [
+      "La fête des trompettes",
+      "La fête des tabernacles",
+      "La fête de la Pâque"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 8:14 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-068",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:15",
+    "verseText": "Voir Néhémie 8:15.",
+    "question": "Qu’ordonne-t-on de publier « dans toutes leurs villes et dans Jérusalem » ?",
+    "choices": [
+      "D’offrir des holocaustes chaque soir",
+      "D’aller à la montagne et d’apporter des rameaux pour faire des tentes",
+      "De fermer les portes et de jeûner sept jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 8:15 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-069",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:15",
+    "verseText": "Voir Néhémie 8:15.",
+    "question": "Quels rameaux sont mentionnés pour construire les tentes ?",
+    "choices": [
+      "Des rameaux d’olivier, d’olivier sauvage, de myrte, de palmiers et d’arbres touffus",
+      "Des rameaux de cèdre, de cyprès et de vigne",
+      "Des rameaux de figuier, de grenadier et de chêne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 8:15 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-070",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:16",
+    "verseText": "Voir Néhémie 8:16.",
+    "question": "Où le peuple établit-il des tentes, en plus des toits et des cours ?",
+    "choices": [
+      "Dans le parvis intérieur du temple seulement",
+      "Sur la place de la porte des eaux et sur la place de la porte d’Éphraïm",
+      "Dans la vallée d’Ono et sur la place du roi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 8:16 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-071",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:18",
+    "verseText": "Voir Néhémie 8:18.",
+    "question": "Pendant combien de jours lit-on le livre de la loi durant cette fête ?",
+    "choices": [
+      "Un seul jour",
+      "Sept jours",
+      "Quarante jours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 8:18 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-072",
+    "book": "Néhémie",
+    "chapter": 8,
+    "verseRef": "Néhémie 8:18",
+    "verseText": "Voir Néhémie 8:18.",
+    "question": "Quel jour a lieu « une assemblée solennelle » selon l’ordonnance ?",
+    "choices": [
+      "Le premier jour",
+      "Le huitième jour",
+      "Le dixième jour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 8:18 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-073",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:1",
+    "verseText": "Voir Néhémie 9:1.",
+    "question": "Comment les enfants d’Israël se présentent-ils au vingt-quatrième jour, selon Néhémie 9:1 ?",
+    "choices": [
+      "En vêtements blancs et couronnes",
+      "En jeûnant et revêtus de sacs, la terre sur eux",
+      "En armes et en rangs militaires"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:1 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-074",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:2",
+    "verseText": "Voir Néhémie 9:2.",
+    "question": "Que font-ils d’abord, avant la confession, ce jour-là ?",
+    "choices": [
+      "Ils offrent des sacrifices de paix",
+      "Ils se séparent de tous les étrangers",
+      "Ils quittent Jérusalem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:2 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-075",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:3",
+    "verseText": "Voir Néhémie 9:3.",
+    "question": "Quelle part du jour est consacrée à la confession et à l’adoration ?",
+    "choices": [
+      "Un quart de la journée",
+      "Une demi-journée",
+      "Un septième de la journée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 9:3 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-076",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:4",
+    "verseText": "Voir Néhémie 9:4.",
+    "question": "Sur quoi les Lévites se tiennent-ils lors de l’assemblée de Néhémie 9:4 ?",
+    "choices": [
+      "Sur l’estrade des sacrificateurs",
+      "Sur l’estrade des Lévites",
+      "Sur la muraille de la ville"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:4 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-077",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:5",
+    "verseText": "Voir Néhémie 9:5.",
+    "question": "Quel appel est lancé : « Levez-vous, bénissez… » ?",
+    "choices": [
+      "« …l’Éternel, votre Dieu, d’éternité en éternité! »",
+      "« …le roi, votre maître, pour toujours! »",
+      "« …la ville sainte, jour et nuit! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 9:5 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-078",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:7",
+    "verseText": "Voir Néhémie 9:7.",
+    "question": "Quel nom Dieu donne-t-il à Abram selon la prière historique ?",
+    "choices": [
+      "Abraham",
+      "Israël",
+      "Isaac"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 9:7 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-079",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:9",
+    "verseText": "Voir Néhémie 9:9.",
+    "question": "Quel peuple est cité comme ennemi dont les cris furent entendus ?",
+    "choices": [
+      "Les Syriens",
+      "Les Égyptiens",
+      "Les Philistins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:9 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-080",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:12",
+    "verseText": "Voir Néhémie 9:12.",
+    "question": "Quel élément guide est mentionné : « …une colonne de… » ?",
+    "choices": [
+      "Une colonne d’eau le jour et une colonne de feu la nuit",
+      "Une colonne de nuée le jour et une colonne de feu la nuit",
+      "Une colonne de fumée le jour et une colonne de lumière la nuit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:12 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-081",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:13",
+    "verseText": "Voir Néhémie 9:13.",
+    "question": "Quelle expression décrit le Sinaï dans Néhémie 9:13 ?",
+    "choices": [
+      "« …sur le mont Sinaï »",
+      "« …sur la montagne de Morija »",
+      "« …sur la colline de Sion »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 9:13 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-082",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:14",
+    "verseText": "Voir Néhémie 9:14.",
+    "question": "Que dit la prière au sujet du sabbat ?",
+    "choices": [
+      "Dieu l’abolit à cause du péché",
+      "Dieu le fit connaître et donna des commandements et des lois par Moïse",
+      "Dieu le réserva seulement aux sacrificateurs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:14 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-083",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:15",
+    "verseText": "Voir Néhémie 9:15.",
+    "question": "Quel aliment est cité comme donné « du haut des cieux » ?",
+    "choices": [
+      "Du pain",
+      "Du miel",
+      "Du vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 9:15 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-084",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:15",
+    "verseText": "Voir Néhémie 9:15.",
+    "question": "Que dit le texte sur l’eau : « …tu fis sortir… » ?",
+    "choices": [
+      "« …de l’eau du rocher »",
+      "« …de l’eau du fleuve »",
+      "« …de l’eau de la mer »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 9:15 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-085",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:16",
+    "verseText": "Voir Néhémie 9:16.",
+    "question": "Quel mot décrit la manière dont Israël agit envers Dieu malgré ses bienfaits ?",
+    "choices": [
+      "Ils furent dociles",
+      "Ils s’endurcirent",
+      "Ils s’humilièrent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:16 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-086",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:17",
+    "verseText": "Voir Néhémie 9:17.",
+    "question": "Quelle parole blasphématoire le peuple prononce-t-il selon Néhémie 9:17 ?",
+    "choices": [
+      "« Faisons un veau, c’est notre dieu! »",
+      "« Donnons-nous un chef, et retournons en Égypte »",
+      "« Bâtissons une ville jusqu’aux cieux »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:17 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-087",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:18",
+    "verseText": "Voir Néhémie 9:18.",
+    "question": "Dans Néhémie 9:18, quelle idole est explicitement mentionnée ?",
+    "choices": [
+      "Un serpent d’airain",
+      "Un veau en métal fondu",
+      "Une image de Baal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:18 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-088",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:19",
+    "verseText": "Voir Néhémie 9:19.",
+    "question": "Quel jugement Dieu n’exécuta pas entièrement sur eux, selon Néhémie 9:19 ?",
+    "choices": [
+      "Les exterminer dans le désert",
+      "Les envoyer en captivité immédiatement",
+      "Les chasser de Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 9:19 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-089",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:20",
+    "verseText": "Voir Néhémie 9:20.",
+    "question": "Quel don est attribué à Dieu pour les rendre sages ?",
+    "choices": [
+      "Son bon esprit",
+      "Les livres des rois",
+      "Les richesses des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 9:20 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-090",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:21",
+    "verseText": "Voir Néhémie 9:21.",
+    "question": "Combien d’années Dieu pourvut-il à leurs besoins dans le désert ?",
+    "choices": [
+      "Sept ans",
+      "Quarante ans",
+      "Douze ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:21 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-091",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:21",
+    "verseText": "Voir Néhémie 9:21.",
+    "question": "Quel détail est donné sur leurs vêtements pendant ces années ?",
+    "choices": [
+      "Leurs vêtements s’usèrent rapidement",
+      "Leurs vêtements ne s’usèrent point",
+      "Ils changèrent de vêtements chaque mois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:21 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-092",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:21",
+    "verseText": "Voir Néhémie 9:21.",
+    "question": "Quelle action est mentionnée au sujet de leurs pieds ?",
+    "choices": [
+      "Leurs pieds enflèrent",
+      "Leurs pieds ne s’enflèrent point",
+      "Leurs pieds furent blessés"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:21 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-093",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:22",
+    "verseText": "Voir Néhémie 9:22.",
+    "question": "Quel pays Dieu leur donne-t-il « des royaumes et des peuples » ?",
+    "choices": [
+      "Le pays de Mitspa",
+      "Le pays de Sichon, roi de Hesbon",
+      "Le pays de Juda seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:22 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-094",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:22",
+    "verseText": "Voir Néhémie 9:22.",
+    "question": "Quel est l’un des rois nommés dont le pays est donné ?",
+    "choices": [
+      "Og, roi de Basan",
+      "Pharaon, roi d’Égypte",
+      "Achab, roi d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 9:22 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-095",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:25",
+    "verseText": "Voir Néhémie 9:25.",
+    "question": "Quel résultat est décrit : « …ils prirent des villes fortes… » ?",
+    "choices": [
+      "Et ils bâtirent une tour dans Suse",
+      "Et un pays gras, et ils possédèrent des maisons pleines de toute espèce de biens",
+      "Et ils renversèrent le temple de Dieu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:25 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-096",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:26",
+    "verseText": "Voir Néhémie 9:26.",
+    "question": "Après l’entrée dans le pays, quel comportement est reproché ?",
+    "choices": [
+      "Ils se réjouirent et obéirent",
+      "Ils furent désobéissants, se révoltèrent contre toi, et jetèrent ta loi derrière leur dos",
+      "Ils quittèrent toutes les villes et s’enfuirent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:26 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-097",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:26",
+    "verseText": "Voir Néhémie 9:26.",
+    "question": "Que firent-ils aux prophètes, selon Néhémie 9:26 ?",
+    "choices": [
+      "Ils les honorèrent publiquement",
+      "Ils les tuèrent",
+      "Ils les envoyèrent chez les nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:26 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-098",
+    "book": "Néhémie",
+    "chapter": 9,
+    "verseRef": "Néhémie 9:27",
+    "verseText": "Voir Néhémie 9:27.",
+    "question": "Comment Dieu réagit-il quand ils criaient dans leur détresse ?",
+    "choices": [
+      "Il ne répondit jamais",
+      "Il les exauça du haut des cieux et leur donna des libérateurs",
+      "Il les livra définitivement sans retour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 9:27 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-099",
+    "book": "Néhémie",
+    "chapter": 10,
+    "verseRef": "Néhémie 10:29",
+    "verseText": "Voir Néhémie 10:29.",
+    "question": "Selon Néhémie 10:29, à quoi s’engagent-ils avec serment ?",
+    "choices": [
+      "À marcher dans la loi de Dieu",
+      "À bâtir un palais pour Néhémie",
+      "À quitter Jérusalem pour toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 10:29 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-100",
+    "book": "Néhémie",
+    "chapter": 10,
+    "verseRef": "Néhémie 10:32",
+    "verseText": "Voir Néhémie 10:32.",
+    "question": "Quelle contribution est mentionnée « pour le service de la maison de notre Dieu » ?",
+    "choices": [
+      "Un tiers de sicle, chaque année",
+      "Dix sicles d’or, chaque mois",
+      "Cent talents d’argent, chaque semaine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 10:32 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-101",
+    "book": "Néhémie",
+    "chapter": 11,
+    "verseRef": "Néhémie 11:1",
+    "verseText": "Voir Néhémie 11:1.",
+    "question": "Quelle proportion du peuple fut tirée au sort pour habiter à Jérusalem ?",
+    "choices": [
+      "Un sur dix",
+      "Un sur vingt",
+      "Un sur cinq"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 11:1 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-102",
+    "book": "Néhémie",
+    "chapter": 11,
+    "verseRef": "Néhémie 11:2",
+    "verseText": "Voir Néhémie 11:2.",
+    "question": "Comment le peuple réagit-il envers ceux qui s’offrirent volontairement pour habiter Jérusalem ?",
+    "choices": [
+      "Il les chassa",
+      "Il les bénit",
+      "Il les mit en prison"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 11:2 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-103",
+    "book": "Néhémie",
+    "chapter": 11,
+    "verseRef": "Néhémie 11:11",
+    "verseText": "Voir Néhémie 11:11.",
+    "question": "Quel responsable est nommé « chef de la citadelle » parmi les habitants de Jérusalem ?",
+    "choices": [
+      "Zacharie, fils de Jonathan",
+      "Akub, fils de Talmon",
+      "Achaja, fils de Maasia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 11:11 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-104",
+    "book": "Néhémie",
+    "chapter": 11,
+    "verseRef": "Néhémie 11:6",
+    "verseText": "Voir Néhémie 11:6.",
+    "question": "Combien d’hommes vaillants parmi les fils de Pérets habitaient à Jérusalem ?",
+    "choices": [
+      "Quatre cent soixante-huit",
+      "Six cent quatre-vingt-dix",
+      "Neuf cent vingt-huit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 11:6 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-105",
+    "book": "Néhémie",
+    "chapter": 11,
+    "verseRef": "Néhémie 11:22",
+    "verseText": "Voir Néhémie 11:22.",
+    "question": "Quel homme est mentionné comme « intendant sur les Lévites à Jérusalem » ?",
+    "choices": [
+      "Uzzi, fils de Bani",
+      "Schérébia, fils de Kénani",
+      "Jozabad, fils de Noadja"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 11:22 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-106",
+    "book": "Néhémie",
+    "chapter": 12,
+    "verseRef": "Néhémie 12:28",
+    "verseText": "Voir Néhémie 12:28.",
+    "question": "D’où étaient les chanteurs, selon la notice sur leurs villages ?",
+    "choices": [
+      "Des villages des Netophathiens",
+      "Des villages des Kéréthiens",
+      "Des villages des Gabaonites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 12:28 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-107",
+    "book": "Néhémie",
+    "chapter": 12,
+    "verseRef": "Néhémie 12:27",
+    "verseText": "Voir Néhémie 12:27.",
+    "question": "Lors de la dédicace de la muraille, où rassembla-t-on les Lévites ?",
+    "choices": [
+      "De Bethléhem, d’Hébron et de Jéricho",
+      "De tous les lieux où ils demeuraient",
+      "De Samarie, d’Asdod et de Gath"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 12:27 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-108",
+    "book": "Néhémie",
+    "chapter": 12,
+    "verseRef": "Néhémie 12:27",
+    "verseText": "Voir Néhémie 12:27.",
+    "question": "Avec quoi fit-on la dédicace de la muraille ?",
+    "choices": [
+      "Avec des trompettes, des cymbales et des instruments de musique",
+      "Avec des épées, des arcs et des lances",
+      "Avec des encensoirs d’or seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 12:27 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-109",
+    "book": "Néhémie",
+    "chapter": 12,
+    "verseRef": "Néhémie 12:30",
+    "verseText": "Voir Néhémie 12:30.",
+    "question": "Que firent les sacrificateurs et les Lévites avant la cérémonie ?",
+    "choices": [
+      "Ils se purifièrent",
+      "Ils quittèrent la ville",
+      "Ils détruisirent les autels"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 12:30 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-110",
+    "book": "Néhémie",
+    "chapter": 12,
+    "verseRef": "Néhémie 12:30",
+    "verseText": "Voir Néhémie 12:30.",
+    "question": "Que purifièrent-ils ensuite, en plus d’eux-mêmes ?",
+    "choices": [
+      "Le peuple, les portes et la muraille",
+      "Les trésors, les champs et les maisons",
+      "Les marchés, les routes et les puits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 12:30 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-111",
+    "book": "Néhémie",
+    "chapter": 12,
+    "verseRef": "Néhémie 12:31",
+    "verseText": "Voir Néhémie 12:31.",
+    "question": "Combien de grands choeurs d’actions de grâces Néhémie établit-il lors de la dédicace ?",
+    "choices": [
+      "Un seul choeur",
+      "Deux grands choeurs",
+      "Douze choeurs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 12:31 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-112",
+    "book": "Néhémie",
+    "chapter": 12,
+    "verseRef": "Néhémie 12:35",
+    "verseText": "Voir Néhémie 12:35.",
+    "question": "Quel instrument est explicitement mentionné dans les réjouissances ?",
+    "choices": [
+      "Les trompettes",
+      "Les harpes éoliennes",
+      "Les flûtes de roseau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 12:35 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-113",
+    "book": "Néhémie",
+    "chapter": 12,
+    "verseRef": "Néhémie 12:40",
+    "verseText": "Voir Néhémie 12:40.",
+    "question": "Où les deux choeurs se tinrent-ils finalement pendant la cérémonie ?",
+    "choices": [
+      "Dans la maison de Dieu",
+      "Dans la porte des poissons",
+      "Dans la vallée d’Ono"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 12:40 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-114",
+    "book": "Néhémie",
+    "chapter": 12,
+    "verseRef": "Néhémie 12:43",
+    "verseText": "Voir Néhémie 12:43.",
+    "question": "Quelle expression décrit l’effet de la joie de Jérusalem ce jour-là ?",
+    "choices": [
+      "« On entendait la joie de Jérusalem de loin »",
+      "« La joie fut cachée aux nations »",
+      "« La joie ne fut entendue de personne »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 12:43 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-115",
+    "book": "Néhémie",
+    "chapter": 13,
+    "verseRef": "Néhémie 13:1",
+    "verseText": "Voir Néhémie 13:1.",
+    "question": "Que lit-on dans le livre de Moïse « en présence du peuple » ?",
+    "choices": [
+      "Qu’un Ammonite et un Moabite n’entreront jamais dans l’assemblée de Dieu",
+      "Qu’un Égyptien doit entrer le troisième jour",
+      "Qu’un Philistin peut servir au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 13:1 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-116",
+    "book": "Néhémie",
+    "chapter": 13,
+    "verseRef": "Néhémie 13:3",
+    "verseText": "Voir Néhémie 13:3.",
+    "question": "Quel résultat cette lecture produisit-elle immédiatement ?",
+    "choices": [
+      "On sépara d’Israël tous les étrangers",
+      "On accueillit tous les étrangers",
+      "On ferma le temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 13:3 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-117",
+    "book": "Néhémie",
+    "chapter": 13,
+    "verseRef": "Néhémie 13:4-5",
+    "verseText": "Voir Néhémie 13:4-5.",
+    "question": "Qui était l’homme à qui l’on avait donné une grande chambre dans les parvis de la maison de Dieu ?",
+    "choices": [
+      "Sanballat",
+      "Tobija",
+      "Guéschem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 13:4-5 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-118",
+    "book": "Néhémie",
+    "chapter": 13,
+    "verseRef": "Néhémie 13:5",
+    "verseText": "Voir Néhémie 13:5.",
+    "question": "À quoi cette chambre servait-elle auparavant ?",
+    "choices": [
+      "À déposer les offrandes, l’encens, les ustensiles, et les dîmes",
+      "À loger les soldats du roi",
+      "À vendre du pain sur la place"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 13:5 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-119",
+    "book": "Néhémie",
+    "chapter": 13,
+    "verseRef": "Néhémie 13:8",
+    "verseText": "Voir Néhémie 13:8.",
+    "question": "Que fit Néhémie avec les meubles de la maison de Tobija ?",
+    "choices": [
+      "Il les consacra à l’Éternel",
+      "Il les jeta dehors, hors de la chambre",
+      "Il les vendit au marché"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Néhémie 13:8 (LSG 1910)."
+  },
+  {
+    "id": "NEH-N-120",
+    "book": "Néhémie",
+    "chapter": 13,
+    "verseRef": "Néhémie 13:9",
+    "verseText": "Voir Néhémie 13:9.",
+    "question": "Quel ordre Néhémie donne-t-il après avoir purifié les chambres ?",
+    "choices": [
+      "Qu’on y remette les ustensiles de la maison de Dieu, les offrandes et l’encens",
+      "Qu’on les ferme à jamais",
+      "Qu’on y loge les étrangers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Néhémie 13:9 (LSG 1910)."
+  }
+]

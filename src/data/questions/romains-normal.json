@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "romains-N-001",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:1",
+    "verseText": "Voir Romains 1:1.",
+    "question": "Comment Paul se présente-t-il au début de l’épître ?",
+    "choices": [
+      "Paul, serviteur de Jésus Christ",
+      "Paul, prisonnier de Jésus Christ",
+      "Paul, ancien de l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 1:1 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-002",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:14",
+    "verseText": "Voir Romains 1:14.",
+    "question": "Pour qui Paul dit-il se rendre débiteur ?",
+    "choices": [
+      "Aux Juifs seulement",
+      "Aux Grecs et aux barbares, aux savants et aux ignorants",
+      "Aux Romains seulement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 1:14 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-003",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:16",
+    "verseText": "Voir Romains 1:16.",
+    "question": "De quoi Paul dit-il n’avoir point honte ?",
+    "choices": [
+      "De la loi",
+      "De l’Évangile",
+      "Des souffrances"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 1:16 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-004",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:17",
+    "verseText": "Voir Romains 1:17.",
+    "question": "Selon Paul, comment “le juste” vivra-t-il ?",
+    "choices": [
+      "Par la force",
+      "Par la foi",
+      "Par les œuvres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 1:17 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-005",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:18",
+    "verseText": "Voir Romains 1:18.",
+    "question": "Qu’est-ce que les hommes “retiennent injustement captive” ?",
+    "choices": [
+      "La loi",
+      "La vérité",
+      "La sagesse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 1:18 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-006",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:22",
+    "verseText": "Voir Romains 1:22.",
+    "question": "Que dit le texte de ceux qui se vantent d’être sages ?",
+    "choices": [
+      "Ils se sont rendus prudents",
+      "Ils sont devenus fous",
+      "Ils ont acquis la paix"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 1:22 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-007",
+    "book": "Romains",
+    "chapter": 12,
+    "verseRef": "Romains 12:2",
+    "verseText": "Voir Romains 12:2.",
+    "question": "À quoi Paul exhorte-t-il : “Ne … pas vous conformer” ?",
+    "choices": [
+      "Au siècle présent",
+      "Aux traditions des pères",
+      "Aux coutumes des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 12:2 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-008",
+    "book": "Romains",
+    "chapter": 12,
+    "verseRef": "Romains 12:1",
+    "verseText": "Voir Romains 12:1.",
+    "question": "Quel terme Paul emploie-t-il pour désigner le culte demandé quand on offre son corps ?",
+    "choices": [
+      "Un culte raisonnable",
+      "Un culte silencieux",
+      "Un culte nouveau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 12:1 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-009",
+    "book": "Romains",
+    "chapter": 13,
+    "verseRef": "Romains 13:1",
+    "verseText": "Voir Romains 13:1.",
+    "question": "Quelle attitude Paul recommande-t-il envers les autorités supérieures ?",
+    "choices": [
+      "Les juger",
+      "Leur résister",
+      "Leur être soumis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 13:1 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-010",
+    "book": "Romains",
+    "chapter": 13,
+    "verseRef": "Romains 13:10",
+    "verseText": "Voir Romains 13:10.",
+    "question": "Selon Paul, “l’amour” fait quoi à l’égard du prochain ?",
+    "choices": [
+      "Il supporte tout",
+      "Il ne fait point de mal au prochain",
+      "Il couvre une multitude de péchés"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 13:10 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-011",
+    "book": "Romains",
+    "chapter": 4,
+    "verseRef": "Romains 4:3",
+    "verseText": "Voir Romains 4:3.",
+    "question": "Comment Paul décrit-il Abraham quant à la justice ?",
+    "choices": [
+      "Il fut sanctifié par la loi",
+      "Il fut justifié par les œuvres",
+      "Il crut à Dieu, et cela lui fut imputé à justice"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 4:3 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-012",
+    "book": "Romains",
+    "chapter": 5,
+    "verseRef": "Romains 5:1",
+    "verseText": "Voir Romains 5:1.",
+    "question": "Quel mot résume l’effet de la justification par la foi dans Romains 5:1 ?",
+    "choices": [
+      "La paix",
+      "La richesse",
+      "La vigueur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 5:1 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-013",
+    "book": "Romains",
+    "chapter": 5,
+    "verseRef": "Romains 5:15",
+    "verseText": "Voir Romains 5:15.",
+    "question": "Par qui “la grâce de Dieu” et “le don” abondent-ils pour plusieurs ?",
+    "choices": [
+      "Par Moïse",
+      "Par un seul homme, Jésus Christ",
+      "Par les prophètes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 5:15 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-014",
+    "book": "Romains",
+    "chapter": 6,
+    "verseRef": "Romains 6:4",
+    "verseText": "Voir Romains 6:4.",
+    "question": "Dans quel acte Paul relie-t-il “ensevelis avec lui” ?",
+    "choices": [
+      "Par la circoncision",
+      "Par le baptême",
+      "Par l’imposition des mains"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 6:4 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-015",
+    "book": "Romains",
+    "chapter": 6,
+    "verseRef": "Romains 6:23",
+    "verseText": "Voir Romains 6:23.",
+    "question": "Quel salaire est associé au péché ?",
+    "choices": [
+      "La honte",
+      "La mort",
+      "L’exil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 6:23 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-016",
+    "book": "Romains",
+    "chapter": 6,
+    "verseRef": "Romains 6:23",
+    "verseText": "Voir Romains 6:23.",
+    "question": "Quel “don gratuit” est associé à Dieu ?",
+    "choices": [
+      "La sagesse",
+      "La vie éternelle en Jésus Christ notre Seigneur",
+      "La prospérité"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 6:23 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-017",
+    "book": "Romains",
+    "chapter": 7,
+    "verseRef": "Romains 7:19",
+    "verseText": "Voir Romains 7:19.",
+    "question": "Quel conflit intérieur Paul décrit-il : “Je ne fais pas…” ?",
+    "choices": [
+      "Le bien que je veux",
+      "La loi que je connais",
+      "La prière que j’aime"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 7:19 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-018",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:1",
+    "verseText": "Voir Romains 8:1.",
+    "question": "Que déclare Paul au sujet de la condamnation pour ceux qui sont en Jésus Christ ?",
+    "choices": [
+      "Il n’y en a donc maintenant aucune",
+      "Elle demeure jusqu’à la fin",
+      "Elle dépend des œuvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 8:1 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-019",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:6",
+    "verseText": "Voir Romains 8:6.",
+    "question": "Selon Romains 8, de quoi “l’affection de la chair” est-elle synonyme ?",
+    "choices": [
+      "La paix",
+      "La vie",
+      "La mort"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 8:6 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-020",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:8",
+    "verseText": "Voir Romains 8:8.",
+    "question": "Selon Romains 8, que dit Paul de “ceux qui vivent selon la chair” ?",
+    "choices": [
+      "Ils ne sauraient plaire à Dieu",
+      "Ils se justifient eux-mêmes",
+      "Ils sont sans loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 8:8 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-021",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:31",
+    "verseText": "Voir Romains 8:31.",
+    "question": "Que répond Paul à la question : “Si Dieu est pour nous, qui sera contre nous ?”",
+    "choices": [
+      "Personne",
+      "Les nations",
+      "Les puissances"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 8:31 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-022",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:39",
+    "verseText": "Voir Romains 8:39.",
+    "question": "De quoi Paul dit-il que rien ne pourra nous séparer ?",
+    "choices": [
+      "De la loi de Dieu",
+      "De l’amour de Dieu",
+      "De la paix de Dieu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 8:39 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-023",
+    "book": "Romains",
+    "chapter": 9,
+    "verseRef": "Romains 9:2",
+    "verseText": "Voir Romains 9:2.",
+    "question": "Comment Paul exprime-t-il son attachement à ses “frères, [ses] parents selon la chair” ?",
+    "choices": [
+      "Il s’en réjouit toujours",
+      "Il éprouve une grande tristesse et une douleur continuelle",
+      "Il les évite"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 9:2 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-024",
+    "book": "Romains",
+    "chapter": 10,
+    "verseRef": "Romains 10:13",
+    "verseText": "Voir Romains 10:13.",
+    "question": "Quelle “parole” Paul cite-t-il : “Quiconque …” ?",
+    "choices": [
+      "Quiconque invoquera le nom du Seigneur sera sauvé",
+      "Quiconque demande recevra",
+      "Quiconque frappe, on lui ouvrira"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 10:13 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-025",
+    "book": "Romains",
+    "chapter": 10,
+    "verseRef": "Romains 10:17",
+    "verseText": "Voir Romains 10:17.",
+    "question": "Selon Paul, qu’est-ce que “la foi” vient de ?",
+    "choices": [
+      "De la sagesse",
+      "De ce qu’on entend",
+      "De la tradition"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 10:17 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-026",
+    "book": "Romains",
+    "chapter": 11,
+    "verseRef": "Romains 11:17",
+    "verseText": "Voir Romains 11:17.",
+    "question": "Quelle image Paul utilise-t-il pour parler d’Israël et des nations ?",
+    "choices": [
+      "Une maison",
+      "Un olivier",
+      "Une montagne"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 11:17 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-027",
+    "book": "Romains",
+    "chapter": 11,
+    "verseRef": "Romains 11:29",
+    "verseText": "Voir Romains 11:29.",
+    "question": "Comment Paul qualifie-t-il les dons et l’appel de Dieu ?",
+    "choices": [
+      "Ils sont sans repentance",
+      "Ils sont temporaires",
+      "Ils sont selon le mérite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 11:29 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-028",
+    "book": "Romains",
+    "chapter": 12,
+    "verseRef": "Romains 12:9",
+    "verseText": "Voir Romains 12:9.",
+    "question": "Quel impératif Paul donne-t-il concernant “l’hypocrisie” ?",
+    "choices": [
+      "Rejetez-la",
+      "Fuyez-la",
+      "Ayez en horreur le mal, attachez-vous fortement au bien"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 12:9 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-029",
+    "book": "Romains",
+    "chapter": 12,
+    "verseRef": "Romains 12:14",
+    "verseText": "Voir Romains 12:14.",
+    "question": "Quelle recommandation Paul donne-t-il au sujet des ennemis ?",
+    "choices": [
+      "Les éviter",
+      "Les maudire",
+      "Bénissez ceux qui vous persécutent"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 12:14 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-030",
+    "book": "Romains",
+    "chapter": 12,
+    "verseRef": "Romains 12:21",
+    "verseText": "Voir Romains 12:21.",
+    "question": "Selon Romains 12, quelle attitude Paul commande-t-il face au mal ?",
+    "choices": [
+      "Se venger",
+      "Rendre le mal pour le mal",
+      "Ne te laisse pas vaincre par le mal, mais surmonte le mal par le bien"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 12:21 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-031",
+    "book": "Romains",
+    "chapter": 13,
+    "verseRef": "Romains 13:4",
+    "verseText": "Voir Romains 13:4.",
+    "question": "Dans Romains 13, quel outil est associé à l’autorité comme “servante de Dieu” ?",
+    "choices": [
+      "La couronne",
+      "L’épée",
+      "La trompette"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 13:4 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-032",
+    "book": "Romains",
+    "chapter": 13,
+    "verseRef": "Romains 13:11",
+    "verseText": "Voir Romains 13:11.",
+    "question": "Quel “temps” Paul affirme-t-il être venu pour se réveiller ?",
+    "choices": [
+      "Le temps de bâtir",
+      "Le temps de dormir",
+      "L’heure de vous réveiller enfin du sommeil"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 13:11 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-033",
+    "book": "Romains",
+    "chapter": 13,
+    "verseRef": "Romains 13:9",
+    "verseText": "Voir Romains 13:9.",
+    "question": "Comment Paul résume-t-il l’accomplissement de la loi par un commandement ?",
+    "choices": [
+      "Tu ne mentiras point",
+      "Tu aimeras ton prochain comme toi-même",
+      "Tu offriras des sacrifices"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 13:9 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-034",
+    "book": "Romains",
+    "chapter": 14,
+    "verseRef": "Romains 14:1",
+    "verseText": "Voir Romains 14:1.",
+    "question": "Dans Romains 14, que dit Paul au sujet de celui qui est “faible dans la foi” ?",
+    "choices": [
+      "Rejetez-le",
+      "Recevez-le, sans discuter sur les opinions",
+      "Corrigez-le publiquement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 14:1 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-035",
+    "book": "Romains",
+    "chapter": 14,
+    "verseRef": "Romains 14:12",
+    "verseText": "Voir Romains 14:12.",
+    "question": "À qui chacun de nous doit-il rendre compte selon Paul ?",
+    "choices": [
+      "Aux anciens",
+      "À Dieu",
+      "Aux hommes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 14:12 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-036",
+    "book": "Romains",
+    "chapter": 14,
+    "verseRef": "Romains 14:17",
+    "verseText": "Voir Romains 14:17.",
+    "question": "Comment Paul définit-il le royaume de Dieu en Romains 14 ?",
+    "choices": [
+      "Nourriture et boisson",
+      "Justice, paix et joie, par le Saint-Esprit",
+      "Signes et prodiges"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 14:17 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-037",
+    "book": "Romains",
+    "chapter": 15,
+    "verseRef": "Romains 15:1",
+    "verseText": "Voir Romains 15:1.",
+    "question": "Dans Romains 15, quel exemple Paul met-il en avant pour les forts ?",
+    "choices": [
+      "Porter les infirmités des faibles",
+      "Exiger le respect",
+      "Se retirer des faibles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 15:1 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-038",
+    "book": "Romains",
+    "chapter": 15,
+    "verseRef": "Romains 15:4",
+    "verseText": "Voir Romains 15:4.",
+    "question": "Quel but Paul associe-t-il aux Écritures ?",
+    "choices": [
+      "Nous rendre riches",
+      "Nous instruire, afin que nous possédions l’espérance",
+      "Nous donner des songes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 15:4 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-039",
+    "book": "Romains",
+    "chapter": 15,
+    "verseRef": "Romains 15:5",
+    "verseText": "Voir Romains 15:5.",
+    "question": "Comment Paul appelle-t-il “le Dieu” qui produit la persévérance et la consolation ?",
+    "choices": [
+      "Le Dieu de puissance",
+      "Le Dieu de paix",
+      "Le Dieu de la persévérance et de la consolation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 15:5 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-040",
+    "book": "Romains",
+    "chapter": 15,
+    "verseRef": "Romains 15:6",
+    "verseText": "Voir Romains 15:6.",
+    "question": "Quel est le fruit visé par “une même bouche” selon Paul ?",
+    "choices": [
+      "Accuser les nations",
+      "Glorifier Dieu",
+      "Rechercher la gloire des hommes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 15:6 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-041",
+    "book": "Romains",
+    "chapter": 16,
+    "verseRef": "Romains 16:1",
+    "verseText": "Voir Romains 16:1.",
+    "question": "Qui Paul “recommande”-t-il au début de Romains 16 ?",
+    "choices": [
+      "Phoebé",
+      "Lydie",
+      "Damaris"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 16:1 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-042",
+    "book": "Romains",
+    "chapter": 16,
+    "verseRef": "Romains 16:1",
+    "verseText": "Voir Romains 16:1.",
+    "question": "De quelle Église Phoebé est-elle dite “diaconesse” ?",
+    "choices": [
+      "De l’Église de Jérusalem",
+      "De l’Église de Cenchrées",
+      "De l’Église d’Antioche"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 16:1 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-043",
+    "book": "Romains",
+    "chapter": 16,
+    "verseRef": "Romains 16:3",
+    "verseText": "Voir Romains 16:3.",
+    "question": "Qui Paul appelle “mes compagnons d’œuvre en Jésus Christ” dans Romains 16 ?",
+    "choices": [
+      "Prisca et Aquilas",
+      "Barnabas et Silas",
+      "Timothée et Tite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 16:3 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-044",
+    "book": "Romains",
+    "chapter": 16,
+    "verseRef": "Romains 16:16",
+    "verseText": "Voir Romains 16:16.",
+    "question": "Quel geste Paul demande-t-il : “Saluez-vous…” ?",
+    "choices": [
+      "Par un saint baiser",
+      "Par une offrande",
+      "Par une imposition des mains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 16:16 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-045",
+    "book": "Romains",
+    "chapter": 16,
+    "verseRef": "Romains 16:16",
+    "verseText": "Voir Romains 16:16.",
+    "question": "Quelles Églises Paul mentionne-t-il qui “vous saluent” ?",
+    "choices": [
+      "Toutes les Églises de Christ",
+      "Les Églises de Judée",
+      "Les Églises de Galatie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 16:16 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-046",
+    "book": "Romains",
+    "chapter": 16,
+    "verseRef": "Romains 16:27",
+    "verseText": "Voir Romains 16:27.",
+    "question": "Quel qualificatif Paul donne-t-il à Dieu en Romains 16:27 ?",
+    "choices": [
+      "Le Dieu patient",
+      "Le Dieu seul sage",
+      "Le Dieu des armées"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 16:27 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-047",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:4",
+    "verseText": "Voir Romains 2:4.",
+    "question": "Selon Romains 2, à quoi la bonté de Dieu pousse-t-elle ?",
+    "choices": [
+      "À la vengeance",
+      "À la repentance",
+      "À la crainte des hommes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 2:4 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-048",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:6",
+    "verseText": "Voir Romains 2:6.",
+    "question": "Quel principe Paul affirme-t-il : Dieu “rend à chacun” selon quoi ?",
+    "choices": [
+      "Selon ses paroles",
+      "Selon ses œuvres",
+      "Selon son origine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 2:6 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-049",
+    "book": "Romains",
+    "chapter": 3,
+    "verseRef": "Romains 3:23",
+    "verseText": "Voir Romains 3:23.",
+    "question": "Dans Romains 3, que déclare Paul au sujet de tous ?",
+    "choices": [
+      "Tous sont saints",
+      "Tous ont péché et sont privés de la gloire de Dieu",
+      "Tous sont innocents"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 3:23 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-050",
+    "book": "Romains",
+    "chapter": 3,
+    "verseRef": "Romains 3:24",
+    "verseText": "Voir Romains 3:24.",
+    "question": "Selon Romains 3, comment les hommes sont-ils “justifiés” ?",
+    "choices": [
+      "Par leurs mérites",
+      "Gratuitement par sa grâce",
+      "Par la tradition"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 3:24 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-051",
+    "book": "Romains",
+    "chapter": 3,
+    "verseRef": "Romains 3:25",
+    "verseText": "Voir Romains 3:25.",
+    "question": "Selon Romains 3, par quel moyen Dieu montre-t-il sa justice ?",
+    "choices": [
+      "Par la loi seule",
+      "Par le sang, au moyen de la foi",
+      "Par la force des nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 3:25 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-052",
+    "book": "Romains",
+    "chapter": 4,
+    "verseRef": "Romains 4:11",
+    "verseText": "Voir Romains 4:11.",
+    "question": "Dans Romains 4, quel signe Abraham reçut-il “comme sceau” ?",
+    "choices": [
+      "Le baptême",
+      "La circoncision",
+      "Le sabbat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 4:11 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-053",
+    "book": "Romains",
+    "chapter": 5,
+    "verseRef": "Romains 5:3",
+    "verseText": "Voir Romains 5:3.",
+    "question": "Dans Romains 5, que produit la tribulation selon Paul ?",
+    "choices": [
+      "La honte",
+      "La patience",
+      "La ruine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 5:3 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-054",
+    "book": "Romains",
+    "chapter": 5,
+    "verseRef": "Romains 5:4",
+    "verseText": "Voir Romains 5:4.",
+    "question": "Dans Romains 5, quel enchaînement Paul donne-t-il après la patience ?",
+    "choices": [
+      "La patience produit la victoire",
+      "La patience produit la persévérance",
+      "La patience produit la fidélité"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 5:4 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-055",
+    "book": "Romains",
+    "chapter": 6,
+    "verseRef": "Romains 6:11",
+    "verseText": "Voir Romains 6:11.",
+    "question": "Dans Romains 6, à quoi les croyants sont-ils invités à se considérer ?",
+    "choices": [
+      "Morts au péché, et vivants pour Dieu en Jésus Christ",
+      "Vivants au péché, et morts pour Dieu",
+      "Morts à la loi, et vivants pour le monde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 6:11 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-056",
+    "book": "Romains",
+    "chapter": 7,
+    "verseRef": "Romains 7:12",
+    "verseText": "Voir Romains 7:12.",
+    "question": "Dans Romains 7, comment Paul décrit-il la loi ?",
+    "choices": [
+      "La loi est sainte, et le commandement est saint, juste et bon",
+      "La loi est incertaine et changeante",
+      "La loi est inutile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 7:12 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-057",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:27",
+    "verseText": "Voir Romains 8:27.",
+    "question": "Dans Romains 8, qui “intercède pour les saints” selon Dieu ?",
+    "choices": [
+      "Les anges",
+      "L’Esprit",
+      "Les apôtres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 8:27 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-058",
+    "book": "Romains",
+    "chapter": 9,
+    "verseRef": "Romains 9:13",
+    "verseText": "Voir Romains 9:13.",
+    "question": "Dans Romains 9, quel exemple Paul cite-t-il : “J’ai aimé…, et j’ai haï…” ?",
+    "choices": [
+      "Jacob et Ésaü",
+      "Isaac et Ismaël",
+      "Abel et Caïn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 9:13 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-059",
+    "book": "Romains",
+    "chapter": 10,
+    "verseRef": "Romains 10:9",
+    "verseText": "Voir Romains 10:9.",
+    "question": "Dans Romains 10, que faut-il faire “de la bouche” pour être sauvé ?",
+    "choices": [
+      "Se taire",
+      "Confesser",
+      "Promettre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 10:9 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-060",
+    "book": "Romains",
+    "chapter": 15,
+    "verseRef": "Romains 15:8",
+    "verseText": "Voir Romains 15:8.",
+    "question": "Dans Romains 15, comment Paul appelle-t-il Jésus Christ en lien avec la circoncision ?",
+    "choices": [
+      "Un serviteur des incirconcis",
+      "Un serviteur des circoncis",
+      "Un juge des nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 15:8 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-061",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:13",
+    "verseText": "Voir Romains 1:13.",
+    "question": "Quel motif Paul donne-t-il pour expliquer qu’il a été empêché plusieurs fois d’aller vers les Romains ?",
+    "choices": [
+      "Il a été retenu par des chaînes",
+      "Il a été empêché jusqu’ici",
+      "Il a été chassé par les autorités"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 1:13 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-062",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:11",
+    "verseText": "Voir Romains 1:11.",
+    "question": "Quel désir Paul exprime-t-il pour ceux de Rome ?",
+    "choices": [
+      "Leur annoncer une nouvelle loi",
+      "Leur communiquer quelque don spirituel",
+      "Leur imposer des mains"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 1:11 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-063",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:12",
+    "verseText": "Voir Romains 1:12.",
+    "question": "Comment Paul décrit-il la relation mutuelle qu’il espère à Rome ?",
+    "choices": [
+      "Être consolé avec eux par leur foi commune",
+      "Être instruit par leurs traditions",
+      "Être honoré par leurs richesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 1:12 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-064",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:8",
+    "verseText": "Voir Romains 1:8.",
+    "question": "Que dit Paul au sujet de la foi des Romains ?",
+    "choices": [
+      "Elle est cachée",
+      "Elle est annoncée par toute la terre",
+      "Elle est inconnue des nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 1:8 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-065",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:21",
+    "verseText": "Voir Romains 1:21.",
+    "question": "Quel reproche est formulé contre ceux qui connaissent Dieu par ses œuvres ?",
+    "choices": [
+      "Ils l’ont servi fidèlement",
+      "Ils ne l’ont point glorifié comme Dieu",
+      "Ils l’ont adoré en esprit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 1:21 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-066",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:25-26",
+    "verseText": "Voir Romains 1:25-26.",
+    "question": "Qu’est-ce que Dieu “livre” à des passions infâmes, selon le passage ?",
+    "choices": [
+      "Ceux qui se repentent",
+      "Ceux qui ont changé la vérité de Dieu en mensonge",
+      "Ceux qui ont obéi à la foi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 1:25-26 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-067",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:1",
+    "verseText": "Voir Romains 2:1.",
+    "question": "Selon Paul, quel comportement est condamné chez ceux qui jugent les autres ?",
+    "choices": [
+      "Ils enseignent la loi",
+      "Ils font les mêmes choses",
+      "Ils gardent la loi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 2:1 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-068",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:11",
+    "verseText": "Voir Romains 2:11.",
+    "question": "Quelle affirmation Paul donne-t-il au sujet de Dieu face aux personnes ?",
+    "choices": [
+      "Dieu préfère les sages",
+      "Dieu fait acception de personnes",
+      "Dieu ne fait point acception de personnes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 2:11 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-069",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:13",
+    "verseText": "Voir Romains 2:13.",
+    "question": "Qui seront “justifiés” selon la déclaration de Paul sur la loi ?",
+    "choices": [
+      "Ceux qui écoutent la loi",
+      "Ceux qui pratiquent la loi",
+      "Ceux qui possèdent la loi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 2:13 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-070",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:29",
+    "verseText": "Voir Romains 2:29.",
+    "question": "Comment Paul définit-il le vrai Juif dans le passage ?",
+    "choices": [
+      "Celui qui l’est au dehors",
+      "Celui qui l’est au dedans",
+      "Celui qui suit les coutumes des pères"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 2:29 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-071",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:29",
+    "verseText": "Voir Romains 2:29.",
+    "question": "Par quoi Paul dit-il que la circoncision doit se faire pour être conforme au vrai sens ?",
+    "choices": [
+      "Par la main",
+      "Par l’Esprit",
+      "Par l’épée"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 2:29 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-072",
+    "book": "Romains",
+    "chapter": 3,
+    "verseRef": "Romains 3:10",
+    "verseText": "Voir Romains 3:10.",
+    "question": "Quelle expression Paul cite-t-il pour décrire l’état commun des hommes ?",
+    "choices": [
+      "Il n’y a point de juste, pas même un seul",
+      "Tous sont bénis",
+      "Plusieurs cherchent Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 3:10 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-073",
+    "book": "Romains",
+    "chapter": 3,
+    "verseRef": "Romains 3:20",
+    "verseText": "Voir Romains 3:20.",
+    "question": "Selon Paul, à quoi sert la loi concernant la connaissance du péché ?",
+    "choices": [
+      "À donner la paix",
+      "À procurer des visions",
+      "À donner la connaissance du péché"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 3:20 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-074",
+    "book": "Romains",
+    "chapter": 4,
+    "verseRef": "Romains 4:20",
+    "verseText": "Voir Romains 4:20.",
+    "question": "Comment Paul décrit-il la foi d’Abraham quand il reçut la promesse ?",
+    "choices": [
+      "Il ne douta point, par incrédulité",
+      "Il s’appuya sur sa force",
+      "Il demanda un signe au ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 4:20 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-075",
+    "book": "Romains",
+    "chapter": 4,
+    "verseRef": "Romains 4:20",
+    "verseText": "Voir Romains 4:20.",
+    "question": "Quel résultat Paul associe-t-il au fait qu’Abraham fut “fortifié par la foi” ?",
+    "choices": [
+      "Il méprisa les nations",
+      "Il donna gloire à Dieu",
+      "Il rechercha un royaume terrestre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 4:20 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-076",
+    "book": "Romains",
+    "chapter": 4,
+    "verseRef": "Romains 4:21",
+    "verseText": "Voir Romains 4:21.",
+    "question": "Quelle conviction Paul attribue-t-il à Abraham concernant Dieu ?",
+    "choices": [
+      "Dieu ne peut accomplir ses promesses",
+      "Dieu ne pardonne pas",
+      "Dieu a la puissance d’accomplir ce qu’il promet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 4:21 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-077",
+    "book": "Romains",
+    "chapter": 5,
+    "verseRef": "Romains 5:20",
+    "verseText": "Voir Romains 5:20.",
+    "question": "Selon Paul, qu’est-ce qui “abonde” là où le péché a abondé ?",
+    "choices": [
+      "Le jugement",
+      "La sagesse",
+      "La grâce"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 5:20 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-078",
+    "book": "Romains",
+    "chapter": 5,
+    "verseRef": "Romains 5:10",
+    "verseText": "Voir Romains 5:10.",
+    "question": "Par quel moyen Paul dit-il que “nous serons sauvés” après avoir été réconciliés ?",
+    "choices": [
+      "Par sa vie",
+      "Par nos œuvres",
+      "Par la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 5:10 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-079",
+    "book": "Romains",
+    "chapter": 5,
+    "verseRef": "Romains 5:12",
+    "verseText": "Voir Romains 5:12.",
+    "question": "Quelle expression Paul emploie-t-il pour relier la mort et Adam ?",
+    "choices": [
+      "La mort a régné par les prophètes",
+      "La mort s’est transmise à tous les hommes",
+      "La mort a été vaincue par la sagesse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 5:12 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-080",
+    "book": "Romains",
+    "chapter": 5,
+    "verseRef": "Romains 5:19",
+    "verseText": "Voir Romains 5:19.",
+    "question": "Quel effet Paul attribue-t-il à l’obéissance d’un seul ?",
+    "choices": [
+      "Plusieurs seront rendus justes",
+      "Plusieurs seront rendus sages",
+      "Plusieurs seront rendus riches"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 5:19 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-081",
+    "book": "Romains",
+    "chapter": 6,
+    "verseRef": "Romains 6:1-2",
+    "verseText": "Voir Romains 6:1-2.",
+    "question": "Dans quelle intention Paul parle-t-il de “persévérer dans le péché” ?",
+    "choices": [
+      "Pour encourager à le faire",
+      "Pour le condamner nettement",
+      "Pour le tolérer partiellement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 6:1-2 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-082",
+    "book": "Romains",
+    "chapter": 6,
+    "verseRef": "Romains 6:22",
+    "verseText": "Voir Romains 6:22.",
+    "question": "Selon Paul, quel but est lié au fait d’être “affranchis du péché” et “asservis à Dieu” ?",
+    "choices": [
+      "Avoir pour fruit la sanctification",
+      "Recevoir une gloire terrestre",
+      "Échapper à toute souffrance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 6:22 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-083",
+    "book": "Romains",
+    "chapter": 6,
+    "verseRef": "Romains 6:13",
+    "verseText": "Voir Romains 6:13.",
+    "question": "À quoi Paul demande-t-il de ne pas livrer les membres du corps ?",
+    "choices": [
+      "Comme des armes de justice",
+      "Au péché, comme des instruments d’iniquité",
+      "À la prière, comme des offrandes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 6:13 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-084",
+    "book": "Romains",
+    "chapter": 7,
+    "verseRef": "Romains 7:2",
+    "verseText": "Voir Romains 7:2.",
+    "question": "Quel exemple Paul prend-il pour expliquer la domination de la loi ?",
+    "choices": [
+      "Le mariage",
+      "La guerre",
+      "Le commerce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 7:2 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-085",
+    "book": "Romains",
+    "chapter": 7,
+    "verseRef": "Romains 7:4",
+    "verseText": "Voir Romains 7:4.",
+    "question": "Quel objectif Paul associe-t-il au fait d’avoir “été mis à mort à l’égard de la loi” ?",
+    "choices": [
+      "Porter du fruit pour Dieu",
+      "Porter du fruit pour la chair",
+      "Porter du fruit pour les hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 7:4 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-086",
+    "book": "Romains",
+    "chapter": 7,
+    "verseRef": "Romains 7:7",
+    "verseText": "Voir Romains 7:7.",
+    "question": "Quelle conclusion Paul tire-t-il au sujet de la loi quand il pose la question “La loi est-elle péché ?”",
+    "choices": [
+      "Loin de là !",
+      "Certainement",
+      "Cela dépend des hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 7:7 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-087",
+    "book": "Romains",
+    "chapter": 7,
+    "verseRef": "Romains 7:22",
+    "verseText": "Voir Romains 7:22.",
+    "question": "Que dit Paul de l’homme intérieur dans sa description du conflit ?",
+    "choices": [
+      "Il se réjouit de la loi de Dieu",
+      "Il méprise la loi de Dieu",
+      "Il ignore la loi de Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 7:22 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-088",
+    "book": "Romains",
+    "chapter": 7,
+    "verseRef": "Romains 7:25",
+    "verseText": "Voir Romains 7:25.",
+    "question": "Comment Paul qualifie-t-il l’état de l’esprit, comparé à celui de la chair, dans la même section ?",
+    "choices": [
+      "L’esprit est vendu au péché",
+      "L’esprit est esclave de la loi du péché",
+      "L’esprit est asservi à la loi de Dieu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 7:25 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-089",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:16",
+    "verseText": "Voir Romains 8:16.",
+    "question": "Quel témoignage l’Esprit rend-il, selon Paul ?",
+    "choices": [
+      "Que nous sommes enfants de Dieu",
+      "Que nous sommes sans péché",
+      "Que nous sommes supérieurs aux anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 8:16 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-090",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:20",
+    "verseText": "Voir Romains 8:20.",
+    "question": "Quelle création est décrite comme “soumise à la vanité” ?",
+    "choices": [
+      "La loi",
+      "La création",
+      "Les nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 8:20 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-091",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:19",
+    "verseText": "Voir Romains 8:19.",
+    "question": "Selon Paul, qu’attend la création avec un ardent désir ?",
+    "choices": [
+      "L’apparition des fils de Dieu",
+      "Le retour de la loi",
+      "L’établissement de Rome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 8:19 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-092",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:24",
+    "verseText": "Voir Romains 8:24.",
+    "question": "Comment Paul décrit-il l’espérance par rapport à la vue ?",
+    "choices": [
+      "Ce qu’on voit n’est plus une espérance",
+      "Ce qu’on voit est la plus grande espérance",
+      "Ce qu’on voit suffit au salut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 8:24 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-093",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:26",
+    "verseText": "Voir Romains 8:26.",
+    "question": "Quel terme Paul emploie-t-il pour exprimer le secours de l’Esprit dans notre faiblesse ?",
+    "choices": [
+      "Il condamne",
+      "Il apporte",
+      "Il nous aide"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 8:26 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-094",
+    "book": "Romains",
+    "chapter": 9,
+    "verseRef": "Romains 9:20-21",
+    "verseText": "Voir Romains 9:20-21.",
+    "question": "Quelle comparaison Paul utilise-t-il pour corriger l’homme qui conteste Dieu ?",
+    "choices": [
+      "Le médecin et le malade",
+      "Le vase et le potier",
+      "Le roi et le soldat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 9:20-21 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-095",
+    "book": "Romains",
+    "chapter": 9,
+    "verseRef": "Romains 9:31",
+    "verseText": "Voir Romains 9:31.",
+    "question": "Qu’est-ce qu’Israël n’a pas atteint, selon Paul, malgré la recherche ?",
+    "choices": [
+      "La connaissance",
+      "La justice",
+      "La sagesse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 9:31 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-096",
+    "book": "Romains",
+    "chapter": 10,
+    "verseRef": "Romains 10:4",
+    "verseText": "Voir Romains 10:4.",
+    "question": "Comment Paul décrit-il la “fin de la loi” ?",
+    "choices": [
+      "Christ est la fin de la loi, pour la justification de tous ceux qui croient",
+      "La loi est abolie par les hommes",
+      "La loi demeure pour condamner les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 10:4 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-097",
+    "book": "Romains",
+    "chapter": 10,
+    "verseRef": "Romains 10:8",
+    "verseText": "Voir Romains 10:8.",
+    "question": "Quelle phrase Paul rapporte-t-il : “La parole est…” ?",
+    "choices": [
+      "Très loin de toi",
+      "Près de toi",
+      "Cachée au ciel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 10:8 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-098",
+    "book": "Romains",
+    "chapter": 10,
+    "verseRef": "Romains 10:16",
+    "verseText": "Voir Romains 10:16.",
+    "question": "Quel obstacle Paul signale-t-il concernant l’annonce de l’Évangile ?",
+    "choices": [
+      "Ils n’ont pas tous obéi à la bonne nouvelle",
+      "Ils ont tous cru sans entendre",
+      "Ils n’ont pas eu de prophètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 10:16 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-099",
+    "book": "Romains",
+    "chapter": 11,
+    "verseRef": "Romains 11:5",
+    "verseText": "Voir Romains 11:5.",
+    "question": "Comment Paul qualifie-t-il le “reste” selon l’élection ?",
+    "choices": [
+      "Un reste selon la loi",
+      "Un reste selon la promesse d’Abraham",
+      "Un reste selon l’élection de la grâce"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 11:5 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-100",
+    "book": "Romains",
+    "chapter": 11,
+    "verseRef": "Romains 11:6",
+    "verseText": "Voir Romains 11:6.",
+    "question": "Quel principe Paul établit-il sur la grâce et les œuvres ?",
+    "choices": [
+      "Si c’est par grâce, ce n’est plus par les œuvres",
+      "Si c’est par œuvres, c’est aussi par grâce",
+      "La grâce dépend des œuvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 11:6 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-101",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:7",
+    "verseText": "Voir Romains 1:7.",
+    "question": "Quel titre Paul donne-t-il à ses destinataires au début de l’épître ?",
+    "choices": [
+      "Appelés à être saints",
+      "Appelés à être prophètes",
+      "Appelés à être sacrificateurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 1:7 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-102",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:9-10",
+    "verseText": "Voir Romains 1:9-10.",
+    "question": "Quelle pratique Paul dit-il faire “sans cesse” au sujet des Romains ?",
+    "choices": [
+      "Les reprendre",
+      "Faire mention d’eux dans ses prières",
+      "Leur envoyer des offrandes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 1:9-10 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-103",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:10",
+    "verseText": "Voir Romains 1:10.",
+    "question": "Quelle requête Paul formule-t-il concernant son voyage vers les Romains ?",
+    "choices": [
+      "Être conduit par la volonté de Dieu",
+      "Être escorté par des soldats",
+      "Être enrichi par leur don"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 1:10 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-104",
+    "book": "Romains",
+    "chapter": 1,
+    "verseRef": "Romains 1:32",
+    "verseText": "Voir Romains 1:32.",
+    "question": "Que dit Paul de ceux qui “commettent de telles choses” dans la liste de Romains 1 ?",
+    "choices": [
+      "Ils seront honorés des hommes",
+      "Ils connaissent le jugement de Dieu",
+      "Ils ignorent toute loi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 1:32 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-105",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:2",
+    "verseText": "Voir Romains 2:2.",
+    "question": "Sur quoi Paul fonde-t-il “le jugement de Dieu” ?",
+    "choices": [
+      "Selon la vérité",
+      "Selon la coutume",
+      "Selon les apparences"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 2:2 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-106",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:5",
+    "verseText": "Voir Romains 2:5.",
+    "question": "Que “amasses-tu” selon Paul, quand tu t’endurcis et ne te repens pas ?",
+    "choices": [
+      "De la sagesse",
+      "Un trésor de colère",
+      "Un trésor de paix"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 2:5 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-107",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:7",
+    "verseText": "Voir Romains 2:7.",
+    "question": "Que donne Dieu à ceux qui “cherchent la gloire, l’honneur et l’immortalité” ?",
+    "choices": [
+      "La vie éternelle",
+      "La prospérité",
+      "L’impunité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 2:7 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-108",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:8",
+    "verseText": "Voir Romains 2:8.",
+    "question": "Quel contraste Paul annonce-t-il pour ceux qui sont “contentieux” et “désobéissent à la vérité” ?",
+    "choices": [
+      "Grâce et joie",
+      "Irritation et colère",
+      "Repos et abondance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 2:8 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-109",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:9",
+    "verseText": "Voir Romains 2:9.",
+    "question": "Quel ordre Paul donne-t-il concernant la tribulation et l’angoisse ?",
+    "choices": [
+      "Elles sont d’abord sur le Grec, puis sur le Juif",
+      "Elles sont sur tout homme qui fait le mal, sur le Juif premièrement, puis sur le Grec",
+      "Elles ne touchent que les nations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 2:9 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-110",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:10",
+    "verseText": "Voir Romains 2:10.",
+    "question": "Dans le même passage, à qui est promise la gloire, l’honneur et la paix ?",
+    "choices": [
+      "À quiconque fait le bien, au Juif premièrement, puis au Grec",
+      "Aux seuls sages",
+      "Aux seuls circoncis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 2:10 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-111",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:14",
+    "verseText": "Voir Romains 2:14.",
+    "question": "Que dit Paul des païens qui n’ont point la loi, quand ils font naturellement ce que prescrit la loi ?",
+    "choices": [
+      "Ils sont sans conscience",
+      "Ils sont une loi pour eux-mêmes",
+      "Ils sont justifiés par les œuvres de Moïse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 2:14 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-112",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:15",
+    "verseText": "Voir Romains 2:15.",
+    "question": "Que montre la conscience des païens dans cette description ?",
+    "choices": [
+      "Que leurs pensées s’accusent ou se défendent tour à tour",
+      "Qu’ils ignorent le bien et le mal",
+      "Qu’ils ont une sagesse parfaite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 2:15 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-113",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:19",
+    "verseText": "Voir Romains 2:19.",
+    "question": "Quel titre Paul donne-t-il à celui qui se dit guide des autres ?",
+    "choices": [
+      "Guide des aveugles",
+      "Chef des prêtres",
+      "Prince des rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 2:19 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-114",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:21",
+    "verseText": "Voir Romains 2:21.",
+    "question": "Quelle question Paul pose-t-il à celui qui enseigne les autres ?",
+    "choices": [
+      "Tu enseignes les autres, et tu ne t’enseignes pas toi-même ?",
+      "Tu instruis les autres, et tu n’as jamais péché ?",
+      "Tu parles aux autres, et tu n’écoutes jamais ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 2:21 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-115",
+    "book": "Romains",
+    "chapter": 2,
+    "verseRef": "Romains 2:24",
+    "verseText": "Voir Romains 2:24.",
+    "question": "Quelle conséquence Paul signale-t-il au sujet du nom de Dieu à cause de certains ?",
+    "choices": [
+      "Il est adoré parmi les nations",
+      "Il est blasphémé parmi les païens",
+      "Il est inconnu sur la terre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 2:24 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-116",
+    "book": "Romains",
+    "chapter": 3,
+    "verseRef": "Romains 3:2",
+    "verseText": "Voir Romains 3:2.",
+    "question": "Quel avantage principal Paul reconnaît-il aux Juifs au début de Romains 3 ?",
+    "choices": [
+      "À eux ont été confiés les oracles de Dieu",
+      "À eux appartiennent les nations",
+      "À eux est promise une royauté terrestre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 3:2 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-117",
+    "book": "Romains",
+    "chapter": 3,
+    "verseRef": "Romains 3:3-4",
+    "verseText": "Voir Romains 3:3-4.",
+    "question": "Quelle réponse Paul donne-t-il à l’idée que l’infidélité de quelques-uns annulerait la fidélité de Dieu ?",
+    "choices": [
+      "Ainsi soit-il",
+      "Loin de là !",
+      "Cela est probable"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 3:3-4 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-118",
+    "book": "Romains",
+    "chapter": 3,
+    "verseRef": "Romains 3:4",
+    "verseText": "Voir Romains 3:4.",
+    "question": "Quelle formule Paul utilise-t-il : “Que Dieu, au contraire, soit reconnu pour…” ?",
+    "choices": [
+      "Fidèle",
+      "Vrai",
+      "Redoutable"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 3:4 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-119",
+    "book": "Romains",
+    "chapter": 3,
+    "verseRef": "Romains 3:26",
+    "verseText": "Voir Romains 3:26.",
+    "question": "Quel objectif Paul donne-t-il à la manifestation de la justice de Dieu “dans le temps présent” ?",
+    "choices": [
+      "Montrer qu’il est juste tout en justifiant celui qui a la foi en Jésus",
+      "Établir une loi nouvelle pour Israël",
+      "Confondre les sages de Rome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 3:26 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-120",
+    "book": "Romains",
+    "chapter": 3,
+    "verseRef": "Romains 3:28",
+    "verseText": "Voir Romains 3:28.",
+    "question": "Quelle conclusion Paul tire-t-il sur l’homme et la justification ?",
+    "choices": [
+      "L’homme est justifié par la foi, sans les œuvres de la loi",
+      "L’homme est justifié par la loi, sans la foi",
+      "L’homme est justifié par l’origine, sans la grâce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 3:28 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-121",
+    "book": "Romains",
+    "chapter": 4,
+    "verseRef": "Romains 4:2",
+    "verseText": "Voir Romains 4:2.",
+    "question": "Quel argument Paul donne-t-il contre le sujet de “se glorifier” pour Abraham ?",
+    "choices": [
+      "Il a de quoi se glorifier devant Dieu",
+      "Il a de quoi se glorifier, mais non devant Dieu",
+      "Il n’a jamais obéi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 4:2 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-122",
+    "book": "Romains",
+    "chapter": 4,
+    "verseRef": "Romains 4:5",
+    "verseText": "Voir Romains 4:5.",
+    "question": "Comment Paul décrit-il celui “qui ne fait point d’œuvres” mais croit ?",
+    "choices": [
+      "Sa foi lui est imputée à justice",
+      "Sa foi lui est imputée à gloire humaine",
+      "Sa foi lui est imputée à condamnation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 4:5 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-123",
+    "book": "Romains",
+    "chapter": 4,
+    "verseRef": "Romains 4:19",
+    "verseText": "Voir Romains 4:19.",
+    "question": "Quel terme Paul emploie-t-il pour l’état d’Abraham face à son corps “déjà usé” ?",
+    "choices": [
+      "Il fut sans faiblesse dans la foi",
+      "Il fut vaincu par la peur",
+      "Il fut surpris de vivre encore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 4:19 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-124",
+    "book": "Romains",
+    "chapter": 4,
+    "verseRef": "Romains 4:24",
+    "verseText": "Voir Romains 4:24.",
+    "question": "À qui Paul applique-t-il aussi l’imputation de justice, au-delà d’Abraham ?",
+    "choices": [
+      "À ceux qui croient en celui qui a ressuscité Jésus notre Seigneur des morts",
+      "À ceux qui gardent la circoncision",
+      "À ceux qui offrent des sacrifices"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 4:24 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-125",
+    "book": "Romains",
+    "chapter": 4,
+    "verseRef": "Romains 4:25",
+    "verseText": "Voir Romains 4:25.",
+    "question": "Pour quelles fautes Jésus a-t-il été “livré”, selon Paul ?",
+    "choices": [
+      "Pour nos offenses",
+      "Pour celles des nations seulement",
+      "Pour celles des anciens seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 4:25 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-126",
+    "book": "Romains",
+    "chapter": 4,
+    "verseRef": "Romains 4:25",
+    "verseText": "Voir Romains 4:25.",
+    "question": "Pour quoi Jésus a-t-il été “ressuscité”, selon la même phrase ?",
+    "choices": [
+      "Pour notre justification",
+      "Pour notre richesse",
+      "Pour notre renom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 4:25 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-127",
+    "book": "Romains",
+    "chapter": 5,
+    "verseRef": "Romains 5:2",
+    "verseText": "Voir Romains 5:2.",
+    "question": "Quel résultat Paul associe-t-il à l’accès à la grâce ?",
+    "choices": [
+      "Nous nous glorifions dans l’espérance de la gloire de Dieu",
+      "Nous cessons toute prière",
+      "Nous rejetons toute souffrance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 5:2 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-128",
+    "book": "Romains",
+    "chapter": 5,
+    "verseRef": "Romains 5:4",
+    "verseText": "Voir Romains 5:4.",
+    "question": "Quel enchaînement Paul donne-t-il après “l’épreuve” ?",
+    "choices": [
+      "L’épreuve produit l’espérance",
+      "L’épreuve produit l’orgueil",
+      "L’épreuve produit la vanité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 5:4 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-129",
+    "book": "Romains",
+    "chapter": 5,
+    "verseRef": "Romains 5:18",
+    "verseText": "Voir Romains 5:18.",
+    "question": "Quel contraste Paul souligne-t-il entre Adam et Jésus-Christ au sujet d’un “don” ?",
+    "choices": [
+      "Le don gratuit est venu sur tous les hommes à la condamnation",
+      "Le don gratuit est venu sur tous les hommes à la justification qui donne la vie",
+      "Le don gratuit est venu sur quelques hommes à la peur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 5:18 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-130",
+    "book": "Romains",
+    "chapter": 6,
+    "verseRef": "Romains 6:1",
+    "verseText": "Voir Romains 6:1.",
+    "question": "Quelle question Paul pose-t-il pour interdire que le péché domine ?",
+    "choices": [
+      "Demeurerions-nous dans le péché, afin que la grâce abonde ?",
+      "Cacherions-nous la foi, afin d’éviter la haine ?",
+      "Oublierions-nous la loi, afin d’être libres ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 6:1 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-131",
+    "book": "Romains",
+    "chapter": 6,
+    "verseRef": "Romains 6:18",
+    "verseText": "Voir Romains 6:18.",
+    "question": "Quelle comparaison Paul fait-il avec l’esclavage pour décrire la transition des croyants ?",
+    "choices": [
+      "Vous avez été affranchis de la justice",
+      "Vous avez été affranchis du péché",
+      "Vous avez été affranchis de la vérité"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Romains 6:18 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-132",
+    "book": "Romains",
+    "chapter": 6,
+    "verseRef": "Romains 6:21",
+    "verseText": "Voir Romains 6:21.",
+    "question": "Qu’est-ce que Paul appelle “choses dont vous rougissez maintenant” ?",
+    "choices": [
+      "Les œuvres passées dont la fin est la mort",
+      "Les prières secrètes",
+      "Les dons aux pauvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 6:21 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-133",
+    "book": "Romains",
+    "chapter": 6,
+    "verseRef": "Romains 6:21",
+    "verseText": "Voir Romains 6:21.",
+    "question": "Quel résultat Paul associe-t-il à “la fin” de ces choses ?",
+    "choices": [
+      "La mort",
+      "La paix",
+      "L’honneur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 6:21 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-134",
+    "book": "Romains",
+    "chapter": 7,
+    "verseRef": "Romains 7:5",
+    "verseText": "Voir Romains 7:5.",
+    "question": "À quoi Paul compare-t-il la loi dans son effet sur l’homme, en termes de “passions” ?",
+    "choices": [
+      "Les passions des péchés étaient excitées par la loi",
+      "Les passions des péchés étaient guéries par la loi",
+      "Les passions des péchés étaient ignorées par la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 7:5 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-135",
+    "book": "Romains",
+    "chapter": 7,
+    "verseRef": "Romains 7:11",
+    "verseText": "Voir Romains 7:11.",
+    "question": "Quelle expression Paul emploie-t-il pour décrire l’effet du péché qui “séduit” ?",
+    "choices": [
+      "Le péché, saisissant l’occasion, m’a séduit",
+      "Le péché, sans occasion, m’a béni",
+      "Le péché, par la foi, m’a consolé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 7:11 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-136",
+    "book": "Romains",
+    "chapter": 7,
+    "verseRef": "Romains 7:13",
+    "verseText": "Voir Romains 7:13.",
+    "question": "Quel rôle le commandement a-t-il joué, selon Paul, pour “faire paraître” le péché ?",
+    "choices": [
+      "Afin que le péché devînt condamnable au dernier point",
+      "Afin que le péché devînt invisible",
+      "Afin que le péché devînt honorable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 7:13 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-137",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:21",
+    "verseText": "Voir Romains 8:21.",
+    "question": "Comment Paul décrit-il l’état de la création concernant “la servitude” ?",
+    "choices": [
+      "La servitude de la corruption",
+      "La servitude des anges",
+      "La servitude de la sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 8:21 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-138",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:23",
+    "verseText": "Voir Romains 8:23.",
+    "question": "Quel mot Paul emploie-t-il pour l’attente des croyants concernant leur corps ?",
+    "choices": [
+      "L’adoption, la rédemption de notre corps",
+      "La richesse, la gloire du siècle",
+      "La vengeance, la punition des ennemis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 8:23 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-139",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:25",
+    "verseText": "Voir Romains 8:25.",
+    "question": "Comment Paul décrit-il l’objet de l’espérance par rapport au présent ?",
+    "choices": [
+      "Nous l’espérons et l’attendons avec persévérance",
+      "Nous le voyons déjà pleinement",
+      "Nous le possédons sans attendre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Romains 8:25 (LSG 1910)."
+  },
+  {
+    "id": "romains-N-140",
+    "book": "Romains",
+    "chapter": 8,
+    "verseRef": "Romains 8:29",
+    "verseText": "Voir Romains 8:29.",
+    "question": "Selon Paul, que fait Dieu pour ceux qu’il a aimés “d’avance” ?",
+    "choices": [
+      "Il les condamne d’avance",
+      "Il les oublie d’avance",
+      "Il les a prédestinés à être semblables à l’image de son Fils"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Romains 8:29 (LSG 1910)."
+  }
+]

@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "1timothee-N-001",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:2",
+    "verseText": "Voir 1 Timothée 1:2.",
+    "question": "Quel trio de dons est souhaité à Timothée dans la salutation ?",
+    "choices": [
+      "la grâce, la miséricorde et la paix",
+      "la foi, l’espérance et la charité",
+      "l’honneur, la gloire et la puissance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:2 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-002",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:3",
+    "verseText": "Voir 1 Timothée 1:3.",
+    "question": "Où Timothée a-t-il été engagé à rester afin de recommander à certaines personnes de ne pas enseigner d’autres doctrines ?",
+    "choices": [
+      "à Éphèse",
+      "à Jérusalem",
+      "à Corinthe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:3 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-003",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:4",
+    "verseText": "Voir 1 Timothée 1:4.",
+    "question": "À quoi Paul demande-t-il de ne pas s’attacher, parce que cela produit des discussions plutôt qu’une avance dans la foi ?",
+    "choices": [
+      "à des fables et à des généalogies sans fin",
+      "à la lecture, à l’exhortation, à l’enseignement",
+      "au mystère de la piété"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:4 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-004",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:5",
+    "verseText": "Voir 1 Timothée 1:5.",
+    "question": "Quel est, selon le texte, le but du commandement ?",
+    "choices": [
+      "une charité venant d’un cœur pur, d’une bonne conscience, et d’une foi sincère",
+      "une grande assurance dans la foi en Jésus-Christ",
+      "une promesse de la vie présente et de celle qui est à venir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:5 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-005",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:7",
+    "verseText": "Voir 1 Timothée 1:7.",
+    "question": "Que veulent être ceux qui se sont égarés dans de vains discours ?",
+    "choices": [
+      "docteurs de la loi",
+      "diacres irréprochables",
+      "riches en bonnes œuvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:7 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-006",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:8",
+    "verseText": "Voir 1 Timothée 1:8.",
+    "question": "Dans quelles conditions la loi est-elle dite bonne ?",
+    "choices": [
+      "pourvu qu’on en fasse un usage légitime",
+      "pourvu qu’on la prenne avec actions de grâces",
+      "pourvu qu’on la garde sans tache"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:8 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-007",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:9",
+    "verseText": "Voir 1 Timothée 1:9.",
+    "question": "Pour qui la loi n’est-elle pas faite, selon l’énoncé explicite ?",
+    "choices": [
+      "pour le juste",
+      "pour les rebelles",
+      "pour les parjures"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:9 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-008",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:10",
+    "verseText": "Voir 1 Timothée 1:10.",
+    "question": "Quel type de personnes est explicitement cité parmi celles pour qui la loi est faite ?",
+    "choices": [
+      "les voleurs d’hommes",
+      "les anges élus",
+      "les évêques sobres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:10 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-009",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:11",
+    "verseText": "Voir 1 Timothée 1:11.",
+    "question": "À quoi Paul dit-il que l’Évangile confié est conforme ?",
+    "choices": [
+      "à l’Évangile de la gloire du Dieu bienheureux",
+      "à la doctrine qui est selon la piété",
+      "à la colonne et l’appui de la vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:11 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-010",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:12",
+    "verseText": "Voir 1 Timothée 1:12.",
+    "question": "Qui Paul remercie-t-il de l’avoir fortifié ?",
+    "choices": [
+      "Jésus-Christ notre Seigneur",
+      "Ponce Pilate",
+      "les anciens de l’assemblée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:12 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-011",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:13",
+    "verseText": "Voir 1 Timothée 1:13.",
+    "question": "Quel passé Paul rappelle-t-il en parlant de lui-même avant le ministère ?",
+    "choices": [
+      "un blasphémateur, un persécuteur, un homme violent",
+      "un homme de Dieu, doux et patient",
+      "un modèle en conduite et en pureté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:13 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-012",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:13",
+    "verseText": "Voir 1 Timothée 1:13.",
+    "question": "Pour quelle raison Paul dit-il avoir obtenu miséricorde dans son état d’avant ?",
+    "choices": [
+      "parce que j’agissais par ignorance, dans l’incrédulité",
+      "parce que j’avais lavé les pieds des saints",
+      "parce que j’avais été mari d’une seule femme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:13 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-013",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:15",
+    "verseText": "Voir 1 Timothée 1:15.",
+    "question": "Quelle parole est qualifiée de certaine et entièrement digne d’être reçue au sujet de la venue de Jésus-Christ ?",
+    "choices": [
+      "que Jésus-Christ est venu dans le monde pour sauver les pécheurs",
+      "que tout ce que Dieu a créé est bon",
+      "que l’amour de l’argent est une racine de tous les maux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:15 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-014",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:17",
+    "verseText": "Voir 1 Timothée 1:17.",
+    "question": "Quel titre est attribué à Dieu dans la doxologie « Au roi des siècles… » ?",
+    "choices": [
+      "immortel, invisible, seul Dieu",
+      "Sauveur de tous les hommes, principalement des croyants",
+      "bienheureux et seul souverain, le roi des rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:17 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-015",
+    "book": "1 Timothée",
+    "chapter": 1,
+    "verseRef": "1 Timothée 1:20",
+    "verseText": "Voir 1 Timothée 1:20.",
+    "question": "À quels deux hommes Paul dit-il avoir livré à Satan afin qu’ils apprennent à ne pas blasphémer ?",
+    "choices": [
+      "Hyménée et Alexandre",
+      "Adam et Eve",
+      "Jésus-Christ et Ponce Pilate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 1:20 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-016",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:1",
+    "verseText": "Voir 1 Timothée 2:1.",
+    "question": "Quelles quatre actions sont citées « avant toutes choses » au sujet de la prière ?",
+    "choices": [
+      "des prières, des supplications, des requêtes, des actions de grâces",
+      "la lecture, l’exhortation, l’enseignement, la piété",
+      "la justice, la foi, la patience, la douceur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:1 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-017",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:1",
+    "verseText": "Voir 1 Timothée 2:1.",
+    "question": "Pour qui ces prières et actions de grâces doivent-elles être faites, selon la formule générale ?",
+    "choices": [
+      "pour tous les hommes",
+      "pour les anciens seulement",
+      "pour les riches du présent siècle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:1 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-018",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:2",
+    "verseText": "Voir 1 Timothée 2:2.",
+    "question": "Quel but est donné concernant les rois et ceux qui sont élevés en dignité ?",
+    "choices": [
+      "afin que nous menions une vie paisible et tranquille, en toute piété et honnêteté",
+      "afin qu’ils soient jugés dignes d’un double honneur",
+      "afin qu’ils s’amassent pour l’avenir un trésor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:2 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-019",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:4",
+    "verseText": "Voir 1 Timothée 2:4.",
+    "question": "Que veut Dieu au sujet de tous les hommes, selon l’affirmation explicite ?",
+    "choices": [
+      "qu’ils soient sauvés et parviennent à la connaissance de la vérité",
+      "qu’ils se marient et dirigent leur maison",
+      "qu’ils ne boivent que de l’eau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:4 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-020",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:5",
+    "verseText": "Voir 1 Timothée 2:5.",
+    "question": "Combien de médiateur est-il affirmé qu’il y a entre Dieu et les hommes, et qui est-il ?",
+    "choices": [
+      "un seul médiateur entre Dieu et les hommes, Jésus-Christ homme",
+      "deux médiateurs entre Dieu et les hommes, Jésus-Christ et les anges élus",
+      "plusieurs médiateurs entre Dieu et les hommes, les anciens et les diacres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:5 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-021",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:6",
+    "verseText": "Voir 1 Timothée 2:6.",
+    "question": "Comment est décrite l’offrande de Jésus-Christ en faveur de tous ?",
+    "choices": [
+      "qui s’est donné lui-même en rançon pour tous",
+      "qui a été manifesté en chair",
+      "qui habite une lumière inaccessible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:6 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-022",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:7",
+    "verseText": "Voir 1 Timothée 2:7.",
+    "question": "Dans quelle double sphère Paul dit-il être chargé d’instruire les païens ?",
+    "choices": [
+      "dans la foi et la vérité",
+      "dans la piété et l’honnêteté",
+      "dans le silence et la soumission"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:7 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-023",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:8",
+    "verseText": "Voir 1 Timothée 2:8.",
+    "question": "Comment les hommes doivent-ils prier en tout lieu, selon l’instruction ?",
+    "choices": [
+      "en élevant des mains pures, sans colère ni mauvaises pensées",
+      "en devenant mère, avec modestie",
+      "en s’abstenant d’aliments, avec flétrissure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:8 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-024",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:9",
+    "verseText": "Voir 1 Timothée 2:9.",
+    "question": "De quoi les femmes ne doivent-elles pas se parer, selon la liste explicite ?",
+    "choices": [
+      "de tresses, d’or, de perles, d’habits somptueux",
+      "de bonnes œuvres, de pudeur, de modestie",
+      "de justice, de charité, de douceur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:9 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-025",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:10",
+    "verseText": "Voir 1 Timothée 2:10.",
+    "question": "Par quoi les femmes doivent-elles se parer, selon la formulation ?",
+    "choices": [
+      "de bonnes œuvres",
+      "d’un gain sordide",
+      "de disputes de mots"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:10 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-026",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:11",
+    "verseText": "Voir 1 Timothée 2:11.",
+    "question": "Dans quel cadre la femme doit-elle écouter l’instruction ?",
+    "choices": [
+      "en silence, avec une entière soumission",
+      "en tout lieu, en élevant des mains pures",
+      "devant tous, afin que les autres éprouvent de la crainte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:11 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-027",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:12",
+    "verseText": "Voir 1 Timothée 2:12.",
+    "question": "Quelle double interdiction est donnée concernant la femme ?",
+    "choices": [
+      "d’enseigner, ni de prendre de l’autorité sur l’homme",
+      "de se marier, et de s’abstenir d’aliments",
+      "de travailler, et de combattre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:12 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-028",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:13",
+    "verseText": "Voir 1 Timothée 2:13.",
+    "question": "Quel ordre de formation est rappelé pour appuyer l’argument ?",
+    "choices": [
+      "Adam a été formé le premier, Eve ensuite",
+      "Eve a été formée la première, Adam ensuite",
+      "les anges élus ont été formés les premiers, puis les hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:13 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-029",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:14",
+    "verseText": "Voir 1 Timothée 2:14.",
+    "question": "Qui est désigné comme ayant été séduit dans le récit rappelé ?",
+    "choices": [
+      "la femme",
+      "Adam",
+      "le diable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:14 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-030",
+    "book": "1 Timothée",
+    "chapter": 2,
+    "verseRef": "1 Timothée 2:15",
+    "verseText": "Voir 1 Timothée 2:15.",
+    "question": "Dans quelle condition la femme est-elle dite néanmoins sauvée, selon l’énoncé complet ?",
+    "choices": [
+      "en devenant mère, si elle persévère avec modestie dans la foi, dans la charité, et dans la sainteté",
+      "en gardant le dépôt, si elle fuit ces choses",
+      "en étant inscrite sur le rôle, si elle a moins de soixante ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 2:15 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-031",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:1",
+    "verseText": "Voir 1 Timothée 3:1.",
+    "question": "Quelle aspiration est qualifiée d’œuvre excellente ?",
+    "choices": [
+      "aspirer à la charge d’évêque",
+      "rechercher un gain sordide",
+      "être causeuse et intrigante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:1 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-032",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:2",
+    "verseText": "Voir 1 Timothée 3:2.",
+    "question": "Quel état marital est exigé pour l’évêque dans la liste ?",
+    "choices": [
+      "mari d’une seule femme",
+      "homme sans famille",
+      "veuf inscrit sur le rôle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:2 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-033",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:2",
+    "verseText": "Voir 1 Timothée 3:2.",
+    "question": "Quelle aptitude précise est citée parmi les qualités attendues de l’évêque ?",
+    "choices": [
+      "propre à l’enseignement",
+      "riche en plaisirs",
+      "adonné au vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:2 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-034",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:3",
+    "verseText": "Voir 1 Timothée 3:3.",
+    "question": "Parmi les oppositions listées, quelle attitude l’évêque ne doit-il pas avoir ?",
+    "choices": [
+      "violent",
+      "pacifique",
+      "indulgent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:3 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-035",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:5",
+    "verseText": "Voir 1 Timothée 3:5.",
+    "question": "Selon la logique donnée, que risque celui qui ne sait pas diriger sa propre maison ?",
+    "choices": [
+      "ne pas savoir prendre soin de l’Église de Dieu",
+      "être inscrit sur le rôle des veuves",
+      "être nourri des paroles de la foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:5 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-036",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:6",
+    "verseText": "Voir 1 Timothée 3:6.",
+    "question": "Pourquoi l’évêque ne doit-il pas être un nouveau converti ?",
+    "choices": [
+      "de peur qu’enflé d’orgueil il ne tombe sous le jugement du diable",
+      "afin que la doctrine ne soit pas blasphémée",
+      "afin que ses progrès soient évidents pour tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:6 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-037",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:7",
+    "verseText": "Voir 1 Timothée 3:7.",
+    "question": "Quel type de témoignage l’évêque doit-il recevoir de ceux du dehors ?",
+    "choices": [
+      "un bon témoignage",
+      "une accusation sur deux témoins",
+      "une confession devant un grand nombre de témoins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:7 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-038",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:8",
+    "verseText": "Voir 1 Timothée 3:8.",
+    "question": "De quoi les diacres doivent-ils être éloignés, selon la liste ?",
+    "choices": [
+      "de la duplicité",
+      "de la piété",
+      "de la lecture"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:8 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-039",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:9",
+    "verseText": "Voir 1 Timothée 3:9.",
+    "question": "Quel contenu les diacres doivent-ils conserver, et dans quel état intérieur ?",
+    "choices": [
+      "le mystère de la foi dans une conscience pure",
+      "le dépôt dans des discours vains",
+      "la jeunesse dans une parfaite honnêteté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:9 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-040",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:10",
+    "verseText": "Voir 1 Timothée 3:10.",
+    "question": "Que faut-il faire aux diacres avant qu’ils exercent leur ministère ?",
+    "choices": [
+      "les éprouver d’abord",
+      "les livrer à Satan",
+      "les inscrire sur le rôle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:10 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-041",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:11",
+    "verseText": "Voir 1 Timothée 3:11.",
+    "question": "Quelle qualité est demandée aux femmes « de même » dans la série des exigences ?",
+    "choices": [
+      "non médisantes",
+      "médisantes",
+      "oisives"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:11 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-042",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:13",
+    "verseText": "Voir 1 Timothée 3:13.",
+    "question": "Quel résultat est associé à ceux qui remplissent convenablement leur ministère de diacre ?",
+    "choices": [
+      "un rang honorable, et une grande assurance dans la foi en Jésus-Christ",
+      "une flétrissure dans leur propre conscience",
+      "un jugement du diable, et des pièges du diable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:13 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-043",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:15",
+    "verseText": "Voir 1 Timothée 3:15.",
+    "question": "Dans quel but Paul écrit-il « afin que tu saches » ?",
+    "choices": [
+      "comment il faut se conduire dans la maison de Dieu",
+      "comment s’abstenir d’aliments",
+      "comment s’amasser un trésor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:15 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-044",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:15",
+    "verseText": "Voir 1 Timothée 3:15.",
+    "question": "Comment est désignée l’Église dans la formule de Paul ?",
+    "choices": [
+      "l’Église du Dieu vivant, la colonne et l’appui de la vérité",
+      "l’Église des hommes, la racine de tous les maux",
+      "l’Église des veuves, le rôle des soixante ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:15 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-045",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:16",
+    "verseText": "Voir 1 Timothée 3:16.",
+    "question": "Quelle affirmation introduit la déclaration sur le mystère de la piété ?",
+    "choices": [
+      "le mystère de la piété est grand",
+      "l’exercice corporel est utile à tout",
+      "la loi n’est pas faite pour le juste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:16 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-046",
+    "book": "1 Timothée",
+    "chapter": 3,
+    "verseRef": "1 Timothée 3:16",
+    "verseText": "Voir 1 Timothée 3:16.",
+    "question": "Quel enchaînement fait partie du « mystère de la piété » tel qu’il est donné ?",
+    "choices": [
+      "manifesté en chair, justifié par l’Esprit, vu des anges",
+      "nourri des paroles de la foi, lavé les pieds des saints, secouru les malheureux",
+      "élevé en dignité, riche du présent siècle, possédé de l’amour de l’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 3:16 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-047",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:1",
+    "verseText": "Voir 1 Timothée 4:1.",
+    "question": "Que dit l’Esprit au sujet des derniers temps ?",
+    "choices": [
+      "quelques-uns abandonneront la foi",
+      "tous les hommes parviendront à la connaissance de la vérité",
+      "personne ne méprisera ta jeunesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:1 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-048",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:1",
+    "verseText": "Voir 1 Timothée 4:1.",
+    "question": "À quoi quelques-uns s’attacheront-ils en abandonnant la foi ?",
+    "choices": [
+      "à des esprits séducteurs et à des doctrines de démons",
+      "à la lecture, à l’exhortation, à l’enseignement",
+      "au dépôt, avec la grâce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:1 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-049",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:3",
+    "verseText": "Voir 1 Timothée 4:3.",
+    "question": "Quelle pratique est attribuée aux faux docteurs dans leur prescription ?",
+    "choices": [
+      "de ne pas se marier",
+      "de faire du bien",
+      "d’avoir de la générosité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:3 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-050",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:4",
+    "verseText": "Voir 1 Timothée 4:4.",
+    "question": "Quel principe est donné au sujet de ce que Dieu a créé ?",
+    "choices": [
+      "tout ce que Dieu a créé est bon",
+      "tout ce que Dieu a créé est douteux",
+      "tout ce que Dieu a créé est inutile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:4 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-051",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:5",
+    "verseText": "Voir 1 Timothée 4:5.",
+    "question": "Par quoi tout est-il dit sanctifié, selon l’énoncé ?",
+    "choices": [
+      "par la parole de Dieu et par la prière",
+      "par les disputes de mots et les questions oiseuses",
+      "par les plaisirs et la volupté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:5 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-052",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:7",
+    "verseText": "Voir 1 Timothée 4:7.",
+    "question": "Quel type de récits Timothée doit-il repousser ?",
+    "choices": [
+      "les contes profanes et absurdes",
+      "les prophéties faites précédemment",
+      "les saines paroles de notre Seigneur Jésus-Christ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:7 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-053",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:7",
+    "verseText": "Voir 1 Timothée 4:7.",
+    "question": "À quoi Timothée doit-il s’exercer, selon le commandement explicite ?",
+    "choices": [
+      "à la piété",
+      "aux discussions",
+      "aux plaisirs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:7 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-054",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:8",
+    "verseText": "Voir 1 Timothée 4:8.",
+    "question": "Quelle comparaison est faite entre l’exercice corporel et la piété ?",
+    "choices": [
+      "l’exercice corporel est utile à peu de chose, tandis que la piété est utile à tout",
+      "l’exercice corporel est utile à tout, tandis que la piété est utile à peu de chose",
+      "l’exercice corporel et la piété sont inutiles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:8 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-055",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:8",
+    "verseText": "Voir 1 Timothée 4:8.",
+    "question": "Quelle promesse est explicitement associée à la piété ?",
+    "choices": [
+      "la promesse de la vie présente et de celle qui est à venir",
+      "la promesse d’un gain sordide",
+      "la promesse d’être inscrit sur le rôle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:8 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-056",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:10",
+    "verseText": "Voir 1 Timothée 4:10.",
+    "question": "Dans quelle raison Paul dit-il travailler et combattre ?",
+    "choices": [
+      "parce que nous mettons notre espérance dans le Dieu vivant",
+      "parce que nous n’imposons les mains à personne",
+      "parce que nous ne buvons que de l’eau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:10 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-057",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:12",
+    "verseText": "Voir 1 Timothée 4:12.",
+    "question": "Quel commandement protège Timothée contre le mépris lié à son âge ?",
+    "choices": [
+      "sois un modèle pour les fidèles, en parole, en conduite, en charité, en foi, en pureté",
+      "ne réprimande pas rudement le vieillard",
+      "garde le dépôt en évitant les discours vains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:12 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-058",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:13",
+    "verseText": "Voir 1 Timothée 4:13.",
+    "question": "À quoi Timothée doit-il s’appliquer jusqu’à la venue de Paul ?",
+    "choices": [
+      "à la lecture, à l’exhortation, à l’enseignement",
+      "à la maladie des disputes de mots",
+      "à l’inscription des jeunes veuves"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:13 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-059",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:14",
+    "verseText": "Voir 1 Timothée 4:14.",
+    "question": "Comment le don en Timothée est-il dit avoir été donné ?",
+    "choices": [
+      "par prophétie avec l’imposition des mains de l’assemblée des anciens",
+      "par la flétrissure dans leur propre conscience",
+      "par la volupté qui détache du Christ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:14 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-060",
+    "book": "1 Timothée",
+    "chapter": 4,
+    "verseRef": "1 Timothée 4:16",
+    "verseText": "Voir 1 Timothée 4:16.",
+    "question": "Quel double effet est annoncé si Timothée persévère sur lui-même et sur son enseignement ?",
+    "choices": [
+      "tu te sauveras toi-même, et tu sauveras ceux qui t’écoutent",
+      "tu tomberas sous le jugement du diable, et tu tomberas dans l’opprobre",
+      "tu seras inscrit sur le rôle, et tu seras chargé par l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 4:16 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-061",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:15",
+    "verseText": "Voir 1 Timothée 5:15.",
+    "question": "Selon l’observation donnée, que font déjà quelques-unes de certaines femmes ?",
+    "choices": [
+      "Elles se sont détournées pour suivre Satan",
+      "Elles ont été inscrites sur le rôle",
+      "Elles ont été envoyées comme docteurs de la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:15 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-062",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:15",
+    "verseText": "Voir 1 Timothée 5:15.",
+    "question": "Selon l’observation donnée, que font déjà quelques-unes de certaines femmes ?",
+    "choices": [
+      "Elles se sont détournées pour suivre Satan",
+      "Elles ont été inscrites sur le rôle",
+      "Elles ont été envoyées comme docteurs de la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:15 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-063",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:16",
+    "verseText": "Voir 1 Timothée 5:16.",
+    "question": "Que doit faire un fidèle qui a des veuves dans sa famille ?",
+    "choices": [
+      "Les assister",
+      "Les inscrire sur le rôle",
+      "Les envoyer enseigner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:16 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-064",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:16",
+    "verseText": "Voir 1 Timothée 5:16.",
+    "question": "Que doit faire un fidèle qui a des veuves dans sa famille ?",
+    "choices": [
+      "Les assister",
+      "Les inscrire sur le rôle",
+      "Les envoyer enseigner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:16 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-065",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:16",
+    "verseText": "Voir 1 Timothée 5:16.",
+    "question": "Pourquoi l’Église ne doit-elle pas être chargée quand un fidèle peut assister des veuves ?",
+    "choices": [
+      "Afin qu’elle puisse assister celles qui sont véritablement veuves",
+      "Afin qu’elle puisse se consacrer aux richesses incertaines",
+      "Afin qu’elle puisse imposer les mains à tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:16 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-066",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:16",
+    "verseText": "Voir 1 Timothée 5:16.",
+    "question": "Pourquoi l’Église ne doit-elle pas être chargée quand un fidèle peut assister des veuves ?",
+    "choices": [
+      "Afin qu’elle puisse assister celles qui sont véritablement veuves",
+      "Afin qu’elle puisse se consacrer aux richesses incertaines",
+      "Afin qu’elle puisse imposer les mains à tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:16 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-067",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:17",
+    "verseText": "Voir 1 Timothée 5:17.",
+    "question": "Quels anciens sont déclarés dignes d’un double honneur ?",
+    "choices": [
+      "Ceux qui dirigent bien, surtout ceux qui travaillent à la prédication et à l’enseignement",
+      "Ceux qui sont nouveaux convertis, surtout ceux qui sont riches",
+      "Ceux qui se marient, surtout ceux qui s’abstiennent d’aliments"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:17 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-068",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:17",
+    "verseText": "Voir 1 Timothée 5:17.",
+    "question": "Quels anciens sont déclarés dignes d’un double honneur ?",
+    "choices": [
+      "Ceux qui dirigent bien, surtout ceux qui travaillent à la prédication et à l’enseignement",
+      "Ceux qui sont nouveaux convertis, surtout ceux qui sont riches",
+      "Ceux qui se marient, surtout ceux qui s’abstiennent d’aliments"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:17 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-069",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:18",
+    "verseText": "Voir 1 Timothée 5:18.",
+    "question": "Quelle image est utilisée pour appuyer la rémunération du service ?",
+    "choices": [
+      "Tu n’emmuselleras point le bœuf quand il foule le grain",
+      "Tu ne sèmeras point deux espèces dans ton champ",
+      "Tu ne feras point cuire le chevreau dans le lait de sa mère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:18 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-070",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:18",
+    "verseText": "Voir 1 Timothée 5:18.",
+    "question": "Quelle image est utilisée pour appuyer la rémunération du service ?",
+    "choices": [
+      "Tu n’emmuselleras point le bœuf quand il foule le grain",
+      "Tu ne sèmeras point deux espèces dans ton champ",
+      "Tu ne feras point cuire le chevreau dans le lait de sa mère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:18 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-071",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:18",
+    "verseText": "Voir 1 Timothée 5:18.",
+    "question": "Quelle déclaration est donnée sur la récompense du travailleur ?",
+    "choices": [
+      "L’ouvrier mérite son salaire",
+      "L’ouvrier doit travailler sans salaire",
+      "L’ouvrier mérite des honneurs sans travail"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:18 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-072",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:18",
+    "verseText": "Voir 1 Timothée 5:18.",
+    "question": "Quelle déclaration est donnée sur la récompense du travailleur ?",
+    "choices": [
+      "L’ouvrier mérite son salaire",
+      "L’ouvrier doit travailler sans salaire",
+      "L’ouvrier mérite des honneurs sans travail"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:18 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-073",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:19",
+    "verseText": "Voir 1 Timothée 5:19.",
+    "question": "Dans quelles conditions une accusation contre un ancien peut-elle être reçue ?",
+    "choices": [
+      "Sur la déposition de deux ou trois témoins",
+      "Sur un simple bruit public",
+      "Sur une seule lettre anonyme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:19 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-074",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:19",
+    "verseText": "Voir 1 Timothée 5:19.",
+    "question": "Dans quelles conditions une accusation contre un ancien peut-elle être reçue ?",
+    "choices": [
+      "Sur la déposition de deux ou trois témoins",
+      "Sur un simple bruit public",
+      "Sur une seule lettre anonyme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:19 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-075",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:20",
+    "verseText": "Voir 1 Timothée 5:20.",
+    "question": "Comment doivent être repris ceux qui pèchent, selon l’ordre donné ?",
+    "choices": [
+      "Devant tous",
+      "Dans le secret seulement",
+      "Par écrit uniquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:20 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-076",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:20",
+    "verseText": "Voir 1 Timothée 5:20.",
+    "question": "Comment doivent être repris ceux qui pèchent, selon l’ordre donné ?",
+    "choices": [
+      "Devant tous",
+      "Dans le secret seulement",
+      "Par écrit uniquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:20 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-077",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:20",
+    "verseText": "Voir 1 Timothée 5:20.",
+    "question": "Quel effet est recherché par cette réprimande publique ?",
+    "choices": [
+      "Afin que les autres aussi éprouvent de la crainte",
+      "Afin que les autres se vantent",
+      "Afin que les autres s’attachent à des fables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:20 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-078",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:20",
+    "verseText": "Voir 1 Timothée 5:20.",
+    "question": "Quel effet est recherché par cette réprimande publique ?",
+    "choices": [
+      "Afin que les autres aussi éprouvent de la crainte",
+      "Afin que les autres se vantent",
+      "Afin que les autres s’attachent à des fables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:20 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-079",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:21",
+    "verseText": "Voir 1 Timothée 5:21.",
+    "question": "Devant qui Timothée est-il conjuré de garder ces choses sans partialité ?",
+    "choices": [
+      "Devant Dieu, Jésus-Christ, et les anges élus",
+      "Devant les rois et ceux qui sont élevés en dignité",
+      "Devant les riches du présent siècle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:21 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-080",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:21",
+    "verseText": "Voir 1 Timothée 5:21.",
+    "question": "Devant qui Timothée est-il conjuré de garder ces choses sans partialité ?",
+    "choices": [
+      "Devant Dieu, Jésus-Christ, et les anges élus",
+      "Devant les rois et ceux qui sont élevés en dignité",
+      "Devant les riches du présent siècle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:21 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-081",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:21",
+    "verseText": "Voir 1 Timothée 5:21.",
+    "question": "Quelle attitude est interdite dans l’application de ces instructions ?",
+    "choices": [
+      "Faire quelque chose par prévention",
+      "Lire et exhorter",
+      "Travailler à l’enseignement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:21 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-082",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:21",
+    "verseText": "Voir 1 Timothée 5:21.",
+    "question": "Quelle attitude est interdite dans l’application de ces instructions ?",
+    "choices": [
+      "Faire quelque chose par prévention",
+      "Lire et exhorter",
+      "Travailler à l’enseignement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:21 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-083",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:21",
+    "verseText": "Voir 1 Timothée 5:21.",
+    "question": "Quelle autre attitude est interdite, explicitement nommée avec la prévention ?",
+    "choices": [
+      "Faire quelque chose par inclination",
+      "Faire quelque chose par piété",
+      "Faire quelque chose par foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:21 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-084",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:21",
+    "verseText": "Voir 1 Timothée 5:21.",
+    "question": "Quelle autre attitude est interdite, explicitement nommée avec la prévention ?",
+    "choices": [
+      "Faire quelque chose par inclination",
+      "Faire quelque chose par piété",
+      "Faire quelque chose par foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:21 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-085",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:22",
+    "verseText": "Voir 1 Timothée 5:22.",
+    "question": "Quelle précaution est donnée au sujet de l’imposition des mains ?",
+    "choices": [
+      "N’impose les mains à personne avec précipitation",
+      "Imposes les mains à tous sans délai",
+      "Imposes les mains seulement aux riches"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:22 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-086",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:22",
+    "verseText": "Voir 1 Timothée 5:22.",
+    "question": "Quelle précaution est donnée au sujet de l’imposition des mains ?",
+    "choices": [
+      "N’impose les mains à personne avec précipitation",
+      "Imposes les mains à tous sans délai",
+      "Imposes les mains seulement aux riches"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:22 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-087",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:22",
+    "verseText": "Voir 1 Timothée 5:22.",
+    "question": "À quoi Timothée ne doit-il pas participer, selon l’avertissement ?",
+    "choices": [
+      "Aux péchés d’autrui",
+      "Aux bonnes œuvres des saints",
+      "À la lecture publique"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:22 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-088",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:22",
+    "verseText": "Voir 1 Timothée 5:22.",
+    "question": "À quoi Timothée ne doit-il pas participer, selon l’avertissement ?",
+    "choices": [
+      "Aux péchés d’autrui",
+      "Aux bonnes œuvres des saints",
+      "À la lecture publique"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:22 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-089",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:22",
+    "verseText": "Voir 1 Timothée 5:22.",
+    "question": "Quelle injonction finale complète l’avertissement de 5:22 ?",
+    "choices": [
+      "Conserve-toi pur",
+      "Conserve-toi riche",
+      "Conserve-toi silencieux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:22 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-090",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:22",
+    "verseText": "Voir 1 Timothée 5:22.",
+    "question": "Quelle injonction finale complète l’avertissement de 5:22 ?",
+    "choices": [
+      "Conserve-toi pur",
+      "Conserve-toi riche",
+      "Conserve-toi silencieux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:22 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-091",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:23",
+    "verseText": "Voir 1 Timothée 5:23.",
+    "question": "Quel changement de pratique est recommandé à Timothée concernant sa boisson ?",
+    "choices": [
+      "Ne bois plus de l’eau exclusivement",
+      "Ne bois plus de vin du tout",
+      "Ne bois plus d’aucune boisson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:23 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-092",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:23",
+    "verseText": "Voir 1 Timothée 5:23.",
+    "question": "Quel changement de pratique est recommandé à Timothée concernant sa boisson ?",
+    "choices": [
+      "Ne bois plus de l’eau exclusivement",
+      "Ne bois plus de vin du tout",
+      "Ne bois plus d’aucune boisson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:23 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-093",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:23",
+    "verseText": "Voir 1 Timothée 5:23.",
+    "question": "Pourquoi Timothée doit-il user d’un peu de vin, selon le texte ?",
+    "choices": [
+      "À cause de ton estomac et de tes fréquentes indispositions",
+      "À cause des disputes de mots",
+      "À cause des richesses incertaines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:23 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-094",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:23",
+    "verseText": "Voir 1 Timothée 5:23.",
+    "question": "Pourquoi Timothée doit-il user d’un peu de vin, selon le texte ?",
+    "choices": [
+      "À cause de ton estomac et de tes fréquentes indispositions",
+      "À cause des disputes de mots",
+      "À cause des richesses incertaines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:23 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-095",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:24",
+    "verseText": "Voir 1 Timothée 5:24.",
+    "question": "Comment les péchés de certains hommes sont-ils décrits avant le jugement ?",
+    "choices": [
+      "Manifestes, les précédant au jugement",
+      "Cachés, les suivant toujours immédiatement",
+      "Effacés, ne paraissant jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:24 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-096",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:24",
+    "verseText": "Voir 1 Timothée 5:24.",
+    "question": "Comment les péchés de certains hommes sont-ils décrits avant le jugement ?",
+    "choices": [
+      "Manifestes, les précédant au jugement",
+      "Cachés, les suivant toujours immédiatement",
+      "Effacés, ne paraissant jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:24 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-097",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:24",
+    "verseText": "Voir 1 Timothée 5:24.",
+    "question": "Que dit le texte au sujet des péchés d’autres hommes ?",
+    "choices": [
+      "Ils ne se découvrent que plus tard",
+      "Ils ne se découvrent jamais",
+      "Ils se découvrent toujours au même moment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:24 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-098",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:24",
+    "verseText": "Voir 1 Timothée 5:24.",
+    "question": "Que dit le texte au sujet des péchés d’autres hommes ?",
+    "choices": [
+      "Ils ne se découvrent que plus tard",
+      "Ils ne se découvrent jamais",
+      "Ils se découvrent toujours au même moment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:24 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-099",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:25",
+    "verseText": "Voir 1 Timothée 5:25.",
+    "question": "Que dit le texte au sujet des bonnes œuvres ?",
+    "choices": [
+      "Elles sont manifestes",
+      "Elles sont inutiles",
+      "Elles sont toutes secrètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:25 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-100",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:25",
+    "verseText": "Voir 1 Timothée 5:25.",
+    "question": "Que dit le texte au sujet des bonnes œuvres ?",
+    "choices": [
+      "Elles sont manifestes",
+      "Elles sont inutiles",
+      "Elles sont toutes secrètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:25 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-101",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:25",
+    "verseText": "Voir 1 Timothée 5:25.",
+    "question": "Que dit le texte des bonnes œuvres qui ne sont pas manifestes ?",
+    "choices": [
+      "Elles ne peuvent rester cachées",
+      "Elles restent cachées pour toujours",
+      "Elles deviennent des fables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:25 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-102",
+    "book": "1 Timothée",
+    "chapter": 5,
+    "verseRef": "1 Timothée 5:25",
+    "verseText": "Voir 1 Timothée 5:25.",
+    "question": "Que dit le texte des bonnes œuvres qui ne sont pas manifestes ?",
+    "choices": [
+      "Elles ne peuvent rester cachées",
+      "Elles restent cachées pour toujours",
+      "Elles deviennent des fables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 5:25 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-103",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:1",
+    "verseText": "Voir 1 Timothée 6:1.",
+    "question": "Quelle conduite doivent avoir ceux qui sont sous le joug comme esclaves envers leurs maîtres ?",
+    "choices": [
+      "Les regarder comme dignes de tout honneur",
+      "Les fuir en tout temps",
+      "Les accuser sans témoins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:1 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-104",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:1",
+    "verseText": "Voir 1 Timothée 6:1.",
+    "question": "Quelle conduite doivent avoir ceux qui sont sous le joug comme esclaves envers leurs maîtres ?",
+    "choices": [
+      "Les regarder comme dignes de tout honneur",
+      "Les fuir en tout temps",
+      "Les accuser sans témoins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:1 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-105",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:1",
+    "verseText": "Voir 1 Timothée 6:1.",
+    "question": "Quel est l’objectif déclaré de cet honneur rendu aux maîtres ?",
+    "choices": [
+      "Afin que le nom de Dieu et la doctrine ne soient pas blasphémés",
+      "Afin que les esclaves soient inscrits sur le rôle",
+      "Afin que les maîtres deviennent évêques"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:1 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-106",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:1",
+    "verseText": "Voir 1 Timothée 6:1.",
+    "question": "Quel est l’objectif déclaré de cet honneur rendu aux maîtres ?",
+    "choices": [
+      "Afin que le nom de Dieu et la doctrine ne soient pas blasphémés",
+      "Afin que les esclaves soient inscrits sur le rôle",
+      "Afin que les maîtres deviennent évêques"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:1 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-107",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:2",
+    "verseText": "Voir 1 Timothée 6:2.",
+    "question": "Que doivent éviter de faire ceux qui ont des maîtres croyants ?",
+    "choices": [
+      "Les mépriser",
+      "Les honorer",
+      "Les assister"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:2 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-108",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:2",
+    "verseText": "Voir 1 Timothée 6:2.",
+    "question": "Que doivent éviter de faire ceux qui ont des maîtres croyants ?",
+    "choices": [
+      "Les mépriser",
+      "Les honorer",
+      "Les assister"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:2 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-109",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:2",
+    "verseText": "Voir 1 Timothée 6:2.",
+    "question": "Quelle raison est donnée pour ne pas mépriser un maître croyant ?",
+    "choices": [
+      "Parce que ce sont des frères",
+      "Parce qu’ils sont invisibles",
+      "Parce qu’ils sont nouveaux convertis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:2 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-110",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:2",
+    "verseText": "Voir 1 Timothée 6:2.",
+    "question": "Quelle raison est donnée pour ne pas mépriser un maître croyant ?",
+    "choices": [
+      "Parce que ce sont des frères",
+      "Parce qu’ils sont invisibles",
+      "Parce qu’ils sont nouveaux convertis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:2 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-111",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:2",
+    "verseText": "Voir 1 Timothée 6:2.",
+    "question": "Comment doivent agir les esclaves envers des maîtres croyants, selon l’instruction ?",
+    "choices": [
+      "Les servir d’autant mieux",
+      "Les servir d’autant moins",
+      "Refuser tout service"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:2 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-112",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:2",
+    "verseText": "Voir 1 Timothée 6:2.",
+    "question": "Comment doivent agir les esclaves envers des maîtres croyants, selon l’instruction ?",
+    "choices": [
+      "Les servir d’autant mieux",
+      "Les servir d’autant moins",
+      "Refuser tout service"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:2 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-113",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:2",
+    "verseText": "Voir 1 Timothée 6:2.",
+    "question": "Quel trait est attribué à ceux qui reçoivent le bienfait du bon service ?",
+    "choices": [
+      "Ils sont fidèles et bien-aimés",
+      "Ils sont violents et querelleurs",
+      "Ils sont causeurs et intrigants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:2 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-114",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:2",
+    "verseText": "Voir 1 Timothée 6:2.",
+    "question": "Quel trait est attribué à ceux qui reçoivent le bienfait du bon service ?",
+    "choices": [
+      "Ils sont fidèles et bien-aimés",
+      "Ils sont violents et querelleurs",
+      "Ils sont causeurs et intrigants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:2 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-115",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:4",
+    "verseText": "Voir 1 Timothée 6:4.",
+    "question": "Qu’est-il dit de celui qui enseigne autrement et ne s’attache pas aux saines paroles ?",
+    "choices": [
+      "Il est enflé d’orgueil, il ne sait rien",
+      "Il est irréprochable, il sait tout",
+      "Il est silencieux, il n’enseigne rien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:4 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-116",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:4",
+    "verseText": "Voir 1 Timothée 6:4.",
+    "question": "Qu’est-il dit de celui qui enseigne autrement et ne s’attache pas aux saines paroles ?",
+    "choices": [
+      "Il est enflé d’orgueil, il ne sait rien",
+      "Il est irréprochable, il sait tout",
+      "Il est silencieux, il n’enseigne rien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:4 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-117",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:4",
+    "verseText": "Voir 1 Timothée 6:4.",
+    "question": "À quoi est-il dit que cet homme a la maladie, selon la formule employée ?",
+    "choices": [
+      "Aux discussions et aux disputes de mots",
+      "À la lecture et à l’exhortation",
+      "À la piété et au contentement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:4 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-118",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:4",
+    "verseText": "Voir 1 Timothée 6:4.",
+    "question": "À quoi est-il dit que cet homme a la maladie, selon la formule employée ?",
+    "choices": [
+      "Aux discussions et aux disputes de mots",
+      "À la lecture et à l’exhortation",
+      "À la piété et au contentement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:4 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-119",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:4",
+    "verseText": "Voir 1 Timothée 6:4.",
+    "question": "Quel résultat négatif est explicitement cité comme venant des disputes de mots ?",
+    "choices": [
+      "Les injures",
+      "La modestie",
+      "La pureté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:4 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-120",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:4",
+    "verseText": "Voir 1 Timothée 6:4.",
+    "question": "Quel résultat négatif est explicitement cité comme venant des disputes de mots ?",
+    "choices": [
+      "Les injures",
+      "La modestie",
+      "La pureté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:4 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-121",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:4",
+    "verseText": "Voir 1 Timothée 6:4.",
+    "question": "Quelle autre conséquence est explicitement citée avec les injures ?",
+    "choices": [
+      "Les mauvaises soupçons",
+      "Les bonnes œuvres",
+      "Les actions de grâces"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:4 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-122",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:4",
+    "verseText": "Voir 1 Timothée 6:4.",
+    "question": "Quelle autre conséquence est explicitement citée avec les injures ?",
+    "choices": [
+      "Les mauvaises soupçons",
+      "Les bonnes œuvres",
+      "Les actions de grâces"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:4 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-123",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:5",
+    "verseText": "Voir 1 Timothée 6:5.",
+    "question": "Quelle description est donnée des contestations de ces hommes ?",
+    "choices": [
+      "Vaines contestations d’hommes corrompus d’entendement, privés de la vérité",
+      "Contestations saintes d’hommes sobres, remplis de vérité",
+      "Contestations utiles d’hommes irréprochables, riches en foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:5 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-124",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:5",
+    "verseText": "Voir 1 Timothée 6:5.",
+    "question": "Quelle description est donnée des contestations de ces hommes ?",
+    "choices": [
+      "Vaines contestations d’hommes corrompus d’entendement, privés de la vérité",
+      "Contestations saintes d’hommes sobres, remplis de vérité",
+      "Contestations utiles d’hommes irréprochables, riches en foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:5 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-125",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:5",
+    "verseText": "Voir 1 Timothée 6:5.",
+    "question": "Que s’imaginent-ils au sujet de la piété ?",
+    "choices": [
+      "Qu’elle est une source de gain",
+      "Qu’elle est une fable profane",
+      "Qu’elle est un piège du diable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:5 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-126",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:5",
+    "verseText": "Voir 1 Timothée 6:5.",
+    "question": "Que s’imaginent-ils au sujet de la piété ?",
+    "choices": [
+      "Qu’elle est une source de gain",
+      "Qu’elle est une fable profane",
+      "Qu’elle est un piège du diable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:5 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-127",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:6",
+    "verseText": "Voir 1 Timothée 6:6.",
+    "question": "Quelle association est présentée comme une grande source de gain ?",
+    "choices": [
+      "La piété avec le contentement",
+      "La piété avec l’orgueil",
+      "La piété avec les disputes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:6 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-128",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:6",
+    "verseText": "Voir 1 Timothée 6:6.",
+    "question": "Quelle association est présentée comme une grande source de gain ?",
+    "choices": [
+      "La piété avec le contentement",
+      "La piété avec l’orgueil",
+      "La piété avec les disputes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:6 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-129",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:7",
+    "verseText": "Voir 1 Timothée 6:7.",
+    "question": "Quelle vérité générale est rappelée sur notre arrivée et notre départ du monde ?",
+    "choices": [
+      "Nous n’avons rien apporté dans le monde, et il est évident que nous n’en pouvons rien emporter",
+      "Nous avons beaucoup apporté dans le monde, et il est évident que nous en pouvons tout emporter",
+      "Nous avons tout apporté dans le monde, et il est évident que nous en pouvons quelque chose emporter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:7 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-130",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:7",
+    "verseText": "Voir 1 Timothée 6:7.",
+    "question": "Quelle vérité générale est rappelée sur notre arrivée et notre départ du monde ?",
+    "choices": [
+      "Nous n’avons rien apporté dans le monde, et il est évident que nous n’en pouvons rien emporter",
+      "Nous avons beaucoup apporté dans le monde, et il est évident que nous en pouvons tout emporter",
+      "Nous avons tout apporté dans le monde, et il est évident que nous en pouvons quelque chose emporter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:7 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-131",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:8",
+    "verseText": "Voir 1 Timothée 6:8.",
+    "question": "Avec quoi devons-nous nous contenter, selon l’énoncé ?",
+    "choices": [
+      "D’avoir la nourriture et le vêtement",
+      "D’avoir l’or et les perles",
+      "D’avoir les disputes et les discussions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:8 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-132",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:8",
+    "verseText": "Voir 1 Timothée 6:8.",
+    "question": "Avec quoi devons-nous nous contenter, selon l’énoncé ?",
+    "choices": [
+      "D’avoir la nourriture et le vêtement",
+      "D’avoir l’or et les perles",
+      "D’avoir les disputes et les discussions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:8 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-133",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:9",
+    "verseText": "Voir 1 Timothée 6:9.",
+    "question": "Dans quel état tombent ceux qui veulent s’enrichir, selon la progression décrite ?",
+    "choices": [
+      "Dans la tentation, dans le piège, et dans beaucoup de désirs insensés et pernicieux",
+      "Dans la piété, dans la paix, et dans la patience",
+      "Dans la lecture, dans l’exhortation, et dans l’enseignement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:9 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-134",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:9",
+    "verseText": "Voir 1 Timothée 6:9.",
+    "question": "Dans quel état tombent ceux qui veulent s’enrichir, selon la progression décrite ?",
+    "choices": [
+      "Dans la tentation, dans le piège, et dans beaucoup de désirs insensés et pernicieux",
+      "Dans la piété, dans la paix, et dans la patience",
+      "Dans la lecture, dans l’exhortation, et dans l’enseignement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:9 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-135",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:9",
+    "verseText": "Voir 1 Timothée 6:9.",
+    "question": "Quel effet ces désirs produisent-ils sur les hommes ?",
+    "choices": [
+      "Ils les plongent dans la ruine et la perdition",
+      "Ils les élèvent dans l’honneur et la gloire",
+      "Ils les rendent irréprochables devant tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:9 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-136",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:9",
+    "verseText": "Voir 1 Timothée 6:9.",
+    "question": "Quel effet ces désirs produisent-ils sur les hommes ?",
+    "choices": [
+      "Ils les plongent dans la ruine et la perdition",
+      "Ils les élèvent dans l’honneur et la gloire",
+      "Ils les rendent irréprochables devant tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:9 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-137",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:10",
+    "verseText": "Voir 1 Timothée 6:10.",
+    "question": "Comment l’amour de l’argent est-il qualifié ?",
+    "choices": [
+      "Une racine de tous les maux",
+      "Une source de toute piété",
+      "Un mystère de la vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:10 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-138",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:10",
+    "verseText": "Voir 1 Timothée 6:10.",
+    "question": "Comment l’amour de l’argent est-il qualifié ?",
+    "choices": [
+      "Une racine de tous les maux",
+      "Une source de toute piété",
+      "Un mystère de la vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:10 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-139",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:10",
+    "verseText": "Voir 1 Timothée 6:10.",
+    "question": "Quel effet est décrit chez certains qui se sont livrés à l’amour de l’argent ?",
+    "choices": [
+      "Ils se sont égarés loin de la foi et se sont jetés eux-mêmes dans bien des tourments",
+      "Ils se sont attachés à la foi et se sont jetés eux-mêmes dans bien des honneurs",
+      "Ils se sont purifiés par la prière et se sont jetés eux-mêmes dans la sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:10 (LSG 1910)."
+  },
+  {
+    "id": "1timothee-N-140",
+    "book": "1 Timothée",
+    "chapter": 6,
+    "verseRef": "1 Timothée 6:10",
+    "verseText": "Voir 1 Timothée 6:10.",
+    "question": "Quel effet est décrit chez certains qui se sont livrés à l’amour de l’argent ?",
+    "choices": [
+      "Ils se sont égarés loin de la foi et se sont jetés eux-mêmes dans bien des tourments",
+      "Ils se sont attachés à la foi et se sont jetés eux-mêmes dans bien des honneurs",
+      "Ils se sont purifiés par la prière et se sont jetés eux-mêmes dans la sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 1 Timothée 6:10 (LSG 1910)."
+  }
+]

@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "proverbes-N-001",
+    "book": "Proverbes",
+    "chapter": 1,
+    "verseRef": "Proverbes 1:7",
+    "verseText": "Voir Proverbes 1:7.",
+    "question": "Quel est « le commencement de la science » ?",
+    "choices": [
+      "La richesse",
+      "La crainte de l’Éternel",
+      "La force"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 1:7 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-002",
+    "book": "Proverbes",
+    "chapter": 1,
+    "verseRef": "Proverbes 1:7",
+    "verseText": "Voir Proverbes 1:7.",
+    "question": "Qui « méprise la sagesse et l’instruction » ?",
+    "choices": [
+      "Le juste",
+      "Le sage",
+      "Les insensés"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 1:7 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-003",
+    "book": "Proverbes",
+    "chapter": 1,
+    "verseRef": "Proverbes 1:33",
+    "verseText": "Voir Proverbes 1:33.",
+    "question": "Quelle promesse est donnée à celui qui écoute la sagesse ?",
+    "choices": [
+      "Il habitera en sûreté et sans crainte du mal",
+      "Il dominera tous les peuples",
+      "Il ne connaîtra jamais la tristesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 1:33 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-004",
+    "book": "Proverbes",
+    "chapter": 2,
+    "verseRef": "Proverbes 2:7",
+    "verseText": "Voir Proverbes 2:7.",
+    "question": "Qu’est-ce que l’Éternel ne refuse pas à ceux qui marchent dans l’intégrité ?",
+    "choices": [
+      "La joie",
+      "Le bonheur",
+      "Le bien"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 2:7 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-005",
+    "book": "Proverbes",
+    "chapter": 2,
+    "verseRef": "Proverbes 2:7",
+    "verseText": "Voir Proverbes 2:7.",
+    "question": "Que garde l’Éternel « pour les hommes droits » ?",
+    "choices": [
+      "La victoire",
+      "Le salut",
+      "La sagesse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 2:7 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-006",
+    "book": "Proverbes",
+    "chapter": 3,
+    "verseRef": "Proverbes 3:5",
+    "verseText": "Voir Proverbes 3:5.",
+    "question": "Quelle attitude est demandée envers l’Éternel « de tout ton cœur » ?",
+    "choices": [
+      "Le craindre seulement en public",
+      "Se confier en lui",
+      "Le questionner sans cesse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 3:5 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-007",
+    "book": "Proverbes",
+    "chapter": 3,
+    "verseRef": "Proverbes 3:5",
+    "verseText": "Voir Proverbes 3:5.",
+    "question": "Sur quoi ne faut-il pas s’appuyer selon Proverbes 3:5 ?",
+    "choices": [
+      "Sa sagesse",
+      "Son travail",
+      "Sa famille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 3:5 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-008",
+    "book": "Proverbes",
+    "chapter": 3,
+    "verseRef": "Proverbes 3:6",
+    "verseText": "Voir Proverbes 3:6.",
+    "question": "Que faut-il faire « dans toutes tes voies » ?",
+    "choices": [
+      "Te justifier",
+      "Le reconnaître",
+      "T’exalter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 3:6 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-009",
+    "book": "Proverbes",
+    "chapter": 3,
+    "verseRef": "Proverbes 3:6",
+    "verseText": "Voir Proverbes 3:6.",
+    "question": "Que fera l’Éternel quand on le reconnaît dans toutes ses voies ?",
+    "choices": [
+      "Il multipliera l’or",
+      "Il aplanira les sentiers",
+      "Il supprimera toute épreuve"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 3:6 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-010",
+    "book": "Proverbes",
+    "chapter": 9,
+    "verseRef": "Proverbes 9:10",
+    "verseText": "Voir Proverbes 9:10.",
+    "question": "Quel est le « commencement de la sagesse » ?",
+    "choices": [
+      "La crainte de l’Éternel",
+      "Les longues études",
+      "Les succès"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 9:10 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-011",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verseRef": "Proverbes 16:18",
+    "verseText": "Voir Proverbes 16:18.",
+    "question": "Quelle conséquence est annoncée à l’orgueil ?",
+    "choices": [
+      "La paix",
+      "La ruine",
+      "L’honneur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 16:18 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-012",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verseRef": "Proverbes 16:18",
+    "verseText": "Voir Proverbes 16:18.",
+    "question": "Que vient « avant la ruine » ?",
+    "choices": [
+      "L’humilité",
+      "La prudence",
+      "L’arrogance"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 16:18 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-013",
+    "book": "Proverbes",
+    "chapter": 12,
+    "verseRef": "Proverbes 12:14",
+    "verseText": "Voir Proverbes 12:14.",
+    "question": "Qu’est-ce qui « rassasie » l’âme de l’homme de bien ?",
+    "choices": [
+      "Le fruit de sa bouche",
+      "Le travail des autres",
+      "La chance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 12:14 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-014",
+    "book": "Proverbes",
+    "chapter": 10,
+    "verseRef": "Proverbes 10:12",
+    "verseText": "Voir Proverbes 10:12.",
+    "question": "Qu’est-ce qui « couvre toutes les fautes » ?",
+    "choices": [
+      "La rigueur",
+      "La haine",
+      "L’amour"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 10:12 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-015",
+    "book": "Proverbes",
+    "chapter": 10,
+    "verseRef": "Proverbes 10:12",
+    "verseText": "Voir Proverbes 10:12.",
+    "question": "Que fait la haine selon Proverbes 10:12 ?",
+    "choices": [
+      "Elle excite des querelles",
+      "Elle produit la justice",
+      "Elle donne la sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 10:12 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-016",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:16",
+    "verseText": "Voir Proverbes 15:16.",
+    "question": "Que vaut « mieux » qu’un grand trésor avec le trouble ?",
+    "choices": [
+      "Un peu avec la paix",
+      "Un peu avec la crainte",
+      "Un peu avec la gloire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 15:16 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-017",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:1",
+    "verseText": "Voir Proverbes 15:1.",
+    "question": "Qu’est-ce que « répond une parole douce » ?",
+    "choices": [
+      "Elle attire la colère",
+      "Elle apaise la fureur",
+      "Elle détruit l’amitié"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 15:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-018",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:1",
+    "verseText": "Voir Proverbes 15:1.",
+    "question": "Qu’est-ce qu’« une parole blessante » selon Proverbes 15:1 ?",
+    "choices": [
+      "Elle excite la colère",
+      "Elle donne la joie",
+      "Elle apporte la paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 15:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-019",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:16",
+    "verseText": "Voir Proverbes 15:16.",
+    "question": "Que vaut mieux qu’une grande richesse avec la crainte de l’Éternel ?",
+    "choices": [
+      "Une petite richesse",
+      "Peu avec la crainte de l’Éternel",
+      "Beaucoup avec la tranquillité"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 15:16 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-020",
+    "book": "Proverbes",
+    "chapter": 14,
+    "verseRef": "Proverbes 14:12",
+    "verseText": "Voir Proverbes 14:12.",
+    "question": "Que dit Proverbes 14:12 au sujet d’une voie ?",
+    "choices": [
+      "Elle mène toujours au succès",
+      "Elle peut paraître droite et mener à la mort",
+      "Elle n’a jamais de conséquences"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 14:12 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-021",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:7",
+    "verseText": "Voir Proverbes 15:7.",
+    "question": "Qu’est-ce qui « garde la connaissance » ?",
+    "choices": [
+      "Les lèvres du prudent",
+      "Le silence du paresseux",
+      "La richesse du puissant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 15:7 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-022",
+    "book": "Proverbes",
+    "chapter": 17,
+    "verseRef": "Proverbes 17:17",
+    "verseText": "Voir Proverbes 17:17.",
+    "question": "Quel est le conseil à propos de l’ami ?",
+    "choices": [
+      "Un ami aime en tout temps",
+      "Un ami n’aime qu’en période d’abondance",
+      "Un ami ne reprend jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 17:17 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-023",
+    "book": "Proverbes",
+    "chapter": 17,
+    "verseRef": "Proverbes 17:17",
+    "verseText": "Voir Proverbes 17:17.",
+    "question": "Quel lien Proverbes 17:17 fait-il avec le frère ?",
+    "choices": [
+      "Il est toujours contre toi",
+      "Il se montre dans la prospérité",
+      "Il est né pour la détresse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 17:17 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-024",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:4",
+    "verseText": "Voir Proverbes 15:4.",
+    "question": "Quel fruit est comparé à « un arbre de vie » ?",
+    "choices": [
+      "Une langue qui blesse",
+      "Une langue douce",
+      "Une langue muette"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 15:4 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-025",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verseRef": "Proverbes 16:32",
+    "verseText": "Voir Proverbes 16:32.",
+    "question": "Que dit Proverbes 16:32 au sujet de la patience ?",
+    "choices": [
+      "Elle vaut mieux que la force",
+      "Elle est inutile",
+      "Elle détruit la sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 16:32 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-026",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verseRef": "Proverbes 16:32",
+    "verseText": "Voir Proverbes 16:32.",
+    "question": "Qui est « supérieur à celui qui prend des villes » ?",
+    "choices": [
+      "Celui qui cache sa faute",
+      "Celui qui est lent à la colère",
+      "Celui qui parle beaucoup"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 16:32 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-027",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:23",
+    "verseText": "Voir Proverbes 15:23.",
+    "question": "Que produit « la réponse » quand elle est bonne ?",
+    "choices": [
+      "Elle réjouit",
+      "Elle appauvrit",
+      "Elle éloigne Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 15:23 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-028",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:17",
+    "verseText": "Voir Proverbes 15:17.",
+    "question": "Que vaut « mieux » que des mets de choix avec la haine ?",
+    "choices": [
+      "Des herbes avec l’amour",
+      "Des viandes avec l’envie",
+      "Des pains avec la colère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 15:17 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-029",
+    "book": "Proverbes",
+    "chapter": 13,
+    "verseRef": "Proverbes 13:20",
+    "verseText": "Voir Proverbes 13:20.",
+    "question": "Que dit Proverbes 13:20 au sujet des sages ?",
+    "choices": [
+      "Les fréquenter rend insensé",
+      "Marcher avec eux rend sage",
+      "Les éviter donne l’honneur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 13:20 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-030",
+    "book": "Proverbes",
+    "chapter": 13,
+    "verseRef": "Proverbes 13:20",
+    "verseText": "Voir Proverbes 13:20.",
+    "question": "Que devient celui qui fréquente les insensés ?",
+    "choices": [
+      "Il s’en trouvera mal",
+      "Il deviendra puissant",
+      "Il sera toujours protégé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 13:20 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-031",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:4",
+    "verseText": "Voir Proverbes 15:4.",
+    "question": "Quel est l’effet d’une « langue douce » ?",
+    "choices": [
+      "Elle brise les os",
+      "Elle apporte la ruine",
+      "Elle est un arbre de vie"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 15:4 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-032",
+    "book": "Proverbes",
+    "chapter": 11,
+    "verseRef": "Proverbes 11:1",
+    "verseText": "Voir Proverbes 11:1.",
+    "question": "Qu’est-ce que l’Éternel « abhorre » ?",
+    "choices": [
+      "Les balances fausses",
+      "Les champs fertiles",
+      "Le sommeil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 11:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-033",
+    "book": "Proverbes",
+    "chapter": 11,
+    "verseRef": "Proverbes 11:1",
+    "verseText": "Voir Proverbes 11:1.",
+    "question": "Qu’est-ce qui est « agréable » à l’Éternel en matière de poids ?",
+    "choices": [
+      "Le poids faux",
+      "Le poids juste",
+      "Le poids lourd"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 11:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-034",
+    "book": "Proverbes",
+    "chapter": 18,
+    "verseRef": "Proverbes 18:10",
+    "verseText": "Voir Proverbes 18:10.",
+    "question": "Que dit Proverbes 18:10 au sujet du nom de l’Éternel ?",
+    "choices": [
+      "C’est une tour forte",
+      "C’est un fardeau lourd",
+      "C’est une énigme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 18:10 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-035",
+    "book": "Proverbes",
+    "chapter": 18,
+    "verseRef": "Proverbes 18:10",
+    "verseText": "Voir Proverbes 18:10.",
+    "question": "Où se réfugie le juste selon Proverbes 18:10 ?",
+    "choices": [
+      "Dans sa richesse",
+      "Dans le nom de l’Éternel",
+      "Dans sa ruse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 18:10 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-036",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:25",
+    "verseText": "Voir Proverbes 25:25.",
+    "question": "Qu’est-ce qui « rassure » le cœur ?",
+    "choices": [
+      "La rancune",
+      "Une bonne nouvelle",
+      "La vengeance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 25:25 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-037",
+    "book": "Proverbes",
+    "chapter": 4,
+    "verseRef": "Proverbes 4:13",
+    "verseText": "Voir Proverbes 4:13.",
+    "question": "Quelle attitude est recommandée envers l’instruction ?",
+    "choices": [
+      "La rejeter",
+      "La garder",
+      "La mépriser"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 4:13 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-038",
+    "book": "Proverbes",
+    "chapter": 4,
+    "verseRef": "Proverbes 4:23",
+    "verseText": "Voir Proverbes 4:23.",
+    "question": "Que dit Proverbes 4:23 au sujet du cœur ?",
+    "choices": [
+      "Garde ton cœur plus que toute autre chose",
+      "Oublie ton cœur",
+      "Suis ton cœur sans limites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 4:23 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-039",
+    "book": "Proverbes",
+    "chapter": 4,
+    "verseRef": "Proverbes 4:23",
+    "verseText": "Voir Proverbes 4:23.",
+    "question": "Pourquoi faut-il garder le cœur ?",
+    "choices": [
+      "Car de lui viennent les sources de la vie",
+      "Car il donne la richesse",
+      "Car il évite la fatigue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 4:23 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-040",
+    "book": "Proverbes",
+    "chapter": 12,
+    "verseRef": "Proverbes 12:22",
+    "verseText": "Voir Proverbes 12:22.",
+    "question": "Que dit Proverbes 12:22 au sujet des lèvres menteuses ?",
+    "choices": [
+      "Elles plaisent à l’Éternel",
+      "Elles sont en abomination à l’Éternel",
+      "Elles sont un signe de sagesse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 12:22 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-041",
+    "book": "Proverbes",
+    "chapter": 12,
+    "verseRef": "Proverbes 12:22",
+    "verseText": "Voir Proverbes 12:22.",
+    "question": "Qui est « agréable » à l’Éternel selon Proverbes 12:22 ?",
+    "choices": [
+      "Ceux qui agissent avec vérité",
+      "Ceux qui se vantent",
+      "Ceux qui se cachent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 12:22 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-042",
+    "book": "Proverbes",
+    "chapter": 27,
+    "verseRef": "Proverbes 27:1",
+    "verseText": "Voir Proverbes 27:1.",
+    "question": "Que dit Proverbes 27:1 à propos du lendemain ?",
+    "choices": [
+      "Il faut s’en glorifier",
+      "Il ne faut pas s’en vanter",
+      "Il faut le craindre toujours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 27:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-043",
+    "book": "Proverbes",
+    "chapter": 27,
+    "verseRef": "Proverbes 27:1",
+    "verseText": "Voir Proverbes 27:1.",
+    "question": "Quel motif est donné pour ne pas se vanter du lendemain ?",
+    "choices": [
+      "On ne sait pas ce qu’un jour peut enfanter",
+      "On connaît tout à l’avance",
+      "Demain est toujours meilleur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 27:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-044",
+    "book": "Proverbes",
+    "chapter": 10,
+    "verseRef": "Proverbes 10:4",
+    "verseText": "Voir Proverbes 10:4.",
+    "question": "Quel contraste Proverbes 10:4 fait-il sur la main ?",
+    "choices": [
+      "La main lâche appauvrit, la main des diligents enrichit",
+      "La main ferme appauvrit, la main rapide détruit",
+      "La main du pauvre enrichit, la main du riche appauvrit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 10:4 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-045",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:33",
+    "verseText": "Voir Proverbes 15:33.",
+    "question": "Selon Proverbes 15:33, la crainte de l’Éternel est une instruction de quoi ?",
+    "choices": [
+      "De la richesse",
+      "De la sagesse",
+      "Du sommeil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 15:33 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-046",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:33",
+    "verseText": "Voir Proverbes 15:33.",
+    "question": "Selon Proverbes 15:33, qu’est-ce qui vient « avant la gloire » ?",
+    "choices": [
+      "L’humilité",
+      "La colère",
+      "L’audace"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 15:33 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-047",
+    "book": "Proverbes",
+    "chapter": 28,
+    "verseRef": "Proverbes 28:13",
+    "verseText": "Voir Proverbes 28:13.",
+    "question": "Que dit Proverbes 28:13 au sujet de celui qui cache ses transgressions ?",
+    "choices": [
+      "Il prospère",
+      "Il ne prospère point",
+      "Il devient sage"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 28:13 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-048",
+    "book": "Proverbes",
+    "chapter": 28,
+    "verseRef": "Proverbes 28:13",
+    "verseText": "Voir Proverbes 28:13.",
+    "question": "Que trouve celui qui avoue et délaisse ses transgressions ?",
+    "choices": [
+      "La miséricorde",
+      "La honte",
+      "La pauvreté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 28:13 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-049",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:30",
+    "verseText": "Voir Proverbes 15:30.",
+    "question": "Quel est l’effet d’un regard bienveillant ?",
+    "choices": [
+      "Il réjouit le cœur",
+      "Il trouble l’âme",
+      "Il détruit l’amitié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 15:30 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-050",
+    "book": "Proverbes",
+    "chapter": 20,
+    "verseRef": "Proverbes 20:11",
+    "verseText": "Voir Proverbes 20:11.",
+    "question": "Que dit Proverbes 20:11 sur l’enfant ?",
+    "choices": [
+      "L’enfant ne peut pas être jugé",
+      "On connaît l’enfant à ses actions",
+      "L’enfant est toujours innocent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 20:11 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-051",
+    "book": "Proverbes",
+    "chapter": 12,
+    "verseRef": "Proverbes 12:25",
+    "verseText": "Voir Proverbes 12:25.",
+    "question": "Quel est l’effet d’une « bonne parole » ?",
+    "choices": [
+      "Elle attriste les os",
+      "Elle réjouit",
+      "Elle trompe toujours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 12:25 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-052",
+    "book": "Proverbes",
+    "chapter": 3,
+    "verseRef": "Proverbes 3:12",
+    "verseText": "Voir Proverbes 3:12.",
+    "question": "Que dit Proverbes 3:12 au sujet de l’Éternel ?",
+    "choices": [
+      "Il hait toujours le fils",
+      "Il châtie celui qu’il aime",
+      "Il ne reprend jamais"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 3:12 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-053",
+    "book": "Proverbes",
+    "chapter": 3,
+    "verseRef": "Proverbes 3:12",
+    "verseText": "Voir Proverbes 3:12.",
+    "question": "Quel est l’objet de la comparaison dans Proverbes 3:12 ?",
+    "choices": [
+      "Comme un père le fils qu’il chérit",
+      "Comme un roi le serviteur",
+      "Comme un marchand l’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 3:12 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-054",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:4",
+    "verseText": "Voir Proverbes 15:4.",
+    "question": "Que vaut mieux qu’une « langue perverse » ?",
+    "choices": [
+      "Une langue dure",
+      "Une langue douce",
+      "Une langue silencieuse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 15:4 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-055",
+    "book": "Proverbes",
+    "chapter": 19,
+    "verseRef": "Proverbes 19:21",
+    "verseText": "Voir Proverbes 19:21.",
+    "question": "Que dit Proverbes 19:21 sur les projets de l’homme ?",
+    "choices": [
+      "Ils s’accomplissent toujours",
+      "Ils sont inutiles",
+      "Le dessein de l’Éternel subsiste"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 19:21 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-056",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verseRef": "Proverbes 16:9",
+    "verseText": "Voir Proverbes 16:9.",
+    "question": "Que dit Proverbes 16:9 au sujet du cœur de l’homme ?",
+    "choices": [
+      "Il ne pense jamais",
+      "Il se moque de ses voies",
+      "Il dispose sa voie, mais l’Éternel dirige ses pas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 16:9 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-057",
+    "book": "Proverbes",
+    "chapter": 13,
+    "verseRef": "Proverbes 13:3",
+    "verseText": "Voir Proverbes 13:3.",
+    "question": "Qu’est-ce qui « garde son âme » ?",
+    "choices": [
+      "Celui qui veille sur sa bouche",
+      "Celui qui parle vite",
+      "Celui qui s’emporte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 13:3 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-058",
+    "book": "Proverbes",
+    "chapter": 13,
+    "verseRef": "Proverbes 13:3",
+    "verseText": "Voir Proverbes 13:3.",
+    "question": "Que dit Proverbes 13:3 de celui qui ouvre beaucoup ses lèvres ?",
+    "choices": [
+      "Il s’enrichit",
+      "Il court à sa perte",
+      "Il devient juge"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 13:3 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-059",
+    "book": "Proverbes",
+    "chapter": 22,
+    "verseRef": "Proverbes 22:6",
+    "verseText": "Voir Proverbes 22:6.",
+    "question": "Quel principe Proverbes 22:6 donne-t-il pour l’enfant ?",
+    "choices": [
+      "Le laisser sans direction",
+      "L’instruire selon la voie qu’il doit suivre",
+      "Le punir sans raison"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 22:6 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-060",
+    "book": "Proverbes",
+    "chapter": 22,
+    "verseRef": "Proverbes 22:6",
+    "verseText": "Voir Proverbes 22:6.",
+    "question": "Quelle promesse Proverbes 22:6 associe-t-il à cette instruction ?",
+    "choices": [
+      "Il ne s’en détournera pas quand il sera vieux",
+      "Il oubliera tout à l’âge adulte",
+      "Il rejettera toute sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 22:6 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-061",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:1",
+    "verseText": "Voir Proverbes 15:1.",
+    "question": "Que dit le texte au sujet de « la réponse douce » face à la fureur ?",
+    "choices": [
+      "Elle excite la colère",
+      "Elle apaise la fureur",
+      "Elle rend muet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 15:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-062",
+    "book": "Proverbes",
+    "chapter": 26,
+    "verseRef": "Proverbes 26:12",
+    "verseText": "Voir Proverbes 26:12.",
+    "question": "Quelle attitude est condamnée quand on « se croit sage » ?",
+    "choices": [
+      "La prudence",
+      "La vanité",
+      "La crainte de l’Éternel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 26:12 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-063",
+    "book": "Proverbes",
+    "chapter": 28,
+    "verseRef": "Proverbes 28:26",
+    "verseText": "Voir Proverbes 28:26.",
+    "question": "Quel est le résultat annoncé pour celui qui « se confie en son cœur » ?",
+    "choices": [
+      "Il est prudent",
+      "Il est un sage",
+      "Il est un insensé"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 28:26 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-064",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verseRef": "Proverbes 16:16",
+    "verseText": "Voir Proverbes 16:16.",
+    "question": "Quel choix est conseillé pour obtenir la sagesse ?",
+    "choices": [
+      "La préférer à l’or",
+      "La préférer au sommeil",
+      "La préférer à l’amitié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 16:16 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-065",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verseRef": "Proverbes 16:8",
+    "verseText": "Voir Proverbes 16:8.",
+    "question": "Que vaut mieux qu’un « grand revenu » accompagné d’injustice ?",
+    "choices": [
+      "Peu avec la justice",
+      "Beaucoup avec la paix",
+      "Rien avec la peur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 16:8 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-066",
+    "book": "Proverbes",
+    "chapter": 17,
+    "verseRef": "Proverbes 17:14",
+    "verseText": "Voir Proverbes 17:14.",
+    "question": "Quelle comparaison est donnée pour illustrer le danger des « querelles » ?",
+    "choices": [
+      "Elles sont comme un feu éteint",
+      "Elles sont comme des traits meurtriers",
+      "Elles sont comme une digue qui s’ouvre"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 17:14 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-067",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verseRef": "Proverbes 16:29",
+    "verseText": "Voir Proverbes 16:29.",
+    "question": "Que fait « l’homme violent » selon l’avertissement ?",
+    "choices": [
+      "Il donne la sagesse",
+      "Il séduit son prochain",
+      "Il guérit le malade"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 16:29 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-068",
+    "book": "Proverbes",
+    "chapter": 17,
+    "verseRef": "Proverbes 17:22",
+    "verseText": "Voir Proverbes 17:22.",
+    "question": "Quel est l’effet d’un « cœur joyeux » ?",
+    "choices": [
+      "Il fait du bien comme un remède",
+      "Il détruit les os",
+      "Il trouble l’esprit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 17:22 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-069",
+    "book": "Proverbes",
+    "chapter": 17,
+    "verseRef": "Proverbes 17:22",
+    "verseText": "Voir Proverbes 17:22.",
+    "question": "Quel effet a « l’esprit abattu » ?",
+    "choices": [
+      "Il donne la force",
+      "Il dessèche les os",
+      "Il réjouit le cœur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 17:22 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-070",
+    "book": "Proverbes",
+    "chapter": 17,
+    "verseRef": "Proverbes 17:1",
+    "verseText": "Voir Proverbes 17:1.",
+    "question": "Que vaut mieux qu’une maison pleine de sacrifices avec des disputes ?",
+    "choices": [
+      "Un repas de fête",
+      "Un morceau de pain sec avec la paix",
+      "Une table bien garnie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 17:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-071",
+    "book": "Proverbes",
+    "chapter": 14,
+    "verseRef": "Proverbes 14:21",
+    "verseText": "Voir Proverbes 14:21.",
+    "question": "Quelle est la conséquence annoncée pour celui qui « méprise son prochain » ?",
+    "choices": [
+      "Il est sage",
+      "Il pèche",
+      "Il est justifié"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 14:21 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-072",
+    "book": "Proverbes",
+    "chapter": 14,
+    "verseRef": "Proverbes 14:21",
+    "verseText": "Voir Proverbes 14:21.",
+    "question": "Que trouve celui qui « a pitié des misérables » ?",
+    "choices": [
+      "Il est heureux",
+      "Il est humilié",
+      "Il est oublié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 14:21 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-073",
+    "book": "Proverbes",
+    "chapter": 11,
+    "verseRef": "Proverbes 11:22",
+    "verseText": "Voir Proverbes 11:22.",
+    "question": "Qu’est-ce qui est comparé à « un anneau d’or au nez d’un pourceau » ?",
+    "choices": [
+      "La beauté avec la sagesse",
+      "Une femme belle et dépourvue de sens",
+      "Un homme pauvre et fidèle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 11:22 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-074",
+    "book": "Proverbes",
+    "chapter": 11,
+    "verseRef": "Proverbes 11:13",
+    "verseText": "Voir Proverbes 11:13.",
+    "question": "Quel est le danger d’un « ami » qui parle trop ?",
+    "choices": [
+      "Il garde un secret",
+      "Il divulgue les choses",
+      "Il répare les torts"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 11:13 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-075",
+    "book": "Proverbes",
+    "chapter": 11,
+    "verseRef": "Proverbes 11:13",
+    "verseText": "Voir Proverbes 11:13.",
+    "question": "Qui « cache la chose » selon le texte ?",
+    "choices": [
+      "L’homme sincère",
+      "Celui qui a l’esprit fidèle",
+      "Le moqueur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 11:13 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-076",
+    "book": "Proverbes",
+    "chapter": 10,
+    "verseRef": "Proverbes 10:19",
+    "verseText": "Voir Proverbes 10:19.",
+    "question": "Quel comportement est décrit comme une marque de sagesse ?",
+    "choices": [
+      "Se précipiter à parler",
+      "Retenir ses lèvres",
+      "Répondre par colère"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 10:19 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-077",
+    "book": "Proverbes",
+    "chapter": 10,
+    "verseRef": "Proverbes 10:19",
+    "verseText": "Voir Proverbes 10:19.",
+    "question": "Qu’est-ce qui est affirmé au sujet de l’abondance de paroles ?",
+    "choices": [
+      "On évite le péché",
+      "Le péché ne manque pas",
+      "On gagne l’honneur"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 10:19 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-078",
+    "book": "Proverbes",
+    "chapter": 29,
+    "verseRef": "Proverbes 29:7",
+    "verseText": "Voir Proverbes 29:7.",
+    "question": "Que fait le juste envers le pauvre selon l’enseignement ?",
+    "choices": [
+      "Il le méprise",
+      "Il le traite avec dureté",
+      "Il connaît la cause des pauvres"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 29:7 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-079",
+    "book": "Proverbes",
+    "chapter": 21,
+    "verseRef": "Proverbes 21:14",
+    "verseText": "Voir Proverbes 21:14.",
+    "question": "Quel est le résultat d’un « don secret » ?",
+    "choices": [
+      "Il augmente la colère",
+      "Il apaise la colère",
+      "Il détruit la paix"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 21:14 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-080",
+    "book": "Proverbes",
+    "chapter": 21,
+    "verseRef": "Proverbes 21:14",
+    "verseText": "Voir Proverbes 21:14.",
+    "question": "Que produit « un présent dans le sein » selon l’expression ?",
+    "choices": [
+      "Il calme une ardente colère",
+      "Il excite la fureur",
+      "Il rend pauvre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 21:14 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-081",
+    "book": "Proverbes",
+    "chapter": 12,
+    "verseRef": "Proverbes 12:17",
+    "verseText": "Voir Proverbes 12:17.",
+    "question": "Qu’est-ce qui est « un abri contre l’orage » ?",
+    "choices": [
+      "Un faux témoignage",
+      "Un homme fidèle",
+      "Une langue menteuse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 12:17 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-082",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verseRef": "Proverbes 15:4",
+    "verseText": "Voir Proverbes 15:4.",
+    "question": "Que devient « la langue » qui fait du tort ?",
+    "choices": [
+      "Elle est un arbre de vie",
+      "Elle brise l’esprit",
+      "Elle est bénie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 15:4 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-083",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verseRef": "Proverbes 16:32",
+    "verseText": "Voir Proverbes 16:32.",
+    "question": "Quel conseil est donné à propos de la colère ?",
+    "choices": [
+      "Répondre vite",
+      "Être prompt à s’irriter",
+      "Se dominer"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 16:32 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-084",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:2",
+    "verseText": "Voir Proverbes 25:2.",
+    "question": "Qu’est-ce qui est présenté comme « la gloire » de Dieu ?",
+    "choices": [
+      "Révéler toute chose",
+      "Cacher les choses",
+      "Accuser le faible"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 25:2 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-085",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:2",
+    "verseText": "Voir Proverbes 25:2.",
+    "question": "Qu’est-ce qui est présenté comme « la gloire des rois » ?",
+    "choices": [
+      "Sonder les choses",
+      "Accumuler de l’or",
+      "Se vanter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 25:2 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-086",
+    "book": "Proverbes",
+    "chapter": 19,
+    "verseRef": "Proverbes 19:2",
+    "verseText": "Voir Proverbes 19:2.",
+    "question": "Quel est le piège de « l’homme qui se hâte » ?",
+    "choices": [
+      "Il devient sage",
+      "Il commet des fautes",
+      "Il comprend tout"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 19:2 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-087",
+    "book": "Proverbes",
+    "chapter": 19,
+    "verseRef": "Proverbes 19:2",
+    "verseText": "Voir Proverbes 19:2.",
+    "question": "Qu’est-ce qui est affirmé sur « le zèle sans science » ?",
+    "choices": [
+      "Il est bon",
+      "Il n’est pas bon",
+      "Il est parfait"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 19:2 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-088",
+    "book": "Proverbes",
+    "chapter": 19,
+    "verseRef": "Proverbes 19:5",
+    "verseText": "Voir Proverbes 19:5.",
+    "question": "Quel principe est donné sur le « faux témoin » ?",
+    "choices": [
+      "Il ne sera pas puni",
+      "Il ne restera pas impuni",
+      "Il sera honoré"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 19:5 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-089",
+    "book": "Proverbes",
+    "chapter": 13,
+    "verseRef": "Proverbes 13:5",
+    "verseText": "Voir Proverbes 13:5.",
+    "question": "Qu’est-ce qui caractérise « le juste » face au mensonge ?",
+    "choices": [
+      "Il hait la parole mensongère",
+      "Il aime la flatterie",
+      "Il cherche le conflit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 13:5 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-090",
+    "book": "Proverbes",
+    "chapter": 13,
+    "verseRef": "Proverbes 13:10",
+    "verseText": "Voir Proverbes 13:10.",
+    "question": "Que produit « l’orgueil » selon l’avertissement ?",
+    "choices": [
+      "Il donne la sagesse",
+      "Il cause la querelle",
+      "Il apporte la paix"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 13:10 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-091",
+    "book": "Proverbes",
+    "chapter": 13,
+    "verseRef": "Proverbes 13:10",
+    "verseText": "Voir Proverbes 13:10.",
+    "question": "Quelle attitude est associée à la sagesse ?",
+    "choices": [
+      "Prendre conseil",
+      "Mépriser les conseils",
+      "Ne jamais écouter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 13:10 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-092",
+    "book": "Proverbes",
+    "chapter": 14,
+    "verseRef": "Proverbes 14:13",
+    "verseText": "Voir Proverbes 14:13.",
+    "question": "Quel contraste est donné sur le rire ?",
+    "choices": [
+      "Il guérit toujours",
+      "Il peut y avoir du chagrin au milieu du rire",
+      "Il détruit la vie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 14:13 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-093",
+    "book": "Proverbes",
+    "chapter": 14,
+    "verseRef": "Proverbes 14:13",
+    "verseText": "Voir Proverbes 14:13.",
+    "question": "Quel est « la fin » de la joie selon cet avertissement ?",
+    "choices": [
+      "La paix",
+      "La tristesse",
+      "La victoire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 14:13 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-094",
+    "book": "Proverbes",
+    "chapter": 26,
+    "verseRef": "Proverbes 26:28",
+    "verseText": "Voir Proverbes 26:28.",
+    "question": "Quel est le danger d’une « langue fausse » ?",
+    "choices": [
+      "Elle guérit l’âme",
+      "Elle est une ruine",
+      "Elle enrichit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 26:28 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-095",
+    "book": "Proverbes",
+    "chapter": 26,
+    "verseRef": "Proverbes 26:28",
+    "verseText": "Voir Proverbes 26:28.",
+    "question": "Qu’est-ce qu’une « bouche flatteuse » produit ?",
+    "choices": [
+      "La ruine",
+      "La paix durable",
+      "La justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 26:28 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-096",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:9",
+    "verseText": "Voir Proverbes 25:9.",
+    "question": "Quel est le conseil concernant le secret d’autrui ?",
+    "choices": [
+      "Le publier",
+      "Le répéter partout",
+      "Ne pas le révéler"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 25:9 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-097",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:11",
+    "verseText": "Voir Proverbes 25:11.",
+    "question": "Quelle comparaison décrit une parole dite à propos ?",
+    "choices": [
+      "Des pommes d’or sur des ciselures d’argent",
+      "Un feu dévorant",
+      "Un marteau de fer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 25:11 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-098",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:14",
+    "verseText": "Voir Proverbes 25:14.",
+    "question": "Qu’est-ce qui ressemble à « un nuage et au vent sans pluie » ?",
+    "choices": [
+      "Un homme qui se tait",
+      "Un homme qui se vante de ses dons",
+      "Un homme qui écoute"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 25:14 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-099",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:15",
+    "verseText": "Voir Proverbes 25:15.",
+    "question": "Quelle est l’image utilisée pour la patience face à un prince ?",
+    "choices": [
+      "Par la douceur, on brise les os",
+      "Par la force, on gagne vite",
+      "Par la ruse, on triomphe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 25:15 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-100",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:16",
+    "verseText": "Voir Proverbes 25:16.",
+    "question": "Quel avertissement est donné sur le miel ?",
+    "choices": [
+      "Manges-en beaucoup",
+      "Ne te fatigue pas à le chercher",
+      "N’en mange pas trop"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 25:16 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-101",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:16",
+    "verseText": "Voir Proverbes 25:16.",
+    "question": "Quel est le risque de « se rassasier de miel » ?",
+    "choices": [
+      "L’adorer",
+      "Le vomir",
+      "Le garder pour toujours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 25:16 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-102",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:28",
+    "verseText": "Voir Proverbes 25:28.",
+    "question": "Que devient celui qui « n’est pas maître de lui-même » ?",
+    "choices": [
+      "Une ville forcée et sans murailles",
+      "Une forteresse imprenable",
+      "Un arbre planté près des eaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 25:28 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-103",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:18",
+    "verseText": "Voir Proverbes 25:18.",
+    "question": "Quelle description est donnée de l’homme qui veut nuire à son prochain par tromperie ?",
+    "choices": [
+      "Il est comme un marteau, une épée et une flèche aiguë",
+      "Il est comme un jardin arrosé",
+      "Il est comme une lampe brillante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 25:18 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-104",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:21",
+    "verseText": "Voir Proverbes 25:21.",
+    "question": "Quel est le conseil envers l’ennemi qui a faim ?",
+    "choices": [
+      "Le repousser",
+      "Lui donner du pain",
+      "L’insulter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 25:21 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-105",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:21",
+    "verseText": "Voir Proverbes 25:21.",
+    "question": "Quel est le conseil envers l’ennemi qui a soif ?",
+    "choices": [
+      "Lui donner de l’eau",
+      "Lui donner à boire",
+      "L’ignorer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 25:21 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-106",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:22",
+    "verseText": "Voir Proverbes 25:22.",
+    "question": "Que « tu amasseras » ainsi sur sa tête ?",
+    "choices": [
+      "Des pierres",
+      "Des charbons ardents",
+      "Des couronnes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 25:22 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-107",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:22",
+    "verseText": "Voir Proverbes 25:22.",
+    "question": "Quelle promesse accompagne ce geste envers l’ennemi ?",
+    "choices": [
+      "L’Éternel te récompensera",
+      "Les hommes te haïront",
+      "Tu seras rejeté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 25:22 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-108",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:23",
+    "verseText": "Voir Proverbes 25:23.",
+    "question": "Quel effet a « le vent du nord » ?",
+    "choices": [
+      "Il amène la pluie",
+      "Il amène la sécheresse",
+      "Il amène la chaleur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 25:23 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-109",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verseRef": "Proverbes 25:23",
+    "verseText": "Voir Proverbes 25:23.",
+    "question": "Qu’est-ce qui « excite la colère » comme une langue ?",
+    "choices": [
+      "La langue mystérieuse",
+      "La langue médisante",
+      "La langue silencieuse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 25:23 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-110",
+    "book": "Proverbes",
+    "chapter": 21,
+    "verseRef": "Proverbes 21:9",
+    "verseText": "Voir Proverbes 21:9.",
+    "question": "Que vaut mieux qu’une maison commune avec une femme querelleuse ?",
+    "choices": [
+      "Une salle de banquet",
+      "L’angle d’un toit",
+      "Une grande cour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 21:9 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-111",
+    "book": "Proverbes",
+    "chapter": 21,
+    "verseRef": "Proverbes 21:19",
+    "verseText": "Voir Proverbes 21:19.",
+    "question": "Que préfère le texte à une vie de querelles continuelles ?",
+    "choices": [
+      "Un palais somptueux",
+      "Un désert",
+      "Une ville animée"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 21:19 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-112",
+    "book": "Proverbes",
+    "chapter": 28,
+    "verseRef": "Proverbes 28:15",
+    "verseText": "Voir Proverbes 28:15.",
+    "question": "Quel type d’homme est comparé à un « lion rugissant » ?",
+    "choices": [
+      "Un roi méchant qui domine un peuple pauvre",
+      "Un ami fidèle",
+      "Un enfant sage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 28:15 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-113",
+    "book": "Proverbes",
+    "chapter": 28,
+    "verseRef": "Proverbes 28:15",
+    "verseText": "Voir Proverbes 28:15.",
+    "question": "Quelle image complète cette comparaison avec le lion ?",
+    "choices": [
+      "Un agneau paisible",
+      "Un ours affamé",
+      "Une colombe blanche"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 28:15 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-114",
+    "book": "Proverbes",
+    "chapter": 18,
+    "verseRef": "Proverbes 18:13",
+    "verseText": "Voir Proverbes 18:13.",
+    "question": "Quel défaut est attribué à celui qui « répond avant d’avoir écouté » ?",
+    "choices": [
+      "La prudence",
+      "La folie et la confusion",
+      "La sagesse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 18:13 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-115",
+    "book": "Proverbes",
+    "chapter": 26,
+    "verseRef": "Proverbes 26:20",
+    "verseText": "Voir Proverbes 26:20.",
+    "question": "Que dit le texte au sujet du « feu » quand il n’y a plus de bois ?",
+    "choices": [
+      "Il redouble",
+      "Il s’éteint",
+      "Il se transforme en eau"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 26:20 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-116",
+    "book": "Proverbes",
+    "chapter": 26,
+    "verseRef": "Proverbes 26:20",
+    "verseText": "Voir Proverbes 26:20.",
+    "question": "Que cesse-t-il quand il n’y a plus de rapporteur ?",
+    "choices": [
+      "La joie",
+      "La querelle",
+      "La sagesse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 26:20 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-117",
+    "book": "Proverbes",
+    "chapter": 26,
+    "verseRef": "Proverbes 26:21",
+    "verseText": "Voir Proverbes 26:21.",
+    "question": "Quelle comparaison est donnée pour l’homme qui répand la querelle ?",
+    "choices": [
+      "Comme une étincelle",
+      "Comme des charbons pour la braise",
+      "Comme une source d’eau"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 26:21 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-118",
+    "book": "Proverbes",
+    "chapter": 26,
+    "verseRef": "Proverbes 26:21",
+    "verseText": "Voir Proverbes 26:21.",
+    "question": "Quelle autre image accompagne les charbons dans cette comparaison ?",
+    "choices": [
+      "Le vent pour la pluie",
+      "Le bois pour le feu",
+      "Le sel pour la mer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 26:21 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-119",
+    "book": "Proverbes",
+    "chapter": 26,
+    "verseRef": "Proverbes 26:23",
+    "verseText": "Voir Proverbes 26:23.",
+    "question": "Qu’est-ce qui est comparé à « des vases d’argent » ?",
+    "choices": [
+      "Des lèvres enflammées avec un cœur méchant",
+      "Des paroles sages avec un cœur pur",
+      "Un silence total"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 26:23 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-120",
+    "book": "Proverbes",
+    "chapter": 26,
+    "verseRef": "Proverbes 26:24",
+    "verseText": "Voir Proverbes 26:24.",
+    "question": "Quel avertissement est donné contre celui qui « hait » ?",
+    "choices": [
+      "Il parle toujours vrai",
+      "Il dissimule avec ses lèvres",
+      "Il ne trompe jamais"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 26:24 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-121",
+    "book": "Proverbes",
+    "chapter": 6,
+    "verseRef": "Proverbes 6:6",
+    "verseText": "Voir Proverbes 6:6.",
+    "question": "Quel modèle est donné pour dénoncer la paresse ?",
+    "choices": [
+      "La fourmi",
+      "Le lion",
+      "La colombe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 6:6 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-122",
+    "book": "Proverbes",
+    "chapter": 6,
+    "verseRef": "Proverbes 6:16-17",
+    "verseText": "Voir Proverbes 6:16-17.",
+    "question": "Quels sont les « six choses » que l’Éternel hait, et même « sept » qu’il a en abomination (selon la liste) ?",
+    "choices": [
+      "Les balances justes, le cœur sage, les lèvres vraies",
+      "Les yeux hautains, la langue menteuse, les mains qui répandent le sang innocent",
+      "Le travail, la prudence, l’humilité"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 6:16-17 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-123",
+    "book": "Proverbes",
+    "chapter": 6,
+    "verseRef": "Proverbes 6:18",
+    "verseText": "Voir Proverbes 6:18.",
+    "question": "Quel élément fait partie de la même liste d’abominations : « un cœur qui médite des projets iniques » ?",
+    "choices": [
+      "Oui, c’est cité ainsi",
+      "Non, le texte parle d’un cœur courageux",
+      "Non, le texte parle d’un cœur joyeux seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 6:18 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-124",
+    "book": "Proverbes",
+    "chapter": 6,
+    "verseRef": "Proverbes 6:19",
+    "verseText": "Voir Proverbes 6:19.",
+    "question": "Quel comportement est décrit dans la même liste : « celui qui excite des querelles entre frères » ?",
+    "choices": [
+      "Il est déclaré sage",
+      "Il est compté parmi les abominations",
+      "Il est présenté comme neutre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 6:19 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-125",
+    "book": "Proverbes",
+    "chapter": 8,
+    "verseRef": "Proverbes 8:17",
+    "verseText": "Voir Proverbes 8:17.",
+    "question": "Quelle promesse est faite à ceux qui aiment la sagesse ?",
+    "choices": [
+      "Je les aime",
+      "Je les punis",
+      "Je les oublie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 8:17 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-126",
+    "book": "Proverbes",
+    "chapter": 8,
+    "verseRef": "Proverbes 8:18",
+    "verseText": "Voir Proverbes 8:18.",
+    "question": "Que donnent « richesse et honneur » selon la sagesse qui parle ?",
+    "choices": [
+      "Ils viennent avec elle",
+      "Ils viennent par la ruse",
+      "Ils viennent par la violence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 8:18 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-127",
+    "book": "Proverbes",
+    "chapter": 14,
+    "verseRef": "Proverbes 14:34",
+    "verseText": "Voir Proverbes 14:34.",
+    "question": "Comment est décrite la parole de l’Éternel à propos de son impact moral sur une nation ?",
+    "choices": [
+      "La justice élève une nation",
+      "L’argent élève une nation",
+      "La force élève une nation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 14:34 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-128",
+    "book": "Proverbes",
+    "chapter": 14,
+    "verseRef": "Proverbes 14:34",
+    "verseText": "Voir Proverbes 14:34.",
+    "question": "Quelle est la honte des peuples selon le même enseignement ?",
+    "choices": [
+      "La famine",
+      "Le péché",
+      "La faiblesse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 14:34 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-129",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verseRef": "Proverbes 16:3",
+    "verseText": "Voir Proverbes 16:3.",
+    "question": "Quel conseil est donné pour « rouler » tes œuvres ?",
+    "choices": [
+      "Les rouler sur tes amis",
+      "Les rouler sur l’Éternel",
+      "Les rouler sur la chance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 16:3 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-130",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verseRef": "Proverbes 16:3",
+    "verseText": "Voir Proverbes 16:3.",
+    "question": "Qu’arrive-t-il à tes projets quand tu « roules tes œuvres sur l’Éternel » ?",
+    "choices": [
+      "Ils s’affermiront",
+      "Ils disparaîtront",
+      "Ils seront confus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 16:3 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-131",
+    "book": "Proverbes",
+    "chapter": 17,
+    "verseRef": "Proverbes 17:3",
+    "verseText": "Voir Proverbes 17:3.",
+    "question": "Quel est le rôle du creuset et du four dans une comparaison morale ?",
+    "choices": [
+      "Tester l’argent et l’or, et l’Éternel éprouve les cœurs",
+      "Produire du pain, et l’Éternel donne la faim",
+      "Faire de la fumée, et l’Éternel déteste la fumée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 17:3 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-132",
+    "book": "Proverbes",
+    "chapter": 18,
+    "verseRef": "Proverbes 18:21",
+    "verseText": "Voir Proverbes 18:21.",
+    "question": "Quelle vérité est donnée sur la mort et la vie, liées à un organe précis ?",
+    "choices": [
+      "Elles sont au pouvoir de la main",
+      "Elles sont au pouvoir de la langue",
+      "Elles sont au pouvoir des yeux"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 18:21 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-133",
+    "book": "Proverbes",
+    "chapter": 18,
+    "verseRef": "Proverbes 18:21",
+    "verseText": "Voir Proverbes 18:21.",
+    "question": "Que feront ceux qui aiment ce pouvoir de la langue ?",
+    "choices": [
+      "Ils en mangeront les fruits",
+      "Ils en perdront la mémoire",
+      "Ils en seront toujours innocents"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 18:21 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-134",
+    "book": "Proverbes",
+    "chapter": 19,
+    "verseRef": "Proverbes 19:17",
+    "verseText": "Voir Proverbes 19:17.",
+    "question": "Comment est qualifié celui qui a pitié du pauvre ?",
+    "choices": [
+      "Il prête à l’Éternel",
+      "Il s’appauvrit pour rien",
+      "Il se rend coupable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 19:17 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-135",
+    "book": "Proverbes",
+    "chapter": 19,
+    "verseRef": "Proverbes 19:17",
+    "verseText": "Voir Proverbes 19:17.",
+    "question": "Quelle promesse accompagne la pitié envers le pauvre ?",
+    "choices": [
+      "L’Éternel lui rendra son bienfait",
+      "Les hommes l’oublieront",
+      "Il perdra sa récompense"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 19:17 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-136",
+    "book": "Proverbes",
+    "chapter": 20,
+    "verseRef": "Proverbes 20:1",
+    "verseText": "Voir Proverbes 20:1.",
+    "question": "Quelle image décrit le vin ?",
+    "choices": [
+      "Un soutien sûr",
+      "Un moqueur",
+      "Un juge équitable"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 20:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-137",
+    "book": "Proverbes",
+    "chapter": 20,
+    "verseRef": "Proverbes 20:1",
+    "verseText": "Voir Proverbes 20:1.",
+    "question": "Comment est décrit « la boisson forte » ?",
+    "choices": [
+      "Elle est bruyante",
+      "Elle est paisible",
+      "Elle est sainte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 20:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-138",
+    "book": "Proverbes",
+    "chapter": 20,
+    "verseRef": "Proverbes 20:1",
+    "verseText": "Voir Proverbes 20:1.",
+    "question": "Quel verdict tombe sur celui qui s’égare par le vin et la boisson forte ?",
+    "choices": [
+      "Il n’est pas sage",
+      "Il est très prudent",
+      "Il est toujours juste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 20:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-139",
+    "book": "Proverbes",
+    "chapter": 21,
+    "verseRef": "Proverbes 21:31",
+    "verseText": "Voir Proverbes 21:31.",
+    "question": "Quelle affirmation est donnée sur le cheval dans le combat ?",
+    "choices": [
+      "Il est inutile",
+      "Il est préparé pour le jour de la bataille",
+      "Il est craintif et fuit toujours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 21:31 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-140",
+    "book": "Proverbes",
+    "chapter": 21,
+    "verseRef": "Proverbes 21:31",
+    "verseText": "Voir Proverbes 21:31.",
+    "question": "À qui appartient la délivrance, malgré les préparatifs ?",
+    "choices": [
+      "Au roi",
+      "À l’armée",
+      "À l’Éternel"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 21:31 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-141",
+    "book": "Proverbes",
+    "chapter": 22,
+    "verseRef": "Proverbes 22:1",
+    "verseText": "Voir Proverbes 22:1.",
+    "question": "Quel est le meilleur choix présenté entre « le nom » et « les grandes richesses » ?",
+    "choices": [
+      "Les grandes richesses",
+      "Le bon renom",
+      "L’or caché"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 22:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-142",
+    "book": "Proverbes",
+    "chapter": 22,
+    "verseRef": "Proverbes 22:1",
+    "verseText": "Voir Proverbes 22:1.",
+    "question": "Entre l’argent et l’or, qu’est-il dit de la « faveur » ?",
+    "choices": [
+      "Elle est préférable",
+      "Elle est inutile",
+      "Elle est dangereuse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 22:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-143",
+    "book": "Proverbes",
+    "chapter": 23,
+    "verseRef": "Proverbes 23:4",
+    "verseText": "Voir Proverbes 23:4.",
+    "question": "Que conseille le texte face à l’ambition d’être riche ?",
+    "choices": [
+      "Sois certain de devenir riche",
+      "Ne te tourmente pas pour t’enrichir",
+      "Méprise toute sagesse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 23:4 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-144",
+    "book": "Proverbes",
+    "chapter": 23,
+    "verseRef": "Proverbes 23:5",
+    "verseText": "Voir Proverbes 23:5.",
+    "question": "Que dit l’avertissement sur les richesses qui « se font des ailes » ?",
+    "choices": [
+      "Elles volent vers le ciel comme l’aigle",
+      "Elles restent toujours dans la maison",
+      "Elles reviennent toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 23:5 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-145",
+    "book": "Proverbes",
+    "chapter": 24,
+    "verseRef": "Proverbes 24:10",
+    "verseText": "Voir Proverbes 24:10.",
+    "question": "Quel principe évalue une personne « au jour de la détresse » ?",
+    "choices": [
+      "Si tu te lasses, ta force est médiocre",
+      "Si tu te lasses, ta force est grande",
+      "Si tu te lasses, tu es innocent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 24:10 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-146",
+    "book": "Proverbes",
+    "chapter": 27,
+    "verseRef": "Proverbes 27:17",
+    "verseText": "Voir Proverbes 27:17.",
+    "question": "Quel effet produit le fer sur le fer, dans une comparaison ?",
+    "choices": [
+      "Il le rend mou",
+      "Il aiguise le fer",
+      "Il le dissout"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 27:17 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-147",
+    "book": "Proverbes",
+    "chapter": 27,
+    "verseRef": "Proverbes 27:17",
+    "verseText": "Voir Proverbes 27:17.",
+    "question": "Quel parallèle est donné sur les hommes dans la même comparaison ?",
+    "choices": [
+      "Ainsi un homme aiguise la colère de son prochain",
+      "Ainsi un homme aiguise le visage de son prochain",
+      "Ainsi un homme cache le visage de son prochain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 27:17 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-148",
+    "book": "Proverbes",
+    "chapter": 27,
+    "verseRef": "Proverbes 27:19",
+    "verseText": "Voir Proverbes 27:19.",
+    "question": "Quelle image décrit la relation entre le cœur et l’homme ?",
+    "choices": [
+      "Comme l’eau reflète le visage, ainsi le cœur de l’homme reflète l’homme",
+      "Comme le feu consume le bois, ainsi le cœur efface l’homme",
+      "Comme la pierre pèse, ainsi le cœur rend l’homme muet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 27:19 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-149",
+    "book": "Proverbes",
+    "chapter": 28,
+    "verseRef": "Proverbes 28:1",
+    "verseText": "Voir Proverbes 28:1.",
+    "question": "Quelle attitude caractérise le méchant, même sans poursuite ?",
+    "choices": [
+      "Il est hardi comme un lion",
+      "Il fuit",
+      "Il est toujours paisible"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 28:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-150",
+    "book": "Proverbes",
+    "chapter": 28,
+    "verseRef": "Proverbes 28:1",
+    "verseText": "Voir Proverbes 28:1.",
+    "question": "Comment est décrit le juste dans le même contraste ?",
+    "choices": [
+      "Il tremble sans cesse",
+      "Il est hardi comme un lion",
+      "Il se cache toujours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 28:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-151",
+    "book": "Proverbes",
+    "chapter": 29,
+    "verseRef": "Proverbes 29:18",
+    "verseText": "Voir Proverbes 29:18.",
+    "question": "Que manque-t-il là où il n’y a pas de révélation ?",
+    "choices": [
+      "Le peuple est sans frein",
+      "Le peuple est riche",
+      "Le peuple est savant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 29:18 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-152",
+    "book": "Proverbes",
+    "chapter": 29,
+    "verseRef": "Proverbes 29:18",
+    "verseText": "Voir Proverbes 29:18.",
+    "question": "Qui est déclaré heureux dans le même verset ?",
+    "choices": [
+      "Celui qui méprise la loi",
+      "Celui qui observe la loi",
+      "Celui qui rejette l’instruction"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 29:18 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-153",
+    "book": "Proverbes",
+    "chapter": 30,
+    "verseRef": "Proverbes 30:5",
+    "verseText": "Voir Proverbes 30:5.",
+    "question": "Quelle déclaration est faite sur toute parole de Dieu ?",
+    "choices": [
+      "Elle est obscure",
+      "Elle est éprouvée",
+      "Elle est incertaine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Proverbes 30:5 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-154",
+    "book": "Proverbes",
+    "chapter": 30,
+    "verseRef": "Proverbes 30:5",
+    "verseText": "Voir Proverbes 30:5.",
+    "question": "Quel rôle Dieu joue-t-il pour ceux qui se confient en lui ?",
+    "choices": [
+      "Un bouclier",
+      "Une chaîne",
+      "Un piège"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 30:5 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-155",
+    "book": "Proverbes",
+    "chapter": 30,
+    "verseRef": "Proverbes 30:7-8",
+    "verseText": "Voir Proverbes 30:7-8.",
+    "question": "Quelles deux choses Agur demande-t-il avant de mourir ?",
+    "choices": [
+      "La pauvreté et la tristesse",
+      "La richesse et la gloire",
+      "La fausseté et la parole mensongère éloignées de lui"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Proverbes 30:7-8 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-156",
+    "book": "Proverbes",
+    "chapter": 30,
+    "verseRef": "Proverbes 30:8",
+    "verseText": "Voir Proverbes 30:8.",
+    "question": "Que demande-t-il au sujet de sa condition matérielle ?",
+    "choices": [
+      "Ne me donne ni pauvreté ni richesse",
+      "Donne-moi la pauvreté seulement",
+      "Donne-moi la richesse seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 30:8 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-157",
+    "book": "Proverbes",
+    "chapter": 30,
+    "verseRef": "Proverbes 30:9",
+    "verseText": "Voir Proverbes 30:9.",
+    "question": "Quel risque est associé au fait d’être rassasié ?",
+    "choices": [
+      "Oublier l’Éternel et dire : Qui est l’Éternel ?",
+      "Ne jamais parler",
+      "Ne plus travailler"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 30:9 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-158",
+    "book": "Proverbes",
+    "chapter": 30,
+    "verseRef": "Proverbes 30:9",
+    "verseText": "Voir Proverbes 30:9.",
+    "question": "Quel risque est associé à la pauvreté dans ce même passage ?",
+    "choices": [
+      "Voler et profaner le nom de Dieu",
+      "Être toujours honoré",
+      "Ne jamais avoir de tentation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 30:9 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-159",
+    "book": "Proverbes",
+    "chapter": 31,
+    "verseRef": "Proverbes 31:10",
+    "verseText": "Voir Proverbes 31:10.",
+    "question": "Comment est décrite « une femme vertueuse » ?",
+    "choices": [
+      "Son prix est au-dessus des perles",
+      "Son prix est au-dessus de l’argent seulement",
+      "Son prix est au-dessus du blé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 31:10 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-160",
+    "book": "Proverbes",
+    "chapter": 31,
+    "verseRef": "Proverbes 31:10",
+    "verseText": "Voir Proverbes 31:10.",
+    "question": "Quelle question ouvre ce portrait de la femme vertueuse ?",
+    "choices": [
+      "Qui trouvera une femme vertueuse ?",
+      "Qui trouvera un homme riche ?",
+      "Qui trouvera un trésor caché ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 31:10 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-161",
+    "book": "Proverbes",
+    "chapter": 5,
+    "verseRef": "Proverbes 5:1",
+    "verseText": "Voir Proverbes 5:1.",
+    "question": "Dans le livre des Proverbes, quelle référence correspond au premier verset du chapitre 5 ?",
+    "choices": [
+      "Proverbes 5:1",
+      "Proverbes 6:1",
+      "Proverbes 5:2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 5:1 (LSG 1910)."
+  },
+  {
+    "id": "proverbes-N-162",
+    "book": "Proverbes",
+    "chapter": 7,
+    "verseRef": "Proverbes 7:1",
+    "verseText": "Voir Proverbes 7:1.",
+    "question": "Dans le livre des Proverbes, quelle référence correspond au premier verset du chapitre 7 ?",
+    "choices": [
+      "Proverbes 7:1",
+      "Proverbes 8:1",
+      "Proverbes 7:2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Proverbes 7:1 (LSG 1910)."
+  }
+]

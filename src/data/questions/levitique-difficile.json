@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "LEV-D-001",
+    "book": "Lévitique",
+    "chapter": 1,
+    "verseRef": "Lévitique 1:17",
+    "verseText": "Voir Lévitique 1:17.",
+    "question": "Quel détail distingue l’holocauste d’oiseaux concernant la séparation des parties ?",
+    "choices": [
+      "Il devait fendre l’oiseau par les ailes, sans le diviser",
+      "Il devait le couper en deux parties égales"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 1:17 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-002",
+    "book": "Lévitique",
+    "chapter": 2,
+    "verseRef": "Lévitique 2:13",
+    "verseText": "Voir Lévitique 2:13.",
+    "question": "Dans l’offrande végétale cuite au four, quel élément devait toujours accompagner l’offrande (principe général) ?",
+    "choices": [
+      "Du sel",
+      "Du levain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 2:13 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-003",
+    "book": "Lévitique",
+    "chapter": 4,
+    "verseRef": "Lévitique 4:22-23",
+    "verseText": "Voir Lévitique 4:22-23.",
+    "question": "En cas de péché du chef, quelle victime est prescrite ?",
+    "choices": [
+      "Un bouc mâle sans défaut",
+      "Un agneau mâle sans défaut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 4:22-23 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-004",
+    "book": "Lévitique",
+    "chapter": 6,
+    "verseRef": "Lévitique 6:26",
+    "verseText": "Voir Lévitique 6:26.",
+    "question": "Quand tout le sang du sacrifice pour le péché n’était pas porté dans le sanctuaire, que faisait-on de la chair ?",
+    "choices": [
+      "Les sacrificateurs la mangeaient dans un lieu saint",
+      "Elle devait être brûlée hors du camp"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 6:26 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-005",
+    "book": "Lévitique",
+    "chapter": 6,
+    "verseRef": "Lévitique 6:4-5",
+    "verseText": "Voir Lévitique 6:4-5.",
+    "question": "Quelle précision est donnée sur la restitution en cas de fraude envers le prochain ?",
+    "choices": [
+      "Rendre l’objet + ajouter un cinquième",
+      "Rendre l’objet + ajouter un dixième"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 6:4-5 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-006",
+    "book": "Lévitique",
+    "chapter": 6,
+    "verseRef": "Lévitique 6:10-11",
+    "verseText": "Voir Lévitique 6:10-11.",
+    "question": "Que devait faire le sacrificateur avec la cendre de l’holocauste ?",
+    "choices": [
+      "L’ôter et la déposer près de l’autel, puis la porter hors du camp",
+      "La jeter dans la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 6:10-11 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-007",
+    "book": "Lévitique",
+    "chapter": 3,
+    "verseRef": "Lévitique 3:3-5",
+    "verseText": "Voir Lévitique 3:3-5.",
+    "question": "Dans le sacrifice de prospérités, quelle partie spécifique est appelée « la graisse qui couvre les entrailles » ?",
+    "choices": [
+      "Elle devait être brûlée pour l’Éternel",
+      "Elle devait être donnée au peuple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 3:3-5 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-008",
+    "book": "Lévitique",
+    "chapter": 7,
+    "verseRef": "Lévitique 7:18",
+    "verseText": "Voir Lévitique 7:18.",
+    "question": "Quelle règle est donnée sur le sacrifice de prospérités mangé le troisième jour ?",
+    "choices": [
+      "Il ne sera point agréé ; ce sera une chose infecte",
+      "Il sera plus saint et plus agréable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 7:18 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-009",
+    "book": "Lévitique",
+    "chapter": 8,
+    "verseRef": "Lévitique 8:25-26",
+    "verseText": "Voir Lévitique 8:25-26.",
+    "question": "Dans la consécration, quel organe du bélier de consécration Moïse prit-il avec du pain sans levain ?",
+    "choices": [
+      "La graisse, la queue, et l’épaule droite (avec gâteaux)",
+      "Le foie entier et les reins seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 8:25-26 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-010",
+    "book": "Lévitique",
+    "chapter": 9,
+    "verseRef": "Lévitique 9:24",
+    "verseText": "Voir Lévitique 9:24.",
+    "question": "Quel événement suit immédiatement l’offrande inaugurale et provoque un cri du peuple ?",
+    "choices": [
+      "Le feu sortit de devant l’Éternel et consuma l’holocauste",
+      "La mer se fendit en deux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 9:24 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-011",
+    "book": "Lévitique",
+    "chapter": 11,
+    "verseRef": "Lévitique 11:7-8",
+    "verseText": "Voir Lévitique 11:7-8.",
+    "question": "Quel critère rend impur un animal « qui a des sabots fendus » mais qui ne rumine pas ?",
+    "choices": [
+      "Il est impur malgré le sabot fendu",
+      "Il est pur grâce au sabot fendu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 11:7-8 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-012",
+    "book": "Lévitique",
+    "chapter": 13,
+    "verseRef": "Lévitique 13:3",
+    "verseText": "Voir Lévitique 13:3.",
+    "question": "Quel signe rend une plaie suspecte de lèpre « plus profonde que la peau » ?",
+    "choices": [
+      "Elle est signe d’impureté",
+      "Elle est toujours pure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 13:3 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-013",
+    "book": "Lévitique",
+    "chapter": 13,
+    "verseRef": "Lévitique 13:5-8",
+    "verseText": "Voir Lévitique 13:5-8.",
+    "question": "Selon la loi sur la lèpre, que devait-on faire si la plaie s’étendait après sept jours d’isolement ?",
+    "choices": [
+      "Déclarer impur",
+      "Déclarer pur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 13:5-8 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-014",
+    "book": "Lévitique",
+    "chapter": 14,
+    "verseRef": "Lévitique 14:5",
+    "verseText": "Voir Lévitique 14:5.",
+    "question": "Dans la purification du lépreux, quel liquide est mentionné avec le sang dans le vase de terre ?",
+    "choices": [
+      "De l’eau vive",
+      "De l’huile seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 14:5 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-015",
+    "book": "Lévitique",
+    "chapter": 14,
+    "verseRef": "Lévitique 14:40",
+    "verseText": "Voir Lévitique 14:40.",
+    "question": "Pour une maison atteinte, que devait-on faire aux pierres atteintes après constatation ?",
+    "choices": [
+      "Les arracher et les jeter hors de la ville dans un lieu impur",
+      "Les garder et les repeindre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 14:40 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-016",
+    "book": "Lévitique",
+    "chapter": 16,
+    "verseRef": "Lévitique 16:4",
+    "verseText": "Voir Lévitique 16:4.",
+    "question": "Que devait faire le souverain sacrificateur avant d’entrer dans le sanctuaire, au jour des expiations ?",
+    "choices": [
+      "Se laver le corps dans l’eau et revêtir des vêtements sacrés de lin",
+      "Mettre son vêtement d’or habituel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 16:4 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-017",
+    "book": "Lévitique",
+    "chapter": 16,
+    "verseRef": "Lévitique 16:8-10",
+    "verseText": "Voir Lévitique 16:8-10.",
+    "question": "À propos des deux boucs, lequel était présenté « vivant » pour être envoyé au désert ?",
+    "choices": [
+      "Celui sur lequel le sort « pour Azazel » tombait",
+      "Celui offert en sacrifice pour le péché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 16:8-10 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-018",
+    "book": "Lévitique",
+    "chapter": 16,
+    "verseRef": "Lévitique 16:21",
+    "verseText": "Voir Lévitique 16:21.",
+    "question": "Quelle action Aaron faisait-il sur le bouc vivant concernant les fautes du peuple ?",
+    "choices": [
+      "Il confessait toutes les iniquités en posant les deux mains sur sa tête",
+      "Il l’égorgeait à la porte du camp"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 16:21 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-019",
+    "book": "Lévitique",
+    "chapter": 17,
+    "verseRef": "Lévitique 17:11",
+    "verseText": "Voir Lévitique 17:11.",
+    "question": "Quel principe est donné pour expliquer l’efficacité expiatoire du sang ?",
+    "choices": [
+      "« Car l’âme de la chair est dans le sang »",
+      "« Car la graisse est dans l’âme »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 17:11 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-020",
+    "book": "Lévitique",
+    "chapter": 17,
+    "verseRef": "Lévitique 17:10",
+    "verseText": "Voir Lévitique 17:10.",
+    "question": "Quelle conséquence pour celui qui mangerait du sang ?",
+    "choices": [
+      "Dieu tournerait sa face contre cette personne",
+      "Il recevrait une double portion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 17:10 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-021",
+    "book": "Lévitique",
+    "chapter": 18,
+    "verseRef": "Lévitique 18:3",
+    "verseText": "Voir Lévitique 18:3.",
+    "question": "Quelle formule résume l’interdit des pratiques sexuelles des nations ?",
+    "choices": [
+      "« Vous ne ferez point ce qui se fait dans le pays d’Égypte… ni dans le pays de Canaan »",
+      "« Imitez les coutumes des nations »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 18:3 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-022",
+    "book": "Lévitique",
+    "chapter": 18,
+    "verseRef": "Lévitique 18:22",
+    "verseText": "Voir Lévitique 18:22.",
+    "question": "Quel acte est qualifié d’« abomination » dans la liste ?",
+    "choices": [
+      "Coucher avec un homme comme on couche avec une femme",
+      "Offrir une offrande de farine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 18:22 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-023",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:31",
+    "verseText": "Voir Lévitique 19:31.",
+    "question": "Quelle interdiction est donnée au sujet des “esprits” et des devins ?",
+    "choices": [
+      "Ne pas s’adresser à eux et ne pas les consulter",
+      "Les consulter avant chaque voyage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 19:31 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-024",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:16",
+    "verseText": "Voir Lévitique 19:16.",
+    "question": "Dans la loi sur la justice, que dit le texte sur la calomnie ?",
+    "choices": [
+      "« Tu ne répandras point de calomnies parmi ton peuple »",
+      "« Tu répandras les rumeurs pour avertir »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 19:16 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-025",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:13",
+    "verseText": "Voir Lévitique 19:13.",
+    "question": "Quelle règle concerne le salaire d’un mercenaire ?",
+    "choices": [
+      "Ne pas le retenir jusqu’au lendemain",
+      "Le retenir jusqu’au sabbat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 19:13 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-026",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:18",
+    "verseText": "Voir Lévitique 19:18.",
+    "question": "Quel est le commandement précis sur la vengeance ?",
+    "choices": [
+      "Ne pas se venger et ne pas garder rancune",
+      "Se venger à la septième génération"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 19:18 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-027",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:35-36",
+    "verseText": "Voir Lévitique 19:35-36.",
+    "question": "Quel principe est donné sur les poids et mesures ?",
+    "choices": [
+      "Avoir des balances justes, des poids justes, des mesures justes",
+      "Ajuster selon le client"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 19:35-36 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-028",
+    "book": "Lévitique",
+    "chapter": 20,
+    "verseRef": "Lévitique 20:2",
+    "verseText": "Voir Lévitique 20:2.",
+    "question": "Quel jugement est annoncé contre celui qui donne un de ses enfants à Moloc ?",
+    "choices": [
+      "Il sera puni de mort, le peuple le lapidera",
+      "Il sera honoré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 20:2 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-029",
+    "book": "Lévitique",
+    "chapter": 20,
+    "verseRef": "Lévitique 20:14",
+    "verseText": "Voir Lévitique 20:14.",
+    "question": "Quel jugement est lié à l’inceste avec la belle-mère ?",
+    "choices": [
+      "« C’est une confusion ; ils seront brûlés au feu » (cas spécifique)",
+      "Aucune conséquence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 20:14 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-030",
+    "book": "Lévitique",
+    "chapter": 21,
+    "verseRef": "Lévitique 21:10",
+    "verseText": "Voir Lévitique 21:10.",
+    "question": "À propos du souverain sacrificateur, quel signe de deuil lui était interdit ?",
+    "choices": [
+      "Découvrir sa tête et déchirer ses vêtements",
+      "Se laver les mains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 21:10 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-031",
+    "book": "Lévitique",
+    "chapter": 21,
+    "verseRef": "Lévitique 21:18-20",
+    "verseText": "Voir Lévitique 21:18-20.",
+    "question": "Quel défaut physique empêchait un descendant d’Aaron de s’approcher pour offrir ?",
+    "choices": [
+      "Aveugle/boiteux/mutilé (défauts listés)",
+      "Être pauvre seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 21:18-20 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-032",
+    "book": "Lévitique",
+    "chapter": 22,
+    "verseRef": "Lévitique 22:27",
+    "verseText": "Voir Lévitique 22:27.",
+    "question": "Quelle règle sur l’animal offert concerne l’âge minimal ?",
+    "choices": [
+      "À partir du huitième jour, il sera agréé",
+      "Dès le premier jour, il est agréé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 22:27 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-033",
+    "book": "Lévitique",
+    "chapter": 23,
+    "verseRef": "Lévitique 23:5",
+    "verseText": "Voir Lévitique 23:5.",
+    "question": "Concernant la Pâque dans Lévitique, à quel moment est-elle fixée ?",
+    "choices": [
+      "Le quatorzième jour du premier mois, entre les deux soirs",
+      "Le dixième jour du septième mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 23:5 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-034",
+    "book": "Lévitique",
+    "chapter": 23,
+    "verseRef": "Lévitique 23:6",
+    "verseText": "Voir Lévitique 23:6.",
+    "question": "Quelle fête suit immédiatement la Pâque dans le calendrier de Lévitique 23 ?",
+    "choices": [
+      "La fête des pains sans levain",
+      "La fête des trompettes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 23:6 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-035",
+    "book": "Lévitique",
+    "chapter": 23,
+    "verseRef": "Lévitique 23:11",
+    "verseText": "Voir Lévitique 23:11.",
+    "question": "Quel geste agricole marque l’offrande des prémices ?",
+    "choices": [
+      "Agiter la gerbe devant l’Éternel",
+      "Brûler toute la récolte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 23:11 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-036",
+    "book": "Lévitique",
+    "chapter": 23,
+    "verseRef": "Lévitique 23:14",
+    "verseText": "Voir Lévitique 23:14.",
+    "question": "Quelle interdiction alimentaire accompagne l’offrande de la gerbe ?",
+    "choices": [
+      "Ne pas manger de pain, de grain rôti, ni d’épi frais jusqu’à ce jour",
+      "Ne pas boire d’eau jusqu’à ce jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 23:14 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-037",
+    "book": "Lévitique",
+    "chapter": 23,
+    "verseRef": "Lévitique 23:24",
+    "verseText": "Voir Lévitique 23:24.",
+    "question": "Quel jour est décrit comme « un jour de repos, publié au son des trompettes » ?",
+    "choices": [
+      "Le premier jour du septième mois",
+      "Le quinzième jour du septième mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 23:24 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-038",
+    "book": "Lévitique",
+    "chapter": 23,
+    "verseRef": "Lévitique 23:27",
+    "verseText": "Voir Lévitique 23:27.",
+    "question": "Quelle expression est associée au jour des expiations concernant l’attitude du peuple ?",
+    "choices": [
+      "« Vous humilierez vos âmes »",
+      "« Vous danserez sans cesse »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 23:27 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-039",
+    "book": "Lévitique",
+    "chapter": 23,
+    "verseRef": "Lévitique 23:40",
+    "verseText": "Voir Lévitique 23:40.",
+    "question": "Dans la fête des tabernacles, quel matériau est mentionné pour se réjouir devant l’Éternel ?",
+    "choices": [
+      "Rameaux d’arbres touffus et de saules de rivière (avec branches)",
+      "Pierres taillées et fer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 23:40 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-040",
+    "book": "Lévitique",
+    "chapter": 24,
+    "verseRef": "Lévitique 24:2",
+    "verseText": "Voir Lévitique 24:2.",
+    "question": "Quel commandement sur le chandelier précise la qualité de l’huile ?",
+    "choices": [
+      "Huile pure d’olives concassées",
+      "Huile mélangée à du miel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 24:2 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-041",
+    "book": "Lévitique",
+    "chapter": 24,
+    "verseRef": "Lévitique 24:19-20",
+    "verseText": "Voir Lévitique 24:19-20.",
+    "question": "Quel principe judiciaire est formulé par « fracture pour fracture » ?",
+    "choices": [
+      "Loi de rétribution proportionnée (œil pour œil, dent pour dent)",
+      "Pardon automatique sans justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 24:19-20 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-042",
+    "book": "Lévitique",
+    "chapter": 25,
+    "verseRef": "Lévitique 25:6-7",
+    "verseText": "Voir Lévitique 25:6-7.",
+    "question": "Dans l’année sabbatique, quel produit de la terre pouvait être mangé ?",
+    "choices": [
+      "Ce que la terre produira d’elle-même (pour toi, ton serviteur, l’étranger, tes bêtes)",
+      "Rien du tout pendant sept ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 25:6-7 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-043",
+    "book": "Lévitique",
+    "chapter": 25,
+    "verseRef": "Lévitique 25:23",
+    "verseText": "Voir Lévitique 25:23.",
+    "question": "Quelle raison est donnée pour ne pas vendre la terre à perpétuité ?",
+    "choices": [
+      "« Car le pays est à moi »",
+      "« Car le pays est au roi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 25:23 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-044",
+    "book": "Lévitique",
+    "chapter": 25,
+    "verseRef": "Lévitique 25:43",
+    "verseText": "Voir Lévitique 25:43.",
+    "question": "Quel principe protège un Israélite vendu comme esclave à un autre Israélite ?",
+    "choices": [
+      "Ne pas le dominer avec dureté",
+      "Le dominer avec dureté pour l’éduquer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 25:43 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-045",
+    "book": "Lévitique",
+    "chapter": 26,
+    "verseRef": "Lévitique 26:5",
+    "verseText": "Voir Lévitique 26:5.",
+    "question": "Quelle promesse agricole extrême est donnée en bénédiction ?",
+    "choices": [
+      "« Le battage atteindra la vendange, et la vendange atteindra les semailles »",
+      "« Les semailles ne viendront plus jamais »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 26:5 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-046",
+    "book": "Lévitique",
+    "chapter": 26,
+    "verseRef": "Lévitique 26:44-45",
+    "verseText": "Voir Lévitique 26:44-45.",
+    "question": "Quelle formule résume le rejet final malgré la discipline ?",
+    "choices": [
+      "Dieu n’anéantira pas totalement, et se souviendra de l’alliance",
+      "Dieu oubliera l’alliance à jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 26:44-45 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-047",
+    "book": "Lévitique",
+    "chapter": 27,
+    "verseRef": "Lévitique 27:11-12",
+    "verseText": "Voir Lévitique 27:11-12.",
+    "question": "Dans les vœux, qu’arrive-t-il à un animal voué qui a un défaut ?",
+    "choices": [
+      "Il ne peut pas être offert, mais il ne doit pas être échangé pour en faire un autre",
+      "Il est automatiquement purifié par le vœu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 27:11-12 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-048",
+    "book": "Lévitique",
+    "chapter": 27,
+    "verseRef": "Lévitique 27:32",
+    "verseText": "Voir Lévitique 27:32.",
+    "question": "Concernant la dîme du bétail, quel geste de tri est décrit ?",
+    "choices": [
+      "Compter sous la verge : le dixième sera consacré",
+      "Peser chaque animal avec une balance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 27:32 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-049",
+    "book": "Lévitique",
+    "chapter": 27,
+    "verseRef": "Lévitique 27:33",
+    "verseText": "Voir Lévitique 27:33.",
+    "question": "Si quelqu’un échange un animal de dîme contre un autre, que dit la loi ?",
+    "choices": [
+      "L’un et l’autre seront consacrés, et on ne pourra pas les racheter",
+      "L’échange annule la dîme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 27:33 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-050",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:3",
+    "verseText": "Voir Lévitique 19:3.",
+    "question": "Dans la loi sur la sainteté, quel commandement relie explicitement la crainte à un acte concret envers les parents ?",
+    "choices": [
+      "« Chacun de vous respectera sa mère et son père »",
+      "« Chacun de vous ignorera ses parents »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 19:3 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-051",
+    "book": "Lévitique",
+    "chapter": 17,
+    "verseRef": "Lévitique 17:15-16",
+    "verseText": "Voir Lévitique 17:15-16.",
+    "question": "Quelle interdiction vise la consommation d’une bête déchirée ?",
+    "choices": [
+      "Ne pas en manger ; se laver si on en porte la peine (impureté)",
+      "En manger pour ne pas gaspiller"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 17:15-16 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-052",
+    "book": "Lévitique",
+    "chapter": 16,
+    "verseRef": "Lévitique 16:2",
+    "verseText": "Voir Lévitique 16:2.",
+    "question": "Quelle instruction concerne l’accès au lieu très saint (au-delà du voile) ?",
+    "choices": [
+      "Aaron ne doit pas entrer en tout temps, de peur de mourir",
+      "Aaron doit y entrer chaque matin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 16:2 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-053",
+    "book": "Lévitique",
+    "chapter": 16,
+    "verseRef": "Lévitique 16:13",
+    "verseText": "Voir Lévitique 16:13.",
+    "question": "Quelle expression est utilisée pour décrire l’encens dans le lieu saint au jour des expiations ?",
+    "choices": [
+      "La nuée d’encens couvrira le propitiatoire",
+      "L’encens doit rester hors du sanctuaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 16:13 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-054",
+    "book": "Lévitique",
+    "chapter": 23,
+    "verseRef": "Lévitique 23:22",
+    "verseText": "Voir Lévitique 23:22.",
+    "question": "Quelle règle sur la moisson protège encore l’étranger et le pauvre dans le chapitre des fêtes ?",
+    "choices": [
+      "Ne pas moissonner jusqu’au bord du champ ni glaner",
+      "Tout ramasser pour le sanctuaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 23:22 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-055",
+    "book": "Lévitique",
+    "chapter": 5,
+    "verseRef": "Lévitique 5:2-3",
+    "verseText": "Voir Lévitique 5:2-3.",
+    "question": "Quelle faute rendait quelqu’un « coupable » même s’il n’avait pas su, selon un cas de Lévitique 5 ?",
+    "choices": [
+      "Toucher une souillure et ne pas le déclarer (devenir coupable)",
+      "Avoir faim un jour de travail"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 5:2-3 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-056",
+    "book": "Lévitique",
+    "chapter": 5,
+    "verseRef": "Lévitique 5:5",
+    "verseText": "Voir Lévitique 5:5.",
+    "question": "Quand quelqu’un jurait légèrement, puis s’en rendait compte, que devait-il faire ?",
+    "choices": [
+      "Confesser en quoi il a péché",
+      "Se taire à jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 5:5 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-057",
+    "book": "Lévitique",
+    "chapter": 8,
+    "verseRef": "Lévitique 8:30",
+    "verseText": "Voir Lévitique 8:30.",
+    "question": "Dans l’onction de consécration, où Moïse aspergea-t-il l’huile et le sang ?",
+    "choices": [
+      "Sur Aaron, ses vêtements, et sur ses fils et leurs vêtements",
+      "Uniquement sur l’autel, jamais sur les personnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 8:30 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-058",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:19",
+    "verseText": "Voir Lévitique 19:19.",
+    "question": "Quel interdit vise le mélange dans les pratiques ordinaires ?",
+    "choices": [
+      "Ne pas semer son champ avec deux espèces, ni porter un vêtement tissé de deux espèces de fil",
+      "Porter tout mélange comme signe de foi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 19:19 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-059",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:23-25",
+    "verseText": "Voir Lévitique 19:23-25.",
+    "question": "Quelle règle concerne les fruits d’un arbre nouvellement planté ?",
+    "choices": [
+      "Trois ans : incirconcis (interdit), la quatrième année : consacré en louanges, la cinquième : on mange",
+      "Dès la première année : on mange librement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 19:23-25 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-060",
+    "book": "Lévitique",
+    "chapter": 20,
+    "verseRef": "Lévitique 20:26",
+    "verseText": "Voir Lévitique 20:26.",
+    "question": "Quelle formule résume le rôle des statuts dans Lévitique 20 ?",
+    "choices": [
+      "Être saint, car l’Éternel est saint et a séparé son peuple des nations",
+      "Être comme les nations pour vivre en paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 20:26 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-061",
+    "book": "Lévitique",
+    "chapter": 4,
+    "verseRef": "Lévitique 4:30-31",
+    "verseText": "Voir Lévitique 4:30-31.",
+    "question": "Dans le sacrifice pour le péché d’une personne du peuple, où devait-on répandre le reste du sang ?",
+    "choices": [
+      "Au pied de l’autel des holocaustes",
+      "Sur le propitiatoire dans le lieu très saint"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 4:30-31 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-062",
+    "book": "Lévitique",
+    "chapter": 5,
+    "verseRef": "Lévitique 5:15",
+    "verseText": "Voir Lévitique 5:15.",
+    "question": "Dans le cas d’un sacrifice de culpabilité, quelle victime est explicitement requise ?",
+    "choices": [
+      "Un bélier sans défaut",
+      "Un bouc sans défaut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 5:15 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-063",
+    "book": "Lévitique",
+    "chapter": 6,
+    "verseRef": "Lévitique 6:26",
+    "verseText": "Voir Lévitique 6:26.",
+    "question": "Quelle règle s’applique à la chair d’un sacrifice pour le péché quand le sang n’a pas été porté dans le sanctuaire ?",
+    "choices": [
+      "Elle doit être mangée dans un lieu saint par les sacrificateurs",
+      "Elle doit être donnée aux étrangers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 6:26 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-064",
+    "book": "Lévitique",
+    "chapter": 1,
+    "verseRef": "Lévitique 1:5",
+    "verseText": "Voir Lévitique 1:5.",
+    "question": "Quand le sacrificateur offrait un holocauste, que faisait-il avec le sang de la victime ?",
+    "choices": [
+      "Il l’aspergeait sur l’autel tout autour",
+      "Il le versait sur les vêtements sacrés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 1:5 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-065",
+    "book": "Lévitique",
+    "chapter": 5,
+    "verseRef": "Lévitique 5:3",
+    "verseText": "Voir Lévitique 5:3.",
+    "question": "Dans la loi sur la pureté, qu’arrive-t-il à celui qui touche une chose impure et ne le déclare pas ?",
+    "choices": [
+      "Il devient coupable",
+      "Il est déclaré innocent automatiquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 5:3 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-066",
+    "book": "Lévitique",
+    "chapter": 16,
+    "verseRef": "Lévitique 16:26",
+    "verseText": "Voir Lévitique 16:26.",
+    "question": "Au jour des expiations, après l’expiation, que devait faire celui qui conduisait le bouc au désert ?",
+    "choices": [
+      "Laver ses vêtements et se laver le corps dans l’eau",
+      "Offrir un agneau sur l’autel d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 16:26 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-067",
+    "book": "Lévitique",
+    "chapter": 17,
+    "verseRef": "Lévitique 17:10",
+    "verseText": "Voir Lévitique 17:10.",
+    "question": "Quel acte est interdit au sujet des sacrifices, sous peine que Dieu “tourne sa face” ?",
+    "choices": [
+      "Manger du sang",
+      "Manger du pain sans levain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 17:10 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-068",
+    "book": "Lévitique",
+    "chapter": 19,
+    "verseRef": "Lévitique 19:26",
+    "verseText": "Voir Lévitique 19:26.",
+    "question": "Dans les règles de sainteté, quelle interdiction vise les pratiques de divination sur la terre ?",
+    "choices": [
+      "« Vous n’observerez point les serpents, et vous ne pratiquerez point la divination »",
+      "« Vous pratiquerez la divination les jours de fête »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 19:26 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-069",
+    "book": "Lévitique",
+    "chapter": 20,
+    "verseRef": "Lévitique 20:6",
+    "verseText": "Voir Lévitique 20:6.",
+    "question": "Dans Lévitique 20, quelle conséquence est attachée au fait de se tourner vers ceux qui évoquent les esprits ?",
+    "choices": [
+      "Dieu tourne sa face contre cette personne et la retranche",
+      "Dieu la bénit pour sa recherche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 20:6 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-070",
+    "book": "Lévitique",
+    "chapter": 22,
+    "verseRef": "Lévitique 22:20",
+    "verseText": "Voir Lévitique 22:20.",
+    "question": "Quel principe est donné au sujet de l’offrande d’un animal “défectueux” ?",
+    "choices": [
+      "Il ne sera point agréé",
+      "Il sera agréé si l’intention est bonne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 22:20 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-071",
+    "book": "Lévitique",
+    "chapter": 23,
+    "verseRef": "Lévitique 23:27-32",
+    "verseText": "Voir Lévitique 23:27-32.",
+    "question": "Dans la loi des fêtes, quel jour précis est appelé “sabbat de repos” pour l’humiliation des âmes ?",
+    "choices": [
+      "Le dixième jour du septième mois",
+      "Le quinzième jour du septième mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 23:27-32 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-072",
+    "book": "Lévitique",
+    "chapter": 26,
+    "verseRef": "Lévitique 26:6",
+    "verseText": "Voir Lévitique 26:6.",
+    "question": "Quand l’Éternel promet la sécurité en cas d’obéissance, quelle image de paix est donnée ?",
+    "choices": [
+      "On dormira sans que personne effraie, et l’épée ne passera point",
+      "On dormira toujours dans le désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 26:6 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-073",
+    "book": "Lévitique",
+    "chapter": 26,
+    "verseRef": "Lévitique 26:31",
+    "verseText": "Voir Lévitique 26:31.",
+    "question": "Quelle sanction est annoncée en cas de mépris des statuts, concernant le sanctuaire ?",
+    "choices": [
+      "Dieu dévastera les sanctuaires",
+      "Dieu agrandira le sanctuaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 26:31 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-074",
+    "book": "Lévitique",
+    "chapter": 27,
+    "verseRef": "Lévitique 27:14",
+    "verseText": "Voir Lévitique 27:14.",
+    "question": "Dans les vœux, quel principe est donné si quelqu’un consacre une maison à l’Éternel ?",
+    "choices": [
+      "Le sacrificateur en fera l’estimation, selon qu’elle vaut",
+      "Elle devient automatiquement la propriété du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 27:14 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-075",
+    "book": "Lévitique",
+    "chapter": 27,
+    "verseRef": "Lévitique 27:18",
+    "verseText": "Voir Lévitique 27:18.",
+    "question": "Quel principe régit la consécration d’un champ selon le nombre d’années restant jusqu’au jubilé ?",
+    "choices": [
+      "L’estimation diminue selon les années qui restent",
+      "L’estimation augmente selon les années qui restent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 27:18 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-076",
+    "book": "Lévitique",
+    "chapter": 27,
+    "verseRef": "Lévitique 27:31",
+    "verseText": "Voir Lévitique 27:31.",
+    "question": "Dans la dîme du bétail, que dit le texte si quelqu’un veut la racheter ?",
+    "choices": [
+      "Il y ajoutera un cinquième",
+      "Il y ajoutera un dixième"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 27:31 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-077",
+    "book": "Lévitique",
+    "chapter": 27,
+    "verseRef": "Lévitique 27:26",
+    "verseText": "Voir Lévitique 27:26.",
+    "question": "Dans la loi sur la consécration, que dit le texte sur le premier-né des animaux ?",
+    "choices": [
+      "Il appartient déjà à l’Éternel : on ne le consacrera pas par vœu",
+      "Il ne peut jamais appartenir à l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 27:26 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-078",
+    "book": "Lévitique",
+    "chapter": 24,
+    "verseRef": "Lévitique 24:8",
+    "verseText": "Voir Lévitique 24:8.",
+    "question": "Concernant les pains de proposition, à quelle fréquence devait-on les disposer ?",
+    "choices": [
+      "Chaque jour",
+      "Chaque sabbat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Lévitique 24:8 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-079",
+    "book": "Lévitique",
+    "chapter": 24,
+    "verseRef": "Lévitique 24:14",
+    "verseText": "Voir Lévitique 24:14.",
+    "question": "Dans la loi du blasphème, quelle règle est donnée concernant le témoignage contre le blasphémateur ?",
+    "choices": [
+      "Les témoins poseront leurs mains sur sa tête",
+      "Les témoins s’enfuient sans parler"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 24:14 (LSG 1910)."
+  },
+  {
+    "id": "LEV-D-080",
+    "book": "Lévitique",
+    "chapter": 25,
+    "verseRef": "Lévitique 25:9",
+    "verseText": "Voir Lévitique 25:9.",
+    "question": "Dans la loi sur les années, quel ordre précède immédiatement la proclamation du jubilé ?",
+    "choices": [
+      "Sonner de la trompette le dixième jour du septième mois",
+      "Offrir deux tourterelles au sanctuaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Lévitique 25:9 (LSG 1910)."
+  }
+]

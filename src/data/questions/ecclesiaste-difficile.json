@@ -1,0 +1,1724 @@
+[
+  {
+    "id": "ecclesiaste-D-001",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verseRef": "Ecclésiaste 1:1",
+    "verseText": "Voir Ecclésiaste 1:1.",
+    "question": "Qui est présenté comme l’auteur par son titre dès l’ouverture ?",
+    "choices": [
+      "Le prédicateur, fils de David, roi à Jérusalem",
+      "Le prophète, fils d’Aaron, sacrificateur à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 1:1 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-002",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verseRef": "Ecclésiaste 1:2",
+    "verseText": "Voir Ecclésiaste 1:2.",
+    "question": "Quel mot est répété de manière emphatique pour qualifier la vanité ?",
+    "choices": [
+      "Vanité des vanités",
+      "Justice des justices"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 1:2 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-003",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verseRef": "Ecclésiaste 1:3",
+    "verseText": "Voir Ecclésiaste 1:3.",
+    "question": "Quel terme encadre l’idée de profit humain dans la question fondamentale ?",
+    "choices": [
+      "Profit",
+      "Victoire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 1:3 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-004",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verseRef": "Ecclésiaste 1:3",
+    "verseText": "Voir Ecclésiaste 1:3.",
+    "question": "Quelle expression précise le cadre de l’observation humaine (répétée dans le livre) ?",
+    "choices": [
+      "Sous le soleil",
+      "Sur la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 1:3 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-005",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verseRef": "Ecclésiaste 1:6",
+    "verseText": "Voir Ecclésiaste 1:6.",
+    "question": "Quelle image du mouvement est attribuée au vent ?",
+    "choices": [
+      "Il va vers le midi, et tourne vers le nord; puis il tourne encore et reprend les mêmes circuits",
+      "Il monte droit au ciel et disparaît une fois pour toutes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 1:6 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-006",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verseRef": "Ecclésiaste 1:8",
+    "verseText": "Voir Ecclésiaste 1:8.",
+    "question": "Quel constat est fait sur l’insatisfaction du regard et de l’oreille ?",
+    "choices": [
+      "L’œil ne se rassasie pas de voir, et l’oreille ne se lasse pas d’entendre",
+      "L’œil se rassasie vite, et l’oreille se lasse vite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 1:8 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-007",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verseRef": "Ecclésiaste 1:11",
+    "verseText": "Voir Ecclésiaste 1:11.",
+    "question": "Que dit l’auteur de la mémoire des premiers ?",
+    "choices": [
+      "On ne se souvient pas de ce qui est ancien",
+      "On se souvient parfaitement de ce qui est ancien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 1:11 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-008",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verseRef": "Ecclésiaste 1:15",
+    "verseText": "Voir Ecclésiaste 1:15.",
+    "question": "Quel jugement est porté sur « ce qui est courbé » ?",
+    "choices": [
+      "Ce qui est courbé ne peut se redresser",
+      "Ce qui est courbé peut toujours se redresser"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 1:15 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-009",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verseRef": "Ecclésiaste 1:15",
+    "verseText": "Voir Ecclésiaste 1:15.",
+    "question": "Quel jugement est porté sur « ce qui manque » ?",
+    "choices": [
+      "Ce qui manque ne peut être compté",
+      "Ce qui manque peut être compté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 1:15 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-010",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verseRef": "Ecclésiaste 1:18",
+    "verseText": "Voir Ecclésiaste 1:18.",
+    "question": "Quelle conséquence accompagne « beaucoup de sagesse » ?",
+    "choices": [
+      "Beaucoup de chagrin",
+      "Beaucoup de repos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 1:18 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-011",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verseRef": "Ecclésiaste 2:3",
+    "verseText": "Voir Ecclésiaste 2:3.",
+    "question": "Quel « bien » l’auteur cherche-t-il à éprouver par les plaisirs ?",
+    "choices": [
+      "Ce qui est bon pour les fils de l’homme… pendant le nombre des jours de leur vie",
+      "Ce qui est bon pour les bêtes… pendant la durée des saisons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 2:3 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-012",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verseRef": "Ecclésiaste 2:7",
+    "verseText": "Voir Ecclésiaste 2:7.",
+    "question": "Quelle liste est explicitement mentionnée parmi les biens acquis ?",
+    "choices": [
+      "Des serviteurs et des servantes, et des enfants de la maison",
+      "Des prêtres et des lévites, et des prophètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 2:7 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-013",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verseRef": "Ecclésiaste 2:8",
+    "verseText": "Voir Ecclésiaste 2:8.",
+    "question": "Quel type de richesse est nommé en plus des troupeaux ?",
+    "choices": [
+      "De l’argent et de l’or",
+      "Du fer et du cuivre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 2:8 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-014",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verseRef": "Ecclésiaste 2:8",
+    "verseText": "Voir Ecclésiaste 2:8.",
+    "question": "Quelle expression vise les plaisirs artistiques et sensuels ?",
+    "choices": [
+      "Des chanteurs et des chanteuses, et les délices des fils de l’homme : des femmes en grand nombre",
+      "Des guerriers et des cavaliers, et les délices des rois : des armes en grand nombre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 2:8 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-015",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verseRef": "Ecclésiaste 2:9",
+    "verseText": "Voir Ecclésiaste 2:9.",
+    "question": "Quel contraste l’auteur maintient-il au milieu des plaisirs ?",
+    "choices": [
+      "Ma sagesse demeurait avec moi",
+      "Mon ignorance demeurait avec moi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 2:9 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-016",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verseRef": "Ecclésiaste 2:12",
+    "verseText": "Voir Ecclésiaste 2:12.",
+    "question": "Quelle décision intérieure est décrite avant d’examiner sagesse, folie et stupidité ?",
+    "choices": [
+      "Je tournai mes regards pour considérer la sagesse, et la folie, et la stupidité",
+      "Je fermai mes yeux pour oublier la sagesse, et la folie, et la stupidité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 2:12 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-017",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verseRef": "Ecclésiaste 2:14-15",
+    "verseText": "Voir Ecclésiaste 2:14-15.",
+    "question": "Quelle conclusion est tirée sur le sort commun du sage et de l’insensé ?",
+    "choices": [
+      "Le même sort leur arrive",
+      "Le sage ne meurt pas comme l’insensé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 2:14-15 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-018",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verseRef": "Ecclésiaste 2:15",
+    "verseText": "Voir Ecclésiaste 2:15.",
+    "question": "Quelle question piégeante l’auteur pose-t-il après avoir reconnu ce sort commun ?",
+    "choices": [
+      "Pourquoi donc ai-je été plus sage ?",
+      "Pourquoi donc ai-je été plus pauvre ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 2:15 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-019",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verseRef": "Ecclésiaste 2:18",
+    "verseText": "Voir Ecclésiaste 2:18.",
+    "question": "Quel motif fait haïr le travail selon Ecclésiaste 2:18 ?",
+    "choices": [
+      "Parce qu’il faut le laisser à l’homme qui me succédera",
+      "Parce qu’il faut le détruire avant la mort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 2:18 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-020",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verseRef": "Ecclésiaste 2:23",
+    "verseText": "Voir Ecclésiaste 2:23.",
+    "question": "Quel terme résume la condition des jours de l’homme laborieux ?",
+    "choices": [
+      "Douleurs",
+      "Victoires"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 2:23 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-021",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verseRef": "Ecclésiaste 2:23",
+    "verseText": "Voir Ecclésiaste 2:23.",
+    "question": "Quel terme résume la condition de ses nuits ?",
+    "choices": [
+      "Son cœur ne repose pas",
+      "Son cœur se réjouit toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 2:23 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-022",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verseRef": "Ecclésiaste 3:11",
+    "verseText": "Voir Ecclésiaste 3:11.",
+    "question": "Selon Ecclésiaste 3:11, que met Dieu dans le cœur de l’homme tout en limitant sa compréhension ?",
+    "choices": [
+      "La pensée de l’éternité",
+      "La pensée du néant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 3:11 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-023",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verseRef": "Ecclésiaste 3:11",
+    "verseText": "Voir Ecclésiaste 3:11.",
+    "question": "Quelle limite est précisée immédiatement après ?",
+    "choices": [
+      "Sans que l’homme puisse saisir l’œuvre que Dieu fait, du commencement jusqu’à la fin",
+      "Afin que l’homme saisisse parfaitement toute l’œuvre, du commencement jusqu’à la fin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 3:11 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-024",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verseRef": "Ecclésiaste 3:12-13",
+    "verseText": "Voir Ecclésiaste 3:12-13.",
+    "question": "Quel bien est affirmé comme la meilleure part « pour eux » dans Ecclésiaste 3:12-13 ?",
+    "choices": [
+      "Se réjouir et faire le bien pendant sa vie, manger et boire, et jouir du bien-être",
+      "S’attrister et se priver pendant sa vie, jeûner et pleurer, et refuser le repos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 3:12-13 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-025",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verseRef": "Ecclésiaste 3:16",
+    "verseText": "Voir Ecclésiaste 3:16.",
+    "question": "Quel constat est fait sur le lieu du jugement ?",
+    "choices": [
+      "Il y a encore de la méchanceté",
+      "Il y a toujours de la justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 3:16 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-026",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verseRef": "Ecclésiaste 3:16",
+    "verseText": "Voir Ecclésiaste 3:16.",
+    "question": "Quel constat est fait sur le lieu de la justice ?",
+    "choices": [
+      "Il y a encore de la méchanceté",
+      "Il n’y a jamais de méchanceté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 3:16 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-027",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verseRef": "Ecclésiaste 3:19",
+    "verseText": "Voir Ecclésiaste 3:19.",
+    "question": "Quelle affirmation est faite sur le destin des hommes et celui des bêtes ?",
+    "choices": [
+      "Un même sort les atteint",
+      "Deux sorts opposés les séparent absolument"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 3:19 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-028",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verseRef": "Ecclésiaste 3:20",
+    "verseText": "Voir Ecclésiaste 3:20.",
+    "question": "Selon Ecclésiaste 3:20, vers quoi tout va-t-il ?",
+    "choices": [
+      "Tout va dans un même lieu : tout a été tiré de la poussière, et tout retourne à la poussière",
+      "Tout va dans des lieux différents : certains montent, d’autres restent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 3:20 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-029",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verseRef": "Ecclésiaste 3:21",
+    "verseText": "Voir Ecclésiaste 3:21.",
+    "question": "Quelle question souligne l’incertitude sur l’esprit en Ecclésiaste 3:21 ?",
+    "choices": [
+      "Qui sait si l’esprit des fils de l’homme monte en haut, et si l’esprit de la bête descend en bas dans la terre ?",
+      "Qui sait si l’esprit des fils de l’homme reste toujours sur la terre ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 3:21 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-030",
+    "book": "Ecclésiaste",
+    "chapter": 4,
+    "verseRef": "Ecclésiaste 4:1",
+    "verseText": "Voir Ecclésiaste 4:1.",
+    "question": "Quel mal est dénoncé dans l’oppression : où se trouve la force ?",
+    "choices": [
+      "Du côté des oppresseurs",
+      "Du côté des opprimés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 4:1 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-031",
+    "book": "Ecclésiaste",
+    "chapter": 4,
+    "verseRef": "Ecclésiaste 4:1",
+    "verseText": "Voir Ecclésiaste 4:1.",
+    "question": "Quel détail rend la scène plus tragique encore ?",
+    "choices": [
+      "Ils n’avaient personne pour les consoler",
+      "Ils avaient beaucoup de consolateurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 4:1 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-032",
+    "book": "Ecclésiaste",
+    "chapter": 4,
+    "verseRef": "Ecclésiaste 4:8",
+    "verseText": "Voir Ecclésiaste 4:8.",
+    "question": "Quelle formule résume la solitude et l’insatiabilité de l’homme seul ?",
+    "choices": [
+      "Il n’y a point de fin à tout son travail, et ses yeux ne sont jamais rassasiés de richesses",
+      "Il cesse vite de travailler, et ses yeux sont rassasiés de richesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 4:8 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-033",
+    "book": "Ecclésiaste",
+    "chapter": 4,
+    "verseRef": "Ecclésiaste 4:8",
+    "verseText": "Voir Ecclésiaste 4:8.",
+    "question": "Quel reproche intérieur l’homme seul devrait-il se faire selon le texte ?",
+    "choices": [
+      "Pour qui donc travaillè-je, et privè-je mon âme de plaisir ?",
+      "Pour qui donc me tais-je, et privè-je mon âme de parole ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 4:8 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-034",
+    "book": "Ecclésiaste",
+    "chapter": 4,
+    "verseRef": "Ecclésiaste 4:9",
+    "verseText": "Voir Ecclésiaste 4:9.",
+    "question": "Quelle progression décrit l’avantage de « deux » ?",
+    "choices": [
+      "Ils retirent un bon salaire de leur travail",
+      "Ils perdent toujours le salaire de leur travail"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 4:9 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-035",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verseRef": "Ecclésiaste 5:2",
+    "verseText": "Voir Ecclésiaste 5:2.",
+    "question": "Quel avertissement est donné au sujet des paroles devant Dieu ?",
+    "choices": [
+      "Dieu est au ciel, et toi sur la terre : que tes paroles soient donc peu nombreuses",
+      "Dieu est sur la terre, et toi au ciel : que tes paroles soient nombreuses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 5:2 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-036",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verseRef": "Ecclésiaste 5:5",
+    "verseText": "Voir Ecclésiaste 5:5.",
+    "question": "Quel jugement est porté sur le fait de ne pas accomplir un vœu ?",
+    "choices": [
+      "Mieux vaut pour toi ne point faire de vœu, que d’en faire un et de ne pas l’accomplir",
+      "Mieux vaut faire beaucoup de vœux, même sans les accomplir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 5:5 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-037",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verseRef": "Ecclésiaste 5:6",
+    "verseText": "Voir Ecclésiaste 5:6.",
+    "question": "Quel danger est mentionné si l’on laisse sa bouche faire pécher sa chair ?",
+    "choices": [
+      "Ne dis pas devant l’envoyé que c’est une inadvertance",
+      "Dis devant l’envoyé que c’est une sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 5:6 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-038",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verseRef": "Ecclésiaste 5:6",
+    "verseText": "Voir Ecclésiaste 5:6.",
+    "question": "Quel risque est mentionné si Dieu s’irrite ?",
+    "choices": [
+      "Qu’il détruise l’œuvre de tes mains",
+      "Qu’il multiplie l’œuvre de tes mains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 5:6 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-039",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verseRef": "Ecclésiaste 5:3",
+    "verseText": "Voir Ecclésiaste 5:3.",
+    "question": "Quel contraste est donné sur l’abondance des paroles ?",
+    "choices": [
+      "Car, comme l’activité fait les songes, ainsi la multitude des paroles fait la voix de l’insensé",
+      "Car, comme le silence fait les songes, ainsi la rareté des paroles fait la voix de l’insensé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 5:3 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-040",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verseRef": "Ecclésiaste 5:8",
+    "verseText": "Voir Ecclésiaste 5:8.",
+    "question": "Quel constat est fait sur l’injustice administrative observée dans le pays ?",
+    "choices": [
+      "Si tu vois dans une province le pauvre opprimé… ne t’en étonne pas",
+      "Si tu vois dans une province le pauvre honoré… étonne-toi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 5:8 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-041",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verseRef": "Ecclésiaste 5:8",
+    "verseText": "Voir Ecclésiaste 5:8.",
+    "question": "Quel enchaînement de surveillance est suggéré ?",
+    "choices": [
+      "Un élevé est surveillé par un plus élevé, et des plus élevés sont au-dessus d’eux",
+      "Un pauvre est surveillé par un plus pauvre, et tous sont égaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 5:8 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-042",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verseRef": "Ecclésiaste 5:13",
+    "verseText": "Voir Ecclésiaste 5:13.",
+    "question": "Quelle phrase décrit une « occupation mauvaise » concernant les richesses ?",
+    "choices": [
+      "Il y a un mal grave… des richesses gardées, pour son malheur, par celui qui les possède",
+      "Il y a un bien certain… des richesses données, pour son bonheur, par celui qui les possède"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 5:13 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-043",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verseRef": "Ecclésiaste 5:14",
+    "verseText": "Voir Ecclésiaste 5:14.",
+    "question": "Quel événement fait disparaître ces richesses dans l’exemple donné ?",
+    "choices": [
+      "Elles périssent par quelque circonstance malheureuse",
+      "Elles augmentent par une circonstance heureuse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 5:14 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-044",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verseRef": "Ecclésiaste 5:14",
+    "verseText": "Voir Ecclésiaste 5:14.",
+    "question": "Que reste-t-il à l’homme dans cette perte, selon le texte ?",
+    "choices": [
+      "Il lui reste un fils qu’il a engendré, et il n’a rien dans les mains",
+      "Il lui reste un trône, et il a tout dans les mains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 5:14 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-045",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verseRef": "Ecclésiaste 5:15",
+    "verseText": "Voir Ecclésiaste 5:15.",
+    "question": "Quelle observation est faite sur l’homme qui sort « nu » ?",
+    "choices": [
+      "Il s’en retourne comme il était venu, et ne remporte rien de son travail",
+      "Il s’en retourne plus riche qu’il n’était venu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 5:15 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-046",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verseRef": "Ecclésiaste 5:17",
+    "verseText": "Voir Ecclésiaste 5:17.",
+    "question": "Quel sentiment marque ses jours selon Ecclésiaste 5:17 ?",
+    "choices": [
+      "Il mange dans les ténèbres, avec beaucoup de chagrin, de souffrance et d’irritation",
+      "Il mange dans la lumière, avec beaucoup de paix, de force et de gloire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 5:17 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-047",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:1",
+    "verseText": "Voir Ecclésiaste 7:1.",
+    "question": "Quelle formulation exacte compare renommée et parfum ?",
+    "choices": [
+      "Une bonne renommée vaut mieux que le bon parfum",
+      "Un bon parfum vaut mieux qu’une bonne renommée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:1 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-048",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:2",
+    "verseText": "Voir Ecclésiaste 7:2.",
+    "question": "Selon Ecclésiaste 7:2, quelle raison justifie la préférence pour la maison de deuil ?",
+    "choices": [
+      "C’est la fin de tout homme; et celui qui vit prend la chose à cœur",
+      "C’est le début de tout homme; et celui qui vit l’oublie vite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:2 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-049",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:3",
+    "verseText": "Voir Ecclésiaste 7:3.",
+    "question": "Quelle affirmation lie directement tristesse et amélioration du cœur ?",
+    "choices": [
+      "Par un visage triste le cœur est rendu meilleur",
+      "Par un visage triste le cœur est rendu pire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:3 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-050",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:4",
+    "verseText": "Voir Ecclésiaste 7:4.",
+    "question": "Quelle localisation du cœur oppose sages et insensés ?",
+    "choices": [
+      "Le cœur des sages est dans la maison de deuil, et le cœur des insensés dans la maison de joie",
+      "Le cœur des sages est dans la maison de joie, et le cœur des insensés dans la maison de deuil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:4 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-051",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:5",
+    "verseText": "Voir Ecclésiaste 7:5.",
+    "question": "Quelle comparaison qualifie la réprimande du sage face au chant des insensés ?",
+    "choices": [
+      "Mieux vaut entendre la réprimande du sage que d’entendre le chant des insensés",
+      "Mieux vaut entendre le chant des insensés que d’entendre la réprimande du sage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:5 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-052",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:6",
+    "verseText": "Voir Ecclésiaste 7:6.",
+    "question": "Quelle image sonore décrit le rire des insensés ?",
+    "choices": [
+      "Comme le crépitement des épines sous la chaudière",
+      "Comme le murmure des eaux profondes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:6 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-053",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:7",
+    "verseText": "Voir Ecclésiaste 7:7.",
+    "question": "Quel danger est associé à l’oppression ?",
+    "choices": [
+      "L’oppression rend insensé le sage",
+      "L’oppression rend sage l’insensé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:7 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-054",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:7",
+    "verseText": "Voir Ecclésiaste 7:7.",
+    "question": "Quel effet est attribué aux présents (cadeaux) ?",
+    "choices": [
+      "Ils corrompent le cœur",
+      "Ils purifient le cœur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:7 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-055",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:8",
+    "verseText": "Voir Ecclésiaste 7:8.",
+    "question": "Quelle maxime compare fin et commencement ?",
+    "choices": [
+      "Mieux vaut la fin d’une chose que son commencement",
+      "Mieux vaut le commencement d’une chose que sa fin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:8 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-056",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:8",
+    "verseText": "Voir Ecclésiaste 7:8.",
+    "question": "Quelle maxime compare patience et hauteur ?",
+    "choices": [
+      "Mieux vaut un esprit patient qu’un esprit hautain",
+      "Mieux vaut un esprit hautain qu’un esprit patient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:8 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-057",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:9",
+    "verseText": "Voir Ecclésiaste 7:9.",
+    "question": "Où « repose » la colère selon la formulation exacte ?",
+    "choices": [
+      "Dans le sein des insensés",
+      "Dans la bouche des sages"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:9 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-058",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:10",
+    "verseText": "Voir Ecclésiaste 7:10.",
+    "question": "Quelle question met en garde contre l’idéalisation du passé ?",
+    "choices": [
+      "Comment se fait-il que les jours passés étaient meilleurs que ceux-ci ?",
+      "Comment se fait-il que les jours futurs étaient meilleurs que ceux-ci ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:10 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-059",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:12",
+    "verseText": "Voir Ecclésiaste 7:12.",
+    "question": "Que dit Ecclésiaste 7:12 au sujet de l’avantage de la sagesse ?",
+    "choices": [
+      "La sagesse fait vivre ceux qui la possèdent",
+      "La sagesse fait mourir ceux qui la possèdent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:12 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-060",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verseRef": "Ecclésiaste 7:11",
+    "verseText": "Voir Ecclésiaste 7:11.",
+    "question": "Quel équilibre est donné entre sagesse et héritage en Ecclésiaste 7:11 ?",
+    "choices": [
+      "La sagesse vaut autant qu’un héritage, et même plus pour ceux qui voient le soleil",
+      "La sagesse vaut moins qu’un héritage, et ne sert à rien à ceux qui voient le soleil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 7:11 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-061",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:1",
+    "verseText": "Voir Ecclésiaste 10:1.",
+    "question": "Quel avertissement lie explicitement une petite folie à la réputation ?",
+    "choices": [
+      "Un peu de folie l’emporte sur la sagesse et sur la gloire",
+      "Un peu de sagesse l’emporte sur la folie et sur l’oubli"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:1 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-062",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:2",
+    "verseText": "Voir Ecclésiaste 10:2.",
+    "question": "Selon la formulation exacte, où penche le cœur du sage ?",
+    "choices": [
+      "À droite",
+      "À gauche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:2 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-063",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:2",
+    "verseText": "Voir Ecclésiaste 10:2.",
+    "question": "Selon la formulation exacte, où penche le cœur de l’insensé ?",
+    "choices": [
+      "À gauche",
+      "À droite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:2 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-064",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:3",
+    "verseText": "Voir Ecclésiaste 10:3.",
+    "question": "Quel détail rend l’insensé publiquement reconnaissable quand il marche ?",
+    "choices": [
+      "Il manque de sens, et il dit à tous qu’il est un insensé",
+      "Il manque de force, et il dit à tous qu’il est un faible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:3 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-065",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:4",
+    "verseText": "Voir Ecclésiaste 10:4.",
+    "question": "Quelle stratégie est donnée face à la colère du prince ?",
+    "choices": [
+      "Ne quitte pas ton poste, car le calme prévient de grands péchés",
+      "Quitte ton poste, car la fuite prévient de grands péchés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:4 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-066",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:6",
+    "verseText": "Voir Ecclésiaste 10:6.",
+    "question": "Quel renversement social est cité comme un « mal » ?",
+    "choices": [
+      "La folie placée en grandes dignités, et les riches assis dans un lieu bas",
+      "La sagesse placée en grandes dignités, et les riches assis dans un lieu haut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:6 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-067",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:7",
+    "verseText": "Voir Ecclésiaste 10:7.",
+    "question": "Quelle image décrit l’inversion des rôles entre serviteurs et princes ?",
+    "choices": [
+      "J’ai vu des serviteurs sur des chevaux, et des princes allant à pied comme des serviteurs",
+      "J’ai vu des princes sur des chevaux, et des serviteurs allant à pied comme des serviteurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:7 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-068",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:8",
+    "verseText": "Voir Ecclésiaste 10:8.",
+    "question": "Quelle double mise en garde est donnée au sujet de la fosse et de la clôture ?",
+    "choices": [
+      "Celui qui creuse une fosse y tombera, et celui qui renverse une clôture un serpent le mordra",
+      "Celui qui creuse une fosse y trouvera un trésor, et celui qui renverse une clôture un ami le saluera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:8 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-069",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:10",
+    "verseText": "Voir Ecclésiaste 10:10.",
+    "question": "Quel principe illustre le fer émoussé ?",
+    "choices": [
+      "Si le fer est émoussé, et qu’on n’en ait pas aiguisé le tranchant, il faut déployer plus de force",
+      "Si le fer est émoussé, il faut déployer moins de force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:10 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-070",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:10",
+    "verseText": "Voir Ecclésiaste 10:10.",
+    "question": "Quel avantage est explicitement attribué à la sagesse dans la même phrase ?",
+    "choices": [
+      "Elle a l’avantage de diriger",
+      "Elle a l’avantage de distraire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:10 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-071",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:11",
+    "verseText": "Voir Ecclésiaste 10:11.",
+    "question": "Quel cas rend l’enchanteur inutile selon la formulation exacte ?",
+    "choices": [
+      "Si le serpent mord faute d’enchantement, il n’y a point d’avantage à l’enchanteur",
+      "Si le serpent mord faute d’enchantement, l’enchanteur reçoit un grand salaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:11 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-072",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:12",
+    "verseText": "Voir Ecclésiaste 10:12.",
+    "question": "Quel contraste résume les paroles du sage et l’issue de l’insensé ?",
+    "choices": [
+      "Les paroles de la bouche du sage sont pleines de grâce, et les lèvres de l’insensé causent sa perte",
+      "Les paroles de la bouche du sage causent sa perte, et les lèvres de l’insensé sont pleines de grâce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:12 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-073",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:13",
+    "verseText": "Voir Ecclésiaste 10:13.",
+    "question": "Comment le texte qualifie-t-il le début et la fin des paroles de l’insensé ?",
+    "choices": [
+      "Le commencement… est de la folie, et la fin… est une méchante folie",
+      "Le commencement… est de la prudence, et la fin… est de la sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:13 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-074",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:14",
+    "verseText": "Voir Ecclésiaste 10:14.",
+    "question": "Quel argument sur l’avenir rend la multiplication des paroles vaine ?",
+    "choices": [
+      "L’homme ne sait pas ce qui arrivera, et qui lui dira comment cela arrivera après lui ?",
+      "L’homme sait ce qui arrivera, et personne n’ignore comment cela arrivera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:14 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-075",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:15",
+    "verseText": "Voir Ecclésiaste 10:15.",
+    "question": "Quelle précision explique la fatigue de l’insensé ?",
+    "choices": [
+      "Il ne connaît pas le chemin de la ville",
+      "Il ne connaît pas le chemin de la campagne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:15 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-076",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:16-17",
+    "verseText": "Voir Ecclésiaste 10:16-17.",
+    "question": "Quel signe d’un mauvais gouvernement est lié au moment où les princes mangent ?",
+    "choices": [
+      "Les princes mangent dès le matin",
+      "Les princes mangent en temps convenable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:16-17 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-077",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:17",
+    "verseText": "Voir Ecclésiaste 10:17.",
+    "question": "Quel but est donné au repas des princes dans un pays heureux ?",
+    "choices": [
+      "Pour soutenir leurs forces et non pour se livrer à la boisson",
+      "Pour se livrer à la boisson et non pour soutenir leurs forces"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:17 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-078",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:18",
+    "verseText": "Voir Ecclésiaste 10:18.",
+    "question": "Quel enchaînement relie paresse, relâchement et dégradation d’une maison ?",
+    "choices": [
+      "Par la paresse la charpente s’affaisse, et par le relâchement des mains la maison a des gouttières",
+      "Par la paresse la charpente se fortifie, et par le relâchement des mains la maison devient un palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:18 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-079",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:19",
+    "verseText": "Voir Ecclésiaste 10:19.",
+    "question": "Quelle triade est donnée sur le pain, le vin et l’argent ?",
+    "choices": [
+      "On fait des repas pour se divertir, le vin rend la vie joyeuse, et l’argent répond à tout",
+      "On fait des repas pour jeûner, le vin rend la vie amère, et l’argent ne sert à rien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:19 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-080",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verseRef": "Ecclésiaste 10:20",
+    "verseText": "Voir Ecclésiaste 10:20.",
+    "question": "Quel avertissement unit le roi, le riche et la diffusion d’une parole ?",
+    "choices": [
+      "Ne maudis pas le roi même dans ta pensée… car l’oiseau du ciel en porterait la voix",
+      "Ne loue pas le roi même en public… car personne n’entendra jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 10:20 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-081",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:1",
+    "verseText": "Voir Ecclésiaste 11:1.",
+    "question": "Quel paradoxe est au cœur de l’image « sur les eaux » ?",
+    "choices": [
+      "Jette ton pain sur les eaux, car avec le temps tu le retrouveras",
+      "Garde ton pain sur la terre, car aussitôt tu le perdras"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:1 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-082",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:2",
+    "verseText": "Voir Ecclésiaste 11:2.",
+    "question": "Quelle stratégie est recommandée face à l’incertitude des malheurs ?",
+    "choices": [
+      "Donne une part à sept et même à huit",
+      "Donne une part à un seul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:2 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-083",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:3",
+    "verseText": "Voir Ecclésiaste 11:3.",
+    "question": "Quelle observation sur les nuages soutient l’idée d’inévitabilité ?",
+    "choices": [
+      "S’ils sont pleins de pluie, ils la répandent sur la terre",
+      "S’ils sont pleins de pluie, ils la retiennent toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:3 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-084",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:3",
+    "verseText": "Voir Ecclésiaste 11:3.",
+    "question": "Quelle observation sur l’arbre soutient l’idée d’irréversibilité ?",
+    "choices": [
+      "S’il tombe…, il reste dans le lieu où il est tombé",
+      "S’il tombe…, il revient toujours à sa place"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:3 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-085",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:4",
+    "verseText": "Voir Ecclésiaste 11:4.",
+    "question": "Quelle erreur pratique est dénoncée chez l’homme trop prudent ?",
+    "choices": [
+      "Celui qui observe le vent ne sèmera point; celui qui regarde les nuages ne moissonnera point",
+      "Celui qui observe le vent sèmera davantage; celui qui regarde les nuages moissonnera davantage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:4 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-086",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:5",
+    "verseText": "Voir Ecclésiaste 11:5.",
+    "question": "Quelle double ignorance est mise en parallèle avec l’œuvre de Dieu ?",
+    "choices": [
+      "La voie du vent et la formation des os dans le ventre de la femme enceinte",
+      "La voie des étoiles et la formation de l’or dans la roche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:5 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-087",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:6",
+    "verseText": "Voir Ecclésiaste 11:6.",
+    "question": "Quel commandement est donné pour l’activité du matin ?",
+    "choices": [
+      "Dès le matin sème ta semence",
+      "Dès le matin cesse tout travail"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:6 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-088",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:6",
+    "verseText": "Voir Ecclésiaste 11:6.",
+    "question": "Quel commandement est donné pour le soir ?",
+    "choices": [
+      "Le soir ne laisse pas reposer ta main",
+      "Le soir laisse toujours reposer ta main"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:6 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-089",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:6",
+    "verseText": "Voir Ecclésiaste 11:6.",
+    "question": "Quelle incertitude motive ces deux commandements ?",
+    "choices": [
+      "Tu ne sais point ce qui réussira, ceci ou cela, ou si l’un et l’autre sont également bons",
+      "Tu sais exactement ce qui réussira, ceci seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:6 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-090",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:7",
+    "verseText": "Voir Ecclésiaste 11:7.",
+    "question": "Quelle affirmation sur la lumière précède l’appel à la joie ?",
+    "choices": [
+      "La lumière est douce, et il est agréable aux yeux de voir le soleil",
+      "La lumière est amère, et il est pénible aux yeux de voir le soleil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:7 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-091",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:8",
+    "verseText": "Voir Ecclésiaste 11:8.",
+    "question": "Quelle condition accompagne l’encouragement à se réjouir de nombreuses années ?",
+    "choices": [
+      "Qu’il se souvienne des jours de ténèbres, car ils seront nombreux",
+      "Qu’il oublie les jours de ténèbres, car ils seront peu nombreux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:8 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-092",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:8",
+    "verseText": "Voir Ecclésiaste 11:8.",
+    "question": "Comment le texte qualifie-t-il tout ce qui arrive ?",
+    "choices": [
+      "Tout ce qui arrive est vanité",
+      "Tout ce qui arrive est justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:8 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-093",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:9",
+    "verseText": "Voir Ecclésiaste 11:9.",
+    "question": "Quelle injonction est donnée au jeune homme au sujet de son cœur ?",
+    "choices": [
+      "Réjouis-toi dans ta jeunesse… et que ton cœur se rende heureux",
+      "Afflige-toi dans ta jeunesse… et que ton cœur se rende triste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:9 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-094",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:9",
+    "verseText": "Voir Ecclésiaste 11:9.",
+    "question": "Quelle liberté encadrée est accordée au jeune homme ?",
+    "choices": [
+      "Marche dans les voies de ton cœur et selon les regards de tes yeux",
+      "Marche dans les voies des autres et selon les jugements des rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:9 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-095",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:9",
+    "verseText": "Voir Ecclésiaste 11:9.",
+    "question": "Quelle limite solennelle encadre cette liberté ?",
+    "choices": [
+      "Sache que pour tout cela Dieu t’appellera en jugement",
+      "Sache que pour tout cela personne ne te jugera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:9 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-096",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:10",
+    "verseText": "Voir Ecclésiaste 11:10.",
+    "question": "Quelle recommandation est faite au sujet du chagrin ?",
+    "choices": [
+      "Bannis le chagrin de ton cœur",
+      "Entretiens le chagrin dans ton cœur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:10 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-097",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:10",
+    "verseText": "Voir Ecclésiaste 11:10.",
+    "question": "Quelle recommandation est faite au sujet de la souffrance du corps ?",
+    "choices": [
+      "Éloigne le mal de ton corps",
+      "Approche le mal de ton corps"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:10 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-098",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verseRef": "Ecclésiaste 11:10",
+    "verseText": "Voir Ecclésiaste 11:10.",
+    "question": "Quel constat final est donné sur l’enfance et l’aurore ?",
+    "choices": [
+      "Car l’enfance et l’aurore sont vanité",
+      "Car l’enfance et l’aurore sont sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 11:10 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-099",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:1",
+    "verseText": "Voir Ecclésiaste 12:1.",
+    "question": "Quel impératif ouvre l’exhortation du chapitre 12 ?",
+    "choices": [
+      "Mais souviens-toi de ton créateur pendant les jours de ta jeunesse",
+      "Mais oublie ton créateur pendant les jours de ta jeunesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:1 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-100",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:1",
+    "verseText": "Voir Ecclésiaste 12:1.",
+    "question": "Quelle description résume l’approche des mauvais jours ?",
+    "choices": [
+      "Avant que viennent les mauvais jours et que s’approchent les années dont tu diras : Je n’y prends point de plaisir",
+      "Avant que viennent les bons jours et que s’approchent les années dont tu diras : J’y prends grand plaisir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:1 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-101",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:2",
+    "verseText": "Voir Ecclésiaste 12:2.",
+    "question": "Quelle suite d’astres est nommée dans l’avertissement du chapitre 12 ?",
+    "choices": [
+      "Le soleil, la lumière, la lune et les étoiles",
+      "Le soleil, la mer, la pluie et le vent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:2 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-102",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:2",
+    "verseText": "Voir Ecclésiaste 12:2.",
+    "question": "Quelle répétition climatique suit l’obscurcissement, selon la formule exacte ?",
+    "choices": [
+      "Les nuages reviennent après la pluie",
+      "Les nuages disparaissent avant la pluie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:2 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-103",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:3",
+    "verseText": "Voir Ecclésiaste 12:3.",
+    "question": "Dans l’image des « moulantes », pourquoi sont-elles peu nombreuses ?",
+    "choices": [
+      "Parce qu’elles sont diminuées",
+      "Parce qu’elles sont multipliées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:3 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-104",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:3",
+    "verseText": "Voir Ecclésiaste 12:3.",
+    "question": "Qu’arrive-t-il à « celles qui regardent par les fenêtres » ?",
+    "choices": [
+      "Elles sont obscurcies",
+      "Elles sont éclairées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:3 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-105",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:4",
+    "verseText": "Voir Ecclésiaste 12:4.",
+    "question": "Quelle action est attribuée aux portes sur la rue ?",
+    "choices": [
+      "Elles se ferment",
+      "Elles s’ouvrent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:4 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-106",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:4",
+    "verseText": "Voir Ecclésiaste 12:4.",
+    "question": "À quel état est réduit « le bruit de la meule » ?",
+    "choices": [
+      "Il s’affaiblit",
+      "Il s’amplifie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:4 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-107",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:4",
+    "verseText": "Voir Ecclésiaste 12:4.",
+    "question": "Quel détail surprenant est donné sur le chant de l’oiseau ?",
+    "choices": [
+      "On se lève au chant de l’oiseau",
+      "On s’endort au chant de l’oiseau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:4 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-108",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:4",
+    "verseText": "Voir Ecclésiaste 12:4.",
+    "question": "Que devient « toutes les filles du chant » dans la formulation exacte ?",
+    "choices": [
+      "Elles s’affaissent",
+      "Elles s’élèvent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:4 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-109",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:5",
+    "verseText": "Voir Ecclésiaste 12:5.",
+    "question": "Quelle double réalité est associée à la route ?",
+    "choices": [
+      "On a peur de ce qui est élevé, et les terreurs sont sur le chemin",
+      "On a peur de ce qui est bas, et les plaisirs sont sur le chemin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:5 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-110",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:5",
+    "verseText": "Voir Ecclésiaste 12:5.",
+    "question": "Quel arbre « fleurit » dans l’image ?",
+    "choices": [
+      "L’amandier",
+      "Le figuier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:5 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-111",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:5",
+    "verseText": "Voir Ecclésiaste 12:5.",
+    "question": "Quelle créature est « un fardeau » dans l’image ?",
+    "choices": [
+      "La sauterelle",
+      "La colombe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:5 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-112",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:5",
+    "verseText": "Voir Ecclésiaste 12:5.",
+    "question": "Quel désir « s’éteint » selon la formulation exacte ?",
+    "choices": [
+      "Le désir n’a plus d’effet",
+      "Le désir augmente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:5 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-113",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:5",
+    "verseText": "Voir Ecclésiaste 12:5.",
+    "question": "Où l’homme va-t-il dans cette même phrase ?",
+    "choices": [
+      "Vers sa demeure éternelle",
+      "Vers sa demeure provisoire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:5 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-114",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:5",
+    "verseText": "Voir Ecclésiaste 12:5.",
+    "question": "Qui se met en mouvement « autour de la rue » ?",
+    "choices": [
+      "Les pleureurs",
+      "Les moissonneurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:5 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-115",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:6",
+    "verseText": "Voir Ecclésiaste 12:6.",
+    "question": "Quel élément est cité en premier parmi les ruptures de l’image ?",
+    "choices": [
+      "Le cordon d’argent",
+      "Le cordon de lin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:6 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-116",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:6",
+    "verseText": "Voir Ecclésiaste 12:6.",
+    "question": "Quel objet précieux est cité immédiatement après ?",
+    "choices": [
+      "Le vase d’or",
+      "Le vase d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:6 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-117",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:6",
+    "verseText": "Voir Ecclésiaste 12:6.",
+    "question": "Quelle rupture est située « près de la fontaine » ?",
+    "choices": [
+      "La cruche se casse",
+      "La lampe s’éteint"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:6 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-118",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:6",
+    "verseText": "Voir Ecclésiaste 12:6.",
+    "question": "Quelle rupture est située « sur le puits » ?",
+    "choices": [
+      "La roue est brisée",
+      "La pierre est levée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:6 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-119",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:7",
+    "verseText": "Voir Ecclésiaste 12:7.",
+    "question": "Quelle double conclusion est donnée sur la poussière et l’esprit ?",
+    "choices": [
+      "La poussière retourne à la terre… et l’esprit retourne à Dieu qui l’a donné",
+      "La poussière disparaît… et l’esprit retourne à la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:7 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-120",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verseRef": "Ecclésiaste 12:13",
+    "verseText": "Voir Ecclésiaste 12:13.",
+    "question": "Quelle formule clôt le livre en rappelant le devoir de l’homme ?",
+    "choices": [
+      "Crains Dieu et observe ses commandements",
+      "Crains l’homme et observe ses traditions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 12:13 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-121",
+    "book": "Ecclésiaste",
+    "chapter": 6,
+    "verseRef": "Ecclésiaste 6:1",
+    "verseText": "Voir Ecclésiaste 6:1.",
+    "question": "Dans le livre d'Ecclésiaste, quelle référence correspond au premier verset du chapitre 6 ?",
+    "choices": [
+      "Ecclésiaste 6:1",
+      "Ecclésiaste 7:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 6:1 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-122",
+    "book": "Ecclésiaste",
+    "chapter": 8,
+    "verseRef": "Ecclésiaste 8:1",
+    "verseText": "Voir Ecclésiaste 8:1.",
+    "question": "Dans le livre d'Ecclésiaste, quelle référence correspond au premier verset du chapitre 8 ?",
+    "choices": [
+      "Ecclésiaste 8:1",
+      "Ecclésiaste 9:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 8:1 (LSG 1910)."
+  },
+  {
+    "id": "ecclesiaste-D-123",
+    "book": "Ecclésiaste",
+    "chapter": 9,
+    "verseRef": "Ecclésiaste 9:1",
+    "verseText": "Voir Ecclésiaste 9:1.",
+    "question": "Dans le livre d'Ecclésiaste, quelle référence correspond au premier verset du chapitre 9 ?",
+    "choices": [
+      "Ecclésiaste 9:1",
+      "Ecclésiaste 10:1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Ecclésiaste 9:1 (LSG 1910)."
+  }
+]

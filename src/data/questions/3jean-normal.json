@@ -1,0 +1,902 @@
+[
+  {
+    "id": "3jean-N-001",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:1",
+    "verseText": "Voir 3 Jean 1:1.",
+    "question": "Qui est nommé comme destinataire direct de la lettre ?",
+    "choices": [
+      "Gaïus",
+      "Diotrèphe",
+      "Démétrius"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:1 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-002",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:1",
+    "verseText": "Voir 3 Jean 1:1.",
+    "question": "Comment l’expéditeur se désigne-t-il au début ?",
+    "choices": [
+      "L’ancien",
+      "Le prophète",
+      "L’apôtre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:1 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-003",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:1",
+    "verseText": "Voir 3 Jean 1:1.",
+    "question": "Quelle expression qualifie Gaïus dans l’adresse ?",
+    "choices": [
+      "Le bien-aimé",
+      "Le serviteur",
+      "Le compagnon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:1 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-004",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:1",
+    "verseText": "Voir 3 Jean 1:1.",
+    "question": "Dans quel cadre l’ancien déclare-t-il aimer Gaïus ?",
+    "choices": [
+      "Dans la vérité",
+      "Dans la loi",
+      "Dans la sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:1 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-005",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:2",
+    "verseText": "Voir 3 Jean 1:2.",
+    "question": "Que souhaite l’ancien à Gaïus « à tous égards » ?",
+    "choices": [
+      "Qu’il prospère",
+      "Qu’il enseigne",
+      "Qu’il juge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:2 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-006",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:2",
+    "verseText": "Voir 3 Jean 1:2.",
+    "question": "Quelle condition physique est explicitement souhaitée à Gaïus ?",
+    "choices": [
+      "Être en bonne santé",
+      "Avoir une longue vie",
+      "Être fortifié par le jeûne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:2 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-007",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:2",
+    "verseText": "Voir 3 Jean 1:2.",
+    "question": "À quoi l’ancien compare-t-il la prospérité souhaitée « à tous égards » ?",
+    "choices": [
+      "À l’état de l’âme de Gaïus qui prospère",
+      "À la richesse de l’Église qui augmente",
+      "À la paix des nations qui s’étend"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:2 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-008",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:3",
+    "verseText": "Voir 3 Jean 1:3.",
+    "question": "Qu’est-ce qui a « fort réjoui » l’ancien ?",
+    "choices": [
+      "L’arrivée de frères",
+      "La venue des païens",
+      "La lettre de Diotrèphe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-009",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:3",
+    "verseText": "Voir 3 Jean 1:3.",
+    "question": "De quoi ces frères ont-ils rendu témoignage, selon l’ancien ?",
+    "choices": [
+      "De la vérité qui est en Gaïus",
+      "Des miracles opérés par Gaïus",
+      "De la puissance de Diotrèphe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-010",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:3",
+    "verseText": "Voir 3 Jean 1:3.",
+    "question": "Sur quel comportement de Gaïus ces frères témoignent-ils précisément ?",
+    "choices": [
+      "La manière dont il marche dans la vérité",
+      "La manière dont il jeûne en secret",
+      "La manière dont il juge les étrangers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-011",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:4",
+    "verseText": "Voir 3 Jean 1:4.",
+    "question": "Que dit l’ancien ne pas avoir de plus grande joie que d’apprendre ?",
+    "choices": [
+      "Que ses enfants marchent dans la vérité",
+      "Que ses amis prospèrent en biens",
+      "Que l’Église grandit en nombre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:4 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-012",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:5",
+    "verseText": "Voir 3 Jean 1:5.",
+    "question": "Comment l’ancien s’adresse-t-il à Gaïus au moment de louer sa conduite ?",
+    "choices": [
+      "Bien-aimé",
+      "Frère",
+      "Très excellent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:5 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-013",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:5",
+    "verseText": "Voir 3 Jean 1:5.",
+    "question": "Quel jugement l’ancien porte-t-il sur la manière d’agir de Gaïus envers les frères ?",
+    "choices": [
+      "Il agit fidèlement",
+      "Il agit prudemment",
+      "Il agit sévèrement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:5 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-014",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:5",
+    "verseText": "Voir 3 Jean 1:5.",
+    "question": "Envers quels frères Gaïus agit-il fidèlement « même » ?",
+    "choices": [
+      "Des frères étrangers",
+      "Des frères puissants",
+      "Des frères riches"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:5 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-015",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:6",
+    "verseText": "Voir 3 Jean 1:6.",
+    "question": "De quoi les frères ont-ils rendu témoignage à propos de Gaïus « en présence de l’Église » ?",
+    "choices": [
+      "De sa charité",
+      "De sa science",
+      "De son autorité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-016",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:6",
+    "verseText": "Voir 3 Jean 1:6.",
+    "question": "Que dit l’ancien que Gaïus fera bien de faire pour ces frères ?",
+    "choices": [
+      "Pourvoir à leur voyage",
+      "Les établir comme anciens",
+      "Les envoyer vers les païens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-017",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:6",
+    "verseText": "Voir 3 Jean 1:6.",
+    "question": "Comment Gaïus doit-il pourvoir à leur voyage, selon l’expression exacte ?",
+    "choices": [
+      "D’une manière digne de Dieu",
+      "D’une manière digne des hommes",
+      "D’une manière digne de la loi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-018",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:7",
+    "verseText": "Voir 3 Jean 1:7.",
+    "question": "Pour quelle raison ces hommes sont-ils partis ?",
+    "choices": [
+      "Pour le nom de Jésus-Christ",
+      "Pour être vus des hommes",
+      "Pour chercher des richesses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:7 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-019",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:7",
+    "verseText": "Voir 3 Jean 1:7.",
+    "question": "De qui n’ont-ils rien reçu en partant ?",
+    "choices": [
+      "Des païens",
+      "Des frères",
+      "De l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:7 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-020",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:8",
+    "verseText": "Voir 3 Jean 1:8.",
+    "question": "Quelle obligation l’ancien tire-t-il de cette situation ?",
+    "choices": [
+      "Accueillir de tels hommes",
+      "Les éprouver publiquement",
+      "Les renvoyer vers l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:8 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-021",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:8",
+    "verseText": "Voir 3 Jean 1:8.",
+    "question": "Quel but est donné à l’accueil de tels hommes ?",
+    "choices": [
+      "Être ouvriers avec eux pour la vérité",
+      "Être juges sur eux pour la loi",
+      "Être maîtres sur eux pour l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:8 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-022",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:9",
+    "verseText": "Voir 3 Jean 1:9.",
+    "question": "À qui l’ancien dit-il avoir écrit quelques mots ?",
+    "choices": [
+      "À l’Église",
+      "Aux païens",
+      "À Démétrius"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-023",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:9",
+    "verseText": "Voir 3 Jean 1:9.",
+    "question": "Quel homme est nommé comme obstacle à la réception de l’ancien ?",
+    "choices": [
+      "Diotrèphe",
+      "Gaïus",
+      "Démétrius"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-024",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:9",
+    "verseText": "Voir 3 Jean 1:9.",
+    "question": "Quelle attitude est attribuée à Diotrèphe ?",
+    "choices": [
+      "Il aime à être le premier parmi eux",
+      "Il aime à servir les étrangers parmi eux",
+      "Il aime à souffrir pour la vérité parmi eux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-025",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:9",
+    "verseText": "Voir 3 Jean 1:9.",
+    "question": "Que fait Diotrèphe à l’égard de l’ancien et des siens ?",
+    "choices": [
+      "Il ne nous reçoit point",
+      "Il nous recommande aux frères",
+      "Il nous envoie des lettres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-026",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Que promet l’ancien de faire s’il va les voir ?",
+    "choices": [
+      "Rappeler les actes que Diotrèphe commet",
+      "Écrire de nouveau à l’Église",
+      "Envoyer des païens à Gaïus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-027",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Comment Diotrèphe parle-t-il contre l’ancien et les siens ?",
+    "choices": [
+      "En tenant de méchants propos",
+      "En gardant un silence pieux",
+      "En posant des questions prudentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-028",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Diotrèphe est décrit comme « non content de cela » : que fait-il encore ?",
+    "choices": [
+      "Il ne reçoit pas les frères",
+      "Il accueille les frères étrangers",
+      "Il pourvoit à leur voyage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-029",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Que fait Diotrèphe à ceux qui voudraient recevoir les frères ?",
+    "choices": [
+      "Il les en empêche",
+      "Il les encourage",
+      "Il les éprouve en secret"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-030",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Quelle action radicale Diotrèphe exerce-t-il contre certains ?",
+    "choices": [
+      "Il les chasse de l’Église",
+      "Il les envoie en voyage",
+      "Il les établit comme diacres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-031",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:11",
+    "verseText": "Voir 3 Jean 1:11.",
+    "question": "Quel conseil direct l’ancien donne-t-il à Gaïus concernant l’imitation ?",
+    "choices": [
+      "N’imite pas le mal",
+      "N’imite pas les païens",
+      "N’imite pas les anciens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:11 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-032",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:11",
+    "verseText": "Voir 3 Jean 1:11.",
+    "question": "Par quoi l’ancien demande-t-il de remplacer l’imitation du mal ?",
+    "choices": [
+      "Par l’imitation du bien",
+      "Par l’imitation de la force",
+      "Par l’imitation de la richesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:11 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-033",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:11",
+    "verseText": "Voir 3 Jean 1:11.",
+    "question": "Quelle affirmation est donnée au sujet de « celui qui fait le bien » ?",
+    "choices": [
+      "Il est de Dieu",
+      "Il est de l’Église",
+      "Il est sans péché"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:11 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-034",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:11",
+    "verseText": "Voir 3 Jean 1:11.",
+    "question": "Que dit le texte de « celui qui fait le mal » ?",
+    "choices": [
+      "Il n’a point vu Dieu",
+      "Il n’a point connu la loi",
+      "Il n’a point reçu l’encre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:11 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-035",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:12",
+    "verseText": "Voir 3 Jean 1:12.",
+    "question": "Qui reçoit « un bon témoignage » de la part de tous ?",
+    "choices": [
+      "Démétrius",
+      "Diotrèphe",
+      "Gaïus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-036",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:12",
+    "verseText": "Voir 3 Jean 1:12.",
+    "question": "Quelle entité est aussi mentionnée comme rendant un bon témoignage à Démétrius ?",
+    "choices": [
+      "La vérité elle-même",
+      "La lettre elle-même",
+      "L’Église elle-même"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-037",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:12",
+    "verseText": "Voir 3 Jean 1:12.",
+    "question": "En plus de « tous » et de « la vérité elle-même », qui rend témoignage à Démétrius ?",
+    "choices": [
+      "Nous aussi",
+      "Les païens aussi",
+      "Les étrangers aussi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-038",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:12",
+    "verseText": "Voir 3 Jean 1:12.",
+    "question": "Quelle certitude Gaïus est-il dit posséder au sujet de ce témoignage ?",
+    "choices": [
+      "Il sait qu’il est vrai",
+      "Il espère qu’il est utile",
+      "Il pense qu’il est ancien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-039",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:13",
+    "verseText": "Voir 3 Jean 1:13.",
+    "question": "Que déclare l’ancien avoir « beaucoup » à faire au lieu d’écrire ?",
+    "choices": [
+      "À t’écrire",
+      "À te corriger",
+      "À te juger"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:13 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-040",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:13",
+    "verseText": "Voir 3 Jean 1:13.",
+    "question": "Avec quoi l’ancien ne veut-il pas écrire ce qu’il a à dire ?",
+    "choices": [
+      "Avec l’encre et la plume",
+      "Avec des tablettes de pierre",
+      "Avec des parchemins scellés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:13 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-041",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Quelle espérance l’ancien exprime-t-il pour la suite ?",
+    "choices": [
+      "Te voir bientôt",
+      "Recevoir de l’or",
+      "Rencontrer les païens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-042",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Comment prévoit-il de parler avec Gaïus ?",
+    "choices": [
+      "De bouche à bouche",
+      "Par lettres nombreuses",
+      "Par messagers étrangers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-043",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Quelle bénédiction brève est adressée à Gaïus ?",
+    "choices": [
+      "Paix à toi",
+      "Force à toi",
+      "Richesse à toi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-044",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Qui salue Gaïus selon la formule utilisée ?",
+    "choices": [
+      "Les amis",
+      "Les anciens",
+      "Les païens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-045",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Quel ordre final est donné concernant les amis ?",
+    "choices": [
+      "Salue les amis, chacun en particulier",
+      "Éprouve les amis, chacun en secret",
+      "Corrige les amis, chacun publiquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-046",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:6",
+    "verseText": "Voir 3 Jean 1:6.",
+    "question": "À quel groupe Gaïus est-il explicitement invité à pourvoir au voyage ?",
+    "choices": [
+      "Ceux qui ont rendu témoignage en présence de l’Église",
+      "Ceux qui aiment être les premiers parmi eux",
+      "Ceux qui chassent des hommes de l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-047",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:8",
+    "verseText": "Voir 3 Jean 1:8.",
+    "question": "Quelle relation logique introduit l’obligation d’accueillir de tels hommes ?",
+    "choices": [
+      "« Nous devons donc »",
+      "« Nous pouvons rarement »",
+      "« Nous n’osons jamais »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:8 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-048",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:3",
+    "verseText": "Voir 3 Jean 1:3.",
+    "question": "Dans quelle sphère les frères ont-ils attesté que Gaïus marche ?",
+    "choices": [
+      "Dans la vérité",
+      "Dans la puissance",
+      "Dans la crainte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-049",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Quel mot résume l’action de Diotrèphe envers les frères, selon l’ancien ?",
+    "choices": [
+      "Il ne reçoit pas",
+      "Il nourrit",
+      "Il enseigne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-050",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Quelle conséquence ecclésiale est mentionnée pour ceux que Diotrèphe repousse ?",
+    "choices": [
+      "Ils sont chassés de l’Église",
+      "Ils sont envoyés vers les païens",
+      "Ils sont établis comme témoins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-051",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Quelle formule introduit l’intention de l’ancien de dénoncer les actes de Diotrèphe ?",
+    "choices": [
+      "« C’est pourquoi »",
+      "« Afin que »",
+      "« Pourtant »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-052",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:3",
+    "verseText": "Voir 3 Jean 1:3.",
+    "question": "Selon l’ancien, que font les frères quand ils viennent vers lui ?",
+    "choices": [
+      "Ils rendent témoignage",
+      "Ils imposent les mains",
+      "Ils demandent un salaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-053",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:2",
+    "verseText": "Voir 3 Jean 1:2.",
+    "question": "Quel élément personnel de Gaïus est présenté comme prospérant ?",
+    "choices": [
+      "L’état de ton âme",
+      "L’état de ta maison",
+      "L’état de ton troupeau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:2 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-054",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:11",
+    "verseText": "Voir 3 Jean 1:11.",
+    "question": "Quel contraste l’ancien établit-il entre « faire le bien » et « faire le mal » ?",
+    "choices": [
+      "L’un est de Dieu, l’autre n’a point vu Dieu",
+      "L’un est riche, l’autre est pauvre",
+      "L’un est savant, l’autre est ignorant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:11 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-055",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:6",
+    "verseText": "Voir 3 Jean 1:6.",
+    "question": "Dans quel cadre public la charité de Gaïus a-t-elle été attestée ?",
+    "choices": [
+      "En présence de l’Église",
+      "En présence des païens",
+      "En présence des magistrats"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-056",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:7",
+    "verseText": "Voir 3 Jean 1:7.",
+    "question": "Quelle expression relie le départ des hommes à une motivation spécifique ?",
+    "choices": [
+      "« Car c’est pour le nom de Jésus-Christ »",
+      "« Car c’est pour être le premier »",
+      "« Car c’est pour recevoir des païens »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:7 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-057",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:9",
+    "verseText": "Voir 3 Jean 1:9.",
+    "question": "Que dit l’ancien avoir fait avant de mentionner Diotrèphe ?",
+    "choices": [
+      "Écrire quelques mots à l’Église",
+      "Aller voir Gaïus",
+      "Chasser des hommes de l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-058",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:12",
+    "verseText": "Voir 3 Jean 1:12.",
+    "question": "Quel statut l’ancien donne-t-il à Démétrius par rapport au témoignage ?",
+    "choices": [
+      "Il reçoit un bon témoignage",
+      "Il refuse tout témoignage",
+      "Il interdit le témoignage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-059",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:13",
+    "verseText": "Voir 3 Jean 1:13.",
+    "question": "Que refuse l’ancien comme moyen principal de communication pour « beaucoup de choses » ?",
+    "choices": [
+      "L’encre et la plume",
+      "La bouche et la parole",
+      "La vérité et la charité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:13 (LSG 1910)."
+  },
+  {
+    "id": "3jean-N-060",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Quelle action finale est demandée concernant les amis, selon une précision ajoutée ?",
+    "choices": [
+      "Les saluer chacun en particulier",
+      "Leur écrire chacun en particulier",
+      "Les reprendre chacun en particulier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  }
+]

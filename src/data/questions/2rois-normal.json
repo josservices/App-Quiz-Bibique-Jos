@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "2RO-N-001",
+    "book": "2 Rois",
+    "chapter": 1,
+    "verseRef": "2 Rois 1:2",
+    "verseText": "Voir 2 Rois 1:2.",
+    "question": "Pourquoi Achazia envoie-t-il consulter Baal-Zebub, dieu d’Ékron ?",
+    "choices": [
+      "Parce qu’il veut connaître l’issue de sa maladie",
+      "Parce qu’il veut savoir qui régnera après lui",
+      "Parce qu’il veut gagner une guerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 1:2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-002",
+    "book": "2 Rois",
+    "chapter": 1,
+    "verseRef": "2 Rois 1:3",
+    "verseText": "Voir 2 Rois 1:3.",
+    "question": "Quel messager l’Éternel envoie-t-il à Élie pour intercepter les envoyés du roi ?",
+    "choices": [
+      "Un prophète de Samarie",
+      "Un ange",
+      "Un Lévite"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 1:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-003",
+    "book": "2 Rois",
+    "chapter": 1,
+    "verseRef": "2 Rois 1:10",
+    "verseText": "Voir 2 Rois 1:10.",
+    "question": "Que répond Élie au chef de cinquante qui lui ordonne de descendre ?",
+    "choices": [
+      "« Je descendrai à l’instant. »",
+      "« Si je suis un homme de Dieu, que le feu descende du ciel. »",
+      "« Je ne crains point le roi. »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 1:10 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-004",
+    "book": "2 Rois",
+    "chapter": 1,
+    "verseRef": "2 Rois 1:9-12",
+    "verseText": "Voir 2 Rois 1:9-12.",
+    "question": "Combien de chefs de cinquante sont consumés avec leurs cinquante hommes avant le troisième ?",
+    "choices": [
+      "Un",
+      "Deux",
+      "Trois"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 1:9-12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-005",
+    "book": "2 Rois",
+    "chapter": 1,
+    "verseRef": "2 Rois 1:13-14",
+    "verseText": "Voir 2 Rois 1:13-14.",
+    "question": "Pourquoi le troisième chef de cinquante se prosterne-t-il devant Élie ?",
+    "choices": [
+      "Pour lui demander la vie sauve",
+      "Pour lui offrir un présent",
+      "Pour l’inviter au palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 1:13-14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-006",
+    "book": "2 Rois",
+    "chapter": 1,
+    "verseRef": "2 Rois 1:16",
+    "verseText": "Voir 2 Rois 1:16.",
+    "question": "Quelle parole Élie annonce-t-il à Achazia au sujet de son lit ?",
+    "choices": [
+      "Qu’il guérira",
+      "Qu’il mourra",
+      "Qu’il sera exilé"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 1:16 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-007",
+    "book": "2 Rois",
+    "chapter": 1,
+    "verseRef": "2 Rois 1:17",
+    "verseText": "Voir 2 Rois 1:17.",
+    "question": "Qui règne à la place d’Achazia ?",
+    "choices": [
+      "Joram",
+      "Jéhu",
+      "Joas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 1:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-008",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:1",
+    "verseText": "Voir 2 Rois 2:1.",
+    "question": "Où Élie et Élisée se rendent-ils d’abord avant Béthel ?",
+    "choices": [
+      "Guilgal",
+      "Jéricho",
+      "Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 2:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-009",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:9",
+    "verseText": "Voir 2 Rois 2:9.",
+    "question": "Qu’est-ce qu’Élisée demande à Élie avant son enlèvement ?",
+    "choices": [
+      "Une couronne",
+      "Une double portion de ton esprit",
+      "Un manteau neuf"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 2:9 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-010",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:11",
+    "verseText": "Voir 2 Rois 2:11.",
+    "question": "Comment Élie est-il enlevé ?",
+    "choices": [
+      "Par une nuée",
+      "Dans un tourbillon",
+      "Par une montagne qui s’ouvre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 2:11 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-011",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:13",
+    "verseText": "Voir 2 Rois 2:13.",
+    "question": "Quel objet d’Élie tombe et Élisée le ramasse ?",
+    "choices": [
+      "Son bâton",
+      "Son manteau",
+      "Son livre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 2:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-012",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:14",
+    "verseText": "Voir 2 Rois 2:14.",
+    "question": "Quelle question les fils des prophètes posent-ils après la séparation du Jourdain ?",
+    "choices": [
+      "« Où est l’Éternel, le Dieu d’Élie ? »",
+      "« Qui est le plus grand des prophètes ? »",
+      "« Où est la maison d’Élie ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 2:14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-013",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:16",
+    "verseText": "Voir 2 Rois 2:16.",
+    "question": "Que proposent les fils des prophètes à propos d’Élie après son enlèvement ?",
+    "choices": [
+      "D’écrire un livre",
+      "De le chercher",
+      "D’ériger un autel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 2:16 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-014",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:17",
+    "verseText": "Voir 2 Rois 2:17.",
+    "question": "Combien de jours cherchent-ils Élie ?",
+    "choices": [
+      "Trois",
+      "Sept",
+      "Quarante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 2:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-015",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:19",
+    "verseText": "Voir 2 Rois 2:19.",
+    "question": "Quel problème les hommes de Jéricho signalent-ils à Élisée ?",
+    "choices": [
+      "Les murailles sont tombées",
+      "L’eau est mauvaise",
+      "Les troupeaux meurent de faim"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 2:19 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-016",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:20-21",
+    "verseText": "Voir 2 Rois 2:20-21.",
+    "question": "Qu’apporte Élisée pour assainir l’eau de Jéricho ?",
+    "choices": [
+      "Du sel dans un plat neuf",
+      "De l’huile dans une coupe",
+      "De la farine dans un sac"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 2:20-21 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-017",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:22",
+    "verseText": "Voir 2 Rois 2:22.",
+    "question": "Que se passe-t-il à l’eau après la parole d’Élisée ?",
+    "choices": [
+      "Elle devient amère",
+      "Elle est guérie",
+      "Elle disparaît"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 2:22 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-018",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:23",
+    "verseText": "Voir 2 Rois 2:23.",
+    "question": "Que crient des jeunes gens à Élisée en montant vers Béthel ?",
+    "choices": [
+      "« Prophète, prie pour nous ! »",
+      "« Monte, chauve ! Monte, chauve ! »",
+      "« Roi, sauve-nous ! »"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 2:23 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-019",
+    "book": "2 Rois",
+    "chapter": 2,
+    "verseRef": "2 Rois 2:24",
+    "verseText": "Voir 2 Rois 2:24.",
+    "question": "Quel jugement survient contre ces jeunes gens ?",
+    "choices": [
+      "Un feu du ciel",
+      "Deux ours sortent de la forêt et en déchirent quarante-deux",
+      "Une peste frappe la ville"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 2:24 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-020",
+    "book": "2 Rois",
+    "chapter": 3,
+    "verseRef": "2 Rois 3:9",
+    "verseText": "Voir 2 Rois 3:9.",
+    "question": "Quels rois montent contre Moab lorsque Mésha se révolte ?",
+    "choices": [
+      "Israël, Juda et Édom",
+      "Israël, Syrie et Ammon",
+      "Juda, Égypte et Édom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 3:9 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-021",
+    "book": "2 Rois",
+    "chapter": 3,
+    "verseRef": "2 Rois 3:9",
+    "verseText": "Voir 2 Rois 3:9.",
+    "question": "Quelle situation critique survient pendant la marche contre Moab ?",
+    "choices": [
+      "Ils n’ont plus d’eau",
+      "Ils n’ont plus d’armes",
+      "Ils perdent leur roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 3:9 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-022",
+    "book": "2 Rois",
+    "chapter": 3,
+    "verseRef": "2 Rois 3:11",
+    "verseText": "Voir 2 Rois 3:11.",
+    "question": "Quel prophète est consulté par les rois ?",
+    "choices": [
+      "Élie",
+      "Élisée",
+      "Amos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 3:11 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-023",
+    "book": "2 Rois",
+    "chapter": 3,
+    "verseRef": "2 Rois 3:15",
+    "verseText": "Voir 2 Rois 3:15.",
+    "question": "Que demande Élisée avant de prophétiser ?",
+    "choices": [
+      "Un sacrifice",
+      "Un joueur de harpe",
+      "Un sceau royal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 3:15 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-024",
+    "book": "2 Rois",
+    "chapter": 3,
+    "verseRef": "2 Rois 3:16",
+    "verseText": "Voir 2 Rois 3:16.",
+    "question": "Qu’ordonne Élisée de faire dans la vallée ?",
+    "choices": [
+      "D’abattre des arbres",
+      "De creuser des fosses",
+      "De bâtir une tour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 3:16 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-025",
+    "book": "2 Rois",
+    "chapter": 3,
+    "verseRef": "2 Rois 3:20",
+    "verseText": "Voir 2 Rois 3:20.",
+    "question": "D’où vient l’eau qui remplit le pays selon le récit ?",
+    "choices": [
+      "Du Jourdain",
+      "Du chemin d’Édom",
+      "De la mer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 3:20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-026",
+    "book": "2 Rois",
+    "chapter": 4,
+    "verseRef": "2 Rois 4:1",
+    "verseText": "Voir 2 Rois 4:1.",
+    "question": "Quel malheur arrive à une femme d’entre les femmes des fils des prophètes ?",
+    "choices": [
+      "Son mari meurt et le créancier veut prendre ses deux enfants",
+      "Sa maison brûle",
+      "Elle perd son champ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 4:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-027",
+    "book": "2 Rois",
+    "chapter": 4,
+    "verseRef": "2 Rois 4:2",
+    "verseText": "Voir 2 Rois 4:2.",
+    "question": "Que demande Élisée à la veuve : « Qu’as-tu à la maison ? »",
+    "choices": [
+      "Une cruche d’huile",
+      "Un sac d’or",
+      "Un manteau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 4:2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-028",
+    "book": "2 Rois",
+    "chapter": 4,
+    "verseRef": "2 Rois 4:3",
+    "verseText": "Voir 2 Rois 4:3.",
+    "question": "Quels récipients doit-elle emprunter ?",
+    "choices": [
+      "Des vases vides en grand nombre",
+      "Des paniers de pain",
+      "Des outres de vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 4:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-029",
+    "book": "2 Rois",
+    "chapter": 4,
+    "verseRef": "2 Rois 4:6",
+    "verseText": "Voir 2 Rois 4:6.",
+    "question": "Quand l’huile s’arrête-t-elle de couler ?",
+    "choices": [
+      "Quand elle se fatigue",
+      "Quand il n’y a plus de vase",
+      "Quand la porte s’ouvre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 4:6 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-030",
+    "book": "2 Rois",
+    "chapter": 4,
+    "verseRef": "2 Rois 4:7",
+    "verseText": "Voir 2 Rois 4:7.",
+    "question": "Qu’ordonne Élisée de faire avec l’huile vendue ?",
+    "choices": [
+      "Payer la dette et vivre du reste",
+      "Offrir tout au temple",
+      "Donner aux pauvres seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 4:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-031",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:1",
+    "verseText": "Voir 2 Rois 5:1.",
+    "question": "Quelle maladie Naaman a-t-il ?",
+    "choices": [
+      "La cécité",
+      "La lèpre",
+      "La paralysie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 5:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-032",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:2-3",
+    "verseText": "Voir 2 Rois 5:2-3.",
+    "question": "Qui parle à la femme de Naaman d’un prophète en Samarie ?",
+    "choices": [
+      "Un soldat de Juda",
+      "Une jeune fille captive",
+      "Un marchand d’Édom"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 5:2-3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-033",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:10",
+    "verseText": "Voir 2 Rois 5:10.",
+    "question": "Dans quel fleuve Naaman doit-il se laver ?",
+    "choices": [
+      "Le Nil",
+      "Le Jourdain",
+      "L’Euphrate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 5:10 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-034",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:10",
+    "verseText": "Voir 2 Rois 5:10.",
+    "question": "Combien de fois Naaman doit-il se plonger ?",
+    "choices": [
+      "Trois",
+      "Sept",
+      "Dix"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 5:10 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-035",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:11-12",
+    "verseText": "Voir 2 Rois 5:11-12.",
+    "question": "Quelle réaction Naaman a-t-il d’abord ?",
+    "choices": [
+      "Il obéit immédiatement",
+      "Il se met en colère",
+      "Il rit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 5:11-12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-036",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:13",
+    "verseText": "Voir 2 Rois 5:13.",
+    "question": "Qui le persuade d’obéir ?",
+    "choices": [
+      "Ses serviteurs",
+      "Le roi d’Israël",
+      "Guéhazi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-037",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:14",
+    "verseText": "Voir 2 Rois 5:14.",
+    "question": "Comment devient la chair de Naaman après sa guérison ?",
+    "choices": [
+      "Comme celle d’un enfant",
+      "Comme celle d’un vieillard",
+      "Comme l’écorce d’un arbre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-038",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:17",
+    "verseText": "Voir 2 Rois 5:17.",
+    "question": "Quelle demande Naaman fait-il ensuite à Élisée ?",
+    "choices": [
+      "Recevoir l’argent refusé",
+      "Prendre de la terre du pays",
+      "Être oint roi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 5:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-039",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:20",
+    "verseText": "Voir 2 Rois 5:20.",
+    "question": "Qui convoite un présent après le départ de Naaman ?",
+    "choices": [
+      "Guéhazi",
+      "Joram",
+      "Élisée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-040",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:27",
+    "verseText": "Voir 2 Rois 5:27.",
+    "question": "Quelle punition tombe sur Guéhazi ?",
+    "choices": [
+      "La lèpre de Naaman s’attache à lui",
+      "Il devient muet",
+      "Il est exilé à Ninive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:27 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-041",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:5",
+    "verseText": "Voir 2 Rois 6:5.",
+    "question": "Quel outil tombe dans le Jourdain lors de la coupe du bois ?",
+    "choices": [
+      "Une hache",
+      "Une scie",
+      "Une lance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-042",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:6",
+    "verseText": "Voir 2 Rois 6:6.",
+    "question": "Que fait Élisée pour faire surnager le fer ?",
+    "choices": [
+      "Il jette un morceau de bois",
+      "Il frappe l’eau avec son manteau",
+      "Il verse du sel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:6 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-043",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:24",
+    "verseText": "Voir 2 Rois 6:24.",
+    "question": "Quelle ville est assiégée par le roi de Syrie ?",
+    "choices": [
+      "Jéricho",
+      "Samarie",
+      "Béthel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 6:24 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-044",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:25",
+    "verseText": "Voir 2 Rois 6:25.",
+    "question": "Quel aliment est vendu très cher pendant la famine ?",
+    "choices": [
+      "Une tête d’âne",
+      "Un agneau",
+      "Du miel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:25 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-045",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:1",
+    "verseText": "Voir 2 Rois 7:1.",
+    "question": "Que prophétise Élisée au sujet du lendemain ?",
+    "choices": [
+      "Que la famine durera un an",
+      "Que la nourriture sera à bas prix",
+      "Que la ville sera brûlée"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 7:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-046",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:3-5",
+    "verseText": "Voir 2 Rois 7:3-5.",
+    "question": "Qui découvre le camp des Syriens abandonné ?",
+    "choices": [
+      "Les lépreux à l’entrée de la porte",
+      "Les prêtres du temple",
+      "Les hommes d’Édom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 7:3-5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-047",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:6-7",
+    "verseText": "Voir 2 Rois 7:6-7.",
+    "question": "Pourquoi les Syriens ont-ils fui ?",
+    "choices": [
+      "Ils ont vu une armée invisible envoyée par l’Éternel",
+      "Ils ont perdu leur roi",
+      "Ils ont manqué de pain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 7:6-7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-048",
+    "book": "2 Rois",
+    "chapter": 12,
+    "verseRef": "2 Rois 12:4-5",
+    "verseText": "Voir 2 Rois 12:4-5.",
+    "question": "Quel roi de Juda fait réparer la maison de l’Éternel grâce aux offrandes ?",
+    "choices": [
+      "Joas",
+      "Ozias",
+      "Achaz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 12:4-5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-049",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:17",
+    "verseText": "Voir 2 Rois 11:17.",
+    "question": "Quel grand prêtre est associé au rétablissement du culte sous Joas ?",
+    "choices": [
+      "Jojada",
+      "Tsadok",
+      "Abiathar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-050",
+    "book": "2 Rois",
+    "chapter": 12,
+    "verseRef": "2 Rois 12:17",
+    "verseText": "Voir 2 Rois 12:17.",
+    "question": "Quel roi de Syrie oppresse Israël et prend des villes ?",
+    "choices": [
+      "Hazaël",
+      "Sanchérib",
+      "Salmanasar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 12:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-051",
+    "book": "2 Rois",
+    "chapter": 13,
+    "verseRef": "2 Rois 13:14-18",
+    "verseText": "Voir 2 Rois 13:14-18.",
+    "question": "Quel roi d’Israël frappe trois fois le sol avec des flèches devant Élisée ?",
+    "choices": [
+      "Joas",
+      "Jéroboam",
+      "Péka"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 13:14-18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-052",
+    "book": "2 Rois",
+    "chapter": 13,
+    "verseRef": "2 Rois 13:19",
+    "verseText": "Voir 2 Rois 13:19.",
+    "question": "Pourquoi Élisée s’irrite-t-il du nombre de coups donnés ?",
+    "choices": [
+      "Parce qu’il a frappé trop fort",
+      "Parce qu’il n’a frappé que trois fois",
+      "Parce qu’il a refusé de prier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 13:19 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-053",
+    "book": "2 Rois",
+    "chapter": 13,
+    "verseRef": "2 Rois 13:21",
+    "verseText": "Voir 2 Rois 13:21.",
+    "question": "Quel miracle se produit quand un mort touche les os d’Élisée ?",
+    "choices": [
+      "Il devient prophète",
+      "Il revient à la vie",
+      "Il disparaît"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 13:21 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-054",
+    "book": "2 Rois",
+    "chapter": 14,
+    "verseRef": "2 Rois 14:4",
+    "verseText": "Voir 2 Rois 14:4.",
+    "question": "Quel roi de Juda fait brûler des sacrifices sur les hauts lieux malgré de bons débuts ?",
+    "choices": [
+      "Amatsia",
+      "Josias",
+      "Ézéchias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 14:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-055",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:1-6",
+    "verseText": "Voir 2 Rois 17:1-6.",
+    "question": "Quel roi d’Israël est pris et déporté, marquant la chute du royaume d’Israël ?",
+    "choices": [
+      "Osée",
+      "Jéhu",
+      "Achab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:1-6 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-056",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:6",
+    "verseText": "Voir 2 Rois 17:6.",
+    "question": "Quel roi d’Assyrie transporte Israël en Assyrie ?",
+    "choices": [
+      "Salmanasar",
+      "Cyrus",
+      "Darius"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:6 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-057",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:4",
+    "verseText": "Voir 2 Rois 18:4.",
+    "question": "Quel roi de Juda enlève les hauts lieux et brise les statues ?",
+    "choices": [
+      "Ézéchias",
+      "Manassé",
+      "Joachaz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-058",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:4",
+    "verseText": "Voir 2 Rois 18:4.",
+    "question": "Que fait Ézéchias avec le serpent d’airain que Moïse avait fait ?",
+    "choices": [
+      "Il le cache",
+      "Il le brise",
+      "Il l’oint d’huile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 18:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-059",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:13",
+    "verseText": "Voir 2 Rois 18:13.",
+    "question": "Quel roi d’Assyrie monte contre Juda du temps d’Ézéchias ?",
+    "choices": [
+      "Sanchérib",
+      "Nabuchodonosor",
+      "Assuérus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-060",
+    "book": "2 Rois",
+    "chapter": 20,
+    "verseRef": "2 Rois 20:9-11",
+    "verseText": "Voir 2 Rois 20:9-11.",
+    "question": "Quel signe Ésaïe annonce-t-il à Ézéchias concernant l’ombre ?",
+    "choices": [
+      "L’ombre avance de dix degrés",
+      "L’ombre recule de dix degrés",
+      "L’ombre disparaît"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : 2 Rois 20:9-11 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-061",
+    "book": "2 Rois",
+    "chapter": 4,
+    "verseRef": "2 Rois 4:41",
+    "verseText": "Voir 2 Rois 4:41.",
+    "question": "Quel miracle Élisée accomplit-il quand le potage devient dangereux ?",
+    "choices": [
+      "Il jette de la farine dans le pot",
+      "Il verse du sel dans la marmite",
+      "Il brise le pot et le remplace"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 4:41 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-062",
+    "book": "2 Rois",
+    "chapter": 4,
+    "verseRef": "2 Rois 4:42",
+    "verseText": "Voir 2 Rois 4:42.",
+    "question": "Avec combien de pains d’orge Élisée nourrit-il cent hommes ?",
+    "choices": [
+      "Vingt pains d’orge",
+      "Dix pains d’orge",
+      "Trente pains d’orge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 4:42 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-063",
+    "book": "2 Rois",
+    "chapter": 4,
+    "verseRef": "2 Rois 4:44",
+    "verseText": "Voir 2 Rois 4:44.",
+    "question": "Après ce repas, que reste-t-il selon la parole de l’Éternel ?",
+    "choices": [
+      "Il en reste, selon la parole de l’Éternel",
+      "Il ne reste rien",
+      "Il reste seulement de l’eau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 4:44 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-064",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:5",
+    "verseText": "Voir 2 Rois 5:5.",
+    "question": "Quel roi de Syrie envoie une lettre au roi d’Israël au sujet de Naaman ?",
+    "choices": [
+      "Ben-Hadad",
+      "Hazaël",
+      "Sanchérib"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-065",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:7",
+    "verseText": "Voir 2 Rois 5:7.",
+    "question": "Comment le roi d’Israël réagit-il en lisant la lettre concernant la guérison de Naaman ?",
+    "choices": [
+      "Il déchire ses vêtements",
+      "Il organise une fête",
+      "Il se réjouit et chante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-066",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:7-8",
+    "verseText": "Voir 2 Rois 5:7-8.",
+    "question": "Quelle accusation Élisée comprend-il derrière la lettre du roi de Syrie ?",
+    "choices": [
+      "Il cherche une occasion de dispute",
+      "Il veut devenir allié d’Israël",
+      "Il demande un tribut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:7-8 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-067",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:10",
+    "verseText": "Voir 2 Rois 5:10.",
+    "question": "À quel endroit Élisée dit-il à Naaman de se laver ?",
+    "choices": [
+      "Dans le Jourdain",
+      "Dans le torrent du Cédron",
+      "Dans la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:10 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-068",
+    "book": "2 Rois",
+    "chapter": 5,
+    "verseRef": "2 Rois 5:5",
+    "verseText": "Voir 2 Rois 5:5.",
+    "question": "Qu’est-ce que Naaman apporte en grande quantité en venant vers Élisée ?",
+    "choices": [
+      "De l’argent, de l’or et des vêtements de rechange",
+      "Des chevaux et des chameaux seulement",
+      "Du blé et du vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 5:5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-069",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:12",
+    "verseText": "Voir 2 Rois 6:12.",
+    "question": "Qu’arrive-t-il au serviteur du roi de Syrie lorsque le prophète parle de ses plans ?",
+    "choices": [
+      "Le roi découvre que ses paroles sont révélées",
+      "Le prophète se tait pour toujours",
+      "Le roi se prosterne devant Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-070",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:13-14",
+    "verseText": "Voir 2 Rois 6:13-14.",
+    "question": "Dans quelle ville Élisée est-il entouré par l’armée syrienne ?",
+    "choices": [
+      "Dothan",
+      "Hébron",
+      "Gabaon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:13-14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-071",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:17",
+    "verseText": "Voir 2 Rois 6:17.",
+    "question": "Qu’est-ce que le serviteur d’Élisée ne voyait pas avant que l’Éternel ouvre ses yeux ?",
+    "choices": [
+      "Des chevaux et des chars de feu",
+      "Des anges portant des épées de bronze",
+      "Une mer de feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-072",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:22-23",
+    "verseText": "Voir 2 Rois 6:22-23.",
+    "question": "Après l’aveuglement des Syriens, que fait le roi d’Israël sur le conseil d’Élisée ?",
+    "choices": [
+      "Il les nourrit et les renvoie",
+      "Il les vend comme esclaves",
+      "Il les enferme à vie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:22-23 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-073",
+    "book": "2 Rois",
+    "chapter": 6,
+    "verseRef": "2 Rois 6:24-25",
+    "verseText": "Voir 2 Rois 6:24-25.",
+    "question": "Pourquoi une grande famine survient-elle à Samarie ?",
+    "choices": [
+      "Parce que Ben-Hadad assiège Samarie",
+      "Parce qu’un tremblement de terre détruit les greniers",
+      "Parce que le Jourdain déborde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 6:24-25 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-074",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:1",
+    "verseText": "Voir 2 Rois 7:1.",
+    "question": "Qui annonce l’abondance du lendemain à la porte de Samarie ?",
+    "choices": [
+      "Élisée",
+      "Guéhazi",
+      "Jojada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 7:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-075",
+    "book": "2 Rois",
+    "chapter": 7,
+    "verseRef": "2 Rois 7:17-20",
+    "verseText": "Voir 2 Rois 7:17-20.",
+    "question": "Qui est piétiné à la porte lorsque l’abondance arrive ?",
+    "choices": [
+      "L’officier sur la main duquel le roi s’appuyait",
+      "Un chef des lépreux",
+      "Un prêtre de Béthel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 7:17-20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-076",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:1-2",
+    "verseText": "Voir 2 Rois 8:1-2.",
+    "question": "Quel conseil Élisée donne-t-il à la Sunamite à cause d’une famine annoncée ?",
+    "choices": [
+      "D’aller séjourner où elle pourra",
+      "De vendre sa maison",
+      "De se rendre à Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:1-2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-077",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:3",
+    "verseText": "Voir 2 Rois 8:3.",
+    "question": "Après le retour de la Sunamite, que demande-t-elle au roi ?",
+    "choices": [
+      "Sa maison et ses champs",
+      "Un nouveau mari",
+      "Un héritage à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-078",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:4-5",
+    "verseText": "Voir 2 Rois 8:4-5.",
+    "question": "Quel personnage raconte au roi les grands faits d’Élisée au moment où la Sunamite arrive ?",
+    "choices": [
+      "Guéhazi",
+      "Naaman",
+      "Ben-Hadad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:4-5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-079",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:7-8",
+    "verseText": "Voir 2 Rois 8:7-8.",
+    "question": "Quel roi de Syrie est malade quand Hazaël vient voir Élisée ?",
+    "choices": [
+      "Ben-Hadad",
+      "Salmanasar",
+      "Nabopolassar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:7-8 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-080",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:10",
+    "verseText": "Voir 2 Rois 8:10.",
+    "question": "Que dit Élisée à Hazaël au sujet du roi malade ?",
+    "choices": [
+      "« Tu peux lui dire: Tu guériras. »",
+      "« Dis-lui: Tu mourras ce soir. »",
+      "« Dis-lui: Tu dois fuir. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:10 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-081",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:10",
+    "verseText": "Voir 2 Rois 8:10.",
+    "question": "Quelle vérité Élisée ajoute-t-il immédiatement après cette parole ?",
+    "choices": [
+      "« L’Éternel m’a révélé qu’il mourra certainement. »",
+      "« Il vivra longtemps. »",
+      "« Il ira en captivité. »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:10 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-082",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:15",
+    "verseText": "Voir 2 Rois 8:15.",
+    "question": "Comment Hazaël fait-il mourir Ben-Hadad ?",
+    "choices": [
+      "Il étend sur son visage une couverture trempée",
+      "Il le frappe avec une épée",
+      "Il l’empoisonne dans du vin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:15 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-083",
+    "book": "2 Rois",
+    "chapter": 8,
+    "verseRef": "2 Rois 8:18",
+    "verseText": "Voir 2 Rois 8:18.",
+    "question": "Quel lien familial unit Athalie à la maison d’Achab ?",
+    "choices": [
+      "Elle est fille d’Achab",
+      "Elle est sœur d’Élie",
+      "Elle est petite-fille de David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 8:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-084",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:1",
+    "verseText": "Voir 2 Rois 11:1.",
+    "question": "Quel roi de Juda est tué et Athalie prend alors le pouvoir ?",
+    "choices": [
+      "Achazia",
+      "Joas",
+      "Ézéchias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-085",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:2",
+    "verseText": "Voir 2 Rois 11:2.",
+    "question": "Qui cache Joas pour le sauver d’Athalie ?",
+    "choices": [
+      "Joschéba, fille du roi Joram",
+      "La Sunamite",
+      "La femme de Naaman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-086",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:3",
+    "verseText": "Voir 2 Rois 11:3.",
+    "question": "Où Joas est-il caché pendant six ans ?",
+    "choices": [
+      "Dans la maison de l’Éternel",
+      "Dans la maison d’Achab",
+      "Dans la forteresse de Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-087",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:4-12",
+    "verseText": "Voir 2 Rois 11:4-12.",
+    "question": "Quel sacrificateur organise le couronnement de Joas ?",
+    "choices": [
+      "Jojada",
+      "Élisée",
+      "Zacharie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:4-12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-088",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:14",
+    "verseText": "Voir 2 Rois 11:14.",
+    "question": "Quel cri Athalie pousse-t-elle en voyant Joas couronné ?",
+    "choices": [
+      "« Conspiration! conspiration! »",
+      "« Vive le roi d’Assyrie! »",
+      "« Malheur à Juda! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-089",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:16",
+    "verseText": "Voir 2 Rois 11:16.",
+    "question": "Où Athalie est-elle mise à mort ?",
+    "choices": [
+      "À l’entrée de la porte des chevaux, près de la maison du roi",
+      "Sur le mont Carmel",
+      "Dans la vallée du Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:16 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-090",
+    "book": "2 Rois",
+    "chapter": 11,
+    "verseRef": "2 Rois 11:18",
+    "verseText": "Voir 2 Rois 11:18.",
+    "question": "Quel temple est renversé après la mort d’Athalie ?",
+    "choices": [
+      "La maison de Baal",
+      "La maison de Dagon",
+      "La maison d’Astarté"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 11:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-091",
+    "book": "2 Rois",
+    "chapter": 12,
+    "verseRef": "2 Rois 12:4-5",
+    "verseText": "Voir 2 Rois 12:4-5.",
+    "question": "Quel objet Joas veut-il réparer avec l’argent consacré ?",
+    "choices": [
+      "La maison de l’Éternel",
+      "Les murailles de Jéricho",
+      "Le palais de Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 12:4-5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-092",
+    "book": "2 Rois",
+    "chapter": 12,
+    "verseRef": "2 Rois 12:9",
+    "verseText": "Voir 2 Rois 12:9.",
+    "question": "Pourquoi un coffre est-il placé près de l’autel ?",
+    "choices": [
+      "Pour recevoir l’argent apporté à la maison de l’Éternel",
+      "Pour conserver les pains de proposition",
+      "Pour garder les armes du roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 12:9 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-093",
+    "book": "2 Rois",
+    "chapter": 12,
+    "verseRef": "2 Rois 12:17",
+    "verseText": "Voir 2 Rois 12:17.",
+    "question": "Quel roi de Syrie monte contre Jérusalem sous Joas ?",
+    "choices": [
+      "Hazaël",
+      "Sanchérib",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 12:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-094",
+    "book": "2 Rois",
+    "chapter": 14,
+    "verseRef": "2 Rois 14:13",
+    "verseText": "Voir 2 Rois 14:13.",
+    "question": "Quel roi de Juda est vaincu par Joas, roi d’Israël, et capturé ?",
+    "choices": [
+      "Amatsia",
+      "Achaz",
+      "Josias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 14:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-095",
+    "book": "2 Rois",
+    "chapter": 14,
+    "verseRef": "2 Rois 14:13",
+    "verseText": "Voir 2 Rois 14:13.",
+    "question": "Quelle partie du mur de Jérusalem est abattue dans cette défaite ?",
+    "choices": [
+      "Quatre cents coudées, depuis la porte d’Éphraïm jusqu’à la porte de l’angle",
+      "Mille coudées, depuis la porte des chevaux jusqu’à la porte de l’est",
+      "Deux cents coudées, autour du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 14:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-096",
+    "book": "2 Rois",
+    "chapter": 14,
+    "verseRef": "2 Rois 14:25",
+    "verseText": "Voir 2 Rois 14:25.",
+    "question": "Quel roi d’Israël recouvre des territoires « depuis l’entrée de Hamath jusqu’à la mer de la plaine » ?",
+    "choices": [
+      "Jéroboam",
+      "Jéhu",
+      "Joachaz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 14:25 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-097",
+    "book": "2 Rois",
+    "chapter": 14,
+    "verseRef": "2 Rois 14:25",
+    "verseText": "Voir 2 Rois 14:25.",
+    "question": "Quel prophète est mentionné dans cette restauration par Jéroboam ?",
+    "choices": [
+      "Jonas, fils d’Amittaï",
+      "Ésaïe, fils d’Amots",
+      "Jérémie, fils d’Hilkija"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 14:25 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-098",
+    "book": "2 Rois",
+    "chapter": 15,
+    "verseRef": "2 Rois 15:5",
+    "verseText": "Voir 2 Rois 15:5.",
+    "question": "Quel roi de Juda est frappé de la lèpre et demeure dans une maison séparée ?",
+    "choices": [
+      "Azaria",
+      "Manassé",
+      "Joachaz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 15:5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-099",
+    "book": "2 Rois",
+    "chapter": 15,
+    "verseRef": "2 Rois 15:13",
+    "verseText": "Voir 2 Rois 15:13.",
+    "question": "Quel roi d’Israël règne seulement sept jours à Samarie ?",
+    "choices": [
+      "Zimri",
+      "Zacharie",
+      "Sallum"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : 2 Rois 15:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-100",
+    "book": "2 Rois",
+    "chapter": 15,
+    "verseRef": "2 Rois 15:19-20",
+    "verseText": "Voir 2 Rois 15:19-20.",
+    "question": "Quel roi d’Assyrie est nommé quand Menahem lui donne de l’argent ?",
+    "choices": [
+      "Pul, roi d’Assyrie",
+      "Sanchérib",
+      "Assurbanipal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 15:19-20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-101",
+    "book": "2 Rois",
+    "chapter": 16,
+    "verseRef": "2 Rois 16:3",
+    "verseText": "Voir 2 Rois 16:3.",
+    "question": "Quel roi de Juda fait passer son fils par le feu ?",
+    "choices": [
+      "Achaz",
+      "Ézéchias",
+      "Josaphat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 16:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-102",
+    "book": "2 Rois",
+    "chapter": 16,
+    "verseRef": "2 Rois 16:7",
+    "verseText": "Voir 2 Rois 16:7.",
+    "question": "À qui Achaz envoie-t-il des messagers pour demander du secours ?",
+    "choices": [
+      "À Tiglath-Piléser, roi d’Assyrie",
+      "À Ben-Hadad, roi de Syrie",
+      "À Pharaon, roi d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 16:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-103",
+    "book": "2 Rois",
+    "chapter": 16,
+    "verseRef": "2 Rois 16:10-11",
+    "verseText": "Voir 2 Rois 16:10-11.",
+    "question": "Quel objet Achaz fait-il fabriquer à Jérusalem d’après un modèle vu à Damas ?",
+    "choices": [
+      "Un autel",
+      "Une arche",
+      "Une tour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 16:10-11 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-104",
+    "book": "2 Rois",
+    "chapter": 16,
+    "verseRef": "2 Rois 16:11",
+    "verseText": "Voir 2 Rois 16:11.",
+    "question": "Qui est le sacrificateur impliqué dans cet autel selon l’ordre du roi ?",
+    "choices": [
+      "Urie",
+      "Jojada",
+      "Abiathar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 16:11 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-105",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:4-6",
+    "verseText": "Voir 2 Rois 17:4-6.",
+    "question": "Quel roi d’Israël est emprisonné et meurt après la prise de Samarie ?",
+    "choices": [
+      "Osée",
+      "Jéroboam",
+      "Jéhu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:4-6 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-106",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:6",
+    "verseText": "Voir 2 Rois 17:6.",
+    "question": "Dans quels lieux Israël est-il transporté, selon le récit ?",
+    "choices": [
+      "À Halach, sur le Habor, fleuve de Gozan, et dans les villes des Mèdes",
+      "À Jérusalem et à Bethléhem",
+      "À Damas et à Tyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:6 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-107",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:25-26",
+    "verseText": "Voir 2 Rois 17:25-26.",
+    "question": "Pourquoi des lions tuent-ils certains nouveaux habitants de Samarie ?",
+    "choices": [
+      "Parce qu’ils ne craignaient point l’Éternel",
+      "Parce qu’ils refusaient de bâtir des maisons",
+      "Parce qu’ils avaient volé l’or du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:25-26 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-108",
+    "book": "2 Rois",
+    "chapter": 17,
+    "verseRef": "2 Rois 17:27-28",
+    "verseText": "Voir 2 Rois 17:27-28.",
+    "question": "Quel remède le roi d’Assyrie ordonne-t-il pour ces peuples ?",
+    "choices": [
+      "Envoyer un des sacrificateurs d’Israël pour leur enseigner la manière de servir l’Éternel",
+      "Envoyer un général pour les gouverner",
+      "Les déporter à nouveau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 17:27-28 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-109",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:5",
+    "verseText": "Voir 2 Rois 18:5.",
+    "question": "Quel roi de Juda est décrit comme ayant « mis sa confiance en l’Éternel » ?",
+    "choices": [
+      "Ézéchias",
+      "Achaz",
+      "Manassé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-110",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:4",
+    "verseText": "Voir 2 Rois 18:4.",
+    "question": "Quel geste d’Ézéchias concerne les hauts lieux ?",
+    "choices": [
+      "Il les fit disparaître",
+      "Il en construisit davantage",
+      "Il les consacra par un sacrifice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-111",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:17",
+    "verseText": "Voir 2 Rois 18:17.",
+    "question": "À quelle ville Rab-Schaké parle-t-il près de l’aqueduc ?",
+    "choices": [
+      "Jérusalem",
+      "Samarie",
+      "Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-112",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:26",
+    "verseText": "Voir 2 Rois 18:26.",
+    "question": "Que demandent Éliakim, Schebna et Joach au Rab-Schaké ?",
+    "choices": [
+      "De parler en araméen et non en langue judaïque",
+      "De se taire et de partir",
+      "D’entrer au temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:26 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-113",
+    "book": "2 Rois",
+    "chapter": 18,
+    "verseRef": "2 Rois 18:36",
+    "verseText": "Voir 2 Rois 18:36.",
+    "question": "Quelle consigne Ézéchias donne-t-il au peuple pendant le discours du Rab-Schaké ?",
+    "choices": [
+      "Ne pas lui répondre",
+      "Le lapider",
+      "Fermer toutes les portes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 18:36 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-114",
+    "book": "2 Rois",
+    "chapter": 19,
+    "verseRef": "2 Rois 19:1",
+    "verseText": "Voir 2 Rois 19:1.",
+    "question": "Quel acte Ézéchias fait-il en entendant les paroles des envoyés assyriens ?",
+    "choices": [
+      "Il déchire ses vêtements et se couvre d’un sac",
+      "Il s’assoit sur son trône en silence",
+      "Il s’enfuit à Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 19:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-115",
+    "book": "2 Rois",
+    "chapter": 19,
+    "verseRef": "2 Rois 19:32",
+    "verseText": "Voir 2 Rois 19:32.",
+    "question": "Quelle menace Ésaïe annonce-t-il contre Sanchérib ?",
+    "choices": [
+      "Il n’entrera point dans la ville",
+      "Il règnera sur Juda",
+      "Il sera couronné à Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 19:32 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-116",
+    "book": "2 Rois",
+    "chapter": 19,
+    "verseRef": "2 Rois 19:35",
+    "verseText": "Voir 2 Rois 19:35.",
+    "question": "Combien d’hommes l’ange de l’Éternel frappe-t-il dans le camp des Assyriens ?",
+    "choices": [
+      "Cent quatre-vingt-cinq mille",
+      "Dix mille",
+      "Soixante-dix mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 19:35 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-117",
+    "book": "2 Rois",
+    "chapter": 20,
+    "verseRef": "2 Rois 20:1",
+    "verseText": "Voir 2 Rois 20:1.",
+    "question": "De quelle maladie Ézéchias est-il atteint quand Ésaïe vient le voir ?",
+    "choices": [
+      "Il est malade à la mort",
+      "Il est frappé de lèpre",
+      "Il est aveugle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 20:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-118",
+    "book": "2 Rois",
+    "chapter": 20,
+    "verseRef": "2 Rois 20:10-11",
+    "verseText": "Voir 2 Rois 20:10-11.",
+    "question": "Quel signe est donné à Ézéchias avec l’ombre du cadran ?",
+    "choices": [
+      "L’ombre recule de dix degrés",
+      "Le soleil s’arrête trois jours",
+      "La lune devient rouge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 20:10-11 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-119",
+    "book": "2 Rois",
+    "chapter": 20,
+    "verseRef": "2 Rois 20:13",
+    "verseText": "Voir 2 Rois 20:13.",
+    "question": "Que montre Ézéchias aux envoyés venus de Babylone ?",
+    "choices": [
+      "Toute la maison de ses trésors",
+      "Les murailles de Jéricho",
+      "Les tombeaux des rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 20:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-120",
+    "book": "2 Rois",
+    "chapter": 20,
+    "verseRef": "2 Rois 20:17",
+    "verseText": "Voir 2 Rois 20:17.",
+    "question": "Quelle annonce Ésaïe fait-il après la visite des envoyés babyloniens ?",
+    "choices": [
+      "On emportera à Babylone tout ce qui est dans la maison du roi",
+      "Babylone deviendra vassale de Juda",
+      "Juda conquérra Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 20:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-121",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:2",
+    "verseText": "Voir 2 Rois 21:2.",
+    "question": "Quel roi de Juda « fit ce qui est mal aux yeux de l’Éternel », en suivant les abominations des nations ?",
+    "choices": [
+      "Manassé",
+      "Josias",
+      "Ézéchias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-122",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:3",
+    "verseText": "Voir 2 Rois 21:3.",
+    "question": "Que fait Manassé au sujet des hauts lieux que son père Ézéchias avait détruits ?",
+    "choices": [
+      "Il les rebâtit",
+      "Il les transforme en greniers",
+      "Il les consacre à l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-123",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:3",
+    "verseText": "Voir 2 Rois 21:3.",
+    "question": "Quel dieu Manassé sert-il en dressant des autels, selon le modèle d’Achab ?",
+    "choices": [
+      "Baal",
+      "Rimmon",
+      "Nisroc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-124",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:5",
+    "verseText": "Voir 2 Rois 21:5.",
+    "question": "Qu’érige Manassé en se prosternant devant « toute l’armée des cieux » ?",
+    "choices": [
+      "Des autels",
+      "Un coffre",
+      "Une muraille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-125",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:5",
+    "verseText": "Voir 2 Rois 21:5.",
+    "question": "Où Manassé bâtit-il des autels à toute l’armée des cieux ?",
+    "choices": [
+      "Dans les deux parvis de la maison de l’Éternel",
+      "Sur le mont Carmel",
+      "Dans la vallée du Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-126",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:6",
+    "verseText": "Voir 2 Rois 21:6.",
+    "question": "Quel acte abominable Manassé pratique-t-il avec son fils ?",
+    "choices": [
+      "Il fit passer son fils par le feu",
+      "Il offrit son fils comme roi",
+      "Il envoya son fils en Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:6 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-127",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:7",
+    "verseText": "Voir 2 Rois 21:7.",
+    "question": "Quel objet idolâtre Manassé place-t-il dans la maison dont l’Éternel avait parlé ?",
+    "choices": [
+      "L’idole d’Astarté",
+      "Le serpent d’airain",
+      "L’arche de Noé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-128",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:12",
+    "verseText": "Voir 2 Rois 21:12.",
+    "question": "Quel jugement est annoncé : que feront les oreilles de ceux qui l’entendront ?",
+    "choices": [
+      "Elles tinteront",
+      "Elles deviendront sourdes",
+      "Elles se réjouiront"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-129",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:13",
+    "verseText": "Voir 2 Rois 21:13.",
+    "question": "Par quelle image l’Éternel décrit-il le jugement sur Jérusalem ?",
+    "choices": [
+      "On essuiera Jérusalem comme on essuie un plat, et on le renversera",
+      "On couvrira Jérusalem de neige",
+      "On fera pousser des vignes dans le temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-130",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:18-19",
+    "verseText": "Voir 2 Rois 21:18-19.",
+    "question": "Quel fils succède à Manassé ?",
+    "choices": [
+      "Amon",
+      "Josias",
+      "Joachaz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:18-19 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-131",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:19",
+    "verseText": "Voir 2 Rois 21:19.",
+    "question": "Combien de temps Amon règne-t-il à Jérusalem ?",
+    "choices": [
+      "Deux ans",
+      "Sept ans",
+      "Quarante ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:19 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-132",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:23",
+    "verseText": "Voir 2 Rois 21:23.",
+    "question": "Pourquoi Amon est-il tué ?",
+    "choices": [
+      "Ses serviteurs conspirent contre lui et le font mourir dans sa maison",
+      "Il meurt d’une maladie à la porte",
+      "Il tombe au combat contre l’Assyrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:23 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-133",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:24",
+    "verseText": "Voir 2 Rois 21:24.",
+    "question": "Que fait le peuple du pays aux conspirateurs qui ont tué Amon ?",
+    "choices": [
+      "Il les fait mourir",
+      "Il les couronne",
+      "Il les exile à Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:24 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-134",
+    "book": "2 Rois",
+    "chapter": 21,
+    "verseRef": "2 Rois 21:24",
+    "verseText": "Voir 2 Rois 21:24.",
+    "question": "Qui est établi roi à la place d’Amon ?",
+    "choices": [
+      "Josias",
+      "Jojakim",
+      "Sédécias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 21:24 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-135",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:1",
+    "verseText": "Voir 2 Rois 22:1.",
+    "question": "À quel âge Josias commence-t-il à régner ?",
+    "choices": [
+      "Huit ans",
+      "Vingt-cinq ans",
+      "Trente ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-136",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:4",
+    "verseText": "Voir 2 Rois 22:4.",
+    "question": "Quel ordre Josias donne-t-il au sacrificateur Hilkija ?",
+    "choices": [
+      "De compter l’argent apporté à la maison de l’Éternel",
+      "De bâtir un nouvel autel à Damas",
+      "D’envoyer un tribut à l’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-137",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:8",
+    "verseText": "Voir 2 Rois 22:8.",
+    "question": "Quel livre est trouvé dans la maison de l’Éternel ?",
+    "choices": [
+      "Le livre de la loi",
+      "Le livre de Josué",
+      "Le livre des Proverbes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:8 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-138",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:10",
+    "verseText": "Voir 2 Rois 22:10.",
+    "question": "Qui lit le livre devant le roi ?",
+    "choices": [
+      "Schaphan, le secrétaire",
+      "Hilkija, le sacrificateur",
+      "Joach, fils d’Asaph"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:10 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-139",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:11",
+    "verseText": "Voir 2 Rois 22:11.",
+    "question": "Que fait Josias quand il entend les paroles du livre de la loi ?",
+    "choices": [
+      "Il déchire ses vêtements",
+      "Il se met à danser",
+      "Il ordonne de brûler le livre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:11 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-140",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:14",
+    "verseText": "Voir 2 Rois 22:14.",
+    "question": "Vers quelle prophétesse les envoyés du roi se rendent-ils ?",
+    "choices": [
+      "Hulda",
+      "Débora",
+      "Anne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-141",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:14",
+    "verseText": "Voir 2 Rois 22:14.",
+    "question": "Quel lien familial est donné pour Hulda dans le texte ?",
+    "choices": [
+      "Femme de Schallum, gardien des vêtements",
+      "Fille de Josias",
+      "Sœur d’Ésaïe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-142",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:16",
+    "verseText": "Voir 2 Rois 22:16.",
+    "question": "Quelle annonce est faite sur le malheur qui vient sur ce lieu ?",
+    "choices": [
+      "Tous les malheurs écrits dans le livre",
+      "Une pluie de feu immédiate",
+      "Une famine de trois jours seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:16 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-143",
+    "book": "2 Rois",
+    "chapter": 22,
+    "verseRef": "2 Rois 22:19-20",
+    "verseText": "Voir 2 Rois 22:19-20.",
+    "question": "Pourquoi Josias ne verra-t-il pas le malheur venir de son vivant ?",
+    "choices": [
+      "Parce que son cœur a été touché et qu’il s’est humilié devant l’Éternel",
+      "Parce qu’il a bâti une nouvelle ville",
+      "Parce qu’il a vaincu l’Assyrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 22:19-20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-144",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:2",
+    "verseText": "Voir 2 Rois 23:2.",
+    "question": "Où Josias lit-il les paroles du livre de l’alliance devant le peuple ?",
+    "choices": [
+      "Dans la maison de l’Éternel",
+      "Dans la maison de Baal",
+      "À Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-145",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:3",
+    "verseText": "Voir 2 Rois 23:3.",
+    "question": "Quelle alliance Josias fait-il devant l’Éternel ?",
+    "choices": [
+      "Marcher après l’Éternel et garder ses commandements",
+      "Faire une alliance avec l’Égypte",
+      "Élever un autel à l’armée des cieux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:3 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-146",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:4",
+    "verseText": "Voir 2 Rois 23:4.",
+    "question": "Que fait Josias des ustensiles faits pour Baal, pour Astarté et pour toute l’armée des cieux ?",
+    "choices": [
+      "Il les brûle",
+      "Il les cache dans le palais",
+      "Il les envoie à Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-147",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:4",
+    "verseText": "Voir 2 Rois 23:4.",
+    "question": "Où Josias brûle-t-il ces objets ?",
+    "choices": [
+      "Hors de Jérusalem, dans les champs du Cédron",
+      "Sur le mont Carmel",
+      "À l’entrée de Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-148",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:4",
+    "verseText": "Voir 2 Rois 23:4.",
+    "question": "Que fait Josias des cendres ?",
+    "choices": [
+      "Il les fait porter à Béthel",
+      "Il les jette dans la mer",
+      "Il les enterre sous l’autel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-149",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:15",
+    "verseText": "Voir 2 Rois 23:15.",
+    "question": "Quel roi avait construit un autel à Béthel et fait pécher Israël ?",
+    "choices": [
+      "Jéroboam",
+      "Joas",
+      "Achab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:15 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-150",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:21-22",
+    "verseText": "Voir 2 Rois 23:21-22.",
+    "question": "Quel événement Josias célèbre avec une rigueur exceptionnelle, « comme il n’y en avait point eu » ?",
+    "choices": [
+      "La Pâque",
+      "La fête des Tabernacles",
+      "La Pentecôte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:21-22 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-151",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:30",
+    "verseText": "Voir 2 Rois 23:30.",
+    "question": "Après Josias, quel fils est fait roi par le peuple du pays ?",
+    "choices": [
+      "Joachaz",
+      "Sédécias",
+      "Jojakin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:30 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-152",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:31",
+    "verseText": "Voir 2 Rois 23:31.",
+    "question": "Combien de temps Joachaz règne-t-il à Jérusalem ?",
+    "choices": [
+      "Trois mois",
+      "Trois ans",
+      "Trente ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:31 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-153",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:33",
+    "verseText": "Voir 2 Rois 23:33.",
+    "question": "Quel roi d’Égypte dépose Joachaz ?",
+    "choices": [
+      "Pharaon Néco",
+      "Pharaon Hophra",
+      "Pharaon Sisak"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:33 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-154",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:33",
+    "verseText": "Voir 2 Rois 23:33.",
+    "question": "Où Pharaon Néco emmène-t-il Joachaz ?",
+    "choices": [
+      "À Ribla",
+      "À Damas",
+      "À Ninive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:33 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-155",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:34",
+    "verseText": "Voir 2 Rois 23:34.",
+    "question": "Quel frère de Joachaz Pharaon Néco établit-il roi ?",
+    "choices": [
+      "Éliakim, dont il change le nom en Jojakim",
+      "Sédécias, dont il change le nom en Joachaz",
+      "Josias, dont il change le nom en Achaz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:34 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-156",
+    "book": "2 Rois",
+    "chapter": 23,
+    "verseRef": "2 Rois 23:35",
+    "verseText": "Voir 2 Rois 23:35.",
+    "question": "Quel tribut Jojakim lève-t-il sur le peuple pour le donner à Pharaon Néco ?",
+    "choices": [
+      "De l’argent et de l’or",
+      "Du blé et du vin",
+      "Des chevaux et des chars"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 23:35 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-157",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:1",
+    "verseText": "Voir 2 Rois 24:1.",
+    "question": "Quel roi de Babylone monte et Jojakim devient son serviteur ?",
+    "choices": [
+      "Nébucadnetsar",
+      "Salmanasar",
+      "Sanchérib"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-158",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:1",
+    "verseText": "Voir 2 Rois 24:1.",
+    "question": "Combien d’années Jojakim sert-il Nébucadnetsar avant de se révolter ?",
+    "choices": [
+      "Trois ans",
+      "Sept ans",
+      "Deux ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-159",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:2",
+    "verseText": "Voir 2 Rois 24:2.",
+    "question": "Quelles troupes l’Éternel envoie-t-il contre Juda après la révolte ?",
+    "choices": [
+      "Des bandes de Chaldéens, de Syriens, de Moabites et de fils d’Ammon",
+      "Des bandes d’Égyptiens seulement",
+      "Des bandes d’Édomites seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:2 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-160",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:3-4",
+    "verseText": "Voir 2 Rois 24:3-4.",
+    "question": "Pourquoi ce malheur arrive-t-il sur Juda, selon le texte ?",
+    "choices": [
+      "À cause de la colère de l’Éternel et des péchés de Manassé",
+      "À cause d’une sécheresse uniquement",
+      "À cause d’un désaccord commercial avec Tyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:3-4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-161",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:6",
+    "verseText": "Voir 2 Rois 24:6.",
+    "question": "Quel fils de Jojakim devient roi après lui ?",
+    "choices": [
+      "Jojakin",
+      "Joachaz",
+      "Josias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:6 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-162",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:8",
+    "verseText": "Voir 2 Rois 24:8.",
+    "question": "Quel âge Jojakin a-t-il quand il commence à régner ?",
+    "choices": [
+      "Dix-huit ans",
+      "Huit ans",
+      "Trente ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:8 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-163",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:8",
+    "verseText": "Voir 2 Rois 24:8.",
+    "question": "Combien de temps Jojakin règne-t-il à Jérusalem ?",
+    "choices": [
+      "Trois mois",
+      "Trois ans",
+      "Douze mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:8 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-164",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:12",
+    "verseText": "Voir 2 Rois 24:12.",
+    "question": "Que fait Jojakin face au roi de Babylone pendant le siège ?",
+    "choices": [
+      "Il se rend",
+      "Il s’enfuit en Égypte",
+      "Il tue ses officiers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:12 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-165",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:12-15",
+    "verseText": "Voir 2 Rois 24:12-15.",
+    "question": "Qui est emmené en captivité avec Jojakin ?",
+    "choices": [
+      "Le roi, sa mère, ses serviteurs, ses chefs et ses eunuques",
+      "Uniquement les sacrificateurs",
+      "Uniquement les enfants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:12-15 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-166",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:13",
+    "verseText": "Voir 2 Rois 24:13.",
+    "question": "Quel trésor est emporté de Jérusalem ?",
+    "choices": [
+      "Les trésors de la maison de l’Éternel et ceux de la maison du roi",
+      "Les eaux de la ville",
+      "Les pierres des murailles seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:13 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-167",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:14",
+    "verseText": "Voir 2 Rois 24:14.",
+    "question": "Quel artisanat est particulièrement déporté, affaiblissant le pays ?",
+    "choices": [
+      "Les charpentiers et les serruriers",
+      "Les bergers et les vignerons",
+      "Les scribes et les musiciens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:14 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-168",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:17",
+    "verseText": "Voir 2 Rois 24:17.",
+    "question": "Quel oncle de Jojakin Nébucadnetsar établit-il roi, en changeant son nom ?",
+    "choices": [
+      "Matthania, qu’il nomme Sédécias",
+      "Éliakim, qu’il nomme Joachaz",
+      "Schaphan, qu’il nomme Josias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:17 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-169",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:18",
+    "verseText": "Voir 2 Rois 24:18.",
+    "question": "À quel âge Sédécias commence-t-il à régner ?",
+    "choices": [
+      "Vingt et un ans",
+      "Huit ans",
+      "Quarante ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-170",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:18",
+    "verseText": "Voir 2 Rois 24:18.",
+    "question": "Combien d’années Sédécias règne-t-il à Jérusalem ?",
+    "choices": [
+      "Onze ans",
+      "Deux ans",
+      "Trente ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:18 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-171",
+    "book": "2 Rois",
+    "chapter": 24,
+    "verseRef": "2 Rois 24:20",
+    "verseText": "Voir 2 Rois 24:20.",
+    "question": "Contre qui Sédécias se révolte-t-il ?",
+    "choices": [
+      "Le roi de Babylone",
+      "Le roi d’Assyrie",
+      "Le roi de Syrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 24:20 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-172",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:1",
+    "verseText": "Voir 2 Rois 25:1.",
+    "question": "Quel mois est donné pour le début du siège de Jérusalem par Nébucadnetsar ?",
+    "choices": [
+      "Le dixième mois",
+      "Le premier mois",
+      "Le septième mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:1 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-173",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:3-4",
+    "verseText": "Voir 2 Rois 25:3-4.",
+    "question": "Quel jour est donné pour la brèche dans la ville, quand la famine est forte ?",
+    "choices": [
+      "Le neuvième jour du quatrième mois",
+      "Le premier jour du sixième mois",
+      "Le dixième jour du premier mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:3-4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-174",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:4",
+    "verseText": "Voir 2 Rois 25:4.",
+    "question": "Par quel chemin Sédécias tente-t-il de fuir ?",
+    "choices": [
+      "Par le chemin de la porte entre les deux murs, près du jardin du roi",
+      "Par la porte d’Éphraïm",
+      "Par la porte des chevaux près du temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:4 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-175",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:5",
+    "verseText": "Voir 2 Rois 25:5.",
+    "question": "Où Sédécias est-il saisi par l’armée des Chaldéens ?",
+    "choices": [
+      "Dans les plaines de Jéricho",
+      "À Dothan",
+      "À Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:5 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-176",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:6",
+    "verseText": "Voir 2 Rois 25:6.",
+    "question": "Où conduit-on Sédécias devant le roi de Babylone ?",
+    "choices": [
+      "À Ribla",
+      "À Ninive",
+      "À Damas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:6 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-177",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:7",
+    "verseText": "Voir 2 Rois 25:7.",
+    "question": "Quel sort est infligé aux fils de Sédécias devant ses yeux ?",
+    "choices": [
+      "Ils sont égorgés",
+      "Ils sont couronnés",
+      "Ils sont libérés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-178",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:7",
+    "verseText": "Voir 2 Rois 25:7.",
+    "question": "Que fait-on ensuite à Sédécias ?",
+    "choices": [
+      "On lui crève les yeux et on l’emmène à Babylone",
+      "On le renvoie à Jérusalem",
+      "On l’établit gouverneur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:7 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-179",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:8-9",
+    "verseText": "Voir 2 Rois 25:8-9.",
+    "question": "Qui brûle la maison de l’Éternel et la maison du roi ?",
+    "choices": [
+      "Nebuzaradan, chef des gardes",
+      "Rab-Schaké",
+      "Hazaël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:8-9 (LSG 1910)."
+  },
+  {
+    "id": "2RO-N-180",
+    "book": "2 Rois",
+    "chapter": 25,
+    "verseRef": "2 Rois 25:27",
+    "verseText": "Voir 2 Rois 25:27.",
+    "question": "Quel roi de Babylone fait grâce à Jojakin en prison, en relevant sa tête ?",
+    "choices": [
+      "Évil-Merodac",
+      "Nébucadnetsar",
+      "Darius"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 2 Rois 25:27 (LSG 1910)."
+  }
+]

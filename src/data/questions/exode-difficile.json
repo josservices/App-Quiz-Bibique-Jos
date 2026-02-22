@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "EXO-D-001",
+    "book": "Exode",
+    "chapter": 6,
+    "verseRef": "Exode 6:20",
+    "verseText": "Voir Exode 6:20.",
+    "question": "Quel est le nom de la mère d’Aaron et de Moïse, mentionnée dans la généalogie ?",
+    "choices": [
+      "Jokébed",
+      "Séphora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 6:20 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-002",
+    "book": "Exode",
+    "chapter": 7,
+    "verseRef": "Exode 7:7",
+    "verseText": "Voir Exode 7:7.",
+    "question": "Quel âge avait Moïse quand il parla à Pharaon ?",
+    "choices": [
+      "80 ans",
+      "60 ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 7:7 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-003",
+    "book": "Exode",
+    "chapter": 7,
+    "verseRef": "Exode 7:7",
+    "verseText": "Voir Exode 7:7.",
+    "question": "Quel âge avait Aaron quand il parla à Pharaon ?",
+    "choices": [
+      "83 ans",
+      "73 ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 7:7 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-004",
+    "book": "Exode",
+    "chapter": 6,
+    "verseRef": "Exode 6:21",
+    "verseText": "Voir Exode 6:21.",
+    "question": "De quelle tribu venait Koré, mentionné dans Exode ?",
+    "choices": [
+      "Lévi",
+      "Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 6:21 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-005",
+    "book": "Exode",
+    "chapter": 3,
+    "verseRef": "Exode 3:1",
+    "verseText": "Voir Exode 3:1.",
+    "question": "Quel était le nom du beau-père de Moïse dans Exode 3 ?",
+    "choices": [
+      "Jéthro",
+      "Laban"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 3:1 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-006",
+    "book": "Exode",
+    "chapter": 7,
+    "verseRef": "Exode 7:10",
+    "verseText": "Voir Exode 7:10.",
+    "question": "Selon l’ordre de Dieu, où Moïse devait-il jeter le bâton devenu serpent pour convaincre ?",
+    "choices": [
+      "Devant Pharaon (par l’action d’Aaron)",
+      "Dans le Nil directement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 7:10 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-007",
+    "book": "Exode",
+    "chapter": 8,
+    "verseRef": "Exode 8:22",
+    "verseText": "Voir Exode 8:22.",
+    "question": "Lors du fléau des mouches, quel territoire fut explicitement épargné ?",
+    "choices": [
+      "Le pays de Gosen",
+      "La région de Thèbes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 8:22 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-008",
+    "book": "Exode",
+    "chapter": 8,
+    "verseRef": "Exode 8:22",
+    "verseText": "Voir Exode 8:22.",
+    "question": "Quelle formule Dieu donne-t-il comme objectif des signes : “afin que tu saches que…” ?",
+    "choices": [
+      "“Je suis l’Éternel au milieu de ce pays”",
+      "“Je suis le roi de toute la terre”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 8:22 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-009",
+    "book": "Exode",
+    "chapter": 9,
+    "verseRef": "Exode 9:10",
+    "verseText": "Voir Exode 9:10.",
+    "question": "Quel fléau est décrit comme des “ulcères” sur l’homme et les animaux ?",
+    "choices": [
+      "Les ulcères (furoncles)",
+      "Les sauterelles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 9:10 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-010",
+    "book": "Exode",
+    "chapter": 9,
+    "verseRef": "Exode 9:24",
+    "verseText": "Voir Exode 9:24.",
+    "question": "Quand la grêle tomba, quel détail est ajouté sur le feu ?",
+    "choices": [
+      "Le feu circulait sur la terre",
+      "Le feu était mêlé à la grêle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Exode 9:24 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-011",
+    "book": "Exode",
+    "chapter": 10,
+    "verseRef": "Exode 10:9",
+    "verseText": "Voir Exode 10:9.",
+    "question": "Avant les sauterelles, Pharaon demanda : “Qui sont ceux qui iront ?” Quelle réponse Moïse donne-t-il ?",
+    "choices": [
+      "“Nous irons avec nos jeunes et nos vieux…”",
+      "“Seuls les hommes iront…”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 10:9 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-012",
+    "book": "Exode",
+    "chapter": 10,
+    "verseRef": "Exode 10:23",
+    "verseText": "Voir Exode 10:23.",
+    "question": "Lors des ténèbres, quel détail est précisé sur les Israélites ?",
+    "choices": [
+      "Ils avaient de la lumière dans leurs demeures",
+      "Ils furent aussi dans l’obscurité totale"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 10:23 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-013",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:2",
+    "verseText": "Voir Exode 12:2.",
+    "question": "Quel mois fut établi comme “le premier des mois” pour Israël ?",
+    "choices": [
+      "Le mois d’Abib",
+      "Le mois de Bul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:2 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-014",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:6",
+    "verseText": "Voir Exode 12:6.",
+    "question": "La Pâque devait être gardée jusqu’à quel jour du mois ?",
+    "choices": [
+      "Le quatorzième jour",
+      "Le dixième jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:6 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-015",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:5",
+    "verseText": "Voir Exode 12:5.",
+    "question": "Quel animal était exigé pour la Pâque (selon l’option donnée) ?",
+    "choices": [
+      "Un agneau ou un chevreau, sans défaut",
+      "Un veau, sans défaut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:5 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-016",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:46",
+    "verseText": "Voir Exode 12:46.",
+    "question": "Quelle règle interdit de briser un os de l’agneau pascal ?",
+    "choices": [
+      "Aucun os ne sera brisé",
+      "Les os doivent être brûlés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:46 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-017",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:10",
+    "verseText": "Voir Exode 12:10.",
+    "question": "Que devait-on faire du reste de l’agneau au matin ?",
+    "choices": [
+      "Le brûler au feu",
+      "Le donner aux Égyptiens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:10 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-018",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:34",
+    "verseText": "Voir Exode 12:34.",
+    "question": "À la sortie, que firent les Israélites avec la pâte avant qu’elle lève ?",
+    "choices": [
+      "Ils emportèrent la pâte non levée, les maies sur les épaules",
+      "Ils la laissèrent en Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:34 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-019",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:33",
+    "verseText": "Voir Exode 12:33.",
+    "question": "Quel mot décrit l’expulsion pressante des Égyptiens ?",
+    "choices": [
+      "Ils les pressaient de partir",
+      "Ils les invitèrent calmement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:33 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-020",
+    "book": "Exode",
+    "chapter": 13,
+    "verseRef": "Exode 13:17",
+    "verseText": "Voir Exode 13:17.",
+    "question": "Quel peuple Dieu mentionne-t-il comme raison d’éviter un chemin ?",
+    "choices": [
+      "Les Philistins",
+      "Les Amoréens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 13:17 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-021",
+    "book": "Exode",
+    "chapter": 14,
+    "verseRef": "Exode 14:2",
+    "verseText": "Voir Exode 14:2.",
+    "question": "Quel lieu est cité pour le campement près de la mer, avant l’ouverture ?",
+    "choices": [
+      "Pi-Hahiroth, entre Migdol et la mer, vis-à-vis de Baal-Tsephon",
+      "Jéricho, vis-à-vis du Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 14:2 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-022",
+    "book": "Exode",
+    "chapter": 14,
+    "verseRef": "Exode 14:22",
+    "verseText": "Voir Exode 14:22.",
+    "question": "Dans la mer, que devinrent les eaux pour Israël ?",
+    "choices": [
+      "Un mur à droite et à gauche",
+      "Une pluie qui tombait du ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 14:22 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-023",
+    "book": "Exode",
+    "chapter": 15,
+    "verseRef": "Exode 15:20",
+    "verseText": "Voir Exode 15:20.",
+    "question": "Quel instrument Myriam prit-elle en main en entraînant les femmes ?",
+    "choices": [
+      "Un tambourin",
+      "Une harpe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 15:20 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-024",
+    "book": "Exode",
+    "chapter": 15,
+    "verseRef": "Exode 15:26",
+    "verseText": "Voir Exode 15:26.",
+    "question": "Quel nom est donné à l’Éternel après la guérison promise ?",
+    "choices": [
+      "“Je suis l’Éternel qui te guérit”",
+      "“Je suis l’Éternel qui te condamne”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 15:26 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-025",
+    "book": "Exode",
+    "chapter": 16,
+    "verseRef": "Exode 16:26",
+    "verseText": "Voir Exode 16:26.",
+    "question": "Quel jour la manne ne devait-elle pas être ramassée ?",
+    "choices": [
+      "Le septième jour",
+      "Le deuxième jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 16:26 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-026",
+    "book": "Exode",
+    "chapter": 16,
+    "verseRef": "Exode 16:31",
+    "verseText": "Voir Exode 16:31.",
+    "question": "Quel est le goût comparé de la manne dans Exode ?",
+    "choices": [
+      "Comme des gâteaux au miel",
+      "Comme du raisin sec"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 16:31 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-027",
+    "book": "Exode",
+    "chapter": 17,
+    "verseRef": "Exode 17:15",
+    "verseText": "Voir Exode 17:15.",
+    "question": "Quel nom Moïse donna-t-il à l’endroit de la bataille contre Amalek (autel) ?",
+    "choices": [
+      "“L’Éternel ma bannière”",
+      "“L’Éternel mon juge”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 17:15 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-028",
+    "book": "Exode",
+    "chapter": 19,
+    "verseRef": "Exode 19:8",
+    "verseText": "Voir Exode 19:8.",
+    "question": "Avant les dix paroles, quel engagement le peuple répète-t-il ?",
+    "choices": [
+      "“Nous ferons tout ce que l’Éternel a dit”",
+      "“Nous choisirons ce qui nous plaît”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 19:8 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-029",
+    "book": "Exode",
+    "chapter": 20,
+    "verseRef": "Exode 20:3",
+    "verseText": "Voir Exode 20:3.",
+    "question": "Quel est le premier commandement tel qu’introduit dans Exode 20 ?",
+    "choices": [
+      "“Tu n’auras pas d’autres dieux devant ma face”",
+      "“Tu aimeras ton prochain comme toi-même”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 20:3 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-030",
+    "book": "Exode",
+    "chapter": 20,
+    "verseRef": "Exode 20:25",
+    "verseText": "Voir Exode 20:25.",
+    "question": "Quel élément est interdit dans l’autel à construire, selon Exode 20 ?",
+    "choices": [
+      "Des pierres taillées avec le fer",
+      "Des pierres non taillées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 20:25 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-031",
+    "book": "Exode",
+    "chapter": 21,
+    "verseRef": "Exode 21:6",
+    "verseText": "Voir Exode 21:6.",
+    "question": "Selon Exode 21, quel signe marque l’esclave qui choisit de rester ?",
+    "choices": [
+      "On lui perce l’oreille contre la porte",
+      "On lui marque le front au charbon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 21:6 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-032",
+    "book": "Exode",
+    "chapter": 24,
+    "verseRef": "Exode 24:8",
+    "verseText": "Voir Exode 24:8.",
+    "question": "Dans Exode 24, avec quoi Moïse aspergea-t-il le peuple ?",
+    "choices": [
+      "Le sang de l’alliance",
+      "De l’huile d’onction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 24:8 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-033",
+    "book": "Exode",
+    "chapter": 24,
+    "verseRef": "Exode 24:18",
+    "verseText": "Voir Exode 24:18.",
+    "question": "Où Moïse demeura-t-il quarante jours et quarante nuits ?",
+    "choices": [
+      "Sur la montagne",
+      "Dans les plaines d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 24:18 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-034",
+    "book": "Exode",
+    "chapter": 25,
+    "verseRef": "Exode 25:10",
+    "verseText": "Voir Exode 25:10.",
+    "question": "De quelle matière principale devait être faite l’arche ?",
+    "choices": [
+      "Bois d’acacia",
+      "Bois de cèdre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 25:10 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-035",
+    "book": "Exode",
+    "chapter": 25,
+    "verseRef": "Exode 25:17-20",
+    "verseText": "Voir Exode 25:17-20.",
+    "question": "Quel objet est appelé “propitiatoire” ?",
+    "choices": [
+      "Le couvercle sur l’arche, surmonté de chérubins",
+      "La cuve d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 25:17-20 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-036",
+    "book": "Exode",
+    "chapter": 26,
+    "verseRef": "Exode 26:31",
+    "verseText": "Voir Exode 26:31.",
+    "question": "Quel tissu domine dans la description du voile du sanctuaire ?",
+    "choices": [
+      "Bleu, pourpre, cramoisi et fin lin retors",
+      "Laine noire uniquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 26:31 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-037",
+    "book": "Exode",
+    "chapter": 30,
+    "verseRef": "Exode 30:37-38",
+    "verseText": "Voir Exode 30:37-38.",
+    "question": "Quel parfum est interdit d’usage personnel sous peine d’exclusion ?",
+    "choices": [
+      "Le parfum de composition sainte",
+      "Le parfum ordinaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 30:37-38 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-038",
+    "book": "Exode",
+    "chapter": 30,
+    "verseRef": "Exode 30:18",
+    "verseText": "Voir Exode 30:18.",
+    "question": "Quel objet devait être placé entre la tente d’assignation et l’autel ?",
+    "choices": [
+      "La cuve d’airain",
+      "Le chandelier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 30:18 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-039",
+    "book": "Exode",
+    "chapter": 31,
+    "verseRef": "Exode 31:17",
+    "verseText": "Voir Exode 31:17.",
+    "question": "Quel signe du sabbat est donné comme alliance perpétuelle ?",
+    "choices": [
+      "“C’est un signe entre moi et les enfants d’Israël”",
+      "“C’est un signe entre moi et les Égyptiens”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 31:17 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-040",
+    "book": "Exode",
+    "chapter": 32,
+    "verseRef": "Exode 32:1",
+    "verseText": "Voir Exode 32:1.",
+    "question": "Quel événement déclenche la demande du peuple : “Fais-nous un dieu…” ?",
+    "choices": [
+      "Moïse tarda à descendre",
+      "Aaron refusa de parler"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 32:1 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-041",
+    "book": "Exode",
+    "chapter": 32,
+    "verseRef": "Exode 32:4",
+    "verseText": "Voir Exode 32:4.",
+    "question": "Après l’idole, quel cri du peuple accompagne la fête ?",
+    "choices": [
+      "“Voici ton dieu, Israël, qui t’a fait sortir d’Égypte !”",
+      "“Nous irons à Ninive !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 32:4 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-042",
+    "book": "Exode",
+    "chapter": 33,
+    "verseRef": "Exode 33:3",
+    "verseText": "Voir Exode 33:3.",
+    "question": "Dans Exode 33, comment Dieu décrit-il Israël ?",
+    "choices": [
+      "“Un peuple au cou raide”",
+      "“Un peuple sans péché”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 33:3 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-043",
+    "book": "Exode",
+    "chapter": 33,
+    "verseRef": "Exode 33:11",
+    "verseText": "Voir Exode 33:11.",
+    "question": "Quel détail est dit sur la façon dont Dieu parlait à Moïse ?",
+    "choices": [
+      "Face à face, comme un homme parle à son ami",
+      "Par lettres gravées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 33:11 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-044",
+    "book": "Exode",
+    "chapter": 34,
+    "verseRef": "Exode 34:6-7",
+    "verseText": "Voir Exode 34:6-7.",
+    "question": "Quel nom est proclamé quand Dieu passe devant Moïse ?",
+    "choices": [
+      "“L’Éternel, l’Éternel, Dieu miséricordieux et compatissant…”",
+      "“Baal, maître des cieux…”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 34:6-7 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-045",
+    "book": "Exode",
+    "chapter": 34,
+    "verseRef": "Exode 34:17",
+    "verseText": "Voir Exode 34:17.",
+    "question": "Quel interdit est répété lors du renouvellement : concernant la fabrication ?",
+    "choices": [
+      "Ne pas se faire des dieux de métal",
+      "Ne pas bâtir de maisons en pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 34:17 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-046",
+    "book": "Exode",
+    "chapter": 34,
+    "verseRef": "Exode 34:26",
+    "verseText": "Voir Exode 34:26.",
+    "question": "Quel animal est cité pour l’interdit de cuire dans le lait ?",
+    "choices": [
+      "Le chevreau",
+      "L’agneau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 34:26 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-047",
+    "book": "Exode",
+    "chapter": 34,
+    "verseRef": "Exode 34:29",
+    "verseText": "Voir Exode 34:29.",
+    "question": "Que constate-t-on sur le visage de Moïse quand il descend ?",
+    "choices": [
+      "La peau de son visage rayonnait",
+      "Son visage était couvert de cendre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 34:29 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-048",
+    "book": "Exode",
+    "chapter": 26,
+    "verseRef": "Exode 26:19 ; 38:27",
+    "verseText": "Voir Exode 26:19 ; 38:27.",
+    "question": "Quel matériau est mentionné pour les bases du tabernacle (ex : les socles) ?",
+    "choices": [
+      "Argent",
+      "Bois brut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 26:19 ; 38:27 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-049",
+    "book": "Exode",
+    "chapter": 16,
+    "verseRef": "Exode 16:33",
+    "verseText": "Voir Exode 16:33.",
+    "question": "Quel élément fut exigé pour l’urne de manne “devant l’Éternel” ?",
+    "choices": [
+      "Un omer de manne",
+      "Un hin d’huile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 16:33 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-050",
+    "book": "Exode",
+    "chapter": 28,
+    "verseRef": "Exode 28:17-20",
+    "verseText": "Voir Exode 28:17-20.",
+    "question": "Quelle pierre précieuse est explicitement mentionnée parmi celles du pectoral ?",
+    "choices": [
+      "Sardoine (et autres)",
+      "Turquoise moderne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 28:17-20 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-051",
+    "book": "Exode",
+    "chapter": 28,
+    "verseRef": "Exode 28:36",
+    "verseText": "Voir Exode 28:36.",
+    "question": "Quelle inscription devait être gravée “comme on grave un cachet” ?",
+    "choices": [
+      "“Sainteté à l’Éternel”",
+      "“Force et honneur”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 28:36 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-052",
+    "book": "Exode",
+    "chapter": 29,
+    "verseRef": "Exode 29:1-9",
+    "verseText": "Voir Exode 29:1-9.",
+    "question": "Quel rite décrit Exode 29 pour consacrer Aaron et ses fils ?",
+    "choices": [
+      "Onction + sacrifices (taureau/béliers)",
+      "Simple prière sans offrande"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 29:1-9 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-053",
+    "book": "Exode",
+    "chapter": 29,
+    "verseRef": "Exode 29:38-39",
+    "verseText": "Voir Exode 29:38-39.",
+    "question": "Combien de fois par jour devait-on offrir l’holocauste continuel ?",
+    "choices": [
+      "Deux fois (matin et soir)",
+      "Une fois par semaine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 29:38-39 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-054",
+    "book": "Exode",
+    "chapter": 30,
+    "verseRef": "Exode 30:1-3",
+    "verseText": "Voir Exode 30:1-3.",
+    "question": "Quel métal recouvrait l’autel des parfums ?",
+    "choices": [
+      "Or pur",
+      "Fer noir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 30:1-3 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-055",
+    "book": "Exode",
+    "chapter": 30,
+    "verseRef": "Exode 30:32-33",
+    "verseText": "Voir Exode 30:32-33.",
+    "question": "Quel acte est interdit concernant l’huile d’onction sainte ?",
+    "choices": [
+      "La reproduire pour usage profane",
+      "L’utiliser pour le tabernacle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 30:32-33 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-056",
+    "book": "Exode",
+    "chapter": 24,
+    "verseRef": "Exode 24:16",
+    "verseText": "Voir Exode 24:16.",
+    "question": "Quel jour Dieu appela Moïse du milieu de la nuée sur la montagne ?",
+    "choices": [
+      "Le septième jour",
+      "Le premier jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 24:16 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-057",
+    "book": "Exode",
+    "chapter": 40,
+    "verseRef": "Exode 40:34",
+    "verseText": "Voir Exode 40:34.",
+    "question": "Quel objet marque la présence divine à la fin du livre ?",
+    "choices": [
+      "La nuée couvrant la tente d’assignation",
+      "Une couronne sur Moïse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 40:34 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-058",
+    "book": "Exode",
+    "chapter": 40,
+    "verseRef": "Exode 40:35",
+    "verseText": "Voir Exode 40:35.",
+    "question": "Qu’arrive-t-il à Moïse quand la gloire remplit le tabernacle ?",
+    "choices": [
+      "Il ne peut pas entrer dans la tente d’assignation",
+      "Il s’assoit sur l’arche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 40:35 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-059",
+    "book": "Exode",
+    "chapter": 40,
+    "verseRef": "Exode 40:36-37",
+    "verseText": "Voir Exode 40:36-37.",
+    "question": "À quel rythme la nuée déterminait-elle les déplacements d’Israël ?",
+    "choices": [
+      "Quand elle s’élevait, ils partaient ; quand elle s’arrêtait, ils campaient",
+      "Ils partaient chaque matin quoi qu’il arrive"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 40:36-37 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-060",
+    "book": "Exode",
+    "chapter": 40,
+    "verseRef": "Exode 40:38",
+    "verseText": "Voir Exode 40:38.",
+    "question": "Quelle manifestation accompagnait la nuée la nuit, selon la conclusion d’Exode ?",
+    "choices": [
+      "Un feu visible",
+      "Une pluie de pierres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 40:38 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-061",
+    "book": "Exode",
+    "chapter": 1,
+    "verseRef": "Exode 1:20-21",
+    "verseText": "Voir Exode 1:20-21.",
+    "question": "Quel détail est précisé sur la crainte de Dieu des sages-femmes ?",
+    "choices": [
+      "Dieu leur fit du bien",
+      "Dieu les chassa d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 1:20-21 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-062",
+    "book": "Exode",
+    "chapter": 2,
+    "verseRef": "Exode 2:14",
+    "verseText": "Voir Exode 2:14.",
+    "question": "Après le meurtre de l’Égyptien, quelle phrase Moïse entend-il qui le fait craindre ?",
+    "choices": [
+      "“Certainement la chose est connue”",
+      "“Tu seras roi sur nous”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 2:14 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-063",
+    "book": "Exode",
+    "chapter": 2,
+    "verseRef": "Exode 2:17",
+    "verseText": "Voir Exode 2:17.",
+    "question": "Quand Moïse sauve les filles de Jéthro, contre qui les défend-il ?",
+    "choices": [
+      "Contre des bergers qui les repoussaient",
+      "Contre des soldats de Pharaon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 2:17 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-064",
+    "book": "Exode",
+    "chapter": 3,
+    "verseRef": "Exode 3:6",
+    "verseText": "Voir Exode 3:6.",
+    "question": "Quel est le premier nom du Dieu d’Israël rappelé par Dieu à Moïse ?",
+    "choices": [
+      "Le Dieu d’Abraham, d’Isaac et de Jacob",
+      "Le Dieu de Salomon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 3:6 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-065",
+    "book": "Exode",
+    "chapter": 3,
+    "verseRef": "Exode 3:12",
+    "verseText": "Voir Exode 3:12.",
+    "question": "Quelle promesse est liée au signe de la délivrance : “vous servirez Dieu…” ?",
+    "choices": [
+      "Sur cette montagne",
+      "Dans les palais d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 3:12 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-066",
+    "book": "Exode",
+    "chapter": 4,
+    "verseRef": "Exode 4:10",
+    "verseText": "Voir Exode 4:10.",
+    "question": "Quelle objection Moïse présente : “Je ne suis pas…” ?",
+    "choices": [
+      "Éloquent, j’ai la bouche et la langue embarrassées",
+      "Capable de combattre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 4:10 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-067",
+    "book": "Exode",
+    "chapter": 4,
+    "verseRef": "Exode 4:19",
+    "verseText": "Voir Exode 4:19.",
+    "question": "Quel ordre Dieu donne-t-il à Moïse avant de retourner en Égypte au sujet des ennemis ?",
+    "choices": [
+      "“Tous ceux qui en voulaient à ta vie sont morts”",
+      "“Pharaon t’attend avec bienveillance”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 4:19 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-068",
+    "book": "Exode",
+    "chapter": 5,
+    "verseRef": "Exode 5:17",
+    "verseText": "Voir Exode 5:17.",
+    "question": "Dans Exode 5, comment Pharaon justifie-t-il sa dureté : “Vous êtes…” ?",
+    "choices": [
+      "Oisifs, oisifs",
+      "Malades, malades"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 5:17 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-069",
+    "book": "Exode",
+    "chapter": 6,
+    "verseRef": "Exode 6:6",
+    "verseText": "Voir Exode 6:6.",
+    "question": "Dans Exode 6, que dit Dieu : “Je vous affranchirai…” ?",
+    "choices": [
+      "À bras étendu et par de grands jugements",
+      "Par un pacte avec Pharaon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 6:6 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-070",
+    "book": "Exode",
+    "chapter": 7,
+    "verseRef": "Exode 7:24",
+    "verseText": "Voir Exode 7:24.",
+    "question": "Après le sang, que firent les Égyptiens pour avoir de l’eau ?",
+    "choices": [
+      "Ils creusèrent aux environs du fleuve",
+      "Ils prièrent Moïse de frapper encore"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 7:24 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-071",
+    "book": "Exode",
+    "chapter": 8,
+    "verseRef": "Exode 8:3",
+    "verseText": "Voir Exode 8:3.",
+    "question": "Dans le fléau des grenouilles, quel endroit est cité parmi les lieux envahis ?",
+    "choices": [
+      "Les chambres à coucher et les lits",
+      "Les temples seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 8:3 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-072",
+    "book": "Exode",
+    "chapter": 8,
+    "verseRef": "Exode 8:8",
+    "verseText": "Voir Exode 8:8.",
+    "question": "Lors des grenouilles, que demande Pharaon à Moïse ?",
+    "choices": [
+      "“Intercède… et je laisserai aller le peuple”",
+      "“Donne-moi de l’or”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 8:8 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-073",
+    "book": "Exode",
+    "chapter": 8,
+    "verseRef": "Exode 8:13-14",
+    "verseText": "Voir Exode 8:13-14.",
+    "question": "Après l’intercession, que deviennent les grenouilles ?",
+    "choices": [
+      "Elles meurent et on les amasse en tas",
+      "Elles se changent en poissons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 8:13-14 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-074",
+    "book": "Exode",
+    "chapter": 8,
+    "verseRef": "Exode 8:23",
+    "verseText": "Voir Exode 8:23.",
+    "question": "Pour le fléau des mouches, quelle précision sur la séparation est donnée ?",
+    "choices": [
+      "Dieu mettra une distinction entre son peuple et le peuple égyptien",
+      "Dieu frappera tout le pays sans exception"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 8:23 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-075",
+    "book": "Exode",
+    "chapter": 9,
+    "verseRef": "Exode 9:7",
+    "verseText": "Voir Exode 9:7.",
+    "question": "Quel signe d’obstination est noté après la peste sur le bétail ?",
+    "choices": [
+      "Pharaon endurcit son cœur",
+      "Pharaon se repentit durablement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 9:7 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-076",
+    "book": "Exode",
+    "chapter": 9,
+    "verseRef": "Exode 9:11",
+    "verseText": "Voir Exode 9:11.",
+    "question": "Lors des ulcères, quel détail touche les magiciens ?",
+    "choices": [
+      "Ils ne peuvent se présenter devant Moïse",
+      "Ils deviennent rois d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 9:11 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-077",
+    "book": "Exode",
+    "chapter": 9,
+    "verseRef": "Exode 9:14",
+    "verseText": "Voir Exode 9:14.",
+    "question": "Avant la grêle, quel but Dieu exprime-t-il : “afin que tu saches que…” ?",
+    "choices": [
+      "“Il n’y en a point comme moi sur toute la terre”",
+      "“L’Égypte est éternelle”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 9:14 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-078",
+    "book": "Exode",
+    "chapter": 10,
+    "verseRef": "Exode 10:15",
+    "verseText": "Voir Exode 10:15.",
+    "question": "Dans Exode 10, quel mot décrit l’ampleur des sauterelles ?",
+    "choices": [
+      "Elles couvrirent la surface de tout le pays",
+      "Elles restèrent dans un seul jardin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 10:15 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-079",
+    "book": "Exode",
+    "chapter": 10,
+    "verseRef": "Exode 10:28",
+    "verseText": "Voir Exode 10:28.",
+    "question": "Après les ténèbres, quelle menace Pharaon profère-t-il à Moïse ?",
+    "choices": [
+      "“Tu mourras le jour où tu verras ma face”",
+      "“Tu seras mon conseiller”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 10:28 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-080",
+    "book": "Exode",
+    "chapter": 11,
+    "verseRef": "Exode 11:4",
+    "verseText": "Voir Exode 11:4.",
+    "question": "Quel avertissement Moïse annonce-t-il : “vers minuit…” ?",
+    "choices": [
+      "L’Éternel sortira au milieu de l’Égypte",
+      "L’Éternel quittera Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 11:4 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-081",
+    "book": "Exode",
+    "chapter": 11,
+    "verseRef": "Exode 11:3",
+    "verseText": "Voir Exode 11:3.",
+    "question": "Quel détail est donné sur Moïse dans Exode 11 ?",
+    "choices": [
+      "Il était très considéré au pays d’Égypte",
+      "Il était inconnu de tous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 11:3 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-082",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:22",
+    "verseText": "Voir Exode 12:22.",
+    "question": "Pendant la nuit de la Pâque, quel ordre concerne la sortie des maisons ?",
+    "choices": [
+      "Nul ne sortira de la porte de sa maison jusqu’au matin",
+      "Tous doivent courir dehors immédiatement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:22 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-083",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:30",
+    "verseText": "Voir Exode 12:30.",
+    "question": "Quelle expression décrit la réaction de Pharaon après la mort des premiers-nés ?",
+    "choices": [
+      "Il se leva de nuit",
+      "Il dormit profondément"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:30 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-084",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:30",
+    "verseText": "Voir Exode 12:30.",
+    "question": "Quel cri est mentionné en Égypte cette nuit-là ?",
+    "choices": [
+      "“Un grand cri”",
+      "“Une joie immense”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:30 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-085",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:48",
+    "verseText": "Voir Exode 12:48.",
+    "question": "Quelle instruction est donnée au sujet de l’étranger (incirconcis) ?",
+    "choices": [
+      "Aucun incirconcis n’en mangera",
+      "Tout étranger en mangera librement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:48 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-086",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:35",
+    "verseText": "Voir Exode 12:35.",
+    "question": "Quel objet les Israélites demandèrent-ils aux Égyptiens en sortant ?",
+    "choices": [
+      "Des objets d’argent, d’or et des vêtements",
+      "Des chevaux et des chars"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:35 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-087",
+    "book": "Exode",
+    "chapter": 13,
+    "verseRef": "Exode 13:18",
+    "verseText": "Voir Exode 13:18.",
+    "question": "Selon Exode 13, que fait l’Éternel pour “ne pas conduire par le chemin…” ?",
+    "choices": [
+      "Il fait faire au peuple un détour par le désert",
+      "Il le renvoie en Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 13:18 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-088",
+    "book": "Exode",
+    "chapter": 13,
+    "verseRef": "Exode 13:19",
+    "verseText": "Voir Exode 13:19.",
+    "question": "Quel détail est dit du coffre de Joseph ?",
+    "choices": [
+      "Moïse prit avec lui les os de Joseph",
+      "Aaron les enterra en Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 13:19 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-089",
+    "book": "Exode",
+    "chapter": 14,
+    "verseRef": "Exode 14:26",
+    "verseText": "Voir Exode 14:26.",
+    "question": "Dans la mer, quel ordre Moïse reçoit-il pour que les eaux reviennent ?",
+    "choices": [
+      "“Étends ta main sur la mer”",
+      "“Frappe la mer avec une pierre”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 14:26 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-090",
+    "book": "Exode",
+    "chapter": 14,
+    "verseRef": "Exode 14:31",
+    "verseText": "Voir Exode 14:31.",
+    "question": "Que dit le peuple après la délivrance : “Ils crurent…” ?",
+    "choices": [
+      "À l’Éternel et à Moïse, son serviteur",
+      "À Pharaon et à ses magiciens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 14:31 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-091",
+    "book": "Exode",
+    "chapter": 15,
+    "verseRef": "Exode 15:3",
+    "verseText": "Voir Exode 15:3.",
+    "question": "Dans le cantique, comment l’Éternel est-il décrit en lien avec la guerre ?",
+    "choices": [
+      "“L’Éternel est un vaillant guerrier”",
+      "“L’Éternel ne combat jamais”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 15:3 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-092",
+    "book": "Exode",
+    "chapter": 15,
+    "verseRef": "Exode 15:25",
+    "verseText": "Voir Exode 15:25.",
+    "question": "À Mara, quel test Dieu donne-t-il au peuple avec les statuts ?",
+    "choices": [
+      "Il les mit à l’épreuve",
+      "Il les couronna rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 15:25 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-093",
+    "book": "Exode",
+    "chapter": 16,
+    "verseRef": "Exode 16:4",
+    "verseText": "Voir Exode 16:4.",
+    "question": "En Exode 16, quel but Dieu annonce-t-il pour la manne ?",
+    "choices": [
+      "“Afin que je l’éprouve”",
+      "“Afin qu’il oublie l’Éternel”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 16:4 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-094",
+    "book": "Exode",
+    "chapter": 16,
+    "verseRef": "Exode 16:27",
+    "verseText": "Voir Exode 16:27.",
+    "question": "Quel jour certains sortirent-ils pour ramasser, mais ne trouvèrent rien ?",
+    "choices": [
+      "Le septième jour",
+      "Le cinquième jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 16:27 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-095",
+    "book": "Exode",
+    "chapter": 16,
+    "verseRef": "Exode 16:28",
+    "verseText": "Voir Exode 16:28.",
+    "question": "Comment Dieu qualifie-t-il l’attitude du peuple au sujet de ses commandements ?",
+    "choices": [
+      "“Jusqu’à quand refuserez-vous…”",
+      "“Vous avez toujours obéi”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 16:28 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-096",
+    "book": "Exode",
+    "chapter": 17,
+    "verseRef": "Exode 17:6",
+    "verseText": "Voir Exode 17:6.",
+    "question": "À Rephidim, où Moïse doit-il frapper pour l’eau ?",
+    "choices": [
+      "Le rocher à Horeb (selon l’ordre : “Voici, je me tiendrai devant toi…”)",
+      "Le sable du désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 17:6 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-097",
+    "book": "Exode",
+    "chapter": 17,
+    "verseRef": "Exode 17:11",
+    "verseText": "Voir Exode 17:11.",
+    "question": "Lors du combat Amalek, quel détail sur la posture de Moïse est décisif ?",
+    "choices": [
+      "Quand il levait la main, Israël était le plus fort",
+      "Quand il dormait, Israël gagnait"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 17:11 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-098",
+    "book": "Exode",
+    "chapter": 18,
+    "verseRef": "Exode 18:18",
+    "verseText": "Voir Exode 18:18.",
+    "question": "Quel principe Jéthro énonce sur la charge de Moïse ?",
+    "choices": [
+      "“La chose est au-dessus de tes forces”",
+      "“Tu dois tout porter seul”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 18:18 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-099",
+    "book": "Exode",
+    "chapter": 19,
+    "verseRef": "Exode 19:5-6",
+    "verseText": "Voir Exode 19:5-6.",
+    "question": "À Sinaï, quel statut Dieu propose à Israël s’il écoute sa voix ?",
+    "choices": [
+      "“Une propriété particulière… un royaume de sacrificateurs et une nation sainte”",
+      "“Une nation comme l’Égypte”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 19:5-6 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-100",
+    "book": "Exode",
+    "chapter": 19,
+    "verseRef": "Exode 19:12-13",
+    "verseText": "Voir Exode 19:12-13.",
+    "question": "Quel ordre est donné pour empêcher le peuple de “forcer la main” vers l’Éternel ?",
+    "choices": [
+      "Ne pas franchir les limites autour de la montagne",
+      "Monter tous au sommet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 19:12-13 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-101",
+    "book": "Exode",
+    "chapter": 20,
+    "verseRef": "Exode 20:19",
+    "verseText": "Voir Exode 20:19.",
+    "question": "Après la proclamation, quel rôle le peuple demande-t-il à Moïse ?",
+    "choices": [
+      "“Parle-nous toi-même… mais que Dieu ne nous parle point”",
+      "“Que Dieu nous parle directement chaque jour”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 20:19 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-102",
+    "book": "Exode",
+    "chapter": 23,
+    "verseRef": "Exode 23:18",
+    "verseText": "Voir Exode 23:18.",
+    "question": "Quel sacrifice est mentionné avec l’interdiction du levain ?",
+    "choices": [
+      "“Tu n’offriras point avec du pain levé le sang…”",
+      "“Tu offriras toujours avec du miel”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 23:18 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-103",
+    "book": "Exode",
+    "chapter": 22,
+    "verseRef": "Exode 22:18",
+    "verseText": "Voir Exode 22:18.",
+    "question": "Dans Exode 22, quel jugement concerne la sorcière ?",
+    "choices": [
+      "“Tu ne laisseras point vivre la magicienne”",
+      "“Tu la couronneras”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 22:18 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-104",
+    "book": "Exode",
+    "chapter": 22,
+    "verseRef": "Exode 22:21",
+    "verseText": "Voir Exode 22:21.",
+    "question": "Quelle règle concerne l’oppression de l’étranger ?",
+    "choices": [
+      "“Vous ne maltraiterez point l’étranger…”",
+      "“Vous pillerez l’étranger…”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 22:21 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-105",
+    "book": "Exode",
+    "chapter": 22,
+    "verseRef": "Exode 22:22-24",
+    "verseText": "Voir Exode 22:22-24.",
+    "question": "Quel avertissement divin est donné si l’on afflige la veuve et l’orphelin ?",
+    "choices": [
+      "“Ma colère s’enflammera”",
+      "“Je ne vois rien”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 22:22-24 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-106",
+    "book": "Exode",
+    "chapter": 23,
+    "verseRef": "Exode 23:5",
+    "verseText": "Voir Exode 23:5.",
+    "question": "Quelle directive est donnée concernant un âne ennemi chargé ?",
+    "choices": [
+      "“Tu l’aideras à le décharger”",
+      "“Tu l’abandonneras”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 23:5 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-107",
+    "book": "Exode",
+    "chapter": 24,
+    "verseRef": "Exode 24:10",
+    "verseText": "Voir Exode 24:10.",
+    "question": "Dans Exode 24, quelle description est donnée sous les pieds du Dieu d’Israël ?",
+    "choices": [
+      "Comme un ouvrage de saphir transparent",
+      "Comme de la boue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 24:10 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-108",
+    "book": "Exode",
+    "chapter": 24,
+    "verseRef": "Exode 24:8",
+    "verseText": "Voir Exode 24:8.",
+    "question": "Quel acte scelle l’alliance quand Moïse prend le sang ?",
+    "choices": [
+      "Il asperge le peuple",
+      "Il l’enterre dans le sable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 24:8 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-109",
+    "book": "Exode",
+    "chapter": 26,
+    "verseRef": "Exode 26:29",
+    "verseText": "Voir Exode 26:29.",
+    "question": "Quel matériau recouvrait les planches du tabernacle ?",
+    "choices": [
+      "Or",
+      "Cuivre seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 26:29 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-110",
+    "book": "Exode",
+    "chapter": 25,
+    "verseRef": "Exode 25:30 (avec l’idée de “pains” en contexte sacerdotal)",
+    "verseText": "Voir Exode 25:30 (avec l’idée de “pains” en contexte sacerdotal).",
+    "question": "Combien de pains de proposition devaient être disposés sur la table ?",
+    "choices": [
+      "Douze",
+      "Sept"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 25:30 (avec l’idée de “pains” en contexte sacerdotal) (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-111",
+    "book": "Exode",
+    "chapter": 27,
+    "verseRef": "Exode 27:20-21 (huile et lumière continuelle ; et service perpétuel)",
+    "verseText": "Voir Exode 27:20-21 (huile et lumière continuelle ; et service perpétuel).",
+    "question": "Quelle obligation est liée au feu sur l’autel (tabernacle) ?",
+    "choices": [
+      "“Le feu y brûlera continuellement”",
+      "“Le feu s’éteindra chaque nuit”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 27:20-21 (huile et lumière continuelle ; et service perpétuel) (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-112",
+    "book": "Exode",
+    "chapter": 27,
+    "verseRef": "Exode 27:20",
+    "verseText": "Voir Exode 27:20.",
+    "question": "Que devait produire l’huile pour le chandelier ?",
+    "choices": [
+      "Faire brûler les lampes continuellement",
+      "Faire fondre l’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 27:20 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-113",
+    "book": "Exode",
+    "chapter": 28,
+    "verseRef": "Exode 28:9-12",
+    "verseText": "Voir Exode 28:9-12.",
+    "question": "Quel est le nom des deux pierres sur les épaules de l’éphod ?",
+    "choices": [
+      "Pierres d’onyx",
+      "Pierres de granit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 28:9-12 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-114",
+    "book": "Exode",
+    "chapter": 28,
+    "verseRef": "Exode 28:15",
+    "verseText": "Voir Exode 28:15.",
+    "question": "Quelle fonction est donnée au pectoral : “Le pectoral du…” ?",
+    "choices": [
+      "Jugement",
+      "Châtiment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 28:15 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-115",
+    "book": "Exode",
+    "chapter": 28,
+    "verseRef": "Exode 28:30",
+    "verseText": "Voir Exode 28:30.",
+    "question": "Quel objet devait contenir “l’Urim et le Thummim” ?",
+    "choices": [
+      "Le pectoral du jugement",
+      "La cuve d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 28:30 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-116",
+    "book": "Exode",
+    "chapter": 28,
+    "verseRef": "Exode 28:33-35",
+    "verseText": "Voir Exode 28:33-35.",
+    "question": "Quel son devait se faire entendre quand Aaron entrait au sanctuaire ?",
+    "choices": [
+      "Le son des clochettes à la bordure de la robe",
+      "Le son d’une trompette d’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 28:33-35 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-117",
+    "book": "Exode",
+    "chapter": 32,
+    "verseRef": "Exode 32:35",
+    "verseText": "Voir Exode 32:35.",
+    "question": "Après le veau d’or, quel jugement immédiat frappa le peuple (en plus de l’épée) ?",
+    "choices": [
+      "L’Éternel frappa le peuple d’une plaie",
+      "L’Éternel donna du miel en abondance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 32:35 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-118",
+    "book": "Exode",
+    "chapter": 33,
+    "verseRef": "Exode 33:4-6",
+    "verseText": "Voir Exode 33:4-6.",
+    "question": "Dans Exode 33, quel geste du peuple est mentionné après la parole sévère de Dieu ?",
+    "choices": [
+      "Ils menèrent deuil et ôtèrent leurs ornements",
+      "Ils se mirent à festoyer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 33:4-6 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-119",
+    "book": "Exode",
+    "chapter": 33,
+    "verseRef": "Exode 33:9",
+    "verseText": "Voir Exode 33:9.",
+    "question": "Comment la nuée se comportait-elle quand Moïse entrait dans la tente hors du camp ?",
+    "choices": [
+      "La colonne de nuée descendait et se tenait à l’entrée",
+      "La nuée disparaissait pour toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 33:9 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-120",
+    "book": "Exode",
+    "chapter": 34,
+    "verseRef": "Exode 34:1",
+    "verseText": "Voir Exode 34:1.",
+    "question": "Dans Exode 34, quelle règle concerne les tables ?",
+    "choices": [
+      "Moïse taille deux tables de pierre comme les premières",
+      "Dieu donne des tables en or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 34:1 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-121",
+    "book": "Exode",
+    "chapter": 2,
+    "verseRef": "Exode 2:10",
+    "verseText": "Voir Exode 2:10.",
+    "question": "Quel est le motif donné pour le nom “Moïse” ?",
+    "choices": [
+      "« Je l’ai tiré des eaux »",
+      "« Je l’ai trouvé dans le désert »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 2:10 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-122",
+    "book": "Exode",
+    "chapter": 2,
+    "verseRef": "Exode 2:15",
+    "verseText": "Voir Exode 2:15.",
+    "question": "Quand Moïse fuit en Madian, où s’assied-il en arrivant ?",
+    "choices": [
+      "Près d’un puits",
+      "Sur une montagne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 2:15 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-123",
+    "book": "Exode",
+    "chapter": 3,
+    "verseRef": "Exode 3:5",
+    "verseText": "Voir Exode 3:5.",
+    "question": "Dans l’appel, comment Dieu identifie-t-il le lieu où se tient Moïse ?",
+    "choices": [
+      "« Le lieu où tu te tiens est une terre sainte »",
+      "« Le lieu où tu te tiens est maudit »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 3:5 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-124",
+    "book": "Exode",
+    "chapter": 3,
+    "verseRef": "Exode 3:19",
+    "verseText": "Voir Exode 3:19.",
+    "question": "Quel signe Dieu annonce-t-il à Moïse concernant l’accueil de Pharaon ?",
+    "choices": [
+      "« Je sais que le roi d’Égypte ne vous laissera point aller… »",
+      "« Le roi d’Égypte vous laissera partir aussitôt »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 3:19 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-125",
+    "book": "Exode",
+    "chapter": 3,
+    "verseRef": "Exode 3:21",
+    "verseText": "Voir Exode 3:21.",
+    "question": "Que dit Dieu sur la sortie d’Égypte au sujet des mains “vides” ?",
+    "choices": [
+      "« Vous ne sortirez point à vide »",
+      "« Vous sortirez dépouillés »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 3:21 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-126",
+    "book": "Exode",
+    "chapter": 4,
+    "verseRef": "Exode 4:4",
+    "verseText": "Voir Exode 4:4.",
+    "question": "Quel geste précis Moïse doit-il faire après avoir saisi le serpent par la queue ?",
+    "choices": [
+      "Il redevient une verge dans sa main",
+      "Il se change en eau sur la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 4:4 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-127",
+    "book": "Exode",
+    "chapter": 4,
+    "verseRef": "Exode 4:11",
+    "verseText": "Voir Exode 4:11.",
+    "question": "Dans l’objection de Moïse, que répond l’Éternel au sujet de la bouche ?",
+    "choices": [
+      "« Qui a fait la bouche de l’homme ?… N’est-ce pas moi, l’Éternel ? »",
+      "« La bouche appartient aux magiciens »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 4:11 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-128",
+    "book": "Exode",
+    "chapter": 4,
+    "verseRef": "Exode 4:16",
+    "verseText": "Voir Exode 4:16.",
+    "question": "Quel rôle Dieu attribue-t-il à Aaron envers Moïse dans la communication ?",
+    "choices": [
+      "« Il sera ta bouche, et tu seras pour lui Dieu »",
+      "« Il sera ton juge, et tu seras son serviteur »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 4:16 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-129",
+    "book": "Exode",
+    "chapter": 5,
+    "verseRef": "Exode 5:2",
+    "verseText": "Voir Exode 5:2.",
+    "question": "Dans Exode 5, comment Pharaon traite-t-il le nom de l’Éternel ?",
+    "choices": [
+      "« Je ne connais pas l’Éternel »",
+      "« Je sers l’Éternel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 5:2 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-130",
+    "book": "Exode",
+    "chapter": 6,
+    "verseRef": "Exode 6:5",
+    "verseText": "Voir Exode 6:5.",
+    "question": "Dans Exode 6, comment Dieu décrit-il l’oppression en Égypte ?",
+    "choices": [
+      "« Les gémissements des enfants d’Israël… et je me suis souvenu de mon alliance »",
+      "« Les rires des enfants d’Israël… »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 6:5 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-131",
+    "book": "Exode",
+    "chapter": 3,
+    "verseRef": "Exode 3:20",
+    "verseText": "Voir Exode 3:20.",
+    "question": "Que dit Dieu sur la manière dont il frappera l’Égypte ?",
+    "choices": [
+      "« Je frapperai… et après cela ils vous laisseront aller »",
+      "« Je ne frapperai jamais l’Égypte »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 3:20 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-132",
+    "book": "Exode",
+    "chapter": 7,
+    "verseRef": "Exode 7:25",
+    "verseText": "Voir Exode 7:25.",
+    "question": "Après la transformation en sang, combien de jours le fléau dura-t-il (mention explicite) ?",
+    "choices": [
+      "Sept jours",
+      "Trois jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 7:25 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-133",
+    "book": "Exode",
+    "chapter": 8,
+    "verseRef": "Exode 8:17",
+    "verseText": "Voir Exode 8:17.",
+    "question": "Dans le fléau des moustiques/poux, sur quoi cela se posa-t-il ?",
+    "choices": [
+      "Sur les hommes et sur les animaux",
+      "Sur les maisons seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 8:17 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-134",
+    "book": "Exode",
+    "chapter": 8,
+    "verseRef": "Exode 8:24",
+    "verseText": "Voir Exode 8:24.",
+    "question": "Dans le fléau des mouches, comment la terre est-elle décrite ?",
+    "choices": [
+      "« Le pays fut dévasté par les mouches »",
+      "« Le pays devint fertile grâce aux mouches »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 8:24 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-135",
+    "book": "Exode",
+    "chapter": 9,
+    "verseRef": "Exode 9:7",
+    "verseText": "Voir Exode 9:7.",
+    "question": "Quel détail est donné sur la vérification de Pharaon après la peste du bétail ?",
+    "choices": [
+      "Il envoya, et voici, rien n’était mort du bétail d’Israël",
+      "Il envoya, et tout Israël était mort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 9:7 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-136",
+    "book": "Exode",
+    "chapter": 9,
+    "verseRef": "Exode 9:8",
+    "verseText": "Voir Exode 9:8.",
+    "question": "Lors des ulcères, quelle source de cendre est précisée ?",
+    "choices": [
+      "De la fournaise",
+      "De l’autel d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 9:8 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-137",
+    "book": "Exode",
+    "chapter": 9,
+    "verseRef": "Exode 9:16",
+    "verseText": "Voir Exode 9:16.",
+    "question": "Avant la grêle, quel but Dieu exprime-t-il sur la proclamation de son nom ?",
+    "choices": [
+      "« Afin que mon nom soit publié par toute la terre »",
+      "« Afin que mon nom soit oublié »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 9:16 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-138",
+    "book": "Exode",
+    "chapter": 9,
+    "verseRef": "Exode 9:26",
+    "verseText": "Voir Exode 9:26.",
+    "question": "Au fléau de la grêle, quelle zone est explicitement épargnée ?",
+    "choices": [
+      "Le pays de Gosen",
+      "Le pays de Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 9:26 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-139",
+    "book": "Exode",
+    "chapter": 9,
+    "verseRef": "Exode 9:27",
+    "verseText": "Voir Exode 9:27.",
+    "question": "Après la grêle, quel aveu Pharaon fait-il sur lui et son peuple ?",
+    "choices": [
+      "« Moi et mon peuple, nous sommes coupables »",
+      "« Moi et mon peuple, nous sommes parfaits »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 9:27 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-140",
+    "book": "Exode",
+    "chapter": 9,
+    "verseRef": "Exode 9:33",
+    "verseText": "Voir Exode 9:33.",
+    "question": "Quel geste Moïse accomplit-il pour que la grêle cesse ?",
+    "choices": [
+      "Il étendit ses mains vers l’Éternel",
+      "Il frappa le Nil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 9:33 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-141",
+    "book": "Exode",
+    "chapter": 10,
+    "verseRef": "Exode 10:1",
+    "verseText": "Voir Exode 10:1.",
+    "question": "Avant les sauterelles, comment Dieu décrit-il l’état du cœur de Pharaon et de ses serviteurs ?",
+    "choices": [
+      "« J’ai endurci son cœur et le cœur de ses serviteurs »",
+      "« J’ai attendri son cœur »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 10:1 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-142",
+    "book": "Exode",
+    "chapter": 10,
+    "verseRef": "Exode 10:2",
+    "verseText": "Voir Exode 10:2.",
+    "question": "Quelle phrase résume l’objectif pédagogique des plaies pour Israël ?",
+    "choices": [
+      "« Afin que vous sachiez que je suis l’Éternel »",
+      "« Afin que vous adoriez Pharaon »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 10:2 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-143",
+    "book": "Exode",
+    "chapter": 10,
+    "verseRef": "Exode 10:15",
+    "verseText": "Voir Exode 10:15.",
+    "question": "Dans le fléau des sauterelles, quelle expression décrit l’obscurcissement ?",
+    "choices": [
+      "« Elles couvrirent la surface de tout le pays… le pays fut dans les ténèbres »",
+      "« Elles éclairèrent le pays »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 10:15 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-144",
+    "book": "Exode",
+    "chapter": 10,
+    "verseRef": "Exode 10:16-17",
+    "verseText": "Voir Exode 10:16-17.",
+    "question": "Lors des sauterelles, que demande Pharaon dans sa confession à Moïse ?",
+    "choices": [
+      "« Pardonne mon péché… et prie l’Éternel »",
+      "« Donne-moi un nouveau trône »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 10:16-17 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-145",
+    "book": "Exode",
+    "chapter": 10,
+    "verseRef": "Exode 10:22",
+    "verseText": "Voir Exode 10:22.",
+    "question": "Quel détail est donné sur la durée des ténèbres ?",
+    "choices": [
+      "Trois jours",
+      "Cinq jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 10:22 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-146",
+    "book": "Exode",
+    "chapter": 10,
+    "verseRef": "Exode 10:23",
+    "verseText": "Voir Exode 10:23.",
+    "question": "Quel détail est donné sur la lumière chez les Israélites pendant les ténèbres ?",
+    "choices": [
+      "Tous les enfants d’Israël avaient de la lumière dans leurs demeures",
+      "Israël fut plus obscur que l’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 10:23 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-147",
+    "book": "Exode",
+    "chapter": 10,
+    "verseRef": "Exode 10:29",
+    "verseText": "Voir Exode 10:29.",
+    "question": "Après l’ultime avertissement, quelle phrase Moïse répond-il à la menace de Pharaon ?",
+    "choices": [
+      "« Tu as dit vrai ; je ne verrai plus ta face »",
+      "« Je verrai ta face chaque matin »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 10:29 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-148",
+    "book": "Exode",
+    "chapter": 11,
+    "verseRef": "Exode 11:3 ; 12:36",
+    "verseText": "Voir Exode 11:3 ; 12:36.",
+    "question": "Quel statut est donné aux objets demandés aux Égyptiens avant le départ ?",
+    "choices": [
+      "L’Éternel fit trouver grâce au peuple aux yeux des Égyptiens",
+      "Les Égyptiens refusèrent tout"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 11:3 ; 12:36 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-149",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:8",
+    "verseText": "Voir Exode 12:8.",
+    "question": "Lors de la Pâque, quelle plante amère est mentionnée avec l’agneau et le pain sans levain ?",
+    "choices": [
+      "Des herbes amères",
+      "Des olives amères"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:8 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-150",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:10",
+    "verseText": "Voir Exode 12:10.",
+    "question": "Quelle instruction concerne le “reste” de l’agneau pascal ?",
+    "choices": [
+      "Ne rien en laisser jusqu’au matin ; brûler le reste au feu",
+      "Le saler et le conserver sept jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:10 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-151",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:13 ; 12:23",
+    "verseText": "Voir Exode 12:13 ; 12:23.",
+    "question": "Quel est le sens du rite du sang sur les portes : que fera l’Éternel en voyant le sang ?",
+    "choices": [
+      "Il passera par-dessus la porte et ne laissera pas le destructeur entrer",
+      "Il frappera d’abord cette maison"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:13 ; 12:23 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-152",
+    "book": "Exode",
+    "chapter": 12,
+    "verseRef": "Exode 12:22",
+    "verseText": "Voir Exode 12:22.",
+    "question": "Quel ordre interdit de sortir la nuit de la Pâque ?",
+    "choices": [
+      "« Nul de vous ne sortira de la porte de sa maison jusqu’au matin »",
+      "« Tous sortiront pour danser »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 12:22 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-153",
+    "book": "Exode",
+    "chapter": 10,
+    "verseRef": "Exode 10:19",
+    "verseText": "Voir Exode 10:19.",
+    "question": "Quel détail est donné sur la localisation de l’ensevelissement des sauterelles ?",
+    "choices": [
+      "« Il ne resta pas une seule sauterelle dans toute l’étendue de l’Égypte » (après le vent)",
+      "« Elles restèrent dans les maisons »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 10:19 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-154",
+    "book": "Exode",
+    "chapter": 11,
+    "verseRef": "Exode 11:5",
+    "verseText": "Voir Exode 11:5.",
+    "question": "Dans l’annonce du dernier fléau, quelle classe sociale est explicitement mentionnée jusqu’en bas ?",
+    "choices": [
+      "Du premier-né de Pharaon jusqu’au premier-né de la servante derrière la meule",
+      "Du premier-né de Pharaon jusqu’au premier-né des prêtres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 11:5 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-155",
+    "book": "Exode",
+    "chapter": 11,
+    "verseRef": "Exode 11:7",
+    "verseText": "Voir Exode 11:7.",
+    "question": "Dans Exode 11, quelle différence est annoncée entre Israël et l’Égypte par une expression proverbiale ?",
+    "choices": [
+      "« Pas même un chien n’aboiera contre les enfants d’Israël »",
+      "« Les chiens dévoreront Israël »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 11:7 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-156",
+    "book": "Exode",
+    "chapter": 9,
+    "verseRef": "Exode 9:31",
+    "verseText": "Voir Exode 9:31.",
+    "question": "Quel impact est décrit de la grêle sur l’orge et le lin (raison agricole) ?",
+    "choices": [
+      "L’orge était en épi, le lin en fleur",
+      "Le lin était déjà récolté, l’orge inexistante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 9:31 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-157",
+    "book": "Exode",
+    "chapter": 6,
+    "verseRef": "Exode 6:6",
+    "verseText": "Voir Exode 6:6.",
+    "question": "Quel élément Moïse doit-il dire au peuple au sujet du “service” en Égypte : comment Dieu les délivre-t-il ?",
+    "choices": [
+      "« Je vous délivrerai de leur servitude »",
+      "« Je vous laisserai dans leur servitude »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 6:6 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-158",
+    "book": "Exode",
+    "chapter": 6,
+    "verseRef": "Exode 6:7",
+    "verseText": "Voir Exode 6:7.",
+    "question": "Dans Exode 6, quelle expression de relation Dieu promet-il après la délivrance ?",
+    "choices": [
+      "« Je vous prendrai pour mon peuple, et je serai votre Dieu »",
+      "« Je vous prendrai pour mes ennemis »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 6:7 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-159",
+    "book": "Exode",
+    "chapter": 5,
+    "verseRef": "Exode 5:22",
+    "verseText": "Voir Exode 5:22.",
+    "question": "Quel reproche Moïse adresse-t-il à l’Éternel après l’aggravation du travail ?",
+    "choices": [
+      "« Pourquoi as-tu fait du mal à ce peuple ? »",
+      "« Pourquoi m’as-tu enrichi ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 5:22 (LSG 1910)."
+  },
+  {
+    "id": "EXO-D-160",
+    "book": "Exode",
+    "chapter": 6,
+    "verseRef": "Exode 6:1",
+    "verseText": "Voir Exode 6:1.",
+    "question": "Que répond Dieu à Moïse en annonçant l’action contre Pharaon par une formule forte ?",
+    "choices": [
+      "« Tu verras maintenant ce que je ferai à Pharaon… par une main forte… »",
+      "« Tu ne verras rien »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Exode 6:1 (LSG 1910)."
+  }
+]

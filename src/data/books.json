@@ -1,0 +1,404 @@
+[
+  {
+    "id": "genese",
+    "name": "Genèse",
+    "chaptersCount": 50,
+    "questionsFile": "genese-normal.json"
+  },
+  {
+    "id": "exode",
+    "name": "Exode",
+    "chaptersCount": 40,
+    "questionsFile": "exode-normal.json"
+  },
+  {
+    "id": "levitique",
+    "name": "Lévitique",
+    "chaptersCount": 27,
+    "questionsFile": "levitique-normal.json"
+  },
+  {
+    "id": "nombres",
+    "name": "Nombres",
+    "chaptersCount": 36,
+    "questionsFile": "nombres-normal.json"
+  },
+  {
+    "id": "deuteronome",
+    "name": "Deutéronome",
+    "chaptersCount": 34,
+    "questionsFile": "deuteronome-normal.json"
+  },
+  {
+    "id": "josue",
+    "name": "Josué",
+    "chaptersCount": 24,
+    "questionsFile": "josue-normal.json"
+  },
+  {
+    "id": "juges",
+    "name": "Juges",
+    "chaptersCount": 21,
+    "questionsFile": "juges-normal.json"
+  },
+  {
+    "id": "ruth",
+    "name": "Ruth",
+    "chaptersCount": 4,
+    "questionsFile": "ruth-normal.json"
+  },
+  {
+    "id": "1samuel",
+    "name": "1 Samuel",
+    "chaptersCount": 31,
+    "questionsFile": "1samuel-normal.json"
+  },
+  {
+    "id": "2samuel",
+    "name": "2 Samuel",
+    "chaptersCount": 24,
+    "questionsFile": "2samuel-normal.json"
+  },
+  {
+    "id": "1rois",
+    "name": "1 Rois",
+    "chaptersCount": 22,
+    "questionsFile": "1rois-normal.json"
+  },
+  {
+    "id": "2rois",
+    "name": "2 Rois",
+    "chaptersCount": 25,
+    "questionsFile": "2rois-normal.json"
+  },
+  {
+    "id": "1chroniques",
+    "name": "1 Chroniques",
+    "chaptersCount": 29,
+    "questionsFile": "1chroniques-normal.json"
+  },
+  {
+    "id": "2chroniques",
+    "name": "2 Chroniques",
+    "chaptersCount": 36,
+    "questionsFile": "2chroniques-normal.json"
+  },
+  {
+    "id": "esdras",
+    "name": "Esdras",
+    "chaptersCount": 10,
+    "questionsFile": "esdras-normal.json"
+  },
+  {
+    "id": "nehemie",
+    "name": "Néhémie",
+    "chaptersCount": 13,
+    "questionsFile": "nehemie-normal.json"
+  },
+  {
+    "id": "esther",
+    "name": "Esther",
+    "chaptersCount": 10,
+    "questionsFile": "esther-normal.json"
+  },
+  {
+    "id": "job",
+    "name": "Job",
+    "chaptersCount": 42,
+    "questionsFile": "job-normal.json"
+  },
+  {
+    "id": "psaumes",
+    "name": "Psaumes",
+    "chaptersCount": 150,
+    "questionsFile": "psaumes-normal.json"
+  },
+  {
+    "id": "proverbes",
+    "name": "Proverbes",
+    "chaptersCount": 31,
+    "questionsFile": "proverbes-normal.json"
+  },
+  {
+    "id": "ecclesiaste",
+    "name": "Ecclésiaste",
+    "chaptersCount": 12,
+    "questionsFile": "ecclesiaste-normal.json"
+  },
+  {
+    "id": "cantiques",
+    "name": "Cantiques",
+    "chaptersCount": 8,
+    "questionsFile": "cantiques-normal.json"
+  },
+  {
+    "id": "esaie",
+    "name": "Ésaïe",
+    "chaptersCount": 66,
+    "questionsFile": "esaie-normal.json"
+  },
+  {
+    "id": "jeremie",
+    "name": "Jérémie",
+    "chaptersCount": 52,
+    "questionsFile": "jeremie-normal.json"
+  },
+  {
+    "id": "lamentations",
+    "name": "Lamentations",
+    "chaptersCount": 5,
+    "questionsFile": "lamentations-normal.json"
+  },
+  {
+    "id": "ezechiel",
+    "name": "Ézéchiel",
+    "chaptersCount": 48,
+    "questionsFile": "ezechiel-normal.json"
+  },
+  {
+    "id": "daniel",
+    "name": "Daniel",
+    "chaptersCount": 12,
+    "questionsFile": "daniel-normal.json"
+  },
+  {
+    "id": "osee",
+    "name": "Osée",
+    "chaptersCount": 14,
+    "questionsFile": "osee-normal.json"
+  },
+  {
+    "id": "joel",
+    "name": "Joël",
+    "chaptersCount": 3,
+    "questionsFile": "joel-normal.json"
+  },
+  {
+    "id": "amos",
+    "name": "Amos",
+    "chaptersCount": 9,
+    "questionsFile": "amos-normal.json"
+  },
+  {
+    "id": "abdias",
+    "name": "Abdias",
+    "chaptersCount": 1,
+    "questionsFile": "abdias-normal.json"
+  },
+  {
+    "id": "jonas",
+    "name": "Jonas",
+    "chaptersCount": 4,
+    "questionsFile": "jonas-normal.json"
+  },
+  {
+    "id": "michee",
+    "name": "Michée",
+    "chaptersCount": 7,
+    "questionsFile": "michee-normal.json"
+  },
+  {
+    "id": "nahum",
+    "name": "Nahum",
+    "chaptersCount": 3,
+    "questionsFile": "nahum-normal.json"
+  },
+  {
+    "id": "habacuc",
+    "name": "Habacuc",
+    "chaptersCount": 3,
+    "questionsFile": "habacuc-normal.json"
+  },
+  {
+    "id": "sophonie",
+    "name": "Sophonie",
+    "chaptersCount": 3,
+    "questionsFile": "sophonie-normal.json"
+  },
+  {
+    "id": "aggee",
+    "name": "Aggée",
+    "chaptersCount": 2,
+    "questionsFile": "aggee-normal.json"
+  },
+  {
+    "id": "zacharie",
+    "name": "Zacharie",
+    "chaptersCount": 14,
+    "questionsFile": "zacharie-normal.json"
+  },
+  {
+    "id": "malachie",
+    "name": "Malachie",
+    "chaptersCount": 4,
+    "questionsFile": "malachie-normal.json"
+  },
+  {
+    "id": "matthieu",
+    "name": "Matthieu",
+    "chaptersCount": 28,
+    "questionsFile": "matthieu-normal.json"
+  },
+  {
+    "id": "marc",
+    "name": "Marc",
+    "chaptersCount": 16,
+    "questionsFile": "marc-normal.json"
+  },
+  {
+    "id": "luc",
+    "name": "Luc",
+    "chaptersCount": 24,
+    "questionsFile": "luc-normal.json"
+  },
+  {
+    "id": "jean",
+    "name": "Jean",
+    "chaptersCount": 21,
+    "questionsFile": "jean-normal.json"
+  },
+  {
+    "id": "actes",
+    "name": "Actes",
+    "chaptersCount": 28,
+    "questionsFile": "actes-normal.json"
+  },
+  {
+    "id": "romains",
+    "name": "Romains",
+    "chaptersCount": 16,
+    "questionsFile": "romains-normal.json"
+  },
+  {
+    "id": "1corinthiens",
+    "name": "1 Corinthiens",
+    "chaptersCount": 16,
+    "questionsFile": "1corinthiens-normal.json"
+  },
+  {
+    "id": "2corinthiens",
+    "name": "2 Corinthiens",
+    "chaptersCount": 13,
+    "questionsFile": "2corinthiens-normal.json"
+  },
+  {
+    "id": "galates",
+    "name": "Galates",
+    "chaptersCount": 6,
+    "questionsFile": "galates-normal.json"
+  },
+  {
+    "id": "ephesiens",
+    "name": "Éphésiens",
+    "chaptersCount": 6,
+    "questionsFile": "ephesiens-normal.json"
+  },
+  {
+    "id": "philippiens",
+    "name": "Philippiens",
+    "chaptersCount": 4,
+    "questionsFile": "philippiens-normal.json"
+  },
+  {
+    "id": "colossiens",
+    "name": "Colossiens",
+    "chaptersCount": 4,
+    "questionsFile": "colossiens-normal.json"
+  },
+  {
+    "id": "1thessaloniciens",
+    "name": "1 Thessaloniciens",
+    "chaptersCount": 5,
+    "questionsFile": "1thessaloniciens-normal.json"
+  },
+  {
+    "id": "2thessaloniciens",
+    "name": "2 Thessaloniciens",
+    "chaptersCount": 3,
+    "questionsFile": "2thessaloniciens-normal.json"
+  },
+  {
+    "id": "1timothee",
+    "name": "1 Timothée",
+    "chaptersCount": 6,
+    "questionsFile": "1timothee-normal.json"
+  },
+  {
+    "id": "2timothee",
+    "name": "2 Timothée",
+    "chaptersCount": 4,
+    "questionsFile": "2timothee-normal.json"
+  },
+  {
+    "id": "tite",
+    "name": "Tite",
+    "chaptersCount": 3,
+    "questionsFile": "tite-normal.json"
+  },
+  {
+    "id": "philemon",
+    "name": "Philémon",
+    "chaptersCount": 1,
+    "questionsFile": "philemon-normal.json"
+  },
+  {
+    "id": "hebreux",
+    "name": "Hébreux",
+    "chaptersCount": 13,
+    "questionsFile": "hebreux-normal.json"
+  },
+  {
+    "id": "jacques",
+    "name": "Jacques",
+    "chaptersCount": 5,
+    "questionsFile": "jacques-normal.json"
+  },
+  {
+    "id": "1pierre",
+    "name": "1 Pierre",
+    "chaptersCount": 5,
+    "questionsFile": "1pierre-normal.json"
+  },
+  {
+    "id": "2pierre",
+    "name": "2 Pierre",
+    "chaptersCount": 3,
+    "questionsFile": "2pierre-normal.json"
+  },
+  {
+    "id": "1jean",
+    "name": "1 Jean",
+    "chaptersCount": 5,
+    "questionsFile": "1jean-normal.json"
+  },
+  {
+    "id": "2jean",
+    "name": "2 Jean",
+    "chaptersCount": 1,
+    "questionsFile": "2jean-normal.json"
+  },
+  {
+    "id": "3jean",
+    "name": "3 Jean",
+    "chaptersCount": 1,
+    "questionsFile": "3jean-normal.json"
+  },
+  {
+    "id": "jude",
+    "name": "Jude",
+    "chaptersCount": 1,
+    "questionsFile": "jude-normal.json"
+  },
+  {
+    "id": "apocalypse",
+    "name": "Apocalypse",
+    "chaptersCount": 22,
+    "questionsFile": "apocalypse-normal.json"
+  },
+  {
+    "id": "generalitebible",
+    "name": "Généralitée de la Bible",
+    "chaptersCount": 1189,
+    "questionsFile": "generalitebible-normal.json"
+  }
+]

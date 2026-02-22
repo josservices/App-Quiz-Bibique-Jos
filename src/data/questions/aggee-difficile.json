@@ -1,0 +1,842 @@
+[
+  {
+    "id": "aggee-D-001",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:1",
+    "verseText": "Voir Aggée 1:1.",
+    "question": "Sous quel roi la parole de l’Éternel fut-elle adressée par Aggée ?",
+    "choices": [
+      "Darius",
+      "Cyrus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:1 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-002",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:1",
+    "verseText": "Voir Aggée 1:1.",
+    "question": "Quel est le jour mentionné au début de la prophétie ?",
+    "choices": [
+      "Le premier jour du sixième mois",
+      "Le dixième jour du septième mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:1 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-003",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:1",
+    "verseText": "Voir Aggée 1:1.",
+    "question": "Comment Zorobabel est-il présenté ?",
+    "choices": [
+      "Gouverneur de Juda",
+      "Roi d’Israël"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:1 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-004",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:1",
+    "verseText": "Voir Aggée 1:1.",
+    "question": "De qui Zorobabel est-il dit être le fils ?",
+    "choices": [
+      "Schealthiel",
+      "Jotsadak"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:1 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-005",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:1",
+    "verseText": "Voir Aggée 1:1.",
+    "question": "Comment Josué est-il présenté ?",
+    "choices": [
+      "Souverain sacrificateur",
+      "Prophète"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:1 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-006",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:1",
+    "verseText": "Voir Aggée 1:1.",
+    "question": "De qui Josué est-il dit être le fils ?",
+    "choices": [
+      "Jotsadak",
+      "Schealthiel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:1 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-007",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:2",
+    "verseText": "Voir Aggée 1:2.",
+    "question": "Que dit le peuple au sujet du moment de rebâtir la maison de l’Éternel ?",
+    "choices": [
+      "Le temps n’est pas venu",
+      "Le temps est déjà passé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:2 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-008",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:4",
+    "verseText": "Voir Aggée 1:4.",
+    "question": "Quel reproche est fait concernant les habitations du peuple ?",
+    "choices": [
+      "Ils habitent des maisons lambrissées",
+      "Ils habitent des tentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:4 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-009",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:4",
+    "verseText": "Voir Aggée 1:4.",
+    "question": "Comment est décrite la maison de l’Éternel à ce moment-là ?",
+    "choices": [
+      "Elle est déserte",
+      "Elle est détruite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:4 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-010",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:5",
+    "verseText": "Voir Aggée 1:5.",
+    "question": "Quel appel l’Éternel adresse-t-il concernant la conduite du peuple ?",
+    "choices": [
+      "Considérez attentivement vos voies",
+      "Oubliez vos voies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:5 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-011",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:6",
+    "verseText": "Voir Aggée 1:6.",
+    "question": "Quel résultat est mentionné après avoir semé beaucoup ?",
+    "choices": [
+      "On recueille peu",
+      "On recueille énormément"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:6 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-012",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:6",
+    "verseText": "Voir Aggée 1:6.",
+    "question": "Quel effet est décrit au sujet de la nourriture ?",
+    "choices": [
+      "On mange sans être rassasié",
+      "On jeûne sans cesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:6 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-013",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:6",
+    "verseText": "Voir Aggée 1:6.",
+    "question": "Quel effet est décrit au sujet de la boisson ?",
+    "choices": [
+      "On boit sans être désaltéré",
+      "On boit et on tombe malade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:6 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-014",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:6",
+    "verseText": "Voir Aggée 1:6.",
+    "question": "Quel effet est décrit au sujet des vêtements ?",
+    "choices": [
+      "On se vêt sans avoir chaud",
+      "On se vêt et on brûle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:6 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-015",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:6",
+    "verseText": "Voir Aggée 1:6.",
+    "question": "Que devient le salaire mis dans la bourse selon Aggée ?",
+    "choices": [
+      "Il s’en va comme dans une bourse percée",
+      "Il se multiplie au double"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:6 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-016",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:8",
+    "verseText": "Voir Aggée 1:8.",
+    "question": "Que commande l’Éternel de faire sur la montagne ?",
+    "choices": [
+      "D’apporter du bois",
+      "D’y bâtir des autels à Baal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:8 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-017",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:8",
+    "verseText": "Voir Aggée 1:8.",
+    "question": "Quel objectif est donné pour la maison à rebâtir ?",
+    "choices": [
+      "Que l’Éternel y prenne plaisir et soit glorifié",
+      "Que le peuple s’y enrichisse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:8 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-018",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:9",
+    "verseText": "Voir Aggée 1:9.",
+    "question": "Pourquoi l’Éternel dit-il avoir appelé la sécheresse ?",
+    "choices": [
+      "À cause de sa maison qui est déserte",
+      "À cause des guerres des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:9 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-019",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:11",
+    "verseText": "Voir Aggée 1:11.",
+    "question": "Sur quoi la sécheresse est-elle appelée ?",
+    "choices": [
+      "Sur le blé, le moût et l’huile",
+      "Sur les poissons de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:11 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-020",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:11",
+    "verseText": "Voir Aggée 1:11.",
+    "question": "Sur qui la sécheresse est-elle appelée aussi ?",
+    "choices": [
+      "Sur les hommes et sur les bêtes",
+      "Sur les anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:11 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-021",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:12",
+    "verseText": "Voir Aggée 1:12.",
+    "question": "Qui obéit à la voix de l’Éternel et aux paroles d’Aggée ?",
+    "choices": [
+      "Zorobabel, Josué et tout le reste du peuple",
+      "Les Philistins et les Moabites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:12 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-022",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:12",
+    "verseText": "Voir Aggée 1:12.",
+    "question": "Quelle réaction du peuple est mentionnée devant l’Éternel ?",
+    "choices": [
+      "Le peuple craignit l’Éternel",
+      "Le peuple méprisa l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:12 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-023",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:13",
+    "verseText": "Voir Aggée 1:13.",
+    "question": "Quel message Aggée transmet-il de la part de l’Éternel ?",
+    "choices": [
+      "Je suis avec vous",
+      "Je suis contre vous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:13 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-024",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:14",
+    "verseText": "Voir Aggée 1:14.",
+    "question": "Qui l’Éternel réveilla-t-il pour l’œuvre ?",
+    "choices": [
+      "L’esprit de Zorobabel, l’esprit de Josué et l’esprit de tout le reste du peuple",
+      "L’esprit des rois des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:14 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-025",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:15",
+    "verseText": "Voir Aggée 1:15.",
+    "question": "Quel est le mois mentionné pour le début de l’œuvre ?",
+    "choices": [
+      "Le sixième mois",
+      "Le premier mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:15 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-026",
+    "book": "Aggée",
+    "chapter": 1,
+    "verseRef": "Aggée 1:15",
+    "verseText": "Voir Aggée 1:15.",
+    "question": "Quel est le jour mentionné pour le début de l’œuvre ?",
+    "choices": [
+      "Le vingt-quatrième jour",
+      "Le septième jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 1:15 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-027",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:1",
+    "verseText": "Voir Aggée 2:1.",
+    "question": "Quel jour est indiqué pour une autre parole de l’Éternel, au septième mois ?",
+    "choices": [
+      "Le vingt et unième jour du mois",
+      "Le premier jour du mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:1 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-028",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:9",
+    "verseText": "Voir Aggée 2:9.",
+    "question": "De quoi parle l’Éternel concernant la gloire de la maison ?",
+    "choices": [
+      "La gloire de cette dernière maison sera plus grande que celle de la première",
+      "La gloire ne reviendra jamais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:9 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-029",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:2",
+    "verseText": "Voir Aggée 2:2.",
+    "question": "À qui Aggée doit-il parler dans cet appel ?",
+    "choices": [
+      "À Zorobabel, à Josué et au reste du peuple",
+      "À Pharaon et à ses princes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:2 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-030",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:3",
+    "verseText": "Voir Aggée 2:3.",
+    "question": "Quelle question est posée au sujet de la maison et de sa gloire passée ?",
+    "choices": [
+      "Qui de vous est resté et a vu cette maison dans sa gloire première ?",
+      "Qui a vu la mer Rouge se fendre ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:3 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-031",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:4",
+    "verseText": "Voir Aggée 2:4.",
+    "question": "Comment l’Éternel demande-t-il d’agir malgré l’état de la maison ?",
+    "choices": [
+      "Fortifie-toi… et travaillez",
+      "Fuis… et cache-toi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:4 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-032",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:5",
+    "verseText": "Voir Aggée 2:5.",
+    "question": "Quelle promesse l’Éternel rappelle-t-il en lien avec l’Égypte ?",
+    "choices": [
+      "Sa parole et son esprit demeurent au milieu du peuple",
+      "Le peuple retournera en esclavage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:5 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-033",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:6",
+    "verseText": "Voir Aggée 2:6.",
+    "question": "Que dit l’Éternel qu’il ébranlera encore ?",
+    "choices": [
+      "Les cieux et la terre, la mer et le sec",
+      "Le désert seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:6 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-034",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:7",
+    "verseText": "Voir Aggée 2:7.",
+    "question": "Que dit l’Éternel qu’il ébranlera aussi parmi les peuples ?",
+    "choices": [
+      "Toutes les nations",
+      "Une seule nation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:7 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-035",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:8",
+    "verseText": "Voir Aggée 2:8.",
+    "question": "De qui l’argent et l’or sont-ils déclarés être ?",
+    "choices": [
+      "À l’Éternel des armées",
+      "Au gouverneur de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:8 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-036",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:9",
+    "verseText": "Voir Aggée 2:9.",
+    "question": "Quel don l’Éternel promet-il en ce lieu ?",
+    "choices": [
+      "La paix",
+      "La famine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:9 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-037",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:10",
+    "verseText": "Voir Aggée 2:10.",
+    "question": "Quel jour et mois sont indiqués pour la parole adressée aux sacrificateurs ?",
+    "choices": [
+      "Le vingt-quatrième jour du neuvième mois",
+      "Le premier jour du sixième mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:10 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-038",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:11",
+    "verseText": "Voir Aggée 2:11.",
+    "question": "Que doivent demander les sacrificateurs selon l’ordre de l’Éternel ?",
+    "choices": [
+      "L’enseignement de la loi",
+      "La permission de quitter Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:11 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-039",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:12",
+    "verseText": "Voir Aggée 2:12.",
+    "question": "Dans l’exemple de la loi, qu’est-ce qui est porté dans le pan du vêtement ?",
+    "choices": [
+      "De la chair sanctifiée",
+      "De la manne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:12 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-040",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:12",
+    "verseText": "Voir Aggée 2:12.",
+    "question": "Quel aliment est cité parmi les choses touchées dans l’exemple ?",
+    "choices": [
+      "Le pain",
+      "Le poisson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:12 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-041",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:12",
+    "verseText": "Voir Aggée 2:12.",
+    "question": "Quel liquide est cité dans l’exemple ?",
+    "choices": [
+      "Le vin",
+      "L’eau du Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:12 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-042",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:12",
+    "verseText": "Voir Aggée 2:12.",
+    "question": "Quel autre aliment est cité avec le vin ?",
+    "choices": [
+      "Le potage",
+      "Le miel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:12 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-043",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:12",
+    "verseText": "Voir Aggée 2:12.",
+    "question": "Quelle conclusion donnent les sacrificateurs au premier cas ?",
+    "choices": [
+      "Cela ne sera pas sanctifié",
+      "Cela sera sanctifié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:12 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-044",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:13",
+    "verseText": "Voir Aggée 2:13.",
+    "question": "Dans le second cas, qui touche l’une de ces choses ?",
+    "choices": [
+      "Une personne souillée par le contact d’un corps mort",
+      "Un Nazaréen consacré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:13 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-045",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:13",
+    "verseText": "Voir Aggée 2:13.",
+    "question": "Quelle conclusion donnent les sacrificateurs au second cas ?",
+    "choices": [
+      "Cela sera souillé",
+      "Cela sera pur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:13 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-046",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:14",
+    "verseText": "Voir Aggée 2:14.",
+    "question": "Comment l’Éternel qualifie-t-il ce peuple et cette nation devant lui ?",
+    "choices": [
+      "Ils sont souillés",
+      "Ils sont parfaits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:14 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-047",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:14",
+    "verseText": "Voir Aggée 2:14.",
+    "question": "Comment l’Éternel qualifie-t-il toute l’œuvre de leurs mains ?",
+    "choices": [
+      "Elle est souillée",
+      "Elle est irréprochable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:14 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-048",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:15",
+    "verseText": "Voir Aggée 2:15.",
+    "question": "À quoi l’Éternel appelle-t-il encore une fois l’attention du peuple ?",
+    "choices": [
+      "Considérez attentivement ce qui s’est passé jusqu’à ce jour",
+      "Oubliez ce qui s’est passé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:15 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-049",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:16",
+    "verseText": "Voir Aggée 2:16.",
+    "question": "Avant la reconstruction, combien mesurait-on au lieu de vingt mesures ?",
+    "choices": [
+      "Dix mesures",
+      "Trente mesures"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:16 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-050",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:16",
+    "verseText": "Voir Aggée 2:16.",
+    "question": "Quand on venait à la cuve pour puiser cinquante mesures, combien y en avait-il ?",
+    "choices": [
+      "Vingt",
+      "Cinquante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:16 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-051",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:17",
+    "verseText": "Voir Aggée 2:17.",
+    "question": "Par quoi l’Éternel dit-il avoir frappé l’œuvre des mains ?",
+    "choices": [
+      "Par la rouille, la nielle et la grêle",
+      "Par l’épée, le feu et le soufre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:17 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-052",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:17",
+    "verseText": "Voir Aggée 2:17.",
+    "question": "Malgré les coups, quelle attitude du peuple est reprochée ?",
+    "choices": [
+      "Ils ne sont pas revenus à l’Éternel",
+      "Ils ont tout abandonné à l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:17 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-053",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:19",
+    "verseText": "Voir Aggée 2:19.",
+    "question": "Que demande l’Éternel de regarder concernant la semence ?",
+    "choices": [
+      "Si la semence est encore dans le grenier",
+      "Si la semence est déjà semée en Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:19 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-054",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:19",
+    "verseText": "Voir Aggée 2:19.",
+    "question": "Quels arbres sont cités avec la vigne et le figuier ?",
+    "choices": [
+      "Le grenadier et l’olivier",
+      "Le cèdre et le cyprès"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:19 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-055",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:19",
+    "verseText": "Voir Aggée 2:19.",
+    "question": "Quelle promesse est donnée à partir de ce jour-là ?",
+    "choices": [
+      "Je bénirai",
+      "Je maudirai"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:19 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-056",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:10",
+    "verseText": "Voir Aggée 2:10.",
+    "question": "Combien de fois est-il précisé que la parole vint le vingt-quatrième jour du mois ?",
+    "choices": [
+      "Deux fois",
+      "Une fois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:10 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-057",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:22",
+    "verseText": "Voir Aggée 2:22.",
+    "question": "Que dit l’Éternel qu’il ébranlera au sujet des royaumes ?",
+    "choices": [
+      "Le trône des royaumes",
+      "Le Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:22 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-058",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:22",
+    "verseText": "Voir Aggée 2:22.",
+    "question": "Que dit l’Éternel qu’il détruira ?",
+    "choices": [
+      "La force des royaumes des nations",
+      "Les murailles de Jérusalem rebâties"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:22 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-059",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:22",
+    "verseText": "Voir Aggée 2:22.",
+    "question": "Qu’arrivera-t-il aux chars et à ceux qui les montent ?",
+    "choices": [
+      "Ils seront renversés",
+      "Ils seront couronnés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:22 (LSG 1910)."
+  },
+  {
+    "id": "aggee-D-060",
+    "book": "Aggée",
+    "chapter": 2,
+    "verseRef": "Aggée 2:23",
+    "verseText": "Voir Aggée 2:23.",
+    "question": "Comment l’Éternel appelle-t-il Zorobabel dans la promesse finale ?",
+    "choices": [
+      "Mon serviteur",
+      "Mon roi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Aggée 2:23 (LSG 1910)."
+  }
+]

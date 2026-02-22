@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "nahum-D-001",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:1",
+    "verseText": "Voir Nahum 1:1.",
+    "question": "D’où vient Nahum selon l’intitulé du livre ?",
+    "choices": [
+      "D’Elkosch",
+      "De No-Amon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:1 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-002",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:1",
+    "verseText": "Voir Nahum 1:1.",
+    "question": "Sur quelle ville est l’“oracle” du livre ?",
+    "choices": [
+      "Ninive",
+      "Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:1 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-003",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:2",
+    "verseText": "Voir Nahum 1:2.",
+    "question": "L’Éternel “garde rancune” à qui ?",
+    "choices": [
+      "À ses ennemis",
+      "À ses serviteurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:2 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-004",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:2",
+    "verseText": "Voir Nahum 1:2.",
+    "question": "Quelle expression est répétée au verset 2 ?",
+    "choices": [
+      "“L’Éternel se venge”",
+      "“L’Éternel pardonne”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:2 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-005",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:3",
+    "verseText": "Voir Nahum 1:3.",
+    "question": "L’Éternel est “lent à la colère” mais il est aussi…",
+    "choices": [
+      "Grand par sa force",
+      "Petit par sa force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:3 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-006",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:3",
+    "verseText": "Voir Nahum 1:3.",
+    "question": "Le texte dit-il qu’il “laisse impuni” ?",
+    "choices": [
+      "Non, il ne laisse pas impuni",
+      "Oui, il laisse impuni"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:3 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-007",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:3",
+    "verseText": "Voir Nahum 1:3.",
+    "question": "Où marche l’Éternel selon l’image ?",
+    "choices": [
+      "Dans la tempête, dans le tourbillon",
+      "Dans les champs, dans les jardins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:3 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-008",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:3",
+    "verseText": "Voir Nahum 1:3.",
+    "question": "Les nuées sont appelées…",
+    "choices": [
+      "La poussière de ses pieds",
+      "Le trône de ses pieds"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:3 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-009",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:4",
+    "verseText": "Voir Nahum 1:4.",
+    "question": "L’Éternel “menace” et “dessèche” quoi ?",
+    "choices": [
+      "La mer",
+      "Le Liban"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:4 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-010",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:4",
+    "verseText": "Voir Nahum 1:4.",
+    "question": "Que fait-il à “tous les fleuves” ?",
+    "choices": [
+      "Il les fait tarir",
+      "Il les fait déborder"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:4 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-011",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:4",
+    "verseText": "Voir Nahum 1:4.",
+    "question": "Quels deux lieux “languissent” ?",
+    "choices": [
+      "Le Basan et le Carmel",
+      "Puth et les Libyens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:4 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-012",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:4",
+    "verseText": "Voir Nahum 1:4.",
+    "question": "Quelle fleur “se flétrit” ?",
+    "choices": [
+      "La fleur du Liban",
+      "La fleur de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:4 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-013",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:5",
+    "verseText": "Voir Nahum 1:5.",
+    "question": "Face à l’Éternel, les collines…",
+    "choices": [
+      "Se fondent",
+      "Se fortifient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:5 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-014",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:5",
+    "verseText": "Voir Nahum 1:5.",
+    "question": "La terre fait quoi “devant sa face” ?",
+    "choices": [
+      "Se soulève",
+      "Se calme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:5 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-015",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:6",
+    "verseText": "Voir Nahum 1:6.",
+    "question": "Sa fureur se répand comme…",
+    "choices": [
+      "Le feu",
+      "La rosée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:6 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-016",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:6",
+    "verseText": "Voir Nahum 1:6.",
+    "question": "Que devient la roche devant lui ?",
+    "choices": [
+      "Elle se brise",
+      "Elle se polit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:6 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-017",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:7",
+    "verseText": "Voir Nahum 1:7.",
+    "question": "L’Éternel est “un refuge” à quel moment ?",
+    "choices": [
+      "Au jour de la détresse",
+      "Au jour des moissons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:7 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-018",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:7",
+    "verseText": "Voir Nahum 1:7.",
+    "question": "Il “connaît” qui ?",
+    "choices": [
+      "Ceux qui se confient en lui",
+      "Ceux qui le défient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:7 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-019",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:8",
+    "verseText": "Voir Nahum 1:8.",
+    "question": "Par quoi la ville est-elle détruite au verset 8 ?",
+    "choices": [
+      "Des flots qui déborderont",
+      "Une armée de sauterelles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:8 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-020",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:8",
+    "verseText": "Voir Nahum 1:8.",
+    "question": "Jusqu’où sont poursuivis les ennemis ?",
+    "choices": [
+      "Jusque dans les ténèbres",
+      "Jusqu’au Liban"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:8 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-021",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:9",
+    "verseText": "Voir Nahum 1:9.",
+    "question": "La détresse “paraîtra” combien de fois ?",
+    "choices": [
+      "Pas deux fois",
+      "Deux fois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:9 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-022",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:10",
+    "verseText": "Voir Nahum 1:10.",
+    "question": "Ils sont “entrelacés” comme…",
+    "choices": [
+      "Des épines",
+      "Des figuiers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:10 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-023",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:10",
+    "verseText": "Voir Nahum 1:10.",
+    "question": "Ils seront consumés comme…",
+    "choices": [
+      "La paille sèche, entièrement",
+      "La paille verte, partiellement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:10 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-024",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:11",
+    "verseText": "Voir Nahum 1:11.",
+    "question": "Celui qui sort “de toi” méditait…",
+    "choices": [
+      "Le mal contre l’Éternel",
+      "La paix pour l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:11 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-025",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:12",
+    "verseText": "Voir Nahum 1:12.",
+    "question": "Que deviennent les “intacts et nombreux” ?",
+    "choices": [
+      "Moissonnés et disparaîtront",
+      "Couronnés et prospéreront"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:12 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-026",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:13",
+    "verseText": "Voir Nahum 1:13.",
+    "question": "Que brise l’Éternel “maintenant” ?",
+    "choices": [
+      "Son joug de dessus toi",
+      "Tes murailles de dessus toi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:13 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-027",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:13",
+    "verseText": "Voir Nahum 1:13.",
+    "question": "En plus du joug, il rompt…",
+    "choices": [
+      "Tes liens",
+      "Tes vœux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:13 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-028",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:14",
+    "verseText": "Voir Nahum 1:14.",
+    "question": "“Tu n’auras plus…” quoi ?",
+    "choices": [
+      "De descendants qui portent ton nom",
+      "De prêtres qui portent ton nom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:14 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-029",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:14",
+    "verseText": "Voir Nahum 1:14.",
+    "question": "Que retire-t-il “de la maison de ton dieu” ?",
+    "choices": [
+      "Les images taillées ou en fonte",
+      "L’or et l’argent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:14 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-030",
+    "book": "Nahum",
+    "chapter": 1,
+    "verseRef": "Nahum 1:14",
+    "verseText": "Voir Nahum 1:14.",
+    "question": "Pourquoi “Je préparerai ton sépulcre” ?",
+    "choices": [
+      "Car tu es trop léger",
+      "Car tu es trop nombreux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 1:14 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-031",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:1",
+    "verseText": "Voir Nahum 2:1.",
+    "question": "Sur quoi sont “les pieds du messager” ?",
+    "choices": [
+      "Sur les montagnes",
+      "Sur les fleuves"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:1 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-032",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:1",
+    "verseText": "Voir Nahum 2:1.",
+    "question": "Le messager annonce…",
+    "choices": [
+      "La paix",
+      "Le deuil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:1 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-033",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:1",
+    "verseText": "Voir Nahum 2:1.",
+    "question": "Juda doit…",
+    "choices": [
+      "Célébrer ses fêtes, accomplir ses vœux",
+      "Rompre ses fêtes, oublier ses vœux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:1 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-034",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:1",
+    "verseText": "Voir Nahum 2:1.",
+    "question": "Le “méchant” ne passera plus…",
+    "choices": [
+      "Au milieu de toi",
+      "Au milieu des fleuves"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:1 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-035",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:1",
+    "verseText": "Voir Nahum 2:1.",
+    "question": "Il est dit du méchant :",
+    "choices": [
+      "Il est entièrement exterminé",
+      "Il est partiellement vaincu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:1 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-036",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:2",
+    "verseText": "Voir Nahum 2:2.",
+    "question": "Qui marche “contre toi” ?",
+    "choices": [
+      "Le destructeur",
+      "Le consolateur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:2 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-037",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:2",
+    "verseText": "Voir Nahum 2:2.",
+    "question": "La première consigne est :",
+    "choices": [
+      "Garde la forteresse",
+      "Abats la forteresse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:2 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-038",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:2",
+    "verseText": "Voir Nahum 2:2.",
+    "question": "Quelle consigne suit “Veille sur la route” ?",
+    "choices": [
+      "Affermis tes reins",
+      "Ouvre tes portes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:2 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-039",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:3",
+    "verseText": "Voir Nahum 2:3.",
+    "question": "Pourquoi l’Éternel rétablit la gloire ?",
+    "choices": [
+      "Les pillards ont pillé et détruit leurs ceps",
+      "Les nations ont offert des sacrifices"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:3 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-040",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:4",
+    "verseText": "Voir Nahum 2:4.",
+    "question": "De quelle couleur sont les boucliers ?",
+    "choices": [
+      "Rouges",
+      "Pourpres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:4 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-041",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:4",
+    "verseText": "Voir Nahum 2:4.",
+    "question": "Les guerriers sont vêtus de…",
+    "choices": [
+      "Pourpre",
+      "Écarlate (ce mot n’est pas dans ce verset)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:4 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-042",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:4",
+    "verseText": "Voir Nahum 2:4.",
+    "question": "Les chars apparaissent avec…",
+    "choices": [
+      "Le fer qui étincelle",
+      "Le bronze qui noircit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:4 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-043",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:4",
+    "verseText": "Voir Nahum 2:4.",
+    "question": "Les lances sont…",
+    "choices": [
+      "Agitées",
+      "Brisées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:4 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-044",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:5",
+    "verseText": "Voir Nahum 2:5.",
+    "question": "Où les chars s’élancent-ils ?",
+    "choices": [
+      "Dans la campagne",
+      "Dans les murailles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:5 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-045",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:5",
+    "verseText": "Voir Nahum 2:5.",
+    "question": "“On dirait” des…",
+    "choices": [
+      "Flambeaux",
+      "Colombes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:5 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-046",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:5",
+    "verseText": "Voir Nahum 2:5.",
+    "question": "Ils courent comme…",
+    "choices": [
+      "Des éclairs",
+      "Des sauterelles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:5 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-047",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:6",
+    "verseText": "Voir Nahum 2:6.",
+    "question": "De qui “il se souvient” ?",
+    "choices": [
+      "De ses vaillants hommes",
+      "De ses marchands"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:6 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-048",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:6",
+    "verseText": "Voir Nahum 2:6.",
+    "question": "Que font les vaillants hommes ?",
+    "choices": [
+      "Ils chancellent dans leur marche",
+      "Ils triomphent dans leur marche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:6 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-049",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:6",
+    "verseText": "Voir Nahum 2:6.",
+    "question": "Que se prépare-t-on à faire ?",
+    "choices": [
+      "À la défense",
+      "À la fuite vers Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:6 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-050",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:7",
+    "verseText": "Voir Nahum 2:7.",
+    "question": "Qu’est-ce qui est ouvert ?",
+    "choices": [
+      "Les portes des fleuves",
+      "Les portes du désert"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:7 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-051",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:7",
+    "verseText": "Voir Nahum 2:7.",
+    "question": "Suite à cela, que devient le palais ?",
+    "choices": [
+      "Il s’écroule",
+      "Il s’agrandit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:7 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-052",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:8",
+    "verseText": "Voir Nahum 2:8.",
+    "question": "“C’en est fait” : elle est…",
+    "choices": [
+      "Mise à nu, emmenée",
+      "Couronnée, honorée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:8 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-053",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:8",
+    "verseText": "Voir Nahum 2:8.",
+    "question": "Les servantes gémissent comme…",
+    "choices": [
+      "Des colombes",
+      "Des lions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:8 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-054",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:9",
+    "verseText": "Voir Nahum 2:9.",
+    "question": "Ninive était jadis comme…",
+    "choices": [
+      "Un réservoir plein d’eau",
+      "Un figuier plein de primeurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:9 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-055",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:9",
+    "verseText": "Voir Nahum 2:9.",
+    "question": "Quel cri est répété ?",
+    "choices": [
+      "“Arrêtez ! Arrêtez !”",
+      "“Réparez ! Réparez !”"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:9 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-056",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:9",
+    "verseText": "Voir Nahum 2:9.",
+    "question": "Malgré ce cri, que se passe-t-il ?",
+    "choices": [
+      "Nul ne se retourne",
+      "Tous se retournent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:9 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-057",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:10",
+    "verseText": "Voir Nahum 2:10.",
+    "question": "Quel ordre concerne l’argent et l’or ?",
+    "choices": [
+      "Pillez l’argent ! Pillez l’or !",
+      "Cachez l’argent ! Cachez l’or !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:10 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-058",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:10",
+    "verseText": "Voir Nahum 2:10.",
+    "question": "Comment sont décrits les trésors ?",
+    "choices": [
+      "Sans fin",
+      "Très rares"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:10 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-059",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:11",
+    "verseText": "Voir Nahum 2:11.",
+    "question": "Quelle triple action est énoncée ?",
+    "choices": [
+      "On pille, on dévaste, on ravage",
+      "On bâtit, on plante, on chante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:11 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-060",
+    "book": "Nahum",
+    "chapter": 2,
+    "verseRef": "Nahum 2:11",
+    "verseText": "Voir Nahum 2:11.",
+    "question": "Quel effet touche “tous les visages” ?",
+    "choices": [
+      "Ils pâlissent",
+      "Ils rayonnent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 2:11 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-061",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:1",
+    "verseText": "Voir Nahum 3:1.",
+    "question": "Quelle expression décrit la ville visée ?",
+    "choices": [
+      "Ville sanguinaire",
+      "Ville paisible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:1 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-062",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:1",
+    "verseText": "Voir Nahum 3:1.",
+    "question": "De quoi la ville est-elle dite “toute pleine” ?",
+    "choices": [
+      "De mensonge et pleine de violence",
+      "De justice et pleine de paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:1 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-063",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:1",
+    "verseText": "Voir Nahum 3:1.",
+    "question": "Que dit le texte au sujet de la rapine ?",
+    "choices": [
+      "Elle ne s’en éloigne point",
+      "Elle s’en éloigne vite"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:1 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-064",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:2",
+    "verseText": "Voir Nahum 3:2.",
+    "question": "Quel bruit est mentionné en premier dans la scène de guerre ?",
+    "choices": [
+      "Le bruit du fouet",
+      "Le bruit des trompettes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:2 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-065",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:2",
+    "verseText": "Voir Nahum 3:2.",
+    "question": "Quel bruit accompagne ensuite cette scène ?",
+    "choices": [
+      "Le bruit des roues",
+      "Le bruit des chaînes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:2 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-066",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:2",
+    "verseText": "Voir Nahum 3:2.",
+    "question": "Quel animal est explicitement mentionné dans cette description ?",
+    "choices": [
+      "Le cheval",
+      "Le chameau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:2 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-067",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:2",
+    "verseText": "Voir Nahum 3:2.",
+    "question": "Que fait le char dans l’image ?",
+    "choices": [
+      "Il bondit",
+      "Il s’arrête"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:2 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-068",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:3",
+    "verseText": "Voir Nahum 3:3.",
+    "question": "Quelle réalité est mentionnée en premier au sujet des victimes ?",
+    "choices": [
+      "Une multitude de blessés",
+      "Une multitude de vainqueurs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:3 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-069",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:3",
+    "verseText": "Voir Nahum 3:3.",
+    "question": "Quelle autre réalité est mentionnée ensuite ?",
+    "choices": [
+      "Une foule de morts",
+      "Une foule de prêtres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:3 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-070",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:3",
+    "verseText": "Voir Nahum 3:3.",
+    "question": "Comment sont décrits les cadavres ?",
+    "choices": [
+      "Sans nombre",
+      "Peu nombreux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:3 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-071",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:3",
+    "verseText": "Voir Nahum 3:3.",
+    "question": "Que font les hommes à cause des cadavres ?",
+    "choices": [
+      "Ils trébuchent sur les cadavres",
+      "Ils les enterrent aussitôt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:3 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-072",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:4",
+    "verseText": "Voir Nahum 3:4.",
+    "question": "Quelle cause générale est donnée à ce jugement ?",
+    "choices": [
+      "La multitude des prostitutions",
+      "La multitude des jeûnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:4 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-073",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:4",
+    "verseText": "Voir Nahum 3:4.",
+    "question": "Comment est qualifiée la prostituée dans la description ?",
+    "choices": [
+      "Charmante",
+      "Repoussante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:4 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-074",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:4",
+    "verseText": "Voir Nahum 3:4.",
+    "question": "De quel art est-elle dite “habile” ?",
+    "choices": [
+      "À la magie",
+      "À la guerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:4 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-075",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:4",
+    "verseText": "Voir Nahum 3:4.",
+    "question": "Que fait-elle aux nations par ses prostitutions ?",
+    "choices": [
+      "Elle les vend",
+      "Elle les sauve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:4 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-076",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:4",
+    "verseText": "Voir Nahum 3:4.",
+    "question": "Que fait-elle aux peuples par ses maléfices ?",
+    "choices": [
+      "Elle les vend",
+      "Elle les rassemble"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:4 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-077",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:5",
+    "verseText": "Voir Nahum 3:5.",
+    "question": "Quelle déclaration solennelle introduit l’annonce de l’Éternel ?",
+    "choices": [
+      "Me voici à toi, dit l’Éternel des armées",
+      "Paix sur toi, dit l’Éternel des armées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:5 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-078",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:5",
+    "verseText": "Voir Nahum 3:5.",
+    "question": "Que dit l’Éternel qu’il relèvera ?",
+    "choices": [
+      "Tes pans jusqu’à ton visage",
+      "Tes portes jusqu’à ton visage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:5 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-079",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:5",
+    "verseText": "Voir Nahum 3:5.",
+    "question": "Que montrera-t-il aux nations ?",
+    "choices": [
+      "Ta nudité",
+      "Ta sagesse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:5 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-080",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:5",
+    "verseText": "Voir Nahum 3:5.",
+    "question": "Que fera-t-il voir aux royaumes ?",
+    "choices": [
+      "Ta honte",
+      "Ta force"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:5 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-081",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:6",
+    "verseText": "Voir Nahum 3:6.",
+    "question": "Que jettera-t-il sur elle ?",
+    "choices": [
+      "Des impuretés",
+      "Des parfums"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:6 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-082",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:6",
+    "verseText": "Voir Nahum 3:6.",
+    "question": "Quelle action annonce-t-il ensuite ?",
+    "choices": [
+      "Je t’avilirai",
+      "Je t’établirai"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:6 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-083",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:6",
+    "verseText": "Voir Nahum 3:6.",
+    "question": "Que deviendra-t-elle selon l’expression exacte ?",
+    "choices": [
+      "Un spectacle",
+      "Un refuge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:6 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-084",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:7",
+    "verseText": "Voir Nahum 3:7.",
+    "question": "Quelle réaction est décrite chez ceux qui la verront ?",
+    "choices": [
+      "Ils fuiront loin d’elle",
+      "Ils s’attacheront à elle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:7 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-085",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:7",
+    "verseText": "Voir Nahum 3:7.",
+    "question": "Quelle question est posée au sujet de la compassion ?",
+    "choices": [
+      "Qui te plaindra ?",
+      "Qui te couronnera ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:7 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-086",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:7",
+    "verseText": "Voir Nahum 3:7.",
+    "question": "Quelle autre question suit au sujet des consolateurs ?",
+    "choices": [
+      "Où te chercherai-je des consolateurs ?",
+      "Quand te donnerai-je des consolateurs ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:7 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-087",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:8",
+    "verseText": "Voir Nahum 3:8.",
+    "question": "Quelle ville est citée comme exemple dans la comparaison ?",
+    "choices": [
+      "No-Amon",
+      "Jéricho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:8 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-088",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:8",
+    "verseText": "Voir Nahum 3:8.",
+    "question": "Où cette ville est-elle décrite comme “couchée” ?",
+    "choices": [
+      "Au milieu des fleuves",
+      "Au sommet des montagnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:8 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-089",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:8",
+    "verseText": "Voir Nahum 3:8.",
+    "question": "Quelle expression désigne son rempart ?",
+    "choices": [
+      "La mer, son rempart",
+      "Le désert, son rempart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:8 (LSG 1910)."
+  },
+  {
+    "id": "nahum-D-090",
+    "book": "Nahum",
+    "chapter": 3,
+    "verseRef": "Nahum 3:9",
+    "verseText": "Voir Nahum 3:9.",
+    "question": "Quels deux pays sont nommés comme sa force ?",
+    "choices": [
+      "L’Éthiopie et l’Égypte",
+      "Moab et Ammon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Nahum 3:9 (LSG 1910)."
+  }
+]

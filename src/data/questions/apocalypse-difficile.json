@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "apocalypse-D-001",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:6",
+    "verseText": "Voir Apocalypse 5:6.",
+    "question": "Quel terme est employé pour celui qui ouvre le livre au chapitre cinq ?",
+    "choices": [
+      "l’Agneau",
+      "le grand prêtre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-002",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:8",
+    "verseText": "Voir Apocalypse 5:8.",
+    "question": "Que tiennent les vingt-quatre vieillards quand l’Agneau prend le livre ?",
+    "choices": [
+      "des harpes",
+      "des trompettes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-003",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:8",
+    "verseText": "Voir Apocalypse 5:8.",
+    "question": "Dans quoi sont les parfums que portent les vieillards ?",
+    "choices": [
+      "des coupes d’or",
+      "des coupes d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-004",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:8",
+    "verseText": "Voir Apocalypse 5:8.",
+    "question": "Que représentent les parfums selon le texte ?",
+    "choices": [
+      "les prières des saints",
+      "les œuvres des anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-005",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:1",
+    "verseText": "Voir Apocalypse 5:1.",
+    "question": "Quelle expression décrit le livre dans la main droite de celui qui est assis sur le trône ?",
+    "choices": [
+      "écrit en dedans et en dehors",
+      "écrit seulement en dehors"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:1 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-006",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:1",
+    "verseText": "Voir Apocalypse 5:1.",
+    "question": "À combien de sceaux le livre est-il scellé ?",
+    "choices": [
+      "sept",
+      "douze"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:1 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-007",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:5",
+    "verseText": "Voir Apocalypse 5:5.",
+    "question": "Quelle tribu est associée au lion mentionné comme vainqueur ?",
+    "choices": [
+      "Juda",
+      "Benjamin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-008",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:5",
+    "verseText": "Voir Apocalypse 5:5.",
+    "question": "Quel autre titre est associé au lion vainqueur ?",
+    "choices": [
+      "le rejeton de David",
+      "le fils d’Aaron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-009",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:6",
+    "verseText": "Voir Apocalypse 5:6.",
+    "question": "Dans quelle position l’Agneau est-il vu quand Jean le regarde ?",
+    "choices": [
+      "comme immolé",
+      "comme endormi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-010",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:6",
+    "verseText": "Voir Apocalypse 5:6.",
+    "question": "Où l’Agneau se tient-il, selon la description ?",
+    "choices": [
+      "au milieu du trône et des quatre êtres vivants, et au milieu des vieillards",
+      "devant la porte du temple, loin des vieillards"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-011",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:6",
+    "verseText": "Voir Apocalypse 5:6.",
+    "question": "Que sont appelés les sept yeux de l’Agneau ?",
+    "choices": [
+      "les sept Esprits de Dieu envoyés par toute la terre",
+      "les sept étoiles gardées pour l’Asie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-012",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:2",
+    "verseText": "Voir Apocalypse 5:2.",
+    "question": "Qui parle « d’une voix forte » pour demander qui est digne d’ouvrir le livre ?",
+    "choices": [
+      "un ange puissant",
+      "un vieillard assis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-013",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:4",
+    "verseText": "Voir Apocalypse 5:4.",
+    "question": "Quelle action Jean fait-il parce que personne n’est trouvé digne d’ouvrir le livre ?",
+    "choices": [
+      "il pleure beaucoup",
+      "il rit fortement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:4 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-014",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:5",
+    "verseText": "Voir Apocalypse 5:5.",
+    "question": "Qui dit à Jean de ne pas pleurer ?",
+    "choices": [
+      "un des vieillards",
+      "un des êtres vivants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-015",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:7",
+    "verseText": "Voir Apocalypse 5:7.",
+    "question": "Quel verbe est utilisé pour l’action de l’Agneau envers le livre ?",
+    "choices": [
+      "il le prit",
+      "il le brûla"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-016",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:7",
+    "verseText": "Voir Apocalypse 5:7.",
+    "question": "De quelle main de celui qui est assis sur le trône l’Agneau prend-il le livre ?",
+    "choices": [
+      "de la main droite",
+      "de la main gauche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-017",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:8",
+    "verseText": "Voir Apocalypse 5:8.",
+    "question": "Quand l’Agneau prend le livre, que font les quatre êtres vivants et les vingt-quatre vieillards ?",
+    "choices": [
+      "ils se prosternèrent",
+      "ils s’enfuirent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-018",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:9",
+    "verseText": "Voir Apocalypse 5:9.",
+    "question": "Quelle précision accompagne le cantique chanté à l’Agneau ?",
+    "choices": [
+      "« Tu es digne de prendre le livre, et d’en ouvrir les sceaux »",
+      "« Tu es digne de juger les nations, et de fermer les portes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-019",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:9",
+    "verseText": "Voir Apocalypse 5:9.",
+    "question": "Quelle raison est donnée pour la dignité de l’Agneau dans le cantique ?",
+    "choices": [
+      "« car tu as été immolé »",
+      "« car tu as été couronné »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-020",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:9",
+    "verseText": "Voir Apocalypse 5:9.",
+    "question": "Par quoi le cantique dit-il que l’Agneau a racheté pour Dieu ?",
+    "choices": [
+      "par ton sang",
+      "par ton souffle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-021",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:9",
+    "verseText": "Voir Apocalypse 5:9.",
+    "question": "De quels groupes les rachetés sont-ils dits venir ?",
+    "choices": [
+      "de toute tribu, de toute langue, de tout peuple, et de toute nation",
+      "de tout royaume, de toute montagne, de tout désert, et de toute mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-022",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:10",
+    "verseText": "Voir Apocalypse 5:10.",
+    "question": "Que dit le cantique que l’Agneau a fait d’eux pour Dieu ?",
+    "choices": [
+      "un royaume et des sacrificateurs",
+      "des prophètes et des juges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-023",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:10",
+    "verseText": "Voir Apocalypse 5:10.",
+    "question": "Que dit le cantique au sujet de ces rachetés sur la terre ?",
+    "choices": [
+      "ils régneront sur la terre",
+      "ils disparaîtront de la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-024",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:11",
+    "verseText": "Voir Apocalypse 5:11.",
+    "question": "Quel nombre est donné pour les anges autour du trône dans la vision ?",
+    "choices": [
+      "des myriades de myriades et des milliers de milliers",
+      "des centaines de centaines et des dizaines de dizaines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-025",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:12",
+    "verseText": "Voir Apocalypse 5:12.",
+    "question": "Quelle expression annonce la force de la proclamation des anges ?",
+    "choices": [
+      "ils disaient d’une voix forte",
+      "ils murmuraient à voix basse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-026",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:12",
+    "verseText": "Voir Apocalypse 5:12.",
+    "question": "Quelle est la première chose citée que l’Agneau est digne de recevoir, selon les anges ?",
+    "choices": [
+      "la puissance",
+      "la couronne"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-027",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:12",
+    "verseText": "Voir Apocalypse 5:12.",
+    "question": "Quelle série est citée dans la proclamation des anges au sujet de l’Agneau ?",
+    "choices": [
+      "puissance, richesse, sagesse, force, honneur, gloire, louange",
+      "or, argent, airain, fer, bois, pierre, argile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-028",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:13",
+    "verseText": "Voir Apocalypse 5:13.",
+    "question": "Qui est inclus dans la louange universelle décrite ensuite ?",
+    "choices": [
+      "toute créature dans le ciel, sur la terre, sous la terre, sur la mer",
+      "seulement ceux du ciel et ceux de la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-029",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:13",
+    "verseText": "Voir Apocalypse 5:13.",
+    "question": "À qui la louange universelle est-elle adressée ?",
+    "choices": [
+      "à celui qui est assis sur le trône, et à l’Agneau",
+      "à l’ange puissant, et au vieillard"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-030",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:13",
+    "verseText": "Voir Apocalypse 5:13.",
+    "question": "Quelle durée est mentionnée pour la louange adressée ?",
+    "choices": [
+      "aux siècles des siècles",
+      "pour quarante jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-031",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:14",
+    "verseText": "Voir Apocalypse 5:14.",
+    "question": "Que disent les quatre êtres vivants après cette louange ?",
+    "choices": [
+      "Amen",
+      "Hosanna"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:14 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-032",
+    "book": "Apocalypse",
+    "chapter": 5,
+    "verseRef": "Apocalypse 5:14",
+    "verseText": "Voir Apocalypse 5:14.",
+    "question": "Que font les vingt-quatre vieillards à la fin de cette scène ?",
+    "choices": [
+      "ils se prosternèrent et adorèrent",
+      "ils s’assirent et gardèrent le silence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 5:14 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-033",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:4",
+    "verseText": "Voir Apocalypse 1:4.",
+    "question": "Dans la salutation initiale, d’où viennent la grâce et la paix après « Celui qui est… » ?",
+    "choices": [
+      "des sept Esprits qui sont devant son trône",
+      "des sept chandeliers d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:4 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-034",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:5",
+    "verseText": "Voir Apocalypse 1:5.",
+    "question": "Quel titre de Jésus-Christ est cité en premier dans la salutation ?",
+    "choices": [
+      "le témoin fidèle",
+      "le roi des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-035",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:11",
+    "verseText": "Voir Apocalypse 1:11.",
+    "question": "Quel ordre précise où envoyer ce qui est écrit par Jean ?",
+    "choices": [
+      "à Éphèse, à Smyrne, à Pergame, à Thyatire, à Sardes, à Philadelphie, et à Laodicée",
+      "à Jérusalem, à Césarée, à Antioche, à Rome, à Corinthe, à Athènes, et à Alexandrie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-036",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:12",
+    "verseText": "Voir Apocalypse 1:12.",
+    "question": "Quel métal est associé aux chandeliers vus par Jean ?",
+    "choices": [
+      "d’or",
+      "de fer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-037",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:14",
+    "verseText": "Voir Apocalypse 1:14.",
+    "question": "Quelle comparaison décrit la tête et les cheveux de celui qui ressemble à un fils d’homme ?",
+    "choices": [
+      "blancs comme de la laine blanche, comme de la neige",
+      "noirs comme la nuit, comme du charbon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:14 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-038",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:15",
+    "verseText": "Voir Apocalypse 1:15.",
+    "question": "Quelle image est employée pour décrire ses pieds ?",
+    "choices": [
+      "semblables à de l’airain ardent, comme s’il eût été embrasé dans une fournaise",
+      "semblables à de l’argile molle, comme s’il eût été pétri dans l’eau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:15 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-039",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:16",
+    "verseText": "Voir Apocalypse 1:16.",
+    "question": "Combien d’étoiles sont dans sa main droite ?",
+    "choices": [
+      "sept",
+      "dix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-040",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:16",
+    "verseText": "Voir Apocalypse 1:16.",
+    "question": "Quelle arme sort de sa bouche selon la vision ?",
+    "choices": [
+      "une épée aiguë, à deux tranchants",
+      "une lance longue, à un tranchant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-041",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:16",
+    "verseText": "Voir Apocalypse 1:16.",
+    "question": "À quoi est comparé son visage dans la vision ?",
+    "choices": [
+      "au soleil quand il brille dans sa force",
+      "à une lampe vacillante dans le vent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-042",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:17",
+    "verseText": "Voir Apocalypse 1:17.",
+    "question": "Quelle réaction Jean a-t-il en le voyant ?",
+    "choices": [
+      "il tomba à ses pieds comme mort",
+      "il se mit à courir vers la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-043",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:17",
+    "verseText": "Voir Apocalypse 1:17.",
+    "question": "Quelle parole « Ne crains point » est liée à quel titre ?",
+    "choices": [
+      "« Je suis le premier et le dernier »",
+      "« Je suis le fils de l’homme »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-044",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:18",
+    "verseText": "Voir Apocalypse 1:18.",
+    "question": "Quelle affirmation suit immédiatement « Je suis le premier et le dernier » ?",
+    "choices": [
+      "« et le vivant. J’étais mort; et voici, je suis vivant aux siècles des siècles »",
+      "« et l’ange de l’alliance. J’étais caché; et voici, je suis révélé aux nations »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:18 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-045",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:18",
+    "verseText": "Voir Apocalypse 1:18.",
+    "question": "Qu’est-ce qu’il dit avoir reçu en plus d’être vivant aux siècles des siècles ?",
+    "choices": [
+      "les clefs de la mort et du séjour des morts",
+      "les balances de la justice et de la paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:18 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-046",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:19",
+    "verseText": "Voir Apocalypse 1:19.",
+    "question": "Quel triptyque résume ce que Jean doit écrire ?",
+    "choices": [
+      "ce qu’il a vu, ce qui est, et ce qui doit arriver ensuite",
+      "ce qu’il croit, ce qu’il espère, et ce qu’il aime"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:19 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-047",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:20",
+    "verseText": "Voir Apocalypse 1:20.",
+    "question": "Dans l’explication, que représentent les sept chandeliers d’or ?",
+    "choices": [
+      "les sept Églises",
+      "les sept sceaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:20 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-048",
+    "book": "Apocalypse",
+    "chapter": 1,
+    "verseRef": "Apocalypse 1:20",
+    "verseText": "Voir Apocalypse 1:20.",
+    "question": "Dans l’explication, que représentent les sept étoiles ?",
+    "choices": [
+      "les anges des sept Églises",
+      "les anciens des sept tribus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 1:20 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-049",
+    "book": "Apocalypse",
+    "chapter": 2,
+    "verseRef": "Apocalypse 2:7",
+    "verseText": "Voir Apocalypse 2:7.",
+    "question": "Quel lieu précis est nommé pour l’arbre de vie promis au vainqueur ?",
+    "choices": [
+      "le paradis de Dieu",
+      "le désert de Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 2:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-050",
+    "book": "Apocalypse",
+    "chapter": 2,
+    "verseRef": "Apocalypse 2:11",
+    "verseText": "Voir Apocalypse 2:11.",
+    "question": "Quel mal est explicitement exclu pour le vainqueur à Smyrne ?",
+    "choices": [
+      "la seconde mort ne lui fera point de mal",
+      "la première mort ne lui fera point de mal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 2:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-051",
+    "book": "Apocalypse",
+    "chapter": 2,
+    "verseRef": "Apocalypse 2:17",
+    "verseText": "Voir Apocalypse 2:17.",
+    "question": "Quel aliment est qualifié de « cachée » dans la promesse au vainqueur ?",
+    "choices": [
+      "la manne",
+      "la farine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 2:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-052",
+    "book": "Apocalypse",
+    "chapter": 2,
+    "verseRef": "Apocalypse 2:17",
+    "verseText": "Voir Apocalypse 2:17.",
+    "question": "Quelle couleur est donnée au caillou promis au vainqueur ?",
+    "choices": [
+      "blanc",
+      "rouge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 2:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-053",
+    "book": "Apocalypse",
+    "chapter": 2,
+    "verseRef": "Apocalypse 2:17",
+    "verseText": "Voir Apocalypse 2:17.",
+    "question": "Qu’y a-t-il écrit sur le caillou promis ?",
+    "choices": [
+      "un nom nouveau",
+      "le nom de Moïse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 2:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-054",
+    "book": "Apocalypse",
+    "chapter": 2,
+    "verseRef": "Apocalypse 2:17",
+    "verseText": "Voir Apocalypse 2:17.",
+    "question": "Qui connaît ce nom nouveau, selon le texte ?",
+    "choices": [
+      "celui qui le reçoit",
+      "toute l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 2:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-055",
+    "book": "Apocalypse",
+    "chapter": 2,
+    "verseRef": "Apocalypse 2:28",
+    "verseText": "Voir Apocalypse 2:28.",
+    "question": "Quel astre est promis au vainqueur dans une promesse ?",
+    "choices": [
+      "l’étoile du matin",
+      "l’étoile du soir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 2:28 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-056",
+    "book": "Apocalypse",
+    "chapter": 3,
+    "verseRef": "Apocalypse 3:5",
+    "verseText": "Voir Apocalypse 3:5.",
+    "question": "Quel vêtement est associé à « celui qui vaincra » à Sardes ?",
+    "choices": [
+      "il sera revêtu de vêtements blancs",
+      "il sera revêtu de vêtements d’écarlate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 3:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-057",
+    "book": "Apocalypse",
+    "chapter": 3,
+    "verseRef": "Apocalypse 3:5",
+    "verseText": "Voir Apocalypse 3:5.",
+    "question": "Devant qui le nom du vainqueur est-il confessé ?",
+    "choices": [
+      "devant mon Père et devant ses anges",
+      "devant les nations et devant les rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 3:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-058",
+    "book": "Apocalypse",
+    "chapter": 3,
+    "verseRef": "Apocalypse 3:8",
+    "verseText": "Voir Apocalypse 3:8.",
+    "question": "Quel type de porte est mentionné pour une Église qui a « peu de puissance » ?",
+    "choices": [
+      "une porte ouverte",
+      "une porte scellée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 3:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-059",
+    "book": "Apocalypse",
+    "chapter": 3,
+    "verseRef": "Apocalypse 3:18",
+    "verseText": "Voir Apocalypse 3:18.",
+    "question": "Quel conseil concerne explicitement la vue ?",
+    "choices": [
+      "un collyre pour oindre tes yeux, afin que tu voies",
+      "de l’eau pure pour laver tes yeux, afin que tu dormes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 3:18 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-060",
+    "book": "Apocalypse",
+    "chapter": 3,
+    "verseRef": "Apocalypse 3:20",
+    "verseText": "Voir Apocalypse 3:20.",
+    "question": "Quelle action est promise à celui qui entend la voix et ouvre la porte ?",
+    "choices": [
+      "j’entrerai chez lui, je souperai avec lui, et lui avec moi",
+      "j’entrerai chez lui, je prierai pour lui, et lui pour moi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 3:20 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-061",
+    "book": "Apocalypse",
+    "chapter": 6,
+    "verseRef": "Apocalypse 6:2",
+    "verseText": "Voir Apocalypse 6:2.",
+    "question": "Au premier sceau, quelle action accompagne le départ du cavalier du cheval blanc ?",
+    "choices": [
+      "il partit en vainqueur et pour vaincre",
+      "il partit pour fuir et pour se cacher"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 6:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-062",
+    "book": "Apocalypse",
+    "chapter": 6,
+    "verseRef": "Apocalypse 6:4",
+    "verseText": "Voir Apocalypse 6:4.",
+    "question": "Au deuxième sceau, quel objet est donné à celui qui est assis sur le cheval roux ?",
+    "choices": [
+      "une grande épée",
+      "une balance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 6:4 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-063",
+    "book": "Apocalypse",
+    "chapter": 6,
+    "verseRef": "Apocalypse 6:6",
+    "verseText": "Voir Apocalypse 6:6.",
+    "question": "Au troisième sceau, quelle quantité est annoncée pour le froment contre un denier ?",
+    "choices": [
+      "une mesure de froment",
+      "dix mesures de froment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 6:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-064",
+    "book": "Apocalypse",
+    "chapter": 6,
+    "verseRef": "Apocalypse 6:6",
+    "verseText": "Voir Apocalypse 6:6.",
+    "question": "Au troisième sceau, quelle quantité est annoncée pour l’orge contre un denier ?",
+    "choices": [
+      "trois mesures d’orge",
+      "une mesure d’orge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 6:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-065",
+    "book": "Apocalypse",
+    "chapter": 6,
+    "verseRef": "Apocalypse 6:8",
+    "verseText": "Voir Apocalypse 6:8.",
+    "question": "Au quatrième sceau, sur quelle partie de la terre la puissance est-elle donnée à la Mort ?",
+    "choices": [
+      "sur le quart de la terre",
+      "sur le tiers de la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 6:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-066",
+    "book": "Apocalypse",
+    "chapter": 6,
+    "verseRef": "Apocalypse 6:9",
+    "verseText": "Voir Apocalypse 6:9.",
+    "question": "Au cinquième sceau, pour quelles raisons les âmes égorgées ont-elles été immolées ?",
+    "choices": [
+      "pour la parole de Dieu et pour le témoignage qu’elles avaient rendu",
+      "pour les richesses de la terre et pour la gloire des rois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 6:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-067",
+    "book": "Apocalypse",
+    "chapter": 6,
+    "verseRef": "Apocalypse 6:13",
+    "verseText": "Voir Apocalypse 6:13.",
+    "question": "Au sixième sceau, que deviennent les étoiles du ciel ?",
+    "choices": [
+      "elles tombèrent sur la terre comme un figuier jette ses figues vertes",
+      "elles brillèrent plus fort comme des flambeaux allumés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 6:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-068",
+    "book": "Apocalypse",
+    "chapter": 6,
+    "verseRef": "Apocalypse 6:14",
+    "verseText": "Voir Apocalypse 6:14.",
+    "question": "Au sixième sceau, à quoi le ciel se retire-t-il ?",
+    "choices": [
+      "à un livre qu’on roule",
+      "à un voile qu’on déchire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 6:14 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-069",
+    "book": "Apocalypse",
+    "chapter": 6,
+    "verseRef": "Apocalypse 6:16",
+    "verseText": "Voir Apocalypse 6:16.",
+    "question": "Au sixième sceau, que demandent ceux qui se cachent aux montagnes et aux rochers ?",
+    "choices": [
+      "Tombez sur nous, et cachez-nous",
+      "Levez-vous pour nous, et conduisez-nous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 6:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-070",
+    "book": "Apocalypse",
+    "chapter": 7,
+    "verseRef": "Apocalypse 7:1",
+    "verseText": "Voir Apocalypse 7:1.",
+    "question": "Avant les scellements, que doivent retenir les quatre anges aux quatre coins de la terre ?",
+    "choices": [
+      "les quatre vents de la terre",
+      "les quatre fleuves de la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 7:1 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-071",
+    "book": "Apocalypse",
+    "chapter": 7,
+    "verseRef": "Apocalypse 7:3",
+    "verseText": "Voir Apocalypse 7:3.",
+    "question": "Quel cri l’ange qui monte du côté du soleil levant adresse-t-il aux quatre anges ?",
+    "choices": [
+      "Ne faites point de mal à la terre, ni à la mer, ni aux arbres",
+      "Ouvrez les cieux, et faites tomber le feu sur la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 7:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-072",
+    "book": "Apocalypse",
+    "chapter": 7,
+    "verseRef": "Apocalypse 7:14",
+    "verseText": "Voir Apocalypse 7:14.",
+    "question": "Après le scellement, que dit le texte que la grande multitude avait fait de ses robes ?",
+    "choices": [
+      "elles les avait blanchies",
+      "elle les avait déchirées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 7:14 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-073",
+    "book": "Apocalypse",
+    "chapter": 7,
+    "verseRef": "Apocalypse 7:16",
+    "verseText": "Voir Apocalypse 7:16.",
+    "question": "Que promet le texte au sujet de la faim pour cette multitude ?",
+    "choices": [
+      "ils n’auront plus faim",
+      "ils auront faim un peu de temps"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 7:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-074",
+    "book": "Apocalypse",
+    "chapter": 7,
+    "verseRef": "Apocalypse 7:16",
+    "verseText": "Voir Apocalypse 7:16.",
+    "question": "Que promet le texte au sujet de la soif pour cette multitude ?",
+    "choices": [
+      "ils n’auront plus soif",
+      "ils boiront seulement au soir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 7:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-075",
+    "book": "Apocalypse",
+    "chapter": 7,
+    "verseRef": "Apocalypse 7:16",
+    "verseText": "Voir Apocalypse 7:16.",
+    "question": "Quel agent est explicitement exclu comme les frappant, selon la promesse ?",
+    "choices": [
+      "le soleil, ni aucune chaleur",
+      "la pluie, ni aucun vent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 7:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-076",
+    "book": "Apocalypse",
+    "chapter": 7,
+    "verseRef": "Apocalypse 7:17",
+    "verseText": "Voir Apocalypse 7:17.",
+    "question": "Quel rôle est attribué à l’Agneau à leur égard ?",
+    "choices": [
+      "il les paîtra, et les conduira aux sources des eaux de la vie",
+      "il les jugera, et les livrera aux nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 7:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-077",
+    "book": "Apocalypse",
+    "chapter": 8,
+    "verseRef": "Apocalypse 8:5",
+    "verseText": "Voir Apocalypse 8:5.",
+    "question": "Après le jet du feu de l’autel sur la terre, que se produit-il ?",
+    "choices": [
+      "des tonnerres, des voix, des éclairs, et un tremblement de terre",
+      "des grêlons, des sauterelles, et une famine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 8:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-078",
+    "book": "Apocalypse",
+    "chapter": 8,
+    "verseRef": "Apocalypse 8:7",
+    "verseText": "Voir Apocalypse 8:7.",
+    "question": "À la première trompette, qu’est-il dit de toute l’herbe verte ?",
+    "choices": [
+      "elle fut brûlée",
+      "elle fut changée en sel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 8:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-079",
+    "book": "Apocalypse",
+    "chapter": 8,
+    "verseRef": "Apocalypse 8:9",
+    "verseText": "Voir Apocalypse 8:9.",
+    "question": "À la deuxième trompette, quelle proportion des créatures vivantes dans la mer meurt ?",
+    "choices": [
+      "le tiers",
+      "le quart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 8:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-080",
+    "book": "Apocalypse",
+    "chapter": 8,
+    "verseRef": "Apocalypse 8:9",
+    "verseText": "Voir Apocalypse 8:9.",
+    "question": "À la deuxième trompette, quelle proportion des navires périt ?",
+    "choices": [
+      "le tiers",
+      "la moitié"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 8:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-081",
+    "book": "Apocalypse",
+    "chapter": 8,
+    "verseRef": "Apocalypse 8:11",
+    "verseText": "Voir Apocalypse 8:11.",
+    "question": "Quel effet l’étoile nommée Absinthe produit-elle sur les eaux ?",
+    "choices": [
+      "le tiers des eaux devint absinthe",
+      "toutes les eaux devinrent du sang"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 8:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-082",
+    "book": "Apocalypse",
+    "chapter": 8,
+    "verseRef": "Apocalypse 8:11",
+    "verseText": "Voir Apocalypse 8:11.",
+    "question": "Quel résultat est mentionné concernant les hommes à cause des eaux devenues amères ?",
+    "choices": [
+      "beaucoup d’hommes moururent",
+      "nul homme ne fut atteint"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 8:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-083",
+    "book": "Apocalypse",
+    "chapter": 8,
+    "verseRef": "Apocalypse 8:12",
+    "verseText": "Voir Apocalypse 8:12.",
+    "question": "À la quatrième trompette, quelle conséquence est donnée sur le jour et la nuit ?",
+    "choices": [
+      "le jour perdit le tiers de sa clarté, et la nuit de même",
+      "le jour disparut entièrement, et la nuit demeura seule"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 8:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-084",
+    "book": "Apocalypse",
+    "chapter": 9,
+    "verseRef": "Apocalypse 9:2",
+    "verseText": "Voir Apocalypse 9:2.",
+    "question": "Au cinquième ange, que sort-il du puits de l’abîme après son ouverture ?",
+    "choices": [
+      "une fumée comme la fumée d’une grande fournaise",
+      "une eau comme un fleuve débordé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 9:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-085",
+    "book": "Apocalypse",
+    "chapter": 9,
+    "verseRef": "Apocalypse 9:2",
+    "verseText": "Voir Apocalypse 9:2.",
+    "question": "Quel effet cette fumée a-t-elle sur le soleil et sur l’air ?",
+    "choices": [
+      "ils furent obscurcis",
+      "ils furent embrasés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 9:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-086",
+    "book": "Apocalypse",
+    "chapter": 9,
+    "verseRef": "Apocalypse 9:5",
+    "verseText": "Voir Apocalypse 9:5.",
+    "question": "Quel ordre précise la limite du tourment infligé par les sauterelles ?",
+    "choices": [
+      "cinq mois",
+      "quarante-deux mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 9:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-087",
+    "book": "Apocalypse",
+    "chapter": 9,
+    "verseRef": "Apocalypse 9:7",
+    "verseText": "Voir Apocalypse 9:7.",
+    "question": "Dans la description des sauterelles, à quoi leurs couronnes ressemblent-elles ?",
+    "choices": [
+      "à de l’or",
+      "à de l’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 9:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-088",
+    "book": "Apocalypse",
+    "chapter": 9,
+    "verseRef": "Apocalypse 9:7",
+    "verseText": "Voir Apocalypse 9:7.",
+    "question": "Dans la description des sauterelles, à quoi leurs faces ressemblent-elles ?",
+    "choices": [
+      "à des faces d’hommes",
+      "à des faces d’enfants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 9:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-089",
+    "book": "Apocalypse",
+    "chapter": 9,
+    "verseRef": "Apocalypse 9:8",
+    "verseText": "Voir Apocalypse 9:8.",
+    "question": "Dans la description des sauterelles, à quoi leurs cheveux ressemblent-ils ?",
+    "choices": [
+      "à des cheveux de femmes",
+      "à des crins de chevaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 9:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-090",
+    "book": "Apocalypse",
+    "chapter": 9,
+    "verseRef": "Apocalypse 9:8",
+    "verseText": "Voir Apocalypse 9:8.",
+    "question": "Dans la description des sauterelles, à quoi leurs dents sont-elles comparées ?",
+    "choices": [
+      "à des dents de lions",
+      "à des dents de serpents"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 9:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-091",
+    "book": "Apocalypse",
+    "chapter": 9,
+    "verseRef": "Apocalypse 9:9",
+    "verseText": "Voir Apocalypse 9:9.",
+    "question": "Dans la description des sauterelles, à quoi leurs cuirasses ressemblent-elles ?",
+    "choices": [
+      "à des cuirasses de fer",
+      "à des cuirasses d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 9:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-092",
+    "book": "Apocalypse",
+    "chapter": 9,
+    "verseRef": "Apocalypse 9:9",
+    "verseText": "Voir Apocalypse 9:9.",
+    "question": "Dans la description des sauterelles, à quoi le bruit de leurs ailes est-il comparé ?",
+    "choices": [
+      "au bruit de chars à plusieurs chevaux courant au combat",
+      "au bruit d’un souffle léger dans les roseaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 9:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-093",
+    "book": "Apocalypse",
+    "chapter": 9,
+    "verseRef": "Apocalypse 9:14",
+    "verseText": "Voir Apocalypse 9:14.",
+    "question": "Au sixième ange, où sont ces quatre anges liés avant d’être déliés ?",
+    "choices": [
+      "sur le grand fleuve Euphrate",
+      "sur la mer de verre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 9:14 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-094",
+    "book": "Apocalypse",
+    "chapter": 9,
+    "verseRef": "Apocalypse 9:15",
+    "verseText": "Voir Apocalypse 9:15.",
+    "question": "Quel moment est mentionné pour lequel ils sont préparés ?",
+    "choices": [
+      "l’heure, le jour, le mois, et l’année",
+      "la semaine, le sabbat, et la nouvelle lune"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 9:15 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-095",
+    "book": "Apocalypse",
+    "chapter": 9,
+    "verseRef": "Apocalypse 9:16",
+    "verseText": "Voir Apocalypse 9:16.",
+    "question": "Quel nombre est donné pour les cavaliers de cette armée ?",
+    "choices": [
+      "deux myriades de myriades",
+      "dix milliers de milliers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 9:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-096",
+    "book": "Apocalypse",
+    "chapter": 9,
+    "verseRef": "Apocalypse 9:17",
+    "verseText": "Voir Apocalypse 9:17.",
+    "question": "Quels trois fléaux sortent de la bouche des chevaux dans la vision ?",
+    "choices": [
+      "le feu, la fumée, et le soufre",
+      "l’eau, le vent, et la grêle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 9:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-097",
+    "book": "Apocalypse",
+    "chapter": 11,
+    "verseRef": "Apocalypse 11:1",
+    "verseText": "Voir Apocalypse 11:1.",
+    "question": "Quel lieu Jean doit-il mesurer, selon l’ordre reçu ?",
+    "choices": [
+      "le temple de Dieu",
+      "la mer de verre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 11:1 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-098",
+    "book": "Apocalypse",
+    "chapter": 11,
+    "verseRef": "Apocalypse 11:2",
+    "verseText": "Voir Apocalypse 11:2.",
+    "question": "Quel espace doit-il laisser de côté et ne pas mesurer ?",
+    "choices": [
+      "le parvis extérieur du temple",
+      "l’autel d’or du sanctuaire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 11:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-099",
+    "book": "Apocalypse",
+    "chapter": 11,
+    "verseRef": "Apocalypse 11:8",
+    "verseText": "Voir Apocalypse 11:8.",
+    "question": "Où les corps des deux témoins restent-ils après leur mort ?",
+    "choices": [
+      "sur la place de la grande ville",
+      "dans le désert préparé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 11:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-100",
+    "book": "Apocalypse",
+    "chapter": 11,
+    "verseRef": "Apocalypse 11:8",
+    "verseText": "Voir Apocalypse 11:8.",
+    "question": "Comment la grande ville est-elle appelée « spirituellement » ?",
+    "choices": [
+      "Sodome et Égypte",
+      "Babylone et Tyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 11:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-101",
+    "book": "Apocalypse",
+    "chapter": 11,
+    "verseRef": "Apocalypse 11:8",
+    "verseText": "Voir Apocalypse 11:8.",
+    "question": "Quelle indication précise est donnée sur le lieu où leur Seigneur a été crucifié ?",
+    "choices": [
+      "c’est là que leur Seigneur a été crucifié",
+      "c’est là que leur Seigneur a été couronné"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 11:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-102",
+    "book": "Apocalypse",
+    "chapter": 11,
+    "verseRef": "Apocalypse 11:9",
+    "verseText": "Voir Apocalypse 11:9.",
+    "question": "Combien de temps les corps des témoins ne sont-ils pas mis dans un sépulcre ?",
+    "choices": [
+      "trois jours et demi",
+      "sept jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 11:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-103",
+    "book": "Apocalypse",
+    "chapter": 11,
+    "verseRef": "Apocalypse 11:11",
+    "verseText": "Voir Apocalypse 11:11.",
+    "question": "Quel événement survient après les trois jours et demi concernant les témoins ?",
+    "choices": [
+      "un esprit de vie venant de Dieu entra en eux",
+      "un feu du ciel descendit sur eux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 11:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-104",
+    "book": "Apocalypse",
+    "chapter": 11,
+    "verseRef": "Apocalypse 11:12",
+    "verseText": "Voir Apocalypse 11:12.",
+    "question": "Quelle parole venue du ciel les appelle ensuite ?",
+    "choices": [
+      "Montez ici",
+      "Descendez là"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 11:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-105",
+    "book": "Apocalypse",
+    "chapter": 11,
+    "verseRef": "Apocalypse 11:12",
+    "verseText": "Voir Apocalypse 11:12.",
+    "question": "Quel phénomène accompagne l’élévation des témoins ?",
+    "choices": [
+      "une nuée",
+      "un char de feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 11:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-106",
+    "book": "Apocalypse",
+    "chapter": 11,
+    "verseRef": "Apocalypse 11:13",
+    "verseText": "Voir Apocalypse 11:13.",
+    "question": "Au même moment, quelle proportion de la ville tombe au tremblement de terre ?",
+    "choices": [
+      "le dixième",
+      "le tiers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 11:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-107",
+    "book": "Apocalypse",
+    "chapter": 11,
+    "verseRef": "Apocalypse 11:13",
+    "verseText": "Voir Apocalypse 11:13.",
+    "question": "Combien de noms d’hommes périssent dans ce tremblement de terre ?",
+    "choices": [
+      "sept mille",
+      "douze mille"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 11:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-108",
+    "book": "Apocalypse",
+    "chapter": 12,
+    "verseRef": "Apocalypse 12:3",
+    "verseText": "Voir Apocalypse 12:3.",
+    "question": "Dans la vision du dragon, que portent ses sept têtes ?",
+    "choices": [
+      "sept diadèmes",
+      "sept couronnes d’épines"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 12:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-109",
+    "book": "Apocalypse",
+    "chapter": 12,
+    "verseRef": "Apocalypse 12:9",
+    "verseText": "Voir Apocalypse 12:9.",
+    "question": "Quel nom le texte donne-t-il au dragon en l’identifiant explicitement ?",
+    "choices": [
+      "le serpent ancien, appelé le diable et Satan",
+      "l’ange puissant, appelé le destructeur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 12:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-110",
+    "book": "Apocalypse",
+    "chapter": 12,
+    "verseRef": "Apocalypse 12:9",
+    "verseText": "Voir Apocalypse 12:9.",
+    "question": "Quelle activité est attribuée à Satan envers toute la terre ?",
+    "choices": [
+      "il séduit toute la terre",
+      "il guérit toute la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 12:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-111",
+    "book": "Apocalypse",
+    "chapter": 12,
+    "verseRef": "Apocalypse 12:7",
+    "verseText": "Voir Apocalypse 12:7.",
+    "question": "Dans la guerre dans le ciel, qui combat contre le dragon ?",
+    "choices": [
+      "Michel et ses anges",
+      "Gabriel et ses anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 12:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-112",
+    "book": "Apocalypse",
+    "chapter": 12,
+    "verseRef": "Apocalypse 12:10",
+    "verseText": "Voir Apocalypse 12:10.",
+    "question": "Quel cri céleste mentionne l’accusateur des frères ?",
+    "choices": [
+      "celui qui les accusait devant notre Dieu jour et nuit",
+      "celui qui les louait devant notre Dieu jour et nuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 12:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-113",
+    "book": "Apocalypse",
+    "chapter": 12,
+    "verseRef": "Apocalypse 12:11",
+    "verseText": "Voir Apocalypse 12:11.",
+    "question": "Par quoi les frères ont-ils vaincu l’accusateur ?",
+    "choices": [
+      "à cause du sang de l’Agneau et à cause de la parole de leur témoignage",
+      "à cause de leur force et à cause de leurs armes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 12:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-114",
+    "book": "Apocalypse",
+    "chapter": 12,
+    "verseRef": "Apocalypse 12:11",
+    "verseText": "Voir Apocalypse 12:11.",
+    "question": "Quel détail est ajouté sur leur attitude envers leur vie ?",
+    "choices": [
+      "ils n’ont pas aimé leur vie jusqu’à craindre la mort",
+      "ils ont aimé leur vie plus que la vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 12:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-115",
+    "book": "Apocalypse",
+    "chapter": 12,
+    "verseRef": "Apocalypse 12:14",
+    "verseText": "Voir Apocalypse 12:14.",
+    "question": "Quel objet est donné à la femme pour qu’elle s’envole au désert ?",
+    "choices": [
+      "les deux ailes du grand aigle",
+      "les deux roues du char de feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 12:14 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-116",
+    "book": "Apocalypse",
+    "chapter": 12,
+    "verseRef": "Apocalypse 12:14",
+    "verseText": "Voir Apocalypse 12:14.",
+    "question": "Quelle durée est donnée pour sa nourriture au désert dans cette image ?",
+    "choices": [
+      "un temps, des temps, et la moitié d’un temps",
+      "quarante-deux jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 12:14 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-117",
+    "book": "Apocalypse",
+    "chapter": 12,
+    "verseRef": "Apocalypse 12:15",
+    "verseText": "Voir Apocalypse 12:15.",
+    "question": "Qu’est-ce que le serpent jette de sa bouche après la femme ?",
+    "choices": [
+      "de l’eau comme un fleuve",
+      "du feu comme une fournaise"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 12:15 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-118",
+    "book": "Apocalypse",
+    "chapter": 12,
+    "verseRef": "Apocalypse 12:16",
+    "verseText": "Voir Apocalypse 12:16.",
+    "question": "Quel secours la terre apporte-t-elle à la femme ?",
+    "choices": [
+      "la terre ouvrit sa bouche et engloutit le fleuve",
+      "la terre s’embrasa et consuma la femme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 12:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-119",
+    "book": "Apocalypse",
+    "chapter": 12,
+    "verseRef": "Apocalypse 12:17",
+    "verseText": "Voir Apocalypse 12:17.",
+    "question": "Contre qui le dragon s’en va-t-il faire la guerre après cela ?",
+    "choices": [
+      "contre le reste de sa postérité, ceux qui gardent les commandements de Dieu et qui ont le témoignage de Jésus",
+      "contre les rois de la terre, ceux qui bâtissent des villes et qui ont des armées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 12:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-120",
+    "book": "Apocalypse",
+    "chapter": 13,
+    "verseRef": "Apocalypse 13:2",
+    "verseText": "Voir Apocalypse 13:2.",
+    "question": "Dans la description de la bête de la mer, à quoi ses pieds sont-ils comparés ?",
+    "choices": [
+      "à ceux d’un ours",
+      "à ceux d’un aigle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 13:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-121",
+    "book": "Apocalypse",
+    "chapter": 13,
+    "verseRef": "Apocalypse 13:11",
+    "verseText": "Voir Apocalypse 13:11.",
+    "question": "Quel texte précise l’aspect des deux cornes de la seconde bête ?",
+    "choices": [
+      "semblables à celles d’un agneau",
+      "semblables à celles d’un taureau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 13:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-122",
+    "book": "Apocalypse",
+    "chapter": 13,
+    "verseRef": "Apocalypse 13:11",
+    "verseText": "Voir Apocalypse 13:11.",
+    "question": "Malgré son apparence, comment la seconde bête est-elle dite parler ?",
+    "choices": [
+      "comme un dragon",
+      "comme un homme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 13:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-123",
+    "book": "Apocalypse",
+    "chapter": 13,
+    "verseRef": "Apocalypse 13:13",
+    "verseText": "Voir Apocalypse 13:13.",
+    "question": "Quel prodige majeur la seconde bête opère-t-elle devant les hommes ?",
+    "choices": [
+      "faire descendre du feu du ciel sur la terre",
+      "faire monter de l’eau de la terre vers le ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 13:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-124",
+    "book": "Apocalypse",
+    "chapter": 13,
+    "verseRef": "Apocalypse 13:14",
+    "verseText": "Voir Apocalypse 13:14.",
+    "question": "Pour quel motif l’image de la bête doit-elle être faite, selon l’expression du texte ?",
+    "choices": [
+      "pour la bête qui avait la blessure de l’épée et qui avait repris vie",
+      "pour la bête qui avait perdu ses diadèmes et qui était tombée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 13:14 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-125",
+    "book": "Apocalypse",
+    "chapter": 13,
+    "verseRef": "Apocalypse 13:15",
+    "verseText": "Voir Apocalypse 13:15.",
+    "question": "Quel effet est donné à l’image de la bête ?",
+    "choices": [
+      "parler",
+      "pleurer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 13:15 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-126",
+    "book": "Apocalypse",
+    "chapter": 13,
+    "verseRef": "Apocalypse 13:15",
+    "verseText": "Voir Apocalypse 13:15.",
+    "question": "Quel résultat l’image provoque-t-elle envers ceux qui refusent l’adoration ?",
+    "choices": [
+      "être mis à mort",
+      "être mis au service"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 13:15 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-127",
+    "book": "Apocalypse",
+    "chapter": 13,
+    "verseRef": "Apocalypse 13:16",
+    "verseText": "Voir Apocalypse 13:16.",
+    "question": "Où la marque est-elle spécifiquement située dans l’énoncé ?",
+    "choices": [
+      "sur la main droite ou sur le front",
+      "sur la main gauche ou sur l’épaule"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 13:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-128",
+    "book": "Apocalypse",
+    "chapter": 13,
+    "verseRef": "Apocalypse 13:17",
+    "verseText": "Voir Apocalypse 13:17.",
+    "question": "Quel triple élément est lié à l’acte d’acheter ou de vendre ?",
+    "choices": [
+      "la marque, ou le nom de la bête, ou le nombre de son nom",
+      "la couronne, ou l’épée, ou la trompette"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 13:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-129",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:1",
+    "verseText": "Voir Apocalypse 14:1.",
+    "question": "Dans la scène de Sion, quel double nom est écrit sur les fronts ?",
+    "choices": [
+      "le nom de l’Agneau et le nom de son Père",
+      "le nom du dragon et le nom de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:1 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-130",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:2",
+    "verseText": "Voir Apocalypse 14:2.",
+    "question": "Quel ordre d’images décrit la voix venue du ciel ?",
+    "choices": [
+      "grandes eaux, grand tonnerre, joueurs de harpes",
+      "vent d’orient, voix douce, flamme de feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-131",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:3",
+    "verseText": "Voir Apocalypse 14:3.",
+    "question": "Qui peut apprendre le cantique nouveau dans cette vision ?",
+    "choices": [
+      "les rachetés de la terre",
+      "toutes les nations de la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-132",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:5",
+    "verseText": "Voir Apocalypse 14:5.",
+    "question": "Quel qualificatif moral est donné à ceux en qui « aucun mensonge » n’a été trouvé ?",
+    "choices": [
+      "irrépréhensibles",
+      "incirconcis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-133",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:6",
+    "verseText": "Voir Apocalypse 14:6.",
+    "question": "À qui l’Évangile éternel est-il annoncé dans la formule complète ?",
+    "choices": [
+      "aux habitants de la terre, à toute nation, tribu, langue et peuple",
+      "aux habitants du ciel, à toute armée, ange et étoile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-134",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:7",
+    "verseText": "Voir Apocalypse 14:7.",
+    "question": "Quelle expression lie la crainte de Dieu à un motif temporel ?",
+    "choices": [
+      "car l’heure de son jugement est venue",
+      "car le jour de sa délivrance est passé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-135",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:7",
+    "verseText": "Voir Apocalypse 14:7.",
+    "question": "Quel ensemble de créations est explicitement mentionné dans l’appel à l’adoration ?",
+    "choices": [
+      "le ciel, la terre, la mer et les sources d’eaux",
+      "les montagnes, les déserts, les forêts et les îles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-136",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:10",
+    "verseText": "Voir Apocalypse 14:10.",
+    "question": "Que boit celui qui adore la bête, selon l’avertissement, avant la mention du tourment ?",
+    "choices": [
+      "le vin de la colère de Dieu",
+      "l’eau de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-137",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:10",
+    "verseText": "Voir Apocalypse 14:10.",
+    "question": "Comment ce vin est-il décrit quant à son mélange ?",
+    "choices": [
+      "sans mélange",
+      "avec mélange"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-138",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:10",
+    "verseText": "Voir Apocalypse 14:10.",
+    "question": "Devant qui le tourment « au feu et au soufre » est-il situé ?",
+    "choices": [
+      "devant les saints anges et devant l’Agneau",
+      "devant les rois de la terre et devant les marchands"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-139",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:11",
+    "verseText": "Voir Apocalypse 14:11.",
+    "question": "Quelle formule décrit l’absence de repos pour certains, jour et nuit ?",
+    "choices": [
+      "ils n’ont point de repos, ni jour ni nuit",
+      "ils ont un repos, nuit et jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-140",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:11-12",
+    "verseText": "Voir Apocalypse 14:11-12.",
+    "question": "Qui est visé par l’absence de repos, selon l’énoncé complet ?",
+    "choices": [
+      "ceux qui adorent la bête et son image, et quiconque reçoit la marque de son nom",
+      "ceux qui gardent les commandements de Dieu et la foi de Jésus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:11-12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-141",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:13",
+    "verseText": "Voir Apocalypse 14:13.",
+    "question": "Quelle parole du ciel commence par « Écris » au sujet des morts ?",
+    "choices": [
+      "Heureux dès à présent les morts qui meurent dans le Seigneur",
+      "Malheureux dès à présent les morts qui meurent dans la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-142",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:13",
+    "verseText": "Voir Apocalypse 14:13.",
+    "question": "Quelle conséquence est liée à « Oui, dit l’Esprit » ?",
+    "choices": [
+      "afin qu’ils se reposent de leurs travaux",
+      "afin qu’ils reviennent pour leurs travaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-143",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:16",
+    "verseText": "Voir Apocalypse 14:16.",
+    "question": "Quel ordre de scène suit la vision de la nuée blanche ?",
+    "choices": [
+      "la faucille est lancée sur la terre, et la terre est moissonnée",
+      "la trompette sonne sur la mer, et la mer est purifiée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-144",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:18",
+    "verseText": "Voir Apocalypse 14:18.",
+    "question": "D’où vient l’ange qui a pouvoir sur le feu dans la scène de la vendange ?",
+    "choices": [
+      "de l’autel",
+      "de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:18 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-145",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:18",
+    "verseText": "Voir Apocalypse 14:18.",
+    "question": "Quel ordre vise explicitement la vigne de la terre ?",
+    "choices": [
+      "vendange la vigne de la terre",
+      "moissonne le champ de la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:18 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-146",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:20",
+    "verseText": "Voir Apocalypse 14:20.",
+    "question": "Où la cuve est-elle foulée, selon la précision de lieu ?",
+    "choices": [
+      "hors de la ville",
+      "au milieu de la ville"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:20 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-147",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:20",
+    "verseText": "Voir Apocalypse 14:20.",
+    "question": "Jusqu’à quoi monte le sang, selon l’image exacte ?",
+    "choices": [
+      "jusqu’aux mors des chevaux",
+      "jusqu’aux roues des chars"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:20 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-148",
+    "book": "Apocalypse",
+    "chapter": 14,
+    "verseRef": "Apocalypse 14:20",
+    "verseText": "Voir Apocalypse 14:20.",
+    "question": "Quelle distance est donnée par le texte pour l’écoulement du sang ?",
+    "choices": [
+      "mille six cents stades",
+      "mille deux cent soixante stades"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 14:20 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-149",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:1",
+    "verseText": "Voir Apocalypse 15:1.",
+    "question": "Comment est qualifié le signe des anges au chapitre quinze ?",
+    "choices": [
+      "grand et admirable",
+      "faible et obscur"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:1 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-150",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:1",
+    "verseText": "Voir Apocalypse 15:1.",
+    "question": "Comment le texte relie-t-il l’accomplissement de la colère de Dieu aux sept plaies ?",
+    "choices": [
+      "en elles s’est accomplie la colère de Dieu",
+      "par elles s’est effacée la colère de Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:1 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-151",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:2",
+    "verseText": "Voir Apocalypse 15:2.",
+    "question": "Quelle précision ajoute le texte à la mer de verre au chapitre quinze ?",
+    "choices": [
+      "mêlée de feu",
+      "couverte de nuées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-152",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:2",
+    "verseText": "Voir Apocalypse 15:2.",
+    "question": "Quel objet les vainqueurs tiennent-ils dans la scène de la mer de verre ?",
+    "choices": [
+      "des harpes de Dieu",
+      "des trompettes d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-153",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:3",
+    "verseText": "Voir Apocalypse 15:3.",
+    "question": "Quel double cantique est explicitement nommé ?",
+    "choices": [
+      "le cantique de Moïse et le cantique de l’Agneau",
+      "le cantique d’Aaron et le cantique de David"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-154",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:3",
+    "verseText": "Voir Apocalypse 15:3.",
+    "question": "Quel titre est associé à Dieu dans « Justes et véritables sont tes voies » ?",
+    "choices": [
+      "Roi des nations",
+      "Roi des anges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-155",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:4",
+    "verseText": "Voir Apocalypse 15:4.",
+    "question": "Quelle raison est donnée pour que toutes les nations viennent et adorent ?",
+    "choices": [
+      "tes jugements ont été manifestés",
+      "tes secrets ont été cachés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:4 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-156",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:5",
+    "verseText": "Voir Apocalypse 15:5.",
+    "question": "Quel lieu est nommé comme s’ouvrant dans le ciel ?",
+    "choices": [
+      "le temple du tabernacle du témoignage",
+      "la porte du séjour des morts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-157",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:6",
+    "verseText": "Voir Apocalypse 15:6.",
+    "question": "Quel vêtement est attribué aux sept anges qui sortent du temple ?",
+    "choices": [
+      "de lin pur, éclatant",
+      "de sacs grossiers, sombres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-158",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:6",
+    "verseText": "Voir Apocalypse 15:6.",
+    "question": "De quoi leurs poitrines sont-elles ceintes ?",
+    "choices": [
+      "de ceintures d’or",
+      "de ceintures de fer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-159",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:7",
+    "verseText": "Voir Apocalypse 15:7.",
+    "question": "Quel être donne les sept coupes aux sept anges ?",
+    "choices": [
+      "un des quatre êtres vivants",
+      "un des vingt-quatre vieillards"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-160",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:7",
+    "verseText": "Voir Apocalypse 15:7.",
+    "question": "De quoi les sept coupes sont-elles dites pleines ?",
+    "choices": [
+      "de la colère de Dieu, qui vit aux siècles des siècles",
+      "de l’encens des saints, qui monte au ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-161",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:8",
+    "verseText": "Voir Apocalypse 15:8.",
+    "question": "Qu’est-ce qui remplit le temple au point d’empêcher l’entrée ?",
+    "choices": [
+      "la fumée de la gloire de Dieu et de sa puissance",
+      "l’eau des sources et de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-162",
+    "book": "Apocalypse",
+    "chapter": 15,
+    "verseRef": "Apocalypse 15:8",
+    "verseText": "Voir Apocalypse 15:8.",
+    "question": "Jusqu’à quand l’entrée au temple est-elle impossible ?",
+    "choices": [
+      "jusqu’à ce que les sept plaies des sept anges soient accomplies",
+      "jusqu’à ce que les sept trompettes des sept anges soient sonnées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 15:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-163",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:1",
+    "verseText": "Voir Apocalypse 16:1.",
+    "question": "D’où vient la grande voix qui ordonne de verser les coupes ?",
+    "choices": [
+      "du temple",
+      "de la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:1 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-164",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:1",
+    "verseText": "Voir Apocalypse 16:1.",
+    "question": "Sur quoi les coupes doivent-elles être versées, selon l’ordre initial ?",
+    "choices": [
+      "sur la terre",
+      "sur le ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:1 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-165",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:2",
+    "verseText": "Voir Apocalypse 16:2.",
+    "question": "Quel type de plaie apparaît au premier fléau ?",
+    "choices": [
+      "un ulcère mauvais et douloureux",
+      "une faim soudaine et légère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-166",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:2",
+    "verseText": "Voir Apocalypse 16:2.",
+    "question": "Sur qui ce fléau tombe-t-il, selon la précision de l’énoncé ?",
+    "choices": [
+      "ceux qui avaient la marque de la bête et qui adoraient son image",
+      "ceux qui refusaient d’écouter les témoins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-167",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:3",
+    "verseText": "Voir Apocalypse 16:3.",
+    "question": "À quoi la mer est-elle comparée après la deuxième coupe ?",
+    "choices": [
+      "au sang d’un mort",
+      "au vin d’une coupe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-168",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:3",
+    "verseText": "Voir Apocalypse 16:3.",
+    "question": "Quel effet universel est décrit dans la mer après la deuxième coupe ?",
+    "choices": [
+      "toute âme vivante mourut",
+      "toute âme vivante fut guérie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-169",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:4",
+    "verseText": "Voir Apocalypse 16:4.",
+    "question": "Que deviennent les fleuves et les sources d’eaux après la troisième coupe ?",
+    "choices": [
+      "du sang",
+      "du soufre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:4 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-170",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:5",
+    "verseText": "Voir Apocalypse 16:5.",
+    "question": "Quel titre est donné à Dieu dans la déclaration de l’ange des eaux ?",
+    "choices": [
+      "toi qui es, et qui étais",
+      "toi qui viens, et qui règnes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-171",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:6",
+    "verseText": "Voir Apocalypse 16:6.",
+    "question": "Quelle justification est donnée pour ce jugement, en lien avec les saints ?",
+    "choices": [
+      "ils ont versé le sang des saints et des prophètes",
+      "ils ont nourri les saints et les prophètes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-172",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:6",
+    "verseText": "Voir Apocalypse 16:6.",
+    "question": "Qu’est-il dit que Dieu leur a donné à boire en conséquence ?",
+    "choices": [
+      "du sang",
+      "de l’eau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-173",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:7",
+    "verseText": "Voir Apocalypse 16:7.",
+    "question": "Quelle voix est entendue venant de l’autel à ce moment ?",
+    "choices": [
+      "Oui, Seigneur Dieu Tout-Puissant, tes jugements sont véritables et justes",
+      "Non, Seigneur Dieu Tout-Puissant, tes jugements sont douteux et durs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-174",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:8",
+    "verseText": "Voir Apocalypse 16:8.",
+    "question": "Quel astre reçoit pouvoir de brûler les hommes après une coupe ?",
+    "choices": [
+      "le soleil",
+      "la lune"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-175",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:9",
+    "verseText": "Voir Apocalypse 16:9.",
+    "question": "Quel est l’effet précis sur les hommes quand ils sont brûlés ?",
+    "choices": [
+      "ils blasphémèrent le nom de Dieu",
+      "ils bénirent le nom de Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-176",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:10",
+    "verseText": "Voir Apocalypse 16:10.",
+    "question": "Sur quoi une coupe est-elle versée, provoquant des ténèbres ?",
+    "choices": [
+      "sur le trône de la bête",
+      "sur la montagne de Sion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-177",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:10",
+    "verseText": "Voir Apocalypse 16:10.",
+    "question": "Quelle réaction corporelle est mentionnée chez les hommes sous ce fléau ?",
+    "choices": [
+      "ils se mordaient la langue de douleur",
+      "ils se frappaient la poitrine de joie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-178",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:12",
+    "verseText": "Voir Apocalypse 16:12.",
+    "question": "Quel fleuve est nommé comme étant desséché pour préparer une voie ?",
+    "choices": [
+      "le grand fleuve Euphrate",
+      "le fleuve du Jourdain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-179",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:13",
+    "verseText": "Voir Apocalypse 16:13.",
+    "question": "Quels trois esprits impurs sont décrits comme des grenouilles sortant de trois bouches ?",
+    "choices": [
+      "de la bouche du dragon, de la bouche de la bête, et de la bouche du faux prophète",
+      "de la bouche de l’Agneau, de la bouche de Michel, et de la bouche des saints"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-180",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:16",
+    "verseText": "Voir Apocalypse 16:16.",
+    "question": "À quel lieu les rois sont-ils rassemblés, selon le nom hébreu mentionné ?",
+    "choices": [
+      "Harmaguédon",
+      "Babylone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-181",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:18",
+    "verseText": "Voir Apocalypse 16:18.",
+    "question": "Quel élément suit immédiatement « C’en est fait ! » après la septième coupe ?",
+    "choices": [
+      "des éclairs, des voix, des tonnerres",
+      "un silence d’environ une demi-heure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:18 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-182",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:18",
+    "verseText": "Voir Apocalypse 16:18.",
+    "question": "Quel événement unique est qualifié comme n’ayant jamais eu son pareil depuis que les hommes sont sur la terre ?",
+    "choices": [
+      "un tremblement de terre si fort",
+      "une famine si longue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:18 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-183",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:19",
+    "verseText": "Voir Apocalypse 16:19.",
+    "question": "En combien de parties la grande ville est-elle divisée ?",
+    "choices": [
+      "en trois parties",
+      "en sept parties"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:19 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-184",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:20",
+    "verseText": "Voir Apocalypse 16:20.",
+    "question": "Que fait « toute île » à la suite de la septième coupe ?",
+    "choices": [
+      "elle s’enfuit",
+      "elle s’approche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:20 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-185",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:20",
+    "verseText": "Voir Apocalypse 16:20.",
+    "question": "Quel sort arrive aux montagnes après cela ?",
+    "choices": [
+      "elles ne furent pas retrouvées",
+      "elles furent élevées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:20 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-186",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:21",
+    "verseText": "Voir Apocalypse 16:21.",
+    "question": "Quel effet est attribué aux hommes sous la grêle ?",
+    "choices": [
+      "ils blasphémèrent Dieu à cause de la plaie",
+      "ils donnèrent gloire à Dieu à cause de la plaie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:21 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-187",
+    "book": "Apocalypse",
+    "chapter": 16,
+    "verseRef": "Apocalypse 16:21",
+    "verseText": "Voir Apocalypse 16:21.",
+    "question": "Par quelle expression la plaie de la grêle est-elle qualifiée ?",
+    "choices": [
+      "très grande",
+      "très légère"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 16:21 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-188",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:3",
+    "verseText": "Voir Apocalypse 17:3.",
+    "question": "Que voit Jean porté au désert par l’ange au chapitre dix-sept ?",
+    "choices": [
+      "une femme assise sur une bête écarlate",
+      "une multitude sur la mer de verre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-189",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:3",
+    "verseText": "Voir Apocalypse 17:3.",
+    "question": "Qu’est-ce qui couvre la bête écarlate selon la description ?",
+    "choices": [
+      "des noms de blasphème",
+      "des noms de paix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-190",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:3",
+    "verseText": "Voir Apocalypse 17:3.",
+    "question": "Quel double nombre est donné pour la bête écarlate ?",
+    "choices": [
+      "sept têtes et dix cornes",
+      "dix têtes et sept cornes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-191",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:4",
+    "verseText": "Voir Apocalypse 17:4.",
+    "question": "Quelle précision est donnée sur la coupe tenue par la femme ?",
+    "choices": [
+      "elle est d’or",
+      "elle est d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:4 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-192",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:5",
+    "verseText": "Voir Apocalypse 17:5.",
+    "question": "Quel mot ouvre le nom écrit sur le front de la femme ?",
+    "choices": [
+      "Mystère",
+      "Justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-193",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:6",
+    "verseText": "Voir Apocalypse 17:6.",
+    "question": "De quoi Jean s’étonne-t-il d’un grand étonnement en regardant la femme ?",
+    "choices": [
+      "de la voir enivrée du sang",
+      "de la voir vêtue de lin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-194",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:7",
+    "verseText": "Voir Apocalypse 17:7.",
+    "question": "Que demande l’ange à Jean en réponse à son étonnement ?",
+    "choices": [
+      "Pourquoi t’étonnes-tu ?",
+      "Pourquoi as-tu peur ?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-195",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:8",
+    "verseText": "Voir Apocalypse 17:8.",
+    "question": "Quel destin est indiqué pour la bête après qu’elle doit monter de l’abîme ?",
+    "choices": [
+      "aller à la perdition",
+      "aller au trône"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-196",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:8",
+    "verseText": "Voir Apocalypse 17:8.",
+    "question": "Quel critère distingue ceux qui s’étonnent de la bête, selon le texte ?",
+    "choices": [
+      "leur nom n’a pas été écrit dès la fondation du monde dans le livre de vie",
+      "leur nom a été écrit dans les Églises d’Asie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-197",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:9",
+    "verseText": "Voir Apocalypse 17:9.",
+    "question": "Quel appel à l’intelligence est prononcé avant l’explication des sept têtes ?",
+    "choices": [
+      "C’est ici l’intelligence qui a de la sagesse",
+      "C’est ici la force qui a du courage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-198",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:9",
+    "verseText": "Voir Apocalypse 17:9.",
+    "question": "Que sont les sept montagnes dans l’explication ?",
+    "choices": [
+      "là où la femme est assise",
+      "là où l’Agneau est immolé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-199",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:10",
+    "verseText": "Voir Apocalypse 17:10.",
+    "question": "Comment le texte décrit-il les cinq rois dans la série des sept ?",
+    "choices": [
+      "cinq sont tombés",
+      "cinq doivent venir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-200",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:10",
+    "verseText": "Voir Apocalypse 17:10.",
+    "question": "Quel détail est donné sur la durée du règne de celui qui n’est pas encore venu ?",
+    "choices": [
+      "il doit rester peu de temps",
+      "il doit rester pour toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-201",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:11",
+    "verseText": "Voir Apocalypse 17:11.",
+    "question": "Quelle affirmation relie la bête au nombre huit ?",
+    "choices": [
+      "la bête est un huitième",
+      "la bête est un douzième"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-202",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:11",
+    "verseText": "Voir Apocalypse 17:11.",
+    "question": "Quelle origine est donnée au « huitième » ?",
+    "choices": [
+      "il est des sept",
+      "il est des dix"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-203",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:12",
+    "verseText": "Voir Apocalypse 17:12.",
+    "question": "Quel temps de règne est donné aux dix rois associés aux dix cornes ?",
+    "choices": [
+      "une heure",
+      "un jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-204",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:13",
+    "verseText": "Voir Apocalypse 17:13.",
+    "question": "Quel point commun unit ces dix rois, selon l’énoncé ?",
+    "choices": [
+      "ils ont un même dessein",
+      "ils ont des desseins contraires"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-205",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:14",
+    "verseText": "Voir Apocalypse 17:14.",
+    "question": "Quel combat est explicitement annoncé pour ces rois ?",
+    "choices": [
+      "ils combattront contre l’Agneau",
+      "ils combattront contre Michel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:14 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-206",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:14",
+    "verseText": "Voir Apocalypse 17:14.",
+    "question": "Pourquoi l’Agneau les vaincra-t-il, selon la raison donnée ?",
+    "choices": [
+      "parce qu’il est Seigneur des seigneurs et Roi des rois",
+      "parce qu’il tient une faucille tranchante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:14 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-207",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:15",
+    "verseText": "Voir Apocalypse 17:15.",
+    "question": "Comment les eaux sont-elles interprétées dans l’explication ?",
+    "choices": [
+      "peuples, foules, nations et langues",
+      "montagnes, îles, rochers et cavernes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:15 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-208",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:16",
+    "verseText": "Voir Apocalypse 17:16.",
+    "question": "Quel enchaînement d’actions décrit le sort de la prostituée par les dix cornes et la bête ?",
+    "choices": [
+      "la haïr, la dépouiller, manger ses chairs, la consumer par le feu",
+      "l’honorer, l’élever, couronner sa tête, la protéger par des murs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-209",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:17",
+    "verseText": "Voir Apocalypse 17:17.",
+    "question": "Quelle cause est donnée pour l’unité d’action des rois envers la bête ?",
+    "choices": [
+      "Dieu a mis dans leurs cœurs d’exécuter son dessein",
+      "la femme a mis dans leurs cœurs d’exécuter son dessein"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-210",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:17",
+    "verseText": "Voir Apocalypse 17:17.",
+    "question": "Jusqu’à quand leur royauté est-elle donnée à la bête selon l’explication ?",
+    "choices": [
+      "jusqu’à ce que les paroles de Dieu soient accomplies",
+      "jusqu’à ce que les trompettes soient sonnées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-211",
+    "book": "Apocalypse",
+    "chapter": 17,
+    "verseRef": "Apocalypse 17:18",
+    "verseText": "Voir Apocalypse 17:18.",
+    "question": "Comment la femme est-elle définie à la fin de l’explication ?",
+    "choices": [
+      "la grande ville qui a la royauté sur les rois de la terre",
+      "l’Église fidèle qui a la paix sur les nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 17:18 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-212",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:2",
+    "verseText": "Voir Apocalypse 18:2.",
+    "question": "Quel verbe introduit le cri du chapitre dix-huit concernant la chute ?",
+    "choices": [
+      "Elle est tombée, elle est tombée",
+      "Elle est montée, elle est montée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-213",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:2",
+    "verseText": "Voir Apocalypse 18:2.",
+    "question": "Quelle triple description suit la chute de Babylone ?",
+    "choices": [
+      "habitation de démons, repaire d’esprits impurs, repaire d’oiseaux impurs et odieux",
+      "demeure de saints, refuge d’esprits purs, nid d’oiseaux doux et aimables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-214",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:3",
+    "verseText": "Voir Apocalypse 18:3.",
+    "question": "Quel verbe est employé pour l’acte des nations envers le vin de Babylone ?",
+    "choices": [
+      "elles ont bu",
+      "elles ont versé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-215",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:3",
+    "verseText": "Voir Apocalypse 18:3.",
+    "question": "Quelle action est attribuée aux marchands de la terre à cause de sa magnificence ?",
+    "choices": [
+      "ils se sont enrichis",
+      "ils se sont appauvris"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-216",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:4",
+    "verseText": "Voir Apocalypse 18:4.",
+    "question": "Quel double but est donné à l’ordre « Sortez du milieu d’elle » ?",
+    "choices": [
+      "ne pas participer à ses péchés, et ne pas recevoir de ses fléaux",
+      "recevoir ses richesses, et partager sa gloire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:4 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-217",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:5",
+    "verseText": "Voir Apocalypse 18:5.",
+    "question": "Quel verbe exprime la hauteur atteinte par ses péchés ?",
+    "choices": [
+      "ils se sont accumulés jusqu’au ciel",
+      "ils se sont dissipés dans la mer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-218",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:6",
+    "verseText": "Voir Apocalypse 18:6.",
+    "question": "Quelle mesure est ordonnée dans la rétribution « au double » ?",
+    "choices": [
+      "au double de ses œuvres",
+      "au double de ses paroles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-219",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:6",
+    "verseText": "Voir Apocalypse 18:6.",
+    "question": "Dans quelle coupe faut-il lui verser « au double » ?",
+    "choices": [
+      "dans la coupe où elle a versé",
+      "dans la coupe où elle a bu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-220",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:7",
+    "verseText": "Voir Apocalypse 18:7.",
+    "question": "Quel contraste Babylone affirme-t-elle sur elle-même en parlant de deuil ?",
+    "choices": [
+      "je ne verrai point de deuil",
+      "je verrai du deuil chaque jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:7 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-221",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:8",
+    "verseText": "Voir Apocalypse 18:8.",
+    "question": "Quelle séquence « en un même jour » est annoncée pour ses fléaux ?",
+    "choices": [
+      "mort, deuil, famine",
+      "feu, soufre, eau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-222",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:8",
+    "verseText": "Voir Apocalypse 18:8.",
+    "question": "Quel moyen est donné pour sa consommation finale ?",
+    "choices": [
+      "elle sera consumée par le feu",
+      "elle sera engloutie par la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-223",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:10",
+    "verseText": "Voir Apocalypse 18:10.",
+    "question": "De quelle distance les rois regardent-ils la fumée de son embrasement ?",
+    "choices": [
+      "de loin",
+      "de près"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-224",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:10",
+    "verseText": "Voir Apocalypse 18:10.",
+    "question": "Quelle expression qualifie la ruine dans le cri « Malheur ! » des rois ?",
+    "choices": [
+      "en une heure est venu ton jugement",
+      "en une demi-heure est venu ton jugement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-225",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:11",
+    "verseText": "Voir Apocalypse 18:11.",
+    "question": "Quelle cause directe est donnée au pleur des marchands ?",
+    "choices": [
+      "personne n’achète plus leur cargaison",
+      "personne ne mesure plus leur temple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-226",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:12",
+    "verseText": "Voir Apocalypse 18:12.",
+    "question": "Quel matériau est mentionné « de bois » dans la liste des marchandises ?",
+    "choices": [
+      "tout bois de senteur",
+      "tout bois de figuier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-227",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:12",
+    "verseText": "Voir Apocalypse 18:12.",
+    "question": "Quel métal est mentionné « de fer » dans la liste des marchandises ?",
+    "choices": [
+      "tout objet d’airain, de fer et de marbre",
+      "tout objet d’or, d’argent et de perles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-228",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:13",
+    "verseText": "Voir Apocalypse 18:13.",
+    "question": "Quel produit alimentaire est mentionné explicitement dans la liste ?",
+    "choices": [
+      "froment",
+      "orge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-229",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:17",
+    "verseText": "Voir Apocalypse 18:17.",
+    "question": "Quel élément lié à la navigation est inclus dans la liste des marchandises ?",
+    "choices": [
+      "navires",
+      "ancres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-230",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:13",
+    "verseText": "Voir Apocalypse 18:13.",
+    "question": "Quelle expression finale conclut la liste en parlant des humains comme marchandises ?",
+    "choices": [
+      "corps et âmes d’hommes",
+      "rois et chefs d’hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-231",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:20",
+    "verseText": "Voir Apocalypse 18:20.",
+    "question": "Quel cri est demandé aux cieux à propos de Babylone ?",
+    "choices": [
+      "Réjouis-toi sur elle, ciel",
+      "Pleure sur elle, ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:20 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-232",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:20",
+    "verseText": "Voir Apocalypse 18:20.",
+    "question": "Quels groupes sont explicitement inclus dans cet appel à la joie ?",
+    "choices": [
+      "saints, apôtres et prophètes",
+      "rois, marchands et matelots"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:20 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-233",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:20",
+    "verseText": "Voir Apocalypse 18:20.",
+    "question": "Quelle raison est donnée pour cet appel à la joie ?",
+    "choices": [
+      "Dieu a prononcé contre elle votre jugement",
+      "Dieu a retiré contre elle votre jugement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:20 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-234",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:21",
+    "verseText": "Voir Apocalypse 18:21.",
+    "question": "Quel geste puissant annonce la chute irréversible de Babylone ?",
+    "choices": [
+      "une pierre comme une grande meule est jetée dans la mer",
+      "une coupe d’or est versée sur la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:21 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-235",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:21",
+    "verseText": "Voir Apocalypse 18:21.",
+    "question": "Quelle formule conclut la comparaison sur la disparition de Babylone ?",
+    "choices": [
+      "elle ne sera plus trouvée",
+      "elle sera bientôt relevée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:21 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-236",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:22",
+    "verseText": "Voir Apocalypse 18:22.",
+    "question": "Quel son est explicitement annoncé comme ne se faisant plus entendre en elle ?",
+    "choices": [
+      "le son des joueurs de harpes, des musiciens, des joueurs de flûte et des joueurs de trompette",
+      "le bruit des grandes eaux et du tonnerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:22 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-237",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:22",
+    "verseText": "Voir Apocalypse 18:22.",
+    "question": "Quelle activité artisanale est annoncée comme ne se trouvant plus en elle ?",
+    "choices": [
+      "aucun artisan d’aucun métier",
+      "aucun sacrificateur d’aucun ordre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:22 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-238",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:23",
+    "verseText": "Voir Apocalypse 18:23.",
+    "question": "Quelle source lumineuse est annoncée comme ne brillant plus en elle ?",
+    "choices": [
+      "la lumière de la lampe",
+      "la lumière du soleil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:23 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-239",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:23",
+    "verseText": "Voir Apocalypse 18:23.",
+    "question": "Quel événement domestique est annoncé comme ne s’y entendant plus ?",
+    "choices": [
+      "la voix de l’époux et de l’épouse",
+      "la voix des enfants et des vieillards"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:23 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-240",
+    "book": "Apocalypse",
+    "chapter": 18,
+    "verseRef": "Apocalypse 18:23",
+    "verseText": "Voir Apocalypse 18:23.",
+    "question": "Quel motif final relie sa séduction à une pratique nommée ?",
+    "choices": [
+      "toutes les nations ont été séduites par tes enchantements",
+      "toutes les nations ont été séduites par tes sacrifices"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 18:23 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-241",
+    "book": "Apocalypse",
+    "chapter": 19,
+    "verseRef": "Apocalypse 19:18",
+    "verseText": "Voir Apocalypse 19:18.",
+    "question": "Quel cri particulier suit la mention « un grand festin de Dieu » pour les oiseaux ?",
+    "choices": [
+      "afin de manger la chair des rois, des chefs militaires, des puissants, des chevaux et de ceux qui les montaient",
+      "afin de manger la manne cachée et le fruit de l’arbre de vie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 19:18 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-242",
+    "book": "Apocalypse",
+    "chapter": 19,
+    "verseRef": "Apocalypse 19:10",
+    "verseText": "Voir Apocalypse 19:10.",
+    "question": "Quel acte Jean tente-t-il de faire devant l’ange après l’annonce du festin des noces ?",
+    "choices": [
+      "se prosterner pour l’adorer",
+      "le couronner de diadèmes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 19:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-243",
+    "book": "Apocalypse",
+    "chapter": 19,
+    "verseRef": "Apocalypse 19:10",
+    "verseText": "Voir Apocalypse 19:10.",
+    "question": "Quelle raison l’ange donne-t-il pour refuser l’adoration ?",
+    "choices": [
+      "Je suis ton compagnon de service",
+      "Je suis le juge des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 19:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-244",
+    "book": "Apocalypse",
+    "chapter": 19,
+    "verseRef": "Apocalypse 19:10",
+    "verseText": "Voir Apocalypse 19:10.",
+    "question": "Quelle formule relie explicitement le témoignage de Jésus à la prophétie ?",
+    "choices": [
+      "le témoignage de Jésus est l’esprit de la prophétie",
+      "le témoignage de Jésus est la fin des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 19:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-245",
+    "book": "Apocalypse",
+    "chapter": 19,
+    "verseRef": "Apocalypse 19:12",
+    "verseText": "Voir Apocalypse 19:12.",
+    "question": "Sur le cavalier fidèle, quel détail est donné au sujet de son nom écrit ?",
+    "choices": [
+      "personne ne le connaît, si ce n’est lui-même",
+      "tous les saints le connaissent, sauf Jean"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 19:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-246",
+    "book": "Apocalypse",
+    "chapter": 19,
+    "verseRef": "Apocalypse 19:14",
+    "verseText": "Voir Apocalypse 19:14.",
+    "question": "Quelle couleur précise est donnée au fin lin des armées célestes ?",
+    "choices": [
+      "blanc, pur",
+      "pourpre, éclatant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 19:14 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-247",
+    "book": "Apocalypse",
+    "chapter": 19,
+    "verseRef": "Apocalypse 19:15",
+    "verseText": "Voir Apocalypse 19:15.",
+    "question": "Dans quelle action de jugement est mentionnée la cuve ?",
+    "choices": [
+      "il foule la cuve du vin de l’ardente colère du Dieu Tout-Puissant",
+      "il verse la coupe d’or de l’encens des saints"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 19:15 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-248",
+    "book": "Apocalypse",
+    "chapter": 19,
+    "verseRef": "Apocalypse 19:16",
+    "verseText": "Voir Apocalypse 19:16.",
+    "question": "Où le titre « Roi des rois, et Seigneur des seigneurs » est-il écrit ?",
+    "choices": [
+      "sur son vêtement et sur sa cuisse",
+      "sur sa main droite et sur son front"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 19:16 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-249",
+    "book": "Apocalypse",
+    "chapter": 19,
+    "verseRef": "Apocalypse 19:17",
+    "verseText": "Voir Apocalypse 19:17.",
+    "question": "Quel détail de position est donné pour l’ange qui appelle les oiseaux ?",
+    "choices": [
+      "il se tenait dans le soleil",
+      "il se tenait sous l’autel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 19:17 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-250",
+    "book": "Apocalypse",
+    "chapter": 19,
+    "verseRef": "Apocalypse 19:20",
+    "verseText": "Voir Apocalypse 19:20.",
+    "question": "Quel sort est indiqué pour la bête et le faux prophète au moment de leur capture ?",
+    "choices": [
+      "ils furent jetés vivants dans l’étang ardent de feu et de soufre",
+      "ils furent liés mille ans dans l’abîme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 19:20 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-251",
+    "book": "Apocalypse",
+    "chapter": 19,
+    "verseRef": "Apocalypse 19:21",
+    "verseText": "Voir Apocalypse 19:21.",
+    "question": "Par quelle arme le « reste » est-il tué dans la scène de la victoire ?",
+    "choices": [
+      "par l’épée qui sortait de la bouche de celui qui était assis sur le cheval",
+      "par les ulcères mauvais et douloureux des coupes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 19:21 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-252",
+    "book": "Apocalypse",
+    "chapter": 19,
+    "verseRef": "Apocalypse 19:21",
+    "verseText": "Voir Apocalypse 19:21.",
+    "question": "Quelle réaction des oiseaux conclut la scène après la défaite du reste ?",
+    "choices": [
+      "tous les oiseaux furent rassasiés de leur chair",
+      "tous les oiseaux chantèrent un cantique nouveau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 19:21 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-253",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:1",
+    "verseText": "Voir Apocalypse 20:1.",
+    "question": "Quel double objet l’ange du chapitre vingt tient-il en venant du ciel ?",
+    "choices": [
+      "la clef de l’abîme et une grande chaîne",
+      "les clefs de la mort et du séjour des morts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:1 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-254",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:2",
+    "verseText": "Voir Apocalypse 20:2.",
+    "question": "Quel enchaînement de noms identifie le dragon dans une seule phrase ?",
+    "choices": [
+      "le dragon, le serpent ancien, qui est le diable et Satan",
+      "le léopard, l’ours et le lion des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-255",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:3",
+    "verseText": "Voir Apocalypse 20:3.",
+    "question": "Quel double acte suit le jet de Satan dans l’abîme ?",
+    "choices": [
+      "on le ferma, et on mit un sceau sur lui",
+      "on le mesura, et on l’éclaira"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-256",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:3",
+    "verseText": "Voir Apocalypse 20:3.",
+    "question": "Quel but est donné pour ce scellement de l’abîme ?",
+    "choices": [
+      "afin qu’il ne séduisît plus les nations, jusqu’à ce que les mille ans fussent accomplis",
+      "afin qu’il n’adorât plus l’Agneau, jusqu’à ce que les sept trompettes fussent sonnées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-257",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:3",
+    "verseText": "Voir Apocalypse 20:3.",
+    "question": "Quelle contrainte temporelle est ajoutée après l’accomplissement des mille ans ?",
+    "choices": [
+      "il faut qu’il soit délié pour un peu de temps",
+      "il faut qu’il règne pour toujours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-258",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:4",
+    "verseText": "Voir Apocalypse 20:4.",
+    "question": "Sur quel fondement est rendu le jugement à ceux qui s’assoient sur les trônes ?",
+    "choices": [
+      "le jugement leur fut donné",
+      "la couronne leur fut donnée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:4 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-259",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:4",
+    "verseText": "Voir Apocalypse 20:4.",
+    "question": "Quelle catégorie d’hommes est mentionnée comme ayant été décapitée ?",
+    "choices": [
+      "ceux qui avaient été décapités pour le témoignage de Jésus et pour la parole de Dieu",
+      "ceux qui avaient reçu le nom nouveau sur un caillou blanc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:4 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-260",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:4",
+    "verseText": "Voir Apocalypse 20:4.",
+    "question": "Quels deux refus sont liés à ces décapités dans la même description ?",
+    "choices": [
+      "ils n’avaient pas adoré la bête ni son image",
+      "ils n’avaient pas mangé de la manne ni du froment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:4 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-261",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:4",
+    "verseText": "Voir Apocalypse 20:4.",
+    "question": "Quel double lieu est précisé pour la marque qu’ils n’avaient pas reçue ?",
+    "choices": [
+      "sur leur front et sur leur main",
+      "sur leur bouche et sur leurs pieds"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:4 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-262",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:5",
+    "verseText": "Voir Apocalypse 20:5.",
+    "question": "Quel contraste le texte établit-il entre « les autres morts » et ceux qui règnent ?",
+    "choices": [
+      "les autres morts ne revinrent point à la vie jusqu’à ce que les mille ans fussent accomplis",
+      "les autres morts revinrent à la vie avant que les mille ans fussent commencés"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-263",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:5",
+    "verseText": "Voir Apocalypse 20:5.",
+    "question": "Quelle définition immédiate est donnée de la première résurrection ?",
+    "choices": [
+      "C’est la première résurrection",
+      "C’est la dernière résurrection"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-264",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:6",
+    "verseText": "Voir Apocalypse 20:6.",
+    "question": "Quelle incapacité est attribuée à la seconde mort sur ceux de la première résurrection ?",
+    "choices": [
+      "la seconde mort n’a point de pouvoir sur eux",
+      "la seconde mort a pouvoir sur eux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-265",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:6",
+    "verseText": "Voir Apocalypse 20:6.",
+    "question": "Quelle double fonction est donnée à ceux qui ont part à la première résurrection ?",
+    "choices": [
+      "ils seront sacrificateurs de Dieu et de Christ",
+      "ils seront rois de Babylone et marchands de la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-266",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:6",
+    "verseText": "Voir Apocalypse 20:6.",
+    "question": "Quelle durée est répétée pour leur règne avec Christ ?",
+    "choices": [
+      "mille ans",
+      "quarante-deux mois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-267",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:8",
+    "verseText": "Voir Apocalypse 20:8.",
+    "question": "Après sa délivrance, quel mouvement est attribué à Satan avant son action ?",
+    "choices": [
+      "il sortira pour séduire les nations",
+      "il descendra pour sceller l’abîme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-268",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:8",
+    "verseText": "Voir Apocalypse 20:8.",
+    "question": "Où sont situées les nations séduites, selon l’expression ?",
+    "choices": [
+      "aux quatre coins de la terre",
+      "dans la mer de verre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-269",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:8",
+    "verseText": "Voir Apocalypse 20:8.",
+    "question": "Quel but militaire est assigné au rassemblement de Gog et Magog ?",
+    "choices": [
+      "les rassembler pour la guerre",
+      "les rassembler pour le festin des noces"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-270",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:8",
+    "verseText": "Voir Apocalypse 20:8.",
+    "question": "À quoi est comparé le nombre de ceux qui montent pour combattre ?",
+    "choices": [
+      "au sable de la mer",
+      "aux étoiles du ciel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-271",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:9",
+    "verseText": "Voir Apocalypse 20:9.",
+    "question": "Sur quelle étendue montent-ils dans leur marche ?",
+    "choices": [
+      "sur la surface de la terre",
+      "sur la mer de verre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-272",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:9",
+    "verseText": "Voir Apocalypse 20:9.",
+    "question": "Quel double objet est encerclé par ces nations rassemblées ?",
+    "choices": [
+      "le camp des saints et la ville bien-aimée",
+      "le temple du tabernacle et l’autel d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-273",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:9",
+    "verseText": "Voir Apocalypse 20:9.",
+    "question": "D’où vient le feu qui met fin à cette attaque ?",
+    "choices": [
+      "du ciel, de la part de Dieu",
+      "de la mer, de la part des nations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:9 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-274",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:10",
+    "verseText": "Voir Apocalypse 20:10.",
+    "question": "Où le diable est-il jeté après cette défaite ?",
+    "choices": [
+      "dans l’étang de feu et de soufre",
+      "dans le puits de l’abîme scellé"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-275",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:10",
+    "verseText": "Voir Apocalypse 20:10.",
+    "question": "Qui est déjà dans cet étang selon la précision du texte ?",
+    "choices": [
+      "la bête et le faux prophète",
+      "les deux témoins et l’ange des eaux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-276",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:10",
+    "verseText": "Voir Apocalypse 20:10.",
+    "question": "Quelle durée est donnée pour leur tourment dans l’étang ?",
+    "choices": [
+      "aux siècles des siècles",
+      "pendant mille ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:10 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-277",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:11",
+    "verseText": "Voir Apocalypse 20:11.",
+    "question": "Quel objet Jean voit-il ensuite, associé au jugement final ?",
+    "choices": [
+      "un grand trône blanc",
+      "une grande meule de pierre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-278",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:11",
+    "verseText": "Voir Apocalypse 20:11.",
+    "question": "Quelle réaction cosmique est décrite devant la face de celui qui est assis sur le trône ?",
+    "choices": [
+      "la terre et le ciel s’enfuirent",
+      "la mer se retira et devint comme du sang"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-279",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:11",
+    "verseText": "Voir Apocalypse 20:11.",
+    "question": "Que manque-t-il à la suite de cette fuite du ciel et de la terre ?",
+    "choices": [
+      "il ne fut plus trouvé de place pour eux",
+      "il fut trouvé une place nouvelle pour eux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:11 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-280",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:12",
+    "verseText": "Voir Apocalypse 20:12.",
+    "question": "Quels deux livres sont mentionnés dans la scène du jugement ?",
+    "choices": [
+      "des livres furent ouverts, et un autre livre fut ouvert, celui qui est le livre de vie",
+      "des sceaux furent ouverts, et une coupe d’or fut ouverte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-281",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:12",
+    "verseText": "Voir Apocalypse 20:12.",
+    "question": "Selon quoi les morts sont-ils jugés dans cette scène ?",
+    "choices": [
+      "selon leurs œuvres, d’après ce qui était écrit dans ces livres",
+      "selon leur tribu, d’après ce qui était écrit sur leurs fronts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:12 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-282",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:13",
+    "verseText": "Voir Apocalypse 20:13.",
+    "question": "Quel dépôt remet ses morts au moment du jugement ?",
+    "choices": [
+      "la mer",
+      "l’abîme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-283",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:13",
+    "verseText": "Voir Apocalypse 20:13.",
+    "question": "Quels deux pouvoirs rendent leurs morts dans la même phrase ?",
+    "choices": [
+      "la mort et le séjour des morts",
+      "le soleil et la lune"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:13 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-284",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:14",
+    "verseText": "Voir Apocalypse 20:14.",
+    "question": "Quelle définition est donnée de l’étang de feu ?",
+    "choices": [
+      "C’est la seconde mort",
+      "C’est la première résurrection"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:14 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-285",
+    "book": "Apocalypse",
+    "chapter": 20,
+    "verseRef": "Apocalypse 20:15",
+    "verseText": "Voir Apocalypse 20:15.",
+    "question": "Qui est jeté dans l’étang de feu à la fin du jugement ?",
+    "choices": [
+      "quiconque ne fut pas trouvé écrit dans le livre de vie",
+      "quiconque eut part à la première résurrection"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 20:15 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-286",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:1",
+    "verseText": "Voir Apocalypse 21:1.",
+    "question": "Que voit Jean après cela concernant le ciel et la terre ?",
+    "choices": [
+      "un nouveau ciel et une nouvelle terre",
+      "un ciel fermé et une terre scellée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:1 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-287",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:1",
+    "verseText": "Voir Apocalypse 21:1.",
+    "question": "Qu’est-il dit du premier ciel et de la première terre ?",
+    "choices": [
+      "ils avaient disparu",
+      "ils avaient été agrandis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:1 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-288",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:1",
+    "verseText": "Voir Apocalypse 21:1.",
+    "question": "Qu’est-il dit de la mer dans la vision du nouveau monde ?",
+    "choices": [
+      "la mer n’était plus",
+      "la mer était devenue absinthe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:1 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-289",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:2",
+    "verseText": "Voir Apocalypse 21:2.",
+    "question": "Quelle ville sainte Jean voit-il descendre d’auprès de Dieu ?",
+    "choices": [
+      "la nouvelle Jérusalem",
+      "Babylone la grande"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-290",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:2",
+    "verseText": "Voir Apocalypse 21:2.",
+    "question": "Comment la ville est-elle préparée dans l’image ?",
+    "choices": [
+      "comme une épouse qui s’est parée pour son époux",
+      "comme une armée qui s’est rangée pour la guerre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:2 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-291",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:3",
+    "verseText": "Voir Apocalypse 21:3.",
+    "question": "Quelle voix forte Jean entend-il sortir du trône ?",
+    "choices": [
+      "une voix forte",
+      "une voix faible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-292",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:3",
+    "verseText": "Voir Apocalypse 21:3.",
+    "question": "Quelle affirmation la voix proclame-t-elle au sujet du tabernacle ?",
+    "choices": [
+      "le tabernacle de Dieu est avec les hommes",
+      "le tabernacle de Dieu est fermé aux hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:3 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-293",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:4",
+    "verseText": "Voir Apocalypse 21:4.",
+    "question": "Que fait Dieu selon la promesse donnée ensuite ?",
+    "choices": [
+      "il essuiera toute larme de leurs yeux",
+      "il comptera toutes leurs œuvres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:4 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-294",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:4",
+    "verseText": "Voir Apocalypse 21:4.",
+    "question": "Quel ensemble de réalités est dit ne plus exister ?",
+    "choices": [
+      "la mort, ni le deuil, ni les cris, ni la douleur",
+      "la mer, ni le soleil, ni la lune, ni les étoiles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:4 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-295",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:5",
+    "verseText": "Voir Apocalypse 21:5.",
+    "question": "Qui parle en disant : « Voici, je fais toutes choses nouvelles » ?",
+    "choices": [
+      "celui qui est assis sur le trône",
+      "l’ange qui se tenait dans le soleil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-296",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:5",
+    "verseText": "Voir Apocalypse 21:5.",
+    "question": "Quel ordre accompagne cette parole sur les choses nouvelles ?",
+    "choices": [
+      "Écris; car ces paroles sont certaines et véritables",
+      "Mesure; car ces portes sont grandes et hautes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:5 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-297",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:6",
+    "verseText": "Voir Apocalypse 21:6.",
+    "question": "Quel mot de conclusion est prononcé avant l’énoncé « Je suis l’alpha et l’oméga » ?",
+    "choices": [
+      "C’en est fait !",
+      "Malheur !"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-298",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:6",
+    "verseText": "Voir Apocalypse 21:6.",
+    "question": "À qui est promise l’eau de la vie « gratuitement » ?",
+    "choices": [
+      "à celui qui a soif",
+      "à celui qui est riche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:6 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-299",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:8",
+    "verseText": "Voir Apocalypse 21:8.",
+    "question": "Quelle part est donnée aux lâches dans l’héritage décrit ?",
+    "choices": [
+      "leur part sera dans l’étang ardent de feu et de soufre",
+      "leur part sera dans la ville sainte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:8 (LSG 1910)."
+  },
+  {
+    "id": "apocalypse-D-300",
+    "book": "Apocalypse",
+    "chapter": 21,
+    "verseRef": "Apocalypse 21:8",
+    "verseText": "Voir Apocalypse 21:8.",
+    "question": "Quelle expression désigne cet étang de feu à la fin de la liste ?",
+    "choices": [
+      "c’est la seconde mort",
+      "c’est la première résurrection"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Apocalypse 21:8 (LSG 1910)."
+  }
+]

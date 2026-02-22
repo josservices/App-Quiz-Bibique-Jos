@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "GEN-001",
+    "book": "Genèse",
+    "chapter": 1,
+    "verseRef": "Genèse 1:1",
+    "verseText": "Au commencement, Dieu créa les cieux et la terre.",
+    "question": "Qui est explicitement mentionné dans Genèse 1:1 ?",
+    "choices": [
+      "Dieu",
+      "Adam",
+      "Cain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 1:1 (LSG 1910) - Au commencement, Dieu créa les cieux et la terre."
+  },
+  {
+    "id": "GEN-002",
+    "book": "Genèse",
+    "chapter": 1,
+    "verseRef": "Genèse 1:16",
+    "verseText": "Dieu fit les deux grands luminaires, le plus grand luminaire pour présider au jour, et le plus petit luminaire pour présider à la nuit; il fit aussi les étoiles.",
+    "question": "Dans Genèse 1:16, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "C’est ainsi qu’il chassa Adam",
+      "La pluie tomba sur la terre quarante jours et quarante nuits",
+      "Dieu fit les deux grands luminaires, le plus grand luminaire pour présider au jour, et le plus petit luminaire pour présider à la nuit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 1:16 (LSG 1910) - Dieu fit les deux grands luminaires, le plus grand luminaire pour présider au jour, et le plus petit luminaire pour présider à la nuit; il fit aussi les étoiles."
+  },
+  {
+    "id": "GEN-003",
+    "book": "Genèse",
+    "chapter": 1,
+    "verseRef": "Genèse 1:31",
+    "verseText": "Dieu vit tout ce qu’il avait fait et voici, cela était très bon. Ainsi, il y eut un soir, et il y eut un matin: ce fut le sixième jour.",
+    "question": "Selon Genèse 1:31, comment la situation est-elle présentée ?",
+    "choices": [
+      "Les eaux furent grosses sur la terre pendant cent cinquante jours",
+      "ce fut le sixième jour",
+      "J’ai formé un homme avec l’aide de l’Éternel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 1:31 (LSG 1910) - Dieu vit tout ce qu’il avait fait et voici, cela était très bon. Ainsi, il y eut un soir, et il y eut un matin: ce fut le sixième jour."
+  },
+  {
+    "id": "GEN-004",
+    "book": "Genèse",
+    "chapter": 2,
+    "verseRef": "Genèse 2:1",
+    "verseText": "Ainsi furent achevés les cieux et la terre, et toute leur armée.",
+    "question": "D’après Genèse 2:1, pourquoi cette parole ou cette action est-elle rapportée ?",
+    "choices": [
+      "Ainsi furent achevés les cieux et la terre, et toute leur armée",
+      "Mon châtiment est trop grand pour être supporté",
+      "Dieu se souvint de Noé, de tous les animaux et de tout le bétail qui étaient avec lui dans l’arche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 2:1 (LSG 1910) - Ainsi furent achevés les cieux et la terre, et toute leur armée."
+  },
+  {
+    "id": "GEN-005",
+    "book": "Genèse",
+    "chapter": 2,
+    "verseRef": "Genèse 2:13",
+    "verseText": "Le nom du second fleuve est Guihon; c’est celui qui entoure tout le pays de Cusch.",
+    "question": "Que déclare précisément Genèse 2:13 ?",
+    "choices": [
+      "C’est alors que l’on commença à invoquer le nom de l’Éternel",
+      "La colombe revint à lui sur le soir",
+      "Le nom du second fleuve est Guihon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 2:13 (LSG 1910) - Le nom du second fleuve est Guihon; c’est celui qui entoure tout le pays de Cusch."
+  },
+  {
+    "id": "GEN-006",
+    "book": "Genèse",
+    "chapter": 2,
+    "verseRef": "Genèse 2:25",
+    "verseText": "L’homme et sa femme étaient tous deux nus, et ils n’en avaient point honte.",
+    "question": "Dans Genèse 2:25, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "Tant que la terre subsistera, les semailles et la moisson, le froid et la chaleur, l’été et l’hiver, le jour et la nuit ne cesseront point",
+      "L’homme et sa femme étaient tous deux nus, et ils n’en avaient point honte",
+      "Voici le livre de la postérité d’Adam"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 2:25 (LSG 1910) - L’homme et sa femme étaient tous deux nus, et ils n’en avaient point honte."
+  },
+  {
+    "id": "GEN-007",
+    "book": "Genèse",
+    "chapter": 3,
+    "verseRef": "Genèse 3:1",
+    "verseText": "Le serpent était le plus rusé de tous les animaux des champs, que l’Éternel Dieu avait faits. Il dit à la femme: Dieu a-t-il réellement dit: Vous ne mangerez pas de tous les arbres du jardin?",
+    "question": "Selon Genèse 3:1, quel énoncé correspond au verset ?",
+    "choices": [
+      "Vous ne mangerez pas de tous les arbres du jardin",
+      "Mahalaleel vécut, après la naissance de Jéred, huit cent trente ans",
+      "Dieu bénit Noé et ses fils, et leur dit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 3:1 (LSG 1910) - Le serpent était le plus rusé de tous les animaux des champs, que l’Éternel Dieu avait faits. Il dit à la femme: Dieu a-t-il réellement dit: Vous ne mangerez pas de tous les arbres du jardin?"
+  },
+  {
+    "id": "GEN-008",
+    "book": "Genèse",
+    "chapter": 3,
+    "verseRef": "Genèse 3:12",
+    "verseText": "L’homme répondit: La femme que tu as mise auprès de moi m’a donné de l’arbre, et j’en ai mangé.",
+    "question": "D’après Genèse 3:12, comment l’action est-elle racontée ?",
+    "choices": [
+      "Noé, âgé de cinq cents ans, engendra Sem, Cham et Japhet",
+      "et je me souviendrai de mon alliance entre moi et vous, et tous les êtres vivants, de toute chair, et les eaux ne deviendront plus un déluge pour détruire toute chair",
+      "La femme que tu as mise auprès de moi m’a donné de l’arbre, et j’en ai mangé"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 3:12 (LSG 1910) - L’homme répondit: La femme que tu as mise auprès de moi m’a donné de l’arbre, et j’en ai mangé."
+  },
+  {
+    "id": "GEN-009",
+    "book": "Genèse",
+    "chapter": 3,
+    "verseRef": "Genèse 3:24",
+    "verseText": "C’est ainsi qu’il chassa Adam; et il mit à l’orient du jardin d’Éden les chérubins qui agitent une épée flamboyante, pour garder le chemin de l’arbre de vie.",
+    "question": "Pourquoi l’action mentionnée en Genèse 3:24 a-t-elle lieu selon le verset ?",
+    "choices": [
+      "Tous les jours de Noé furent de neuf cent cinquante ans",
+      "C’est ainsi qu’il chassa Adam",
+      "Lorsque les hommes eurent commencé à se multiplier sur la face de la terre, et que des filles leur furent nées,"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 3:24 (LSG 1910) - C’est ainsi qu’il chassa Adam; et il mit à l’orient du jardin d’Éden les chérubins qui agitent une épée flamboyante, pour garder le chemin de l’arbre de vie."
+  },
+  {
+    "id": "GEN-010",
+    "book": "Genèse",
+    "chapter": 4,
+    "verseRef": "Genèse 4:1",
+    "verseText": "Adam connut Ève, sa femme; elle conçut, et enfanta Caïn et elle dit: J’ai formé un homme avec l’aide de l’Éternel.",
+    "question": "Dans Genèse 4:1, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "J’ai formé un homme avec l’aide de l’Éternel",
+      "La terre était corrompue devant Dieu, la terre était pleine de violence",
+      "Voici la postérité des fils de Noé, Sem, Cham et Japhet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 4:1 (LSG 1910) - Adam connut Ève, sa femme; elle conçut, et enfanta Caïn et elle dit: J’ai formé un homme avec l’aide de l’Éternel."
+  },
+  {
+    "id": "GEN-011",
+    "book": "Genèse",
+    "chapter": 4,
+    "verseRef": "Genèse 4:13",
+    "verseText": "Caïn dit à l’Éternel: Mon châtiment est trop grand pour être supporté.",
+    "question": "Selon Genèse 4:13, qui agit au cœur du récit ?",
+    "choices": [
+      "Abram",
+      "Sarai",
+      "Cain"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 4:13 (LSG 1910) - Caïn dit à l’Éternel: Mon châtiment est trop grand pour être supporté."
+  },
+  {
+    "id": "GEN-012",
+    "book": "Genèse",
+    "chapter": 4,
+    "verseRef": "Genèse 4:26",
+    "verseText": "Seth eut aussi un fils, et il l’appela du nom d’Énosch. C’est alors que l’on commença à invoquer le nom de l’Éternel.",
+    "question": "D’après Genèse 4:26, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "Et c’est d’eux que sont sorties les nations qui se sont répandues sur la terre après le déluge",
+      "C’est alors que l’on commença à invoquer le nom de l’Éternel",
+      "Entre dans l’arche, toi et toute ta maison"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 4:26 (LSG 1910) - Seth eut aussi un fils, et il l’appela du nom d’Énosch. C’est alors que l’on commença à invoquer le nom de l’Éternel."
+  },
+  {
+    "id": "GEN-013",
+    "book": "Genèse",
+    "chapter": 5,
+    "verseRef": "Genèse 5:1",
+    "verseText": "Voici le livre de la postérité d’Adam. Lorsque Dieu créa l’homme, il le fit à la ressemblance de Dieu.",
+    "question": "Comment Genèse 5:1 décrit-il le déroulement de la scène ?",
+    "choices": [
+      "Voici le livre de la postérité d’Adam",
+      "La pluie tomba sur la terre quarante jours et quarante nuits",
+      "Toute la terre avait une seule langue et les mêmes mots"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 5:1 (LSG 1910) - Voici le livre de la postérité d’Adam. Lorsque Dieu créa l’homme, il le fit à la ressemblance de Dieu."
+  },
+  {
+    "id": "GEN-014",
+    "book": "Genèse",
+    "chapter": 5,
+    "verseRef": "Genèse 5:16",
+    "verseText": "Mahalaleel vécut, après la naissance de Jéred, huit cent trente ans; et il engendra des fils et des filles.",
+    "question": "Dans Genèse 5:16, pourquoi ce fait est-il évoqué dans le récit ?",
+    "choices": [
+      "Les eaux furent grosses sur la terre pendant cent cinquante jours",
+      "Héber, âgé de trente-quatre ans, engendra Péleg",
+      "Mahalaleel vécut, après la naissance de Jéred, huit cent trente ans"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 5:16 (LSG 1910) - Mahalaleel vécut, après la naissance de Jéred, huit cent trente ans; et il engendra des fils et des filles."
+  },
+  {
+    "id": "GEN-015",
+    "book": "Genèse",
+    "chapter": 5,
+    "verseRef": "Genèse 5:32",
+    "verseText": "Noé, âgé de cinq cents ans, engendra Sem, Cham et Japhet.",
+    "question": "Selon Genèse 5:32, quel énoncé correspond au verset ?",
+    "choices": [
+      "Les jours de Térach furent de deux cent cinq ans",
+      "Noé, âgé de cinq cents ans, engendra Sem, Cham et Japhet",
+      "Dieu se souvint de Noé, de tous les animaux et de tout le bétail qui étaient avec lui dans l’arche"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 5:32 (LSG 1910) - Noé, âgé de cinq cents ans, engendra Sem, Cham et Japhet."
+  },
+  {
+    "id": "GEN-016",
+    "book": "Genèse",
+    "chapter": 6,
+    "verseRef": "Genèse 6:1",
+    "verseText": "Lorsque les hommes eurent commencé à se multiplier sur la face de la terre, et que des filles leur furent nées,",
+    "question": "D’après Genèse 6:1, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "Lorsque les hommes eurent commencé à se multiplier sur la face de la terre, et que des filles leur furent nées,",
+      "La colombe revint à lui sur le soir",
+      "Vat’en de ton pays, de ta patrie, et de la maison de ton père, dans le pays que je te montrerai"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 6:1 (LSG 1910) - Lorsque les hommes eurent commencé à se multiplier sur la face de la terre, et que des filles leur furent nées,"
+  },
+  {
+    "id": "GEN-017",
+    "book": "Genèse",
+    "chapter": 6,
+    "verseRef": "Genèse 6:11",
+    "verseText": "La terre était corrompue devant Dieu, la terre était pleine de violence.",
+    "question": "Que déclare précisément Genèse 6:11 ?",
+    "choices": [
+      "Tant que la terre subsistera, les semailles et la moisson, le froid et la chaleur, l’été et l’hiver, le jour et la nuit ne cesseront point",
+      "Il y eut une famine dans le pays",
+      "La terre était corrompue devant Dieu, la terre était pleine de violence"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 6:11 (LSG 1910) - La terre était corrompue devant Dieu, la terre était pleine de violence."
+  },
+  {
+    "id": "GEN-018",
+    "book": "Genèse",
+    "chapter": 6,
+    "verseRef": "Genèse 6:22",
+    "verseText": "C’est ce que fit Noé: il exécuta tout ce que Dieu lui avait ordonné.",
+    "question": "Dans Genèse 6:22, comment le texte biblique formule-t-il cet événement ?",
+    "choices": [
+      "Et Pharaon donna ordre à ses gens de le renvoyer, lui et sa femme, avec tout ce qui lui appartenait",
+      "C’est ce que fit Noé",
+      "Dieu bénit Noé et ses fils, et leur dit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 6:22 (LSG 1910) - C’est ce que fit Noé: il exécuta tout ce que Dieu lui avait ordonné."
+  },
+  {
+    "id": "GEN-019",
+    "book": "Genèse",
+    "chapter": 7,
+    "verseRef": "Genèse 7:1",
+    "verseText": "L’Éternel dit à Noé: Entre dans l’arche, toi et toute ta maison; car je t’ai vu juste devant moi parmi cette génération.",
+    "question": "Selon Genèse 7:1, pour quelle raison immédiate cet événement apparaît-il ?",
+    "choices": [
+      "Entre dans l’arche, toi et toute ta maison",
+      "et je me souviendrai de mon alliance entre moi et vous, et tous les êtres vivants, de toute chair, et les eaux ne deviendront plus un déluge pour détruire toute chair",
+      "Abram remonta d’Égypte vers le midi, lui, sa femme, et tout ce qui lui appartenait, et Lot avec lui"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 7:1 (LSG 1910) - L’Éternel dit à Noé: Entre dans l’arche, toi et toute ta maison; car je t’ai vu juste devant moi parmi cette génération."
+  },
+  {
+    "id": "GEN-020",
+    "book": "Genèse",
+    "chapter": 7,
+    "verseRef": "Genèse 7:12",
+    "verseText": "La pluie tomba sur la terre quarante jours et quarante nuits.",
+    "question": "D’après Genèse 7:12, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "Tous les jours de Noé furent de neuf cent cinquante ans",
+      "si tu vas à droite, j’irai à gauche",
+      "La pluie tomba sur la terre quarante jours et quarante nuits"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 7:12 (LSG 1910) - La pluie tomba sur la terre quarante jours et quarante nuits."
+  },
+  {
+    "id": "GEN-021",
+    "book": "Genèse",
+    "chapter": 7,
+    "verseRef": "Genèse 7:24",
+    "verseText": "Les eaux furent grosses sur la terre pendant cent cinquante jours.",
+    "question": "Que déclare précisément Genèse 7:24 ?",
+    "choices": [
+      "Et il bâtit là un autel à l’Éternel",
+      "Les eaux furent grosses sur la terre pendant cent cinquante jours",
+      "Voici la postérité des fils de Noé, Sem, Cham et Japhet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 7:24 (LSG 1910) - Les eaux furent grosses sur la terre pendant cent cinquante jours."
+  },
+  {
+    "id": "GEN-022",
+    "book": "Genèse",
+    "chapter": 8,
+    "verseRef": "Genèse 8:1",
+    "verseText": "Dieu se souvint de Noé, de tous les animaux et de tout le bétail qui étaient avec lui dans l’arche; et Dieu fit passer un vent sur la terre, et les eaux s’apaisèrent.",
+    "question": "Dans Genèse 8:1, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "Dieu se souvint de Noé, de tous les animaux et de tout le bétail qui étaient avec lui dans l’arche",
+      "et les Jébusiens, les Amoréens, les Guirgasiens,",
+      "Dans le temps d’Amraphel, roi de Schinear, d’Arjoc, roi d’Ellasar, de Kedorlaomer, roi d’Élam, et de Tideal, roi de Gojim,"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 8:1 (LSG 1910) - Dieu se souvint de Noé, de tous les animaux et de tout le bétail qui étaient avec lui dans l’arche; et Dieu fit passer un vent sur la terre, et les eaux s’apaisèrent."
+  },
+  {
+    "id": "GEN-023",
+    "book": "Genèse",
+    "chapter": 8,
+    "verseRef": "Genèse 8:11",
+    "verseText": "La colombe revint à lui sur le soir; et voici, une feuille d’olivier arrachée était dans son bec. Noé connut ainsi que les eaux avaient diminué sur la terre.",
+    "question": "Selon Genèse 8:11, comment la situation est-elle présentée ?",
+    "choices": [
+      "Et c’est d’eux que sont sorties les nations qui se sont répandues sur la terre après le déluge",
+      "et ils s’en allèrent",
+      "La colombe revint à lui sur le soir"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 8:11 (LSG 1910) - La colombe revint à lui sur le soir; et voici, une feuille d’olivier arrachée était dans son bec. Noé connut ainsi que les eaux avaient diminué sur la terre."
+  },
+  {
+    "id": "GEN-024",
+    "book": "Genèse",
+    "chapter": 8,
+    "verseRef": "Genèse 8:22",
+    "verseText": "Tant que la terre subsistera, les semailles et la moisson, le froid et la chaleur, l’été et l’hiver, le jour et la nuit ne cesseront point.",
+    "question": "D’après Genèse 8:22, pourquoi cette parole ou cette action est-elle rapportée ?",
+    "choices": [
+      "Seulement, ce qu’ont mangé les jeunes gens, et la part des hommes qui ont marché avec moi, Aner, Eschcol et Mamré",
+      "Tant que la terre subsistera, les semailles et la moisson, le froid et la chaleur, l’été et l’hiver, le jour et la nuit ne cesseront point",
+      "Toute la terre avait une seule langue et les mêmes mots"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 8:22 (LSG 1910) - Tant que la terre subsistera, les semailles et la moisson, le froid et la chaleur, l’été et l’hiver, le jour et la nuit ne cesseront point."
+  },
+  {
+    "id": "GEN-025",
+    "book": "Genèse",
+    "chapter": 9,
+    "verseRef": "Genèse 9:1",
+    "verseText": "Dieu bénit Noé et ses fils, et leur dit: Soyez féconds, multipliez, et remplissez la terre.",
+    "question": "Que déclare précisément Genèse 9:1 ?",
+    "choices": [
+      "Dieu bénit Noé et ses fils, et leur dit",
+      "Héber, âgé de trente-quatre ans, engendra Péleg",
+      "je suis ton bouclier, et ta récompense sera très grande"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 9:1 (LSG 1910) - Dieu bénit Noé et ses fils, et leur dit: Soyez féconds, multipliez, et remplissez la terre."
+  },
+  {
+    "id": "GEN-026",
+    "book": "Genèse",
+    "chapter": 9,
+    "verseRef": "Genèse 9:15",
+    "verseText": "et je me souviendrai de mon alliance entre moi et vous, et tous les êtres vivants, de toute chair, et les eaux ne deviendront plus un déluge pour détruire toute chair.",
+    "question": "Dans Genèse 9:15, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "Les jours de Térach furent de deux cent cinq ans",
+      "et Abram les chassa",
+      "et je me souviendrai de mon alliance entre moi et vous, et tous les êtres vivants, de toute chair, et les eaux ne deviendront plus un déluge pour détruire toute chair"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 9:15 (LSG 1910) - et je me souviendrai de mon alliance entre moi et vous, et tous les êtres vivants, de toute chair, et les eaux ne deviendront plus un déluge pour détruire toute chair."
+  },
+  {
+    "id": "GEN-027",
+    "book": "Genèse",
+    "chapter": 9,
+    "verseRef": "Genèse 9:29",
+    "verseText": "Tous les jours de Noé furent de neuf cent cinquante ans; puis il mourut.",
+    "question": "Selon Genèse 9:29, quel énoncé correspond au verset ?",
+    "choices": [
+      "des Amoréens, des Cananéens, des Guirgasiens et des Jébusiens",
+      "Tous les jours de Noé furent de neuf cent cinquante ans",
+      "Vat’en de ton pays, de ta patrie, et de la maison de ton père, dans le pays que je te montrerai"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 9:29 (LSG 1910) - Tous les jours de Noé furent de neuf cent cinquante ans; puis il mourut."
+  },
+  {
+    "id": "GEN-028",
+    "book": "Genèse",
+    "chapter": 10,
+    "verseRef": "Genèse 10:1",
+    "verseText": "Voici la postérité des fils de Noé, Sem, Cham et Japhet. Il leur naquit des fils après le déluge.",
+    "question": "D’après Genèse 10:1, comment l’action est-elle racontée ?",
+    "choices": [
+      "Voici la postérité des fils de Noé, Sem, Cham et Japhet",
+      "Il y eut une famine dans le pays",
+      "Elle avait une servante égyptienne, nommée Agar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 10:1 (LSG 1910) - Voici la postérité des fils de Noé, Sem, Cham et Japhet. Il leur naquit des fils après le déluge."
+  },
+  {
+    "id": "GEN-029",
+    "book": "Genèse",
+    "chapter": 10,
+    "verseRef": "Genèse 10:16",
+    "verseText": "et les Jébusiens, les Amoréens, les Guirgasiens,",
+    "question": "Pourquoi l’action mentionnée en Genèse 10:16 a-t-elle lieu selon le verset ?",
+    "choices": [
+      "Et Pharaon donna ordre à ses gens de le renvoyer, lui et sa femme, avec tout ce qui lui appartenait",
+      "Agar, servante de Saraï, d’où viens-tu, et où vas-tu",
+      "et les Jébusiens, les Amoréens, les Guirgasiens,"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 10:16 (LSG 1910) - et les Jébusiens, les Amoréens, les Guirgasiens,"
+  },
+  {
+    "id": "GEN-030",
+    "book": "Genèse",
+    "chapter": 10,
+    "verseRef": "Genèse 10:32",
+    "verseText": "Telles sont les familles des fils de Noé, selon leurs générations, selon leurs nations. Et c’est d’eux que sont sorties les nations qui se sont répandues sur la terre après le déluge.",
+    "question": "Dans Genèse 10:32, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "Abram était âgé de quatre-vingt-six ans lorsqu’Agar enfanta Ismaël à Abram",
+      "Et c’est d’eux que sont sorties les nations qui se sont répandues sur la terre après le déluge",
+      "Abram remonta d’Égypte vers le midi, lui, sa femme, et tout ce qui lui appartenait, et Lot avec lui"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 10:32 (LSG 1910) - Telles sont les familles des fils de Noé, selon leurs générations, selon leurs nations. Et c’est d’eux que sont sorties les nations qui se sont répandues sur la terre après le déluge."
+  },
+  {
+    "id": "GEN-031",
+    "book": "Genèse",
+    "chapter": 11,
+    "verseRef": "Genèse 11:1",
+    "verseText": "Toute la terre avait une seule langue et les mêmes mots.",
+    "question": "Selon Genèse 11:1, quel énoncé correspond au verset ?",
+    "choices": [
+      "Toute la terre avait une seule langue et les mêmes mots",
+      "si tu vas à droite, j’irai à gauche",
+      "Marche devant ma face, et sois intègre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 11:1 (LSG 1910) - Toute la terre avait une seule langue et les mêmes mots."
+  },
+  {
+    "id": "GEN-032",
+    "book": "Genèse",
+    "chapter": 11,
+    "verseRef": "Genèse 11:16",
+    "verseText": "Héber, âgé de trente-quatre ans, engendra Péleg.",
+    "question": "D’après Genèse 11:16, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "Et il bâtit là un autel à l’Éternel",
+      "Un mâle incirconcis, qui n’aura pas été circoncis dans sa chair, sera exterminé du milieu de son peuple",
+      "Héber, âgé de trente-quatre ans, engendra Péleg"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 11:16 (LSG 1910) - Héber, âgé de trente-quatre ans, engendra Péleg."
+  },
+  {
+    "id": "GEN-033",
+    "book": "Genèse",
+    "chapter": 11,
+    "verseRef": "Genèse 11:32",
+    "verseText": "Les jours de Térach furent de deux cent cinq ans; et Térach mourut à Charan.",
+    "question": "Comment Genèse 11:32 décrit-il le déroulement de la scène ?",
+    "choices": [
+      "Et tous les gens de sa maison, nés dans sa maison, ou acquis à prix d’argent des étrangers, furent circoncis avec lui",
+      "Les jours de Térach furent de deux cent cinq ans",
+      "Dans le temps d’Amraphel, roi de Schinear, d’Arjoc, roi d’Ellasar, de Kedorlaomer, roi d’Élam, et de Tideal, roi de Gojim,"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 11:32 (LSG 1910) - Les jours de Térach furent de deux cent cinq ans; et Térach mourut à Charan."
+  },
+  {
+    "id": "GEN-034",
+    "book": "Genèse",
+    "chapter": 12,
+    "verseRef": "Genèse 12:1",
+    "verseText": "L’Éternel dit à Abram: Vat’en de ton pays, de ta patrie, et de la maison de ton père, dans le pays que je te montrerai.",
+    "question": "Dans Genèse 12:1, pourquoi ce fait est-il évoqué dans le récit ?",
+    "choices": [
+      "Vat’en de ton pays, de ta patrie, et de la maison de ton père, dans le pays que je te montrerai",
+      "et ils s’en allèrent",
+      "L’Éternel lui apparut parmi les chênes de Mamré, comme il était assis à l’entrée de sa tente, pendant la chaleur du jour"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 12:1 (LSG 1910) - L’Éternel dit à Abram: Vat’en de ton pays, de ta patrie, et de la maison de ton père, dans le pays que je te montrerai."
+  },
+  {
+    "id": "GEN-035",
+    "book": "Genèse",
+    "chapter": 12,
+    "verseRef": "Genèse 12:10",
+    "verseText": "Il y eut une famine dans le pays; et Abram descendit en Égypte pour y séjourner, car la famine était grande dans le pays.",
+    "question": "Selon Genèse 12:10, quel énoncé correspond au verset ?",
+    "choices": [
+      "Seulement, ce qu’ont mangé les jeunes gens, et la part des hommes qui ont marché avec moi, Aner, Eschcol et Mamré",
+      "Cacherai-je à Abraham ce que je vais faire",
+      "Il y eut une famine dans le pays"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 12:10 (LSG 1910) - Il y eut une famine dans le pays; et Abram descendit en Égypte pour y séjourner, car la famine était grande dans le pays."
+  },
+  {
+    "id": "GEN-036",
+    "book": "Genèse",
+    "chapter": 12,
+    "verseRef": "Genèse 12:20",
+    "verseText": "Et Pharaon donna ordre à ses gens de le renvoyer, lui et sa femme, avec tout ce qui lui appartenait.",
+    "question": "À la lecture de Genèse 12:20, qui parle ou accomplit l’action décrite ?",
+    "choices": [
+      "Japhet",
+      "Pharaon",
+      "Noé"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 12:20 (LSG 1910) - Et Pharaon donna ordre à ses gens de le renvoyer, lui et sa femme, avec tout ce qui lui appartenait."
+  },
+  {
+    "id": "GEN-037",
+    "book": "Genèse",
+    "chapter": 13,
+    "verseRef": "Genèse 13:1",
+    "verseText": "Abram remonta d’Égypte vers le midi, lui, sa femme, et tout ce qui lui appartenait, et Lot avec lui.",
+    "question": "Où se déroule la scène rapportée en Genèse 13:1 ?",
+    "choices": [
+      "Egypte",
+      "Beer Schéba",
+      "Mamré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 13:1 (LSG 1910) - Abram remonta d’Égypte vers le midi, lui, sa femme, et tout ce qui lui appartenait, et Lot avec lui."
+  },
+  {
+    "id": "GEN-038",
+    "book": "Genèse",
+    "chapter": 13,
+    "verseRef": "Genèse 13:9",
+    "verseText": "Tout le pays n’est-il pas devant toi? Sépare-toi donc de moi: si tu vas à gauche, j’irai à droite; si tu vas à droite, j’irai à gauche.",
+    "question": "Dans Genèse 13:9, comment le texte biblique formule-t-il cet événement ?",
+    "choices": [
+      "des Amoréens, des Cananéens, des Guirgasiens et des Jébusiens",
+      "Voici, j’ai trouvé grâce à tes yeux, et tu as montré la grandeur de ta miséricorde à mon égard, en me conservant la vie",
+      "si tu vas à droite, j’irai à gauche"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 13:9 (LSG 1910) - Tout le pays n’est-il pas devant toi? Sépare-toi donc de moi: si tu vas à gauche, j’irai à droite; si tu vas à droite, j’irai à gauche."
+  },
+  {
+    "id": "GEN-039",
+    "book": "Genèse",
+    "chapter": 13,
+    "verseRef": "Genèse 13:18",
+    "verseText": "Abram leva ses tentes, et vint habiter parmi les chênes de Mamré, qui sont près d’Hébron. Et il bâtit là un autel à l’Éternel.",
+    "question": "Selon Genèse 13:18, pour quelle raison immédiate cet événement apparaît-il ?",
+    "choices": [
+      "c’est le père des Ammonites, jusqu’à ce jour",
+      "Et il bâtit là un autel à l’Éternel",
+      "Elle avait une servante égyptienne, nommée Agar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 13:18 (LSG 1910) - Abram leva ses tentes, et vint habiter parmi les chênes de Mamré, qui sont près d’Hébron. Et il bâtit là un autel à l’Éternel."
+  },
+  {
+    "id": "GEN-040",
+    "book": "Genèse",
+    "chapter": 14,
+    "verseRef": "Genèse 14:1",
+    "verseText": "Dans le temps d’Amraphel, roi de Schinear, d’Arjoc, roi d’Ellasar, de Kedorlaomer, roi d’Élam, et de Tideal, roi de Gojim,",
+    "question": "D’après Genèse 14:1, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "Dans le temps d’Amraphel, roi de Schinear, d’Arjoc, roi d’Ellasar, de Kedorlaomer, roi d’Élam, et de Tideal, roi de Gojim,",
+      "Agar, servante de Saraï, d’où viens-tu, et où vas-tu",
+      "il s’établit entre Kadès et Schur, et fit un séjour à Guérar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 14:1 (LSG 1910) - Dans le temps d’Amraphel, roi de Schinear, d’Arjoc, roi d’Ellasar, de Kedorlaomer, roi d’Élam, et de Tideal, roi de Gojim,"
+  },
+  {
+    "id": "GEN-041",
+    "book": "Genèse",
+    "chapter": 14,
+    "verseRef": "Genèse 14:12",
+    "verseText": "Ils enlevèrent aussi, avec ses biens, Lot, fils du frère d’Abram, qui demeurait à Sodome; et ils s’en allèrent.",
+    "question": "Qui est explicitement mentionné dans Genèse 14:12 ?",
+    "choices": [
+      "Sara",
+      "Lot",
+      "Abram"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 14:12 (LSG 1910) - Ils enlevèrent aussi, avec ses biens, Lot, fils du frère d’Abram, qui demeurait à Sodome; et ils s’en allèrent."
+  },
+  {
+    "id": "GEN-042",
+    "book": "Genèse",
+    "chapter": 14,
+    "verseRef": "Genèse 14:24",
+    "verseText": "Seulement, ce qu’ont mangé les jeunes gens, et la part des hommes qui ont marché avec moi, Aner, Eschcol et Mamré: eux, ils prendront leur part.",
+    "question": "Dans Genèse 14:24, dans quel lieu biblique l’événement est-il situé ?",
+    "choices": [
+      "Éden",
+      "Mamré",
+      "Moriah"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 14:24 (LSG 1910) - Seulement, ce qu’ont mangé les jeunes gens, et la part des hommes qui ont marché avec moi, Aner, Eschcol et Mamré: eux, ils prendront leur part."
+  },
+  {
+    "id": "GEN-043",
+    "book": "Genèse",
+    "chapter": 15,
+    "verseRef": "Genèse 15:1",
+    "verseText": "Après ces événements, la parole de l’Éternel fut adressée à Abram dans une vision, et il dit: Abram, ne crains point; je suis ton bouclier, et ta récompense sera très grande.",
+    "question": "Selon Genèse 15:1, comment la situation est-elle présentée ?",
+    "choices": [
+      "je suis ton bouclier, et ta récompense sera très grande",
+      "Un mâle incirconcis, qui n’aura pas été circoncis dans sa chair, sera exterminé du milieu de son peuple",
+      "L’Éternel se souvint de ce qu’il avait dit à Sara, et l’Éternel accomplit pour Sara ce qu’il avait promis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 15:1 (LSG 1910) - Après ces événements, la parole de l’Éternel fut adressée à Abram dans une vision, et il dit: Abram, ne crains point; je suis ton bouclier, et ta récompense sera très grande."
+  },
+  {
+    "id": "GEN-044",
+    "book": "Genèse",
+    "chapter": 15,
+    "verseRef": "Genèse 15:11",
+    "verseText": "Les oiseaux de proie s’abattirent sur les cadavres; et Abram les chassa.",
+    "question": "D’après Genèse 15:11, pourquoi cette parole ou cette action est-elle rapportée ?",
+    "choices": [
+      "Et tous les gens de sa maison, nés dans sa maison, ou acquis à prix d’argent des étrangers, furent circoncis avec lui",
+      "et l’ange de Dieu appela du ciel Agar, et lui dit",
+      "et Abram les chassa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 15:11 (LSG 1910) - Les oiseaux de proie s’abattirent sur les cadavres; et Abram les chassa."
+  },
+  {
+    "id": "GEN-045",
+    "book": "Genèse",
+    "chapter": 15,
+    "verseRef": "Genèse 15:21",
+    "verseText": "des Amoréens, des Cananéens, des Guirgasiens et des Jébusiens.",
+    "question": "Que déclare précisément Genèse 15:21 ?",
+    "choices": [
+      "Abraham séjourna longtemps dans le pays des Philistins",
+      "des Amoréens, des Cananéens, des Guirgasiens et des Jébusiens",
+      "L’Éternel lui apparut parmi les chênes de Mamré, comme il était assis à l’entrée de sa tente, pendant la chaleur du jour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 15:21 (LSG 1910) - des Amoréens, des Cananéens, des Guirgasiens et des Jébusiens."
+  },
+  {
+    "id": "GEN-046",
+    "book": "Genèse",
+    "chapter": 16,
+    "verseRef": "Genèse 16:1",
+    "verseText": "Saraï, femme d’Abram, ne lui avait point donné d’enfants. Elle avait une servante égyptienne, nommée Agar.",
+    "question": "Dans Genèse 16:1, qui intervient directement dans la scène ?",
+    "choices": [
+      "Abram",
+      "Ismael",
+      "Esau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 16:1 (LSG 1910) - Saraï, femme d’Abram, ne lui avait point donné d’enfants. Elle avait une servante égyptienne, nommée Agar."
+  },
+  {
+    "id": "GEN-047",
+    "book": "Genèse",
+    "chapter": 16,
+    "verseRef": "Genèse 16:8",
+    "verseText": "Il dit: Agar, servante de Saraï, d’où viens-tu, et où vas-tu? Elle répondit: Je fuis loin de Saraï, ma maîtresse.",
+    "question": "Selon Genèse 16:8, quel énoncé correspond au verset ?",
+    "choices": [
+      "Et Abraham retourna dans sa demeure",
+      "N’avance pas ta main sur l’enfant, et ne lui fais rien",
+      "Agar, servante de Saraï, d’où viens-tu, et où vas-tu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 16:8 (LSG 1910) - Il dit: Agar, servante de Saraï, d’où viens-tu, et où vas-tu? Elle répondit: Je fuis loin de Saraï, ma maîtresse."
+  },
+  {
+    "id": "GEN-048",
+    "book": "Genèse",
+    "chapter": 16,
+    "verseRef": "Genèse 16:16",
+    "verseText": "Abram était âgé de quatre-vingt-six ans lorsqu’Agar enfanta Ismaël à Abram.",
+    "question": "D’après Genèse 16:16, comment l’action est-elle racontée ?",
+    "choices": [
+      "Sa concubine, nommée Réuma, a aussi enfanté Thébach, Gaham, Tahasch et Maaca",
+      "Abram était âgé de quatre-vingt-six ans lorsqu’Agar enfanta Ismaël à Abram",
+      "Les deux anges arrivèrent à Sodome sur le soir"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 16:16 (LSG 1910) - Abram était âgé de quatre-vingt-six ans lorsqu’Agar enfanta Ismaël à Abram."
+  },
+  {
+    "id": "GEN-049",
+    "book": "Genèse",
+    "chapter": 17,
+    "verseRef": "Genèse 17:1",
+    "verseText": "Lorsque Abram fut âgé de quatre-vingt-dix-neuf ans, l’Éternel apparut à Abram, et lui dit: Je suis le Dieu tout-puissant. Marche devant ma face, et sois intègre.",
+    "question": "Pourquoi l’action mentionnée en Genèse 17:1 a-t-elle lieu selon le verset ?",
+    "choices": [
+      "Marche devant ma face, et sois intègre",
+      "Voici, j’ai trouvé grâce à tes yeux, et tu as montré la grandeur de ta miséricorde à mon égard, en me conservant la vie",
+      "La vie de Sara fut de cent vingt-sept ans"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 17:1 (LSG 1910) - Lorsque Abram fut âgé de quatre-vingt-dix-neuf ans, l’Éternel apparut à Abram, et lui dit: Je suis le Dieu tout-puissant. Marche devant ma face, et sois intègre."
+  },
+  {
+    "id": "GEN-050",
+    "book": "Genèse",
+    "chapter": 17,
+    "verseRef": "Genèse 17:14",
+    "verseText": "Un mâle incirconcis, qui n’aura pas été circoncis dans sa chair, sera exterminé du milieu de son peuple: il aura violé mon alliance.",
+    "question": "Dans Genèse 17:14, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "c’est le père des Ammonites, jusqu’à ce jour",
+      "Et Éphron, le Héthien, répondit à Abraham, en présence des fils de Heth et de tous ceux qui entraient par la porte de sa ville",
+      "Un mâle incirconcis, qui n’aura pas été circoncis dans sa chair, sera exterminé du milieu de son peuple"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 17:14 (LSG 1910) - Un mâle incirconcis, qui n’aura pas été circoncis dans sa chair, sera exterminé du milieu de son peuple: il aura violé mon alliance."
+  },
+  {
+    "id": "GEN-051",
+    "book": "Genèse",
+    "chapter": 17,
+    "verseRef": "Genèse 17:27",
+    "verseText": "Et tous les gens de sa maison, nés dans sa maison, ou acquis à prix d’argent des étrangers, furent circoncis avec lui.",
+    "question": "Selon Genèse 17:27, quel énoncé correspond au verset ?",
+    "choices": [
+      "Le champ et la caverne qui y est demeurèrent à Abraham comme possession sépulcrale, acquise des fils de Heth",
+      "Et tous les gens de sa maison, nés dans sa maison, ou acquis à prix d’argent des étrangers, furent circoncis avec lui",
+      "il s’établit entre Kadès et Schur, et fit un séjour à Guérar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 17:27 (LSG 1910) - Et tous les gens de sa maison, nés dans sa maison, ou acquis à prix d’argent des étrangers, furent circoncis avec lui."
+  },
+  {
+    "id": "GEN-052",
+    "book": "Genèse",
+    "chapter": 18,
+    "verseRef": "Genèse 18:1",
+    "verseText": "L’Éternel lui apparut parmi les chênes de Mamré, comme il était assis à l’entrée de sa tente, pendant la chaleur du jour.",
+    "question": "D’après Genèse 18:1, quel lieu est nommé dans le récit ?",
+    "choices": [
+      "Mamré",
+      "Hébron",
+      "Sichem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 18:1 (LSG 1910) - L’Éternel lui apparut parmi les chênes de Mamré, comme il était assis à l’entrée de sa tente, pendant la chaleur du jour."
+  },
+  {
+    "id": "GEN-053",
+    "book": "Genèse",
+    "chapter": 18,
+    "verseRef": "Genèse 18:17",
+    "verseText": "Alors l’Éternel dit: Cacherai-je à Abraham ce que je vais faire?…",
+    "question": "Comment Genèse 18:17 décrit-il le déroulement de la scène ?",
+    "choices": [
+      "Car l’Éternel avait frappé de stérilité toute la maison d’Abimélec, à cause de Sara, femme d’Abraham",
+      "Je suis serviteur d’Abraham",
+      "Cacherai-je à Abraham ce que je vais faire"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 18:17 (LSG 1910) - Alors l’Éternel dit: Cacherai-je à Abraham ce que je vais faire?…"
+  },
+  {
+    "id": "GEN-054",
+    "book": "Genèse",
+    "chapter": 18,
+    "verseRef": "Genèse 18:33",
+    "verseText": "L’Éternel s’en alla lorsqu’il eut achevé de parler à Abraham. Et Abraham retourna dans sa demeure.",
+    "question": "Dans Genèse 18:33, pourquoi ce fait est-il évoqué dans le récit ?",
+    "choices": [
+      "Isaac conduisit Rebecca dans la tente de Sara, sa mère",
+      "Et Abraham retourna dans sa demeure",
+      "L’Éternel se souvint de ce qu’il avait dit à Sara, et l’Éternel accomplit pour Sara ce qu’il avait promis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 18:33 (LSG 1910) - L’Éternel s’en alla lorsqu’il eut achevé de parler à Abraham. Et Abraham retourna dans sa demeure."
+  },
+  {
+    "id": "GEN-055",
+    "book": "Genèse",
+    "chapter": 19,
+    "verseRef": "Genèse 19:1",
+    "verseText": "Les deux anges arrivèrent à Sodome sur le soir; et Lot était assis à la porte de Sodome. Quand Lot les vit, il se leva pour aller au-devant d’eux, et se prosterna la face contre terre.",
+    "question": "Selon Genèse 19:1, quel énoncé correspond au verset ?",
+    "choices": [
+      "Les deux anges arrivèrent à Sodome sur le soir",
+      "et l’ange de Dieu appela du ciel Agar, et lui dit",
+      "Abraham prit encore une femme, nommée Ketura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 19:1 (LSG 1910) - Les deux anges arrivèrent à Sodome sur le soir; et Lot était assis à la porte de Sodome. Quand Lot les vit, il se leva pour aller au-devant d’eux, et se prosterna la face contre terre."
+  },
+  {
+    "id": "GEN-056",
+    "book": "Genèse",
+    "chapter": 19,
+    "verseRef": "Genèse 19:19",
+    "verseText": "Voici, j’ai trouvé grâce à tes yeux, et tu as montré la grandeur de ta miséricorde à mon égard, en me conservant la vie; mais je ne puis me sauver à la montagne, avant que le désastre m’atteigne, et je périrai.",
+    "question": "D’après Genèse 19:19, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "Abraham séjourna longtemps dans le pays des Philistins",
+      "Il expira et mourut, et il fut recueilli auprès de son peuple",
+      "Voici, j’ai trouvé grâce à tes yeux, et tu as montré la grandeur de ta miséricorde à mon égard, en me conservant la vie"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 19:19 (LSG 1910) - Voici, j’ai trouvé grâce à tes yeux, et tu as montré la grandeur de ta miséricorde à mon égard, en me conservant la vie; mais je ne puis me sauver à la montagne, avant que le désastre m’atteigne, et je périrai."
+  },
+  {
+    "id": "GEN-057",
+    "book": "Genèse",
+    "chapter": 19,
+    "verseRef": "Genèse 19:38",
+    "verseText": "La plus jeune enfanta aussi un fils, qu’elle appela du nom de Ben-Ammi: c’est le père des Ammonites, jusqu’à ce jour.",
+    "question": "Que déclare précisément Genèse 19:38 ?",
+    "choices": [
+      "C’est ainsi qu’Ésaü méprisa le droit d’aînesse",
+      "c’est le père des Ammonites, jusqu’à ce jour",
+      "Et il répondit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 19:38 (LSG 1910) - La plus jeune enfanta aussi un fils, qu’elle appela du nom de Ben-Ammi: c’est le père des Ammonites, jusqu’à ce jour."
+  },
+  {
+    "id": "GEN-058",
+    "book": "Genèse",
+    "chapter": 20,
+    "verseRef": "Genèse 20:1",
+    "verseText": "Abraham partit de là pour la contrée du midi; il s’établit entre Kadès et Schur, et fit un séjour à Guérar.",
+    "question": "Dans Genèse 20:1, comment le texte biblique formule-t-il cet événement ?",
+    "choices": [
+      "il s’établit entre Kadès et Schur, et fit un séjour à Guérar",
+      "N’avance pas ta main sur l’enfant, et ne lui fais rien",
+      "Il y eut une famine dans le pays, outre la première famine qui eut lieu du temps d’Abraham"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 20:1 (LSG 1910) - Abraham partit de là pour la contrée du midi; il s’établit entre Kadès et Schur, et fit un séjour à Guérar."
+  },
+  {
+    "id": "GEN-059",
+    "book": "Genèse",
+    "chapter": 20,
+    "verseRef": "Genèse 20:9",
+    "verseText": "Abimélec appela aussi Abraham, et lui dit: Qu’est-ce que tu nous as fait? Et en quoi t’ai-je offensé, que tu aies fait venir sur moi et sur mon royaume un si grand péché? Tu as commis à mon égard des actes qui ne doivent pas se commettre.",
+    "question": "Selon Genèse 20:9, pour quelle raison immédiate cet événement apparaît-il ?",
+    "choices": [
+      "Sa concubine, nommée Réuma, a aussi enfanté Thébach, Gaham, Tahasch et Maaca",
+      "et il leur donna les mêmes noms que son père leur avait donnés",
+      "Abimélec appela aussi Abraham, et lui dit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 20:9 (LSG 1910) - Abimélec appela aussi Abraham, et lui dit: Qu’est-ce que tu nous as fait? Et en quoi t’ai-je offensé, que tu aies fait venir sur moi et sur mon royaume un si grand péché? Tu as commis à mon égard des actes qui ne doivent pas se commettre."
+  },
+  {
+    "id": "GEN-060",
+    "book": "Genèse",
+    "chapter": 20,
+    "verseRef": "Genèse 20:18",
+    "verseText": "Car l’Éternel avait frappé de stérilité toute la maison d’Abimélec, à cause de Sara, femme d’Abraham.",
+    "question": "D’après Genèse 20:18, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "Elles furent un sujet d’amertume pour le cœur d’Isaac et de Rebecca",
+      "Car l’Éternel avait frappé de stérilité toute la maison d’Abimélec, à cause de Sara, femme d’Abraham",
+      "La vie de Sara fut de cent vingt-sept ans"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 20:18 (LSG 1910) - Car l’Éternel avait frappé de stérilité toute la maison d’Abimélec, à cause de Sara, femme d’Abraham."
+  },
+  {
+    "id": "GEN-061",
+    "book": "Genèse",
+    "chapter": 21,
+    "verseRef": "Genèse 21:1",
+    "verseText": "L’Éternel se souvint de ce qu’il avait dit à Sara, et l’Éternel accomplit pour Sara ce qu’il avait promis.",
+    "question": "Qui est explicitement mentionné dans Genèse 21:1 ?",
+    "choices": [
+      "Sara",
+      "Abel",
+      "Sem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 21:1 (LSG 1910) - L’Éternel se souvint de ce qu’il avait dit à Sara, et l’Éternel accomplit pour Sara ce qu’il avait promis."
+  },
+  {
+    "id": "GEN-062",
+    "book": "Genèse",
+    "chapter": 21,
+    "verseRef": "Genèse 21:17",
+    "verseText": "Dieu entendit la voix de l’enfant; et l’ange de Dieu appela du ciel Agar, et lui dit: Qu’as-tu, Agar? Ne crains point, car Dieu a entendu la voix de l’enfant dans le lieu où il est.",
+    "question": "Dans Genèse 21:17, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "Le champ et la caverne qui y est demeurèrent à Abraham comme possession sépulcrale, acquise des fils de Heth",
+      "Il ne le reconnut pas, parce que ses mains étaient velues, comme les mains d’Ésaü, son frère",
+      "et l’ange de Dieu appela du ciel Agar, et lui dit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 21:17 (LSG 1910) - Dieu entendit la voix de l’enfant; et l’ange de Dieu appela du ciel Agar, et lui dit: Qu’as-tu, Agar? Ne crains point, car Dieu a entendu la voix de l’enfant dans le lieu où il est."
+  },
+  {
+    "id": "GEN-063",
+    "book": "Genèse",
+    "chapter": 21,
+    "verseRef": "Genèse 21:34",
+    "verseText": "Abraham séjourna longtemps dans le pays des Philistins.",
+    "question": "Selon Genèse 21:34, comment la situation est-elle présentée ?",
+    "choices": [
+      "Rebecca dit à Isaac",
+      "Abraham séjourna longtemps dans le pays des Philistins",
+      "Abraham était vieux, avancé en âge"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 21:34 (LSG 1910) - Abraham séjourna longtemps dans le pays des Philistins."
+  },
+  {
+    "id": "GEN-064",
+    "book": "Genèse",
+    "chapter": 22,
+    "verseRef": "Genèse 22:1",
+    "verseText": "Après ces choses, Dieu mit Abraham à l’épreuve, et lui dit: Abraham! Et il répondit: Me voici!",
+    "question": "D’après Genèse 22:1, pourquoi cette parole ou cette action est-elle rapportée ?",
+    "choices": [
+      "Et il répondit",
+      "Je suis serviteur d’Abraham",
+      "Tu ne prendras pas une femme parmi les filles de Canaan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 22:1 (LSG 1910) - Après ces choses, Dieu mit Abraham à l’épreuve, et lui dit: Abraham! Et il répondit: Me voici!"
+  },
+  {
+    "id": "GEN-065",
+    "book": "Genèse",
+    "chapter": 22,
+    "verseRef": "Genèse 22:12",
+    "verseText": "L’ange dit: N’avance pas ta main sur l’enfant, et ne lui fais rien; car je sais maintenant que tu crains Dieu, et que tu ne m’as pas refusé ton fils, ton unique.",
+    "question": "Que déclare précisément Genèse 22:12 ?",
+    "choices": [
+      "Isaac conduisit Rebecca dans la tente de Sara, sa mère",
+      "Il arriva dans un lieu où il passa la nuit",
+      "N’avance pas ta main sur l’enfant, et ne lui fais rien"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 22:12 (LSG 1910) - L’ange dit: N’avance pas ta main sur l’enfant, et ne lui fais rien; car je sais maintenant que tu crains Dieu, et que tu ne m’as pas refusé ton fils, ton unique."
+  },
+  {
+    "id": "GEN-066",
+    "book": "Genèse",
+    "chapter": 22,
+    "verseRef": "Genèse 22:24",
+    "verseText": "Sa concubine, nommée Réuma, a aussi enfanté Thébach, Gaham, Tahasch et Maaca.",
+    "question": "Dans Genèse 22:24, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "et je te donnerai la dîme de tout ce que tu me donneras",
+      "Sa concubine, nommée Réuma, a aussi enfanté Thébach, Gaham, Tahasch et Maaca",
+      "Abraham prit encore une femme, nommée Ketura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 22:24 (LSG 1910) - Sa concubine, nommée Réuma, a aussi enfanté Thébach, Gaham, Tahasch et Maaca."
+  },
+  {
+    "id": "GEN-067",
+    "book": "Genèse",
+    "chapter": 23,
+    "verseRef": "Genèse 23:1",
+    "verseText": "La vie de Sara fut de cent vingt-sept ans: telles sont les années de la vie de Sara.",
+    "question": "Selon Genèse 23:1, quel énoncé correspond au verset ?",
+    "choices": [
+      "La vie de Sara fut de cent vingt-sept ans",
+      "Il expira et mourut, et il fut recueilli auprès de son peuple",
+      "Jacob se mit en marche, et s’en alla au pays des fils de l’Orient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 23:1 (LSG 1910) - La vie de Sara fut de cent vingt-sept ans: telles sont les années de la vie de Sara."
+  },
+  {
+    "id": "GEN-068",
+    "book": "Genèse",
+    "chapter": 23,
+    "verseRef": "Genèse 23:10",
+    "verseText": "Éphron était assis parmi les fils de Heth. Et Éphron, le Héthien, répondit à Abraham, en présence des fils de Heth et de tous ceux qui entraient par la porte de sa ville:",
+    "question": "D’après Genèse 23:10, comment l’action est-elle racontée ?",
+    "choices": [
+      "C’est ainsi qu’Ésaü méprisa le droit d’aînesse",
+      "Je te servirai sept ans pour Rachel, ta fille cadette",
+      "Et Éphron, le Héthien, répondit à Abraham, en présence des fils de Heth et de tous ceux qui entraient par la porte de sa ville"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 23:10 (LSG 1910) - Éphron était assis parmi les fils de Heth. Et Éphron, le Héthien, répondit à Abraham, en présence des fils de Heth et de tous ceux qui entraient par la porte de sa ville:"
+  },
+  {
+    "id": "GEN-069",
+    "book": "Genèse",
+    "chapter": 23,
+    "verseRef": "Genèse 23:20",
+    "verseText": "Le champ et la caverne qui y est demeurèrent à Abraham comme possession sépulcrale, acquise des fils de Heth.",
+    "question": "Pourquoi l’action mentionnée en Genèse 23:20 a-t-elle lieu selon le verset ?",
+    "choices": [
+      "C’est pourquoi elle lui donna le nom de Juda",
+      "Le champ et la caverne qui y est demeurèrent à Abraham comme possession sépulcrale, acquise des fils de Heth",
+      "Il y eut une famine dans le pays, outre la première famine qui eut lieu du temps d’Abraham"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 23:20 (LSG 1910) - Le champ et la caverne qui y est demeurèrent à Abraham comme possession sépulcrale, acquise des fils de Heth."
+  },
+  {
+    "id": "GEN-070",
+    "book": "Genèse",
+    "chapter": 24,
+    "verseRef": "Genèse 24:1",
+    "verseText": "Abraham était vieux, avancé en âge; et l’Éternel avait béni Abraham en toute chose.",
+    "question": "Dans Genèse 24:1, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "Abraham était vieux, avancé en âge",
+      "et il leur donna les mêmes noms que son père leur avait donnés",
+      "Lorsque Rachel vit qu’elle ne donnait point d’enfants à Jacob, elle porta envie à sa sœur, et elle dit à Jacob"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 24:1 (LSG 1910) - Abraham était vieux, avancé en âge; et l’Éternel avait béni Abraham en toute chose."
+  },
+  {
+    "id": "GEN-071",
+    "book": "Genèse",
+    "chapter": 24,
+    "verseRef": "Genèse 24:34",
+    "verseText": "Alors il dit: Je suis serviteur d’Abraham.",
+    "question": "Selon Genèse 24:34, qui agit au cœur du récit ?",
+    "choices": [
+      "Lot",
+      "Ismaël",
+      "Abraham"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 24:34 (LSG 1910) - Alors il dit: Je suis serviteur d’Abraham."
+  },
+  {
+    "id": "GEN-072",
+    "book": "Genèse",
+    "chapter": 24,
+    "verseRef": "Genèse 24:67",
+    "verseText": "Isaac conduisit Rebecca dans la tente de Sara, sa mère; il prit Rebecca, qui devint sa femme, et il l’aima. Ainsi fut consolé Isaac, après avoir perdu sa mère.",
+    "question": "D’après Genèse 24:67, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "il eut du menu bétail en abondance, des servantes et des serviteurs, des chameaux et des ânes",
+      "Isaac conduisit Rebecca dans la tente de Sara, sa mère",
+      "Alors il appela Ésaü, son fils aîné, et lui dit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 24:67 (LSG 1910) - Isaac conduisit Rebecca dans la tente de Sara, sa mère; il prit Rebecca, qui devint sa femme, et il l’aima. Ainsi fut consolé Isaac, après avoir perdu sa mère."
+  },
+  {
+    "id": "GEN-073",
+    "book": "Genèse",
+    "chapter": 25,
+    "verseRef": "Genèse 25:1",
+    "verseText": "Abraham prit encore une femme, nommée Ketura.",
+    "question": "Comment Genèse 25:1 décrit-il le déroulement de la scène ?",
+    "choices": [
+      "Abraham prit encore une femme, nommée Ketura",
+      "Il ne le reconnut pas, parce que ses mains étaient velues, comme les mains d’Ésaü, son frère",
+      "Jacob entendit les propos des fils de Laban, qui disaient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 25:1 (LSG 1910) - Abraham prit encore une femme, nommée Ketura."
+  },
+  {
+    "id": "GEN-074",
+    "book": "Genèse",
+    "chapter": 25,
+    "verseRef": "Genèse 25:17",
+    "verseText": "Et voici les années de la vie d’Ismaël: cent trente-sept ans. Il expira et mourut, et il fut recueilli auprès de son peuple.",
+    "question": "Dans Genèse 25:17, pourquoi ce fait est-il évoqué dans le récit ?",
+    "choices": [
+      "Rebecca dit à Isaac",
+      "Tu ne m’as pas permis d’embrasser mes fils et mes filles",
+      "Il expira et mourut, et il fut recueilli auprès de son peuple"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 25:17 (LSG 1910) - Et voici les années de la vie d’Ismaël: cent trente-sept ans. Il expira et mourut, et il fut recueilli auprès de son peuple."
+  },
+  {
+    "id": "GEN-075",
+    "book": "Genèse",
+    "chapter": 25,
+    "verseRef": "Genèse 25:34",
+    "verseText": "Alors Jacob donna à Ésaü du pain et du potage de lentilles. Il mangea et but, puis se leva et s’en alla. C’est ainsi qu’Ésaü méprisa le droit d’aînesse.",
+    "question": "Selon Genèse 25:34, quel énoncé correspond au verset ?",
+    "choices": [
+      "Ensuite il partit pour retourner dans sa demeure",
+      "C’est ainsi qu’Ésaü méprisa le droit d’aînesse",
+      "Tu ne prendras pas une femme parmi les filles de Canaan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 25:34 (LSG 1910) - Alors Jacob donna à Ésaü du pain et du potage de lentilles. Il mangea et but, puis se leva et s’en alla. C’est ainsi qu’Ésaü méprisa le droit d’aînesse."
+  },
+  {
+    "id": "GEN-076",
+    "book": "Genèse",
+    "chapter": 26,
+    "verseRef": "Genèse 26:1",
+    "verseText": "Il y eut une famine dans le pays, outre la première famine qui eut lieu du temps d’Abraham; et Isaac alla vers Abimélec, roi des Philistins, à Guérar.",
+    "question": "À la lecture de Genèse 26:1, qui parle ou accomplit l’action décrite ?",
+    "choices": [
+      "Abraham",
+      "Esau",
+      "Benjamin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 26:1 (LSG 1910) - Il y eut une famine dans le pays, outre la première famine qui eut lieu du temps d’Abraham; et Isaac alla vers Abimélec, roi des Philistins, à Guérar."
+  },
+  {
+    "id": "GEN-077",
+    "book": "Genèse",
+    "chapter": 26,
+    "verseRef": "Genèse 26:18",
+    "verseText": "Isaac creusa de nouveau les puits d’eau qu’on avait creusés du temps d’Abraham, son père, et qu’avaient comblés les Philistins après la mort d’Abraham; et il leur donna les mêmes noms que son père leur avait donnés.",
+    "question": "Que déclare précisément Genèse 26:18 ?",
+    "choices": [
+      "et je te donnerai la dîme de tout ce que tu me donneras",
+      "Passez devant moi, et mettez un intervalle entre chaque troupeau",
+      "et il leur donna les mêmes noms que son père leur avait donnés"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 26:18 (LSG 1910) - Isaac creusa de nouveau les puits d’eau qu’on avait creusés du temps d’Abraham, son père, et qu’avaient comblés les Philistins après la mort d’Abraham; et il leur donna les mêmes noms que son père leur avait donnés."
+  },
+  {
+    "id": "GEN-078",
+    "book": "Genèse",
+    "chapter": 26,
+    "verseRef": "Genèse 26:35",
+    "verseText": "Elles furent un sujet d’amertume pour le cœur d’Isaac et de Rebecca.",
+    "question": "Dans Genèse 26:35, comment le texte biblique formule-t-il cet événement ?",
+    "choices": [
+      "C’est pourquoi jusqu’à ce jour, les enfants d’Israël ne mangent point le tendon qui est à l’emboîture de la hanche",
+      "Elles furent un sujet d’amertume pour le cœur d’Isaac et de Rebecca",
+      "Jacob se mit en marche, et s’en alla au pays des fils de l’Orient"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 26:35 (LSG 1910) - Elles furent un sujet d’amertume pour le cœur d’Isaac et de Rebecca."
+  },
+  {
+    "id": "GEN-079",
+    "book": "Genèse",
+    "chapter": 27,
+    "verseRef": "Genèse 27:1",
+    "verseText": "Isaac devenait vieux, et ses yeux s’étaient affaiblis au point qu’il ne voyait plus. Alors il appela Ésaü, son fils aîné, et lui dit: Mon fils! Et il lui répondit: Me voici!",
+    "question": "Selon Genèse 27:1, pour quelle raison immédiate cet événement apparaît-il ?",
+    "choices": [
+      "Alors il appela Ésaü, son fils aîné, et lui dit",
+      "Je te servirai sept ans pour Rachel, ta fille cadette",
+      "et voici, Ésaü arrivait, avec quatre cents hommes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 27:1 (LSG 1910) - Isaac devenait vieux, et ses yeux s’étaient affaiblis au point qu’il ne voyait plus. Alors il appela Ésaü, son fils aîné, et lui dit: Mon fils! Et il lui répondit: Me voici!"
+  },
+  {
+    "id": "GEN-080",
+    "book": "Genèse",
+    "chapter": 27,
+    "verseRef": "Genèse 27:23",
+    "verseText": "Il ne le reconnut pas, parce que ses mains étaient velues, comme les mains d’Ésaü, son frère; et il le bénit.",
+    "question": "D’après Genèse 27:23, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "C’est pourquoi elle lui donna le nom de Juda",
+      "Non, je te prie, si j’ai trouvé grâce à tes yeux, accepte de ma main mon présent",
+      "Il ne le reconnut pas, parce que ses mains étaient velues, comme les mains d’Ésaü, son frère"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 27:23 (LSG 1910) - Il ne le reconnut pas, parce que ses mains étaient velues, comme les mains d’Ésaü, son frère; et il le bénit."
+  },
+  {
+    "id": "GEN-081",
+    "book": "Genèse",
+    "chapter": 27,
+    "verseRef": "Genèse 27:46",
+    "verseText": "Rebecca dit à Isaac: Je suis dégoûtée de la vie, à cause des filles de Heth. Si Jacob prend une femme, comme celles-ci, parmi les filles de Heth, parmi les filles du pays, à quoi me sert la vie?",
+    "question": "Qui est explicitement mentionné dans Genèse 27:46 ?",
+    "choices": [
+      "Eve",
+      "Isaac",
+      "Pharaon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 27:46 (LSG 1910) - Rebecca dit à Isaac: Je suis dégoûtée de la vie, à cause des filles de Heth. Si Jacob prend une femme, comme celles-ci, parmi les filles de Heth, parmi les filles du pays, à quoi me sert la vie?"
+  },
+  {
+    "id": "GEN-082",
+    "book": "Genèse",
+    "chapter": 28,
+    "verseRef": "Genèse 28:1",
+    "verseText": "Isaac appela Jacob, le bénit, et lui donna cet ordre: Tu ne prendras pas une femme parmi les filles de Canaan.",
+    "question": "Dans Genèse 28:1, dans quel lieu biblique l’événement est-il situé ?",
+    "choices": [
+      "Canaan",
+      "Beer Schéba",
+      "Mamré"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 28:1 (LSG 1910) - Isaac appela Jacob, le bénit, et lui donna cet ordre: Tu ne prendras pas une femme parmi les filles de Canaan."
+  },
+  {
+    "id": "GEN-083",
+    "book": "Genèse",
+    "chapter": 28,
+    "verseRef": "Genèse 28:11",
+    "verseText": "Il arriva dans un lieu où il passa la nuit; car le soleil était couché. Il y prit une pierre, dont il fit son chevet, et il se coucha dans ce lieu-là.",
+    "question": "Selon Genèse 28:11, comment la situation est-elle présentée ?",
+    "choices": [
+      "il eut du menu bétail en abondance, des servantes et des serviteurs, des chameaux et des ânes",
+      "nous habiterons avec vous, et nous formerons un seul peuple",
+      "Il arriva dans un lieu où il passa la nuit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 28:11 (LSG 1910) - Il arriva dans un lieu où il passa la nuit; car le soleil était couché. Il y prit une pierre, dont il fit son chevet, et il se coucha dans ce lieu-là."
+  },
+  {
+    "id": "GEN-084",
+    "book": "Genèse",
+    "chapter": 28,
+    "verseRef": "Genèse 28:22",
+    "verseText": "cette pierre, que j’ai dressée pour monument, sera la maison de Dieu; et je te donnerai la dîme de tout ce que tu me donneras.",
+    "question": "D’après Genèse 28:22, pourquoi cette parole ou cette action est-elle rapportée ?",
+    "choices": [
+      "Ils répondirent",
+      "et je te donnerai la dîme de tout ce que tu me donneras",
+      "Jacob entendit les propos des fils de Laban, qui disaient"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 28:22 (LSG 1910) - cette pierre, que j’ai dressée pour monument, sera la maison de Dieu; et je te donnerai la dîme de tout ce que tu me donneras."
+  },
+  {
+    "id": "GEN-085",
+    "book": "Genèse",
+    "chapter": 29,
+    "verseRef": "Genèse 29:1",
+    "verseText": "Jacob se mit en marche, et s’en alla au pays des fils de l’Orient.",
+    "question": "Que déclare précisément Genèse 29:1 ?",
+    "choices": [
+      "Jacob se mit en marche, et s’en alla au pays des fils de l’Orient",
+      "Tu ne m’as pas permis d’embrasser mes fils et mes filles",
+      "Lève-toi, monte à Béthel, et demeures-y"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 29:1 (LSG 1910) - Jacob se mit en marche, et s’en alla au pays des fils de l’Orient."
+  },
+  {
+    "id": "GEN-086",
+    "book": "Genèse",
+    "chapter": 29,
+    "verseRef": "Genèse 29:18",
+    "verseText": "Jacob aimait Rachel, et il dit: Je te servirai sept ans pour Rachel, ta fille cadette.",
+    "question": "Dans Genèse 29:18, qui intervient directement dans la scène ?",
+    "choices": [
+      "Cain",
+      "Noe",
+      "Jacob"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 29:18 (LSG 1910) - Jacob aimait Rachel, et il dit: Je te servirai sept ans pour Rachel, ta fille cadette."
+  },
+  {
+    "id": "GEN-087",
+    "book": "Genèse",
+    "chapter": 29,
+    "verseRef": "Genèse 29:35",
+    "verseText": "Elle devint encore enceinte, et enfanta un fils, et elle dit: Cette fois, je louerai l’Éternel. C’est pourquoi elle lui donna le nom de Juda. Et elle cessa d’enfanter.",
+    "question": "Selon Genèse 29:35, quel énoncé correspond au verset ?",
+    "choices": [
+      "Il expira et mourut, et il fut recueilli auprès de son peuple, âgé et rassasié de jours, et Ésaü et Jacob, ses fils, l’enterrèrent",
+      "C’est pourquoi elle lui donna le nom de Juda",
+      "Jacob poursuivit son chemin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 29:35 (LSG 1910) - Elle devint encore enceinte, et enfanta un fils, et elle dit: Cette fois, je louerai l’Éternel. C’est pourquoi elle lui donna le nom de Juda. Et elle cessa d’enfanter."
+  },
+  {
+    "id": "GEN-088",
+    "book": "Genèse",
+    "chapter": 30,
+    "verseRef": "Genèse 30:1",
+    "verseText": "Lorsque Rachel vit qu’elle ne donnait point d’enfants à Jacob, elle porta envie à sa sœur, et elle dit à Jacob: Donne-moi des enfants, ou je meurs!",
+    "question": "D’après Genèse 30:1, comment l’action est-elle racontée ?",
+    "choices": [
+      "Lorsque Rachel vit qu’elle ne donnait point d’enfants à Jacob, elle porta envie à sa sœur, et elle dit à Jacob",
+      "Passez devant moi, et mettez un intervalle entre chaque troupeau",
+      "Voici la postérité d’Ésaü, qui est Édom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 30:1 (LSG 1910) - Lorsque Rachel vit qu’elle ne donnait point d’enfants à Jacob, elle porta envie à sa sœur, et elle dit à Jacob: Donne-moi des enfants, ou je meurs!"
+  },
+  {
+    "id": "GEN-089",
+    "book": "Genèse",
+    "chapter": 30,
+    "verseRef": "Genèse 30:22",
+    "verseText": "Dieu se souvint de Rachel, il l’exauça, et il la rendit féconde.",
+    "question": "Pourquoi l’action mentionnée en Genèse 30:22 a-t-elle lieu selon le verset ?",
+    "choices": [
+      "C’est pourquoi jusqu’à ce jour, les enfants d’Israël ne mangent point le tendon qui est à l’emboîture de la hanche",
+      "La sœur de Lothan fut Thimna",
+      "Dieu se souvint de Rachel, il l’exauça, et il la rendit féconde"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 30:22 (LSG 1910) - Dieu se souvint de Rachel, il l’exauça, et il la rendit féconde."
+  },
+  {
+    "id": "GEN-090",
+    "book": "Genèse",
+    "chapter": 30,
+    "verseRef": "Genèse 30:43",
+    "verseText": "Cet homme devint de plus en plus riche; il eut du menu bétail en abondance, des servantes et des serviteurs, des chameaux et des ânes.",
+    "question": "Dans Genèse 30:43, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "C’est là Ésaü, père d’Édom",
+      "il eut du menu bétail en abondance, des servantes et des serviteurs, des chameaux et des ânes",
+      "et voici, Ésaü arrivait, avec quatre cents hommes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 30:43 (LSG 1910) - Cet homme devint de plus en plus riche; il eut du menu bétail en abondance, des servantes et des serviteurs, des chameaux et des ânes."
+  },
+  {
+    "id": "GEN-091",
+    "book": "Genèse",
+    "chapter": 31,
+    "verseRef": "Genèse 31:1",
+    "verseText": "Jacob entendit les propos des fils de Laban, qui disaient: Jacob a pris tout ce qui était à notre père, et c’est avec le bien de notre père qu’il s’est acquis toute cette richesse.",
+    "question": "Selon Genèse 31:1, qui agit au cœur du récit ?",
+    "choices": [
+      "Jacob",
+      "Sem",
+      "Abram"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 31:1 (LSG 1910) - Jacob entendit les propos des fils de Laban, qui disaient: Jacob a pris tout ce qui était à notre père, et c’est avec le bien de notre père qu’il s’est acquis toute cette richesse."
+  },
+  {
+    "id": "GEN-092",
+    "book": "Genèse",
+    "chapter": 31,
+    "verseRef": "Genèse 31:28",
+    "verseText": "Tu ne m’as pas permis d’embrasser mes fils et mes filles! C’est en insensé que tu as agi.",
+    "question": "D’après Genèse 31:28, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "Et là, il éleva un autel, qu’il appela El-Élohé-Israël",
+      "et, avant qu’il fût près d’eux, ils complotèrent de le faire mourir",
+      "Tu ne m’as pas permis d’embrasser mes fils et mes filles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 31:28 (LSG 1910) - Tu ne m’as pas permis d’embrasser mes fils et mes filles! C’est en insensé que tu as agi."
+  },
+  {
+    "id": "GEN-093",
+    "book": "Genèse",
+    "chapter": 31,
+    "verseRef": "Genèse 31:55",
+    "verseText": "Laban se leva de bon matin, baisa ses fils et ses filles, et les bénit. Ensuite il partit pour retourner dans sa demeure.",
+    "question": "Comment Genèse 31:55 décrit-il le déroulement de la scène ?",
+    "choices": [
+      "Les Madianites le vendirent en Égypte à Potiphar, officier de Pharaon, chef des gardes",
+      "Ensuite il partit pour retourner dans sa demeure",
+      "Dina, la fille que Léa avait enfantée à Jacob, sortit pour voir les filles du pays"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 31:55 (LSG 1910) - Laban se leva de bon matin, baisa ses fils et ses filles, et les bénit. Ensuite il partit pour retourner dans sa demeure."
+  },
+  {
+    "id": "GEN-094",
+    "book": "Genèse",
+    "chapter": 32,
+    "verseRef": "Genèse 32:1",
+    "verseText": "Jacob poursuivit son chemin; et des anges de Dieu le rencontrèrent.",
+    "question": "Dans Genèse 32:1, pourquoi ce fait est-il évoqué dans le récit ?",
+    "choices": [
+      "Jacob poursuivit son chemin",
+      "nous habiterons avec vous, et nous formerons un seul peuple",
+      "En ce temps-là, Juda s’éloigna de ses frères, et se retira vers un homme d’Adullam, nommé Hira"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 32:1 (LSG 1910) - Jacob poursuivit son chemin; et des anges de Dieu le rencontrèrent."
+  },
+  {
+    "id": "GEN-095",
+    "book": "Genèse",
+    "chapter": 32,
+    "verseRef": "Genèse 32:16",
+    "verseText": "Il les remit à ses serviteurs, troupeau par troupeau séparément, et il dit à ses serviteurs: Passez devant moi, et mettez un intervalle entre chaque troupeau.",
+    "question": "Selon Genèse 32:16, quel énoncé correspond au verset ?",
+    "choices": [
+      "Ils répondirent",
+      "Juda la vit, et la prit pour une prostituée, parce qu’elle avait couvert son visage",
+      "Passez devant moi, et mettez un intervalle entre chaque troupeau"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 32:16 (LSG 1910) - Il les remit à ses serviteurs, troupeau par troupeau séparément, et il dit à ses serviteurs: Passez devant moi, et mettez un intervalle entre chaque troupeau."
+  },
+  {
+    "id": "GEN-096",
+    "book": "Genèse",
+    "chapter": 32,
+    "verseRef": "Genèse 32:32",
+    "verseText": "C’est pourquoi jusqu’à ce jour, les enfants d’Israël ne mangent point le tendon qui est à l’emboîture de la hanche; car Dieu frappa Jacob à l’emboîture de la hanche, au tendon.",
+    "question": "À la lecture de Genèse 32:32, qui parle ou accomplit l’action décrite ?",
+    "choices": [
+      "Isaac",
+      "Dieu",
+      "Sarai"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 32:32 (LSG 1910) - C’est pourquoi jusqu’à ce jour, les enfants d’Israël ne mangent point le tendon qui est à l’emboîture de la hanche; car Dieu frappa Jacob à l’emboîture de la hanche, au tendon."
+  },
+  {
+    "id": "GEN-097",
+    "book": "Genèse",
+    "chapter": 33,
+    "verseRef": "Genèse 33:1",
+    "verseText": "Jacob leva les yeux, et regarda; et voici, Ésaü arrivait, avec quatre cents hommes. Il répartit les enfants entre Léa, Rachel, et les deux servantes.",
+    "question": "Que déclare précisément Genèse 33:1 ?",
+    "choices": [
+      "et voici, Ésaü arrivait, avec quatre cents hommes",
+      "Jacob donna le nom de Béthel au lieu où Dieu lui avait parlé",
+      "On fit descendre Joseph en Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 33:1 (LSG 1910) - Jacob leva les yeux, et regarda; et voici, Ésaü arrivait, avec quatre cents hommes. Il répartit les enfants entre Léa, Rachel, et les deux servantes."
+  },
+  {
+    "id": "GEN-098",
+    "book": "Genèse",
+    "chapter": 33,
+    "verseRef": "Genèse 33:10",
+    "verseText": "Et Jacob répondit: Non, je te prie, si j’ai trouvé grâce à tes yeux, accepte de ma main mon présent; car c’est pour cela que j’ai regardé ta face comme on regarde la face de Dieu, et tu m’as accueilli favorablement.",
+    "question": "Dans Genèse 33:10, comment le texte biblique formule-t-il cet événement ?",
+    "choices": [
+      "Il expira et mourut, et il fut recueilli auprès de son peuple, âgé et rassasié de jours, et Ésaü et Jacob, ses fils, l’enterrèrent",
+      "Il lui laissa son vêtement dans la main, et s’enfuit au dehors",
+      "Non, je te prie, si j’ai trouvé grâce à tes yeux, accepte de ma main mon présent"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 33:10 (LSG 1910) - Et Jacob répondit: Non, je te prie, si j’ai trouvé grâce à tes yeux, accepte de ma main mon présent; car c’est pour cela que j’ai regardé ta face comme on regarde la face de Dieu, et tu m’as accueilli favorablement."
+  },
+  {
+    "id": "GEN-099",
+    "book": "Genèse",
+    "chapter": 33,
+    "verseRef": "Genèse 33:20",
+    "verseText": "Et là, il éleva un autel, qu’il appela El-Élohé-Israël.",
+    "question": "Selon Genèse 33:20, pour quelle raison immédiate cet événement apparaît-il ?",
+    "choices": [
+      "Et l’Éternel donnait de la réussite à ce qu’il faisait",
+      "Et là, il éleva un autel, qu’il appela El-Élohé-Israël",
+      "Voici la postérité d’Ésaü, qui est Édom"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 33:20 (LSG 1910) - Et là, il éleva un autel, qu’il appela El-Élohé-Israël."
+  },
+  {
+    "id": "GEN-100",
+    "book": "Genèse",
+    "chapter": 34,
+    "verseRef": "Genèse 34:1",
+    "verseText": "Dina, la fille que Léa avait enfantée à Jacob, sortit pour voir les filles du pays.",
+    "question": "D’après Genèse 34:1, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "Dina, la fille que Léa avait enfantée à Jacob, sortit pour voir les filles du pays",
+      "La sœur de Lothan fut Thimna",
+      "Après ces choses, il arriva que l’échanson et le panetier du roi d’Égypte, offensèrent leur maître, le roi d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 34:1 (LSG 1910) - Dina, la fille que Léa avait enfantée à Jacob, sortit pour voir les filles du pays."
+  },
+  {
+    "id": "GEN-101",
+    "book": "Genèse",
+    "chapter": 34,
+    "verseRef": "Genèse 34:16",
+    "verseText": "Nous vous donnerons alors nos filles, et nous prendrons pour nous les vôtres; nous habiterons avec vous, et nous formerons un seul peuple.",
+    "question": "Que déclare précisément Genèse 34:16 ?",
+    "choices": [
+      "C’est là Ésaü, père d’Édom",
+      "Les trois sarments sont trois jours",
+      "nous habiterons avec vous, et nous formerons un seul peuple"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 34:16 (LSG 1910) - Nous vous donnerons alors nos filles, et nous prendrons pour nous les vôtres; nous habiterons avec vous, et nous formerons un seul peuple."
+  },
+  {
+    "id": "GEN-102",
+    "book": "Genèse",
+    "chapter": 34,
+    "verseRef": "Genèse 34:31",
+    "verseText": "Ils répondirent: Traitera-t-on notre sœur comme une prostituée?",
+    "question": "Dans Genèse 34:31, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "Il l’oublia",
+      "Ils répondirent",
+      "Jacob demeura dans le pays de Canaan, où avait séjourné son père"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 34:31 (LSG 1910) - Ils répondirent: Traitera-t-on notre sœur comme une prostituée?"
+  },
+  {
+    "id": "GEN-103",
+    "book": "Genèse",
+    "chapter": 35,
+    "verseRef": "Genèse 35:1",
+    "verseText": "Dieu dit à Jacob: Lève-toi, monte à Béthel, et demeures-y; là, tu dresseras un autel au Dieu qui t’apparut, lorsque tu fuyais Ésaü, ton frère.",
+    "question": "Selon Genèse 35:1, comment la situation est-elle présentée ?",
+    "choices": [
+      "Lève-toi, monte à Béthel, et demeures-y",
+      "et, avant qu’il fût près d’eux, ils complotèrent de le faire mourir",
+      "Au bout de deux ans, Pharaon eut un songe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 35:1 (LSG 1910) - Dieu dit à Jacob: Lève-toi, monte à Béthel, et demeures-y; là, tu dresseras un autel au Dieu qui t’apparut, lorsque tu fuyais Ésaü, ton frère."
+  },
+  {
+    "id": "GEN-104",
+    "book": "Genèse",
+    "chapter": 35,
+    "verseRef": "Genèse 35:15",
+    "verseText": "Jacob donna le nom de Béthel au lieu où Dieu lui avait parlé.",
+    "question": "D’après Genèse 35:15, pourquoi cette parole ou cette action est-elle rapportée ?",
+    "choices": [
+      "Les Madianites le vendirent en Égypte à Potiphar, officier de Pharaon, chef des gardes",
+      "Voici, il y aura sept années de grande abondance dans tout le pays d’Égypte",
+      "Jacob donna le nom de Béthel au lieu où Dieu lui avait parlé"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 35:15 (LSG 1910) - Jacob donna le nom de Béthel au lieu où Dieu lui avait parlé."
+  },
+  {
+    "id": "GEN-105",
+    "book": "Genèse",
+    "chapter": 35,
+    "verseRef": "Genèse 35:29",
+    "verseText": "Il expira et mourut, et il fut recueilli auprès de son peuple, âgé et rassasié de jours, et Ésaü et Jacob, ses fils, l’enterrèrent.",
+    "question": "Que déclare précisément Genèse 35:29 ?",
+    "choices": [
+      "car la famine était forte dans tous les pays",
+      "Il expira et mourut, et il fut recueilli auprès de son peuple, âgé et rassasié de jours, et Ésaü et Jacob, ses fils, l’enterrèrent",
+      "En ce temps-là, Juda s’éloigna de ses frères, et se retira vers un homme d’Adullam, nommé Hira"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 35:29 (LSG 1910) - Il expira et mourut, et il fut recueilli auprès de son peuple, âgé et rassasié de jours, et Ésaü et Jacob, ses fils, l’enterrèrent."
+  },
+  {
+    "id": "GEN-106",
+    "book": "Genèse",
+    "chapter": 36,
+    "verseRef": "Genèse 36:1",
+    "verseText": "Voici la postérité d’Ésaü, qui est Édom.",
+    "question": "Dans Genèse 36:1, qui intervient directement dans la scène ?",
+    "choices": [
+      "Esau",
+      "Adam",
+      "Cain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 36:1 (LSG 1910) - Voici la postérité d’Ésaü, qui est Édom."
+  },
+  {
+    "id": "GEN-107",
+    "book": "Genèse",
+    "chapter": 36,
+    "verseRef": "Genèse 36:22",
+    "verseText": "Les fils de Lothan furent: Hori et Hémam. La sœur de Lothan fut Thimna.",
+    "question": "Selon Genèse 36:22, quel énoncé correspond au verset ?",
+    "choices": [
+      "Ensuite sortit son frère, qui avait à la main le fil cramoisi",
+      "et vous, partez, emportez du blé pour nourrir vos familles,",
+      "La sœur de Lothan fut Thimna"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 36:22 (LSG 1910) - Les fils de Lothan furent: Hori et Hémam. La sœur de Lothan fut Thimna."
+  },
+  {
+    "id": "GEN-108",
+    "book": "Genèse",
+    "chapter": 36,
+    "verseRef": "Genèse 36:43",
+    "verseText": "le chef Magdiel, le chef Iram. Ce sont là les chefs d’Édom, selon leurs habitations dans le pays qu’ils possédaient. C’est là Ésaü, père d’Édom.",
+    "question": "D’après Genèse 36:43, comment l’action est-elle racontée ?",
+    "choices": [
+      "car son frère est mort, et il reste seul",
+      "C’est là Ésaü, père d’Édom",
+      "On fit descendre Joseph en Égypte"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 36:43 (LSG 1910) - le chef Magdiel, le chef Iram. Ce sont là les chefs d’Édom, selon leurs habitations dans le pays qu’ils possédaient. C’est là Ésaü, père d’Édom."
+  },
+  {
+    "id": "GEN-109",
+    "book": "Genèse",
+    "chapter": 37,
+    "verseRef": "Genèse 37:1",
+    "verseText": "Jacob demeura dans le pays de Canaan, où avait séjourné son père.",
+    "question": "Pourquoi l’action mentionnée en Genèse 37:1 a-t-elle lieu selon le verset ?",
+    "choices": [
+      "Jacob demeura dans le pays de Canaan, où avait séjourné son père",
+      "Il lui laissa son vêtement dans la main, et s’enfuit au dehors",
+      "La famine s’appesantissait sur le pays"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 37:1 (LSG 1910) - Jacob demeura dans le pays de Canaan, où avait séjourné son père."
+  },
+  {
+    "id": "GEN-110",
+    "book": "Genèse",
+    "chapter": 37,
+    "verseRef": "Genèse 37:18",
+    "verseText": "Ils le virent de loin; et, avant qu’il fût près d’eux, ils complotèrent de le faire mourir.",
+    "question": "Dans Genèse 37:18, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "Et l’Éternel donnait de la réussite à ce qu’il faisait",
+      "Cet homme fit ce que Joseph avait ordonné, et il conduisit ces gens dans la maison de Joseph",
+      "et, avant qu’il fût près d’eux, ils complotèrent de le faire mourir"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 37:18 (LSG 1910) - Ils le virent de loin; et, avant qu’il fût près d’eux, ils complotèrent de le faire mourir."
+  },
+  {
+    "id": "GEN-111",
+    "book": "Genèse",
+    "chapter": 37,
+    "verseRef": "Genèse 37:36",
+    "verseText": "Les Madianites le vendirent en Égypte à Potiphar, officier de Pharaon, chef des gardes.",
+    "question": "Selon Genèse 37:36, qui agit au cœur du récit ?",
+    "choices": [
+      "Caïn",
+      "Pharaon",
+      "Eve"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 37:36 (LSG 1910) - Les Madianites le vendirent en Égypte à Potiphar, officier de Pharaon, chef des gardes."
+  },
+  {
+    "id": "GEN-112",
+    "book": "Genèse",
+    "chapter": 38,
+    "verseRef": "Genèse 38:1",
+    "verseText": "En ce temps-là, Juda s’éloigna de ses frères, et se retira vers un homme d’Adullam, nommé Hira.",
+    "question": "D’après Genèse 38:1, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "En ce temps-là, Juda s’éloigna de ses frères, et se retira vers un homme d’Adullam, nommé Hira",
+      "Les trois sarments sont trois jours",
+      "Remplis de vivres les sacs de ces gens, autant qu’ils en pourront porter, et mets l’argent de chacun à l’entrée de son sac"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 38:1 (LSG 1910) - En ce temps-là, Juda s’éloigna de ses frères, et se retira vers un homme d’Adullam, nommé Hira."
+  },
+  {
+    "id": "GEN-113",
+    "book": "Genèse",
+    "chapter": 38,
+    "verseRef": "Genèse 38:15",
+    "verseText": "Juda la vit, et la prit pour une prostituée, parce qu’elle avait couvert son visage.",
+    "question": "Comment Genèse 38:15 décrit-il le déroulement de la scène ?",
+    "choices": [
+      "Il l’oublia",
+      "mais vous, remontez en paix vers votre père",
+      "Juda la vit, et la prit pour une prostituée, parce qu’elle avait couvert son visage"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 38:15 (LSG 1910) - Juda la vit, et la prit pour une prostituée, parce qu’elle avait couvert son visage."
+  },
+  {
+    "id": "GEN-114",
+    "book": "Genèse",
+    "chapter": 38,
+    "verseRef": "Genèse 38:30",
+    "verseText": "Ensuite sortit son frère, qui avait à la main le fil cramoisi; et on lui donna le nom de Zérach.",
+    "question": "Dans Genèse 38:30, pourquoi ce fait est-il évoqué dans le récit ?",
+    "choices": [
+      "Comment pourrai-je remonter vers mon père, si l’enfant n’est pas avec moi",
+      "Ensuite sortit son frère, qui avait à la main le fil cramoisi",
+      "Au bout de deux ans, Pharaon eut un songe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 38:30 (LSG 1910) - Ensuite sortit son frère, qui avait à la main le fil cramoisi; et on lui donna le nom de Zérach."
+  },
+  {
+    "id": "GEN-115",
+    "book": "Genèse",
+    "chapter": 39,
+    "verseRef": "Genèse 39:1",
+    "verseText": "On fit descendre Joseph en Égypte; et Potiphar, officier de Pharaon, chef des gardes, Égyptien, l’acheta des Ismaélites qui l’y avaient fait descendre.",
+    "question": "Selon Genèse 39:1, quel énoncé correspond au verset ?",
+    "choices": [
+      "On fit descendre Joseph en Égypte",
+      "Voici, il y aura sept années de grande abondance dans tout le pays d’Égypte",
+      "Joseph ne pouvait plus se contenir devant tous ceux qui l’entouraient"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 39:1 (LSG 1910) - On fit descendre Joseph en Égypte; et Potiphar, officier de Pharaon, chef des gardes, Égyptien, l’acheta des Ismaélites qui l’y avaient fait descendre."
+  },
+  {
+    "id": "GEN-116",
+    "book": "Genèse",
+    "chapter": 39,
+    "verseRef": "Genèse 39:12",
+    "verseText": "elle le saisit par son vêtement, en disant: Couche avec moi! Il lui laissa son vêtement dans la main, et s’enfuit au dehors.",
+    "question": "D’après Genèse 39:12, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "car la famine était forte dans tous les pays",
+      "Il se jeta au cou de Benjamin, son frère, et pleura",
+      "Il lui laissa son vêtement dans la main, et s’enfuit au dehors"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 39:12 (LSG 1910) - elle le saisit par son vêtement, en disant: Couche avec moi! Il lui laissa son vêtement dans la main, et s’enfuit au dehors."
+  },
+  {
+    "id": "GEN-117",
+    "book": "Genèse",
+    "chapter": 39,
+    "verseRef": "Genèse 39:23",
+    "verseText": "Le chef de la prison ne prenait aucune connaissance de ce que Joseph avait en main, parce que l’Éternel était avec lui. Et l’Éternel donnait de la réussite à ce qu’il faisait.",
+    "question": "Que déclare précisément Genèse 39:23 ?",
+    "choices": [
+      "J’irai, et je le verrai avant que je meure",
+      "Et l’Éternel donnait de la réussite à ce qu’il faisait",
+      "Jacob, voyant qu’il y avait du blé en Égypte, dit à ses fils"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 39:23 (LSG 1910) - Le chef de la prison ne prenait aucune connaissance de ce que Joseph avait en main, parce que l’Éternel était avec lui. Et l’Éternel donnait de la réussite à ce qu’il faisait."
+  },
+  {
+    "id": "GEN-118",
+    "book": "Genèse",
+    "chapter": 40,
+    "verseRef": "Genèse 40:1",
+    "verseText": "Après ces choses, il arriva que l’échanson et le panetier du roi d’Égypte, offensèrent leur maître, le roi d’Égypte.",
+    "question": "Dans Genèse 40:1, comment le texte biblique formule-t-il cet événement ?",
+    "choices": [
+      "Après ces choses, il arriva que l’échanson et le panetier du roi d’Égypte, offensèrent leur maître, le roi d’Égypte",
+      "et vous, partez, emportez du blé pour nourrir vos familles,",
+      "Il arriva à Beer-Schéba, et il offrit des sacrifices au Dieu de son père Isaac"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 40:1 (LSG 1910) - Après ces choses, il arriva que l’échanson et le panetier du roi d’Égypte, offensèrent leur maître, le roi d’Égypte."
+  },
+  {
+    "id": "GEN-119",
+    "book": "Genèse",
+    "chapter": 40,
+    "verseRef": "Genèse 40:12",
+    "verseText": "Joseph lui dit: En voici l’explication. Les trois sarments sont trois jours.",
+    "question": "Selon Genèse 40:12, pour quelle raison immédiate cet événement apparaît-il ?",
+    "choices": [
+      "car son frère est mort, et il reste seul",
+      "Jimna, Jischva, Jischvi et Beria",
+      "Les trois sarments sont trois jours"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 40:12 (LSG 1910) - Joseph lui dit: En voici l’explication. Les trois sarments sont trois jours."
+  },
+  {
+    "id": "GEN-120",
+    "book": "Genèse",
+    "chapter": 40,
+    "verseRef": "Genèse 40:23",
+    "verseText": "Le chef des échansons ne pensa plus à Joseph. Il l’oublia.",
+    "question": "D’après Genèse 40:23, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "Vous répondrez",
+      "Il l’oublia",
+      "La famine s’appesantissait sur le pays"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 40:23 (LSG 1910) - Le chef des échansons ne pensa plus à Joseph. Il l’oublia."
+  },
+  {
+    "id": "GEN-121",
+    "book": "Genèse",
+    "chapter": 41,
+    "verseRef": "Genèse 41:1",
+    "verseText": "Au bout de deux ans, Pharaon eut un songe. Voici, il se tenait près du fleuve.",
+    "question": "Qui est explicitement mentionné dans Genèse 41:1 ?",
+    "choices": [
+      "Pharaon",
+      "Abram",
+      "Sarai"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 41:1 (LSG 1910) - Au bout de deux ans, Pharaon eut un songe. Voici, il se tenait près du fleuve."
+  },
+  {
+    "id": "GEN-122",
+    "book": "Genèse",
+    "chapter": 41,
+    "verseRef": "Genèse 41:29",
+    "verseText": "Voici, il y aura sept années de grande abondance dans tout le pays d’Égypte.",
+    "question": "Dans Genèse 41:29, dans quel lieu biblique l’événement est-il situé ?",
+    "choices": [
+      "Gomorrhe",
+      "Hebron",
+      "Egypte"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 41:29 (LSG 1910) - Voici, il y aura sept années de grande abondance dans tout le pays d’Égypte."
+  },
+  {
+    "id": "GEN-123",
+    "book": "Genèse",
+    "chapter": 41,
+    "verseRef": "Genèse 41:57",
+    "verseText": "Et de tous les pays on arrivait en Égypte, pour acheter du blé auprès de Joseph; car la famine était forte dans tous les pays.",
+    "question": "Selon Genèse 41:57, comment la situation est-elle présentée ?",
+    "choices": [
+      "Puis Israël se prosterna sur le chevet de son lit",
+      "car la famine était forte dans tous les pays",
+      "Remplis de vivres les sacs de ces gens, autant qu’ils en pourront porter, et mets l’argent de chacun à l’entrée de son sac"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 41:57 (LSG 1910) - Et de tous les pays on arrivait en Égypte, pour acheter du blé auprès de Joseph; car la famine était forte dans tous les pays."
+  },
+  {
+    "id": "GEN-124",
+    "book": "Genèse",
+    "chapter": 42,
+    "verseRef": "Genèse 42:1",
+    "verseText": "Jacob, voyant qu’il y avait du blé en Égypte, dit à ses fils: Pourquoi vous regardez-vous les uns les autres?",
+    "question": "D’après Genèse 42:1, pourquoi cette parole ou cette action est-elle rapportée ?",
+    "choices": [
+      "Jacob, voyant qu’il y avait du blé en Égypte, dit à ses fils",
+      "mais vous, remontez en paix vers votre père",
+      "Voici, ton père est malade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 42:1 (LSG 1910) - Jacob, voyant qu’il y avait du blé en Égypte, dit à ses fils: Pourquoi vous regardez-vous les uns les autres?"
+  },
+  {
+    "id": "GEN-125",
+    "book": "Genèse",
+    "chapter": 42,
+    "verseRef": "Genèse 42:19",
+    "verseText": "Si vous êtes sincères, que l’un de vos frères reste enfermé dans votre prison; et vous, partez, emportez du blé pour nourrir vos familles,",
+    "question": "Que déclare précisément Genèse 42:19 ?",
+    "choices": [
+      "Comment pourrai-je remonter vers mon père, si l’enfant n’est pas avec moi",
+      "Israël dit à Joseph",
+      "et vous, partez, emportez du blé pour nourrir vos familles,"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 42:19 (LSG 1910) - Si vous êtes sincères, que l’un de vos frères reste enfermé dans votre prison; et vous, partez, emportez du blé pour nourrir vos familles,"
+  },
+  {
+    "id": "GEN-126",
+    "book": "Genèse",
+    "chapter": 42,
+    "verseRef": "Genèse 42:38",
+    "verseText": "Jacob dit: Mon fils ne descendra point avec vous; car son frère est mort, et il reste seul; s’il lui arrivait un malheur dans le voyage que vous allez faire, vous feriez descendre mes cheveux blancs avec douleur dans le séjour des morts.",
+    "question": "Dans Genèse 42:38, qui intervient directement dans la scène ?",
+    "choices": [
+      "Ismaël",
+      "Jacob",
+      "Lot"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 42:38 (LSG 1910) - Jacob dit: Mon fils ne descendra point avec vous; car son frère est mort, et il reste seul; s’il lui arrivait un malheur dans le voyage que vous allez faire, vous feriez descendre mes cheveux blancs avec douleur dans le séjour des morts."
+  },
+  {
+    "id": "GEN-127",
+    "book": "Genèse",
+    "chapter": 43,
+    "verseRef": "Genèse 43:1",
+    "verseText": "La famine s’appesantissait sur le pays.",
+    "question": "Selon Genèse 43:1, quel énoncé correspond au verset ?",
+    "choices": [
+      "La famine s’appesantissait sur le pays",
+      "Il se jeta au cou de Benjamin, son frère, et pleura",
+      "Jacob appela ses fils, et dit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 43:1 (LSG 1910) - La famine s’appesantissait sur le pays."
+  },
+  {
+    "id": "GEN-128",
+    "book": "Genèse",
+    "chapter": 43,
+    "verseRef": "Genèse 43:17",
+    "verseText": "Cet homme fit ce que Joseph avait ordonné, et il conduisit ces gens dans la maison de Joseph.",
+    "question": "D’après Genèse 43:17, comment l’action est-elle racontée ?",
+    "choices": [
+      "J’irai, et je le verrai avant que je meure",
+      "Dan sera un serpent sur le chemin, Une vipère sur le sentier, Mordant les talons du cheval, Pour que le cavalier tombe à la renverse",
+      "Cet homme fit ce que Joseph avait ordonné, et il conduisit ces gens dans la maison de Joseph"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 43:17 (LSG 1910) - Cet homme fit ce que Joseph avait ordonné, et il conduisit ces gens dans la maison de Joseph."
+  },
+  {
+    "id": "GEN-129",
+    "book": "Genèse",
+    "chapter": 43,
+    "verseRef": "Genèse 43:34",
+    "verseText": "Joseph leur fit porter des mets qui étaient devant lui, et Benjamin en eut cinq fois plus que les autres. Ils burent, et s’égayèrent avec lui.",
+    "question": "Pourquoi l’action mentionnée en Genèse 43:34 a-t-elle lieu selon le verset ?",
+    "choices": [
+      "Lorsque Jacob eut achevé de donner ses ordres à ses fils, il retira ses pieds dans le lit, il expira, et fut recueilli auprès de son peuple",
+      "Ils burent, et s’égayèrent avec lui",
+      "Il arriva à Beer-Schéba, et il offrit des sacrifices au Dieu de son père Isaac"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 43:34 (LSG 1910) - Joseph leur fit porter des mets qui étaient devant lui, et Benjamin en eut cinq fois plus que les autres. Ils burent, et s’égayèrent avec lui."
+  },
+  {
+    "id": "GEN-130",
+    "book": "Genèse",
+    "chapter": 44,
+    "verseRef": "Genèse 44:1",
+    "verseText": "Joseph donna cet ordre à l’intendant de sa maison: Remplis de vivres les sacs de ces gens, autant qu’ils en pourront porter, et mets l’argent de chacun à l’entrée de son sac.",
+    "question": "Dans Genèse 44:1, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "Remplis de vivres les sacs de ces gens, autant qu’ils en pourront porter, et mets l’argent de chacun à l’entrée de son sac",
+      "Jimna, Jischva, Jischvi et Beria",
+      "Joseph se jeta sur le visage de son père, pleura sur lui, et le baisa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 44:1 (LSG 1910) - Joseph donna cet ordre à l’intendant de sa maison: Remplis de vivres les sacs de ces gens, autant qu’ils en pourront porter, et mets l’argent de chacun à l’entrée de son sac."
+  },
+  {
+    "id": "GEN-131",
+    "book": "Genèse",
+    "chapter": 44,
+    "verseRef": "Genèse 44:17",
+    "verseText": "Et Joseph dit: Dieu me garde de faire cela! L’homme sur qui la coupe a été trouvée sera mon esclave; mais vous, remontez en paix vers votre père.",
+    "question": "Selon Genèse 44:17, qui agit au cœur du récit ?",
+    "choices": [
+      "Ésaü",
+      "Juda",
+      "Dieu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 44:17 (LSG 1910) - Et Joseph dit: Dieu me garde de faire cela! L’homme sur qui la coupe a été trouvée sera mon esclave; mais vous, remontez en paix vers votre père."
+  },
+  {
+    "id": "GEN-132",
+    "book": "Genèse",
+    "chapter": 44,
+    "verseRef": "Genèse 44:34",
+    "verseText": "Comment pourrai-je remonter vers mon père, si l’enfant n’est pas avec moi? Ah! Que je ne voie point l’affliction de mon père!",
+    "question": "D’après Genèse 44:34, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "On l’embauma, et on le mit dans un cercueil en Égypte",
+      "Comment pourrai-je remonter vers mon père, si l’enfant n’est pas avec moi",
+      "et les voici dans le pays de Gosen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 44:34 (LSG 1910) - Comment pourrai-je remonter vers mon père, si l’enfant n’est pas avec moi? Ah! Que je ne voie point l’affliction de mon père!"
+  },
+  {
+    "id": "GEN-133",
+    "book": "Genèse",
+    "chapter": 45,
+    "verseRef": "Genèse 45:1",
+    "verseText": "Joseph ne pouvait plus se contenir devant tous ceux qui l’entouraient. Il s’écria: Faites sortir tout le monde. Et il ne resta personne avec Joseph, quand il se fit connaître à ses frères.",
+    "question": "Comment Genèse 45:1 décrit-il le déroulement de la scène ?",
+    "choices": [
+      "Joseph ne pouvait plus se contenir devant tous ceux qui l’entouraient",
+      "Donnez vos troupeaux, et je vous donnerai du pain contre vos troupeaux, si l’argent manque",
+      "Au commencement, Dieu créa les cieux et la terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 45:1 (LSG 1910) - Joseph ne pouvait plus se contenir devant tous ceux qui l’entouraient. Il s’écria: Faites sortir tout le monde. Et il ne resta personne avec Joseph, quand il se fit connaître à ses frères."
+  },
+  {
+    "id": "GEN-134",
+    "book": "Genèse",
+    "chapter": 45,
+    "verseRef": "Genèse 45:14",
+    "verseText": "Il se jeta au cou de Benjamin, son frère, et pleura; et Benjamin pleura sur son cou.",
+    "question": "Dans Genèse 45:14, pourquoi ce fait est-il évoqué dans le récit ?",
+    "choices": [
+      "Puis Israël se prosterna sur le chevet de son lit",
+      "Dieu fit les deux grands luminaires, le plus grand luminaire pour présider au jour, et le plus petit luminaire pour présider à la nuit",
+      "Il se jeta au cou de Benjamin, son frère, et pleura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 45:14 (LSG 1910) - Il se jeta au cou de Benjamin, son frère, et pleura; et Benjamin pleura sur son cou."
+  },
+  {
+    "id": "GEN-135",
+    "book": "Genèse",
+    "chapter": 45,
+    "verseRef": "Genèse 45:28",
+    "verseText": "et Israël dit: C’est assez! Joseph, mon fils, vit encore! J’irai, et je le verrai avant que je meure.",
+    "question": "Selon Genèse 45:28, quel énoncé correspond au verset ?",
+    "choices": [
+      "ce fut le sixième jour",
+      "J’irai, et je le verrai avant que je meure",
+      "Voici, ton père est malade"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 45:28 (LSG 1910) - et Israël dit: C’est assez! Joseph, mon fils, vit encore! J’irai, et je le verrai avant que je meure."
+  },
+  {
+    "id": "GEN-136",
+    "book": "Genèse",
+    "chapter": 46,
+    "verseRef": "Genèse 46:1",
+    "verseText": "Israël partit, avec tout ce qui lui appartenait. Il arriva à Beer-Schéba, et il offrit des sacrifices au Dieu de son père Isaac.",
+    "question": "À la lecture de Genèse 46:1, qui parle ou accomplit l’action décrite ?",
+    "choices": [
+      "Dieu",
+      "Adam",
+      "Cain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 46:1 (LSG 1910) - Israël partit, avec tout ce qui lui appartenait. Il arriva à Beer-Schéba, et il offrit des sacrifices au Dieu de son père Isaac."
+  },
+  {
+    "id": "GEN-137",
+    "book": "Genèse",
+    "chapter": 46,
+    "verseRef": "Genèse 46:17",
+    "verseText": "Fils d’Aser: Jimna, Jischva, Jischvi et Beria; et Sérach, leur sœur. Et les fils de Beria: Héber et Malkiel.",
+    "question": "Que déclare précisément Genèse 46:17 ?",
+    "choices": [
+      "Je te donne, de plus qu’à tes frères, une part que j’ai prise de la main des Amoréens avec mon épée et avec mon arc",
+      "Le nom du second fleuve est Guihon",
+      "Jimna, Jischva, Jischvi et Beria"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 46:17 (LSG 1910) - Fils d’Aser: Jimna, Jischva, Jischvi et Beria; et Sérach, leur sœur. Et les fils de Beria: Héber et Malkiel."
+  },
+  {
+    "id": "GEN-138",
+    "book": "Genèse",
+    "chapter": 46,
+    "verseRef": "Genèse 46:34",
+    "verseText": "Quelle est votre occupation? Vous répondrez: Tes serviteurs ont élevé des troupeaux, depuis notre jeunesse jusqu’à présent, nous et nos pères. De cette manière, vous habiterez dans le pays de Gosen, car tous les bergers sont en abomination aux Égyptiens.",
+    "question": "Dans Genèse 46:34, comment le texte biblique formule-t-il cet événement ?",
+    "choices": [
+      "L’homme et sa femme étaient tous deux nus, et ils n’en avaient point honte",
+      "Vous répondrez",
+      "Jacob appela ses fils, et dit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 46:34 (LSG 1910) - Quelle est votre occupation? Vous répondrez: Tes serviteurs ont élevé des troupeaux, depuis notre jeunesse jusqu’à présent, nous et nos pères. De cette manière, vous habiterez dans le pays de Gosen, car tous les bergers sont en abomination aux Égyptiens."
+  },
+  {
+    "id": "GEN-139",
+    "book": "Genèse",
+    "chapter": 47,
+    "verseRef": "Genèse 47:1",
+    "verseText": "Joseph alla avertir Pharaon, et lui dit: Mes frères et mon père sont arrivés du pays de Canaan, avec leurs brebis et leurs bœufs, et tout ce qui leur appartient; et les voici dans le pays de Gosen.",
+    "question": "Selon Genèse 47:1, pour quelle raison immédiate cet événement apparaît-il ?",
+    "choices": [
+      "et les voici dans le pays de Gosen",
+      "Dan sera un serpent sur le chemin, Une vipère sur le sentier, Mordant les talons du cheval, Pour que le cavalier tombe à la renverse",
+      "Vous ne mangerez pas de tous les arbres du jardin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 47:1 (LSG 1910) - Joseph alla avertir Pharaon, et lui dit: Mes frères et mon père sont arrivés du pays de Canaan, avec leurs brebis et leurs bœufs, et tout ce qui leur appartient; et les voici dans le pays de Gosen."
+  },
+  {
+    "id": "GEN-140",
+    "book": "Genèse",
+    "chapter": 47,
+    "verseRef": "Genèse 47:16",
+    "verseText": "Joseph dit: Donnez vos troupeaux, et je vous donnerai du pain contre vos troupeaux, si l’argent manque.",
+    "question": "D’après Genèse 47:16, quelle phrase reflète fidèlement le texte ?",
+    "choices": [
+      "Lorsque Jacob eut achevé de donner ses ordres à ses fils, il retira ses pieds dans le lit, il expira, et fut recueilli auprès de son peuple",
+      "La femme que tu as mise auprès de moi m’a donné de l’arbre, et j’en ai mangé",
+      "Donnez vos troupeaux, et je vous donnerai du pain contre vos troupeaux, si l’argent manque"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 47:16 (LSG 1910) - Joseph dit: Donnez vos troupeaux, et je vous donnerai du pain contre vos troupeaux, si l’argent manque."
+  },
+  {
+    "id": "GEN-141",
+    "book": "Genèse",
+    "chapter": 47,
+    "verseRef": "Genèse 47:31",
+    "verseText": "Jacob dit: Jure-le-moi. Et Joseph le lui jura. Puis Israël se prosterna sur le chevet de son lit.",
+    "question": "Qui est explicitement mentionné dans Genèse 47:31 ?",
+    "choices": [
+      "Noé",
+      "Jacob",
+      "Caïn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 47:31 (LSG 1910) - Jacob dit: Jure-le-moi. Et Joseph le lui jura. Puis Israël se prosterna sur le chevet de son lit."
+  },
+  {
+    "id": "GEN-142",
+    "book": "Genèse",
+    "chapter": 48,
+    "verseRef": "Genèse 48:1",
+    "verseText": "Après ces choses, l’on vint dire à Joseph: Voici, ton père est malade. Et il prit avec lui ses deux fils, Manassé et Éphraïm.",
+    "question": "Dans Genèse 48:1, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "Voici, ton père est malade",
+      "Ils le transportèrent au pays de Canaan, et l’enterrèrent dans la caverne du champ de Macpéla, qu’Abraham avait achetée d’Éphron, le Héthien, comme propriété sépulcrale, et qui est vis-à-vis de Mamré",
+      "J’ai formé un homme avec l’aide de l’Éternel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 48:1 (LSG 1910) - Après ces choses, l’on vint dire à Joseph: Voici, ton père est malade. Et il prit avec lui ses deux fils, Manassé et Éphraïm."
+  },
+  {
+    "id": "GEN-143",
+    "book": "Genèse",
+    "chapter": 48,
+    "verseRef": "Genèse 48:11",
+    "verseText": "Israël dit à Joseph: Je ne pensais pas revoir ton visage, et voici que Dieu me fait voir même ta postérité.",
+    "question": "Selon Genèse 48:11, comment la situation est-elle présentée ?",
+    "choices": [
+      "On l’embauma, et on le mit dans un cercueil en Égypte",
+      "Mon châtiment est trop grand pour être supporté",
+      "Israël dit à Joseph"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 48:11 (LSG 1910) - Israël dit à Joseph: Je ne pensais pas revoir ton visage, et voici que Dieu me fait voir même ta postérité."
+  },
+  {
+    "id": "GEN-144",
+    "book": "Genèse",
+    "chapter": 48,
+    "verseRef": "Genèse 48:22",
+    "verseText": "Je te donne, de plus qu’à tes frères, une part que j’ai prise de la main des Amoréens avec mon épée et avec mon arc.",
+    "question": "D’après Genèse 48:22, pourquoi cette parole ou cette action est-elle rapportée ?",
+    "choices": [
+      "C’est alors que l’on commença à invoquer le nom de l’Éternel",
+      "Je te donne, de plus qu’à tes frères, une part que j’ai prise de la main des Amoréens avec mon épée et avec mon arc",
+      "Au commencement, Dieu créa les cieux et la terre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 48:22 (LSG 1910) - Je te donne, de plus qu’à tes frères, une part que j’ai prise de la main des Amoréens avec mon épée et avec mon arc."
+  },
+  {
+    "id": "GEN-145",
+    "book": "Genèse",
+    "chapter": 49,
+    "verseRef": "Genèse 49:1",
+    "verseText": "Jacob appela ses fils, et dit: Assemblez-vous, et je vous annoncerai ce qui vous arrivera dans la suite des temps.",
+    "question": "Que déclare précisément Genèse 49:1 ?",
+    "choices": [
+      "Jacob appela ses fils, et dit",
+      "Dieu fit les deux grands luminaires, le plus grand luminaire pour présider au jour, et le plus petit luminaire pour présider à la nuit",
+      "Voici le livre de la postérité d’Adam"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 49:1 (LSG 1910) - Jacob appela ses fils, et dit: Assemblez-vous, et je vous annoncerai ce qui vous arrivera dans la suite des temps."
+  },
+  {
+    "id": "GEN-146",
+    "book": "Genèse",
+    "chapter": 49,
+    "verseRef": "Genèse 49:17",
+    "verseText": "Dan sera un serpent sur le chemin, Une vipère sur le sentier, Mordant les talons du cheval, Pour que le cavalier tombe à la renverse.",
+    "question": "Dans Genèse 49:17, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "ce fut le sixième jour",
+      "Mahalaleel vécut, après la naissance de Jéred, huit cent trente ans",
+      "Dan sera un serpent sur le chemin, Une vipère sur le sentier, Mordant les talons du cheval, Pour que le cavalier tombe à la renverse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 49:17 (LSG 1910) - Dan sera un serpent sur le chemin, Une vipère sur le sentier, Mordant les talons du cheval, Pour que le cavalier tombe à la renverse."
+  },
+  {
+    "id": "GEN-147",
+    "book": "Genèse",
+    "chapter": 49,
+    "verseRef": "Genèse 49:33",
+    "verseText": "Lorsque Jacob eut achevé de donner ses ordres à ses fils, il retira ses pieds dans le lit, il expira, et fut recueilli auprès de son peuple.",
+    "question": "Selon Genèse 49:33, quel énoncé correspond au verset ?",
+    "choices": [
+      "Noé, âgé de cinq cents ans, engendra Sem, Cham et Japhet",
+      "Lorsque Jacob eut achevé de donner ses ordres à ses fils, il retira ses pieds dans le lit, il expira, et fut recueilli auprès de son peuple",
+      "Ainsi furent achevés les cieux et la terre, et toute leur armée"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 49:33 (LSG 1910) - Lorsque Jacob eut achevé de donner ses ordres à ses fils, il retira ses pieds dans le lit, il expira, et fut recueilli auprès de son peuple."
+  },
+  {
+    "id": "GEN-148",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:1",
+    "verseText": "Joseph se jeta sur le visage de son père, pleura sur lui, et le baisa.",
+    "question": "D’après Genèse 50:1, comment l’action est-elle racontée ?",
+    "choices": [
+      "Joseph se jeta sur le visage de son père, pleura sur lui, et le baisa",
+      "Le nom du second fleuve est Guihon",
+      "Lorsque les hommes eurent commencé à se multiplier sur la face de la terre, et que des filles leur furent nées,"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Genèse 50:1 (LSG 1910) - Joseph se jeta sur le visage de son père, pleura sur lui, et le baisa."
+  },
+  {
+    "id": "GEN-149",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:13",
+    "verseText": "Ils le transportèrent au pays de Canaan, et l’enterrèrent dans la caverne du champ de Macpéla, qu’Abraham avait achetée d’Éphron, le Héthien, comme propriété sépulcrale, et qui est vis-à-vis de Mamré.",
+    "question": "Pourquoi l’action mentionnée en Genèse 50:13 a-t-elle lieu selon le verset ?",
+    "choices": [
+      "L’homme et sa femme étaient tous deux nus, et ils n’en avaient point honte",
+      "La terre était corrompue devant Dieu, la terre était pleine de violence",
+      "Ils le transportèrent au pays de Canaan, et l’enterrèrent dans la caverne du champ de Macpéla, qu’Abraham avait achetée d’Éphron, le Héthien, comme propriété sépulcrale, et qui est vis-à-vis de Mamré"
+    ],
+    "correctIndex": 2,
+    "explanation": "Référence : Genèse 50:13 (LSG 1910) - Ils le transportèrent au pays de Canaan, et l’enterrèrent dans la caverne du champ de Macpéla, qu’Abraham avait achetée d’Éphron, le Héthien, comme propriété sépulcrale, et qui est vis-à-vis de Mamré."
+  },
+  {
+    "id": "GEN-150",
+    "book": "Genèse",
+    "chapter": 50,
+    "verseRef": "Genèse 50:26",
+    "verseText": "Joseph mourut, âgé de cent dix ans. On l’embauma, et on le mit dans un cercueil en Égypte.",
+    "question": "Dans Genèse 50:26, quelle affirmation biblique est donnée textuellement ?",
+    "choices": [
+      "C’est ce que fit Noé",
+      "On l’embauma, et on le mit dans un cercueil en Égypte",
+      "Vous ne mangerez pas de tous les arbres du jardin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Référence : Genèse 50:26 (LSG 1910) - Joseph mourut, âgé de cent dix ans. On l’embauma, et on le mit dans un cercueil en Égypte."
+  }
+]

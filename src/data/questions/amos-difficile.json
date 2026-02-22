@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "amos-D-001",
+    "book": "Amos",
+    "chapter": 1,
+    "verseRef": "Amos 1:1",
+    "verseText": "Voir Amos 1:1.",
+    "question": "Quelle précision temporelle accompagne les visions d’Amos ?",
+    "choices": [
+      "Deux ans avant le tremblement de terre",
+      "Deux ans après le tremblement de terre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 1:1 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-002",
+    "book": "Amos",
+    "chapter": 1,
+    "verseRef": "Amos 1:2",
+    "verseText": "Voir Amos 1:2.",
+    "question": "D’où l’Éternel « fait entendre sa voix » dans la formule d’ouverture ?",
+    "choices": [
+      "De Jérusalem",
+      "De Béthel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 1:2 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-003",
+    "book": "Amos",
+    "chapter": 1,
+    "verseRef": "Amos 1:5",
+    "verseText": "Voir Amos 1:5.",
+    "question": "Sur quelle région la sentence mentionne-t-elle « la vallée d’Aven » ?",
+    "choices": [
+      "Syrie (Damas)",
+      "Juda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 1:5 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-004",
+    "book": "Amos",
+    "chapter": 1,
+    "verseRef": "Amos 1:5",
+    "verseText": "Voir Amos 1:5.",
+    "question": "Vers quel lieu la captivité de la Syrie est-elle annoncée ?",
+    "choices": [
+      "Kir",
+      "Galaad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 1:5 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-005",
+    "book": "Amos",
+    "chapter": 1,
+    "verseRef": "Amos 1:6",
+    "verseText": "Voir Amos 1:6.",
+    "question": "Quel grief est retenu contre Gaza ?",
+    "choices": [
+      "Avoir livré à Édom une foule de captifs",
+      "Avoir brûlé les os du roi d’Édom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 1:6 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-006",
+    "book": "Amos",
+    "chapter": 1,
+    "verseRef": "Amos 1:9",
+    "verseText": "Voir Amos 1:9.",
+    "question": "Quel élément manque à Tyr selon l’accusation ?",
+    "choices": [
+      "Le souvenir de l’alliance fraternelle",
+      "Le souvenir de la sortie d’Égypte"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 1:9 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-007",
+    "book": "Amos",
+    "chapter": 1,
+    "verseRef": "Amos 1:11",
+    "verseText": "Voir Amos 1:11.",
+    "question": "Quel détail est reproché à Édom en plus de l’épée ?",
+    "choices": [
+      "« En étouffant sa compassion »",
+      "« En multipliant les sacrifices »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 1:11 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-008",
+    "book": "Amos",
+    "chapter": 1,
+    "verseRef": "Amos 1:12",
+    "verseText": "Voir Amos 1:12.",
+    "question": "Quel couple de lieux est associé au feu contre Édom ?",
+    "choices": [
+      "Théman / Botsra",
+      "Béthel / Guilgal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 1:12 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-009",
+    "book": "Amos",
+    "chapter": 1,
+    "verseRef": "Amos 1:13",
+    "verseText": "Voir Amos 1:13.",
+    "question": "Quelle atrocité motive le jugement contre Ammon ?",
+    "choices": [
+      "Avoir fendu le ventre des femmes enceintes de Galaad",
+      "Avoir vendu le pauvre pour une paire de souliers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 1:13 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-010",
+    "book": "Amos",
+    "chapter": 1,
+    "verseRef": "Amos 1:14",
+    "verseText": "Voir Amos 1:14.",
+    "question": "Quel bruit accompagne l’attaque contre Rabba ?",
+    "choices": [
+      "Le bruit de la guerre au jour du combat, au milieu de l’ouragan",
+      "Le chant des cantiques au jour de la fête"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 1:14 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-011",
+    "book": "Amos",
+    "chapter": 2,
+    "verseRef": "Amos 2:1",
+    "verseText": "Voir Amos 2:1.",
+    "question": "Quel motif exact déclenche le jugement contre Moab ?",
+    "choices": [
+      "Avoir brûlé, calciné les os du roi d’Édom",
+      "Avoir poursuivi ses frères avec l’épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 2:1 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-012",
+    "book": "Amos",
+    "chapter": 2,
+    "verseRef": "Amos 2:4",
+    "verseText": "Voir Amos 2:4.",
+    "question": "Quel peuple est visé par « méprisé la loi de l’Éternel » ?",
+    "choices": [
+      "Juda",
+      "Tyr"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 2:4 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-013",
+    "book": "Amos",
+    "chapter": 2,
+    "verseRef": "Amos 2:6",
+    "verseText": "Voir Amos 2:6.",
+    "question": "Quelle transaction honteuse est mentionnée contre Israël ?",
+    "choices": [
+      "« Le pauvre pour une paire de souliers »",
+      "« Le prophète pour une tunique »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 2:6 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-014",
+    "book": "Amos",
+    "chapter": 2,
+    "verseRef": "Amos 2:8",
+    "verseText": "Voir Amos 2:8.",
+    "question": "Quel acte profanateur est cité près des autels ?",
+    "choices": [
+      "Boire le vin de ceux qu’ils condamnent",
+      "Offrir l’huile la meilleure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 2:8 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-015",
+    "book": "Amos",
+    "chapter": 2,
+    "verseRef": "Amos 2:9",
+    "verseText": "Voir Amos 2:9.",
+    "question": "Quel peuple Dieu décrit-il : « sa hauteur était celle des cèdres » ?",
+    "choices": [
+      "Les Amoréens",
+      "Les Philistins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 2:9 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-016",
+    "book": "Amos",
+    "chapter": 2,
+    "verseRef": "Amos 2:10",
+    "verseText": "Voir Amos 2:10.",
+    "question": "Combien de temps Dieu dit-il avoir fait marcher Israël au désert ?",
+    "choices": [
+      "Quarante ans",
+      "Quarante jours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 2:10 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-017",
+    "book": "Amos",
+    "chapter": 2,
+    "verseRef": "Amos 2:12",
+    "verseText": "Voir Amos 2:12.",
+    "question": "À qui Israël donne-t-il à boire du vin, contrairement à leur consécration ?",
+    "choices": [
+      "Aux nazaréens",
+      "Aux lévites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 2:12 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-018",
+    "book": "Amos",
+    "chapter": 2,
+    "verseRef": "Amos 2:13",
+    "verseText": "Voir Amos 2:13.",
+    "question": "Quel signe d’oppression est utilisé : « comme le chariot… » ?",
+    "choices": [
+      "Plein de gerbes",
+      "Plein d’épées"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 2:13 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-019",
+    "book": "Amos",
+    "chapter": 3,
+    "verseRef": "Amos 3:2",
+    "verseText": "Voir Amos 3:2.",
+    "question": "Quel principe sur l’élection explique la punition d’Israël ?",
+    "choices": [
+      "« Je vous ai choisis… c’est pourquoi je vous châtierai »",
+      "« Je vous ai oubliés… c’est pourquoi je vous sauverai »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 3:2 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-020",
+    "book": "Amos",
+    "chapter": 3,
+    "verseRef": "Amos 3:3",
+    "verseText": "Voir Amos 3:3.",
+    "question": "Quelle image illustre l’accord préalable avant de marcher ensemble ?",
+    "choices": [
+      "« Sans en être convenus »",
+      "« Sans être armés »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 3:3 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-021",
+    "book": "Amos",
+    "chapter": 3,
+    "verseRef": "Amos 3:9",
+    "verseText": "Voir Amos 3:9.",
+    "question": "Quel lieu est cité avec Asdod pour constater les désordres dans Samarie ?",
+    "choices": [
+      "Le pays d’Égypte",
+      "Le pays de Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 3:9 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-022",
+    "book": "Amos",
+    "chapter": 3,
+    "verseRef": "Amos 3:14",
+    "verseText": "Voir Amos 3:14.",
+    "question": "Quel lieu de culte voit « les cornes de l’autel » retranchées ?",
+    "choices": [
+      "Béthel",
+      "Jérusalem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 3:14 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-023",
+    "book": "Amos",
+    "chapter": 3,
+    "verseRef": "Amos 3:15",
+    "verseText": "Voir Amos 3:15.",
+    "question": "Quel duo de résidences est explicitement visé ?",
+    "choices": [
+      "Maison d’hiver / maison d’été",
+      "Maison de bois / maison de toile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 3:15 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-024",
+    "book": "Amos",
+    "chapter": 4,
+    "verseRef": "Amos 4:1",
+    "verseText": "Voir Amos 4:1.",
+    "question": "Comment sont surnommées certaines femmes qui oppriment les indigents ?",
+    "choices": [
+      "« Vaches de Basan »",
+      "« Lions de Juda »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 4:1 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-025",
+    "book": "Amos",
+    "chapter": 4,
+    "verseRef": "Amos 4:4",
+    "verseText": "Voir Amos 4:4.",
+    "question": "Où l’appel ironique dit-il : « Allez… et péchez » ?",
+    "choices": [
+      "Béthel",
+      "Tekoa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 4:4 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-026",
+    "book": "Amos",
+    "chapter": 4,
+    "verseRef": "Amos 4:6",
+    "verseText": "Voir Amos 4:6.",
+    "question": "Quel refrain accuse leur endurcissement après les châtiments ?",
+    "choices": [
+      "« Et vous n’êtes pas revenus à moi, dit l’Éternel »",
+      "« Et vous avez offert des holocaustes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 4:6 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-027",
+    "book": "Amos",
+    "chapter": 4,
+    "verseRef": "Amos 4:12",
+    "verseText": "Voir Amos 4:12.",
+    "question": "Quelle injonction finale conclut le chapitre 4 ?",
+    "choices": [
+      "« Prépare-toi à la rencontre de ton Dieu, ô Israël ! »",
+      "« Prépare-toi à la guerre, ô Israël ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 4:12 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-028",
+    "book": "Amos",
+    "chapter": 5,
+    "verseRef": "Amos 5:4",
+    "verseText": "Voir Amos 5:4.",
+    "question": "Quelle formule de vie est liée à la recherche de Dieu ?",
+    "choices": [
+      "« Cherchez-moi, et vous vivrez ! »",
+      "« Cherchez la vengeance, et vous vivrez ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 5:4 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-029",
+    "book": "Amos",
+    "chapter": 5,
+    "verseRef": "Amos 5:5",
+    "verseText": "Voir Amos 5:5.",
+    "question": "Quel lieu est déclaré : « Béthel sera réduit à rien » ?",
+    "choices": [
+      "Béthel",
+      "Carmel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 5:5 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-030",
+    "book": "Amos",
+    "chapter": 5,
+    "verseRef": "Amos 5:5",
+    "verseText": "Voir Amos 5:5.",
+    "question": "Quel autre lieu est associé à l’annonce : « Guilgal ira… » ?",
+    "choices": [
+      "Guilgal",
+      "Théman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 5:5 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-031",
+    "book": "Amos",
+    "chapter": 5,
+    "verseRef": "Amos 5:11",
+    "verseText": "Voir Amos 5:11.",
+    "question": "Quelle conséquence est annoncée contre les maisons de pierre de taille ?",
+    "choices": [
+      "« Vous n’y habiterez pas »",
+      "« Vous y régnerez »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 5:11 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-032",
+    "book": "Amos",
+    "chapter": 5,
+    "verseRef": "Amos 5:11",
+    "verseText": "Voir Amos 5:11.",
+    "question": "Quel sort est annoncé pour « les vignes délicieuses » ?",
+    "choices": [
+      "« Vous n’en boirez pas le vin »",
+      "« Vous en boirez le double »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 5:11 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-033",
+    "book": "Amos",
+    "chapter": 5,
+    "verseRef": "Amos 5:23",
+    "verseText": "Voir Amos 5:23.",
+    "question": "Quelle demande Dieu fait-il au sujet du « bruit » ?",
+    "choices": [
+      "« Éloigne de moi le bruit de tes cantiques »",
+      "« Approche de moi le bruit de tes cantiques »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 5:23 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-034",
+    "book": "Amos",
+    "chapter": 5,
+    "verseRef": "Amos 5:24",
+    "verseText": "Voir Amos 5:24.",
+    "question": "Que doit faire la justice selon l’image d’Amos 5 ?",
+    "choices": [
+      "Couler comme de l’eau",
+      "Brûler comme du feu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 5:24 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-035",
+    "book": "Amos",
+    "chapter": 5,
+    "verseRef": "Amos 5:18",
+    "verseText": "Voir Amos 5:18.",
+    "question": "Comment est décrit « le jour de l’Éternel » pour les faux confiants ?",
+    "choices": [
+      "Ténèbres, et non lumière",
+      "Lumière, et non ténèbres"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 5:18 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-036",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:4",
+    "verseText": "Voir Amos 6:4.",
+    "question": "Quel objet de luxe est mentionné dans leur repos ?",
+    "choices": [
+      "Des lits d’ivoire",
+      "Des autels d’airain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:4 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-037",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:5",
+    "verseText": "Voir Amos 6:5.",
+    "question": "Quel instrument est cité dans leur musique « comme David » ?",
+    "choices": [
+      "Le luth",
+      "La harpe d’or"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:5 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-038",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:6",
+    "verseText": "Voir Amos 6:6.",
+    "question": "Quelle huile est mentionnée dans leur recherche de raffinement ?",
+    "choices": [
+      "« La meilleure huile »",
+      "« L’huile des pauvres »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:6 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-039",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:10",
+    "verseText": "Voir Amos 6:10.",
+    "question": "Quel cri est interdit lors du deuil, selon la scène décrite ?",
+    "choices": [
+      "« Silence ! »",
+      "« Victoire ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:10 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-040",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:1",
+    "verseText": "Voir Amos 7:1.",
+    "question": "Que voit Amos dans la première vision de jugement au chapitre 7 ?",
+    "choices": [
+      "Des sauterelles",
+      "Une corbeille de fruits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:1 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-041",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:2",
+    "verseText": "Voir Amos 7:2.",
+    "question": "Quelle phrase contient l’argument d’Amos pour supplier Dieu ?",
+    "choices": [
+      "« Comment Jacob subsistera-t-il ? Car il est si faible ! »",
+      "« Comment Édom subsistera-t-il ? Car il est si grand ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:2 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-042",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:4",
+    "verseText": "Voir Amos 7:4.",
+    "question": "Quel second fléau visionnaire « dévorait le grand abîme » ?",
+    "choices": [
+      "Le feu",
+      "L’épée"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:4 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-043",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:7-8",
+    "verseText": "Voir Amos 7:7-8.",
+    "question": "Quel instrument sert à mesurer dans la troisième vision ?",
+    "choices": [
+      "Un niveau",
+      "Une balance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:7-8 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-044",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:10",
+    "verseText": "Voir Amos 7:10.",
+    "question": "Qui accuse Amos auprès du roi d’Israël ?",
+    "choices": [
+      "Amatsia, prêtre de Béthel",
+      "Abdias, gouverneur de Samarie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:10 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-045",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:12",
+    "verseText": "Voir Amos 7:12.",
+    "question": "Où Amatsia ordonne-t-il à Amos d’aller prophétiser ?",
+    "choices": [
+      "Au pays de Juda",
+      "Au pays de Moab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:12 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-046",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:12",
+    "verseText": "Voir Amos 7:12.",
+    "question": "Quelle phrase d’Amatsia est la plus directe contre Amos ?",
+    "choices": [
+      "« Voyant, va-t’en, fuis dans le pays de Juda »",
+      "« Berger, reste ici, et bénis le roi »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:12 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-047",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:14",
+    "verseText": "Voir Amos 7:14.",
+    "question": "Quelle profession Amos mentionne-t-il avant d’être appelé ?",
+    "choices": [
+      "Berger",
+      "Scribe du palais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:14 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-048",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:14",
+    "verseText": "Voir Amos 7:14.",
+    "question": "Quel travail agricole Amos ajoute-t-il à son ancienne vie ?",
+    "choices": [
+      "« Je cultivais des sycomores »",
+      "« Je plantais des cèdres »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:14 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-049",
+    "book": "Amos",
+    "chapter": 8,
+    "verseRef": "Amos 8:1-2",
+    "verseText": "Voir Amos 8:1-2.",
+    "question": "Dans la vision de la corbeille, que répond Amos à la question « Que vois-tu ? »",
+    "choices": [
+      "« Une corbeille de fruits »",
+      "« Un niveau »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 8:1-2 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-050",
+    "book": "Amos",
+    "chapter": 8,
+    "verseRef": "Amos 8:2",
+    "verseText": "Voir Amos 8:2.",
+    "question": "Quel verdict suit cette vision ?",
+    "choices": [
+      "« La fin est venue pour mon peuple d’Israël ; je ne lui pardonnerai plus »",
+      "« La paix est venue… je lui pardonnerai toujours »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 8:2 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-051",
+    "book": "Amos",
+    "chapter": 8,
+    "verseRef": "Amos 8:5",
+    "verseText": "Voir Amos 8:5.",
+    "question": "Quel abus commercial est dénoncé : réduire… ?",
+    "choices": [
+      "« L’épha » et augmenter « le sicle »",
+      "Augmenter « l’épha » et réduire « le sicle »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 8:5 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-052",
+    "book": "Amos",
+    "chapter": 8,
+    "verseRef": "Amos 8:5",
+    "verseText": "Voir Amos 8:5.",
+    "question": "Quel jour est mentionné comme obstacle à leur commerce impatient ?",
+    "choices": [
+      "Le jour du sabbat",
+      "Le jour des tentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 8:5 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-053",
+    "book": "Amos",
+    "chapter": 8,
+    "verseRef": "Amos 8:6",
+    "verseText": "Voir Amos 8:6.",
+    "question": "Quelle expression décrit le marché des pauvres ?",
+    "choices": [
+      "« Pour de l’argent le misérable, et pour une paire de souliers l’indigent »",
+      "« Pour du pain le riche, et pour un manteau le prince »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 8:6 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-054",
+    "book": "Amos",
+    "chapter": 8,
+    "verseRef": "Amos 8:9",
+    "verseText": "Voir Amos 8:9.",
+    "question": "Quelle calamité cosmique est annoncée : le soleil… ?",
+    "choices": [
+      "Se couchera en plein midi",
+      "Se lèvera à minuit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 8:9 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-055",
+    "book": "Amos",
+    "chapter": 8,
+    "verseRef": "Amos 8:11",
+    "verseText": "Voir Amos 8:11.",
+    "question": "Quel type de faim Dieu annonce-t-il sur le pays ?",
+    "choices": [
+      "« Une faim… non de pain… mais d’entendre les paroles de l’Éternel »",
+      "Une faim de pain et d’eau seulement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 8:11 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-056",
+    "book": "Amos",
+    "chapter": 8,
+    "verseRef": "Amos 8:13",
+    "verseText": "Voir Amos 8:13.",
+    "question": "Qui tombera et ne se relèvera plus selon la fin d’Amos 8 ?",
+    "choices": [
+      "« Les plus belles vierges et les jeunes hommes » (défaillir de soif)",
+      "« Les rois et les prêtres » (défaillir de peur)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 8:13 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-057",
+    "book": "Amos",
+    "chapter": 9,
+    "verseRef": "Amos 9:1",
+    "verseText": "Voir Amos 9:1.",
+    "question": "Dans Amos 9, que voit Amos près de l’autel ?",
+    "choices": [
+      "Le Seigneur",
+      "Un ange"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 9:1 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-058",
+    "book": "Amos",
+    "chapter": 9,
+    "verseRef": "Amos 9:1",
+    "verseText": "Voir Amos 9:1.",
+    "question": "Quelle action divine est ordonnée au début d’Amos 9 ?",
+    "choices": [
+      "« Frappe les chapiteaux »",
+      "« Bâtis les murailles »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 9:1 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-059",
+    "book": "Amos",
+    "chapter": 9,
+    "verseRef": "Amos 9:11",
+    "verseText": "Voir Amos 9:11.",
+    "question": "Quelle promesse de restauration concerne « la maison de David » ?",
+    "choices": [
+      "« Je relèverai de sa chute la maison de David »",
+      "« Je rejetterai à jamais la maison de David »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 9:11 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-060",
+    "book": "Amos",
+    "chapter": 9,
+    "verseRef": "Amos 9:13",
+    "verseText": "Voir Amos 9:13.",
+    "question": "Quel tableau agricole conclut la bénédiction finale ?",
+    "choices": [
+      "« Le laboureur suivra de près le moissonneur »",
+      "« Le moissonneur fuira devant le laboureur »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 9:13 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-061",
+    "book": "Amos",
+    "chapter": 5,
+    "verseRef": "Amos 5:25",
+    "verseText": "Voir Amos 5:25.",
+    "question": "Quel détail accompagne la phrase : « M’avez-vous offert des sacrifices… » ?",
+    "choices": [
+      "« Pendant quarante ans dans le désert »",
+      "« Pendant douze ans dans le désert »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 5:25 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-062",
+    "book": "Amos",
+    "chapter": 5,
+    "verseRef": "Amos 5:26",
+    "verseText": "Voir Amos 5:26.",
+    "question": "Quels deux noms d’objets/idoles sont mentionnés comme portés par Israël ?",
+    "choices": [
+      "« Siccuth, votre roi » et « Kijun, vos images »",
+      "« Béthel, votre roi » et « Guilgal, vos images »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 5:26 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-063",
+    "book": "Amos",
+    "chapter": 5,
+    "verseRef": "Amos 5:27",
+    "verseText": "Voir Amos 5:27.",
+    "question": "Quel marqueur géographique suit « Je vous transporterai » ?",
+    "choices": [
+      "« Au delà de Damas »",
+      "« Au delà du Jourdain »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 5:27 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-064",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:1",
+    "verseText": "Voir Amos 6:1.",
+    "question": "Quel signe de fausse sécurité est dénoncé au début d’Amos 6 ?",
+    "choices": [
+      "« Ceux qui vivent tranquilles dans Sion »",
+      "« Ceux qui craignent l’Éternel dans Sion »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:1 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-065",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:1",
+    "verseText": "Voir Amos 6:1.",
+    "question": "Quelle montagne est liée à la confiance orgueilleuse du peuple ?",
+    "choices": [
+      "« La montagne de Samarie »",
+      "« La montagne du Sinaï »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:1 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-066",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:2",
+    "verseText": "Voir Amos 6:2.",
+    "question": "Quelle série de lieux est donnée comme comparaison historique ?",
+    "choices": [
+      "Calné / Hamath la grande / Gath",
+      "Théman / Botsra / Rabba"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:2 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-067",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:3",
+    "verseText": "Voir Amos 6:3.",
+    "question": "Quelle action paradoxale suit « vous éloignez le jour du malheur » ?",
+    "choices": [
+      "« Vous faites approcher le règne de la violence »",
+      "« Vous faites approcher le règne de la paix »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:3 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-068",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:6",
+    "verseText": "Voir Amos 6:6.",
+    "question": "Quelle phrase exacte montre leur absence de compassion ?",
+    "choices": [
+      "« Ils ne s’attristent pas de la ruine de Joseph »",
+      "« Ils s’attristent de la ruine de Juda »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:6 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-069",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:7",
+    "verseText": "Voir Amos 6:7.",
+    "question": "Quel rang de déportation est annoncé pour eux ?",
+    "choices": [
+      "« Ils iront maintenant en tête des captifs »",
+      "« Ils iront maintenant à la fin des captifs »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:7 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-070",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:8",
+    "verseText": "Voir Amos 6:8.",
+    "question": "Par quoi Dieu jure-t-il dans Amos 6:8 ?",
+    "choices": [
+      "« Par lui-même »",
+      "« Par Jacob »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:8 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-071",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:8",
+    "verseText": "Voir Amos 6:8.",
+    "question": "Que hait-il selon la même déclaration ?",
+    "choices": [
+      "« L’orgueil de Jacob »",
+      "« La faiblesse de Jacob »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:8 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-072",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:8",
+    "verseText": "Voir Amos 6:8.",
+    "question": "Quels éléments il livre avec la ville ?",
+    "choices": [
+      "« La ville et tout ce qu’elle renferme »",
+      "« La ville et seulement ses trésors »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:8 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-073",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:12",
+    "verseText": "Voir Amos 6:12.",
+    "question": "Dans l’image du rocher, que demande Amos sur le bœuf ?",
+    "choices": [
+      "« Y laboure-t-on avec des bœufs ? »",
+      "« Y sacrifie-t-on des bœufs ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:12 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-074",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:12",
+    "verseText": "Voir Amos 6:12.",
+    "question": "En quoi ont-ils changé le « fruit de la justice » ?",
+    "choices": [
+      "En absinthe",
+      "En miel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:12 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-075",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:12",
+    "verseText": "Voir Amos 6:12.",
+    "question": "Quel mot désigne ce qu’ils ont fait de la justice ?",
+    "choices": [
+      "Poison",
+      "Encens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:12 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-076",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:13",
+    "verseText": "Voir Amos 6:13.",
+    "question": "Quel slogan orgueilleux prononcent-ils ?",
+    "choices": [
+      "« N’est-ce pas par notre force que nous avons acquis de la puissance ? »",
+      "« N’est-ce pas par notre faiblesse que nous avons acquis la paix ? »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:13 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-077",
+    "book": "Amos",
+    "chapter": 6,
+    "verseRef": "Amos 6:14",
+    "verseText": "Voir Amos 6:14.",
+    "question": "D’où à où s’étend l’oppression annoncée par la nation suscitée ?",
+    "choices": [
+      "« Depuis l’entrée de Hamath jusqu’au torrent du désert »",
+      "« Depuis l’entrée de Jérusalem jusqu’au torrent du Jourdain »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 6:14 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-078",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:1",
+    "verseText": "Voir Amos 7:1.",
+    "question": "Après quelle coupe les sauterelles apparaissent-elles dans la vision ?",
+    "choices": [
+      "« Après la coupe du roi »",
+      "« Après la coupe du prêtre »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:1 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-079",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:2",
+    "verseText": "Voir Amos 7:2.",
+    "question": "Quelle formule exacte Amos emploie-t-il en demandant l’arrêt ?",
+    "choices": [
+      "« Comment Jacob subsistera-t-il ? Car il est si faible ! »",
+      "« Comment Jacob subsistera-t-il ? Car il est si fort ! »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:2 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-080",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:4",
+    "verseText": "Voir Amos 7:4.",
+    "question": "Qu’est-ce que le feu dévore d’abord dans la vision ?",
+    "choices": [
+      "« Le grand abîme »",
+      "« Les hautes montagnes »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:4 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-081",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:4",
+    "verseText": "Voir Amos 7:4.",
+    "question": "Quelle seconde chose est dite dévorée par le feu ?",
+    "choices": [
+      "« Le champ »",
+      "« Le temple »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:4 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-082",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:8",
+    "verseText": "Voir Amos 7:8.",
+    "question": "Après la vision du niveau, quelle sentence est prononcée ?",
+    "choices": [
+      "« Je ne lui pardonnerai plus »",
+      "« Je le rétablirai aussitôt »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:8 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-083",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:9",
+    "verseText": "Voir Amos 7:9.",
+    "question": "Quels lieux spécifiques sont touchés dans Amos 7:9 ?",
+    "choices": [
+      "« Les hauts lieux d’Isaac » et « les sanctuaires d’Israël »",
+      "« Les palais de Samarie » et « les portes de Juda »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:9 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-084",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:9",
+    "verseText": "Voir Amos 7:9.",
+    "question": "Quelle maison est menacée par l’épée ?",
+    "choices": [
+      "« La maison de Jéroboam »",
+      "« La maison de Salomon »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:9 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-085",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:10",
+    "verseText": "Voir Amos 7:10.",
+    "question": "Quel argument Amatsia avance-t-il : « le pays ne peut… » ?",
+    "choices": [
+      "« …supporter toutes ses paroles »",
+      "« …oublier toutes ses paroles »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:10 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-086",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:11",
+    "verseText": "Voir Amos 7:11.",
+    "question": "Quelle mort Amatsia rapporte-t-il comme parole d’Amos ?",
+    "choices": [
+      "« Jéroboam mourra par l’épée »",
+      "« Jéroboam mourra de maladie »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:11 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-087",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:11",
+    "verseText": "Voir Amos 7:11.",
+    "question": "Quel second jugement Amatsia rapporte-t-il mot pour mot ?",
+    "choices": [
+      "« Israël sera emmené captif loin de son pays »",
+      "« Israël reviendra vite dans son pays »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:11 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-088",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:13",
+    "verseText": "Voir Amos 7:13.",
+    "question": "Comment Béthel est-il défini par Amatsia ?",
+    "choices": [
+      "« Un sanctuaire du roi »",
+      "« Une tente dans le désert »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:13 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-089",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:13",
+    "verseText": "Voir Amos 7:13.",
+    "question": "Quel autre titre Amatsia donne-t-il à Béthel ?",
+    "choices": [
+      "« Une maison royale »",
+      "« Une maison de David »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:13 (LSG 1910)."
+  },
+  {
+    "id": "amos-D-090",
+    "book": "Amos",
+    "chapter": 7,
+    "verseRef": "Amos 7:15",
+    "verseText": "Voir Amos 7:15.",
+    "question": "De quoi Amos dit-il que l’Éternel l’a pris ?",
+    "choices": [
+      "« Derrière le troupeau »",
+      "« Derrière l’autel »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : Amos 7:15 (LSG 1910)."
+  }
+]

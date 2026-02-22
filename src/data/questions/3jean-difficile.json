@@ -1,0 +1,842 @@
+[
+  {
+    "id": "3jean-D-001",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:1",
+    "verseText": "Voir 3 Jean 1:1.",
+    "question": "Dans l’adresse, quel ordre exact associe l’expéditeur et le destinataire ?",
+    "choices": [
+      "L’ancien, à Gaïus",
+      "Gaïus, à l’ancien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:1 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-002",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:1",
+    "verseText": "Voir 3 Jean 1:1.",
+    "question": "Dans l’adresse, quel complément suit immédiatement « le bien-aimé » ?",
+    "choices": [
+      "« que j’aime dans la vérité »",
+      "« qui aime à être le premier »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:1 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-003",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:2",
+    "verseText": "Voir 3 Jean 1:2.",
+    "question": "Dans le souhait de l’ancien, quelle paire est explicitement réunie avant la comparaison finale ?",
+    "choices": [
+      "Prospérer à tous égards et être en bonne santé",
+      "Être reçu par l’Église et être le premier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:2 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-004",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:2",
+    "verseText": "Voir 3 Jean 1:2.",
+    "question": "Dans la comparaison, à quoi est rattaché « comme prospère » ?",
+    "choices": [
+      "À l’état de ton âme",
+      "À l’état de ton voyage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:2 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-005",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:3",
+    "verseText": "Voir 3 Jean 1:3.",
+    "question": "Dans la joie de l’ancien, que font les frères au sujet de la vérité « qui est en toi » ?",
+    "choices": [
+      "Ils en rendent témoignage",
+      "Ils la contestent publiquement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-006",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:3",
+    "verseText": "Voir 3 Jean 1:3.",
+    "question": "Dans le même verset, quel second élément suit « de la vérité qui est en toi » ?",
+    "choices": [
+      "« de la manière dont tu marches dans la vérité »",
+      "« de la manière dont tu écris avec l’encre et la plume »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-007",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:4",
+    "verseText": "Voir 3 Jean 1:4.",
+    "question": "Dans la déclaration sur la « plus grande joie », de qui l’ancien parle-t-il en disant « mes enfants » ?",
+    "choices": [
+      "De ceux dont il apprend qu’ils marchent dans la vérité",
+      "De ceux qui reçoivent des païens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:4 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-008",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:5",
+    "verseText": "Voir 3 Jean 1:5.",
+    "question": "Dans la louange de Gaïus, quel adverbe renforce la portée de son action envers certains frères ?",
+    "choices": [
+      "« même »",
+      "« jamais »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:5 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-009",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:5",
+    "verseText": "Voir 3 Jean 1:5.",
+    "question": "Dans la description des bénéficiaires, quel qualificatif accompagne « frères » dans la formule renforcée ?",
+    "choices": [
+      "« étrangers »",
+      "« incrédules »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:5 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-010",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:6",
+    "verseText": "Voir 3 Jean 1:6.",
+    "question": "Au sujet du témoignage rendu à propos de Gaïus, quel mot désigne l’objet principal attesté ?",
+    "choices": [
+      "Sa charité",
+      "Sa puissance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-011",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:6",
+    "verseText": "Voir 3 Jean 1:6.",
+    "question": "Dans l’exhortation au voyage, quelle norme est donnée comme mesure ?",
+    "choices": [
+      "« digne de Dieu »",
+      "« digne des païens »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-012",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:7",
+    "verseText": "Voir 3 Jean 1:7.",
+    "question": "Dans la raison du départ, quel complément suit « pour le nom » ?",
+    "choices": [
+      "« de Jésus-Christ »",
+      "« de Diotrèphe »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:7 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-013",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:7",
+    "verseText": "Voir 3 Jean 1:7.",
+    "question": "Dans le même verset, quelle précision négative accompagne leur départ ?",
+    "choices": [
+      "« sans rien recevoir des païens »",
+      "« sans parler de bouche à bouche »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:7 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-014",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:8",
+    "verseText": "Voir 3 Jean 1:8.",
+    "question": "Dans la conséquence tirée, quel verbe exprime le devoir collectif envers ces hommes ?",
+    "choices": [
+      "Accueillir",
+      "Chasser"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:8 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-015",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:8",
+    "verseText": "Voir 3 Jean 1:8.",
+    "question": "Selon le but annoncé, avec quoi devient-on « ouvriers » en accueillant de tels hommes ?",
+    "choices": [
+      "Pour la vérité",
+      "Pour être le premier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:8 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-016",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:9",
+    "verseText": "Voir 3 Jean 1:9.",
+    "question": "Quand l’ancien évoque une lettre antérieure, à qui dit-il avoir écrit ?",
+    "choices": [
+      "À l’Église",
+      "À Gaïus seul"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-017",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:9",
+    "verseText": "Voir 3 Jean 1:9.",
+    "question": "Quel trait de Diotrèphe est donné comme explication de son attitude ?",
+    "choices": [
+      "Il aime à être le premier parmi eux",
+      "Il aime à pourvoir au voyage des frères"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-018",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:9",
+    "verseText": "Voir 3 Jean 1:9.",
+    "question": "Dans la plainte de l’ancien, quel pronom est utilisé pour dire qui n’est pas reçu ?",
+    "choices": [
+      "« nous »",
+      "« eux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-019",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Dans l’intention annoncée, quel acte l’ancien dit-il qu’il fera s’il vient ?",
+    "choices": [
+      "Rappeler les actes qu’il commet",
+      "Effacer les actes qu’il commet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-020",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Dans la description de ces actes, comment Diotrèphe parle-t-il contre l’ancien ?",
+    "choices": [
+      "En tenant de méchants propos",
+      "En rendant un bon témoignage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-021",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Dans la progression « non content de cela », quelle action supplémentaire est mentionnée en premier ?",
+    "choices": [
+      "Il ne reçoit pas les frères",
+      "Il les salue chacun en particulier"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-022",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Ensuite, que fait-il à l’égard de ceux qui voudraient recevoir les frères ?",
+    "choices": [
+      "Il les en empêche",
+      "Il les y envoie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-023",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Enfin, quelle mesure d’exclusion est mentionnée comme aboutissement ?",
+    "choices": [
+      "Il les chasse de l’Église",
+      "Il les écrit à l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-024",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:11",
+    "verseText": "Voir 3 Jean 1:11.",
+    "question": "Dans l’exhortation, quel couple est explicitement opposé à propos de l’imitation ?",
+    "choices": [
+      "Le mal / le bien",
+      "L’encre / la plume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:11 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-025",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:11",
+    "verseText": "Voir 3 Jean 1:11.",
+    "question": "Dans l’énoncé doctrinal, « celui qui fait le bien » reçoit quelle affiliation ?",
+    "choices": [
+      "Il est de Dieu",
+      "Il est des païens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:11 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-026",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:11",
+    "verseText": "Voir 3 Jean 1:11.",
+    "question": "Et « celui qui fait le mal » est décrit par quelle absence ?",
+    "choices": [
+      "Il n’a point vu Dieu",
+      "Il n’a point vu l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:11 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-027",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:12",
+    "verseText": "Voir 3 Jean 1:12.",
+    "question": "À propos de Démétrius, quelle triple source de témoignage est citée (dans l’ordre) ?",
+    "choices": [
+      "Tous, la vérité elle-même, nous aussi",
+      "Nous aussi, tous, l’Église"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-028",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:12",
+    "verseText": "Voir 3 Jean 1:12.",
+    "question": "Quel qualificatif est attaché au témoignage dont Gaïus est dit certain ?",
+    "choices": [
+      "Vrai",
+      "Nouveau"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-029",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:13",
+    "verseText": "Voir 3 Jean 1:13.",
+    "question": "Parmi ces deux éléments, lequel l’ancien mentionne-t-il explicitement comme refusé pour écrire ?",
+    "choices": [
+      "L’encre",
+      "Le parchemin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:13 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-030",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:13",
+    "verseText": "Voir 3 Jean 1:13.",
+    "question": "Avec quoi l’encre est-elle associée dans la même expression ?",
+    "choices": [
+      "La plume",
+      "La bouche"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:13 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-031",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Dans l’espérance finale, quel adverbe marque la proximité du moment espéré ?",
+    "choices": [
+      "Bientôt",
+      "Lointainement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-032",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Quel mode de communication est opposé implicitement à « l’encre et la plume » par l’expression finale ?",
+    "choices": [
+      "De bouche à bouche",
+      "Par les païens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-033",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Quelle salutation est formulée en deux mots exactement ?",
+    "choices": [
+      "Paix à toi",
+      "Gloire à Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-034",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Qui est désigné comme envoyant des salutations à Gaïus ?",
+    "choices": [
+      "Les amis",
+      "Les étrangers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-035",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Dans la dernière consigne, à qui s’adresse l’ordre « Salue… » ?",
+    "choices": [
+      "À Gaïus",
+      "À Diotrèphe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-036",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Dans cette consigne, quelle précision individualise l’action demandée ?",
+    "choices": [
+      "Chacun en particulier",
+      "Tous ensemble"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-037",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:7",
+    "verseText": "Voir 3 Jean 1:7.",
+    "question": "Parmi ces deux formulations, laquelle correspond au motif du départ tel qu’il est écrit ?",
+    "choices": [
+      "« pour le nom de Jésus-Christ »",
+      "« pour l’Église de Gaïus »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:7 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-038",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:7",
+    "verseText": "Voir 3 Jean 1:7.",
+    "question": "Parmi ces deux éléments, lequel est explicitement absent de ce qu’ils reçoivent ?",
+    "choices": [
+      "« rien » des païens",
+      "« tout » des païens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:7 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-039",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:5",
+    "verseText": "Voir 3 Jean 1:5.",
+    "question": "Dans l’éloge de Gaïus, quelle notion décrit la qualité de son action dans « tout ce que tu fais » ?",
+    "choices": [
+      "Fidèlement",
+      "Rapidement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:5 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-040",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:3",
+    "verseText": "Voir 3 Jean 1:3.",
+    "question": "Dans l’épisode du témoignage, quel sujet grammatical est à l’origine de la joie de l’ancien ?",
+    "choices": [
+      "Des frères sont arrivés",
+      "Des païens sont revenus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-041",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:4",
+    "verseText": "Voir 3 Jean 1:4.",
+    "question": "Dans la phrase sur la plus grande joie, quel verbe introduit l’information reçue ?",
+    "choices": [
+      "Apprendre",
+      "Écrire"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:4 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-042",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:9",
+    "verseText": "Voir 3 Jean 1:9.",
+    "question": "Dans la dénonciation, que signifie « ne nous reçoit point » dans le contexte ?",
+    "choices": [
+      "Diotrèphe refuse l’accueil de l’ancien et des siens",
+      "Diotrèphe organise leur voyage digne de Dieu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-043",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Dans la suite, quel enchaînement exact suit « en tenant de méchants propos contre nous » ?",
+    "choices": [
+      "« non content de cela, il ne reçoit pas les frères »",
+      "« non content de cela, il rend témoignage à Démétrius »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-044",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:8",
+    "verseText": "Voir 3 Jean 1:8.",
+    "question": "Dans l’obligation d’accueillir, quel résultat collectif est recherché ?",
+    "choices": [
+      "Être ouvriers avec eux",
+      "Être premiers parmi eux"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:8 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-045",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:6",
+    "verseText": "Voir 3 Jean 1:6.",
+    "question": "Dans la recommandation au voyage, quel jugement bref précède l’action demandée ?",
+    "choices": [
+      "« Tu feras bien »",
+      "« Tu feras mal »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-046",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:6",
+    "verseText": "Voir 3 Jean 1:6.",
+    "question": "Dans la même phrase, quel infinitif désigne l’aide concrète à fournir ?",
+    "choices": [
+      "Pourvoir",
+      "Chasser"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:6 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-047",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:5",
+    "verseText": "Voir 3 Jean 1:5.",
+    "question": "Dans la description des frères, lequel de ces termes apparaît explicitement avec « frères » ?",
+    "choices": [
+      "Étrangers",
+      "Riches"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:5 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-048",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:12",
+    "verseText": "Voir 3 Jean 1:12.",
+    "question": "Dans la formule sur Démétrius, quel élément est nommé comme rendant témoignage en plus de « tous » ?",
+    "choices": [
+      "La vérité elle-même",
+      "L’encre elle-même"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-049",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:12",
+    "verseText": "Voir 3 Jean 1:12.",
+    "question": "Dans l’affirmation finale du verset, quelle assurance est attribuée à Gaïus ?",
+    "choices": [
+      "« tu sais que notre témoignage est vrai »",
+      "« tu sais que notre témoignage est ancien »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:12 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-050",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:13",
+    "verseText": "Voir 3 Jean 1:13.",
+    "question": "Dans la phrase « J’aurais beaucoup de choses à t’écrire », quel verbe exprime l’intention non réalisée ?",
+    "choices": [
+      "Écrire",
+      "Voyager"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:13 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-051",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:13",
+    "verseText": "Voir 3 Jean 1:13.",
+    "question": "Dans le refus d’écrire, quel couple d’objets est donné comme moyen rejeté ?",
+    "choices": [
+      "L’encre et la plume",
+      "La paix et la vérité"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:13 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-052",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Dans la projection de rencontre, quel verbe exprime l’attente de voir ?",
+    "choices": [
+      "J’espère",
+      "Je crains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-053",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Dans la même projection, quelle conséquence de la rencontre est annoncée ?",
+    "choices": [
+      "Nous parlerons",
+      "Nous écrirons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-054",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:1",
+    "verseText": "Voir 3 Jean 1:1.",
+    "question": "Dans la déclaration initiale d’affection, quel complément suit « que j’aime » ?",
+    "choices": [
+      "« dans la vérité »",
+      "« de bouche à bouche »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:1 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-055",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:3",
+    "verseText": "Voir 3 Jean 1:3.",
+    "question": "Dans la joie liée aux frères, quelle localisation de la vérité est mentionnée ?",
+    "choices": [
+      "« la vérité qui est en toi »",
+      "« la vérité qui est sur eux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:3 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-056",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:5",
+    "verseText": "Voir 3 Jean 1:5.",
+    "question": "Dans l’éloge de Gaïus, quel domaine englobe « tout ce que tu fais » ?",
+    "choices": [
+      "Pour les frères",
+      "Pour les païens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:5 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-057",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:9",
+    "verseText": "Voir 3 Jean 1:9.",
+    "question": "Dans l’accusation contre Diotrèphe, quelle relation de supériorité est explicitement mentionnée ?",
+    "choices": [
+      "« être le premier parmi eux »",
+      "« être ouvrier avec eux »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:9 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-058",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:10",
+    "verseText": "Voir 3 Jean 1:10.",
+    "question": "Dans la suite des actes, quelle action est attribuée à Diotrèphe envers les frères eux-mêmes (pas envers ceux qui voudraient les recevoir) ?",
+    "choices": [
+      "Il ne reçoit pas les frères",
+      "Il leur rend un bon témoignage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:10 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-059",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:11",
+    "verseText": "Voir 3 Jean 1:11.",
+    "question": "Dans l’exhortation « n’imite pas », quel objet immédiat est interdit en premier ?",
+    "choices": [
+      "Le mal",
+      "Le bien"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:11 (LSG 1910)."
+  },
+  {
+    "id": "3jean-D-060",
+    "book": "3 Jean",
+    "chapter": 1,
+    "verseRef": "3 Jean 1:14",
+    "verseText": "Voir 3 Jean 1:14.",
+    "question": "Dans la clôture, quelle action est demandée après « Les amis te saluent » ?",
+    "choices": [
+      "« Salue les amis, chacun en particulier »",
+      "« Chasse les amis, chacun en particulier »"
+    ],
+    "correctIndex": 0,
+    "explanation": "Référence : 3 Jean 1:14 (LSG 1910)."
+  }
+]
