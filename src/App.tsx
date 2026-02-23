@@ -25,6 +25,7 @@ import {
   type SessionSizePreference
 } from './lib/storage';
 import { getNetlifyIdentity, isNetlifyIdentityEnabled, type IdentityUser } from './lib/netlifyIdentity';
+import { validateSimpleCredentials } from './lib/simpleAuth';
 
 type ScreenState = 'books' | 'session-size' | 'quiz' | 'result';
 type Difficulty = 'normal' | 'difficile';
@@ -47,11 +48,15 @@ interface DebugInfo {
 }
 
 const DIFFICILE_TIME_LIMIT_SECONDS = 10;
+const SIMPLE_AUTH_STORAGE_KEY = 'simple_auth';
 
 const books: QuizBook[] = booksData as QuizBook[];
 
 const isDev = import.meta.env.DEV;
 const requireLogin = import.meta.env.VITE_REQUIRE_LOGIN === 'true';
+const simpleAuthUsername = (import.meta.env.VITE_APP_USER ?? '').trim();
+const simpleAuthPassword = import.meta.env.VITE_APP_PASSWORD ?? '';
+const useSimpleAuth = requireLogin && simpleAuthUsername.length > 0 && simpleAuthPassword.length > 0;
 const questionImporters = import.meta.glob<{ default: unknown }>('./data/questions/*-*.json');
 const generalitesChunkImporters = import.meta.glob<{ default: unknown }>('./data/questions/generalites/**/*.json');
 const questionsCache = new Map<string, DatasetLoadResult>();
@@ -215,6 +220,8 @@ export default function App() {
   const [isOffline, setIsOffline] = useState(typeof navigator !== 'undefined' ? !navigator.onLine : false);
   const [authGate, setAuthGate] = useState<AuthGateState>(requireLogin ? 'checking' : 'open');
   const [identityUser, setIdentityUser] = useState<IdentityUser | null>(null);
+  const [simpleAuthError, setSimpleAuthError] = useState<string | null>(null);
+  const [isSimpleAuthSubmitting, setIsSimpleAuthSubmitting] = useState(false);
 
   const [questionPool, setQuestionPool] = useState<QuizQuestion[] | null>(null);
   const [questions, setQuestions] = useState<QuizQuestion[]>([]);
@@ -274,6 +281,13 @@ export default function App() {
   useEffect(() => {
     if (!requireLogin) {
       setAuthGate('open');
+      return;
+    }
+
+    if (useSimpleAuth) {
+      const isAuthenticated = typeof window !== 'undefined' && window.localStorage.getItem(SIMPLE_AUTH_STORAGE_KEY) === 'true';
+      setIdentityUser(isAuthenticated ? { id: 'simple-auth-user' } : null);
+      setAuthGate(isAuthenticated ? 'open' : 'login-required');
       return;
     }
 
@@ -838,6 +852,7 @@ export default function App() {
   };
 
   const handleLogin = () => {
+    setSimpleAuthError(null);
     const identity = getNetlifyIdentity();
     if (!identity) {
       return;
@@ -845,7 +860,41 @@ export default function App() {
     identity.open('login');
   };
 
+  const handleSimpleLogin = ({ username, password }: { username: string; password: string }) => {
+    setIsSimpleAuthSubmitting(true);
+    setSimpleAuthError(null);
+
+    const isValid = validateSimpleCredentials({
+      username,
+      password,
+      expectedUsername: simpleAuthUsername,
+      expectedPassword: simpleAuthPassword
+    });
+
+    if (!isValid) {
+      setSimpleAuthError('Identifiant ou mot de passe incorrect.');
+      setIsSimpleAuthSubmitting(false);
+      return;
+    }
+
+    window.localStorage.setItem(SIMPLE_AUTH_STORAGE_KEY, 'true');
+    setIdentityUser({ id: 'simple-auth-user' });
+    setAuthGate('open');
+    setIsSimpleAuthSubmitting(false);
+  };
+
   const handleLogout = () => {
+    if (useSimpleAuth) {
+      window.localStorage.removeItem(SIMPLE_AUTH_STORAGE_KEY);
+      setIdentityUser(null);
+      setSimpleAuthError(null);
+      setIsSimpleAuthSubmitting(false);
+      if (requireLogin) {
+        setAuthGate('login-required');
+      }
+      return;
+    }
+
     const identity = getNetlifyIdentity();
     if (!identity) {
       return;
@@ -891,6 +940,7 @@ export default function App() {
   }
 
   const showLoginView = requireLogin && authGate !== 'open';
+  const showLogoutButton = requireLogin && (authGate === 'open' || identityUser !== null);
 
   return (
     <main className="min-h-screen bg-gradient-to-br from-sky-100 via-cyan-50 to-blue-100 px-4 py-6 text-slate-900 dark:text-slate-100 sm:px-6 sm:py-8">
@@ -922,7 +972,7 @@ export default function App() {
           >
             {theme === 'dark' ? 'Mode clair' : 'Mode sombre'}
           </button>
-          {identityUser ? (
+          {showLogoutButton ? (
             <button
               onClick={handleLogout}
               className="rounded-2xl border border-rose-300 bg-rose-50 px-4 py-2 text-sm font-semibold text-rose-700 transition hover:bg-rose-100 dark:border-rose-700 dark:bg-rose-950/30 dark:text-rose-200 dark:hover:bg-rose-900/50"
@@ -933,7 +983,16 @@ export default function App() {
         </div>
       </div>
 
-      {showLoginView ? <LoginView isChecking={authGate === 'checking'} onLogin={handleLogin} /> : null}
+      {showLoginView ? (
+        <LoginView
+          isChecking={authGate === 'checking'}
+          isSimpleAuth={useSimpleAuth}
+          isSubmitting={isSimpleAuthSubmitting}
+          errorMessage={simpleAuthError}
+          onLogin={handleLogin}
+          onSimpleLogin={handleSimpleLogin}
+        />
+      ) : null}
 
       {!showLoginView && screen === 'books' ? (
         <BookList
