@@ -3,6 +3,7 @@
 
 interface ImportMetaEnv {
   readonly SITE_URL?: string;
+  readonly VITE_REQUIRE_LOGIN?: string;
 }
 
 interface ImportMeta {

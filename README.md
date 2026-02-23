@@ -16,6 +16,33 @@ npm run build
 npm run preview
 ```
 
+## Protection d'accès (Netlify Identity)
+
+L'application peut forcer la connexion, avec un mode désactivable.
+
+### Activation sur Netlify
+
+1. Ouvrir `Site configuration` > `Identity`.
+2. Activer Netlify Identity (`Enable Identity`).
+3. Dans `Registration preferences`, choisir `Invite only`.
+4. Dans `Site configuration` > `Environment variables`, ajouter:
+   - `VITE_REQUIRE_LOGIN=true`
+5. Relancer un build/deploy.
+
+Comportement:
+- `VITE_REQUIRE_LOGIN=true` + Identity actif: connexion obligatoire.
+- Identity inactif: accès libre (pas de blocage).
+
+### Désactiver la protection
+
+Mettre:
+
+```bash
+VITE_REQUIRE_LOGIN=false
+```
+
+Puis redéployer. L'application redevient accessible sans connexion.
+
 ## SEO (SPA React/Vite)
 
 Le projet applique des métadonnées SEO via `react-helmet-async` selon l’écran actif:

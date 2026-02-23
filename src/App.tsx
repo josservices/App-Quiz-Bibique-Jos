@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { BookList } from './components/BookList';
+import { LoginView } from './components/LoginView';
 import { QuizView } from './components/QuizView';
 import { ResultView } from './components/ResultView';
 import { SEO } from './components/SEO';
@@ -23,9 +24,11 @@ import {
   saveTheme,
   type SessionSizePreference
 } from './lib/storage';
+import { getNetlifyIdentity, isNetlifyIdentityEnabled, type IdentityUser } from './lib/netlifyIdentity';
 
 type ScreenState = 'books' | 'session-size' | 'quiz' | 'result';
 type Difficulty = 'normal' | 'difficile';
+type AuthGateState = 'checking' | 'open' | 'login-required';
 
 interface DatasetLoadResult {
   modulePath: string;
@@ -48,6 +51,7 @@ const DIFFICILE_TIME_LIMIT_SECONDS = 10;
 const books: QuizBook[] = booksData as QuizBook[];
 
 const isDev = import.meta.env.DEV;
+const requireLogin = import.meta.env.VITE_REQUIRE_LOGIN === 'true';
 const questionImporters = import.meta.glob<{ default: unknown }>('./data/questions/*-*.json');
 const generalitesChunkImporters = import.meta.glob<{ default: unknown }>('./data/questions/generalites/**/*.json');
 const questionsCache = new Map<string, DatasetLoadResult>();
@@ -209,6 +213,8 @@ export default function App() {
   const [timeLeft, setTimeLeft] = useState(DIFFICILE_TIME_LIMIT_SECONDS);
   const [theme, setTheme] = useState<'light' | 'dark'>(getSavedTheme());
   const [isOffline, setIsOffline] = useState(typeof navigator !== 'undefined' ? !navigator.onLine : false);
+  const [authGate, setAuthGate] = useState<AuthGateState>(requireLogin ? 'checking' : 'open');
+  const [identityUser, setIdentityUser] = useState<IdentityUser | null>(null);
 
   const [questionPool, setQuestionPool] = useState<QuizQuestion[] | null>(null);
   const [questions, setQuestions] = useState<QuizQuestion[]>([]);
@@ -264,6 +270,87 @@ export default function App() {
     document.documentElement.classList.toggle('dark', theme === 'dark');
     saveTheme(theme);
   }, [theme]);
+
+  useEffect(() => {
+    if (!requireLogin) {
+      setAuthGate('open');
+      return;
+    }
+
+    let active = true;
+    const identity = getNetlifyIdentity();
+    if (!identity) {
+      setAuthGate('open');
+      return;
+    }
+
+    const onInit = (user?: IdentityUser | Error | null) => {
+      if (!active) {
+        return;
+      }
+      const normalized = user instanceof Error ? null : (user ?? null);
+      setIdentityUser(normalized);
+      setAuthGate(normalized ? 'open' : 'login-required');
+    };
+
+    const onLogin = (user?: IdentityUser | Error | null) => {
+      if (!active) {
+        return;
+      }
+      const normalized = user instanceof Error ? null : (user ?? null);
+      setIdentityUser(normalized);
+      setAuthGate(normalized ? 'open' : 'login-required');
+      identity.close();
+    };
+
+    const onLogout = () => {
+      if (!active) {
+        return;
+      }
+      setIdentityUser(null);
+      setAuthGate('login-required');
+    };
+
+    const onError = () => {
+      if (!active) {
+        return;
+      }
+      setAuthGate('open');
+    };
+
+    const initIdentity = async () => {
+      const enabled = await isNetlifyIdentityEnabled();
+      if (!active) {
+        return;
+      }
+
+      if (!enabled) {
+        setAuthGate('open');
+        return;
+      }
+
+      identity.on('init', onInit);
+      identity.on('login', onLogin);
+      identity.on('logout', onLogout);
+      identity.on('error', onError);
+      identity.init();
+      const existingUser = identity.currentUser();
+      if (existingUser) {
+        setIdentityUser(existingUser);
+        setAuthGate('open');
+      }
+    };
+
+    void initIdentity();
+
+    return () => {
+      active = false;
+      identity.off('init', onInit);
+      identity.off('login', onLogin);
+      identity.off('logout', onLogout);
+      identity.off('error', onError);
+    };
+  }, []);
 
   useEffect(() => {
     isLoadingPoolRef.current = isLoadingPool;
@@ -750,6 +837,26 @@ export default function App() {
     handleBackToBooks();
   };
 
+  const handleLogin = () => {
+    const identity = getNetlifyIdentity();
+    if (!identity) {
+      return;
+    }
+    identity.open('login');
+  };
+
+  const handleLogout = () => {
+    const identity = getNetlifyIdentity();
+    if (!identity) {
+      return;
+    }
+    identity.logout();
+    setIdentityUser(null);
+    if (requireLogin) {
+      setAuthGate('login-required');
+    }
+  };
+
   const handleRestart = () => {
     void startSessionPreparation(true);
   };
@@ -783,6 +890,8 @@ export default function App() {
     seoPath = `/generalites/${difficulty}`;
   }
 
+  const showLoginView = requireLogin && authGate !== 'open';
+
   return (
     <main className="min-h-screen bg-gradient-to-br from-sky-100 via-cyan-50 to-blue-100 px-4 py-6 text-slate-900 dark:text-slate-100 sm:px-6 sm:py-8">
       <SEO title={seoTitle} description={seoDescription} path={seoPath} />
@@ -813,10 +922,20 @@ export default function App() {
           >
             {theme === 'dark' ? 'Mode clair' : 'Mode sombre'}
           </button>
+          {identityUser ? (
+            <button
+              onClick={handleLogout}
+              className="rounded-2xl border border-rose-300 bg-rose-50 px-4 py-2 text-sm font-semibold text-rose-700 transition hover:bg-rose-100 dark:border-rose-700 dark:bg-rose-950/30 dark:text-rose-200 dark:hover:bg-rose-900/50"
+            >
+              Se déconnecter
+            </button>
+          ) : null}
         </div>
       </div>
 
-      {screen === 'books' ? (
+      {showLoginView ? <LoginView isChecking={authGate === 'checking'} onLogin={handleLogin} /> : null}
+
+      {!showLoginView && screen === 'books' ? (
         <BookList
           books={books}
           difficulty={difficulty}
@@ -825,7 +944,7 @@ export default function App() {
         />
       ) : null}
 
-      {screen === 'session-size' && selectedBook ? (
+      {!showLoginView && screen === 'session-size' && selectedBook ? (
         <SessionSizeView
           book={selectedBook}
           options={getSessionOptions(selectedBook)}
@@ -842,13 +961,13 @@ export default function App() {
         />
       ) : null}
 
-      {screen === 'quiz' && isPreparing ? (
+      {!showLoginView && screen === 'quiz' && isPreparing ? (
         <section className="mx-auto max-w-3xl rounded-3xl border border-white/40 bg-white/70 p-6 shadow-2xl backdrop-blur-xl dark:border-slate-700/70 dark:bg-slate-900/65 sm:p-8">
           <p className="text-sm font-semibold text-slate-700 dark:text-slate-200">Préparation de la session en cours...</p>
         </section>
       ) : null}
 
-      {screen === 'quiz' && !isPreparing && currentQuestion ? (
+      {!showLoginView && screen === 'quiz' && !isPreparing && currentQuestion ? (
         <QuizView
           question={currentQuestion}
           index={currentIndex}
@@ -864,7 +983,7 @@ export default function App() {
         />
       ) : null}
 
-      {screen === 'result' ? (
+      {!showLoginView && screen === 'result' ? (
         <ResultView
           total={questions.length}
           correct={correctCount}
@@ -874,7 +993,6 @@ export default function App() {
           onBackToBooks={handleBackToBooks}
         />
       ) : null}
-
     </main>
   );
 }
