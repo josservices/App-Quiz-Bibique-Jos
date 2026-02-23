@@ -1,9 +1,11 @@
+import { memo } from 'react';
+
 interface ProgressBarProps {
   current: number;
   total: number;
 }
 
-export function ProgressBar({ current, total }: ProgressBarProps) {
+export const ProgressBar = memo(function ProgressBar({ current, total }: ProgressBarProps) {
   const safeTotal = total === 0 ? 1 : total;
   const percent = Math.min(100, Math.max(0, Math.round((current / safeTotal) * 100)));
 
@@ -21,4 +23,4 @@ export function ProgressBar({ current, total }: ProgressBarProps) {
       </div>
     </div>
   );
-}
+});

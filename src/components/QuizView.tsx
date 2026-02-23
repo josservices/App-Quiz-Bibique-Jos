@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { memo, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { QuizQuestion } from '../lib/quizEngine';
 import { ProgressBar } from './ProgressBar';
 
@@ -7,46 +7,95 @@ interface QuizViewProps {
   index: number;
   total: number;
   difficulty: 'normal' | 'difficile';
-  timeLeft: number | null;
+  timeLimitSeconds: number;
+  timerSeed: number;
   selectedIndex: number | null;
   playedCount: number;
   correctCount: number;
   incorrectCount: number;
   onSelectChoice: (index: number) => void;
   onNext: () => void;
+  onTimeExpired: () => void;
 }
 
-export function QuizView({
+export const QuizView = memo(function QuizView({
   question,
   index,
   total,
   difficulty,
-  timeLeft,
+  timeLimitSeconds,
+  timerSeed,
   selectedIndex,
   playedCount,
   correctCount,
   incorrectCount,
   onSelectChoice,
-  onNext
+  onNext,
+  onTimeExpired
 }: QuizViewProps) {
   const locked = selectedIndex !== null;
   const [showCount, setShowCount] = useState(false);
+  const [timeLeft, setTimeLeft] = useState(difficulty === 'difficile' && !locked ? timeLimitSeconds : null);
+  const timerDoneRef = useRef(false);
+  const isTimed = difficulty === 'difficile';
 
-  const buttonClass = (choiceIndex: number): string => {
-    if (!locked) {
-      return 'border-slate-200/70 bg-white/80 hover:-translate-y-0.5 hover:border-cyan-400 hover:bg-cyan-50/80 dark:border-slate-700 dark:bg-slate-900/80 dark:hover:bg-slate-800';
+  useEffect(() => {
+    timerDoneRef.current = false;
+    setTimeLeft(isTimed && !locked ? timeLimitSeconds : null);
+  }, [isTimed, locked, question.id, timeLimitSeconds, timerSeed]);
+
+  useEffect(() => {
+    if (!isTimed || locked || timeLeft === null) {
+      return;
     }
 
-    if (choiceIndex === question.correctIndex) {
-      return 'border-emerald-500 bg-emerald-100 text-emerald-900 dark:border-emerald-500 dark:bg-emerald-900/30 dark:text-emerald-100';
+    if (timeLeft <= 0) {
+      if (!timerDoneRef.current) {
+        timerDoneRef.current = true;
+        onTimeExpired();
+      }
+      return;
     }
 
-    if (choiceIndex === selectedIndex) {
-      return 'border-rose-500 bg-rose-100 text-rose-900 dark:border-rose-500 dark:bg-rose-900/30 dark:text-rose-100';
-    }
+    const timer = window.setTimeout(() => {
+      setTimeLeft((prev) => {
+        if (prev === null) {
+          return null;
+        }
+        return prev > 0 ? prev - 1 : 0;
+      });
+    }, 1000);
 
-    return 'border-slate-200 bg-white/70 opacity-75 dark:border-slate-700 dark:bg-slate-900';
-  };
+    return () => window.clearTimeout(timer);
+  }, [isTimed, locked, onTimeExpired, timeLeft]);
+
+  const getButtonClass = useCallback(
+    (choiceIndex: number): string => {
+      if (!locked) {
+        return 'border-slate-200/70 bg-white/80 hover:-translate-y-0.5 hover:border-cyan-400 hover:bg-cyan-50/80 dark:border-slate-700 dark:bg-slate-900/80 dark:hover:bg-slate-800';
+      }
+
+      if (choiceIndex === question.correctIndex) {
+        return 'border-emerald-500 bg-emerald-100 text-emerald-900 dark:border-emerald-500 dark:bg-emerald-900/30 dark:text-emerald-100';
+      }
+
+      if (choiceIndex === selectedIndex) {
+        return 'border-rose-500 bg-rose-100 text-rose-900 dark:border-rose-500 dark:bg-rose-900/30 dark:text-rose-100';
+      }
+
+      return 'border-slate-200 bg-white/70 opacity-75 dark:border-slate-700 dark:bg-slate-900';
+    },
+    [locked, question.correctIndex, selectedIndex]
+  );
+
+  const timeBadgeClass = useMemo(() => {
+    if (timeLeft === null) {
+      return '';
+    }
+    return timeLeft <= 3
+      ? 'bg-rose-100 text-rose-700 dark:bg-rose-900/40 dark:text-rose-200'
+      : 'bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-200';
+  }, [timeLeft]);
 
   return (
     <section className="mx-auto max-w-4xl rounded-3xl border border-white/40 bg-white/70 p-5 shadow-2xl backdrop-blur-xl dark:border-slate-700/70 dark:bg-slate-900/65 sm:p-8">
@@ -58,25 +107,13 @@ export function QuizView({
           <p className="text-sm font-medium text-slate-600 dark:text-slate-300">
             Niveau: {difficulty === 'difficile' ? 'Difficile' : 'Normal'}
           </p>
-          {timeLeft !== null ? (
-            <p
-              className={`rounded-full px-3 py-1 text-xs font-bold ${
-                timeLeft <= 3
-                  ? 'bg-rose-100 text-rose-700 dark:bg-rose-900/40 dark:text-rose-200'
-                  : 'bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-200'
-              }`}
-            >
-              {timeLeft}s
-            </p>
-          ) : null}
+          {timeLeft !== null ? <p className={`rounded-full px-3 py-1 text-xs font-bold ${timeBadgeClass}`}>{timeLeft}s</p> : null}
         </div>
       </header>
 
       <ProgressBar current={index + 1} total={total} />
 
-      <p className="mt-7 text-xl font-bold leading-relaxed text-slate-900 dark:text-white sm:text-2xl">
-        {question.question}
-      </p>
+      <p className="mt-7 text-xl font-bold leading-relaxed text-slate-900 dark:text-white sm:text-2xl">{question.question}</p>
 
       <div className="mt-7 grid gap-3">
         {question.choices.map((choice, choiceIndex) => (
@@ -84,7 +121,7 @@ export function QuizView({
             key={`${question.id}-${choiceIndex}`}
             disabled={locked}
             onClick={() => onSelectChoice(choiceIndex)}
-            className={`rounded-2xl border px-4 py-4 text-left font-semibold transition ${buttonClass(choiceIndex)}`}
+            className={`rounded-2xl border px-4 py-4 text-left font-semibold transition ${getButtonClass(choiceIndex)}`}
           >
             {choice}
           </button>
@@ -117,13 +154,9 @@ export function QuizView({
 
       {locked ? (
         <article className="mt-6 rounded-2xl border border-slate-200/80 bg-white/80 p-4 dark:border-slate-700 dark:bg-slate-950/40">
-          <p className="text-xs font-bold uppercase tracking-[0.16em] text-slate-500 dark:text-slate-400">
-            Référence du verset
-          </p>
+          <p className="text-xs font-bold uppercase tracking-[0.16em] text-slate-500 dark:text-slate-400">Référence du verset</p>
           <p className="mt-2 text-sm font-semibold text-slate-800 dark:text-slate-100">{question.verseRef}</p>
-          <p className="mt-3 text-sm leading-relaxed text-slate-700 dark:text-slate-200">
-            {question.verseText}
-          </p>
+          <p className="mt-3 text-sm leading-relaxed text-slate-700 dark:text-slate-200">{question.verseText}</p>
           <p className="mt-3 text-sm text-slate-600 dark:text-slate-300">{question.explanation}</p>
         </article>
       ) : null}
@@ -138,4 +171,4 @@ export function QuizView({
       ) : null}
     </section>
   );
-}
+});

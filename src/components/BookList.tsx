@@ -1,3 +1,4 @@
+import { memo } from 'react';
 import type { QuizBook } from '../lib/quizEngine';
 
 type Difficulty = 'normal' | 'difficile';
@@ -9,7 +10,7 @@ interface BookListProps {
   onSelect: (bookId: string) => void;
 }
 
-export function BookList({ books, difficulty, onDifficultyChange, onSelect }: BookListProps) {
+export const BookList = memo(function BookList({ books, difficulty, onDifficultyChange, onSelect }: BookListProps) {
   return (
     <section className="mx-auto max-w-3xl rounded-3xl border border-white/40 bg-white/70 p-6 shadow-2xl backdrop-blur-xl dark:border-slate-700/70 dark:bg-slate-900/65 sm:p-8">
       <p className="inline-flex rounded-full bg-cyan-500/15 px-3 py-1 text-xs font-bold uppercase tracking-[0.18em] text-cyan-700 dark:text-cyan-300">
@@ -76,4 +77,4 @@ export function BookList({ books, difficulty, onDifficultyChange, onSelect }: Bo
       </div>
     </section>
   );
-}
+});

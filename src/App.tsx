@@ -6,7 +6,14 @@ import { ResultView } from './components/ResultView';
 import { SEO } from './components/SEO';
 import { SessionSizeView } from './components/SessionSizeView';
 import booksData from './data/books.json';
-import { buildSession, computeScore, sanitizeQuestions, type QuizBook, type QuizQuestion } from './lib/quizEngine';
+import {
+  buildSession,
+  buildSessionFromUnknown,
+  computeScore,
+  sanitizeQuestionsProgressive,
+  type QuizBook,
+  type QuizQuestion
+} from './lib/quizEngine';
 import { loadGeneralitesQuestions, type GeneralitesProgress } from './lib/generalitesLoader';
 import {
   UI_ERROR_STABILIZATION_MS,
@@ -34,8 +41,7 @@ type AuthGateState = 'checking' | 'open' | 'login-required';
 interface DatasetLoadResult {
   modulePath: string;
   rawCount: number;
-  validCount: number;
-  questions: QuizQuestion[];
+  rawQuestions: unknown[];
 }
 
 interface DebugInfo {
@@ -49,10 +55,12 @@ interface DebugInfo {
 
 const DIFFICILE_TIME_LIMIT_SECONDS = 10;
 const SIMPLE_AUTH_STORAGE_KEY = 'simple_auth';
+const QUESTIONS_CACHE_LIMIT = 6;
 
 const books: QuizBook[] = booksData as QuizBook[];
 
 const isDev = import.meta.env.DEV;
+const debugPerf = isDev || import.meta.env.VITE_DEBUG === 'true';
 const requireLogin = import.meta.env.VITE_REQUIRE_LOGIN === 'true';
 const simpleAuthUsername = (import.meta.env.VITE_APP_USER ?? '').trim();
 const simpleAuthPassword = import.meta.env.VITE_APP_PASSWORD ?? '';
@@ -61,6 +69,26 @@ const questionImporters = import.meta.glob<{ default: unknown }>('./data/questio
 const generalitesChunkImporters = import.meta.glob<{ default: unknown }>('./data/questions/generalites/**/*.json');
 const questionsCache = new Map<string, DatasetLoadResult>();
 const generalitesChunkCache = new Map<string, QuizQuestion[]>();
+
+interface PerfMeasure {
+  label: string;
+  duration: number;
+  meta?: Record<string, unknown>;
+}
+
+function upsertBoundedCacheEntry<K, V>(cache: Map<K, V>, key: K, value: V, limit: number): void {
+  if (cache.has(key)) {
+    cache.delete(key);
+  }
+  cache.set(key, value);
+  while (cache.size > limit) {
+    const oldestKey = cache.keys().next().value as K | undefined;
+    if (oldestKey === undefined) {
+      break;
+    }
+    cache.delete(oldestKey);
+  }
+}
 
 function isGeneralBook(book: QuizBook | null): boolean {
   return !!book && book.id === 'generalitebible';
@@ -135,6 +163,7 @@ async function loadQuestionsForBook(book: QuizBook, difficulty: Difficulty): Pro
   const cacheKey = `${book.id}:${difficulty}`;
   const fromCache = questionsCache.get(cacheKey);
   if (fromCache) {
+    upsertBoundedCacheEntry(questionsCache, cacheKey, fromCache, QUESTIONS_CACHE_LIMIT);
     return fromCache;
   }
 
@@ -150,14 +179,12 @@ async function loadQuestionsForBook(book: QuizBook, difficulty: Difficulty): Pro
   }
 
   const rawQuestions = mod.default as unknown[];
-  const sanitized = sanitizeQuestions(rawQuestions);
   const result: DatasetLoadResult = {
     modulePath,
     rawCount: rawQuestions.length,
-    validCount: sanitized.length,
-    questions: sanitized
+    rawQuestions
   };
-  questionsCache.set(cacheKey, result);
+  upsertBoundedCacheEntry(questionsCache, cacheKey, result, QUESTIONS_CACHE_LIMIT);
   return result;
 }
 
@@ -215,7 +242,6 @@ export default function App() {
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
   const [correctCount, setCorrectCount] = useState(0);
   const [difficulty, setDifficulty] = useState<Difficulty>('normal');
-  const [timeLeft, setTimeLeft] = useState(DIFFICILE_TIME_LIMIT_SECONDS);
   const [theme, setTheme] = useState<'light' | 'dark'>(getSavedTheme());
   const [isOffline, setIsOffline] = useState(typeof navigator !== 'undefined' ? !navigator.onLine : false);
   const [authGate, setAuthGate] = useState<AuthGateState>(requireLogin ? 'checking' : 'open');
@@ -223,7 +249,6 @@ export default function App() {
   const [simpleAuthError, setSimpleAuthError] = useState<string | null>(null);
   const [isSimpleAuthSubmitting, setIsSimpleAuthSubmitting] = useState(false);
 
-  const [questionPool, setQuestionPool] = useState<QuizQuestion[] | null>(null);
   const [questions, setQuestions] = useState<QuizQuestion[]>([]);
   const [selectedSessionSize, setSelectedSessionSize] = useState<SessionSizePreference>(30);
 
@@ -243,9 +268,35 @@ export default function App() {
   const isPreparingRef = useRef(false);
   const previousScreenRef = useRef<ScreenState>('books');
   const appStartTimeRef = useRef(nowInMs());
+  const perfStartsRef = useRef(new Map<string, number>());
+  const firstQuestionClickStartRef = useRef<number | null>(null);
+  const loginShownRef = useRef(false);
+  const authResolvedRef = useRef(false);
+
+  const startPerf = useCallback((label: string) => {
+    if (!debugPerf) {
+      return;
+    }
+    perfStartsRef.current.set(label, nowInMs());
+  }, []);
+
+  const endPerf = useCallback((label: string, meta?: Record<string, unknown>): PerfMeasure | null => {
+    if (!debugPerf) {
+      return null;
+    }
+    const start = perfStartsRef.current.get(label);
+    if (typeof start !== 'number') {
+      return null;
+    }
+    const duration = Math.round(nowInMs() - start);
+    const measure: PerfMeasure = { label, duration, meta };
+    console.info(`[PERF] ${label}: ${duration}ms`, meta ?? {});
+    perfStartsRef.current.delete(label);
+    return measure;
+  }, []);
 
   const traceDev = useCallback((event: string, payload?: Record<string, unknown>) => {
-    if (!isDev) {
+    if (!debugPerf) {
       return;
     }
 
@@ -274,13 +325,26 @@ export default function App() {
   }, [clearPoolErrorTimer, traceDev]);
 
   useEffect(() => {
+    startPerf('app-mount');
+    const rafId = window.requestAnimationFrame(() => {
+      endPerf('app-mount');
+    });
+    return () => window.cancelAnimationFrame(rafId);
+  }, [endPerf, startPerf]);
+
+  useEffect(() => {
     document.documentElement.classList.toggle('dark', theme === 'dark');
     saveTheme(theme);
   }, [theme]);
 
   useEffect(() => {
+    startPerf('auth-gate-resolution');
     if (!requireLogin) {
       setAuthGate('open');
+      if (!authResolvedRef.current) {
+        authResolvedRef.current = true;
+        endPerf('auth-gate-resolution', { mode: 'no-login-required', gate: 'open' });
+      }
       return;
     }
 
@@ -288,6 +352,10 @@ export default function App() {
       const isAuthenticated = typeof window !== 'undefined' && window.localStorage.getItem(SIMPLE_AUTH_STORAGE_KEY) === 'true';
       setIdentityUser(isAuthenticated ? { id: 'simple-auth-user' } : null);
       setAuthGate(isAuthenticated ? 'open' : 'login-required');
+      if (!authResolvedRef.current) {
+        authResolvedRef.current = true;
+        endPerf('auth-gate-resolution', { mode: 'simple-auth', gate: isAuthenticated ? 'open' : 'login-required' });
+      }
       return;
     }
 
@@ -295,6 +363,10 @@ export default function App() {
     const identity = getNetlifyIdentity();
     if (!identity) {
       setAuthGate('open');
+      if (!authResolvedRef.current) {
+        authResolvedRef.current = true;
+        endPerf('auth-gate-resolution', { mode: 'identity-missing', gate: 'open' });
+      }
       return;
     }
 
@@ -305,6 +377,10 @@ export default function App() {
       const normalized = user instanceof Error ? null : (user ?? null);
       setIdentityUser(normalized);
       setAuthGate(normalized ? 'open' : 'login-required');
+      if (!authResolvedRef.current) {
+        authResolvedRef.current = true;
+        endPerf('auth-gate-resolution', { mode: 'identity-init', gate: normalized ? 'open' : 'login-required' });
+      }
     };
 
     const onLogin = (user?: IdentityUser | Error | null) => {
@@ -330,6 +406,10 @@ export default function App() {
         return;
       }
       setAuthGate('open');
+      if (!authResolvedRef.current) {
+        authResolvedRef.current = true;
+        endPerf('auth-gate-resolution', { mode: 'identity-error', gate: 'open' });
+      }
     };
 
     const initIdentity = async () => {
@@ -340,6 +420,10 @@ export default function App() {
 
       if (!enabled) {
         setAuthGate('open');
+        if (!authResolvedRef.current) {
+          authResolvedRef.current = true;
+          endPerf('auth-gate-resolution', { mode: 'identity-disabled', gate: 'open' });
+        }
         return;
       }
 
@@ -352,6 +436,10 @@ export default function App() {
       if (existingUser) {
         setIdentityUser(existingUser);
         setAuthGate('open');
+        if (!authResolvedRef.current) {
+          authResolvedRef.current = true;
+          endPerf('auth-gate-resolution', { mode: 'identity-existing-user', gate: 'open' });
+        }
       }
     };
 
@@ -412,8 +500,16 @@ export default function App() {
   }, [selectedBookId]);
 
   useEffect(() => {
+    if (requireLogin && authGate !== 'open') {
+      if (loadingAbortRef.current) {
+        loadingAbortRef.current.abort();
+      }
+      setPoolError(null);
+      setIsLoadingPool(false);
+      return;
+    }
+
     if (!selectedBookId || !selectedBook) {
-      setQuestionPool(null);
       setPoolError(null);
       setIsLoadingPool(false);
       if (isDev) {
@@ -423,7 +519,6 @@ export default function App() {
     }
 
     if (isGeneralBook(selectedBook)) {
-      setQuestionPool(null);
       setPoolError(null);
       setIsLoadingPool(false);
       return;
@@ -435,8 +530,8 @@ export default function App() {
     setIsLoadingPool(true);
     clearPoolErrorTimer();
     setPoolError(null);
-    setQuestionPool(null);
-    traceDev('startLoad', { source: 'book-pool', requestId, bookId: selectedBook.id, difficulty });
+    startPerf(`book-load:${requestId}`);
+    traceDev('startLoad', { source: 'book-pool', requestId, bookId: selectedBook.id, difficulty, rawOnly: true });
 
     loadQuestionsForBook(selectedBook, difficulty)
       .then((result) => {
@@ -451,22 +546,21 @@ export default function App() {
             difficulty,
             modulePath: result.modulePath,
             rawCount: result.rawCount,
-            validCount: result.validCount,
+            validCount: 0,
             errorDetails: null
           });
         }
-
-        if (result.validCount === 0) {
-          throw new Error(`Aucune question valide trouvée dans ${result.modulePath}`);
-        }
-
-        setQuestionPool(result.questions);
+        endPerf(`book-load:${requestId}`, {
+          bookId: selectedBook.id,
+          rawCount: result.rawCount,
+          validCount: 'deferred'
+        });
         traceDev('loadSuccess', {
           source: 'book-pool',
           requestId,
           bookId: selectedBook.id,
           rawCount: result.rawCount,
-          validCount: result.validCount
+          validCount: 'deferred'
         });
       })
       .catch((error) => {
@@ -523,10 +617,13 @@ export default function App() {
     return () => {
       active = false;
     };
-  }, [difficulty, selectedBook, selectedBookId]);
+  }, [authGate, difficulty, endPerf, requireLogin, selectedBook, selectedBookId, startPerf]);
 
   const startSessionPreparation = async (showQuizLoader = false) => {
     if (!selectedBook) {
+      return;
+    }
+    if (requireLogin && authGate !== 'open') {
       return;
     }
 
@@ -546,12 +643,12 @@ export default function App() {
     setCurrentIndex(0);
     setSelectedIndex(null);
     setCorrectCount(0);
-    setTimeLeft(DIFFICILE_TIME_LIMIT_SECONDS);
 
     if (showQuizLoader) {
       setScreen('quiz');
     }
 
+    startPerf(`session-prep:${token}`);
     traceDev('startSession', {
       token,
       bookId: selectedBook.id,
@@ -561,12 +658,13 @@ export default function App() {
     });
 
     try {
-      let poolForSession = questionPool;
+      let prepared: QuizQuestion[] = [];
 
       if (isGeneralBook(selectedBook)) {
         const controller = new AbortController();
         loadingAbortRef.current = controller;
         setLoadingProgress(null);
+        startPerf(`session-load:${token}`);
         traceDev('startLoad', { source: 'generalites', token, difficulty, selectedSessionSize });
 
         const progressHandler = (progress: GeneralitesProgress) => {
@@ -581,7 +679,7 @@ export default function App() {
           );
         };
 
-        poolForSession = await loadGeneralitesQuestions({
+        const poolForSession = await loadGeneralitesQuestions({
           difficulty,
           limit: selectedSessionSize,
           importers: generalitesChunkImporters,
@@ -596,20 +694,79 @@ export default function App() {
           token,
           loadedQuestions: poolForSession.length
         });
-      } else if (!poolForSession) {
-        throw new Error('Le dataset du livre est introuvable.');
+        endPerf(`session-load:${token}`, {
+          source: 'generalites',
+          loadedQuestions: poolForSession.length
+        });
+        const options = { limit: selectedSessionSize, shuffle: true as const };
+        prepared = buildSession(poolForSession, options);
+      } else {
+        startPerf(`session-load:${token}`);
+        const dataset = await loadQuestionsForBook(selectedBook, difficulty);
+        const options = { limit: selectedSessionSize, shuffle: true as const };
+
+        if (selectedSessionSize === 'all') {
+          setLoadingLabel('Validation progressive des questions...');
+          setLoadingProgress({ current: 0, total: dataset.rawQuestions.length });
+          const sanitized = await sanitizeQuestionsProgressive(dataset.rawQuestions, {
+            batchSize: 200,
+            onProgress: (progress) => {
+              if (prepTokenRef.current !== token) {
+                return;
+              }
+              setLoadingProgress({ current: progress.processed, total: progress.total });
+              setLoadingLabel(`Validation des questions (${progress.valid} valides)...`);
+            }
+          });
+          prepared = await prepareWithYield(() => buildSession(sanitized, options));
+          if (isDev) {
+            setDebugInfo({
+              bookId: selectedBook.id,
+              difficulty,
+              modulePath: dataset.modulePath,
+              rawCount: dataset.rawCount,
+              validCount: sanitized.length,
+              errorDetails: null
+            });
+          }
+          traceDev('loadSuccess', {
+            source: 'book-session-all',
+            token,
+            bookId: selectedBook.id,
+            rawCount: dataset.rawCount,
+            validCount: sanitized.length
+          });
+          endPerf(`session-load:${token}`, {
+            source: 'book-all',
+            rawCount: dataset.rawCount,
+            validCount: sanitized.length
+          });
+        } else {
+          prepared = await prepareWithYield(() => buildSessionFromUnknown(dataset.rawQuestions, options));
+          if (isDev) {
+            setDebugInfo((prev) => ({
+              bookId: selectedBook.id,
+              difficulty,
+              modulePath: dataset.modulePath,
+              rawCount: dataset.rawCount,
+              validCount: prev?.validCount ?? prepared.length,
+              errorDetails: null
+            }));
+          }
+          traceDev('loadSuccess', {
+            source: 'book-session-partial',
+            token,
+            bookId: selectedBook.id,
+            rawCount: dataset.rawCount,
+            validCount: prepared.length
+          });
+          endPerf(`session-load:${token}`, {
+            source: 'book-partial',
+            rawCount: dataset.rawCount,
+            validCount: prepared.length
+          });
+        }
       }
-
-      if (!poolForSession || poolForSession.length === 0) {
-        throw new Error('Aucune question disponible pour cette session.');
-      }
-
-      const options = { limit: selectedSessionSize, shuffle: true as const };
-      const shouldYield = selectedSessionSize === 'all' && poolForSession.length > 500;
-
-      const prepared = shouldYield
-        ? await prepareWithYield(() => buildSession(poolForSession, options))
-        : buildSession(poolForSession, options);
 
       if (prepTokenRef.current !== token) {
         return;
@@ -626,6 +783,10 @@ export default function App() {
 
       setQuestions(finalQuestions);
       setScreen('quiz');
+      endPerf(`session-prep:${token}`, {
+        questionCount: finalQuestions.length,
+        selectedSessionSize
+      });
     } catch (error) {
       if (!isLatestRequest(prepTokenRef.current, token)) {
         traceDev('loadError:ignored', { source: 'session-load', token, reason: 'stale-request' });
@@ -681,6 +842,7 @@ export default function App() {
         bookId: selectedBook.id,
         details: errorDetails
       });
+      endPerf(`session-prep:${token}`, { status: 'error' });
       setScreen('session-size');
     } finally {
       if (prepTokenRef.current === token) {
@@ -694,59 +856,7 @@ export default function App() {
 
   const currentQuestion = questions[currentIndex];
 
-  useEffect(() => {
-    if (screen !== 'quiz' || difficulty !== 'difficile' || !currentQuestion || selectedIndex !== null) {
-      return;
-    }
-
-    const cycle = timerCycleRef.current;
-
-    if (timeLeft <= 0) {
-      const isLastQuestion = currentIndex >= questions.length - 1;
-      if (isLastQuestion) {
-        const percent = computeScore(correctCount, questions.length);
-        if (selectedBookId) {
-          saveBestScore(`${selectedBookId}:${difficulty}`, percent);
-        }
-        setScreen('result');
-        return;
-      }
-
-      setCurrentIndex((prev) => prev + 1);
-      setSelectedIndex(null);
-      return;
-    }
-
-    const timer = window.setTimeout(() => {
-      if (cycle !== timerCycleRef.current) {
-        return;
-      }
-      setTimeLeft((prev) => (prev > 0 ? prev - 1 : 0));
-    }, 1000);
-
-    return () => window.clearTimeout(timer);
-  }, [
-    correctCount,
-    currentIndex,
-    currentQuestion,
-    difficulty,
-    questions.length,
-    screen,
-    selectedBookId,
-    selectedIndex,
-    timeLeft
-  ]);
-
-  useEffect(() => {
-    if (screen !== 'quiz' || difficulty !== 'difficile' || !currentQuestion || selectedIndex !== null) {
-      return;
-    }
-
-    timerCycleRef.current += 1;
-    setTimeLeft(DIFFICILE_TIME_LIMIT_SECONDS);
-  }, [currentQuestion, difficulty, screen, selectedIndex]);
-
-  const handleSelectBook = (bookId: string) => {
+  const handleSelectBook = useCallback((bookId: string) => {
     const book = books.find((item) => item.id === bookId) ?? null;
     if (!book) {
       return;
@@ -769,22 +879,23 @@ export default function App() {
     setCurrentIndex(0);
     setSelectedIndex(null);
     setCorrectCount(0);
-    setTimeLeft(DIFFICILE_TIME_LIMIT_SECONDS);
     setPoolError(null);
 
     const defaultSize = isGeneralBook(book) ? getLastGeneralSessionSize() : getLastBookSessionSize();
     setSelectedSessionSize(defaultSize);
     setScreen('session-size');
-  };
+  }, [clearPoolErrorTimer, difficulty, traceDev]);
 
-  const handleSessionSizeSelect = (size: SessionSizePreference) => {
+  const handleSessionSizeSelect = useCallback((size: SessionSizePreference) => {
     setSelectedSessionSize(size);
-  };
+  }, []);
 
-  const handleStartSession = () => {
+  const handleStartSession = useCallback(() => {
     if (!selectedBook) {
       return;
     }
+    firstQuestionClickStartRef.current = nowInMs();
+    startPerf('click-to-first-question');
 
     if (isGeneralBook(selectedBook)) {
       saveLastGeneralSessionSize(selectedSessionSize);
@@ -793,9 +904,9 @@ export default function App() {
     }
 
     void startSessionPreparation(false);
-  };
+  }, [selectedBook, selectedSessionSize, startPerf, startSessionPreparation]);
 
-  const handleChoice = (choiceIndex: number) => {
+  const handleChoice = useCallback((choiceIndex: number) => {
     if (!currentQuestion || selectedIndex !== null) {
       return;
     }
@@ -804,9 +915,9 @@ export default function App() {
     if (choiceIndex === currentQuestion.correctIndex) {
       setCorrectCount((prev) => prev + 1);
     }
-  };
+  }, [currentQuestion, selectedIndex]);
 
-  const handleNext = () => {
+  const handleNext = useCallback(() => {
     if (!currentQuestion || selectedIndex === null) {
       return;
     }
@@ -822,11 +933,31 @@ export default function App() {
     }
 
     setCurrentIndex((prev) => prev + 1);
+    timerCycleRef.current += 1;
     setSelectedIndex(null);
-    setTimeLeft(DIFFICILE_TIME_LIMIT_SECONDS);
-  };
+  }, [correctCount, currentIndex, currentQuestion, difficulty, questions.length, selectedBookId, selectedIndex]);
 
-  const handleBackToBooks = () => {
+  const handleTimeExpired = useCallback(() => {
+    if (!currentQuestion || selectedIndex !== null) {
+      return;
+    }
+
+    const isLastQuestion = currentIndex >= questions.length - 1;
+    if (isLastQuestion) {
+      const percent = computeScore(correctCount, questions.length);
+      if (selectedBookId) {
+        saveBestScore(`${selectedBookId}:${difficulty}`, percent);
+      }
+      setScreen('result');
+      return;
+    }
+
+    setCurrentIndex((prev) => prev + 1);
+    timerCycleRef.current += 1;
+    setSelectedIndex(null);
+  }, [correctCount, currentIndex, currentQuestion, difficulty, questions.length, selectedBookId, selectedIndex]);
+
+  const handleBackToBooks = useCallback(() => {
     if (loadingAbortRef.current) {
       traceDev('abort', { source: 'session-load', reason: 'back-to-books' });
       loadingAbortRef.current.abort();
@@ -839,28 +970,27 @@ export default function App() {
     setCurrentIndex(0);
     setSelectedIndex(null);
     setCorrectCount(0);
-    setTimeLeft(DIFFICILE_TIME_LIMIT_SECONDS);
     setPoolError(null);
     setLoadingLabel(null);
     setLoadingProgress(null);
     setIsPreparing(false);
     setScreen('books');
-  };
+  }, [clearPoolErrorTimer, traceDev]);
 
-  const handleGoHome = () => {
+  const handleGoHome = useCallback(() => {
     handleBackToBooks();
-  };
+  }, [handleBackToBooks]);
 
-  const handleLogin = () => {
+  const handleLogin = useCallback(() => {
     setSimpleAuthError(null);
     const identity = getNetlifyIdentity();
     if (!identity) {
       return;
     }
     identity.open('login');
-  };
+  }, []);
 
-  const handleSimpleLogin = ({ username, password }: { username: string; password: string }) => {
+  const handleSimpleLogin = useCallback(({ username, password }: { username: string; password: string }) => {
     setIsSimpleAuthSubmitting(true);
     setSimpleAuthError(null);
 
@@ -881,9 +1011,9 @@ export default function App() {
     setIdentityUser({ id: 'simple-auth-user' });
     setAuthGate('open');
     setIsSimpleAuthSubmitting(false);
-  };
+  }, []);
 
-  const handleLogout = () => {
+  const handleLogout = useCallback(() => {
     if (useSimpleAuth) {
       window.localStorage.removeItem(SIMPLE_AUTH_STORAGE_KEY);
       setIdentityUser(null);
@@ -904,23 +1034,26 @@ export default function App() {
     if (requireLogin) {
       setAuthGate('login-required');
     }
-  };
+  }, []);
 
-  const handleRestart = () => {
+  const handleRestart = useCallback(() => {
     void startSessionPreparation(true);
-  };
+  }, [startSessionPreparation]);
 
-  const handleCancelLoading = () => {
+  const handleCancelLoading = useCallback(() => {
     if (loadingAbortRef.current) {
       traceDev('abort', { source: 'session-load', reason: 'cancel-button' });
       loadingAbortRef.current.abort();
     }
-  };
+  }, [traceDev]);
 
-  const currentBestScore = selectedBookId ? getBestScore(`${selectedBookId}:${difficulty}`) : 0;
+  const currentBestScore = useMemo(
+    () => (selectedBookId ? getBestScore(`${selectedBookId}:${difficulty}`) : 0),
+    [difficulty, selectedBookId]
+  );
   const incorrectCount = questions.length - correctCount;
-  const playedCount = currentIndex + (selectedIndex !== null ? 1 : 0);
-  const liveIncorrectCount = Math.max(0, playedCount - correctCount);
+  const playedCount = useMemo(() => currentIndex + (selectedIndex !== null ? 1 : 0), [currentIndex, selectedIndex]);
+  const liveIncorrectCount = useMemo(() => Math.max(0, playedCount - correctCount), [correctCount, playedCount]);
   const isGeneralSelected = isGeneralBook(selectedBook);
 
   let seoTitle = 'Quiz Biblique - Louis Segond 1910';
@@ -941,6 +1074,32 @@ export default function App() {
 
   const showLoginView = requireLogin && authGate !== 'open';
   const showLogoutButton = requireLogin && (authGate === 'open' || identityUser !== null);
+
+  useEffect(() => {
+    if (!showLoginView || loginShownRef.current) {
+      return;
+    }
+    loginShownRef.current = true;
+    startPerf('login-view-display');
+    const frame = window.requestAnimationFrame(() => {
+      endPerf('login-view-display');
+    });
+    return () => window.cancelAnimationFrame(frame);
+  }, [endPerf, showLoginView, startPerf]);
+
+  useEffect(() => {
+    if (screen !== 'quiz' || !currentQuestion || firstQuestionClickStartRef.current === null) {
+      return;
+    }
+    const elapsed = Math.round(nowInMs() - firstQuestionClickStartRef.current);
+    traceDev('firstQuestionReady', { elapsedMs: elapsed, bookId: selectedBookId, difficulty });
+    endPerf('click-to-first-question', {
+      elapsedMs: elapsed,
+      bookId: selectedBookId,
+      difficulty
+    });
+    firstQuestionClickStartRef.current = null;
+  }, [currentQuestion, difficulty, endPerf, screen, selectedBookId, traceDev]);
 
   return (
     <main className="min-h-screen bg-gradient-to-br from-sky-100 via-cyan-50 to-blue-100 px-4 py-6 text-slate-900 dark:text-slate-100 sm:px-6 sm:py-8">
@@ -1032,13 +1191,15 @@ export default function App() {
           index={currentIndex}
           total={questions.length}
           difficulty={difficulty}
-          timeLeft={difficulty === 'difficile' && selectedIndex === null ? timeLeft : null}
+          timeLimitSeconds={DIFFICILE_TIME_LIMIT_SECONDS}
+          timerSeed={timerCycleRef.current}
           selectedIndex={selectedIndex}
           playedCount={playedCount}
           correctCount={correctCount}
           incorrectCount={liveIncorrectCount}
           onSelectChoice={handleChoice}
           onNext={handleNext}
+          onTimeExpired={handleTimeExpired}
         />
       ) : null}
 

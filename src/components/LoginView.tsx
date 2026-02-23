@@ -1,4 +1,4 @@
-import { FormEvent, useState } from 'react';
+import { FormEvent, memo, useState } from 'react';
 
 interface LoginViewProps {
   isChecking: boolean;
@@ -9,7 +9,7 @@ interface LoginViewProps {
   onSimpleLogin: (credentials: { username: string; password: string }) => void;
 }
 
-export function LoginView({
+export const LoginView = memo(function LoginView({
   isChecking,
   isSimpleAuth,
   isSubmitting,
@@ -93,4 +93,4 @@ export function LoginView({
       )}
     </section>
   );
-}
+});

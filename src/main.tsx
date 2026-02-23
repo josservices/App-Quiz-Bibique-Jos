@@ -6,9 +6,12 @@ import App from './App';
 import './styles.css';
 
 registerSW({
-  immediate: true,
+  immediate: false,
   onRegisteredSW(swUrl) {
     console.info(`Service Worker enregistré: ${swUrl}`);
+  },
+  onNeedRefresh() {
+    console.info('Mise à jour disponible. Rechargez la page pour appliquer la nouvelle version.');
   },
   onOfflineReady() {
     console.info('Application prête pour un usage hors ligne.');

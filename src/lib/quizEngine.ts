@@ -29,6 +29,12 @@ export interface BuildSessionOptions {
   shuffle?: boolean;
 }
 
+export interface SanitizeProgress {
+  processed: number;
+  total: number;
+  valid: number;
+}
+
 const FALLBACK_CHOICE = 'Aucune de ces réponses';
 
 function normalizeChoicesAndIndex(
@@ -109,6 +115,97 @@ export function sanitizeQuestion(value: unknown): QuizQuestion | null {
 
 export function sanitizeQuestions(questions: unknown[]): QuizQuestion[] {
   return questions.map(sanitizeQuestion).filter((question): question is QuizQuestion => question !== null);
+}
+
+function defaultYieldControl(): Promise<void> {
+  return new Promise((resolve) => {
+    if (typeof window !== 'undefined' && 'requestIdleCallback' in window) {
+      const idle = (window as Window & { requestIdleCallback: (cb: () => void) => number }).requestIdleCallback;
+      idle(() => resolve());
+      return;
+    }
+    globalThis.setTimeout(resolve, 0);
+  });
+}
+
+export async function sanitizeQuestionsProgressive(
+  questions: unknown[],
+  options?: {
+    batchSize?: number;
+    onProgress?: (progress: SanitizeProgress) => void;
+    yieldControl?: () => Promise<void>;
+  }
+): Promise<QuizQuestion[]> {
+  const batchSize = Math.max(25, options?.batchSize ?? 250);
+  const yieldControl = options?.yieldControl ?? defaultYieldControl;
+  const sanitized: QuizQuestion[] = [];
+
+  for (let index = 0; index < questions.length; index += batchSize) {
+    const end = Math.min(index + batchSize, questions.length);
+    for (let cursor = index; cursor < end; cursor += 1) {
+      const normalized = sanitizeQuestion(questions[cursor]);
+      if (normalized) {
+        sanitized.push(normalized);
+      }
+    }
+
+    options?.onProgress?.({
+      processed: end,
+      total: questions.length,
+      valid: sanitized.length
+    });
+
+    if (end < questions.length) {
+      await yieldControl();
+    }
+  }
+
+  return sanitized;
+}
+
+function pickRandomIndices(total: number, count: number): number[] {
+  const indexes = Array.from({ length: total }, (_, index) => index);
+  for (let i = total - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [indexes[i], indexes[j]] = [indexes[j], indexes[i]];
+  }
+  return indexes.slice(0, count);
+}
+
+export function buildSessionFromUnknown(questions: unknown[], options: BuildSessionOptions): QuizQuestion[] {
+  if (questions.length === 0) {
+    throw new Error('Aucune question valide disponible pour cette session.');
+  }
+
+  if (options.limit === 'all') {
+    return buildSession(sanitizeQuestions(questions), options);
+  }
+
+  const requestedLimit = Math.max(1, options.limit);
+  const indexOrder = pickRandomIndices(questions.length, questions.length);
+  const selected: QuizQuestion[] = [];
+
+  for (const index of indexOrder) {
+    const normalized = sanitizeQuestion(questions[index]);
+    if (!normalized) {
+      continue;
+    }
+    selected.push(normalized);
+    if (selected.length >= requestedLimit) {
+      break;
+    }
+  }
+
+  if (selected.length === 0) {
+    throw new Error('Aucune question valide disponible pour cette session.');
+  }
+
+  const shuffle = options.shuffle ?? true;
+  if (shuffle) {
+    shuffleInPlace(selected);
+  }
+
+  return selected;
 }
 
 function isValidQuestion(value: unknown): value is QuizQuestion {

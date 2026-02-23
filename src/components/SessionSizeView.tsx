@@ -1,3 +1,4 @@
+import { memo } from 'react';
 import type { QuizBook } from '../lib/quizEngine';
 import type { SessionSizePreference } from '../lib/storage';
 
@@ -20,7 +21,7 @@ function labelForSize(size: SessionSizePreference): string {
   return size === 'all' ? 'Toutes les questions' : `${size} questions`;
 }
 
-export function SessionSizeView({
+export const SessionSizeView = memo(function SessionSizeView({
   book,
   options,
   selected,
@@ -65,32 +66,32 @@ export function SessionSizeView({
         ))}
       </div>
 
-      {isLoadingPool ? (
-        <p className="mt-5 text-sm font-semibold text-slate-700 dark:text-slate-200">
-          Chargement des questions...
-        </p>
-      ) : null}
+      <div className="mt-5 min-h-20">
+        {isLoadingPool ? (
+          <p className="text-sm font-semibold text-slate-700 dark:text-slate-200">Chargement des questions...</p>
+        ) : null}
 
-      {isPreparing ? (
-        <div className="mt-2 space-y-2">
-          <p className="text-sm font-semibold text-cyan-700 dark:text-cyan-300">
-            {loadingLabel ?? 'Préparation de la session en cours...'}
-          </p>
-          {loadingProgress && loadingProgress.total > 0 ? (
-            <div>
-              <div className="h-2 w-full overflow-hidden rounded-full bg-cyan-100 dark:bg-slate-800">
-                <div
-                  className="h-full rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 transition-all duration-300"
-                  style={{ width: `${progressPercent}%` }}
-                />
+        {isPreparing ? (
+          <div className="mt-2 space-y-2">
+            <p className="text-sm font-semibold text-cyan-700 dark:text-cyan-300">
+              {loadingLabel ?? 'Préparation de la session en cours...'}
+            </p>
+            {loadingProgress && loadingProgress.total > 0 ? (
+              <div>
+                <div className="h-2 w-full overflow-hidden rounded-full bg-cyan-100 dark:bg-slate-800">
+                  <div
+                    className="h-full rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 transition-all duration-300"
+                    style={{ width: `${progressPercent}%` }}
+                  />
+                </div>
+                <p className="mt-1 text-xs font-semibold text-slate-600 dark:text-slate-300">
+                  Chargement {loadingProgress.current}/{loadingProgress.total}
+                </p>
               </div>
-              <p className="mt-1 text-xs font-semibold text-slate-600 dark:text-slate-300">
-                Chargement {loadingProgress.current}/{loadingProgress.total}
-              </p>
-            </div>
-          ) : null}
-        </div>
-      ) : null}
+            ) : null}
+          </div>
+        ) : null}
+      </div>
 
       {poolError ? (
         <p className="mt-4 rounded-xl border border-rose-300 bg-rose-50 p-3 text-sm font-semibold text-rose-700 dark:border-rose-700 dark:bg-rose-950/30 dark:text-rose-200">
@@ -124,4 +125,4 @@ export function SessionSizeView({
       </div>
     </section>
   );
-}
+});
